@@ -48,7 +48,7 @@ Fabrik 1945 endete die Geschichte des Kanonenbohrwerks. Heute steht auf dem Grun
 ### Zum Türmchen
 
 Das wegen seines charakteristischen Dachreiters “Türmchen” genannte Gasthaus befand sich bis 1895 auf dem Areal, welches heute von den ausgedehnten Gleisanlagen der Deutschen Bahn unterhalb der Nossener Brücke
-eingenommen wird. Ab 1845 führte hier die Bahnstrecke der [Albertbahn](/web/20220628091216/https://www.dresdner-stadtteile.de/Sud/Plauen/Plauenscher_Grund/Albertbahn/albertbahn.html) vorbei. Im Zuge des Ausbaus der Bahnstrecke
+eingenommen wird. Ab 1845 führte hier die Bahnstrecke der [Albertbahn](/sud/plauen/plauenscher_grund/albertbahn/) vorbei. Im Zuge des Ausbaus der Bahnstrecke
 und der Anlage des Hauptbahnhofes wurden die Gebäude angerissen und der Weißeritzmühlgraben in diesem Abschnitt unterirdisch verlegt.
 
 ### Würzmühle
@@ -104,5 +104,5 @@ Die bereits 1588 entstandene Schmelzmühle befand sich an der Kleinen Packhofstr
 wieder aufgebaut. Erst 1929/30 musste auch diese Mühle der Umgestaltung des Packhofviertels weichen.
 
 
-[Private Homepage zum Weißeritzmühlgraben](http://www.weisseritzmuehlgraben.de/)
+[Private Homepage zum Weißeritzmühlgraben](httpa://www.weisseritzmuehlgraben.de/)
 
