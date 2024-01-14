@@ -6,12 +6,7 @@ weight: 20
 
 # Kesselsdorfer Straße
 
-![](/web/20220302092405im_/https://www.dresdner-stadtteile.de/Sudwest/Lobtau/Strassen_Lobtau/Kesselsdorfer_Strasse/l_btaukesselsdorfer1.jpg)Die Kesselsdorfer Straße bestand schon gegen Ende des 12. Jahrhunderts als Teil
-einer alten Verbindungsstraße zwischen dem Kloster Nossen und dem [Klosterhof](/web/20220302092405/https://www.dresdner-stadtteile.de/Sudost/Leubnitz-Neuostra/Klosterhof/klosterhof.html) in
-Leubnitz. Zugleich verband sie die Stadt Dresden mit dem bedeutenden Bergbauzentrum um Freiberg. Ursprünglich wurde sie als “Freybergische Straße”
-bezeichnet und gehört zu den wichtigsten alten Fernstraßen im Dresdner Raum. August der Starke ließ sie um 1720 zur Poststraße ausbauen und mit Postmeilensäulen
-versehen, von denen jedoch keine erhalten blieb. 1704 entstand in diesem Zusammenhang an Stelle einer hölzernen Vorgängerin eine steinerne [Brücke](/web/20220302092405/https://www.dresdner-stadtteile.de/Sudwest/Lobtau/Strassen_Lobtau/Lobtauer_Brucken/lobtauer_brucken.html) über die Weißeritz. Als Hauptverkehrsverbindung ins Erzgebirge wurde sie 1767 “Gebürgische
-Hauptstraße” genannt. Noch bis zum Ende des 19. Jahrhunderts erinnerte eine Wegsäule in der Nähe der Kreuzung mit der Tharandter und Löbtauer Straße an die Bedeutung dieses Verkehrsweges.
+Die Kesselsdorfer Straße bestand schon gegen Ende des 12. Jahrhunderts als Teil einer alten Verbindungsstraße zwischen dem Kloster Nossen und dem [Klosterhof](/sudost/leubnitz-neuostra/klosterhof/) in Leubnitz. Zugleich verband sie die Stadt Dresden mit dem bedeutenden Bergbauzentrum um Freiberg. Ursprünglich wurde sie als “Freybergische Straße” bezeichnet und gehört zu den wichtigsten alten Fernstraßen im Dresdner Raum. August der Starke ließ sie um 1720 zur Poststraße ausbauen und mit Postmeilensäulen versehen, von denen jedoch keine erhalten blieb. 1704 entstand in diesem Zusammenhang an Stelle einer hölzernen Vorgängerin eine steinerne [Brücke](/web/20220302092405/https://www.dresdner-stadtteile.de/Sudwest/Lobtau/Strassen_Lobtau/Lobtauer_Brucken/lobtauer_brucken.html) über die Weißeritz. Als Hauptverkehrsverbindung ins Erzgebirge wurde sie 1767 “Gebürgische Hauptstraße” genannt. Noch bis zum Ende des 19. Jahrhunderts erinnerte eine Wegsäule in der Nähe der Kreuzung mit der Tharandter und Löbtauer Straße an die Bedeutung dieses Verkehrsweges.
 
 ![](/web/20220302092405im_/https://www.dresdner-stadtteile.de/l_btaukesselsdorfer2.jpg)Zwischen 1810 und 1812 wurde die Straße im Auftrag Napoleons zur Chaussee
 ausgebaut und erhielt dabei im Wesentlichen ihren heutigen Verlauf. Ab 1871 trug sie zunächst den Namen Wilsdruffer Straße, ab 1904 Kesselsdorfer Straße. Dieser Name
@@ -19,9 +14,9 @@ wurde nach der Eingemeindung auch auf die Straßenabschnitte in Gorbitz (1926) u
 zum Straßenbahnhof Naußlitz verlängert. Bereits vor dem Zweiten Weltkrieg entwickelte sich die Kesselsdorfer Straße zum Stadtteilzentrum der westlichen
 Dresdner Vororte mit zahlreichen Geschäften und Gaststätten. Im unteren Teil _(Foto)_ fielen einige dieser Gebäude 1945 den Bombenangriffen zum Opfer, darunter der bekannte [“Drei-Kaiser-Hof”](/web/20220302092405/https://www.dresdner-stadtteile.de/Sudwest/Lobtau/Strassen_Lobtau/Kesselsdorfer_Strasse/Drei-Kaiser-Hof/drei-kaiser-hof.html) und die [“Musenhalle”](/web/20220302092405/https://www.dresdner-stadtteile.de/Sudwest/Lobtau/Strassen_Lobtau/Kesselsdorfer_Strasse/Musenhalle/musenhalle.html) an der Poststraße. Erst nach 1990 wurde mit der schrittweisen Schließung der Baulücken begonnen.
 
-Löbtau:
+## Löbtau:
 
-![](/web/20220302092405im_/https://www.dresdner-stadtteile.de/Sudwest/Lobtau/Strassen_Lobtau/Kesselsdorfer_Strasse/l_btaukesselsdorfer3.jpg)Vor allem der untere Teil der Kesselsdorfer Straße ist bis zur Gegenwart als Einkaufszentrum von Bedeutung. In der zweiten Hälfte des 19. Jahrhunderts entstanden hier zahlreiche Wohn- und Geschäftshäuser. Erwähnenswert sind u.a. das Kaufhaus des Konsumvereins “Vorwärts” (später Modehaus Schacht & Hödel - Nr. 22), das Schuhhaus Schleinitz (Nr. 14) sowie das Kaufhaus Möbius (Nr. 20), eine Filiale des bekannten Dresdner Großkaufhauses auf der Wilsdruffer Straße. Im Hintergebäude des letztgenannten Grundstücks gab es vor 1945 das Kino “Westend-Lichtspiele”. Zahlreiche Gebäude fielen 1945 den Bomben zum Opfer. Die entstandenen Baulücken konnten erst nach 1990 geschlossen werden.
+Vor allem der untere Teil der Kesselsdorfer Straße ist bis zur Gegenwart als Einkaufszentrum von Bedeutung. In der zweiten Hälfte des 19. Jahrhunderts entstanden hier zahlreiche Wohn- und Geschäftshäuser. Erwähnenswert sind u.a. das Kaufhaus des Konsumvereins “Vorwärts” (später Modehaus Schacht & Hödel - Nr. 22), das Schuhhaus Schleinitz (Nr. 14) sowie das Kaufhaus Möbius (Nr. 20), eine Filiale des bekannten Dresdner Großkaufhauses auf der Wilsdruffer Straße. Im Hintergebäude des letztgenannten Grundstücks gab es vor 1945 das Kino “Westend-Lichtspiele”. Zahlreiche Gebäude fielen 1945 den Bomben zum Opfer. Die entstandenen Baulücken konnten erst nach 1990 geschlossen werden.
 
 ![](/web/20220302092405im_/https://www.dresdner-stadtteile.de/Sudwest/Lobtau/Strassen_Lobtau/Kesselsdorfer_Strasse/L_btau_Chausseehaus.jpg)Chausseehaus: Das Gebäude entstand 1811 an der Ecke Kesselsdorfer/Tharandter Straße und diente der Erhebung des Chausseegeldes für die Benutzer dieser Straße. Anlass war der kurz zuvor erfolgte Ausbau der Straße, welcher über 17.800 Taler gekostet hatte. Das Haus wurde von G. F. Thormeyer entworfen und war mit über 20.000 Mark jährlicher Einnahme ergiebigstes Einnehmerhaus in Sachsen _(Bild)_. Neben den Expeditionsräumen gab es auch zwei Wohnungen und einen großen Garten, dessen Ertrag dem Chausseegeldeinnehmer ein zusätzliches Einkommen verschaffte. Mit Hilfe hölzerner Schlagbäume konnte die Straße abgesperrt und die Fuhrleute zur Zahlung der fälligen Gebühr veranlasst werden. Nach Aufhebung des Chausseegeldes am 31. Dezember 1885 verlor es seine Funktion und wurde wenige Jahre später abgebrochen.
 
@@ -86,7 +81,7 @@ Nr. 50:
 Das Eckhaus zur Rudolf-Renner-Straße entstand Ende des 19. Jahrhunderts. Am 15. Mai 1911 eröffnete hier der Apotheker Richard Bieber die Kronprinzenapotheke. 1945 übernahm Carl Ritter das Geschäft, welches in der
 Nachkriegszeit den Namen Robert-Koch-Apotheke erhielt und bis heute existiert.
 
-Naußlitz:
+## Naußlitz
 
 Die Bebauung der Kesselsdorfer Straße auf Naußlitzer Flur begann ab 1870, als hier erste Mietshäuser entstanden. Der
 abseits des Dorfkerns gelegene Ortsteil an der Kesselsdorfer und der Pietzschstraße wurde inoffiziell auch als Neu-Naußlitz bezeichnet. Auch hier gibt es bis heute verschiedene Geschäfte.
@@ -110,8 +105,7 @@ Plänen des Architekten Edmund Körner und besteht aus einem Verwaltungsgebäude
 frühere Straßenbahnhof bis zur Schließung 1996 als Busdepot. Nach dem Verkauf an eine private Investorengruppe entstand hier ein modernes Einkaufszentrum. Die
 frühere Wagenhalle wurde dabei mit Ausnahme der Außenwände abgerissen. Auf dem Dach befindet sich heute ein Parkdeck. Im denkmalgerecht sanierten Hauptgebäude sind seit 2005 Büros, Arztpraxen und Wohnungen untergebracht.
 
-
-Wölfnitz:
+## Wölfnitz
 
 ![](/web/20220302092405im_/https://www.dresdner-stadtteile.de/Sudwest/Lobtau/Strassen_Lobtau/Kesselsdorfer_Strasse/w_lfnitzgasthof.jpg)Gasthof Wölfnitz: Der Gasthof entstand um 1810 im Zusammenhang mit dem Ausbau der Kesselsdorfer Straße zur Chaussee und wurde 1816 erstmals erwähnt.
 Zu den Gästen gehörten vor allem Fuhrleute auf ihrem Weg nach Freiberg. 1879 ließ der Gastwirt Friedrich August Köhler einen großen Saal für verschiedene
@@ -119,7 +113,7 @@ Veranstaltungen anbauen. Für einen zusätzlichen Gästezuwachs sorgte die ab 1.
 “Filmbühne Wölfnitz” bezeichnetes Kino eingerichtet, wobei Teile der aus der zerstörten Musenhalle geretten Kinotechnik zum Einsatz kamen. Gelegentlich
 fanden außerdem Konzerte statt. Am 20. Februar 1985 zerstörte ein Brand den Kinosaal, woraufhin der Gasthof drei Jahre später dem Abbruch verfiel. An seiner Stelle befindet sich heute ein Supermarkt.
 
-Gorbitz:
+## Gorbitz
 
 ![](/web/20220302092405im_/https://www.dresdner-stadtteile.de/Sudwest/Lobtau/Strassen_Lobtau/Kesselsdorfer_Strasse/Gorbitzkesselsdstr116.jpg)Während im unteren Teil der Kesselsdorfer Straße ab 1880 zu beiden Seiten mehrgeschossige
 Wohn- und Geschäftshäuser entstanden, blieb die Gorbitzer Flur bis 1980 weitgehend unbebaut. Lediglich am Rande des Dorfkerns Niedergorbitz standen einige Bauerngüter und Mietshäuser.
@@ -184,13 +178,8 @@ Dachziegeln gewidmet hatte. 1972 wurde die Ziegelei zwangsweise verstaatlicht un
 Dresden eingegliedert. Trotz ausreichender Rohstoffvorräte entschloss man sich 1977, bedingt durch den starken Verschleiß
 der vorhandenen technischen Anlagen, zur Schließung der Ziegelei. Auf dem Areal entstand wenig später das Neubaugebiet Gorbitz.
 
-Gompitz:
+## Gompitz
 
 Oberhalb des Gorbitzer Hangs erreicht die Kesselsdorfer Straße die Fluren von Gompitz. Hier befindet sich u.a. der Ende des 19. Jahrhunderts erbaute [Gasthof Gompitz](/web/20220302092405/https://www.dresdner-stadtteile.de/Sudwest/Gompitz/gompitz.html), welcher heute als Schnitzel-Spezialitätenrestaurant “Schnizz” dient. Im
 Zusammenhang mit dem Ausbau der Straße zum Autobahnzubringer wurden 2007 die Wohnhäuser Kesselsdorfer Straße 306 bis 310 sowie Nr. 271, 275 und 277 abgerissen. Seit dem 29. November 2008 verkehrt parallel zur Straße die
 Straßenbahn bis zur Gleisschleife in Pennrich. Unterhalb der Gleistrasse entstand ein 75 Meter langer Tunnel mit zwei Röhren für den Autoverkehr.
-
-![](/web/20220302092405im_/https://www.dresdner-stadtteile.de/CubesDivider.gif)
-
-[![](/web/20220302092405im_/https://www.dresdner-stadtteile.de/werbunglang2.jpg)](/web/20220302092405/https://www.dresdner-stadtteile.de/Impressum/Werbung/werbung.html)
-
