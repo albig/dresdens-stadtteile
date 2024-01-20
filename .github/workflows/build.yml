@@ -21,11 +21,16 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.119.0'
+          hugo-version: '0.121.2'
           # extended: true
 
       - name: run Hugo
         run: hugo --minify
+
+      - name: echo debug hugo
+        run: |
+          pwd
+          ls -la
 
       - name: provide deploy_key
         env:
@@ -45,6 +50,11 @@ jobs:
             StrictHostKeyChecking no
           END
 
+      - name: echo debug hugo 2
+        run: |
+          pwd
+          ls -la
+
       - name: rsync
         run: |
-            rsync -a ~/public production:/var/www/updateserver/
+            rsync -a ./public production:/var/www/updateserver/
