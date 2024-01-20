@@ -1,0 +1,50 @@
+# .github/workflows/build.yml
+
+name: Build
+
+on:
+  push:
+    branches:
+      - main
+
+env:
+  NODE_VERSION: 18
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Code Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.119.0'
+          # extended: true
+
+      - name: run Hugo
+        run: hugo --minify
+
+      - name: provide deploy_key
+        env:
+          DEPLOY_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          SSH_USER: 'github-ci'
+          SSH_HOST: 'dadu.eu'
+        run: |
+          mkdir "$HOME/.ssh"
+          echo "$DEPLOY_KEY" > "$HOME/.ssh/production.key"
+          file "$HOME/.ssh/production.key"
+          chmod 600 "$HOME/.ssh/production.key"
+          cat >> ~/.ssh/config <<END
+          Host production
+            HostName $SSH_HOST
+            User $SSH_USER
+            IdentityFile ~/.ssh/production.key
+            StrictHostKeyChecking no
+          END
+
+      - name: rsync
+        run: |
+            rsync -a ~/public production:/var/www/updateserver/
