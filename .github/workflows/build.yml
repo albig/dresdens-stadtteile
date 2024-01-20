@@ -24,6 +24,11 @@ jobs:
           hugo-version: '0.121.2'
           # extended: true
 
+      - name: Git submodule update
+        run: |
+          git pull --recurse-submodules
+          git submodule update --remote --recursive
+
       - name: run Hugo
         run: hugo --minify
 
@@ -49,11 +54,6 @@ jobs:
             IdentityFile ~/.ssh/production.key
             StrictHostKeyChecking no
           END
-
-      - name: echo debug hugo 2
-        run: |
-          pwd
-          ls -la
 
       - name: rsync
         run: |
