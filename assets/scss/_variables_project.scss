@@ -1,0 +1,32 @@
+$primary: #390040;
+$secondary: #A23B72;
+
+figure,
+p > img {
+    float: left;
+    padding: 5px;
+    margin: 5px 10px !important;
+    border: 1px solid grey;
+}
+
+figure > figcaption {
+    font-style: italic;
+}
+
+.floatleft,
+img[src$='#floatleft']
+{
+	float:left;
+        //etc. etc/
+}
+
+.floatright,
+img[src$='#floatright']
+{
+	float:right;
+       //etc. etc.
+}
+
+.clear {
+    clear: both;
+}
