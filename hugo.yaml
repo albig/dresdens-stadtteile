@@ -1,0 +1,71 @@
+baseURL: /
+languageCode: de-de
+title: Dresdner Stadtteile
+params:
+  privacy_policy: https://policies.google.com/privacy
+  contentDir: content
+  defaultContentLanguage: de
+  defaultContentLanguageInSubdir: false
+  enableMissingTranslationPlaceholders: true
+  enableRobotsTXT: true
+  enableGitInfo: true
+  taxonomy:
+    taxonomyCloud:
+      - tags
+      - categories
+    taxonomyCloudTitle:
+      - Tag Cloud
+      - Categories
+    taxonomyPageHeader:
+      - tags
+      - categories
+  ui:
+    breadcrumb_disable: false
+    navbar_logo: true
+    navbar_translucent_over_cover_disable: false
+    sidebar_search_disable: false
+    sidebar_menu_compact: true
+    ul_show: 1
+    sidebar_menu_foldable: true
+    sidebar_cache_limit: 1000
+    feedback:
+      enable: false
+      yes: Glad to hear it! Please <a
+        href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we
+        can improve</a>.
+      no: Sorry to hear that. Please <a
+        href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we
+        can improve</a>.
+    readingtime:
+      enable: false
+      offlineSearch: true
+      offlineSearchSummaryLength: 200
+  links:
+    developer:
+      - name: GitHub
+        url: https://github.com/albig/dresdens-stadtteile
+        icon: fab fa-github
+        desc: Development takes place here!
+    user:
+      - name: Mastodon
+        url: https://gruene.social/@albigdd
+        icon: fab fa-mastodon
+        desc: Alexander auf Mastodon
+      - name: Kontakt per Email
+        url: mailto:alexander@bigga.de
+        icon: fa fa-envelope
+        desc: Discuss development issues around the project
+  ananke_socials:
+    - name: mastodon
+      url: https://gruene.social/@albigdd
+taxonomies:
+  tag: tags
+  category: categories
+module:
+  proxy: direct
+  imports:
+    - path: github.com/google/docsy
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
