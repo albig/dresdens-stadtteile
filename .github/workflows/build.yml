@@ -67,4 +67,4 @@ jobs:
 
       - name: rsync
         run: |
-            rsync -a ./public production:/var/www/dresdens-stadtteile.de/
+            rsync -aO ./public production:/var/www/dresdens-stadtteile.de/
