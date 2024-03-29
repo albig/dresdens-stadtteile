@@ -20,7 +20,9 @@ Kirchgemeinde genutzt. Im Inneren befindet sich ein im 17. Jh. von Sebastian Wal
 Sophienkirche. Weitere Ausstattungsstücke, darunter ein geschnitzer Taufstein, ein Lesepult und drei Stahlglocken, konnten aus der alten Friedenskirche gerettet werden. Die Orgel entstand 1901 in der Werkstatt Richard
 Kreutzbachs und stammt aus einem kirchlichen Seminar in Frankenberg.
 
-* * *
+[Mehr zur Friedenskirche](friedenskirche/)
+
+---
 
 ## Hoffnungskirche
 
@@ -36,7 +38,10 @@ geretteten Glocken der zerstörten Johanneskirche in der Pirnaischen Vorstadt. E
 Hoffnungskirche bezeichnet. Im Inneren befinden sich Glasmalereien von Helmar Helas und ein farbig gestaltetes Kreuz der Künstlerin Elly-Viola Nahmmacher. Außerdem besitzt die Hoffnungskirche zwei Jehmlich-Orgeln von
 1936 und 1986. Im Zuge innerkirchlicher Umstrukturierungen schlossen sich Hoffnungs- und Friedenskirchgemeinde 1999 wieder zu einer einheitlichen Gemeinde zusammen.
 
-* * *
+
+[Mehr zur Hoffnungskirche](hoffnungskirche/)
+
+---
 
 ## Katholische Kirche St. Antonius
 
@@ -48,7 +53,10 @@ Nachbarschaft nach Plänen des Architekten Rudolf Zacek eine katholische Pfarrki
 und wird bis heute von der Gemeinde genutzt. 1969 erfolgte nach Plänen E. Körners eine Neugestaltung des Innenraumes. Hängekreuz, Leuchter und Tabernakel stammen aus der Werkstatt des Künstlerehepaares Kleemann,
 die Orgel wurde 1978 von der Firma Jehmlich gebaut. 2003 erhielt die St. Antonius-Kirche eine Solaranlage zur Stromerzeugung.
 
-* * *
 
- \[ [Nord](../../../Nord/nord.html)\] \[ [Nordwest](../../../Nordwest/nordwest.html)\] \[ [Neustadt](../../../Neustadt/neustadt.html)\] \[ [Nordost](../../../Nordost/nordost.html)\]
+[Mehr zur Kirche St. Antonius](st__antonius-kirche/)
+
+---
+
+ \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\]
  \[ [West](../../../West/west.html)\] \[ [Zentrum](../../../Zentrum/zentrum.html)\] \[ [Südwest](../../../Sudwest/sudwest.html)\] \[ [Süd](../../../Sud/sud.html)\] \[ [Südost](../../../Sudost/sudost.html)\] \[ [Ost](../../../Ost/ost.html)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../Impressum/impressum.html)\]
