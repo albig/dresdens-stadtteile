@@ -21,7 +21,7 @@ Kunstmalers Prof. Walther aus Dresden.
 
 ![](l_btaufriedenskirche.jpg)Neben den Gottesdiensten trafen sich in der Kirche und im Gemeindehaus auf der
 Herbertstraße auch verschiedene kirchliche Vereine, wie der bereits 1878 gegründete Marienverein zur Unterhaltung einer Kinderbewahranstalt, der Frauenverein, der
-evangelische Jünglingsverein sowie der 1898 entstandene Kirchenchor. Nachdem die Kirche zu klein geworden war, erfolgte zum Jahresanfang 1915 die Ausgliederung des südlichen Teils der Vorstadt als eigenständige [Hoffnungsgemeinde](Hoffnungskirche/hoffnungskirche.html).
+evangelische Jünglingsverein sowie der 1898 entstandene Kirchenchor. Nachdem die Kirche zu klein geworden war, erfolgte zum Jahresanfang 1915 die Ausgliederung des südlichen Teils der Vorstadt als eigenständige [Hoffnungsgemeinde](../hoffnungskirche/).
 
 Die Friedenskirche wurde bereits beim Luftangriff am 16. Januar 1945 schwer beschädigt
 und brannte am 14. Februar schließlich völlig aus. Da in der Nachkriegszeit die Mittel für einen Wiederaufbau fehlten, wurde 1949 in den früheren Kirchenraum eine Notkirche
@@ -45,4 +45,4 @@ wurde die Friedenskirche als Jugendkirche ausgewählt und widmet sich verst�
 
 * * *
 
- \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../West/west.html)\] \[ [Zentrum](../../../Zentrum/zentrum.html)\] \[ [Südwest](../../../Sudwest/sudwest.html)\] \[ [Süd](../../../Sud/sud.html)\] \[ [Südost](../../../Sudost/sudost.html)\] \[ [Ost](../../../Ost/ost.html)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../Impressum/impressum.html)\]
+ \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../Sudwest/sudwest.html)\] \[ [Süd](../../../Sud/sud.html)\] \[ [Südost](../../../Sudost/sudost.html)\] \[ [Ost](../../../Ost/ost.html)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../Impressum/impressum.html)\]
