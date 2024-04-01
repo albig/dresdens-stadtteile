@@ -1,11 +1,11 @@
 baseURL: /
-languageCode: de-de
 title: Dresdner Stadtteile
 params:
-  privacy_policy: https://policies.google.com/privacy
+  privacy_policy: /datenschutz
   contentDir: content
+  languageCode: de-DE
   defaultContentLanguage: de
-  defaultContentLanguageInSubdir: false
+  defaultContentLanguageInSubdir: true
   enableMissingTranslationPlaceholders: true
   enableRobotsTXT: true
   enableGitInfo: true
@@ -67,5 +67,11 @@ module:
     - path: github.com/google/docsy
 markup:
   goldmark:
+    parser:
+      attribute:
+        block: true
+        title: true
     renderer:
       unsafe: true
+  highlight:
+    style: tango
