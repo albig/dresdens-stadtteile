@@ -14,6 +14,8 @@ params:
   enableMissingTranslationPlaceholders: true
   enableRobotsTXT: true
   enableGitInfo: true
+  params:
+  offlineSearch: true
   taxonomy:
     taxonomyCloud:
       - tags
@@ -33,13 +35,14 @@ params:
     ul_show: 1
     sidebar_menu_foldable: true
     sidebar_cache_limit: 1000
+    footer_about_enable: true
     feedback:
-      enable: false
+      enable: true
       yes: Glad to hear it! Please <a
-        href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we
+        href="https://github.com/albig/dresdens-stadtteile/issues/new">tell us how we
         can improve</a>.
       no: Sorry to hear that. Please <a
-        href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we
+        href="https://github.com/albig/dresdens-stadtteile/issues/new">tell us how we
         can improve</a>.
     readingtime:
       enable: false
