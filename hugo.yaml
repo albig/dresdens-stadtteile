@@ -1,10 +1,15 @@
 baseURL: /
+defaultContentLanguage: de
 title: Dresdner Stadtteile
 params:
   privacy_policy: /datenschutz
   contentDir: content
-  languageCode: de-DE
-  defaultContentLanguage: de
+  languages:
+    de:
+      languageCode: de-DE
+      languageDirection: ltr
+      languageName: Deutsch
+      weight: 1
   defaultContentLanguageInSubdir: true
   enableMissingTranslationPlaceholders: true
   enableRobotsTXT: true
