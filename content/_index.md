@@ -52,5 +52,6 @@ For announcement of latest features etc.
 
 
 {{% blocks/section %}}
-This is the second section{.h1 .text-center}
+This is the second section
+{.h1 .text-center}
 {{% /blocks/section %}}
