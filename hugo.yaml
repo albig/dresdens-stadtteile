@@ -3,6 +3,7 @@ defaultContentLanguage: de
 title: Dresdner Stadtteile
 params:
   privacy_policy: /datenschutz
+  impressum: /impressum
   contentDir: content
   languages:
     de:
@@ -37,7 +38,7 @@ params:
     sidebar_cache_limit: 1000
     footer_about_enable: true
     feedback:
-      enable: true
+      enable: false
       yes: Glad to hear it! Please <a
         href="https://github.com/albig/dresdens-stadtteile/issues/new">tell us how we
         can improve</a>.
