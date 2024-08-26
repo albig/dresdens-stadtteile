@@ -19,11 +19,13 @@ französchen Revolutionsarmee 1794 wegen angeblichen Verrats hingerichtet wurde.
 Marseillaise, die bis heute französische Nationalhymne ist. Sein Nachfahre auf Altfranken, Graf Felix von Luckner,
 galt Ende des 19. Jahrhunderts als eine Ausnahmeerscheinung der Dresdner Gesellschaft und sorgte durch zahlreiche Eskapaden und seine Hochzeit mit der Solotänzerin der Hofoper Mathilde Zink für Aufsehen.
 
-![](../../../sudwest/altfranken/schloss_altfranken/altfrankenschloss4.jpg)
+<div class="clear" />
+{{< figure src="altfrankenschloss4.jpg" class="floatleft" caption="Schloss Altfranken" >}}
 
-**_Foto:_** _Schloss Altfranken_
+<div class="clear" />
+{{< figure src="altfrankenschloss3.jpg" class="floatright" caption="" >}}
 
-![](../../../sudwest/altfranken/schloss_altfranken/altfrankenschloss3.jpg)Nach seinem Tod 1902 übernahm seine Witwe das Anwesen und richtete hier ein Stift für adlige Damen ein, welches bis zu ihrem Tod 1934 bestand. Da ihr Sohn kein Interesse am
+Nach seinem Tod 1902 übernahm seine Witwe das Anwesen und richtete hier ein Stift für adlige Damen ein, welches bis zu ihrem Tod 1934 bestand. Da ihr Sohn kein Interesse am
 Altfrankener Besitz zeigte und weit entfernt in Baden-Baden wohnte, verfiel das Schloss jedoch immer mehr. Der schlechte Bauzustand wurde 1939 von den Nazis zum Anlass
 genommen, das Gebäude von den Luckner-Erben zu erwerben und abzureißen. Schloss Altfranken wurde wegen seiner architektonischen Gestaltung im englischen Tudorstil als
 undeutscher Bau und Beispiel schlechtester Art neugotischer Bemühungen bezeichnet und Ende 1939 abgetragen. Auch ein Einspruch des Landesdenkmalpflegers Walter
@@ -48,7 +50,10 @@ weitere Pläne wie der Bau eines Schwimmbades und einer Kegelbahn nicht umgesetz
 Schlosses, darunter Teile der früheren Toranlage mit zwei Rundtürmen und eine von einer Löwenplastik bekrönten Säule, wurden dabei saniert und in die Anlage einbezogen _(Fotos oben)_
 . Das Hotel übernahm auch die Bewirtschaftung des inzwischen geschlossenen Campingplatzes. Leider wurde der Park durch den Bau der Autobahn A 17 weiter beeinträchtigt, ist inzwischen jedoch wieder hergestellt.
 
-![](../../../sudwest/altfranken/schloss_altfranken/altfrankenglocke.jpg)Seit Oktober 2004 stand vor dem Hotel die ursprünglich für die Dresdner Frauenkirche neu
+<div class="clear" />
+{{< figure src="altfrankenglocke.jpg" class="floatright" caption="" >}}
+
+Seit Oktober 2004 stand vor dem Hotel die ursprünglich für die Dresdner Frauenkirche neu
 gegossene Taufglocke Josua. Die wegen ihrer Tonqualität nicht für das Kirchengeläut verwendbare Glocke des ersten Gusses wurde vom Hotelbesitzer des KIM-Hotels
 erworben und in einem eigens errichteten Glockenstuhl aufgehängt, durfte jedoch auf Grund eines Rechtsstreites mit dem Künstler nicht mehr öffentlich gezeigt werden. 2008 wurde sie
 deshalb durch einen Neuguss ersetzt, welcher auf den strittigen Glockenzierrat verzichtete. Heute wird sie u.a. bei Hochzeiten im Schlossrestaurant geläutet.

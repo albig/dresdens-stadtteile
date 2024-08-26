@@ -20,7 +20,7 @@ Rittergut erklärt, dessen Besitzer jedoch nur eingeschränkte Rechte hatten und
 erscheinen durften. 1813 stürmten französische Soldaten den Ort und richteten erheblich Schäden an, bevor sie am 26. Oktober zum Abzug gezwungen wurden. Dorf und Rittergut wechselten nun häufig ihren Besitzer. Neben der
 Landwirtschaft war vor allem der Obstanbau von Bedeutung. Außerdem gab es eine Schäferei. An der Kesselsdorfer Straße bestand zeitweise eine Ziegelei.
 
-![](../../sudwest/altfranken/altfrankenschloss.jpg)1850 erwarb Heinrich Wilhelm Graf von Luckner das Altfrankener Rittergut. Dieser ließ das [Schloss](../../sudwest/altfranken/schloss_altfranken)_(Foto)_ errichten und mit einem reizvollen Landschaftspark umgeben.
+![](../../sudwest/altfranken/altfrankenschloss.jpg)1850 erwarb Heinrich Wilhelm Graf von Luckner das Altfrankener Rittergut. Dieser ließ das [Schloss](../../sudwest/altfranken/schloss_altfranken) (Foto) errichten und mit einem reizvollen Landschaftspark umgeben.
 1865 ging das Anwesen in den Besitz seines Sohnes Felix über, der wegen seiner Eskapaden als der tolle Graf bekannt wurde, sich jedoch sehr für die Entwicklung
 des Ortes engagierte. Zweiter bedeutender Sohn Altfrankens ist Heinrich Klemm (1819-1886), der seine ersten Lebensjahre im Dorf verbrachte und später als Gründer der Europäischen Modenakademie bekannt wurde. Seine
 wertvolle Privatbibliothek bildete den Grundstock der Deutschen Buch- und Schriftensammlung, die heute zur Deutschen Bücherei in Leipzig gehört. Klemm gilt
