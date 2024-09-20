@@ -17,7 +17,7 @@ Stützpunkt sicherte die Anlage zugleich den wichtigen Elbübergang des Bischo
 
 ![](../../west/briesnitz/briesnitz1.jpg)Mit Festigung der deutschen Herrschaft im Elbraum verlor der Burgward Briesnitz im 13.
 Jahrhundert seine militärische Funktion, wurde jedoch 1269 Sitz eines Archidiakons (kirchlicher Würdenträger) und eines bischöflichen Gerichts. Zeitweise unterstanden 40 Orte
-diesem Dingstuhl, dessen Entscheidungen im Briesnitzer Rügenbuch festgehalten wurden. Die um 1100 entstandene [Kirche](../../West/Briesnitz/Briesnitzer_Kirche/briesnitzer_kirche.html) _(Foto)_
+diesem Dingstuhl, dessen Entscheidungen im Briesnitzer Rügenbuch festgehalten wurden. Die um 1100 entstandene [Kirche](../../west/briesnitz/briesnitzer_kirche/) _(Foto)_
 mit ihrer Schule wurde noch bis ins 19. Jahrhundert von den Bewohnern der umliegenden Dörfern besucht. Mit der Reformation endete 1539 die
 Herrschaft des Bischofs von Meißen in Briesnitz. Erst durch die in diesem Zusammenhang erfolgte Auflösung der beiden bestehenden bischöflichen Vorwerke konnte sich der Ort zum
 Bauerndorf entwickeln und unterstand nun dem Amt Dresden. Mit Urkunde vom  6. November 1558 übergab Bischof Johann IX. von Meißen das große Vorwerk an die
@@ -31,7 +31,7 @@ Erkundungsposten genutzt haben. Größere Auswirkungen hatte ein Brand des Schä
 
 ![](../../west/briesnitz/briesnbennogut2.jpg)Im 18. Jahrhundert entdeckten wohlhabende Dresdner Familien die reizvolle Lage
 am Elbbogen und erwarben hier Landbesitz. 1760 ließ der Oberst Römer ein [Gartenhaus](../../west/cotta/strassen_cotta/meissner_landstrasse/)
-mit einem romantischen Park und einer Neptungrotte anlegen, der im Zuge des Eisenbahnbaus 1875 jedoch weitgehend zerstört wurde. 1769 entstand aus dem früheren Vorwerk das [Bennogut](../../West/Briesnitz/Strassen_Briesnitz/strassen_briesnitz.html)_(Foto)_, dessen Name an den sagenhaften
+mit einem romantischen Park und einer Neptungrotte anlegen, der im Zuge des Eisenbahnbaus 1875 jedoch weitgehend zerstört wurde. 1769 entstand aus dem früheren Vorwerk das [Bennogut](../../west/briesnitz/strassen_briesnitz/)_(Foto)_, dessen Name an den sagenhaften
 Meißner Bischof Benno erinnert. Dieses Gut war bis 1828 im Besitz des sächsischen Ministers Detlev Graf von Einsiedel bzw. seines Sohnes, ab 1840 der Familie
 Schunck. 1893 erwarb der Cottaer Brauereiunternehmer Bürstinghaus das Anwesen und ließ einen neuen Park anlegen, der noch heute zu beiden Seiten der Meißner
 Landstraße erhalten geblieben ist. Ende des 19. Jahrhunderts entstanden in Briesnitz weitere Mietshäuser und Gewerbebetriebe, die die Landwirtschaft zunehmend zurückdrängten. 1899 erhielt der Ort ein eigenes Wasserwerk.
@@ -41,7 +41,7 @@ Landstraße erhalten geblieben ist. Ende des 19. Jahrhunderts entstanden in Brie
 Der wirtschaftliche Aufschwung und die wachsende Einwohnerzahl machten nun auch eine Verbesserung der
 Verkehrsanbindung erforderlich. 1875 entstand die Bahnstrecke von Dresden über Cotta - Cossebaude nach Berlin.
 Allerdings musste Briesnitz wegen der ungünstigen topografischen Lage auf eine eigene Station verzichten. Stattdessen
-verkehrte ab 1875 eine privat betriebene Pferdeomnibuslinie von Briesnitz nach Dresden. Mit der Verlängerung der Straßenbahnstrecke vom Cottaer [Schusterhaus](../../West/Cotta/Strassen_Cotta/Hamburger_Strasse/Schusterhaus/schusterhaus.html) nach Cossebaude wurde diese 1906 überflüssig. Die Bahn nahm am
+verkehrte ab 1875 eine privat betriebene Pferdeomnibuslinie von Briesnitz nach Dresden. Mit der Verlängerung der Straßenbahnstrecke vom Cottaer [Schusterhaus](../../west/cotta/strassen_cotta/hamburger_strasse/schusterhaus/) nach Cossebaude wurde diese 1906 überflüssig. Die Bahn nahm am
 27\. September ihren Betrieb auf, erhielt 1938 eine neue Trassenführung entlang der Meißner Landstraße und wurde
 1990 durch eine Buslinie ersetzt. Zeitweise besaß Briesnitz auch eine Dampfschiffstation sowie einen kleinen Hafen am Elbufer, über welchen vorrangig Ziegel und Kohle transportiert wurden.
 
