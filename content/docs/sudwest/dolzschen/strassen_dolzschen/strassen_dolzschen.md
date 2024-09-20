@@ -135,8 +135,6 @@ Die Robert-Weber-Straße wurde 1935 nach dem verdienstvollen Dölzschener Pädag
 Lehrer an der örtlichen Schule tätig, die er ab 1898 auch leitete. Maßgeblich setzte er sich für einen nach modernen pädagogischen Konzepten gestalteten Unterricht ein, organisierte Schulkonzerte und gründete 1890
 eine öffentlich zugängliche Schulbibliothek. 1923 wurde ihm zu Ehren die Robert-Weber-Stiftung ins Leben gerufen. Die Namensgebung erfolgte, da sich an dieser Straße seit 1898 die Schule des Ortes befindet (heute 81. Grundschule _\- Foto)_.
 
-[![www.blume2000.de](http://www.zanox-affiliate.de/ppv/?22597213C1696533083)](http://www.zanox-affiliate.de/ppc/?22597213C1696533083T)
-
 ![rudi-lattner-straße](../../../sudwest/dolzschen/strassen_dolzschen/a_rectangle_582.gif)
 
 Die ursprünglich nach dem sächsischen General und Festungskommandanten von Königstein Caspar Wilhelm Philipp von Zastrow
