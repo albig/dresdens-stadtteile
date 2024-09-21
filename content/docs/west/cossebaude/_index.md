@@ -48,7 +48,7 @@ am Elbhang gehörte auch das um 1890 für einen Industriellen errichtete Weiß
 
 Cossebaude blieb auch nach 1945
 Industrie- und Wohnvorort Dresdens. Der Weinbau, der in den Nachkriegsjahren fast völlig zum Erliegen gekommen war, lebte in den 1960er und 70er Jahren wieder auf und wird heute sowohl
-gewerblich als auch von Hobbywinzern betrieben. Am Rande des Ortszentrums entstanden in den 1970er und 80er Jahren Neubauten. Bereits 1970 waren Teile der Gemeinde [Leuteritz](../../west/mobschatz/leuteritz/) (Neu-Leuteritz), 1974 die Orte [Gohlis](../../West/Gohlis/gohlis.html) und [Niederwartha](../../west/niederwartha/) nach Cossebaude eingemeindet worden. 1994 folgte [Oberwartha](../../west/oberwartha/). Cossebaude kam mit seinen
+gewerblich als auch von Hobbywinzern betrieben. Am Rande des Ortszentrums entstanden in den 1970er und 80er Jahren Neubauten. Bereits 1970 waren Teile der Gemeinde [Leuteritz](../../west/mobschatz/leuteritz/) (Neu-Leuteritz), 1974 die Orte [Gohlis](../../west/gohlis/) und [Niederwartha](../../west/niederwartha/) nach Cossebaude eingemeindet worden. 1994 folgte [Oberwartha](../../west/oberwartha/). Cossebaude kam mit seinen
 Ortsteilen am 1. Juli 1997 zu Dresden, besitzt bis heute jedoch als Ortschaft der Landeshauptstadt eine gewisse Selbstständigkeit.
 
 Zu den bedeutendsten Bauvorhaben der letzten Jahre gehörte die neue [Straßenbrücke](../../west/niederwartha/niederwarthaer_elbbrucke/) in Niederwartha, mit deren Bau
