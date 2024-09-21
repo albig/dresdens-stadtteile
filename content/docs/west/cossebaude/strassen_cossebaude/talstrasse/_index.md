@@ -15,7 +15,7 @@ Sanierung heute das Vereinshaus des Heimat- und Verschönerungsvereins Cossebaud
 
 ## Alte Schule
 
-Im Nachbarhaus (Nr. 7) befand sich bis 1894 die [alte Schule](../../../../west/cossebaude/) des Ortes. Diese erste Schule von Cossebaude
+Im Nachbarhaus (Nr. 7) befand sich bis 1894 die [alte Schule](../../../../west/cossebaude/#schulen-in-cossebaude) des Ortes. Diese erste Schule von Cossebaude
 entstand 1805 nach Einführung der Schulpflicht in Sachsen. 1861 konnte nach einem Umbau ein zweites Klassenzimmer
 eingerichtet werden. Das Schulhaus wurde damals von drei Klassen mit insgesamt ca. 200 Kindern genutzt. Seit dem Umzug der Schule im Jahr 1894 dient das Gebäude als Wohnhaus.
 

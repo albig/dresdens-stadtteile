@@ -4,9 +4,6 @@ date: 2024-02-17T22:13:36+01:00
 type: "docs"
 ---
 
-
-
-
 ![](../../west/cossebaude/wappcosseb.jpg)
 
 **Gemeindesiegel von Cossebaude**
@@ -55,7 +52,7 @@ Zu den bedeutendsten Bauvorhaben der letzten Jahre gehörte die neue [Straßenbr
 im Jahr 2006 begonnen wurde. Die Einweihung des Bauwerks erfolgte am 12. Dezember 2011. Umstritten ist hingegen
 der weitere Ausbau der durch den Ort führenden Bundesstraße  B6, welche künftig parallel zur Bahntrasse verlaufen soll, um so das Ortszentrum vom Durchgangsverkehr zu entlasten.
 
-Schulen in Cossebaude:
+## Schulen in Cossebaude
 
 ![](../../west/cossebaude/cossschule.jpg)Die erste Schule von Cossebaude entstand 1805 nach Einführung der Schulpflicht in Sachsen
 und befand sich in einem noch erhaltenen Gebäude auf der [Talstraße](../../west/cossebaude/strassen_cossebaude/talstrasse/) 7\. Erst 1861 konnte
@@ -68,7 +65,7 @@ Eine weitere Schule befindet sich auf der Erna-Berger-Straße. Der DDR-Typenneub
 Schuljahres 1992/93 erfolgte eine Trennung dieser Schule in eine Grund- und eine Mittelschule, so dass der Neubau
 heute als Oberschule betrieben wird. Neben Cossebauder Kindern besuchen auch Schüler aus den umliegenden Orten diese Schule.
 
-Kraftwerk Cossebaude:
+## Kraftwerk Cossebaude
 
 ![](../../west/cossebaude/cosskraftwerk.jpg)Auf Initiative des Gemeindevorstehers von Cotta beschlossen die Vertreter
 von Cotta, Leutewitz, Briesnitz, Kemnitz, Stetzsch, Oberwartha und Cossebaude am 26. Januar 1899 im Kemnitzer Gasthof die Gründung eines Gemeindeverbandes zum Bau eines eigenen Elektrizitätswerkes. Der
@@ -80,7 +77,7 @@ bestand aus drei Kolbendampfmaschinen, die eine maximale Leistung von 400 kW erz
 Mängel und dem Konkurs der Herstellerfirma machten sich jedoch schon bald technische Veränderungen erforderlich. Betreiber des Werkes war der Gemeindeverband Elektrizitätswerk Elbthal. Per Vertrag war in den
 Mitgliedskommunen bis 1943 die Errichtung eigener Werke untersagt. Die Baukosten beliefen sich seinerzeit auf über eine Million Mark.
 
-Bismarck-Ehrenmal:
+## Bismarck-Ehrenmal
 
 ![](../../west/cossebaude/cossbismarckdenkmal.jpg)Das Bismarck-Ehrenmal auf der Herrenkuppe entstand auf Anregung des Ausschusses zur
 Errichtung einer Bismarck-Ehrung unter Vorsitz des Prokuristen des Eisenwerks Meurer, Paul Breßler im Jahr 1913. Die Grundsteinlegung erfolgte am 30. März und bereits am 22.
