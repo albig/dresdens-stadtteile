@@ -99,7 +99,7 @@ Reichskanzler Otto von Bismarck (1815-1898) benannt. Im zu Ehren gibt es in der 
 
 ## Brabschützer Straße
 
-Die heutige Brabschützer Straße ist Teil eines alten Verbindungsweges zwischen Cossebaude und dem benachbarten [Brabschütz](../../../West/Mobschatz/Brabschutz/brabschutz.html), welcher im [Lotzebachtal](../../../West/Oberwartha/Strassen_Oberwartha/Lotzebachstrasse/lotzebachstrasse.html)
+Die heutige Brabschützer Straße ist Teil eines alten Verbindungsweges zwischen Cossebaude und dem benachbarten [Brabschütz](../../../West/Mobschatz/Brabschutz/brabschutz.html), welcher im [Lotzebachtal](../../../west/oberwartha/strassen_oberwartha/lotzebachstrasse/)
 beginnt und von dort zur Albrechtshöhe und weiter in den Nachbarort führt. In alten Karten ist dieser Weg auch als Fleischerweg verzeichnet.
 
 ## Brauergasse
