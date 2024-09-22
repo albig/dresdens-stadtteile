@@ -1,5 +1,6 @@
 ---
 title: "Alte Kapelle"
+description: "Die Alte Kapelle entstand vermutlich bereits im 13. Jahrhundert und gehört zu den ältesten Kirchen im oberen Elbtal"
 date: 2024-02-17T22:13:45+01:00
 ---
 
@@ -7,12 +8,8 @@ date: 2024-02-17T22:13:45+01:00
 
 ![](../../../west/cossebaude/alte_kapelle/cossaltekapelle.jpg)
 
-Die Alte Kapelle entstand vermutlich bereits im 13. Jahrhundert und gehört zu den ältesten Kirchen im oberen Elbtal. Ursprünglich war sie Teil eines 1263 erstmals genannten
-Vorwerkes. Die 1358 als Pfarre bezeichnete Kapelle wurde 1441 der heiligen Dorothea geweiht und unterstand bis zur Reformation dem Domstift Meißen. 1492 ließ Domprobst
-Johannes von Konigspergh das Vorwerk Cossebaude auflösen und gründete an seiner Stelle eine Weinbauern- und Häuslergemeinde, die er 1498 zum eigenen Kirchspiel erklärte.
-Gleichzeitig ließ er ein Benefizium für diese Kapelle aussetzen, welches der Finanzierung der seelsorgerischen Arbeit diente. Die Alte Kapelle war zugleich auch Wohnsitz eines Priesters,
-der mit der Überwachung des Weinbaus und der damit verbundenen kirchlichen Abgaben zuständig war. Die Weihe einer neuen Kapelle im Erdgeschoss des Gebäudes ist für den 13.
-Mai 1527 durch den Weihbischof von Meißen belegt.
+Die Alte Kapelle entstand vermutlich bereits im 13. Jahrhundert und gehört zu den ältesten Kirchen im oberen Elbtal. Ursprünglich war sie Teil eines 1263 erstmals genannten Vorwerkes. Die 1358 als Pfarre bezeichnete Kapelle wurde 1441 der heiligen Dorothea geweiht und unterstand bis zur Reformation dem Domstift Meißen. 1492 ließ Domprobst Johannes von Konigspergh das Vorwerk Cossebaude auflösen und gründete an seiner Stelle eine Weinbauern- und Häuslergemeinde, die er 1498 zum eigenen Kirchspiel erklärte.
+Gleichzeitig ließ er ein Benefizium für diese Kapelle aussetzen, welches der Finanzierung der seelsorgerischen Arbeit diente. Die Alte Kapelle war zugleich auch Wohnsitz eines Priesters, der mit der Überwachung des Weinbaus und der damit verbundenen kirchlichen Abgaben zuständig war. Die Weihe einer neuen Kapelle im Erdgeschoss des Gebäudes ist für den 13. Mai 1527 durch den Weihbischof von Meißen belegt.
 
 ![](../../../west/cossebaude/alte_kapelle/cossglockenturm.jpg)Erst etliche Jahre nach der Reformation, im Jahr 1578, wurde in dieser Kapelle der erste
 evangelisch-lutherische Gottesdienst abgehalten. Anfang des 17. Jahrhunderts gelangte das Gotteshaus in Privatbesitz. Nach 1700 wurde der zweigeschossige spätgotische Kapellenbau aufgestockt und erhielt ein Walmdach _(Foto oben)_ . Seit 1901 ist die zuvor als Filiale zur Briesnitzer Kirche gehörende Gemeinde kirchlich selbstständig. Ein Jahr später ließ man den ehemaligen Maschinensaal der Weinpresse des Dorfes (Talstraße 9)

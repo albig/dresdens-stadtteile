@@ -4,9 +4,6 @@ date: 2024-02-17T22:13:36+01:00
 type: "docs"
 ---
 
-Gohliser Stadtteilseiten
-
-
 ![](../../west/gohlis/gohlis1.jpg)Gohlis entstand als Elbfischersiedlung auf einem flachen Uferstreifen unmittelbar
 am Elbufer und wurde 1144 erstmals urkundlich erwähnt. Der Ortsname ist vom slawischen gola abgeleitet, was übersetzt Heide bedeutet und auf die kargen
 Sandböden hinweist. Um 1260 war der Ort im Besitz der Herren von Goluz, die dem Meißner Domherren hier ein Vorwerk übertrugen. Nach Auflösung dieses Vorwerks wurde Gohlis 1329 in die beiden Gemeindeteile Ober- und

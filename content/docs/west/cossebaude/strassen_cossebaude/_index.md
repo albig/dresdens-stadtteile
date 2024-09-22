@@ -44,7 +44,7 @@ werden, wodurch die Albrechtshöhe deutlich an Attraktivität einbüßte. Kurz n
 ## Am Hegereiter
 
 Die Straße Am Hegereiter geht auf einen alten Hangweg an der Weinbergstraße zurück und wurde 1932 benannt. Mit der
-Namensgebung wird an Cossebaudes Tradition als Jagdrevier der sächsischen Kurfürsten erinnert. Dieses Gebiet nahm einst große Teile der Fluren zwischen [Zschoner-](../../../West/kemnitz/zschonergrund/) und [Tännichtgrund](../../../West/Oberwartha/Tannichtgrund/tannichtgrund.html) ein und wurde von einem Hegereiter betreut. Der Hegereiter
+Namensgebung wird an Cossebaudes Tradition als Jagdrevier der sächsischen Kurfürsten erinnert. Dieses Gebiet nahm einst große Teile der Fluren zwischen [Zschoner-](../../../west/kemnitz/zschonergrund/) und [Tännichtgrund](../../../West/Oberwartha/Tannichtgrund/tannichtgrund.html) ein und wurde von einem Hegereiter betreut. Der Hegereiter
 war ein dem Hegemeister unterstellter Beamter, dem die Kontrolle und Beaufsichtigung des Reviers und des Wildbestandes oblag.
 
 ## Am Kirschberg
