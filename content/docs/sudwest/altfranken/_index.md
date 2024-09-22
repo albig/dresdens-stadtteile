@@ -54,11 +54,11 @@ Gemeindebibliothek für Altfranken. Die feierliche Einweihung der Schule fand am
 mit Festumzug am Geburtstag Klemms, bei denen neben Kaffee und Kuchen auch kleine Gaben an die Kinder des Ortes verteilt wurden. Das Schulhaus wird heute
 nicht mehr genutzt und dient seit seiner Renovierung 1998 als Wohnhaus.
 
-[![altfrankener straßen](../../sudwest/altfranken/a_rectangle_1966.gif)](../../sudwest/altfranken/Strassen_Altfranken/strassen_altfranken.html)
+[![altfrankener straßen](../../sudwest/altfranken/a_rectangle_1966.gif)](../../sudwest/altfranken/strassen_altfranken/)
 
-[_Weiterführende Literatur und Quellen_](../../Impressum/Quellenverzeichnis/quellenverzeichnis.html)
+[_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 
 
 
- \[ [Home](../../index.html)\] \[ [Nord](../../Nord/nord.html)\] \[ [Nordwest](../../Nordwest/nordwest.html)\] \[ [Neustadt](../../Neustadt/neustadt.html)\] \[ [Nordost](../../Nordost/nordost.html)\] \[ [West](../../West/west.html)\] \[ [Zentrum](../../Zentrum/zentrum.html)\] \[ [Südwest](../../sudwest/sudwest.html)\] \[ [Süd](../../Sud/sud.html)\]
- \[ [Südost](../../Sudost/sudost.html)\] \[ [Ost](../../Ost/ost.html)\] \[ [Register](../../Register/register.html)\] \[ [Kontakt](../../Kontakt/kontakt.html)\] \[ [Impressum](../../Impressum/impressum.html)\]
+ \[ [Home](../../index.html)\] \[ [Nord](../../nord/)\] \[ [Nordwest](../../nordwest/)\] \[ [Neustadt](../../neustadt/)\] \[ [Nordost](../../nordost/)\] \[ [West](../../west/)\] \[ [Zentrum](../../zentrum/)\] \[ [Südwest](../../sudwest/sudwest.html)\] \[ [Süd](../../sud/)\]
+ \[ [Südost](../../sudost/)\] \[ [Ost](../../ost/)\] \[ [Register](../../register/)\] \[ [Kontakt](../../kontakt/)\] \[ [Impressum](../../impressum/)\]

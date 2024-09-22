@@ -15,29 +15,29 @@ Besitz an das Hochstift Meißen. Bis zur Reformation unterstand Löbtau zur Häl
 zum kurfürstlichen Amt Dresden.
 
 ![](../../sudwest/lobtau/l_btaualt1.jpg)1568 mussten die Löbtauer Bauern 42 Hektar Ackerland, ein Sechstel der
-Gesamtfläche, an das Kammergut Ostra abgeben. Weitere Flächen gingen 1717 für die Erweiterung des [Holzhofes](../../sudwest/lobtau/Weisseritzmuhlgraben/weisseritzmuhlgraben.html) verloren. Die verbliebene Flur wurde noch bis
-ins 19. Jahrhundert landwirtschaftlich genutzt. Heute erinnern nur noch wenige Gebäude am früheren Dorfplatz [Altlöbtau](../../sudwest/lobtau/Strassen_Lobtau/Altlobtau/altlobtau.html) **_(Fotos)_**
+Gesamtfläche, an das Kammergut Ostra abgeben. Weitere Flächen gingen 1717 für die Erweiterung des [Holzhofes](../../sudwest/lobtau/weisseritzmuhlgraben/) verloren. Die verbliebene Flur wurde noch bis
+ins 19. Jahrhundert landwirtschaftlich genutzt. Heute erinnern nur noch wenige Gebäude am früheren Dorfplatz [Altlöbtau](../../sudwest/lobtau/strassen_lobtau/altlobtau/) **_(Fotos)_**
 an die Vergangenheit des Ortes. Wegen der verbreiteten Viehzucht wurde Löbtau früher auch spöttisch Kuh-Löbte genannt. Als Weidefläche diente der Anger, der sich zwischen Tharandter und Zwickauer Straße erstreckte.
 
 Schwer getroffen wurde das strategisch günstig im Vorfeld der Stadt Dresden gelegene Dorf bei kriegerischen
 Auseinandersetzungen. So brannten im November und Dezember 1428 die Hussiten den Ort vollständig nieder, was sich am 29. März 1638 nach einem Schwedeneinfall wiederholte. Vier Jahre später waren die Löbtauer Fluren
 Schauplatz von Kämpfen zwischen schwedischen und kaiserlichen Soldaten. Auch im Schlesischen Krieg 1745 und im Siebenjährigen Krieg 1756-63 kam es zu Plünderungen und erheblichen Schäden im Ort, während Löbtau in der
-Napoleonzeit nur unter häufigen Einquartierungen zu leiden hatte. Teile der Ortsflur wurden im Zusammenhang mit der [Schlacht bei Dresden](../../Sud/Racknitz/Schlacht_bei_Dresden/schlacht_bei_dresden.html) am 26. / 27. August 1813 in Mitleidenschaft gezogen.
+Napoleonzeit nur unter häufigen Einquartierungen zu leiden hatte. Teile der Ortsflur wurden im Zusammenhang mit der [Schlacht bei Dresden](../../sud/racknitz/schlacht_bei_dresden/) am 26. / 27. August 1813 in Mitleidenschaft gezogen.
 
 ![](../../sudwest/lobtau/l_btaupulverm_hle.jpg)Bereits im 16. Jahrhundert begannen Veränderungen im Ort. So ließ Kurfürst Johann
-Georg IV. 1692 einen Garten mit einem Wasserpalais anlegen, der ab 1702 [Reisewitz´scher Garten](../../sudwest/lobtau/Strassen_Lobtau/Tharandter_Strasse/Reisewitz_scher_Garten/reisewitz_scher_garten.html) genannt wurde. Noch wichtiger für die
-spätere Entwicklung Löbtaus war die Ansiedlung einiger Gewerbebetriebe an der Weißeritz sowie am von dieser abzweigenden [Weißeritzmühlgraben](../../sudwest/lobtau/Weisseritzmuhlgraben/weisseritzmuhlgraben.html).
+Georg IV. 1692 einen Garten mit einem Wasserpalais anlegen, der ab 1702 [Reisewitz´scher Garten](../../sudwest/lobtau/strassen_lobtau/tharandter_strasse/reisewitz_scher_garten/) genannt wurde. Noch wichtiger für die
+spätere Entwicklung Löbtaus war die Ansiedlung einiger Gewerbebetriebe an der Weißeritz sowie am von dieser abzweigenden [Weißeritzmühlgraben](../../sudwest/lobtau/weisseritzmuhlgraben/).
 Diese Mühlen **_(Foto:_** _ehemalige Pulvermühle)_ bildeten das erste bedeutende Industriegebiet Dresdens und wurden zum Teil bis 1945 als Fabriken genutzt. Der eigentliche Weißeritzmühlgraben wurde 1937
 trockengelegt und ist heute nur noch in Resten vorhanden. Zu den wichtigen frühen Unternehmen auf Löbtauer Flur gehörte auch der Holzhof an der späteren Oederaner Straße. 1740 wurde auf
 dem Löbtauer Anger trotz Protesten der Anwohner der Dresdner Galgen aufgestellt, an dem noch bis 1837 öffentliche Hinrichtungen stattfanden.
 
 ![](../../sudwest/lobtau/l_btau7.jpg)Begünstigt durch die gesellschaftlichen Veränderungen in Sachsen nach 1830 und durch die Einführung der Gewerbefreiheit im Jahr 1862 wandelte sich das frühere
-Bauerndorf Löbtau endgültig zum Industriestandort. 1857 entstand eine Fabrik zur Herstellung von Portlandzement, 1858 eine Eisengießerei, 1862 die bekannte Schokoladenfabrik Petzold & Aulhorn sowie das [Glaswerk](../../Zentrum/Wilsdruffer_Vorstadt/Freiberger_Strasse/Glaswerk_Lobtau/glaswerk_lobtau.html) der Familie Siemens. Diese neuen Unternehmen siedelten sich bevorzugt entlang der Weißeritz an der [Tharandter](../../sudwest/lobtau/Strassen_Lobtau/Tharandter_Strasse/tharandter_strasse.html) und [Löbtauer Straße](../../sudwest/lobtau/Strassen_Lobtau/Lobtauer_Strasse/lobtauer_strasse.html) an. Die übrigen Flächen wurden ab 1860 mit
+Bauerndorf Löbtau endgültig zum Industriestandort. 1857 entstand eine Fabrik zur Herstellung von Portlandzement, 1858 eine Eisengießerei, 1862 die bekannte Schokoladenfabrik Petzold & Aulhorn sowie das [Glaswerk](../../zentrum/wilsdruffer_vorstadt/freiberger_strasse/glaswerk_lobtau/) der Familie Siemens. Diese neuen Unternehmen siedelten sich bevorzugt entlang der Weißeritz an der [Tharandter](../../sudwest/lobtau/strassen_lobtau/tharandter_strasse/) und [Löbtauer Straße](../../sudwest/lobtau/strassen_lobtau/lobtauer_strasse/) an. Die übrigen Flächen wurden ab 1860 mit
 Arbeiterwohnhäusern bebaut _( **Foto:** Nostitzstraße)_. In Folge verschwand die landwirtschaftliche Nutzung fast völlig, so dass bereits 1875 nur noch vier
 Bauernhöfe in Altlöbtau existierten. Hinzu kamen einige Gärtnereien, welche um 1880 über 40 Hektar der Gemeindefläche einnahmen.
 
-![](../../sudwest/lobtau/l_btessener9.jpg)Typisch für Löbtau ist das 1875 vom Geometer Emil Ueberall entworfene rasterförmige Straßennetz und die aufgelockerte Bebauung mit den Würfelhäusern **_(Foto:_** _Essener Straße 9)_. Bis zur Jahrhundertwende verdrängten die neuen Wohn- und Gewerbeviertel die bisherige Landwirtschaft sowie die zahlreichen Löbtauer Gärtnereien fast völlig. 1875 entstand der [Neue Annenfriedhof](../../sudwest/lobtau/Friedenskirche/Neuer_Annenfriedhof/neuer_annenfriedhof.html) an der Kesselsdorfer Straße, 1890 die [Friedenskirche](../../sudwest/lobtau/Friedenskirche/friedenskirche.html),
-1923 die katholische [Kirche St. Antonius](../../sudwest/lobtau/Friedenskirche/St__Antonius-Kirche/st__antonius-kirche.html), 1936 die [Hoffnungskirche](../../sudwest/lobtau/Friedenskirche/Hoffnungskirche/hoffnungskirche.html). Ab 1881 verband eine Pferdestraßenbahn Löbtau und Dresden, die 1893 bis Wölfnitz verlängert und drei Jahre
+![](../../sudwest/lobtau/l_btessener9.jpg)Typisch für Löbtau ist das 1875 vom Geometer Emil Ueberall entworfene rasterförmige Straßennetz und die aufgelockerte Bebauung mit den Würfelhäusern **_(Foto:_** _Essener Straße 9)_. Bis zur Jahrhundertwende verdrängten die neuen Wohn- und Gewerbeviertel die bisherige Landwirtschaft sowie die zahlreichen Löbtauer Gärtnereien fast völlig. 1875 entstand der [Neue Annenfriedhof](../../sudwest/lobtau/friedenskirche/neuer_annenfriedhof/) an der Kesselsdorfer Straße, 1890 die [Friedenskirche](../../sudwest/lobtau/friedenskirche/),
+1923 die katholische [Kirche St. Antonius](../../sudwest/lobtau/Friedenskirche/St__Antonius-Kirche/st__antonius-kirche.html), 1936 die [Hoffnungskirche](../../sudwest/lobtau/friedenskirche/hoffnungskirche/). Ab 1881 verband eine Pferdestraßenbahn Löbtau und Dresden, die 1893 bis Wölfnitz verlängert und drei Jahre
 später elektrifiziert wurde. 1909 folgte die Strecke über die heutige Rudolf-Renner-Straße nach Cotta. Neben mehreren Schulbauten und dem repräsentativen Rathaus an der Weißeritz
 entstanden ein gemeindeeigenes Gaswerk (1890), ein Kranken- und Versorgungshaus (Luisenhaus) und ein Marstall mit Feuerwehrdepot.
 
@@ -65,7 +65,7 @@ Bomben auf mehrere Industriebetriebe und das Städtische Krankenhaus an der Löb
 Gedenkstätte.
 
 ![](../../sudwest/lobtau/l_btau4.jpg)Trotz der Kriegsschäden entwickelte sich Löbtau in der Nachkriegszeit zu
-einem Zentrum des Dresdner Geschäftslebens. So nahm die [Kesselsdorfer Straße](../../sudwest/lobtau/Strassen_Lobtau/Kesselsdorfer_Strasse/kesselsdorfer_strasse.html) zeitweise eine Ersatzfunktion für die zerstörten Geschäfte der Innenstadt
+einem Zentrum des Dresdner Geschäftslebens. So nahm die [Kesselsdorfer Straße](../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/) zeitweise eine Ersatzfunktion für die zerstörten Geschäfte der Innenstadt
 ein. An der Nossener Brücke entstand 1962/64 ein Heizkraftwerk, welches 1995 durch ein modernes Gasturbinenkraftwerk an der Siebenlehner Straße ersetzt wurde. Gleichzeitig verfiel die um die Jahrhundertwende entstandene
 Bausubstanz _(Foto: Tharandter Straße / Ecke Schillingstraße)_, was zu Abrissen von Gebäuden an der Kesselsdorfer Straße und am Ebertplatz führte.
 
@@ -105,7 +105,7 @@ Löbtau besaß spätestens ab 1786 einen eigenen Schullehrer, der seinen Unterri
 
 1832 errichtete die Gemeinde ein zweites, größeres Schulhaus an der Cottaer Straße (heute Lübecker Straße). Der von den Gorbitzer Baumeistern Johann Traugott und Carl Gotthelff Fichtner errichte Bau besaß im Erdgeschoss neben der Schulstube eine Küche, im Obergeschoss befanden sich Stube und Kammer des Lehrers. Wegen der bis 1866 auf 233 Kinder angestiegenen Schülerzahl genügte auch dieses nicht mehr den Anforderungen und wurde daraufhin durch einen Neubau ersetzt. Das alte Haus diente danach nur noch Wohnzwecken und fiel 1894 dem Straßenausbau zum Opfer.
 
-![](../../sudwest/lobtau/l_btaudorfschule.jpg)Die dritte Löbtauer Dorfschule _(Foto)_ hatte ihren Standort an der Einmündung Wernerstraße / Lübecker Straße. Im Sommer 1866 wurde mit ihrem Bau begonnen und schon am 8. November 1866 erfolgte die Einweihung. Allerdings konnte auch dieses Schulgebäude nur für wenige Jahre seinen Zweck erfüllen und erwies sich bald als zu klein. Deshalb beschloss der Löbtauer Gemeinderat 1873, einen weiteren Schulneubau zu errichten. Nach dessen Fertigstellung wurde die alte Schule ab 1875 bis 1897 als Gemeindeamt genutzt. Das 1945 beschädigte Gebäude fiel 1990 dem Abriss zum Opfer. Letztes Zeugnis der Löbtauer Dorfschule ist der frühere Schlusstein, der sich heute im Dresdner [Schulmuseum](../../Zentrum/Friedrichstadt/friedrichstadt.html) befindet.
+![](../../sudwest/lobtau/l_btaudorfschule.jpg)Die dritte Löbtauer Dorfschule _(Foto)_ hatte ihren Standort an der Einmündung Wernerstraße / Lübecker Straße. Im Sommer 1866 wurde mit ihrem Bau begonnen und schon am 8. November 1866 erfolgte die Einweihung. Allerdings konnte auch dieses Schulgebäude nur für wenige Jahre seinen Zweck erfüllen und erwies sich bald als zu klein. Deshalb beschloss der Löbtauer Gemeinderat 1873, einen weiteren Schulneubau zu errichten. Nach dessen Fertigstellung wurde die alte Schule ab 1875 bis 1897 als Gemeindeamt genutzt. Das 1945 beschädigte Gebäude fiel 1990 dem Abriss zum Opfer. Letztes Zeugnis der Löbtauer Dorfschule ist der frühere Schlusstein, der sich heute im Dresdner [Schulmuseum](../../zentrum/friedrichstadt/) befindet.
 
 ### 36\. Volksschule
 ![](../../sudwest/lobtau/l_btau_2-b_rgerschule.jpg#floatright)1874 wurde an der Schulstraße (Gröbelstraße 1/3) die neue
@@ -185,11 +185,11 @@ Anschluss des Ortes an das Dresdner Gasnetz wurde die Produktion des Gaswerks no
 
 [![Löbtauer Straßen](../../sudwest/lobtau/a_rectangle_543.gif)](../../sudwest/lobtau/strassen_lobtau/)
 
-[_Weiterführende Literatur und Quellen_](../../Impressum/Quellenverzeichnis/quellenverzeichnis.html)
+[_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 
 **Stadtteilseiten Löbtau**
 
 [![Logo der Löbtauer Runde](../../sudwest/lobtau/l_btau.jpg "Löbtauer Runde")](https://www.loebtau.org)
 
- \[ [Home](../../index.html)\] \[ [Nord](../../Nord/nord.html)\] \[ [Nordwest](../../Nordwest/nordwest.html)\] \[ [Neustadt](../../Neustadt/neustadt.html)\] \[ [Nordost](../../Nordost/nordost.html)\] \[ [West](../../West/west.html)\] \[ [Zentrum](../../Zentrum/zentrum.html)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../Sud/sud.html)\]
- \[ [Südost](../../Sudost/sudost.html)\] \[ [Ost](../../Ost/ost.html)\] \[ [Register](../../Register/register.html)\] \[ [Kontakt](../../Kontakt/kontakt.html)\] \[ [Impressum](../../Impressum/impressum.html)\]
+ \[ [Home](../../index.html)\] \[ [Nord](../../nord/)\] \[ [Nordwest](../../nordwest/)\] \[ [Neustadt](../../neustadt/)\] \[ [Nordost](../../nordost/)\] \[ [West](../../west/)\] \[ [Zentrum](../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../sud/)\]
+ \[ [Südost](../../sudost/)\] \[ [Ost](../../ost/)\] \[ [Register](../../register/)\] \[ [Kontakt](../../kontakt/)\] \[ [Impressum](../../impressum/)\]

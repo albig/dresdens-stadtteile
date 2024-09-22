@@ -4,7 +4,7 @@ date: 2024-02-17T22:13:44+01:00
 ---
 
 ![](l_btaufriedh.jpg)Der Neue Annenfriedhof wurde als vierter Friedhof dieses Namens auf
-freiem Feld an der Kesselsdorfer Straße angelegt. Ziel war die Entlastung des 1848 eröffneten [Alten Annenfriedhofs](../../../../Sud/Plauen/Strassen_Plauen/Chemnitzer_Strasse/Alter_Annenfriedhof/alter_annenfriedhof.html) an der Chemnitzer Straße, der an
+freiem Feld an der Kesselsdorfer Straße angelegt. Ziel war die Entlastung des 1848 eröffneten [Alten Annenfriedhofs](../../../../sud/plauen/strassen_plauen/chemnitzer_strasse/alter_annenfriedhof/) an der Chemnitzer Straße, der an
 seine Kapazitätsgrenze gekommen war. Für den neuen Begräbnisplatz erwarb man für 130.000 Mark einige Ackerflächen von Löbtauer Bauern. Die nach Plänen des Gartenarchitekten Max Bertram regelmäßig gestaltete
 Anlage war bei ihrer Einweihung am  23. Juni 1875 mit 14,3 Hektar und 37.000 möglichen Grabstellen größter einheitlich gestalteter Friedhof in
 Deutschland. 1897 entstand in unmittelbarer Nachbarschaft, nur durch eine Hecke getrennt, der Friedhof Friede und Hoffnung für die Löbtauer Kirchgemeinde. Ursprünglich nur als Löbtauer
@@ -48,5 +48,5 @@ _links die Grabstelle der Familie Siemens,__rechts das Familiengrab der Kunstgie
 
 * * *
 
- \[ [Nord](../../../../nord/)\] \[ [Nordwest](../../../../Nordwest/nordwest.html)\] \[ [Neustadt](../../../../neustadt/)\] \[ [Nordost](../../../../nordost/)\] \[ [West](../../../../west/)\] \[ [Zentrum](../../../../zentrum/)\] \[ [Südwest](../../../../sudwest/)\]
- \[ [Süd](../../../../Sud/sud.html)\] \[ [Südost](../../../../Sudost/sudost.html)\] \[ [Ost](../../../../Ost/ost.html)\] \[ [Register](../../../../Register/register.html)\] \[ [Kontakt](../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../Impressum/impressum.html)\]
+ \[ [Nord](../../../../nord/)\] \[ [Nordwest](../../../../nordwest/)\] \[ [Neustadt](../../../../neustadt/)\] \[ [Nordost](../../../../nordost/)\] \[ [West](../../../../west/)\] \[ [Zentrum](../../../../zentrum/)\] \[ [Südwest](../../../../sudwest/)\]
+ \[ [Süd](../../../../sud/)\] \[ [Südost](../../../../sudost/)\] \[ [Ost](../../../../ost/)\] \[ [Register](../../../../register/)\] \[ [Kontakt](../../../../kontakt/)\] \[ [Impressum](../../../../impressum/)\]

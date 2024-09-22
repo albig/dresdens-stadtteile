@@ -59,4 +59,4 @@ die Orgel wurde 1978 von der Firma Jehmlich gebaut. 2003 erhielt die St. Antoniu
 ---
 
  \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\]
- \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../Sud/sud.html)\] \[ [Südost](../../../Sudost/sudost.html)\] \[ [Ost](../../../Ost/ost.html)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../Impressum/impressum.html)\]
+ \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../sud/)\] \[ [Südost](../../../sudost/)\] \[ [Ost](../../../ost/)\] \[ [Register](../../../register/)\] \[ [Kontakt](../../../kontakt/)\] \[ [Impressum](../../../impressum/)\]

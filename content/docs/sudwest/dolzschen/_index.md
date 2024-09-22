@@ -16,7 +16,7 @@ Besiedlungsspuren aus frühgeschichtlicher Zeit (ca. 3000 Jahre), wie sie bei Gr
 
 ![](../../sudwest/dolzschen/d_lzschen5.jpg)Das Bauerndorf Dölzschen gehörte bis 1559 zu den Besitzungen des Meißner
 Bischofs und wurde dann dem Prokuraturamt Meißen unterstellt. Die obere und niedere Gerichtsbarkeit lag beim Briesnitzer Amt bzw. der Stadt Dresden. Zu den späteren Grundherren gehörten ab 1651
-der Besitzer des Pesterwitzer Rittergutes Reichbrod von Schrenkdorff und ab 1736 die in Roßthal ansässige Familie von Nimptsch, welche sich 1742 ein Lusthaus oberhalb des [Plauenschen Grundes](../../Sud/Plauen/Plauenscher_Grund/plauenscher_grund.html) errichten ließ. An seiner Stelle steht heute die [Begerburg](../../sudwest/Dolzschen/Begerburg/begerburg.html). Größtes Anwesen war ein 1657 erstmals erwähntes Freigut mit ca.
+der Besitzer des Pesterwitzer Rittergutes Reichbrod von Schrenkdorff und ab 1736 die in Roßthal ansässige Familie von Nimptsch, welche sich 1742 ein Lusthaus oberhalb des [Plauenschen Grundes](../../sud/plauen/plauenscher_grund/) errichten ließ. An seiner Stelle steht heute die [Begerburg](../../sudwest/dolzschen/begerburg/). Größtes Anwesen war ein 1657 erstmals erwähntes Freigut mit ca.
 28 Hektar Grundfläche, welches noch bis zur Bodenreform existierte. Da der Ort nie eine eigene Kirche besaß, besuchten die Bewohner die Kirche im benachbarten Plauen, ab 1878 die Kirche von Pesterwitz.
 
 ![](../../sudwest/dolzschen/d_lzschen1.jpg)Der Dorfkern entstand in seiner jetzigen Form nach den Zerstörungen 1813, die
@@ -29,15 +29,15 @@ Schäden im Dorf gegeben. Im Dezember 1745 plünderten preußische Soldaten neun
 Obst- und Weinbau von Bedeutung. Durch den Aufschluss der Plänersteinbrüche im Plauenschen Grund verschwanden nach 1860 fast alle Weinterrassen in diesem Gebiet.
 Neben dem alten Dorfkern und der im Weißeritztal gelegenen Siedlung Niederdölzschen entstanden ab 1900 weitere Wohngebiete zwischen Dölzschen und Plauen / Löbtau, die
 heute als Hohendölzschen bezeichnet werden. Zu den Bewohnern der neuen Gebäude gehörten u. a. die Schriftstellerin Auguste Lazar und der Sprachwissenschaftler Victor
-Klemperer. Im Weißeritztal waren bereits zu Beginn des 19. Jahrhunderts wichtige Großbetriebe entstanden, darunter das [Eisenhammerwerk](../../Sud/Plauen/Plauenscher_Grund/Eisenhammerwerk/eisenhammerwerk.html) Dölzschen und die aus der
+Klemperer. Im Weißeritztal waren bereits zu Beginn des 19. Jahrhunderts wichtige Großbetriebe entstanden, darunter das [Eisenhammerwerk](../../sud/plauen/plauenscher_grund/eisenhammerwerk/) Dölzschen und die aus der
 früheren Neumühle hervorgegangenen König-Friedrich-August-Mühlenwerke AG _(Foto)_.
 
 Bedingt durch den Zuzug begüterter Geschäftsleute, Fabrikanten und Beamter wuchsen auch die Steuereinnahmen des
 Ortes an. Diese ermöglichten neben dem Ausbau des Straßennetzes die Förderung der Sport und Kultur. Auf Anregung des Dölzschener Bürgermeisters Alfred Darre entstanden 1928 ein Sportplatz sowie eine Turn- und
-Festhalle für öffentliche Veranstaltungen, welche 1945 leider den Bomben zum Opfer fiel. Außerdem wurde das bereits bestehende Luftbad zum Schwimmbad ausgebaut und ein gemeindeeigener [Friedhof](../../sudwest/Dolzschen/Dolzschener_Friedhof/dolzschener_friedhof.html) mit Kapelle angelegt. In
+Festhalle für öffentliche Veranstaltungen, welche 1945 leider den Bomben zum Opfer fiel. Außerdem wurde das bereits bestehende Luftbad zum Schwimmbad ausgebaut und ein gemeindeeigener [Friedhof](../../sudwest/dolzschen/dolzschener_friedhof/) mit Kapelle angelegt. In
 den Dreißiger Jahren folgte an der Flurgrenze zu Naußlitz eine Wohnsiedlung des Dresdner Spar- und Bauvereins.
 
-1923 kam die Gemeinde [Roßthal](../../sudwest/Rossthal/rossthal.html) mit ihrem Ortsteil [Neunimptsch](../../sudwest/Rossthal/Neunimptsch/neunimptsch.html) zu Dölzschen, welches seine Selbstständigkeit noch
+1923 kam die Gemeinde [Roßthal](../../sudwest/rossthal/) mit ihrem Ortsteil [Neunimptsch](../../sudwest/rossthal/neunimptsch/) zu Dölzschen, welches seine Selbstständigkeit noch
 bis nach dem Zweiten Weltkrieg bewahren konnte. Erst am 1. Juli 1945 wurde Dölzschen Stadtteil von Dresden. 1959 wurde der Ort durch Einrichtung einer Buslinie zum Dorfplatz an den öffentlichen Nahverkehr angeschlossen.
 Außerdem schlossen sich die verbliebenen Bauern zu einer LPG zusammen. An der Wurgwitzer Straße entstand in den 1960er Jahren eine nach 1990 wieder geschlossene Schweinemastanlage.
 
@@ -126,8 +126,8 @@ Sportgemeinschaft als Betriebsmannschaft der Brauerei Felsenkeller angegliedert 
 welche zu ihrem ursprünglichen Namen SG Dölzschen 1928 e.V. zurückkehrte. Bis heute nutzt der Verein, der mit mehreren Fußballmannschaften am Spielbetrieb teilnimmt, sein Vereinsgelände mit Hartplatz und Sportheim Am
 Dölzschgraben.
 
-[_Weiterführende Literatur und Quellen_](../../Impressum/Quellenverzeichnis/quellenverzeichnis.html)
+[_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 
 
- \[ [Home](../../index.html)\] \[ [Nord](../../Nord/nord.html)\] \[ [Nordwest](../../Nordwest/nordwest.html)\] \[ [Neustadt](../../Neustadt/neustadt.html)\] \[ [Nordost](../../Nordost/nordost.html)\] \[ [West](../../West/west.html)\] \[ [Zentrum](../../Zentrum/zentrum.html)\] \[ [Südwest](../../sudwest/sudwest.html)\] \[ [Süd](../../Sud/sud.html)\]
- \[ [Südost](../../Sudost/sudost.html)\] \[ [Ost](../../Ost/ost.html)\] \[ [Register](../../Register/register.html)\] \[ [Kontakt](../../Kontakt/kontakt.html)\] \[ [Impressum](../../Impressum/impressum.html)\]
+ \[ [Home](../../index.html)\] \[ [Nord](../../nord/)\] \[ [Nordwest](../../nordwest/)\] \[ [Neustadt](../../neustadt/)\] \[ [Nordost](../../nordost/)\] \[ [West](../../west/)\] \[ [Zentrum](../../zentrum/)\] \[ [Südwest](../../sudwest/sudwest.html)\] \[ [Süd](../../sud/)\]
+ \[ [Südost](../../sudost/)\] \[ [Ost](../../ost/)\] \[ [Register](../../register/)\] \[ [Kontakt](../../kontakt/)\] \[ [Impressum](../../impressum/)\]

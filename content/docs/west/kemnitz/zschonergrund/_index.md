@@ -33,7 +33,7 @@ und Kemnitz (slawisch: Steinbach) weisen ebenfalls auf diesen Flusslauf hin.
 
 Bereits im Mittelalter wurde das Tal wirtschaftlich genutzt. So dienten die Wiesen den Bauern der angrenzenden Ortschaften zur
 Heugewinnung. An den sonnigen Hängen wurde früher Wein angebaut, später auch Obstbäume. Außerdem war das Revier um den Zschonergrund Jagdrevier des Kurprinzen. Bereits 1324 wurde erstmals eine heute verschwundene Mühle
-im Grund erwähnt. Ihre Nachfolge traten später die [Zschonermühle](../../../West/Kemnitz/Zschonergrund/Zschonermuhle/zschonermuhle.html), die [Weltemühle](../../../west/kemnitz/zschonergrund/weltemuhle/) und die [Schulzenmühle](../../../West/Kemnitz/Zschonergrund/Schulzenmuhle/schulzenmuhle.html) an.
+im Grund erwähnt. Ihre Nachfolge traten später die [Zschonermühle](../../../west/kemnitz/zschonergrund/zschonermuhle/), die [Weltemühle](../../../west/kemnitz/zschonergrund/weltemuhle/) und die [Schulzenmühle](../../../west/kemnitz/zschonergrund/schulzenmuhle/) an.
 
 ![](../../../west/kemnitz/zschonergrund/zschonergrund.jpg)
 
@@ -80,7 +80,7 @@ Seit 1996 bemüht sich ein Verein um den Erhalt des Bades, welches nach einer me
 Rekonstruktion im Mai 2015 wieder eröffnet werden konnte. Bereits zuvor fanden Badfeste auf dem Gelände statt, um die notwendigen finanziellen Mittel für den Wiederaufbau zu beschaffen.
 Ende 2010 konnte das komplett erneuerte Schwimmbecken erstmals wieder probeweise gefüllt werden. Außerdem wurde eine kleine Sommerwirtschaft eingerichtet. Die gesamte Anlage mit dem historischen Dreiseithof
 von 1836, dem Schwimmbecken und den Nebengebäuden steht seit einigen Jahren unter Denkmalschutz. Als künstlerischer
-Blickfang wurde ein Springbunnen mit einer Plastik Georg Wrbas aufgestellt. Die Bronzefigur eines Knaben mit Fisch gehörte ursprünglich zur Ausstattung des 1945 zerstörten [Güntzbades](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Guntzbad/guntzbad.html).
+Blickfang wurde ein Springbunnen mit einer Plastik Georg Wrbas aufgestellt. Die Bronzefigur eines Knaben mit Fisch gehörte ursprünglich zur Ausstattung des 1945 zerstörten [Güntzbades](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/guntzbad/).
 
 ## Birus-Gedenkstein
 

@@ -31,7 +31,7 @@ genommen, das Gebäude von den Luckner-Erben zu erwerben und abzureißen. Schlos
 undeutscher Bau und Beispiel schlechtester Art neugotischer Bemühungen bezeichnet und Ende 1939 abgetragen. Auch ein Einspruch des Landesdenkmalpflegers Walter
 Bachmann konnte den Abbruch nicht verhindern. An Stelle des Schlosses sollte eine Führerschule der Hitlerjugend entstehen, mit deren Bau jedoch kriegsbedingt nicht mehr
 begonnen wurde. Dem Abriss entgingen lediglich die Kellerräume des Gebäudes und Teile der Toranlage des Schlosshofes mit zwei Löwenplastiken _(Foto rechts)_ und einigen Türmen.
-Die wertvolle Kassettendecke des Festsaales kam nach Dresden-Wilschdorf und wurde dort 1942 im [Gasthof](../../../Nord/Wilschdorf/wilschdorf.html) eingebaut.
+Die wertvolle Kassettendecke des Festsaales kam nach Dresden-Wilschdorf und wurde dort 1942 im [Gasthof](../../../nord/wilschdorf/) eingebaut.
 
 ![](../../../sudwest/altfranken/schloss_altfranken/altfrankenschloss2.jpg)1945 entstand auf dem Schlossgelände ein Barackenlager für Ausgebombte und
 Flüchtlinge aus den Ostgebieten. Nach Kriegsende waren hier zeitweise auch Angehörige der Dresdner NSDAP-Führungsschicht interniert. Zur Brennholzgewinnung wurden Bäume im Schlosspark abgesägt und der Park
@@ -62,4 +62,4 @@ deshalb durch einen Neuguss ersetzt, welcher auf den strittigen Glockenzierrat v
 
 * * *
 
- \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../Sud/sud.html)\] \[ [Südost](../../../Sudost/sudost.html)\] \[ [Ost](../../../Ost/ost.html)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../Impressum/impressum.html)\]
+ \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../sud/)\] \[ [Südost](../../../sudost/)\] \[ [Ost](../../../ost/)\] \[ [Register](../../../register/)\] \[ [Kontakt](../../../kontakt/)\] \[ [Impressum](../../../impressum/)\]

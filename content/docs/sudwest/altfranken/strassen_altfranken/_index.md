@@ -28,7 +28,7 @@ Dorfschmiede. Bis zur Eingemeindung des Ortes wurde er Schmiedeweg genannt. In a
 Die Straße Am Lucknerpark dient der Erschließung einer kleinen Wohnsiedlung im nördlichen
 Teil Altfrankens. Eine gleichnamige Straße gab es in unmittelbarer Nähe auch auf Gorbitzer Flur. Diese wurde jedoch bereits 1950 in Am Altfrankener Park umbenannt.
 
-Hier befindet sich der nördliche Zugang zum Altfrankener Schlosspark. Der Park wurde ab 1850 für den Besitzer des [Schlosses Altfranken](../../../sudwest/altfranken/Schloss_Altfranken/schloss_altfranken.html) Johann Heinrich Wilhelm von Luckner als
+Hier befindet sich der nördliche Zugang zum Altfrankener Schlosspark. Der Park wurde ab 1850 für den Besitzer des [Schlosses Altfranken](../../../sudwest/altfranken/schloss_altfranken/) Johann Heinrich Wilhelm von Luckner als
 englischer Landschaftspark angelegt. Leider ging die ursprüngliche Struktur nach 1945 durch den Bau eines Campingplatzes, nach 1990 durch den Autobahnbau teilweise verloren. In
 jüngster Zeit begann jedoch die Wiederherstellung der historischen Anlage.
 
@@ -73,4 +73,4 @@ des Bundesverdienstkreuzes. 1999 wurden hier im Anschluss an die bestehende Beba
 
 * * *
 
- \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../Sud/sud.html)\] \[ [Südost](../../../Sudost/sudost.html)\] \[ [Ost](../../../Ost/ost.html)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../Impressum/impressum.html)\]
+ \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../sud/)\] \[ [Südost](../../../sudost/)\] \[ [Ost](../../../ost/)\] \[ [Register](../../../register/)\] \[ [Kontakt](../../../kontakt/)\] \[ [Impressum](../../../impressum/)\]

@@ -53,7 +53,7 @@ Die heutige Merbitzer Straße ist Teil des früheren Bischofsweges, der von Mei�
 Merbitzer Straße erhielt. Die um 1900 erfolgte Bebauung führte zur weitgehenden Zerstörung einer zuvor noch in Resten erhaltenen slawischen Wallanlage auf
 Briesnitzer Flur. Historisch interessant ist das 1996 sanierte Fachwerkhaus Merbitzer Straße 4 von 1602.
 
-1888 errichtete die Gemeinde Briesnitz an der Merbitzer Straße ein neues [Schulhaus](../../../West/Briesnitz/briesnitz.html), welches die alte Dorfschule an der
+1888 errichtete die Gemeinde Briesnitz an der Merbitzer Straße ein neues [Schulhaus](../../../west/briesnitz/), welches die alte Dorfschule an der
 Meißner Landstraße ablöste. In den 1930er Jahren entstand in Kemnitz eine Wohnsiedlung oberhalb des Zschonergrundes _(Foto)_
 . 2012 begann in der Nähe der Umbau der ehemaligen Gummifabrik Leupold zu einer kleinen Wohnanlage. Noch bis 1993 wurden auf dem Areal Merbitzer Straße 55 Gummimischungen, Walzen, Rollen- und Räderbezüge sowie Dichtungen
 und ähnliche Waren produziert, zuletzt unter der Firmierung Gummiwerk Dresden-West. Unter weitgehendem Erhalt der historischen Bausubstanz sollen nun künftig in den Gebäuden Eigentumswohnungen entstehen.
