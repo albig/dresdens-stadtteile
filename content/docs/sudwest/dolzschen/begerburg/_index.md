@@ -25,7 +25,6 @@ date: 2024-02-17T22:13:43+01:00
 
 
 
-![](../../../a_pfeillinie_307.gif)
 
 ![](../../../sudwest/dolzschen/begerburg/d_lzschenbegerburg.jpg)Auf einem steilen Felsvorsprung über dem Plauenschen Grund, der wegen
 seiner Lage und Form ursprünglich Kanapee genannt wurde, ließ sich der Roßthaler Rittergutsbesitzer Carl Siegmund von Nimptsch Mitte des 18. Jahrhunderts das Lusthäuschen Carlsburg erbauen. Das hölzerne Bauwerk

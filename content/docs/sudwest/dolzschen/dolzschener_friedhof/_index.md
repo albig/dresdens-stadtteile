@@ -17,7 +17,6 @@ date: 2024-02-17T22:13:43+01:00
 
 ![dölzschener friedhof friedhofsweg 01187 dresden  tel. 0171/6434593](../../../sudwest/dolzschen/dolzschener_friedhof/a_rectangle_584.gif)
 
-![](../../../a_pfeillinie_159.gif)
 
 ![](../../../sudwest/dolzschen/dolzschener_friedhof/d_lzschenfriedhof.jpg)Der Dölzschener Friedhof entstand 1923 auf freiem Feld zwischen Dölzschen
 und Roßthal. Da Dölzschen nie eine eigene Kirche besaß, unterstand der Ort im Mittelalter der Frauenkirche und ab 1578 der neu errichteten Annenkirche in der
