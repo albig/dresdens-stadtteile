@@ -1,5 +1,5 @@
 ---
-title: "strassen_dolzschen"
+title: "Straßen Dolzschen"
 date: 2024-02-17T22:13:43+01:00
 ---
 
