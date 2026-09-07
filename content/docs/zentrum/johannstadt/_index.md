@@ -29,21 +29,6 @@ date: 2024-02-17T22:13:47+01:00
 
 * * *
 
-**Schulen in der Johannstadt**
-
-[![](../../zentrum/johannstadt/6gsjohannstadt.jpg)](http://cms.sn.schule.de/gs6dd)
-
-[![](../../zentrum/johannstadt/101msjohannstadt.jpg)](http://101ms-dresden.bplaced.de/index.php?Start)
-
-[![](../../zentrum/johannstadt/johanna.jpg)](http://cms.sn.schule.de/gs102dd/start/)
-
-[![](../../zentrum/johannstadt/113gsjohannstadt.jpg)](http://www.canaletto-grundschule.de.vu)
-
-[![](../../zentrum/johannstadt/brechtgymnasium.jpg)](http://www.bebe-dresden.de)
-
-[![](../../zentrum/johannstadt/berufsschulzentrum.jpg)](http://www.bsz-technik-zeuner.de/)
-
-
 Die Geschichte der heutigen Johannstadt begann im Jahr 1874, als das zuvor für dieses zur Äußeren Pirnaischen Vorstadt gehörende Gebiet geltende Bauverbot aufgehoben wurde. Bis dahin gab es hier lediglich Wiesen und landwirtschaftlich genutzte Flächen sowie einige Ziegeleien und Vorwerke. Im Mittelalter gehörten Teile des Areals zur Siedlung [Ranvoltitz](../../zentrum/johannstadt/ranvoltitz/), welche jedoch im 14. Jahrhundert unter ungeklärten Umständen zur Wüstung wurde. Fortan besaßen das Dresdner Maternihospital, das Neustädter Augustinerkloster und das dem städtischen Rat unterstehende Brückenamt hier Grundstücke, darunter die bewaldeten Flächen des [Blasewitzer Tännichts](../../ost/) und einige Weinberge am Tatzberg. Von wirtschaftlicher Bedeutung war die in der Nähe des heutigen [Sachsenplatzes](../../zentrum/johannstadt/strassen_johannstadt/sachsenplatz/) gelegene Ratsziegelei, in der ein Großteil der in Dresden benötigten Ziegel hergestellt wurde. Im Zuge der Reformation übernahm die Stadt die Flächen des aufgelösten Klosters und nutzte sie als Weideland. 1683 waren diese Schauplatz eines großen Heerlagers der sächsischen Armee unter Kurfürst Johann Georg III. Bis 1873 fand hier in der Nähe des Güntzplatzes die Dresdner [Vogelwiese](../../zentrum/johannstadt/vogelwiese/) statt.
 
 Noch bis ins 19. Jahrhundert führten nur wenige Straßen und Wege durch diese Fluren und verbanden die hier
