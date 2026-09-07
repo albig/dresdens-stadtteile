@@ -28,14 +28,6 @@ date: 2024-02-17T22:13:47+01:00
 
 [![](../../zentrum/friedrichstadt/schulmuseum.jpg)](http://www.schulmuseum-dresden.de)
 
-* * *
-
-**Bildungseinrichtungen in der Friedrichstadt:**
-
-[![](../../zentrum/friedrichstadt/48gsfriedrichstadt.jpg)](http://www.48grundschule-dresden.de)
-
-[![](../../zentrum/friedrichstadt/bszgastgewerbe.jpg)](http://www.bsz-gast-dd.de)
-
 
 Die Geschichte der Friedrichstadt begann am 25. Juli 1670, als der damalige Kurfürst Johann Georg II. in einer Bekanntmachung dazu aufforderte, sich an der zum Ostravorwerk führenden Straße anzusiedeln und
 dort neue Häuser zu bauen. Eine Siedlung hatte es hier bereits im 12. Jahrhundert gegeben. 1206 wurde dieses Dorf [Ostra](../../zentrum/friedrichstadt/ostra/), welches aus einem Herrengut und
