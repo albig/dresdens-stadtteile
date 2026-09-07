@@ -29,7 +29,6 @@ date: 2024-02-17T22:13:44+01:00
 
 [**zur HOMEPAGE**](http://www.fleischereischulze.de)
 
-[![](../../../../werbungklein3.jpg)](../../../../Impressum/Werbung/werbung.html)
 
 
 ![](../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/l_btaukesselsdorfer1.jpg)Die Kesselsdorfer Straße bestand schon gegen Ende des 12. Jahrhunderts als Teil

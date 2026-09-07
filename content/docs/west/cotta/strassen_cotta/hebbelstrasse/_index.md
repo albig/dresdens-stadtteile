@@ -13,7 +13,6 @@ date: 2024-02-17T22:13:45+01:00
 
 * * *
 
-[![](../../../../werbungklein3.jpg)](../../../../Impressum/Werbung/werbung.html)
 
 
 ![](../../../../west/cotta/strassen_cotta/hebbelstrasse/cottaturnerheim.jpg)Die frühere Dorfstraße von Cotta erhielt 1887 zunächst den Namen Wölfnitzer Straße, bevor sie 1904 in Hebbelstraße umbenannt wurde. Ebenso wie der Name des benachbarten Hebbelplatzes erinnert sie an den deutschen Dichter Christian Friedrich Hebbel (1813-1863), der zahlreiche Dramen, Gedichte, Erzählungen und Novellen schuf und nicht zuletzt durch seine Tagebücher bekannt wurde. An der Hebbelstraße sind noch einige historische Gebäude aus der Vergangenheit Cottas erhalten geblieben, darunter das Faustsche Weingut (Nr. 26), die 1895 errichtete [Interimskirche](../../../../west/cotta/heilandskirche/), das zweite [Cottaer Schulhaus](../../../../west/cotta/) und einige Bauernhäuser. Außerdem existiert hier seit 1913 das kleine Cottaer [Freibad](../../../../west/cotta/strassen_cotta/hebbelstrasse/freibad_cotta/).

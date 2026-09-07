@@ -17,7 +17,6 @@ date: 2024-02-17T22:13:44+01:00
 
 * * *
 
-[![](../../../../werbungklein3.jpg)](../../../../Impressum/Werbung/werbung.html)
 
 
 ![](../../../../l_btautharstr3.jpg)Die heutige Tharandter Straße wurde Mitte des 16. Jahrhunderts als Fußweg durch

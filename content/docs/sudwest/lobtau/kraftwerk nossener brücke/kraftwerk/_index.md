@@ -3,11 +3,6 @@ title: "Kraftwerk"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![Kraftwerk Nossener Brücke](../../../sudwest/Lobtau/Kraftwerk Nossener Brücke/Kraftwerk_Nossener_Brucke_NIndBanner.GIF)
-
-* * *
-
-
 
 [![](../../../hauptseitel_btau.jpg)](../../../sudwest/Lobtau/lobtau.html)
 
@@ -28,4 +23,3 @@ _**Fotos:** Blick in die Turbinenhalle und den Leitstand des Kraftwerks_
 * * *
 
  \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../Sud/sud.html)\] \[ [Südost](../../../Sudost/sudost.html)\] \[ [Ost](../../../Ost/ost.html)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../Impressum/impressum.html)\]
-

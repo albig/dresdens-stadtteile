@@ -13,7 +13,6 @@ date: 2024-02-17T22:13:44+01:00
 
 * * *
 
-[![](../../../../werbungklein3.jpg)](../../../../Impressum/Werbung/werbung.html)
 
 
 ![](../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/l_btauebertpl3.jpg)Der heutige Ebertplatz wurde 1890 auf einer Freifläche in der Nähe der

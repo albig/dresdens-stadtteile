@@ -17,7 +17,6 @@ date: 2024-02-17T22:13:44+01:00
 
 [![](../../../../sudwest/lobtau/strassen_lobtau/lobtauer_strasse/fanprojektdd.jpg)](http://www.fanprojekt-dresden.de)
 
-[![](../../../../werbungklein3.jpg)](../../../../Impressum/Werbung/werbung.html)
 
 
 ![](../../../../sudwest/lobtau/strassen_lobtau/lobtauer_strasse/l_btauer_stra_e.jpg)Die Löbtauer Straße verbindet die Friedrichstadt mit Löbtau und erhielt ihren Namen
