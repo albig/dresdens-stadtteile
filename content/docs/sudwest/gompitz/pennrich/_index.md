@@ -14,7 +14,7 @@ date: 2024-02-17T22:13:44+01:00
 
 ![](../../../plz_01156.jpg)
 
-[![](../../../nachbarn.jpg)](../../../sudwest/Gompitz/gompitz.html)
+[![](../../../nachbarn.jpg)](../../../sudwest/gompitz/)
 
 Pennrich wurde 1378 im Verzeichnis der Orte des Amtes Dresden erstmals erwähnt. Der Ort entstand vermutlich im 11. Jahrhundert als Gassendorf deutscher Kolonisten. Möglicherweise ging in der Ortsflur die
 bereits vorhandene slawische Siedlung Ranczwicz auf, da Pennrich noch um 1469 als Penerik-Ranczwicz bezeichnet wird. Die Herkunft des Ortsnamens ist unklar. Wahrscheinlich stand das altsorbische Wort pnarik = Baumstock
@@ -83,10 +83,10 @@ erhaltene Gebäude wird heute als Kindergarten Gompitzer Spatzennest genutzt
 Das Gemeindeamt für Gompitz und seine Ortsteile entstand 1994 an der Altnossener Straße in Pennrich und beherbergte bis zur Eingemeindung die Verwaltung des Ortes. Außerdem entstanden ein Gemeindesaal sowie ein
 Depot der Freiwilligen Feuerwehr. Ursprünglich gehörte das Grundstück zum sogenannten Postgut. Heute hat hier die Ortschaftsverwaltung Gompitz ihren Sitz. Vor dem Haus wurde eine historische Wasserpumpe aufgestellt.
 
-[![pennricher straßen](../../../sudwest/gompitz/pennrich/a_rectangle_1960.gif)](../../../sudwest/Gompitz/Pennrich/Strassen_Gompitz/strassen_gompitz.html)
+[![pennricher straßen](../../../sudwest/gompitz/pennrich/a_rectangle_1960.gif)](../../../sudwest/gompitz/pennrich/strassen_gompitz/)
 
-[_Weiterführende Literatur und Quellen_](../../../Impressum/Quellenverzeichnis/quellenverzeichnis.html)
+[_Weiterführende Literatur und Quellen_](../../../impressum/quellenverzeichnis/)
 
 ![](../../../cubesdivider.gif)
 
- \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../Sud/sud.html)\] \[ [Südost](../../../Sudost/sudost.html)\] \[ [Ost](../../../Ost/ost.html)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../Impressum/impressum.html)\]
+ \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../sud/)\] \[ [Südost](../../../sudost/)\] \[ [Ost](../../../ost/)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../impressum/)\]

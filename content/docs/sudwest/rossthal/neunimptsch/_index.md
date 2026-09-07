@@ -22,7 +22,7 @@ date: 2024-02-17T22:13:44+01:00
 ![](../../../sudwest/rossthal/neunimptsch/neunimptsch1.jpg)Die Tagelöhnersiedlung Neunimptsch entstand erst Ende des 18. Jahrhunderts auf
 Roßthaler Flur. Im Mittelalter existierte an dieser Stelle ein Dorf Beerhut, welches jedoch um 1430 aus unklaren Gründen zur Wüstung wurde. Der Name dieses
 Ortes lebt heute noch in der Straßenbezeichnung Beerenhut fort. 1785 begann der Roßthaler Rittergutsbesitzer Carl Albrecht von Nimptsch mit der Errichtung
-einiger Drescherhäuser an der Ortsgrenze zu Niedergorbitz. Die kleinen Wohnhäuser dienten zur Unterbringung von Häuslern und Landarbeitern für die Felder des Rittergutes. Gemeinsam mit den sogenannten [Roten Häusern](../../../sudwest/Rossthal/Strassen_Rossthal/strassen_rossthal.html) und den Jägerhäusern am Rande der Pesterwitzer Flur wurde die Siedlung zu einem
+einiger Drescherhäuser an der Ortsgrenze zu Niedergorbitz. Die kleinen Wohnhäuser dienten zur Unterbringung von Häuslern und Landarbeitern für die Felder des Rittergutes. Gemeinsam mit den sogenannten [Roten Häusern](../../../sudwest/rossthal/strassen_rossthal/) und den Jägerhäusern am Rande der Pesterwitzer Flur wurde die Siedlung zu einem
 selbständigen Gutsbezirk zusammengefasst, der den Namen Neunimptsch erhielt. 1795 entstand am Ortsrand das Weinbergschlößchen Jochhöh, welches seit 1953 Seniorenheim der Stadt Freital ist.
 
 Bis zur Ablösung der Frondienste nach 1830 waren die Bewohner des Ortes zu regelmäßigen Arbeiten auf den
@@ -36,4 +36,4 @@ Neunimptsch mit Roßthal vereinigt, kam 1923 als Ortsteil zu Dölzschen und ist 
 
 **_Fotos:_** _alte Wohnhäuser in Neunimptsch - links an der Straße Beerenhut - rechts die Neunimptscher Straße_
 
- \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../Sud/sud.html)\] \[ [Südost](../../../Sudost/sudost.html)\] \[ [Ost](../../../Ost/ost.html)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../Impressum/impressum.html)\]
+ \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../sud/)\] \[ [Südost](../../../sudost/)\] \[ [Ost](../../../ost/)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../impressum/)\]

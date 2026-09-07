@@ -9,11 +9,11 @@ date: 2024-02-17T22:13:44+01:00
 
 
 
-[![](../../../sudwest/rossthal/strassen_rossthal/hauptseitero_thal2.jpg)](../../../sudwest/Rossthal/rossthal.html)
+[![](../../../sudwest/rossthal/strassen_rossthal/hauptseitero_thal2.jpg)](../../../sudwest/rossthal/)
 
 ![altroßthal](../../../sudwest/rossthal/strassen_rossthal/a_rectangle_559.gif)
 
-Altroßthal bildet den Mittelpunkt des früheren selbstständigen Gutsbezirkes Roßthal. Neben dem 1657 entstandenen [Herrenhaus](../../../sudwest/Rossthal/Schloss_Rossthal/schloss_rossthal.html) sind hier auch noch einige Gebäude des Rittergutes erhalten geblieben. Bemerkenswert ist das frühere Gladewitz-Gut (Nr. 7) mit einer historischen Inschriftentafel von 1802.
+Altroßthal bildet den Mittelpunkt des früheren selbstständigen Gutsbezirkes Roßthal. Neben dem 1657 entstandenen [Herrenhaus](../../../sudwest/rossthal/schloss_rossthal/) sind hier auch noch einige Gebäude des Rittergutes erhalten geblieben. Bemerkenswert ist das frühere Gladewitz-Gut (Nr. 7) mit einer historischen Inschriftentafel von 1802.
 
 ![](../../../sudwest/rossthal/ro_thal2.jpg)![](../../../sudwest/rossthal/strassen_rossthal/ro_thal3.jpg)
 
@@ -46,7 +46,7 @@ Gutsarbeiterhäusern entstanden nach 1930 weitere Siedlungshäuser am Kuntzschbe
 
 ![](../../../sudwest/rossthal/strassen_rossthal/neunimptschgrie_bach.jpg)
 Der Name der Verbindungsstraße zwischen Gorbitz und Roßthal geht auf den Roßthaler Rittergutsbesitzer Günther Karl Albrecht von Nimptsch zurück, der 1785
-die ersten Drescherhäuser in diesem Bereich errichten ließ. Gemeinsam mit weiteren verstreut liegenden Gebäuden erhielt die Siedlung den Namen [Neunimptsch](../../../sudwest/Rossthal/Neunimptsch/neunimptsch.html).
+die ersten Drescherhäuser in diesem Bereich errichten ließ. Gemeinsam mit weiteren verstreut liegenden Gebäuden erhielt die Siedlung den Namen [Neunimptsch](../../../sudwest/rossthal/neunimptsch/).
 
 Zu den wenigen erhaltenenen Sachzeugen der Entstehungszeit gehört ein Gedenkstein an der Neunimptscher Straße 3, der eine Adelskrone und die Jahreszahl 1804 trägt.
 Die meisten der heutigen Mietshäuser wurden erst Ende des 19. Jahrhunderts erbaut.
@@ -80,4 +80,4 @@ Name erinnert an die berühmte Bergwiese in der Schweiz, auf der die Gründung d
 
 * * *
 
- \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../Sud/sud.html)\] \[ [Südost](../../../Sudost/sudost.html)\] \[ [Ost](../../../Ost/ost.html)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../Impressum/impressum.html)\]
+ \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../sud/)\] \[ [Südost](../../../sudost/)\] \[ [Ost](../../../ost/)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../impressum/)\]

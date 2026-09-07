@@ -60,7 +60,7 @@ verbessern, legte die Gemeinde um 1900 kleinere Parkanlagen am heutigen Conertpl
 
 Die Luftangriffe des Zweiten Weltkrieges trafen auch die Vorstadt Löbtau schwer. Bereits am 16. Januar 1945, noch
 vor den Großangriffen auf Dresden, zerstörten Bomben einige Gebäude an der Poststraße und der Kesselsdorfer Straße. Neben Industrieanlagen, dem Rathaus und der Friedenskirche wurden am 13./14. Februar 1945 weitere
-Wohngebäude zerstört, vor allem im Bereich um den heutigen Ebertplatz und an der Kreuzung Kesselsdorfer/ Tharandter Straße. Auch der bekannte [Drei-Kaiser-Hof](../../sudwest/lobtau/Strassen_Lobtau/Kesselsdorfer_Strasse/Drei-Kaiser-Hof/drei-kaiser-hof.html) fiel den Bomben zum Opfer. Noch am 17. April 1945 fielen
+Wohngebäude zerstört, vor allem im Bereich um den heutigen Ebertplatz und an der Kreuzung Kesselsdorfer/ Tharandter Straße. Auch der bekannte [Drei-Kaiser-Hof](../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/drei-kaiser-hof/) fiel den Bomben zum Opfer. Noch am 17. April 1945 fielen
 Bomben auf mehrere Industriebetriebe und das Städtische Krankenhaus an der Löbtauer Straße, welches fast vollständig ausbrannte. Für die Opfer der Bombenangriffe befindet sich auf dem Neuen Annenfriedhof eine
 Gedenkstätte.
 

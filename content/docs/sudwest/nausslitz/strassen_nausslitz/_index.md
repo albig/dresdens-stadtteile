@@ -9,9 +9,9 @@ date: 2024-02-17T22:13:44+01:00
 
 
 
-[![](../../../sudwest/nausslitz/strassen_nausslitz/hauptseitenau_litz2.jpg)](../../../sudwest/Nausslitz/nausslitz.html)
+[![](../../../sudwest/nausslitz/strassen_nausslitz/hauptseitenau_litz2.jpg)](../../../sudwest/nausslitz/)
 
-[![](../../../sudwest/nausslitz/strassen_nausslitz/hauptseitew_lfnitz2.jpg)](../../../sudwest/Wolfnitz/wolfnitz.html)
+[![](../../../sudwest/nausslitz/strassen_nausslitz/hauptseitew_lfnitz2.jpg)](../../../sudwest/wolfnitz/)
 
 ![alfred-thiele-straße](../../../sudwest/nausslitz/strassen_nausslitz/a_rectangle_492.gif)
 
@@ -23,7 +23,7 @@ Die Straße trug ab 1923 zunächst den Namen Jochhöhstraße, benannt nach einem
 
 ![altnaußlitz](../../../sudwest/nausslitz/strassen_nausslitz/a_rectangle_493.gif)
 
-Als Altnaußlitz wird seit 1871 der frühere Dorfkern von [Naußlitz](../../../sudwest/Nausslitz/nausslitz.html) bezeichnet. Bis 1903 findet sich die Schreibweise Alt-Naußlitz in den Adressbüchern. Trotz Abbrüchen nach 1945 und 1990 sind hier noch einige Bauerngüter erhalten geblieben, die jedoch heute ausschließlich Wohnzwecken dienen und in den letzten Jahren saniert wurden. Bedeutendstes und größtes Gehöft ist der nach seinem früheren Besitzer benannte Kaiserhof (Nr. 10). Mitte der 1990er Jahre wurde er zu einer Wohnanlage umgebaut.
+Als Altnaußlitz wird seit 1871 der frühere Dorfkern von [Naußlitz](../../../sudwest/nausslitz/) bezeichnet. Bis 1903 findet sich die Schreibweise Alt-Naußlitz in den Adressbüchern. Trotz Abbrüchen nach 1945 und 1990 sind hier noch einige Bauerngüter erhalten geblieben, die jedoch heute ausschließlich Wohnzwecken dienen und in den letzten Jahren saniert wurden. Bedeutendstes und größtes Gehöft ist der nach seinem früheren Besitzer benannte Kaiserhof (Nr. 10). Mitte der 1990er Jahre wurde er zu einer Wohnanlage umgebaut.
 
 ![](../../../sudwest/nausslitz/strassen_nausslitz/nau_litz3.jpg)![](../../../sudwest/nausslitz/strassen_nausslitz/nau_litz4.jpg)
 
@@ -107,7 +107,7 @@ Die Hainichener Straße entstand 1933 als Fortsetzung der Rüdesheimer Straße u
 
 Die Hersfelder Straße wurde 1935 beim Ausbau eines kleinen Wohnviertels westlich der Kasseler Straße angelegt. Seit November 1936 ist sie nach der hessischen Stadt Hersfeld (seit 1949 Bad Hersfeld) benannt.
 
-[![kesselsdorfer straße](../../../sudwest/a_rectangle_472.gif)](../../../sudwest/Lobtau/Strassen_Lobtau/Kesselsdorfer_Strasse/kesselsdorfer_strasse.html)
+[![kesselsdorfer straße](../../../sudwest/a_rectangle_472.gif)](../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/)
 
 ![koblenzer straße](../../../sudwest/nausslitz/strassen_nausslitz/a_rectangle_499.gif)
 
@@ -136,7 +136,7 @@ Befehlshaber der sächsischen Truppen an der Schlacht von Kesselsdorf 1745 teil.
 1946 wurde die Straße in Olbernhauer Straße umbenannt. Neben der gewünschten Tilgung des
 militaristischen Namens sollte mit der Benennung die Stadt Olbernhau geehrt werden, die im August 1945 als erste sächsische Kommune Geld für den Wiederaufbau Dresdens zur Verfügung gestellt hatte.
 
-Markantestes Gebäude an der Olbernhauer Straße ist das [Landhaus](../../../sudwest/Wolfnitz/wolfnitz.html) eines Dresdner Arztes, welches zu den schönsten
+Markantestes Gebäude an der Olbernhauer Straße ist das [Landhaus](../../../sudwest/wolfnitz/) eines Dresdner Arztes, welches zu den schönsten
 Zeugnissen des ländlichen Barocks in der Umgebung gehört. Das benachbarte Eckgebäude (Nr. 2 - _Foto_) wurde 1900
 erbaut und sollte ursprünglich Sitz der Gemeindeverwaltung werden. Aus diesem Grund erhielt der Bau eine repräsentative
 Fassade mit einigen Jugendstilelementen. Da Wölfnitz jedoch bereits 1903 nach Dresden eingemeindet wurde, wurde das Rathaus als solches nicht mehr benötigt, sondern diente ausschließlich Wohnzwecken. Eine Sanierung erfolgte 1995.
@@ -155,7 +155,7 @@ Widerstandstätigkeit mehrmals verhaftet. 1945 kam er kurz vor Kriegsende im KZ 
 ![pietzschstraße](../../../sudwest/nausslitz/strassen_nausslitz/a_rectangle_503.gif)
 
 Da die Straße 1888 auf dem Grund und Boden des Naußlitzer Gutsbesitzers Julius Pietzsch angelegt wurde, erhielt sie den
-Namen Pietzschstraße. Pietzsch, der selbst in Altnaußlitz wohnte, gehörte viele Jahre dem Gemeinderat des Dorfes an. 1879 entstand an der Pietzschstraße/Ecke Wendel-Hipler-Straße das erste [Naußlitzer Schulhaus](../../../sudwest/Nausslitz/nausslitz.html), welches später bis zu seinem Abriss als Gemeindeamt diente.
+Namen Pietzschstraße. Pietzsch, der selbst in Altnaußlitz wohnte, gehörte viele Jahre dem Gemeinderat des Dorfes an. 1879 entstand an der Pietzschstraße/Ecke Wendel-Hipler-Straße das erste [Naußlitzer Schulhaus](../../../sudwest/nausslitz/), welches später bis zu seinem Abriss als Gemeindeamt diente.
 
 ![rüdesheimer straße](../../../sudwest/nausslitz/strassen_nausslitz/a_rectangle_504.gif)
 
@@ -171,7 +171,7 @@ Dresden und Freiberg. Erst durch den Ausbau der Kesselsdorfer Straße nach 1810 
 wurde nur noch als Ortsverbindung zwischen Löbtau, Naußlitz, Roßthal und Pesterwitz genutzt. 1893 erfolgte die offizielle Benennung Naußlitzer Straße.
 Nach der Eingemeindung erhielt die Straße den Namen Saalhausener Straße nach einem kleinen Dorf bei Freital.
 
-![](../../../sudwest/nausslitz/strassen_nausslitz/nau_litzsaalhausenerstr.jpg)Bereits 1899 war auf Naußlitzer Flur ein neues [Schulhaus](../../../sudwest/Nausslitz/nausslitz.html) errichtet worden. Zu gleicher
+![](../../../sudwest/nausslitz/strassen_nausslitz/nau_litzsaalhausenerstr.jpg)Bereits 1899 war auf Naußlitzer Flur ein neues [Schulhaus](../../../sudwest/nausslitz/) errichtet worden. Zu gleicher
 Zeit entstanden die meisten Gebäude im unteren Teil der Straße. Markant ist das Eckhaus an der Einmündung Rabenauer Straße, welches zu DDR-Zeiten Domizil der
 Bäckerei Kuschicke, später der Gaststätte Knolle war (Nr. 9). In den Zwanziger und Dreißiger Jahren folgten auf den verbliebenen Freiflächen neue Wohnhäuser durch
 verschiedene Bauvereine. Zur Versorgung der Anwohner wurden auch einige Ladenlokale eingerichtet, darunter in der Runden Ecke an der Langen Straße (Nr.
@@ -205,7 +205,7 @@ Brüder Otto und Luis Küchler, ab 1937 von Rudolf Olbrich. 1960 wurde die Ziege
 Die Williamstraße wurde 1872 durch den Baumeister Ferdinand Fichtner angelegt und nach seinem Sohn William benannt.
 Fichtner besaß mit seinen beiden Söhnen ein Architektur- und Baubüro in Dresden-Plauen und schuf u. a. den Fichteturm im
 Westendpark. Die heutige Roßweiner Straße trug bis zur Eingemeindung von Naußlitz den Namen Albertstraße, benannt nach dem zweiten Sohn des Architekten. Im Haus Williamstraße 5 wohnte Ende des 19. Jahrhunderts. der Eisenbahner
-Dittrich, der durch sein tragisches Schicksal als der [schlafende Bremser von Naußlitz](../../../sudwest/Nausslitz/nausslitz.html) bekannt wurde.
+Dittrich, der durch sein tragisches Schicksal als der [schlafende Bremser von Naußlitz](../../../sudwest/nausslitz/) bekannt wurde.
 
 ![](../../../cubesdivider.gif)
 
@@ -215,4 +215,4 @@ Dittrich, der durch sein tragisches Schicksal als der [schlafende Bremser von 
 
 * * *
 
- \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../Sud/sud.html)\] \[ [Südost](../../../Sudost/sudost.html)\] \[ [Ost](../../../Ost/ost.html)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../Impressum/impressum.html)\]
+ \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../sud/)\] \[ [Südost](../../../sudost/)\] \[ [Ost](../../../ost/)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../impressum/)\]

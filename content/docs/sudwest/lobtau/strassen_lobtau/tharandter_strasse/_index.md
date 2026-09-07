@@ -9,11 +9,11 @@ date: 2024-02-17T22:13:44+01:00
 
 
 
-[![](../../../../hauptseitel_btau.jpg)](../../../../sudwest/Lobtau/lobtau.html)
+[![](../../../../hauptseitel_btau.jpg)](../../../../sudwest/lobtau/)
 
-[![](../../../../hauptseiteplauen.jpg)](../../../../Sud/Plauen/plauen.html)
+[![](../../../../hauptseiteplauen.jpg)](../../../../sud/plauen/)
 
-[![](../../../../sud/hauptseitecosch_tz.jpg)](../../../../Sud/Coschutz/coschutz.html)
+[![](../../../../sud/hauptseitecosch_tz.jpg)](../../../../sud/coschutz/)
 
 * * *
 
@@ -28,16 +28,16 @@ Dörfern Potschappel und Döhlen zu schaffen. Zuvor hatte bereits 1729 der säch
 dem Reisewitzschen Garten bis zur Plauener Weißeritzbrücke befestigen lassen.
 
 An der Kreuzung Kesselsdorfer/ Tharandter Straße befand sich einst der Löbtauer Weideplatz. Mit Ausnahme einiger
-Mühlen an der Weißeritz waren die Flächen links und rechts dieses Weges unbebaut. Am Eingang zum Plauenschen Grund lag seit dem 17. Jahrhundert das Areal des [Reisewitz´schen Gartens](../../../../sudwest/Lobtau/Strassen_Lobtau/Tharandter_Strasse/Reisewitz_scher_Garten/reisewitz_scher_garten.html), welcher jedoch in der zweiten Hälfte des
+Mühlen an der Weißeritz waren die Flächen links und rechts dieses Weges unbebaut. Am Eingang zum Plauenschen Grund lag seit dem 17. Jahrhundert das Areal des [Reisewitz´schen Gartens](../../../../sudwest/lobtau/strassen_lobtau/tharandter_strasse/reisewitz_scher_garten/), welcher jedoch in der zweiten Hälfte des
 19\. Jahrhunderts der zunehmenden Bebauung weichen musste. Zeitweise bestanden in diesem Teil Löbtaus auch einige
 Handelsgärtnereien. Erst mit der Industrialisierung wuchs die Verkehrsbedeutung dieser Straße. Nach der verstärkten Erschließung der Steinkohlevorkommen in Döhlen und Burgk erfolgte 1807/09 auf Betreiben der Königlichen
 Steinkohlewerke der Ausbau zur Chaussee, die nun den Namen Kohlenstraße erhielt. 1871 wurde sie auf  Löbtauer Flur
 in Plauensche Straße umbenannt, 1904 in Tharandter Straße. Dieser Name wurde nach der Eingemeindung Dölzschens auch auf den anschließenden Abschnitt bis zur Freitaler Stadtgrenze übertragen.
 
 ![](../../../../sudwest/lobtau/strassen_lobtau/tharandter_strasse/l_btautharstr2.jpg)Zu den bedeutenden Gebäuden und Einrichtungen
-an der Tharandter Straße gehörten das 1897 vollendete Löbtauer [Rathaus](../../../../sudwest/Lobtau/lobtau.html) sowie der Hotelkomplex [Drei-Kaiser-Hof](../../../../sudwest/Lobtau/Strassen_Lobtau/Kesselsdorfer_Strasse/Drei-Kaiser-Hof/drei-kaiser-hof.html) an der Tharandter Straße, die beide 1945 den Bomben zum Opfer fielen _(Foto oben)_
+an der Tharandter Straße gehörten das 1897 vollendete Löbtauer [Rathaus](../../../../sudwest/lobtau/) sowie der Hotelkomplex [Drei-Kaiser-Hof](../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/drei-kaiser-hof/) an der Tharandter Straße, die beide 1945 den Bomben zum Opfer fielen _(Foto oben)_
 . Auch zahlreiche Wohngebäude sowie industrielle Anlagen wurden zerstört bzw. schwer beschädigt. Seit 1870 hatte sich der gesamte Bereich zwischen Tharandter Straße und Weißeritz zum Industriegebiet
-entwickelt. Neben metallverarbeitenden Betrieben wie der Firma Hille (Herstellung von Gas- und Benzinmotoren) und der Eisengießerei Buschbeck & Hebenstreit befand sich hier auch die 1843 gegründete [Schokoladenfabrik Petzold & Aulhorn](../../../../Sud/Plauen/Strassen_Plauen/Petzold___Aulhorn/petzold___aulhorn.html) sowie eine Großwerkstatt für Busse und Lkws _(Foto)_
+entwickelt. Neben metallverarbeitenden Betrieben wie der Firma Hille (Herstellung von Gas- und Benzinmotoren) und der Eisengießerei Buschbeck & Hebenstreit befand sich hier auch die 1843 gegründete [Schokoladenfabrik Petzold & Aulhorn](../../../../sud/plauen/strassen_plauen/petzold___aulhorn/) sowie eine Großwerkstatt für Busse und Lkws _(Foto)_
 . In der Nachkriegszeit wurden diese Betriebe in volkseigene Unternehmen umgewandelt, so zum VEB Kupplungs- und Triebwerkbau (Nr. 31/33) und VEB Vereinigte
 Metallgusswerke (Nr. 41). Heute nutzen verschiedene gewerbliche Unternehmen die Gebäude, darunter das Sächsische
 Druck- und Verlagshaus. Die 1902 entstandene Straßenbahn nach Freital-Hainsberg und Plauen wurde 1974 bzw. 1998 durch eine Buslinie ersetzt.
@@ -53,7 +53,7 @@ Hergestellt wurden luft- und wärmetechnische Anlagen für industrielle Zwecke, 
 Textilindustrie. Der wirtschaftliche Erfolg ermöglichte die Aufstockung des Personals auf bis zu 200 Arbeiter und den
 Erwerb eines Firmengrundstücks an der Tharandter Straße 8. 1932 schied Hugo Schultz aus der Firma aus. Während des Zweiten Weltkrieges wurden Panzer- und Bunkerbelüftungsanlagen gebaut. Im Zusammenhang mit dem
 Volksentscheid in Sachsen 1946 wurde die Firma Schulz & Schultze enteignet und in Volkseigentum überführt. Fortan firmierte das Unternehmen als VEB Luft- und Wärmetechnik und nutzte auch die Räume der ehemaligen
-[Lampenfabrik Seifert](../../../../sudwest/Lobtau/Strassen_Lobtau/strassen_lobtau.html)
+[Lampenfabrik Seifert](../../../../sudwest/lobtau/strassen_lobtau/)
 auf der Gröbelstraße. 1964 erfolgte die Eingliederung als Betriebsteil in den neu gebildeten VEB Lufttechnische
 Anlagen mit Sitz in Klotzsche. Nach 1990 wurde die Produktion eingestellt, wenig später folgte der Abriss der Gebäude.
 
@@ -82,9 +82,9 @@ der Kunstakademie gehörte sie der Künstlergruppe Dresdner Sezession um Otto Di
 schuf in den 1920er Jahren zahlreiche expressionistische Gemälde. Nach einem Nervenzusammenbruch 1929 verbrachte
 sie längere Zeit in verschiedenen psychiatrischen Kliniken, zuletzt in Arnsdorf. 1940 wurde sie in der Tötungsanstalt Pirna-Sonnenstein ein Opfer des nationalsozialistischen Euthanasieprogramms.
 
-![](../../../../sudwest/lobtau/strassen_lobtau/tharandter_strasse/l_btautharstrm_hle.jpg)In Plauen verengt sich das Weißeritztal und bildet hier den eigentlichen [Plauenschen Grund](../../../../Sud/Plauen/Plauenscher_Grund/plauenscher_grund.html), der bis ins 19. Jahrhundert wegen seiner romantischen Landschaftsbilder Anziehungspunkt für
+![](../../../../sudwest/lobtau/strassen_lobtau/tharandter_strasse/l_btautharstrm_hle.jpg)In Plauen verengt sich das Weißeritztal und bildet hier den eigentlichen [Plauenschen Grund](../../../../sud/plauen/plauenscher_grund/), der bis ins 19. Jahrhundert wegen seiner romantischen Landschaftsbilder Anziehungspunkt für
 Naturliebhaber und Künstler war. Neben einigen Mühlen entstand hier auch die zu Dölzschen gehörende Siedlung Niederdölzschen. Wichtigstes gewerbliches Unternehmen war die aus
-einem Eisenhammer hervorgegangene Friedrich-August-Hütte, später [Eisenhammerwerk Dölzschen](../../../../Sud/Plauen/Plauenscher_Grund/Eisenhammerwerk/eisenhammerwerk.html) genannt. Zeitweise bestand auch ein Schlacke-Kurbad. Die früheren Mühlen
-entwickelten sich später zum Teil zu Großbetrieben wie den [Bienert-Werken](../../../../Sud/Plauen/Bienertmuhle/bienertmuhle.html) in Plauen und
+einem Eisenhammer hervorgegangene Friedrich-August-Hütte, später [Eisenhammerwerk Dölzschen](../../../../sud/plauen/plauenscher_grund/eisenhammerwerk/) genannt. Zeitweise bestand auch ein Schlacke-Kurbad. Die früheren Mühlen
+entwickelten sich später zum Teil zu Großbetrieben wie den [Bienert-Werken](../../../../sud/plauen/bienertmuhle/) in Plauen und
 der König-Friedrich-August-Mühlenwerke AG in Dölzschen mit angeschlossener Brotfabrik _(Foto)_. Durch den Eisenbahnbau und die Industrialisierung verlor der Plauensche Grund an
 Bedeutung für den Ausflugsverkehr. Heute ist die hier entlang führende Tharandter Straße eine wichtige Verkehrsverbindung zwischen Dresden und Freital und wurde nach 1990 ausgebaut.

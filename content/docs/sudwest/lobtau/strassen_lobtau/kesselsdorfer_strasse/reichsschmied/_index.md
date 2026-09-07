@@ -17,7 +17,7 @@ date: 2024-02-17T22:13:44+01:00
 
 ![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
 
-[![](../../../../../sudwest/hauptseitegorbitz.jpg)](../../../../../sudwest/Gorbitz/gorbitz.html)
+[![](../../../../../sudwest/hauptseitegorbitz.jpg)](../../../../../sudwest/gorbitz/)
 
 * * *
 
@@ -53,6 +53,6 @@ Erst mit Verlegung des MDR nach Leipzig endete die Geschichte der Filmateliers. 
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif) \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../Nordwest/nordwest.html)\] \[ [Neustadt](../../../../../neustadt/)\]
+![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif) \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
  \[ [Nordost](../../../../../nordost/)\] \[ [West](../../../../../west/)\] \[ [Zentrum](../../../../../zentrum/)\] \[ [Südwest](../../../../../sudwest/)\]
- \[ [Süd](../../../../../Sud/sud.html)\] \[ [Südost](../../../../../Sudost/sudost.html)\] \[ [Ost](../../../../../Ost/ost.html)\] \[ [Register](../../../../../Register/register.html)\] \[ [Kontakt](../../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../../Impressum/impressum.html)\]
+ \[ [Süd](../../../../../sud/)\] \[ [Südost](../../../../../sudost/)\] \[ [Ost](../../../../../ost/)\] \[ [Register](../../../../../Register/register.html)\] \[ [Kontakt](../../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../../impressum/)\]

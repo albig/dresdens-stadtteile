@@ -19,9 +19,9 @@ date: 2024-02-17T22:13:43+01:00
 
 **Gompitzer Ortsteile:**
 
-[![pennrich](../../sudwest/gompitz/pennrich_ncubesprim.gif)](../../sudwest/gompitz/pennrich/pennrich.html)[![zöllmen](../../sudwest/gompitz/zollmen_ncubesprim.gif)](../../sudwest/gompitz/zollmen/zollmen.html)[![ockerwitz](../../sudwest/gompitz/ockerwitz_ncubesprim.gif)](../../sudwest/gompitz/ockerwitz/ockerwitz.html)[![unkersdorf](../../sudwest/gompitz/unkersdorf_ncubesprim.gif)](../../sudwest/gompitz/unkersdorf/unkersdorf.html)[![steinbach](../../sudwest/gompitz/steinbach_ncubesprim.gif)](../../sudwest/gompitz/steinbach/steinbach.html)[![roitzsch](../../sudwest/gompitz/roitzsch_ncubesprim.gif)](../../sudwest/Gompitz/Roitzsch/roitzsch.html)
+[![pennrich](../../sudwest/gompitz/pennrich_ncubesprim.gif)](../../sudwest/gompitz/pennrich/)[![zöllmen](../../sudwest/gompitz/zollmen_ncubesprim.gif)](../../sudwest/gompitz/zollmen/)[![ockerwitz](../../sudwest/gompitz/ockerwitz_ncubesprim.gif)](../../sudwest/gompitz/ockerwitz/)[![unkersdorf](../../sudwest/gompitz/unkersdorf_ncubesprim.gif)](../../sudwest/gompitz/unkersdorf/)[![steinbach](../../sudwest/gompitz/steinbach_ncubesprim.gif)](../../sudwest/gompitz/steinbach/)[![roitzsch](../../sudwest/gompitz/roitzsch_ncubesprim.gif)](../../sudwest/gompitz/roitzsch/)
 
-[![](../../nachbarn.jpg)](../../sudwest/sudwest.html)
+[![](../../nachbarn.jpg)](../../sudwest/)
 
 * * *
 
@@ -110,11 +110,11 @@ Verein Bergfrieden e. V. 98 Parzellen. Außerdem gibt es ein auch öffentlic
 
 [![](../../sudwest/gompitz/kgv-bergfrieden.jpg)](http://www.kgv-bergfrieden-gompitz.de)
 
-[![gompitzer straßen](../../a_rectangle_425.gif)](../../sudwest/Gompitz/Pennrich/Strassen_Gompitz/strassen_gompitz.html)
+[![gompitzer straßen](../../a_rectangle_425.gif)](../../sudwest/gompitz/pennrich/strassen_gompitz/)
 
-[_Weiterführende Literatur und Quellen_](../../Impressum/Quellenverzeichnis/quellenverzeichnis.html)
+[_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 
 ![](../../cubesdivider.gif)
 
- \[ [Home](../../index.html)\] \[ [Nord](../../Nord/nord.html)\] \[ [Nordwest](../../Nordwest/nordwest.html)\] \[ [Neustadt](../../Neustadt/neustadt.html)\] \[ [Nordost](../../Nordost/nordost.html)\] \[ [West](../../West/west.html)\] \[ [Zentrum](../../Zentrum/zentrum.html)\] \[ [Südwest](../../sudwest/sudwest.html)\] \[ [Süd](../../Sud/sud.html)\]
- \[ [Südost](../../Sudost/sudost.html)\] \[ [Ost](../../Ost/ost.html)\] \[ [Register](../../Register/register.html)\] \[ [Kontakt](../../Kontakt/kontakt.html)\] \[ [Impressum](../../Impressum/impressum.html)\]
+ \[ [Home](../../index.html)\] \[ [Nord](../../nord/)\] \[ [Nordwest](../../nordwest/)\] \[ [Neustadt](../../neustadt/)\] \[ [Nordost](../../nordost/)\] \[ [West](../../west/)\] \[ [Zentrum](../../zentrum/)\] \[ [Südwest](../../sudwest/)\] \[ [Süd](../../sud/)\]
+ \[ [Südost](../../sudost/)\] \[ [Ost](../../ost/)\] \[ [Register](../../Register/register.html)\] \[ [Kontakt](../../Kontakt/kontakt.html)\] \[ [Impressum](../../impressum/)\]

@@ -9,7 +9,7 @@ date: 2024-02-17T22:13:44+01:00
 
 
 
-[![](../../../../sudwest/hauptseitegorbitz.jpg)](../../../../sudwest/Gorbitz/gorbitz.html)
+[![](../../../../sudwest/hauptseitegorbitz.jpg)](../../../../sudwest/gorbitz/)
 
 * * *
 
@@ -23,7 +23,7 @@ dem Gründer der Diakonen-Bildungsanstalt in Gorbitz, Emil Höhne (1843-1925) in
 
 ![](../../../../sudwest/gorbitz/strassen_gorbitz/uthmannstrasse/gorbuthmannstr2.jpg)Die Gebäude im unteren Teil der Straße gehören zu Niedergorbitz und wurden früher meist von
 Tagelöhnern und Bergarbeitern bewohnt. Unter Denkmalschutz steht u. a. das Haus  Nr. 31  _(Foto rechts)_, welches einst Wohnsitz des Hofewiesenvogts war. Die Fundamente des heutigen
-Gebäudes stammen bereits aus dem Jahr 1586. Nr. 55 war früher als Alte Weinpresse bekannt und erinnert noch an den bis 1945 um Gorbitz betriebenen Weinbau. 1872 entstand auf dem Grundstück Uthmannstraße 28 eine [Diakonenbildungsanstalt](../../../../sudwest/Gorbitz/Kirchen_Gorbitz/kirchen_gorbitz.html), deren Gebäude später von der 74.
+Gebäudes stammen bereits aus dem Jahr 1586. Nr. 55 war früher als Alte Weinpresse bekannt und erinnert noch an den bis 1945 um Gorbitz betriebenen Weinbau. 1872 entstand auf dem Grundstück Uthmannstraße 28 eine [Diakonenbildungsanstalt](../../../../sudwest/gorbitz/kirchen_gorbitz/), deren Gebäude später von der 74.
 Mittelschule genutzt wurden. Vor dem Haus erinnert eine Wettineiche an das 800. Jubiläum des Hauses Wettin. Ein weiterer Gedenkbaum wurde vor der Kapelle zu Ehren des 400. Geburtstages von Martin Luther gepflanzt.
 
 Im oberen Teil durchquert die Uthmannstraße den ehemaligen Dorfkern von Obergorbitz, der einst aus 14 Gehöften bestand.  Die meisten dieser Häuser entstanden im 19. Jahrhundert. An einigen Gebäuden erinnern
@@ -71,4 +71,4 @@ _![](../../../../cubesdivider.gif)_
 
 * * *
 
- \[ [Home](../../../../index.html)\] \[ [Nord](../../../../nord/)\] \[ [Nordwest](../../../../Nordwest/nordwest.html)\] \[ [Neustadt](../../../../neustadt/)\] \[ [Nordost](../../../../nordost/)\] \[ [West](../../../../west/)\] \[ [Zentrum](../../../../zentrum/)\] \[ [Südwest](../../../../sudwest/)\] \[ [Süd](../../../../Sud/sud.html)\] \[ [Südost](../../../../Sudost/sudost.html)\] \[ [Ost](../../../../Ost/ost.html)\] \[ [Register](../../../../Register/register.html)\] \[ [Kontakt](../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../Impressum/impressum.html)\]
+ \[ [Home](../../../../index.html)\] \[ [Nord](../../../../nord/)\] \[ [Nordwest](../../../../nordwest/)\] \[ [Neustadt](../../../../neustadt/)\] \[ [Nordost](../../../../nordost/)\] \[ [West](../../../../west/)\] \[ [Zentrum](../../../../zentrum/)\] \[ [Südwest](../../../../sudwest/)\] \[ [Süd](../../../../sud/)\] \[ [Südost](../../../../sudost/)\] \[ [Ost](../../../../ost/)\] \[ [Register](../../../../Register/register.html)\] \[ [Kontakt](../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../impressum/)\]

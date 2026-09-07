@@ -151,7 +151,7 @@ Die frühere Nostitzstraße, am 25. Februar 1891 benannt nach dem Politiker und 
 Nostitz-Wallwitz (1826-1906), erhielt 1956 den Namen Clara-Viebig-Straße. Clara Viebig (1860-1952) gehört zu den bedeutendsten
 deutschen Erzählerinnen und schuf mehrere Romane und Novellen, darunter ihr bekanntestes Werk Das Kreuz im Venn. Das Dstraßenbild prägen überwiegend mehrgeschossige Wohnhäuser der Gründerzeit. Im Eckhaus zum Bonhoefferplatz (Nr. 12) befand sich vor dem Ersten Weltkrieg das Restaurant Sachsenhof.
 
-[![](../../../sudwest/lobtau/strassen_lobtau/clara-zetkin-stra_e.jpg)](../../../sudwest/Lobtau/Strassen_Lobtau/Clara-Zetkin-Strasse/clara-zetkin-strasse.html)
+[![](../../../sudwest/lobtau/strassen_lobtau/clara-zetkin-stra_e.jpg)](../../../sudwest/lobtau/strassen_lobtau/clara-zetkin-strasse/)
 
 ![columbusstraße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_539.gif)
 
@@ -433,7 +433,7 @@ Straße 12 auch das Gebäude einer ehemaligen Glockengießerei erhalten. Hier is
 ![oederaner straße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_517.gif)
 
 ![](../../../sudwest/lobtau/strassen_lobtau/löbtoederanerstr.jpg)Die parallel zur Bahnstrecke Dresden - Chemnitz verlaufende Straße wurde um 1884 nach dem Kauf einiger Grundstücke durch die Gemeinde Löbtau angelegt und trug ab 1889 den Namen Hohenzollernstraße. Mit der Namensgebung sollte das Fürstengeschlecht der Hohenzollern geehrt werden, aus welchem auch der regierende Kaiser Wilhelm II. entstammte. Ursprünglich gehörte dieses Areal zum kurfürstlichen Holzhof bzw. zum Grundstück der 1875 stillgelegten und 1945 zerstörten [Pulvermühle](../../../sudwest/lobtau/weisseritzmuhlgraben/). Ab 1890 wurde die Straße mit Mietshäusern bebaut. Hier befand sich in den Zwanziger Jahren auch die
-Städtische Desinfektionsanstalt. Die bereits 1945 nach der Kleinstadt Oederan bei Chemnitz in Oederaner Straße umbenannte Straße wurde 1960 durch die Anlage der Brücke der Jugend geteilt. Neben Wohnhäusern der Gründerzeit prägen heute auch die Bauten des [Kraftwerks Nossener Brücke](../../../sudwest/Lobtau/Kraftwerk Nossener Brücke/kraftwerk.html) und dessen markanter Kühlturm das Straßenbild.
+Städtische Desinfektionsanstalt. Die bereits 1945 nach der Kleinstadt Oederan bei Chemnitz in Oederaner Straße umbenannte Straße wurde 1960 durch die Anlage der Brücke der Jugend geteilt. Neben Wohnhäusern der Gründerzeit prägen heute auch die Bauten des [Kraftwerks Nossener Brücke](../../../sudwest/lobtau/kraftwerk nossener brücke/kraftwerk/) und dessen markanter Kühlturm das Straßenbild.
 
 ![paschkystraße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_516.gif)
 

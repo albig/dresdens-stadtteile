@@ -52,7 +52,7 @@ Der Heinrich Klemm-Weg führt von der Altfrankener Dorfstraße zur ehemaligen Sc
 
 Der heutige Straßenname erinnert an den in Altfranken aufgewachsenen Verleger und Bibliothekar Heinrich Klemm (1819-1886)
 . Der als Waisenkind von der Gemeinde erzogenen Junge war Mitbegründer der Europäischen Moden-Akademie in Dresden und durch seine wertvolle Privatbibliothek den Grundstock der Deutschen Bücherei in Leipzig legte. Auch für
-seinen Heimatort stiftete er eine Volksbibliothek und half bei der Finanzierung des [Schulbaus](../../../sudwest/altfranken/altfranken.html).
+seinen Heimatort stiftete er eine Volksbibliothek und half bei der Finanzierung des [Schulbaus](../../../sudwest/altfranken/).
 
 Der Kastanienweg wurde 1998 im Zusammenhang mit dem Bau des Wohnparks Altfrankener Höhe angelegt. Auch
 die Anliegerstraßen Lindenweg, Ulmenweg und Buchenhain erhielten die Namen heimischer Laubbäume.

@@ -9,35 +9,35 @@ date: 2024-02-17T22:13:44+01:00
 
 ![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
 
-[![willi-ermer-platz](../../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/o-bus/a_rectangle_1468.gif)](../../../../../sudwest/Lobtau/Strassen_Lobtau/Ebertplatz/ebertplatz.html)
+[![willi-ermer-platz](../../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/o-bus/a_rectangle_1468.gif)](../../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/)
 
 
-[![nürnberger platz](../../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/o-bus/a_rectangle_1469.gif)](../../../../../Zentrum/Sudvorstadt/Strassen_Sudvorstadt/strassen_sudvorstadt.html)
+[![nürnberger platz](../../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/o-bus/a_rectangle_1469.gif)](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/)
 
 
-[![wasaplatz](../../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/o-bus/a_rectangle_1470.gif)](../../../../../Sudost/Strehlen/Strassen_Strehlen/Wasaplatz/wasaplatz.html)
+[![wasaplatz](../../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/o-bus/a_rectangle_1470.gif)](../../../../../sudost/strehlen/strassen_strehlen/wasaplatz/)
 
 
-[![zwinglistraße](../../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/o-bus/a_rectangle_1471.gif)](../../../../../Ost/Gruna/Strassen_Gruna/strassen_gruna.html)
+[![zwinglistraße](../../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/o-bus/a_rectangle_1471.gif)](../../../../../ost/gruna/strassen_gruna/)
 
 
-[![schillerplatz](../../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/o-bus/a_rectangle_1479.gif)](../../../../../Ost/Blasewitz/Strassen_Blasewitz/Schillerplatz/schillerplatz.html)
+[![schillerplatz](../../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/o-bus/a_rectangle_1479.gif)](../../../../../ost/blasewitz/strassen_blasewitz/schillerplatz/)
 
 
-[![körnerplatz](../../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/o-bus/a_rectangle_1495.gif)](../../../../../Nordost/Loschwitz/Strassen_Loschwitz/Kornerplatz/kornerplatz.html)
+[![körnerplatz](../../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/o-bus/a_rectangle_1495.gif)](../../../../../nordost/loschwitz/strassen_loschwitz/kornerplatz/)
 
 
-[![siegfried-rädel-platz](../../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/o-bus/a_rectangle_1496.gif)](../../../../../Nordost/Buhlau/Strassen_Buhlau/Ullersdorfer_Platz/ullersdorfer_platz.html)
+[![siegfried-rädel-platz](../../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/o-bus/a_rectangle_1496.gif)](../../../../../nordost/buhlau/strassen_buhlau/ullersdorfer_platz/)
 
 
-[![weißig](../../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/o-bus/a_rectangle_1507.gif)](../../../../../Nordost/Schonfeld-Weissig/Weissig/weissig.html)
+[![weißig](../../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/o-bus/a_rectangle_1507.gif)](../../../../../nordost/schonfeld-weissig/weissig/)
 
 
 * * *
 
 ![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
 
-Dresdens erste O-Bus-Linie wurde 1903 unter dem Namen [Dresdner Haidebahn](../../../../../Nord/Klotzsche/Haidebahn/haidebahn.html) eingeweiht und verband die Endstelle der Straßenbahn am Arsenal (heute Olbrichtplatz) mit dem Villenvorort Klotzsche-Königswald. Die Fahrzeuge stammten aus der Werkstatt der Dresdner Unternehmers Carl Stoll, der die Strecke als Privatunternehmen betrieb. Zum Einsatz kamen sechs Wagen, die mit Elektromotoren und Stromabnehmer ausgestattet waren. Wegen häufiger Ausfälle und der Lärm- und Staubbelastung durch die Motorwagen geriet das Unternehmen jedoch schon bald in wirtschaftliche Schwierigkeiten und musste bereits im Juli 1904 den Betrieb wieder einstellen. Als wichtigstes Nahverkehrsmittel setzte sich stattdessen die Straßenbahn durch.
+Dresdens erste O-Bus-Linie wurde 1903 unter dem Namen [Dresdner Haidebahn](../../../../../nord/klotzsche/haidebahn/) eingeweiht und verband die Endstelle der Straßenbahn am Arsenal (heute Olbrichtplatz) mit dem Villenvorort Klotzsche-Königswald. Die Fahrzeuge stammten aus der Werkstatt der Dresdner Unternehmers Carl Stoll, der die Strecke als Privatunternehmen betrieb. Zum Einsatz kamen sechs Wagen, die mit Elektromotoren und Stromabnehmer ausgestattet waren. Wegen häufiger Ausfälle und der Lärm- und Staubbelastung durch die Motorwagen geriet das Unternehmen jedoch schon bald in wirtschaftliche Schwierigkeiten und musste bereits im Juli 1904 den Betrieb wieder einstellen. Als wichtigstes Nahverkehrsmittel setzte sich stattdessen die Straßenbahn durch.
 
 
 Erst in der Zeit nach dem Zweiten Weltkrieg zwangen Materialmangel und Schäden am Gleisnetz zu neuen Überlegungen. Als vorteilhaft erwies sich, dass in einer Werdauer Fahrzeugfabrik mehrere Fahrgestelle und die
@@ -62,6 +62,6 @@ Verkehrsunternehmen verkauft. Heute existiert noch ein kompletter Wagenzug als M
 
 * * *
 
-![](../../../../../clearpixel.gif)[![](../../../../../builtbynof.gif)](http://www.netobjects.com)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif) \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../Nordwest/nordwest.html)\] \[ [Neustadt](../../../../../neustadt/)\] \[ [Nordost](../../../../../nordost/)\] \[ [West](../../../../../west/)\] \[ [Zentrum](../../../../../zentrum/)\] \[ [Südwest](../../../../../sudwest/)\]
- \[ [Süd](../../../../../Sud/sud.html)\] \[ [Südost](../../../../../Sudost/sudost.html)\] \[ [Ost](../../../../../Ost/ost.html)\] \[ [Register](../../../../../Register/register.html)\]
- \[ [Kontakt](../../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../../Impressum/impressum.html)\]
+![](../../../../../clearpixel.gif)[![](../../../../../builtbynof.gif)](http://www.netobjects.com)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif) \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\] \[ [Nordost](../../../../../nordost/)\] \[ [West](../../../../../west/)\] \[ [Zentrum](../../../../../zentrum/)\] \[ [Südwest](../../../../../sudwest/)\]
+ \[ [Süd](../../../../../sud/)\] \[ [Südost](../../../../../sudost/)\] \[ [Ost](../../../../../ost/)\] \[ [Register](../../../../../Register/register.html)\]
+ \[ [Kontakt](../../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../../impressum/)\]

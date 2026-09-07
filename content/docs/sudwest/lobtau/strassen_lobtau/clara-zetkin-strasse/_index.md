@@ -9,7 +9,7 @@ date: 2024-02-17T22:13:44+01:00
 
 
 
-[![](../../../../hauptseitel_btau.jpg)](../../../../sudwest/Lobtau/lobtau.html)
+[![](../../../../hauptseitel_btau.jpg)](../../../../sudwest/lobtau/)
 
 * * *
 
@@ -19,7 +19,7 @@ date: 2024-02-17T22:13:44+01:00
 ![](../../../../l_btauwallwitzstr.jpg)Die Clara-Zetkin-Straße, früher nach dem Politiker und Dresdner Ehrenbürger
 Hermann von Nostitz-Wallwitz (1826-1906) Wallwitzstraße genannt, erhielt 1956 den Namen der sozialistischen Politikerin Clara Zetkin (1857-1933), die bis 1933
 Alterspräsidentin des Deutschen Reichstags war und zahlreiche sozialkritische Schriften veröffentlichte. Auf ihre Initiative wurde 1910 der Internationale Frauentag
-eingeführt. Während der benachbarte Clara-Zetkin-Platz 1993 in Bonhoefferplatz umbenannt wurde, behielt die Straße bis heute ihren Namen. An dieser wurde 1877 die [Bürgerschule Löbtau](../../../../sudwest/Lobtau/lobtau.html) (heute 35. Oberschule) und 1936 die [Hoffnungskirche](../../../../sudwest/Lobtau/Friedenskirche/Hoffnungskirche/hoffnungskirche.html) errichtet.
+eingeführt. Während der benachbarte Clara-Zetkin-Platz 1993 in Bonhoefferplatz umbenannt wurde, behielt die Straße bis heute ihren Namen. An dieser wurde 1877 die [Bürgerschule Löbtau](../../../../sudwest/lobtau/) (heute 35. Oberschule) und 1936 die [Hoffnungskirche](../../../../sudwest/Lobtau/Friedenskirche/Hoffnungskirche/hoffnungskirche.html) errichtet.
 
 Während die Gebäude im unteren Teil bereits in den Jahren nach 1900 entstanden, blieb der obere Straßenabschnitt zunächst unbebaut _(Foto um 1910)_
 . Nach dem Ersten Weltkrieg errichteten verschiedene Baugesellschaften Wohnblocks. Außerdem existierte hier noch bis 1992 eine Gärtnerei. 2003 wurde auf deren Areal mit dem Bau der
@@ -79,4 +79,4 @@ noch mehrfach Olaf Böhme auf, bevor das nun bebe (Böhmes Bühne) genannte 
 
 * * *
 
- \[ [Home](../../../../index.html)\] \[ [Nord](../../../../nord/)\] \[ [Nordwest](../../../../Nordwest/nordwest.html)\] \[ [Neustadt](../../../../neustadt/)\] \[ [Nordost](../../../../nordost/)\] \[ [West](../../../../west/)\] \[ [Zentrum](../../../../zentrum/)\] \[ [Südwest](../../../../sudwest/)\] \[ [Süd](../../../../Sud/sud.html)\] \[ [Südost](../../../../Sudost/sudost.html)\] \[ [Ost](../../../../Ost/ost.html)\] \[ [Register](../../../../Register/register.html)\] \[ [Kontakt](../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../Impressum/impressum.html)\]
+ \[ [Home](../../../../index.html)\] \[ [Nord](../../../../nord/)\] \[ [Nordwest](../../../../nordwest/)\] \[ [Neustadt](../../../../neustadt/)\] \[ [Nordost](../../../../nordost/)\] \[ [West](../../../../west/)\] \[ [Zentrum](../../../../zentrum/)\] \[ [Südwest](../../../../sudwest/)\] \[ [Süd](../../../../sud/)\] \[ [Südost](../../../../sudost/)\] \[ [Ost](../../../../ost/)\] \[ [Register](../../../../Register/register.html)\] \[ [Kontakt](../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../impressum/)\]

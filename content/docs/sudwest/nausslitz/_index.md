@@ -12,7 +12,7 @@ date: 2024-02-17T22:13:44+01:00
 
 **Gemeindesiegel von Naußlitz**
 
-[![](../../nachbarn.jpg)](../../sudwest/sudwest.html)
+[![](../../nachbarn.jpg)](../../sudwest/)
 
 * * *
 
@@ -71,11 +71,11 @@ Schlafzustandes brachten, verstummten diese Gerüchte nicht. Wenige Wochen spät
 anschließend. In einem Abschiedsbrief gab sie die von bösen Menschen in die Welt gesetzten Nachrichten über ihren
 Mann als Grund an. Die Geschichte des Eisenbahners erregte weit über Dresden hinaus großes Aufsehen und war später Gegenstand eines Theaterstückes der Marionettenbühne Apel.
 
-[![naußlitzer straßen](../../sudwest/nausslitz/a_rectangle_491.gif)](../../sudwest/Nausslitz/Strassen_Nausslitz/strassen_nausslitz.html)
+[![naußlitzer straßen](../../sudwest/nausslitz/a_rectangle_491.gif)](../../sudwest/nausslitz/strassen_nausslitz/)
 
-[_Weiterführende Literatur und Quellen_](../../Impressum/Quellenverzeichnis/quellenverzeichnis.html)
+[_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 
 ![](../../cubesdivider.gif)
 
- \[ [Home](../../index.html)\] \[ [Nord](../../Nord/nord.html)\] \[ [Nordwest](../../Nordwest/nordwest.html)\] \[ [Neustadt](../../Neustadt/neustadt.html)\] \[ [Nordost](../../Nordost/nordost.html)\] \[ [West](../../West/west.html)\] \[ [Zentrum](../../Zentrum/zentrum.html)\] \[ [Südwest](../../sudwest/sudwest.html)\] \[ [Süd](../../Sud/sud.html)\]
- \[ [Südost](../../Sudost/sudost.html)\] \[ [Ost](../../Ost/ost.html)\] \[ [Register](../../Register/register.html)\] \[ [Kontakt](../../Kontakt/kontakt.html)\] \[ [Impressum](../../Impressum/impressum.html)\]
+ \[ [Home](../../index.html)\] \[ [Nord](../../nord/)\] \[ [Nordwest](../../nordwest/)\] \[ [Neustadt](../../neustadt/)\] \[ [Nordost](../../nordost/)\] \[ [West](../../west/)\] \[ [Zentrum](../../zentrum/)\] \[ [Südwest](../../sudwest/)\] \[ [Süd](../../sud/)\]
+ \[ [Südost](../../sudost/)\] \[ [Ost](../../ost/)\] \[ [Register](../../Register/register.html)\] \[ [Kontakt](../../Kontakt/kontakt.html)\] \[ [Impressum](../../impressum/)\]

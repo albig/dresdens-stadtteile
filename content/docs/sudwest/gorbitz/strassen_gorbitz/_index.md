@@ -9,7 +9,7 @@ date: 2024-02-17T22:13:44+01:00
 
 
 
-[![](../../../sudwest/gorbitz/strassen_gorbitz/hauptseitegorbitz2.jpg)](../../../sudwest/Gorbitz/gorbitz.html)
+[![](../../../sudwest/gorbitz/strassen_gorbitz/hauptseitegorbitz2.jpg)](../../../sudwest/gorbitz/)
 
 ![altgorbitz](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_449.gif)
 
@@ -31,12 +31,12 @@ Fechtverein in Altgorbitz die heute als Kindertagesstätte Wirbelwind bezeic
 ![am altfrankener park](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_459.gif)
 
 Die Straße, ursprünglich Wilhelmstraße genannt, erhielt 1926 den Namen Am Lucknerpark. Der ursprüngliche Namensgeber,
-wahrscheinlich eine Privatperson, ist unbekannt. Im Zusammenhang mit der Eingemeindung von Gorbitz erfolgte die Umbenennung nach dem angrenzenden Schloßpark des [Luckner-Schlosses](../../../sudwest/altfranken/Schloss_Altfranken/schloss_altfranken.html) in Altfranken. In den 1930er Jahren wurden hier
+wahrscheinlich eine Privatperson, ist unbekannt. Im Zusammenhang mit der Eingemeindung von Gorbitz erfolgte die Umbenennung nach dem angrenzenden Schloßpark des [Luckner-Schlosses](../../../sudwest/altfranken/schloss_altfranken/) in Altfranken. In den 1930er Jahren wurden hier
 einige Siedlungshäuser errichtet. Seit 1950 heißt diese Straße Am Altfrankener Park.
 
 ![am brunnen](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_460.gif)
 
-Die ehemalige Niedergorbitzer Talstraße wurde 1921 in Am Brunnen umbenannt. Der Name erinnert an die 1584 zur Wasserversorgung des Dresdner Schlosses angelegte [Gorbitzer Röhrfahrt](../../../sudwest/Gorbitz/Gorbitzer_Rohrfahrt/gorbitzer_rohrfahrt.html).
+Die ehemalige Niedergorbitzer Talstraße wurde 1921 in Am Brunnen umbenannt. Der Name erinnert an die 1584 zur Wasserversorgung des Dresdner Schlosses angelegte [Gorbitzer Röhrfahrt](../../../sudwest/gorbitz/gorbitzer_rohrfahrt/).
 
 ![am ziegenberg](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_461.gif)
 
@@ -185,7 +185,7 @@ Die Julius-Vahlteich-Straße wurde 1979 nach einem Dresdner Arbeiterfunktionär 
 Mitbegründer der SPD und ab 1867 Vorsitzender des Dresdner Arbeiterbildungsvereins. Östlich der Straße begann 1981der Aufbau des ersten Bauabschnittes des Neubaugebietes Gorbitz. Die Flächen zwischen Julius-Vahlteich-Straße und
 Merianplatz wurden 1982/83 mit dem zweiten Baubschnitt bebaut.
 
-[![kesselsdorfer straße](../../../sudwest/a_rectangle_472.gif)](../../../sudwest/Lobtau/Strassen_Lobtau/Kesselsdorfer_Strasse/kesselsdorfer_strasse.html)
+[![kesselsdorfer straße](../../../sudwest/a_rectangle_472.gif)](../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/)
 
 ![leßkestraße](../../../a_rectangle_473.gif)
 
@@ -199,7 +199,7 @@ Sachzeugen der Niedergorbitzer Vergangenheit und wurde in den letzten Jahren san
 ![](../../../sudwest/gorbitz/strassen_gorbitz/gorbleutewring.jpg)
 Der Leutewitzer Ring wurde im Zusammenhang mit dem Aufbau des Neubaugebietes Gorbitz angelegt und nach dem benachbarten Stadtteil Leutewitz benannt. Mit der
 Namensgebung wurde eine Gorbitzer Tradition begründet, die neuen Straßen nach Orten der näheren Umgebung zu benennen. So existieren auch ein Wölfnitzer Ring, ein
-Altgorbitzer und ein Omsewitzer Ring. 1987 entstand hier eines von zwei Gorbitzer Seniorenheimen. 1992 wurde am Leutewitzer Ring das [Gemeindezentrum](../../../sudwest/Gorbitz/Kirchen_Gorbitz/kirchen_gorbitz.html) der Philippus-Kirchgemeinde eingeweiht.
+Altgorbitzer und ein Omsewitzer Ring. 1987 entstand hier eines von zwei Gorbitzer Seniorenheimen. 1992 wurde am Leutewitzer Ring das [Gemeindezentrum](../../../sudwest/gorbitz/kirchen_gorbitz/) der Philippus-Kirchgemeinde eingeweiht.
 
 Im Innenhof des Wohnblocks Leutewitzer Ring gibt es seit Ende 2011 eine sogenannte
 Leseecke mit überdachten Sitzgelegenheiten. Hier fand auch die Sandsteinplastik Die Lesende von Horst Weise ihren neuen Platz. Das im Zuge der baukünstlerischen Gestaltung des Neubauviertels 1986 geschaffene Kunstwerk stand
@@ -221,7 +221,7 @@ vor allem durch ihre naturgetreuen Pflanzenzeichnungen berühmt wurde. Außerdem
 ![rädestraße](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_477.gif)
 
 Die Rädestraße, vor 1926 Heinrichstraße genannt, erhielt ihren Namen nach dem ehemaligen Obergorbitzer
-Gemeindevorstand Friedrich Gottlieb Räde. Die Familie war über mehrere Generationen im Ort ansässig und stiftete Geld für gemeinnützige Zwecke. 1905 wurde an der Rädestraße der [Gorbitzer Friedhof](../../../sudwest/Gorbitz/Kirchen_Gorbitz/kirchen_gorbitz.html) angelegt.
+Gemeindevorstand Friedrich Gottlieb Räde. Die Familie war über mehrere Generationen im Ort ansässig und stiftete Geld für gemeinnützige Zwecke. 1905 wurde an der Rädestraße der [Gorbitzer Friedhof](../../../sudwest/gorbitz/kirchen_gorbitz/) angelegt.
 
 ![schreberstraße](../../../a_rectangle_478.gif)
 
@@ -234,7 +234,7 @@ Verfügung gestellten Stück Land errichtet und mit zinsgünstigen Krediten fina
 
 Die Straße, vor der Eingemeindung 1921 Mittelstraße genannt, erhielt ihren heutigen Namen Silberfund nach einem hier gemachten Fund von historischen Silbermünzen aus der Napoleonzeit. Der Fund geht vermutlich auf die Jahre der französischen Besatzung zurück, als Gorbitzer Bauern ihren Besitz zum Schutz vor Plünderungen vergruben.
 
-[![uthmannstraße](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_480.gif)](../../../sudwest/Gorbitz/Strassen_Gorbitz/Uthmannstrasse/uthmannstrasse.html)
+[![uthmannstraße](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_480.gif)](../../../sudwest/gorbitz/strassen_gorbitz/uthmannstrasse/)
 
 ![wilsdruffer ring](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_1151.gif)
 
@@ -250,4 +250,4 @@ Umgebung. Im Zuge der Stadterneuerung wurden am Wilsdruffer Ring bis 2006 zahlre
 
 * * *
 
- \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../Sud/sud.html)\] \[ [Südost](../../../Sudost/sudost.html)\] \[ [Ost](../../../Ost/ost.html)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../Impressum/impressum.html)\]
+ \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../sud/)\] \[ [Südost](../../../sudost/)\] \[ [Ost](../../../ost/)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../impressum/)\]

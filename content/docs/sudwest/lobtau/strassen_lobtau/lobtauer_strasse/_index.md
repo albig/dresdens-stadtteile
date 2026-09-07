@@ -9,9 +9,9 @@ date: 2024-02-17T22:13:44+01:00
 
 
 
-[![](../../../../hauptseitefriedrichstadt.jpg)](../../../../Zentrum/Friedrichstadt/friedrichstadt.html)
+[![](../../../../hauptseitefriedrichstadt.jpg)](../../../../zentrum/friedrichstadt/)
 
-[![](../../../../hauptseitel_btau.jpg)](../../../../sudwest/Lobtau/lobtau.html)
+[![](../../../../hauptseitel_btau.jpg)](../../../../sudwest/lobtau/)
 
 * * *
 
@@ -24,13 +24,13 @@ date: 2024-02-17T22:13:44+01:00
 1840 bzw. 1904. Zuvor wurde die parallel zum alten Weißeritzlauf führende Allee auch als Vor dem Löbtauer Schlag bzw. ab 1877 auf Löbtauer Flur als Dresdner Straße
 bezeichnet. Hier befand sich an der Stadtgrenze zwischen Dresden und Löbtau der Löbtauer Schlag, eine zur Erhebung städtischer Abgaben dienende Einnahmestelle.
 
-Mitte des 19. Jahrhunderts entstanden in diesem Gebiet die ersten Mietshäuser und Industriebetriebe, darunter die [Glasfabrik](../../../../Zentrum/Wilsdruffer_Vorstadt/Freiberger_Strasse/Glaswerk_Lobtau/glaswerk_lobtau.html) der Familie Siemens. Weitere bedeutende
-Unternehmen in diesem Bereich waren die 1857 gegründete Zementfabrik Michel, die Maschinenfabrik Kühne & Co., die Schuhwarenfabrik Eberle & Treibmann und der [Fiskalische Kohlenbahnhof](../../../../Zentrum/Wilsdruffer_Vorstadt/Freiberger_Strasse/freiberger_strasse.html) auf dem
+Mitte des 19. Jahrhunderts entstanden in diesem Gebiet die ersten Mietshäuser und Industriebetriebe, darunter die [Glasfabrik](../../../../zentrum/wilsdruffer_vorstadt/freiberger_strasse/glaswerk_lobtau/) der Familie Siemens. Weitere bedeutende
+Unternehmen in diesem Bereich waren die 1857 gegründete Zementfabrik Michel, die Maschinenfabrik Kühne & Co., die Schuhwarenfabrik Eberle & Treibmann und der [Fiskalische Kohlenbahnhof](../../../../zentrum/wilsdruffer_vorstadt/freiberger_strasse/) auf dem
 Gelände zwischen Löbtauer und Freiberger Straße.  Zur Unterbringung der Arbeiter waren bereits zwischen 1859 und
 1862 einige Wohnhäuser an der Flußstraße gebaut worden. Diese Siedlung hieß im Volksmund Neu-Löbtau und war Ausgangspunkt der weiteren Besiedlung des Stadtteils.
 
 Neben den genannten Unternehmen existierten hier
-um 1900 die bekannten Ausflugslokale Neu-Hamburg und Altona, an die noch die [Altonaer Straße](../../../../Zentrum/Friedrichstadt/Strassen_Friedrichstadt/strassen_friedrichstadt.html) erinnert. Im Wohnhaus Löbtauer Straße 9 hatte zeitweise der Maler Karl Schmidt-Rottluff
+um 1900 die bekannten Ausflugslokale Neu-Hamburg und Altona, an die noch die [Altonaer Straße](../../../../zentrum/friedrichstadt/strassen_friedrichstadt/) erinnert. Im Wohnhaus Löbtauer Straße 9 hatte zeitweise der Maler Karl Schmidt-Rottluff
 sein Atelier, der zu den Mitbegründern der Brücke gehörte. 1893 wurde auf dem trockengelegten Weißeritzflussbett der Fiskalische Straßenbauhof eingerichtet.
 
 ![](../../../../sudwest/lobtau/strassen_lobtau/lobtauer_strasse/friedrichstl_btauerstr.jpg)1945 fielen zahlreiche Gebäude an der Löbtauer Straße den Bomben zum Opfer,
@@ -83,7 +83,7 @@ Pflegeheim mit über 900 Plätzen. Nach 1990 wurden die vorhandenen Gebäude dur
 Flügel, ergänzt. Heute diente der Komplex als Pflegeheim und Geriatrische Klinik. Seit 2004 gehört das Heim zur gemeinnützigen Cultus GmbH. Die verbliebenen Gebäude
 sollen künftig saniert und als altersgerechte Wohnungen vermietet werden. 2014 begann die Renovierung der Altbauten an der Ecke zur Altonaer Straße (Löbtauer Str. 35) und deren Umbau zu Wohnzwecken.
 
-![](../../../../sudwest/lobtau/strassen_lobtau/lobtauer_strasse/l_btauerstr45.jpg)Nr. 45: Das Grundstück an der Ecke zur Altonaer Straße war von 1909 bis 1923 erster Standort des [Sächsischen Serumwerkes](../../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Zirkusstra%DFe/Serumwerk/serumwerk.html). Das Unternehmen ging aus dem 1910 von Karl August Lingner gegründeten Sächsischen Serumwerk und Institut für Bakteriotherapie G.m.b.H. hervor und nutzte die Stallungen der [Gambrinus-Brauerei](../../../../Zentrum/Friedrichstadt/Strassen_Friedrichstadt/strassen_friedrichstadt.html) auf der gegenüberliegenden Straßenseite. Hier wurden die für die Impfstoff-Herstellung des Serumwerkes erforderlichen Pferde gehalten. Neben Ställen für ca. 30 Pferde gab es auch einen kleinen Reitplatz _(Foto)_, um den Tieren den erforderlichen Auslauf zu gewähren. Aus Platzgründen zog das Unternehmen 1924 in die Räumlichkeiten der ehemaligen Tierärztlichen Hochschule auf der Zirkusstraße um. 1934 erwarb das Werk schließlich für die Pferdehaltung ein bis 1988 genutztes Gut in Oelzschau bei Borna.
+![](../../../../sudwest/lobtau/strassen_lobtau/lobtauer_strasse/l_btauerstr45.jpg)Nr. 45: Das Grundstück an der Ecke zur Altonaer Straße war von 1909 bis 1923 erster Standort des [Sächsischen Serumwerkes](../../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Zirkusstra%DFe/Serumwerk/serumwerk.html). Das Unternehmen ging aus dem 1910 von Karl August Lingner gegründeten Sächsischen Serumwerk und Institut für Bakteriotherapie G.m.b.H. hervor und nutzte die Stallungen der [Gambrinus-Brauerei](../../../../zentrum/friedrichstadt/strassen_friedrichstadt/) auf der gegenüberliegenden Straßenseite. Hier wurden die für die Impfstoff-Herstellung des Serumwerkes erforderlichen Pferde gehalten. Neben Ställen für ca. 30 Pferde gab es auch einen kleinen Reitplatz _(Foto)_, um den Tieren den erforderlichen Auslauf zu gewähren. Aus Platzgründen zog das Unternehmen 1924 in die Räumlichkeiten der ehemaligen Tierärztlichen Hochschule auf der Zirkusstraße um. 1934 erwarb das Werk schließlich für die Pferdehaltung ein bis 1988 genutztes Gut in Oelzschau bei Borna.
 
 Nach 1945 nutzte das volkseigene Verkehrskombinat Dresden das Grundstück an der Löbtauer Straße 45. U.a. war hier bis 1990 die Fahrschule des VEB Taxi und Fahrschule untergebracht.
 
@@ -98,16 +98,16 @@ Die Fabrik zur Herstellung von Portlandzement wurde 1857 von Eduard Michel gegr�
 eigene Zwecke.
 
 ![](../../../../sudwest/lobtau/strassen_lobtau/lobtauer_strasse/lobeck-werbung.jpg)
-Schokoladenfabrik Lobeck (Nr. 63-71): Die Schokoladenfabrik Lobeck befand sich ursprünglich in einer Mühle im [Lockwitzgrund](../../../../Sudost/Lockwitz/Strassen_Lockwitz/strassen_lockwitz.html) und wurde 1838 als Chocoladen- und Kakaofabrik Ferdinand
+Schokoladenfabrik Lobeck (Nr. 63-71): Die Schokoladenfabrik Lobeck befand sich ursprünglich in einer Mühle im [Lockwitzgrund](../../../../sudost/lockwitz/strassen_lockwitz/) und wurde 1838 als Chocoladen- und Kakaofabrik Ferdinand
 Lobeck & Co. gegründet. 1857 besuchte Otto Rüger diese Mühle und erwarb erste Kenntnisse bei der Schokoladenherstellung. Zwei Jahre später, im Oktober 1859, kaufte er schließlich das Anwesen
-und richtete dort seine eigene [Schokoladenfabrik](../../../../Sudost/Lockwitz/Strassen_Lockwitz/Schokoladenfabrik_Ruger/schokoladenfabrik_ruger.html) ein. August Ferdinand Lobeck erwarb daraufhin 1862 ein Grundstück an der Löbtauer Straße in Dresden, um hier sein Unternehmen fortzuführen.
+und richtete dort seine eigene [Schokoladenfabrik](../../../../sudost/lockwitz/strassen_lockwitz/schokoladenfabrik_ruger/) ein. August Ferdinand Lobeck erwarb daraufhin 1862 ein Grundstück an der Löbtauer Straße in Dresden, um hier sein Unternehmen fortzuführen.
 Unter den Markennamen Lobeck und Dreiring wurden Schokoladen- und Kakaoerzeugnisse, Konfitüre und Zuckerwaren hergestellt. Spezialität der Firma war ein ohne chemische Zusätze unter
 Dampfdruck gefertigtes Kakaopulver, welches sich leichter als herkömmliche Produkte verrühren ließ. Ab 1876 durfte sich Lobeck als Königlich-Sächsischer Hoflieferant bezeichnen. Zeitweise gehörten
 auch Makkaroni und Waffelgebäck zum Herstellungsprogramm. Um 1910 zählte die Firma fast 500 Beschäftigte. Beim Bombenangriff auf Dresden wurde die Schokoladenfabrik zerstört, womit die Geschichte des Unternehmens endete.
 
 
 ![](../../../../l_btaugewerbezentrum.jpg)Gründer - und Gewerbezentrum:
-Das moderne Bürogebäude Löbtauer Straße 67 _(Foto)_ entstand 1999 auf dem Gelände des früheren Motorenwerkes unmittelbar an der [Weißeritzbrücke](../../../../sudwest/Lobtau/Strassen_Lobtau/Lobtauer_Brucken/lobtauer_brucken.html). Zuvor war das Grundstück bis 1934 von einer
+Das moderne Bürogebäude Löbtauer Straße 67 _(Foto)_ entstand 1999 auf dem Gelände des früheren Motorenwerkes unmittelbar an der [Weißeritzbrücke](../../../../sudwest/lobtau/strassen_lobtau/lobtauer_brucken/). Zuvor war das Grundstück bis 1934 von einer
 Schokoladenfabrik, danach bis 1991 von einem Zweigbetrieb des Sachsenwerkes zur Herstellung von Elektromaschinen genutzt worden. Hier haben heute zahlreiche
 klein- und mittelständische Unternehmen aus dem Bereich Handwerk und Gewerbe ihren Sitz. Die angrenzende weißeritzbrücke wurde nach dem Hochwasser von 2002 durch einen Neubau ersetzt und die Uferzone neu gestaltet.
 
@@ -121,7 +121,7 @@ mehr vorhandenen Gebäude Am See 2/4 in der Nähe des Postplatzes. 1911 wandelte
 Städtischen Beerdigungsanstalt um, die Verwaltung wurde einem eigens geschaffenen Bestattungsamt übertragen. Nach
 Auflösung des Marstalls 1939 blieb das Städtische Bestattungsamt alleiniger Nutzer des Grundstücks Löbtauer Straße 70.
 
-Durch Beschluss dees Rates der Stadt erfolgte 1946 eine komplette Kommunalisierung der gesamten Totenbestattung. Die bestehenden vier kommunalen Friedhöfe in [Tolkewitz](../../../../ost/tolkewitz/johannisfriedhof/), [Dölzschen](../../../../sudwest/Dolzschen/Dolzschener_Friedhof/dolzschener_friedhof.html), der Albertstadt [(Nordfriedhof)](../../../../neustadt/albertstadt/nordfriedhof/) und der [Heidefriedhof](../../../../Nordost/Dresdner_Heide/Heidefriedhof/heidefriedhof.html)
+Durch Beschluss dees Rates der Stadt erfolgte 1946 eine komplette Kommunalisierung der gesamten Totenbestattung. Die bestehenden vier kommunalen Friedhöfe in [Tolkewitz](../../../../ost/tolkewitz/johannisfriedhof/), [Dölzschen](../../../../sudwest/dolzschen/dolzschener_friedhof/), der Albertstadt [(Nordfriedhof)](../../../../neustadt/albertstadt/nordfriedhof/) und der [Heidefriedhof](../../../../nordost/dresdner_heide/heidefriedhof/)
 unterstanden nun ebenfalls dem Städtischen Bestattungswesen. 1951 konnte die Verwaltung in die wiederaufgebauten
 Gebäude auf der Löbtauer Straße verlagert werden, wo das Unternehmen - seit 1996 Eigenbetrieb der Stadt Dresden - bis heute sein Domizil hat.
 
@@ -141,7 +141,7 @@ die Arbeiter der Vorstadt errichtet. Die Straße wird heute nicht mehr namentlic
 ![hirschfelder straße](../../../../a_rectangle_554.gif)
 
 Die Straße erhielt 1883 den Namen Siemensstraße, der an den Techniker und Unternehmer Friedrich August Siemens
-(1826-1904) erinnerte. Die Familie Siemens war Inhaber des im 19. Jahrhunderts entstandenen [Löbtauer Glaswerk](../../../../Zentrum/Wilsdruffer_Vorstadt/Freiberger_Strasse/Glaswerk_Lobtau/glaswerk_lobtau.html) in
+(1826-1904) erinnerte. Die Familie Siemens war Inhaber des im 19. Jahrhunderts entstandenen [Löbtauer Glaswerk](../../../../zentrum/wilsdruffer_vorstadt/freiberger_strasse/glaswerk_lobtau/) in
 unmittelbarer Nähe. Außerdem machte Siemens durch zahlreiche Erfindungen und technische Neuerungen auf sich aufmerksam. 1953 wurde die Siemensstraße nach dem kleinen Ort Hirschfeld im Erzgebirge in Hirschfelder Straße
 umbenannt.
 
@@ -153,4 +153,4 @@ umbenannt.
 
 * * *
 
- \[ [Home](../../../../index.html)\] \[ [Nord](../../../../nord/)\] \[ [Nordwest](../../../../Nordwest/nordwest.html)\] \[ [Neustadt](../../../../neustadt/)\] \[ [Nordost](../../../../nordost/)\] \[ [West](../../../../west/)\] \[ [Zentrum](../../../../zentrum/)\] \[ [Südwest](../../../../sudwest/)\] \[ [Süd](../../../../Sud/sud.html)\] \[ [Südost](../../../../Sudost/sudost.html)\] \[ [Ost](../../../../Ost/ost.html)\] \[ [Register](../../../../Register/register.html)\] \[ [Kontakt](../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../Impressum/impressum.html)\]
+ \[ [Home](../../../../index.html)\] \[ [Nord](../../../../nord/)\] \[ [Nordwest](../../../../nordwest/)\] \[ [Neustadt](../../../../neustadt/)\] \[ [Nordost](../../../../nordost/)\] \[ [West](../../../../west/)\] \[ [Zentrum](../../../../zentrum/)\] \[ [Südwest](../../../../sudwest/)\] \[ [Süd](../../../../sud/)\] \[ [Südost](../../../../sudost/)\] \[ [Ost](../../../../ost/)\] \[ [Register](../../../../Register/register.html)\] \[ [Kontakt](../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../impressum/)\]

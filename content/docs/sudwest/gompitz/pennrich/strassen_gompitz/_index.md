@@ -9,12 +9,12 @@ date: 2024-02-17T22:13:44+01:00
 
 
 
-[![](../../../../sudwest/gompitz/pennrich/strassen_gompitz/hauptseitegompitz2.jpg)](../../../../sudwest/Gompitz/gompitz.html)
+[![](../../../../sudwest/gompitz/pennrich/strassen_gompitz/hauptseitegompitz2.jpg)](../../../../sudwest/gompitz/)
 
 ![altgompitz](../../../../sudwest/gompitz/pennrich/strassen_gompitz/a_rectangle_426.gif)
 
 Als Altgompitz wird seit 1999 der frühere Dorfplatz des Ortes Gompitz bezeichnet. Hier haben sich bis heute noch einige Bauernhöfe erhalten, die teilweise unter Denkmalschutz stehen. Sehenswert ist ein im Bauerngut Altgompitz 16/18 erhaltener
-historischer Taubenschlag. Unweit davon erinnert ein Denkmal an die im Ersten und Zweiten Weltkrieg gefallenen Einwohner. Dieses befand sich ursprünglich hinter der Schule und wurde erst nach 1990 an seinen heutigen Standort versetzt. Im Haus Altgompitz 9 befand sich zwischen 1864 und 1897 der erste [Dorfgasthof](../../../../sudwest/Gompitz/gompitz.html) des Ortes.
+historischer Taubenschlag. Unweit davon erinnert ein Denkmal an die im Ersten und Zweiten Weltkrieg gefallenen Einwohner. Dieses befand sich ursprünglich hinter der Schule und wurde erst nach 1990 an seinen heutigen Standort versetzt. Im Haus Altgompitz 9 befand sich zwischen 1864 und 1897 der erste [Dorfgasthof](../../../../sudwest/gompitz/) des Ortes.
 
 ![](../../../../sudwest/gompitz/pennrich/strassen_gompitz/gompitzsteinkreuz.jpg)![](../../../../sudwest/gompitz/pennrich/strassen_gompitz/gompitztaubenhaus.jpg)![](../../../../sudwest/gompitz/pennrich/strassen_gompitz/gompitzkriegerdkm.jpg)
 
@@ -26,7 +26,7 @@ historischer Taubenschlag. Unweit davon erinnert ein Denkmal an die im Ersten un
 
 An der Kreuzung Altnossener Straße / Kesselsdorfer Straße wurde 1828 eine Wegsäule aufgestellt, die heute jedoch nicht mehr vorhanden ist. Einige Wegsäulen haben sich im weiteren Verlauf der Straße noch erhalten, u.a. an der Einmündung des Hohlweges, am Abzweig Zöllmen und in Steinbach.
 
-![](../../../../sudwest/gompitz/pennrich/strassen_gompitz/pennrichaltnoss44.jpg)In Ortszentrum von [Pennrich](../../../../sudwest/Gompitz/Pennrich/pennrich.html) blieben einige Bauerngüter erhalten. Interessant ist das frühere Allodialgut mit einer großen Sonnenuhr am Giebel _(Nr. 44 - Foto rechts)_. Dieses befand sich ab 1821 im Besitz der Wettiner und gehörte als Zubehör zum Gompitzer Kammergut. 1869 wurde das Vorwerk aufgelöst und verkauft. Noch bis 1900 bildete es einen eigenen Gutsbezirk.
+![](../../../../sudwest/gompitz/pennrich/strassen_gompitz/pennrichaltnoss44.jpg)In Ortszentrum von [Pennrich](../../../../sudwest/gompitz/pennrich/) blieben einige Bauerngüter erhalten. Interessant ist das frühere Allodialgut mit einer großen Sonnenuhr am Giebel _(Nr. 44 - Foto rechts)_. Dieses befand sich ab 1821 im Besitz der Wettiner und gehörte als Zubehör zum Gompitzer Kammergut. 1869 wurde das Vorwerk aufgelöst und verkauft. Noch bis 1900 bildete es einen eigenen Gutsbezirk.
 
 Im Nachbargehöft wurde am 9. Juni 1881 Graf Felix Nikolaus von Luckner geboren. Während des Ersten Weltkrieges erlangte er als Seeteufel Berühmtheit. 1945 rettete Luckner als Parlamentär die Stadt Halle durch kampflose Übergabe an die Amerikaner vor der Zerstörung. 2006 wurde aus Anlass seines 125. Geburtstages ein Gedenkstein enthüllt. Historisch interessant sind auch die unter Denkmalschutz stehenden Dreiseithöfe Nr. 23 (Bormanns Hof) und Nr. 31 (Heinrichs Hof), der frühere Vierseithof Altnossener Straße 48 (Bergers Hof) sowie das sogenannte Postgut (Nr. 46).
 
@@ -40,7 +40,7 @@ _Wer aber Gott verthraut, der hat wohl gebaut! 1714 G.W. + C.W._
 
 ![am erlengrund](../../../../sudwest/gompitz/pennrich/strassen_gompitz/a_rectangle_1955.gif)
 
-Der Straßenname Am Erlengrund ist von einem alten Flurnamen im oberen Zschonergrund  abgeleitet und bezeichnet seit 1999 den Dorfkern des Ortes  [Zöllmen](../../../../sudwest/Gompitz/Zollmen/zollmen.html). Zu den unter Denkmalschutz stehenden Gebäuden im Ort gehören die Bauernhöfe Nr. 3, Nr. 4, Nr. 6 und Nr. 8 mit ihren historischen Wirtschaftsgebäuden.
+Der Straßenname Am Erlengrund ist von einem alten Flurnamen im oberen Zschonergrund  abgeleitet und bezeichnet seit 1999 den Dorfkern des Ortes  [Zöllmen](../../../../sudwest/gompitz/zollmen/). Zu den unter Denkmalschutz stehenden Gebäuden im Ort gehören die Bauernhöfe Nr. 3, Nr. 4, Nr. 6 und Nr. 8 mit ihren historischen Wirtschaftsgebäuden.
 
 Dorfbrunnen: Der Brunnen wurde 1989 von Eberhard Wolf geschaffen. Bekrönt von einer Bäuerinnenfigur befinden sich am
 Brunnen eine Reihe von Rinderköpfen, darunter eine Sandsteinsäule mit acht Wasserspeiern. Ursprünglich befand sich der Brunnen am Eingangsbereich der Milchviehanlage der Zöllmener LPG Tierproduktion. Im Zusammenhang mit dem
@@ -54,12 +54,12 @@ _In der Mitte der Dorfbrunnen._
 
 _![am mühlberg](../../../../sudwest/gompitz/pennrich/strassen_gompitz/a_rectangle_1959.gif)_
 
-Die Straße Am Mühlberg in Steinbach erinnert an die einstige Holländerwindmühle des Ortes, die hier einst ihren Standort hatte. Sie gehörte als Zubehör zur nahegelegenen [Schulzenmühle](../../../../West/Kemnitz/Zschonergrund/Schulzenmuhle/schulzenmuhle.html)
+Die Straße Am Mühlberg in Steinbach erinnert an die einstige Holländerwindmühle des Ortes, die hier einst ihren Standort hatte. Sie gehörte als Zubehör zur nahegelegenen [Schulzenmühle](../../../../west/kemnitz/zschonergrund/schulzenmuhle/)
 im Zschonergrund, welche heute als Gaststätte genutzt wird. An der Einmündung zur Steinbacher Grundstraße steht eine historische Wegsäule aus Sandstein vom Beginn des 19. Jahrhunderts.
 
 ![am schreiberbach](../../../../sudwest/gompitz/pennrich/strassen_gompitz/a_rectangle_440.gif)
 
-Seit 2002 trägt die Hauptstraße von [Unkersdorf](../../../../sudwest/Gompitz/Unkersdorf/unkersdorf.html) den Namen Am Schreiberbach und verbindet den Ort mit dem benachbarten [Oberwartha](../../../../west/oberwartha/). 1912 wurde sie als Fahrstraße ausgebaut, wobei auch die früher schwer zu überwindende
+Seit 2002 trägt die Hauptstraße von [Unkersdorf](../../../../sudwest/gompitz/unkersdorf/) den Namen Am Schreiberbach und verbindet den Ort mit dem benachbarten [Oberwartha](../../../../west/oberwartha/). 1912 wurde sie als Fahrstraße ausgebaut, wobei auch die früher schwer zu überwindende
 Hohle beseitigt wurde. Namensgeber ist der hier fließende Unkersdorfer Dorfbach, ein Zufluss des Oberwarthaer Stausees.
 
 Im Ortskern sind noch zahlreiche Bauernhöfe erhalten geblieben, die heute meist nur noch Wohnzwecken dienen. In einem
@@ -69,7 +69,7 @@ alte Pfarrhof (Nr. 23), ein ehemaliger Dreiseithof mit Wohngebäude, Scheune und
 ![am steinhübel](../../../../sudwest/gompitz/pennrich/strassen_gompitz/a_rectangle_1956.gif)
 
 Die Straße Am Steinhübel verbindet Unkersdorf mit Kesselsdorf und erhielt ihren Namen nach dem Steinhübel, einer kleinen Erhebung am Westrand der Fluren von
-[Steinbach](../../../../sudwest/Gompitz/Steinbach/steinbach.html)
+[Steinbach](../../../../sudwest/gompitz/steinbach/)
 . 1869 entstand hier ein Vermessungspunkt für die mitteleuropäische Gradmessung. Die aus diesem Anlass errichtete Nagelsche Säule befindet sich heute im Ortszentrum, während am
 ursprünglichen Standort eine Gedenktafel an die historischen Zusammenhänge erinnert.
 
@@ -82,7 +82,7 @@ brannten napoleonische Soldaten den Pfarrbusch teilweise nieder. Von der Anhöhe
 
 ![drei-häuser-weg](../../../../sudwest/gompitz/pennrich/strassen_gompitz/a_rectangle_438.gif)
 
-![](../../../../sudwest/gompitz/pennrich/strassen_gompitz/steinbachdreih_user.jpg)Der Drei-Häuser-Weg in [Steinbach](../../../../sudwest/Gompitz/Steinbach/steinbach.html), früher auch als Dreihäuser Weg bezeichnet, erinnert an die
+![](../../../../sudwest/gompitz/pennrich/strassen_gompitz/steinbachdreih_user.jpg)Der Drei-Häuser-Weg in [Steinbach](../../../../sudwest/gompitz/steinbach/), früher auch als Dreihäuser Weg bezeichnet, erinnert an die
 jahrhundertelange Teilung des Dorfes in einen Scharfenberger und Leuteritzer Teil. Beide unterstanden verschiedenen Rittergütern und Ämtern und wurden erst im 19. Jahrhundert zu einer
 Gemeinde vereinigt. 1691 kam der kleinere Leuteritzer Teil zum Rittergut Maxen bei Pirna. Bis heute stehen die drei ehemaligen Kleinbauernhöfe abseits des Steinbacher Ortskerns und werden zu Wohnzwecken bzw. als Tierpension genutzt.
 
@@ -147,7 +147,7 @@ Wende wurden auf dem Turm Antennen für Radio- und Mobilfunk installiert. Der gr
 
 ![ockerwitzer allee](../../../../sudwest/gompitz/pennrich/strassen_gompitz/a_rectangle_430.gif)
 
-![](../../../../sudwest/gompitz/pennrich/strassen_gompitz/ockerwitzer_allee.jpg)Die frühere Hauptstraße von [Ockerwitz](../../../../sudwest/Gompitz/Ockerwitz/ockerwitz.html) wurde 1999 in Ockerwitzer Allee umbenannt. Die Straße ist Teil des
+![](../../../../sudwest/gompitz/pennrich/strassen_gompitz/ockerwitzer_allee.jpg)Die frühere Hauptstraße von [Ockerwitz](../../../../sudwest/gompitz/ockerwitz/) wurde 1999 in Ockerwitzer Allee umbenannt. Die Straße ist Teil des
 alten Kohlweges, der von Wurgwitz über Ockerwitz ins Elbtal führte. Da ihn die Bewohner des Dorfes als Weg zum Briesnitzer Friedhof benutzten, war zeitweise auch die
 Bezeichnung Ockerwitzer Leichenweg in Gebrauch. 2004 wurde hier im Zusammenhang mit dem Bau des gemeindeeigenen Wasserwerkes ein Hochbehälter angelegt _(Foto)_.
 
@@ -158,7 +158,7 @@ Vermutlich Mitte der 1960er Jahre wurde es von seinem ursprünglichen Standort e
 ![ockerwitzer dorfstraße](../../../../sudwest/gompitz/pennrich/strassen_gompitz/a_rectangle_431.gif)
 
 ![](../../../../sudwest/gompitz/pennrich/strassen_gompitz/ockerwitz2.jpg)Als Ockerwitzer Dorfstraße wird seit 1999 der
-Dorfkern des Gompitzer Ortsteils [Ockerwitz](../../../../sudwest/Gompitz/Ockerwitz/ockerwitz.html)  bezeichnet. Deutlich ist noch die Anlage des slawischen Rundlings mit den
+Dorfkern des Gompitzer Ortsteils [Ockerwitz](../../../../sudwest/gompitz/ockerwitz/)  bezeichnet. Deutlich ist noch die Anlage des slawischen Rundlings mit den
 einzelnen Gehöften zu erkennen. Die Drei-und Vierseithöfe erhielten ihre heutiges Aussehen im 19. Jahrhunderts und stehen heute unter Denkmalschutz. An einigen Gebäuden, so an den Höfen  Nr. 1 _(Foto)_
 und Nr. 9 haben sich Inschriftentafeln mit den Initialien der Besitzer und dem Baujahr erhalten.
 
@@ -183,7 +183,7 @@ Nachkriegszeit Bürgermeister des Ortes. Das Straßenbild dominieren bis heute E
 
 ![schwarmweg](../../../../sudwest/gompitz/pennrich/strassen_gompitz/a_rectangle_439.gif)
 
-Die frühere Rennersdorfer Straße, alte Verbindungsstraße zwischen Unkersdorf und Rennersdorf, wird seit 2002 wieder als Schwarmweg bezeichnet. Der Flurname [Schwärme](../../../../sudwest/Gompitz/Unkersdorf/Schwarme/schwarme.html) findet sich in zahlreichen alten Flurkarten und bezeichnet das Areal
+Die frühere Rennersdorfer Straße, alte Verbindungsstraße zwischen Unkersdorf und Rennersdorf, wird seit 2002 wieder als Schwarmweg bezeichnet. Der Flurname [Schwärme](../../../../sudwest/gompitz/unkersdorf/schwarme/) findet sich in zahlreichen alten Flurkarten und bezeichnet das Areal
 zwischen den Dörfern Unkersdorf, Rennersdorf, Brabschütz, Podemus und Roitzsch. Durch den Autobahnbau wurde die Straße unterbrochen und seit 1936 über eine neue Brücke geführt. Diese verschwand 1999 für den Ausbau des
 Autobahndreiecks Dresden-West.
 
@@ -199,7 +199,7 @@ der bereits 1561 erstmals erwähnte Dorfgasthof, später als Schützenhaus b
 
 ![teichweg](../../../../sudwest/gompitz/pennrich/strassen_gompitz/a_rectangle_1957.gif)
 
-Als Teichweg wird eine nach dem früheren Dorfteich im Zentrum von [Unkersdorf](../../../../sudwest/Gompitz/Unkersdorf/unkersdorf.html) benannte Straße bezeichnet. Hier blieben
+Als Teichweg wird eine nach dem früheren Dorfteich im Zentrum von [Unkersdorf](../../../../sudwest/gompitz/unkersdorf/) benannte Straße bezeichnet. Hier blieben
 bis heute einige historische Gehöfte erhalten. Bemerkenswert sind die Drei- bzw. Vier-Seit-Höfe Nr. 2, 4 und 12.
 
 ![zum jammertal](../../../../sudwest/gompitz/pennrich/strassen_gompitz/a_rectangle_964.gif)
@@ -222,4 +222,4 @@ Volkshelden. Umstritten ist jedoch seine Rolle in der Nazizeit sowie ein Ermittl
 
 * * *
 
- \[ [Home](../../../../index.html)\] \[ [Nord](../../../../nord/)\] \[ [Nordwest](../../../../Nordwest/nordwest.html)\] \[ [Neustadt](../../../../neustadt/)\] \[ [Nordost](../../../../nordost/)\] \[ [West](../../../../west/)\] \[ [Zentrum](../../../../zentrum/)\] \[ [Südwest](../../../../sudwest/)\] \[ [Süd](../../../../Sud/sud.html)\] \[ [Südost](../../../../Sudost/sudost.html)\] \[ [Ost](../../../../Ost/ost.html)\] \[ [Register](../../../../Register/register.html)\] \[ [Kontakt](../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../Impressum/impressum.html)\]
+ \[ [Home](../../../../index.html)\] \[ [Nord](../../../../nord/)\] \[ [Nordwest](../../../../nordwest/)\] \[ [Neustadt](../../../../neustadt/)\] \[ [Nordost](../../../../nordost/)\] \[ [West](../../../../west/)\] \[ [Zentrum](../../../../zentrum/)\] \[ [Südwest](../../../../sudwest/)\] \[ [Süd](../../../../sud/)\] \[ [Südost](../../../../sudost/)\] \[ [Ost](../../../../ost/)\] \[ [Register](../../../../Register/register.html)\] \[ [Kontakt](../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../impressum/)\]

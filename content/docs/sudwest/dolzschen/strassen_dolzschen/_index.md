@@ -9,7 +9,7 @@ date: 2024-02-17T22:13:43+01:00
 
 
 
-[![](../../../sudwest/dolzschen/strassen_dolzschen/hauptseited_lzschen2.jpg)](../../../sudwest/Dolzschen/dolzschen.html)
+[![](../../../sudwest/dolzschen/strassen_dolzschen/hauptseited_lzschen2.jpg)](../../../sudwest/dolzschen/)
 
 ![alfred-darre-weg](../../../sudwest/dolzschen/strassen_dolzschen/a_rectangle_1773.gif)
 
@@ -36,7 +36,7 @@ Zisternen, die früher zur Wasserversorgung der Gehöfte dienten. Heute stehen a
 **_Fotos:_** _Dorfplatz Altdölzschen (Mitte und links) - Gasthof Dölzschen (rechts)_
 
 Brauns Etablissement:
-Der Gasthof am Rande des Dorfplatzes ging 1848 aus dem früheren Reiheschank hervor und wurde nach seinem Besitzer Oskar Braun Brauns Etablissement genannt. Dieser war zugleich Inhaber einer Mühle und Großbäckerei im [Plauenschen Grund](../../../Sud/Plauen/Plauenscher_Grund/plauenscher_grund.html) (später König- Friedrich-August-Mühlenwerke AG). 1862 erhielt das Gebäude einen
+Der Gasthof am Rande des Dorfplatzes ging 1848 aus dem früheren Reiheschank hervor und wurde nach seinem Besitzer Oskar Braun Brauns Etablissement genannt. Dieser war zugleich Inhaber einer Mühle und Großbäckerei im [Plauenschen Grund](../../../sud/plauen/plauenscher_grund/) (später König- Friedrich-August-Mühlenwerke AG). 1862 erhielt das Gebäude einen
 großen Saal sowie einen turmartigen Anbau, der zugleich als Aussichtsturm diente. Während des Zweiten Weltkrieges waren hier ukrainische Zwangsarbeiterinnen untergebracht. Der Gasthof mit seinem schönen Gästegarten blieb bis in die
 Nachkriegszeit beliebtes Ausflugsziel, wurde dann jedoch geschlossen. Heute wird das Gebäude als Schulhort der 81.
 Grundschule und Kindergarten genutzt. Im früheren Saal findet seit vielen Jahren der Sportunterricht der Schule statt.
@@ -51,7 +51,7 @@ Die Straße am Dölzschgraben wurde 1936 im Zusammenhang mit der Erweiterung des
 Stadtweges von Dölzschen nach Dresden angelegt und in den Dreißiger Jahren mit Einfamilienhäusern bebaut. Zuvor war dieser Teil der Dorfflur als Kirschgarten genutzt worden. Zu den
 Bewohnern der neuen Häuser gehörte der Literatur- und Sprachwissenschaftler Victor Klemperer (1881-1960), der mit seiner Frau ab 1934 das Haus Am Kirschberg 19 bewohnte _(Foto)_
 . Klemperer wurde wegen seiner jüdischen Herkunft 1933 von der Technischen Hochschule verbannt und musste 1940 in ein Judenhaus in Strehlen umziehen. Nur mit Glück überlebte er die Nazizeit und erhielt 1945 sein Haus zurück.
-Bekannt wurde er vor allem durch seine Tagebücher und das Buch L T I, welches sich mit der Sprache des Dritten Reiches befasst. Klemperers Grab befindet sich auf dem [Dölzschener Friedhof](../../../sudwest/Dolzschen/Dolzschener_Friedhof/dolzschener_friedhof.html). Seit 2014 erinnert
+Bekannt wurde er vor allem durch seine Tagebücher und das Buch L T I, welches sich mit der Sprache des Dritten Reiches befasst. Klemperers Grab befindet sich auf dem [Dölzschener Friedhof](../../../sudwest/dolzschen/dolzschener_friedhof/). Seit 2014 erinnert
 zudem vor dem haus eine Stele mit Informationstafeln an ihn. Im Haus Am Kirschberg 1 befand sich früher die beliebte Ausflugsgaststätte Am Kirschberg.
 
 ![am pfiff](../../../sudwest/dolzschen/strassen_dolzschen/a_rectangle_573.gif)
@@ -90,13 +90,13 @@ und den Dörfern oberhalb des Tales. Vor 1945 wurde er auch als Fürstenweg beze
 ![friedhofsweg](../../../sudwest/dolzschen/strassen_dolzschen/a_rectangle_1771.gif)
 
 Der Friedhofsweg verbindet Dölzschen mit dem benachbarten Roßthal und war, seit 1930 offiziell als Roßthaler Weg
-bezeichnet, einst wichtige Verkehrsverbindung zwischen dem Sitz der Lehnsherrschaft und dem Bauerndorf Dölzschen. 1923 wurde hier der [Dölzschener Friedhof](../../../sudwest/Dolzschen/Dolzschener_Friedhof/dolzschener_friedhof.html) angelegt und der Weg aus diesem Grund 1946 in Friedhofsweg umbenannt.
+bezeichnet, einst wichtige Verkehrsverbindung zwischen dem Sitz der Lehnsherrschaft und dem Bauerndorf Dölzschen. 1923 wurde hier der [Dölzschener Friedhof](../../../sudwest/dolzschen/dolzschener_friedhof/) angelegt und der Weg aus diesem Grund 1946 in Friedhofsweg umbenannt.
 
 ![grenzallee](../../../sudwest/dolzschen/strassen_dolzschen/a_rectangle_578.gif)
 
 Die frühere Grenzstraße wurde zur Vermeidung von Verwechslungen mit einer gleichnamigen Straße in Naußlitz (heute Wendel-Hipler-Straße) 1945 in Grenzallee umbenannt. Zwischen 1933 und 1945 trug sie nach dem nationalsozialistischen Politiker Hermann Göring (1893-1946) den Namen Hermann-Göring-Straße. Die Straße bildet die Flurgrenze zwischen Dölzschen und Naußlitz bzw. Löbtau und ist seit 1910 Standort einer Villen- und Landhaussiedlung. Das Viertel zwischen Grenzallee und Hohendölzschener Straße wird heute auch Hohendölzschen genannt und war bis zum Beginn des Zweiten Weltkrieges weitgehend vollendet. Zu den zuletzt errichteten Gebäuden gehört die Mitte der Dreißiger Jahre entstandene Wohnsiedlung des Dresdner Spar- und Bauvereins im oberen Teil. Außerdem gab es hier die Gärtnerei Max Berthold, welche zeitweise auch eine Seidenraupenzucht beherbergte.
 
-Im Haus Grenzallee 34 wohnte zeitweise der Direktor des Wissenschaftlich-Photographischen Instituts der Technischen Hochschule Hellmut Frieser (1901-1988). Zu den Bewohnern der Grenzallee (Nr. 35) gehörte ab 1937 auch der Arzt Eduard Grube (1896-1967). Grube war von 1924 bis 1933 Stadtarzt in Freital, wurde dann wegen seiner politischen Tätigkeit in der SPD beurlaubt und praktizierte als Arzt in Dresden-Löbtau. Im Mai 1945 wurde er zum ersten Stadtrat für Gesundheitswesen der Nachkriegszeit ernannt und war zwischen 1960 und 1966 Ärztlicher Direktor der [Medizinischen Akademie](../../../Zentrum/Johannstadt/Universitatsklinikum/universitatsklinikum.html).
+Im Haus Grenzallee 34 wohnte zeitweise der Direktor des Wissenschaftlich-Photographischen Instituts der Technischen Hochschule Hellmut Frieser (1901-1988). Zu den Bewohnern der Grenzallee (Nr. 35) gehörte ab 1937 auch der Arzt Eduard Grube (1896-1967). Grube war von 1924 bis 1933 Stadtarzt in Freital, wurde dann wegen seiner politischen Tätigkeit in der SPD beurlaubt und praktizierte als Arzt in Dresden-Löbtau. Im Mai 1945 wurde er zum ersten Stadtrat für Gesundheitswesen der Nachkriegszeit ernannt und war zwischen 1960 und 1966 Ärztlicher Direktor der [Medizinischen Akademie](../../../zentrum/johannstadt/universitatsklinikum/).
 
 ![](../../../sudwest/dolzschen/strassen_dolzschen/d_lzschgrenz.jpg)
 
@@ -110,7 +110,7 @@ Die kleine Verbindungsstraße Grüne Hoffnung entstand Mitte der 1930er Jahre un
 
 ![](../../../sudwest/dolzschen/strassen_dolzschen/d_lzschhohendstr.jpg)Die Hohendölzschener Straße, die vom Dorfplatz bis zur Tharandter Straße führt, ist Teil eines alten Verbindungsweges zwischen Meißen und der Burg Dohna. Ursprünglich verlief dieser Fahrweg über Pesterwitz, Dölzschen, Plauen und Leubnitz, wurde später jedoch durch andere Verkehrsverbindungen ersetzt. Viele Jahre nutzten die Bewohner des Ortes die Straße als Weg zur Plauener Kirche, zu der Dölzschen bis 1878 gehörte. Deshalb bürgerte sich für diese der Name Dölzschener Kirchweg, auch Kirchsteig, Braut- oder Leichenweg ein. Später wurde die Straße ab 1900 Residenzstraße genannt.
 
-Ihren heutigen Namen erhielt die in den Zwanziger Jahren ausgebaute Straße 1946 nach dem Ortsteil Hohendölzschen, einem ausgedehnten Villenviertel östlich des alten Dorfkerns _(Foto)_. Die meisten Gebäude entstanden zwischen 1900 und 1914, darunter die architektonisch interessanten Häuser Höhendölzschener Straße 3 bis 9, Nr. 4, 16, 18, 24, 31 und 44, die heute als Baudenkmale unter Schutz stehen. Zu den Bewohnern einer dieser Villen (Nr. 37) gehörte u.a. der Kunstmaler Martin Erich Philipp (1887-1978). Philipp hatte ab 1904 die Kunstgewerbeschule in Dresden besuchte und studierte im Anschluss an der Kunstakademie bei Oskar Zwintscher und Gotthardt Kuehl. Ab 1913 wirkte er freischaffender Maler und Grafiker. Sein Grab befindet sich auf dem [Dölzschener Friedhof](../../../sudwest/Dolzschen/Strassen_Dolzschen/strassen_dolzschen.html).
+Ihren heutigen Namen erhielt die in den Zwanziger Jahren ausgebaute Straße 1946 nach dem Ortsteil Hohendölzschen, einem ausgedehnten Villenviertel östlich des alten Dorfkerns _(Foto)_. Die meisten Gebäude entstanden zwischen 1900 und 1914, darunter die architektonisch interessanten Häuser Höhendölzschener Straße 3 bis 9, Nr. 4, 16, 18, 24, 31 und 44, die heute als Baudenkmale unter Schutz stehen. Zu den Bewohnern einer dieser Villen (Nr. 37) gehörte u.a. der Kunstmaler Martin Erich Philipp (1887-1978). Philipp hatte ab 1904 die Kunstgewerbeschule in Dresden besuchte und studierte im Anschluss an der Kunstakademie bei Oskar Zwintscher und Gotthardt Kuehl. Ab 1913 wirkte er freischaffender Maler und Grafiker. Sein Grab befindet sich auf dem [Dölzschener Friedhof](../../../sudwest/dolzschen/strassen_dolzschen/).
 
 ![](../../../sudwest/dolzschen/strassen_dolzschen/d_lzschencaf_.jpg)Café Hohendölzschen: Oberhalb des Bienertparks befand sich ab 1911 das beliebte Café Hohendölzschen _(Nr. 1- Foto)_, von dem aus sich ein herrlicher Fernblick über die Umgebung bot. Die kleine Gaststätte erfreute sich als Ausflugsziel, aber auch als Tanzlokal großer Beliebtheit. 1949 übernahm die HO die Bewirtschaftung, bevor der Gastronomiebetrieb in den 1960er Jahren eingestellt wurde. Danach befand sich hier eine Kindertagesstätte. 1990 wurde das Gebäude an die Alteigentümer zurückgegeben und wenig später abgerissen. Heute steht auf dem Grundstück ein modernes Einfamilienhaus.
 
@@ -126,7 +126,7 @@ Kriegsbedingt konnte diese Siedlung jedoch nur zur Hälfte fertiggestellt werden
 
 Die heutige Luftbadstraße wurde 1918 auf Beschluss des Gemeinderates von Dölzschen Mäserstraße genannt. Mit dieser
 Namensgebung sollte der Vorsitzende der Dölzschener Eigenheimgesellschaft Reinhold Mäser geehrt werden, auf dessen
-Initiative die ausgedehnte Siedlung an der Hohendölzschener Straße entstand. Am Ende der früheren Mäserstraße befindet sich seit 1885 das [Luftbad Dölzschen](../../../sudwest/Dolzschen/dolzschen.html).
+Initiative die ausgedehnte Siedlung an der Hohendölzschener Straße entstand. Am Ende der früheren Mäserstraße befindet sich seit 1885 das [Luftbad Dölzschen](../../../sudwest/dolzschen/).
 
 ![robert-weber-straße](../../../sudwest/dolzschen/strassen_dolzschen/a_rectangle_581.gif)
 
@@ -148,12 +148,12 @@ Bergsteiger gegen das nationalsozialistische Regime. Mehrfach verhaftet, musste 
 
 ![serpentinstraße](../../../sudwest/dolzschen/strassen_dolzschen/a_rectangle_583.gif)
 
-Die kurvenreiche Serpentinstraße wurde 1889 als Verbindung zwischen dem Dorfkern und dem [Plauenschen Grund](../../../Sud/Plauen/Plauenscher_Grund/plauenscher_grund.html)
-angelegt, um diese beiden Ortsteile besser miteinander zu verbinden. Niederdölzschen war einst wichtiges Weinbaugebiet und später Standort mehrerer Steinbrüche. Außerdem existierten im Tal das [Eisenhammerwerk](../../../Sud/Plauen/Plauenscher_Grund/Eisenhammerwerk/eisenhammerwerk.html) und weitere gewerbliche Unternehmungen.
+Die kurvenreiche Serpentinstraße wurde 1889 als Verbindung zwischen dem Dorfkern und dem [Plauenschen Grund](../../../sud/plauen/plauenscher_grund/)
+angelegt, um diese beiden Ortsteile besser miteinander zu verbinden. Niederdölzschen war einst wichtiges Weinbaugebiet und später Standort mehrerer Steinbrüche. Außerdem existierten im Tal das [Eisenhammerwerk](../../../sud/plauen/plauenscher_grund/eisenhammerwerk/) und weitere gewerbliche Unternehmungen.
 Nach dem Straßenbau entstanden in diesem Areal an Stelle früherer Weinbergsterrassen Wohnhäuser. 1946 wurde die zuvor
 Bergstraße genannte Straße in Serpentinstraße umbenannt. In ihrer Nähe überspannt seit 2002 die neue Autobahnbrücke der A 17 das Weißeritztal.
 
-[![tharandter straße](../../../a_rectangle_541.gif)](../../../sudwest/Lobtau/Strassen_Lobtau/Tharandter_Strasse/tharandter_strasse.html)
+[![tharandter straße](../../../a_rectangle_541.gif)](../../../sudwest/lobtau/strassen_lobtau/tharandter_strasse/)
 
 ![wurgwitzer straße](../../../sudwest/dolzschen/strassen_dolzschen/a_rectangle_1772.gif)
 
@@ -163,7 +163,7 @@ seine Grundherrschaft jahrhundertelang eng verbunden war. Ihren heutigen Namen e
 Unterhalb der Wurgwitzer Straße lagen einst die Weinberge des Ortes, was zum Bau mehrerer Winzerhäuser führte.
 Markantestes ist das heute als Altersheim genutzte Jochhöhschlösschen auf Freitaler Flur. Das letzte Winzerhaus in Dölzschen
 wurde 1994 wegen Baufälligkeit abgerissen und durch einen Neubau ersetzt. 1817 entstand in einem Wohnhaus an dieser
-Straße die erste Dölzschener Schulstube, welche die Kinder des Ortes und der Nachbarsiedlungen Naußlitz, Roßthal und Jochhöh besuchten. 1840 wurde hier auch das erste reguläre [Schulhaus](../../../sudwest/Dolzschen/dolzschen.html) erbaut (1978 abgerissen). Auf dem Gelände einer
+Straße die erste Dölzschener Schulstube, welche die Kinder des Ortes und der Nachbarsiedlungen Naußlitz, Roßthal und Jochhöh besuchten. 1840 wurde hier auch das erste reguläre [Schulhaus](../../../sudwest/dolzschen/) erbaut (1978 abgerissen). Auf dem Gelände einer
 ehemaligen Fabrik für Bremstechnik (Nr. 6) entstand 2015 eine kleine Wohnanlage.
 
 Schweinemastanlage:
@@ -179,4 +179,4 @@ Später war hier ein Freizeitpark mit Sommerrodelbahn und Wildgehege geplant. Di
 
 * * *
 
- \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../Sud/sud.html)\] \[ [Südost](../../../Sudost/sudost.html)\] \[ [Ost](../../../Ost/ost.html)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../Impressum/impressum.html)\]
+ \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../sud/)\] \[ [Südost](../../../sudost/)\] \[ [Ost](../../../ost/)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../impressum/)\]

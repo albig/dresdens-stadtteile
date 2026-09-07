@@ -10,7 +10,7 @@ date: 2024-02-17T22:13:44+01:00
 
 ![](../../../plz_01156.jpg)
 
-[![](../../../nachbarn.jpg)](../../../sudwest/Gompitz/gompitz.html)
+[![](../../../nachbarn.jpg)](../../../sudwest/gompitz/)
 
 * * *
 
@@ -21,7 +21,7 @@ date: 2024-02-17T22:13:44+01:00
 ![](../../../sudwest/gompitz/unkersdorf/unkersdorf1.jpg)Obwohl der Ortsname (Dorf des Unco) auf einen deutschen Lokator hinweist,
 entstand Unkersdorf vermutlich bereits im 11. Jahrhundert als slawische Siedlung. 1071 wurden die Orte Bulsice und Nicradewice erstmals in einer Urkunde des
 Papstes erwähnt, in dem dieser dem Bischof von Meißen die genannten Dörfer überschrieb. Die beiden Siedlungen bilden vermutlich den Ursprung des
-Doppelrundlings Unkersdorf, der am 16. Mai 1350 erstmals als villa Vnkersdorf erwähnt wurde. Als bischöfliches Lehen bildete Unkersdorf ein besonderes Gericht und besaß eine eigene [Kirche](../../../sudwest/Gompitz/Unkersdorf/Unkersdorfer_Kirche/unkersdorfer_kirche.html). 1450 gehörte der Ort als Lehen Georg von Miltitz und unterstand dem bischöflichen Amt Briesnitz.
+Doppelrundlings Unkersdorf, der am 16. Mai 1350 erstmals als villa Vnkersdorf erwähnt wurde. Als bischöfliches Lehen bildete Unkersdorf ein besonderes Gericht und besaß eine eigene [Kirche](../../../sudwest/gompitz/unkersdorf/unkersdorfer_kirche/). 1450 gehörte der Ort als Lehen Georg von Miltitz und unterstand dem bischöflichen Amt Briesnitz.
 
 Die von der Landwirtschaft geprägte Gemeinde wurde im Dreißigjährigen Krieg 1637 von kaiserlichen Soldaten geplündert, die sich auch in den Kirchenbüchern des Ortes verewigten. Während der Schlacht von Kesselsdorf
 besuchte Fürst Leopold von Dessau den Ort, um sich hier einen Überblick über das Schlachtfeld zu verschaffen. Einen
@@ -34,7 +34,7 @@ Unkersdorf 1762 von einigen Abgaben befreit.
 Durchzugs russischer und französischer Soldaten 1814, die den Pfarrbusch niederbrannten, blieb Unkersdorf im 19. Jahrhundert ein wohlhabendes
 Kirchdorf. Bis zur Aufhebung der Zins- und Dienstverpflichtungen gehörte der Ort als Zubehör zum Rittergut Scharfenberg, welches jahrhundertelang im
 Besitz der Familie Miltitz blieb. Von den tiefgreifenden Veränderungen der Industrialisierung blieb das Dorf weitgehend verschont. Erst 1909 erhielten die
-Gehöfte Elektroenergieanschluss an das Elektrizitätswerk Elbtal in Cossebaude. Unkersdorf blieb jedoch bis in jüngste Vergangenheit  ein Bauerndorf. 1950 wurden die Nachbarorte [Roitzsch](../../../sudwest/Gompitz/Roitzsch/roitzsch.html) und [Steinbach](../../../sudwest/Gompitz/Steinbach/steinbach.html) eingemeindet, die bereits zuvor zum Unkersdorfer Kirchspiel gehörten. Alle drei Dörfer kamen
+Gehöfte Elektroenergieanschluss an das Elektrizitätswerk Elbtal in Cossebaude. Unkersdorf blieb jedoch bis in jüngste Vergangenheit  ein Bauerndorf. 1950 wurden die Nachbarorte [Roitzsch](../../../sudwest/gompitz/roitzsch/) und [Steinbach](../../../sudwest/gompitz/steinbach/) eingemeindet, die bereits zuvor zum Unkersdorfer Kirchspiel gehörten. Alle drei Dörfer kamen
 1974 Jahren zu Gompitz und sind seit dem 1. Januar 1999 Stadtteile von Dresden.
 
 Inschriften an Unkersdorfer Bauernhäusern:
@@ -53,6 +53,6 @@ geschaffen. Eine dieser Säulen befand sich auf dem Steinhübel südlich von Unk
 und 1882 leitete. 1980 wurde sie von ihrem ursprünglichen Platz entfernt und erst 1994 von den Mitgliedern des Heimatvereins wieder aufgespürt. Seit 2000 steht sie nach Restaurierung als Denkmal des Vermessungswesens
 gegenüber der Gaststätte Unkersdorfer Hof. Am Steinhübel selbst erinnert eine Informationstafel an das Projekt.
 
-[![unkersdorfer straßen](../../../sudwest/gompitz/unkersdorf/a_rectangle_1963.gif)](../../../sudwest/Gompitz/Pennrich/Strassen_Gompitz/strassen_gompitz.html)
+[![unkersdorfer straßen](../../../sudwest/gompitz/unkersdorf/a_rectangle_1963.gif)](../../../sudwest/gompitz/pennrich/strassen_gompitz/)
 
-[_Weiterführende Literatur und Quellen_](../../../Impressum/Quellenverzeichnis/quellenverzeichnis.html)
+[_Weiterführende Literatur und Quellen_](../../../impressum/quellenverzeichnis/)

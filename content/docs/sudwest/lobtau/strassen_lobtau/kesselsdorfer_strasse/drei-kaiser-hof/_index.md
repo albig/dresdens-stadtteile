@@ -19,7 +19,7 @@ date: 2024-02-17T22:13:44+01:00
 
 ![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
 
-[![](../../../../../hauptseitel_btau.jpg)](../../../../../sudwest/Lobtau/lobtau.html)
+[![](../../../../../hauptseitel_btau.jpg)](../../../../../sudwest/lobtau/)
 
 * * *
 
@@ -27,7 +27,7 @@ date: 2024-02-17T22:13:44+01:00
 
 
 ![](../../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/drei-kaiser-hof/l_btaudreikais.jpg)Der Drei-Kaiser-Hof entstand im letzten Drittel des 19. Jahrhunderts an der
-Kreuzung [Kesselsdorfer](../../../../../sudwest/Lobtau/Strassen_Lobtau/Kesselsdorfer_Strasse/kesselsdorfer_strasse.html) / [Tharandter Straße](../../../../../sudwest/Lobtau/Strassen_Lobtau/Tharandter_Strasse/tharandter_strasse.html) auf dem Grundstück des abgetragenen Löbtauer Chausseehauses. Nach Fertigstellung des
+Kreuzung [Kesselsdorfer](../../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/) / [Tharandter Straße](../../../../../sudwest/lobtau/strassen_lobtau/tharandter_strasse/) auf dem Grundstück des abgetragenen Löbtauer Chausseehauses. Nach Fertigstellung des
 repräsentativen Wohn- und Geschäftshauses eröffnete am 1. April 1888 der Gastwirt Wilhelm Gustav Fröde im Erdgeschoss sein  Restaurant zum alten
 Chausseehaus. Nachdem Fröde das gesamte Grundstück 1890 gekauft hatte, wurde auf dem Nachbargrundstück 1897 ein Hotelneubau errichtet, der den Namen Drei-Kaiser-Hof erhielt _(Foto)._
 Mit diesem Namen sollte an das Dreikaiserjahr 1888 erinnert werden, in welchem gleich drei deutsche Kaiser
@@ -45,6 +45,6 @@ Trotz der schweren Schäden gelang es jedoch, einige Erdgeschossräume wieder nu
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif) \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../Nordwest/nordwest.html)\] \[ [Neustadt](../../../../../neustadt/)\]
+![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif) \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
  \[ [Nordost](../../../../../nordost/)\] \[ [West](../../../../../west/)\] \[ [Zentrum](../../../../../zentrum/)\] \[ [Südwest](../../../../../sudwest/)\]
- \[ [Süd](../../../../../Sud/sud.html)\] \[ [Südost](../../../../../Sudost/sudost.html)\] \[ [Ost](../../../../../Ost/ost.html)\] \[ [Register](../../../../../Register/register.html)\] \[ [Kontakt](../../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../../Impressum/impressum.html)\]
+ \[ [Süd](../../../../../sud/)\] \[ [Südost](../../../../../sudost/)\] \[ [Ost](../../../../../ost/)\] \[ [Register](../../../../../Register/register.html)\] \[ [Kontakt](../../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../../impressum/)\]

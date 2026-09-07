@@ -14,7 +14,7 @@ date: 2024-02-17T22:13:44+01:00
 
 ![](../../../plz_01156.jpg)
 
-[![](../../../nachbarn.jpg)](../../../sudwest/Gompitz/gompitz.html)
+[![](../../../nachbarn.jpg)](../../../sudwest/gompitz/)
 
 * * *
 
@@ -37,7 +37,7 @@ Dienstablösungsrezesse zwischen 1830 und 1852. Zu den einschneidensten Ereignis
 Dezember 1745, zu deren Hauptkampfgebieten der Wüsteberg bei Zöllmen gehörte. Im Siebenjährigen Krieg befand sich zwischen Zöllmen und Kesselsdorf ein preußisches Feldlager, dessen Versorgung der Stadt Wilsdruff oblag.
 
 ![](../../../sudwest/gompitz/zollmen/z_llmenbrunnen2.jpg)Im 19.
-Jahrhundert erhielt das Dorf den Status einer Landgemeinde. Die Bewohner lebten vorrangig vom Acker- und Obstbau. Eng verbunden war Zöllmen mit den Nachbardörfern [Pennrich](../../../sudwest/Gompitz/Pennrich/pennrich.html) und [Gompitz](../../../sudwest/Gompitz/gompitz.html), die eine gemeinsame Schulgemeinde bildeten und 1911 eine Pflichtfeuerwehr ins Leben riefen. Außerhalb des alten Dorfkerns entstand um 1900 der
+Jahrhundert erhielt das Dorf den Status einer Landgemeinde. Die Bewohner lebten vorrangig vom Acker- und Obstbau. Eng verbunden war Zöllmen mit den Nachbardörfern [Pennrich](../../../sudwest/gompitz/pennrich/) und [Gompitz](../../../sudwest/gompitz/), die eine gemeinsame Schulgemeinde bildeten und 1911 eine Pflichtfeuerwehr ins Leben riefen. Außerhalb des alten Dorfkerns entstand um 1900 der
 Ortsteil Kümmelschänke mit der gleichnamigen Gaststätte an der Kesselsdorfer Landstraße. 1904 erfolgte der Bau einer Wasserleitung nach Leutewitz, nachdem Zöllmener Bauern ihre
 Wasserrechte verkauft hatten. Seit 1950 gehörte Zöllmen als Ortsteil zu Gompitz und kam mit diesem gemeinsam am 1. Januar 1999 zu Dresden. Nachdem sich auch die Zöllmener
 Bauern nach 1950 zu einer LPG zusammengeschlossen hatten, entstand in Zöllmen eine moderne Milchviehanlage, die zuletzt zur LPG Karl Marx in Brabschütz gehörte. In den
@@ -54,10 +54,10 @@ Siedlung erhielt 1902 eine Azetylangasanlage zur Beleuchtung der Häuser. Die K�
 
 **_Foto:_** _Die Kümmelschänke in den Dreißiger Jahren_
 
-[![zöllmener straßen](../../../sudwest/gompitz/zollmen/a_rectangle_1961.gif)](../../../sudwest/Gompitz/Pennrich/Strassen_Gompitz/strassen_gompitz.html)
+[![zöllmener straßen](../../../sudwest/gompitz/zollmen/a_rectangle_1961.gif)](../../../sudwest/gompitz/pennrich/strassen_gompitz/)
 
-[_Weiterführende Literatur und Quellen_](../../../Impressum/Quellenverzeichnis/quellenverzeichnis.html)
+[_Weiterführende Literatur und Quellen_](../../../impressum/quellenverzeichnis/)
 
 ![](../../../cubesdivider.gif)
 
- \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../Sud/sud.html)\] \[ [Südost](../../../Sudost/sudost.html)\] \[ [Ost](../../../Ost/ost.html)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../Impressum/impressum.html)\]
+ \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../sud/)\] \[ [Südost](../../../sudost/)\] \[ [Ost](../../../ost/)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../impressum/)\]

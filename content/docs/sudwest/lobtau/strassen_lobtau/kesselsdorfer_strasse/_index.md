@@ -9,17 +9,17 @@ date: 2024-02-17T22:13:44+01:00
 
 
 
-[![](../../../../hauptseitel_btau.jpg)](../../../../sudwest/Lobtau/lobtau.html)
+[![](../../../../hauptseitel_btau.jpg)](../../../../sudwest/lobtau/)
 
-[![](../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/hauptseitenau_litz.jpg)](../../../../sudwest/Nausslitz/nausslitz.html)
+[![](../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/hauptseitenau_litz.jpg)](../../../../sudwest/nausslitz/)
 
-[![](../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/hauptseitew_lfnitz.jpg)](../../../../sudwest/Wolfnitz/wolfnitz.html)
+[![](../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/hauptseitew_lfnitz.jpg)](../../../../sudwest/wolfnitz/)
 
-[![](../../../../sudwest/hauptseitegorbitz.jpg)](../../../../sudwest/Gorbitz/gorbitz.html)
+[![](../../../../sudwest/hauptseitegorbitz.jpg)](../../../../sudwest/gorbitz/)
 
-[![](../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/hauptseitegompitz.jpg)](../../../../sudwest/Gompitz/gompitz.html)
+[![](../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/hauptseitegompitz.jpg)](../../../../sudwest/gompitz/)
 
-[![](../../../../sudwest/hauptseitealtfranken.jpg)](../../../../sudwest/altfranken/altfranken.html)
+[![](../../../../sudwest/hauptseitealtfranken.jpg)](../../../../sudwest/altfranken/)
 
 * * *
 
@@ -33,17 +33,17 @@ date: 2024-02-17T22:13:44+01:00
 
 
 ![](../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/l_btaukesselsdorfer1.jpg)Die Kesselsdorfer Straße bestand schon gegen Ende des 12. Jahrhunderts als Teil
-einer alten Verbindungsstraße zwischen dem Kloster Nossen und dem [Klosterhof](../../../../Sudost/Leubnitz-Neuostra/Klosterhof/klosterhof.html) in
+einer alten Verbindungsstraße zwischen dem Kloster Nossen und dem [Klosterhof](../../../../sudost/leubnitz-neuostra/klosterhof/) in
 Leubnitz. Zugleich verband sie die Stadt Dresden mit dem bedeutenden Bergbauzentrum um Freiberg. Ursprünglich wurde sie als Freybergische Straße
 bezeichnet und gehört zu den wichtigsten alten Fernstraßen im Dresdner Raum. August der Starke ließ sie um 1720 zur Poststraße ausbauen und mit Postmeilensäulen
-versehen, von denen jedoch keine erhalten blieb. 1704 entstand in diesem Zusammenhang an Stelle einer hölzernen Vorgängerin eine steinerne [Brücke](../../../../sudwest/Lobtau/Strassen_Lobtau/Lobtauer_Brucken/lobtauer_brucken.html) über die Weißeritz. Als Hauptverkehrsverbindung ins Erzgebirge wurde sie 1767 Gebürgische
+versehen, von denen jedoch keine erhalten blieb. 1704 entstand in diesem Zusammenhang an Stelle einer hölzernen Vorgängerin eine steinerne [Brücke](../../../../sudwest/lobtau/strassen_lobtau/lobtauer_brucken/) über die Weißeritz. Als Hauptverkehrsverbindung ins Erzgebirge wurde sie 1767 Gebürgische
 Hauptstraße genannt. Noch bis zum Ende des 19. Jahrhunderts erinnerte eine Wegsäule in der Nähe der Kreuzung mit der Tharandter und Löbtauer Straße an die Bedeutung dieses Verkehrsweges.
 
 ![](../../../../l_btaukesselsdorfer2.jpg)Zwischen 1810 und 1812 wurde die Straße im Auftrag Napoleons zur Chaussee
 ausgebaut und erhielt dabei im Wesentlichen ihren heutigen Verlauf. Ab 1871 trug sie zunächst den Namen Wilsdruffer Straße, ab 1904 Kesselsdorfer Straße. Dieser Name
 wurde nach der Eingemeindung auch auf die Straßenabschnitte in Gorbitz (1926) und in Gompitz (1999) übertragen. Ab 1881 verkehrte eine Pferdebahn bis zum 1875 entstandenen [Neuen Annenfriedhof](../../../../sudwest/Lobtau/Friedenskirche/Neuer_Annenfriedhof/neuer_annenfriedhof.html). 1893/96 wurde diese Strecke elektrifiziert und bis
 zum Straßenbahnhof Naußlitz verlängert. Bereits vor dem Zweiten Weltkrieg entwickelte sich die Kesselsdorfer Straße zum Stadtteilzentrum der westlichen
-Dresdner Vororte mit zahlreichen Geschäften und Gaststätten. Im unteren Teil _(Foto)_ fielen einige dieser Gebäude 1945 den Bombenangriffen zum Opfer, darunter der bekannte [Drei-Kaiser-Hof](../../../../sudwest/Lobtau/Strassen_Lobtau/Kesselsdorfer_Strasse/Drei-Kaiser-Hof/drei-kaiser-hof.html) und die [Musenhalle](../../../../sudwest/Lobtau/Strassen_Lobtau/Kesselsdorfer_Strasse/Musenhalle/musenhalle.html) an der Poststraße. Erst nach 1990 wurde mit der schrittweisen Schließung der Baulücken begonnen.
+Dresdner Vororte mit zahlreichen Geschäften und Gaststätten. Im unteren Teil _(Foto)_ fielen einige dieser Gebäude 1945 den Bombenangriffen zum Opfer, darunter der bekannte [Drei-Kaiser-Hof](../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/drei-kaiser-hof/) und die [Musenhalle](../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/musenhalle/) an der Poststraße. Erst nach 1990 wurde mit der schrittweisen Schließung der Baulücken begonnen.
 
 Löbtau:
 
@@ -53,9 +53,9 @@ Löbtau:
 
 ![](../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/l_btdreikaiserhofneu.jpg)Kesselsdorfer Passagen: Der moderne Gebäudekomplex _(Foto)_ wurde 1997/98 auf dem Grundstück Nr. 2-6 errichte und beherbergt mehrere Läden und Restaurants sowie Büros in den Obergeschossen. Zuvor standen hier noch einige Anfang des 19. Jahrhunderts errichtete Wohnhäuser, darunter das 1945 teilzerstörte Gebäude der Likörfabrik Max Herzog. In Anlehnung an die frühere Gaststätte auf der gegenüber liegenden Straßenseite wurden die Kesselsdorfer Passagen 2000 in Drei-Kaiser- Hof umbenannt.
 
-Nr. 8: In diesem heute nicht mehr vorhandenem Gebäude (ehem. Wilsdruffer Straße 50) wohnte Ende des 19. Jahrhunderts der Glasmacher Georg Horn (1841-1919), der im [Löbtauer Glaswerk](../../../../Zentrum/Wilsdruffer_Vorstadt/Freiberger_Strasse/Glaswerk_Lobtau/glaswerk_lobtau.html) beschäftigt war und Mitbegründer des Bundes der Glasarbeiter Deutschlands war. Nach seiner Entlassung in Folge des Sozialistengesetzes betrieb er im Haus zeitweise eine Produktenhandlung. Horn verzog später nach Radebeul-Lindenau. Politisch betätigte er sich als Redakteur, Schriftsteller und Gewerkschaftsfunktionär. Er war Mitglied des Löbtauer Gemeinderates, Landtagsabgeordneter und von 1895 bis 1918 Mitglied des Deutschen Reichstags. Das Haus fiel 1945 dem Luftangriff zum Opfer. 2013/15 erfolgte auf dem Grundstück an der Ecke zur Gröbelstraße der Bau eines neuen Wohn- und Geschäftshauses (Nr. 8-10).
+Nr. 8: In diesem heute nicht mehr vorhandenem Gebäude (ehem. Wilsdruffer Straße 50) wohnte Ende des 19. Jahrhunderts der Glasmacher Georg Horn (1841-1919), der im [Löbtauer Glaswerk](../../../../zentrum/wilsdruffer_vorstadt/freiberger_strasse/glaswerk_lobtau/) beschäftigt war und Mitbegründer des Bundes der Glasarbeiter Deutschlands war. Nach seiner Entlassung in Folge des Sozialistengesetzes betrieb er im Haus zeitweise eine Produktenhandlung. Horn verzog später nach Radebeul-Lindenau. Politisch betätigte er sich als Redakteur, Schriftsteller und Gewerkschaftsfunktionär. Er war Mitglied des Löbtauer Gemeinderates, Landtagsabgeordneter und von 1895 bis 1918 Mitglied des Deutschen Reichstags. Das Haus fiel 1945 dem Luftangriff zum Opfer. 2013/15 erfolgte auf dem Grundstück an der Ecke zur Gröbelstraße der Bau eines neuen Wohn- und Geschäftshauses (Nr. 8-10).
 
-![](../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/löbtaupassage.jpg)Löbtau-Passage: Das moderne Einkaufszentrum entstand 2008/09 auf dem Grundstück des früheren Dreikaiserhofes und einiger Nebengebäude. Im Erdgeschoss befindet sich eine Ladenpassage, im Obergeschoss ein zweigeschossiges Parkdeck. Zuvor war das Grundstück des 1945 zerstörten Hotels zeitweise Standort des HO-Möbelhauses Das schöne Heim (Möbelhaus West), später einiger Verkaufspavillons, bevor diese am 28. Juni 1996 durch einen Großbrand zerstört wurden. In den Neubau der Löbtau-Passage wurde auch der Mustersaal der ehemaligen [Lampenfabrik Seifert](../../../../sudwest/Lobtau/Strassen_Lobtau/strassen_lobtau.html) auf der Gröbelstraße integriert. Hier hatte 1906 die erste öffentliche Ausstellung der Brücke-Künstler stattgefunden.
+![](../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/löbtaupassage.jpg)Löbtau-Passage: Das moderne Einkaufszentrum entstand 2008/09 auf dem Grundstück des früheren Dreikaiserhofes und einiger Nebengebäude. Im Erdgeschoss befindet sich eine Ladenpassage, im Obergeschoss ein zweigeschossiges Parkdeck. Zuvor war das Grundstück des 1945 zerstörten Hotels zeitweise Standort des HO-Möbelhauses Das schöne Heim (Möbelhaus West), später einiger Verkaufspavillons, bevor diese am 28. Juni 1996 durch einen Großbrand zerstört wurden. In den Neubau der Löbtau-Passage wurde auch der Mustersaal der ehemaligen [Lampenfabrik Seifert](../../../../sudwest/lobtau/strassen_lobtau/) auf der Gröbelstraße integriert. Hier hatte 1906 die erste öffentliche Ausstellung der Brücke-Künstler stattgefunden.
 
 ![](../../../../l_btaukaufhausmagnet.jpg)Kaufhaus Magnet (Nr. 11): Das in den Zwanziger Jahren errichtete Kaufhaus blieb bis zur Schließung 1990 eine beliebte Einkaufsstätte weit über die Löbtauer Ortsgrenzen hinaus _(im Bild rechtes Gebäude)_. Vor 1945 wurde es als Rheinische Kaufhalle bezeichnet. Im Obergeschoss besaß der Maler Otto Dix ab 1933 seine Atelierräume und nutzte diese bis zu seinem Tod 1969. Nach 1945 gab es im Haus für einige Jahre eine Tauschzentrale (Tauze), in der man im Tausch gegen Wertgegenstände Lebens- und Genussmittel erhielt. Zu den Geschäftsführern des Unternehmens gehörte der spätere Vorsitzende des Zentralrates der Juden in Deutschland Ignatz Bubis.
 
@@ -73,7 +73,7 @@ Altersgründen auf. Dieser wurde noch kurzzeitig von einem Nachfolger weitergef�
 
 Westend-Lichtspiele
 : Das Filmtheater mit ca. 450 Plätzen wurde 1912 als Westend-Theater gegeründet und befand sich auf der Kesselsdorfer Straße 20. 1917 befand es sich im Besitz von F. A. Wache, ab 1920 der Firma Riegel & Goldhammer.
-1934 übernahm Willy Schulze, der auch Inhaber der gegenüber liegenden [Musenhalle](../../../../sudwest/Lobtau/Strassen_Lobtau/Kesselsdorfer_Strasse/Musenhalle/musenhalle.html) und des Kinos im Dreikaiserhof
+1934 übernahm Willy Schulze, der auch Inhaber der gegenüber liegenden [Musenhalle](../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/musenhalle/) und des Kinos im Dreikaiserhof
 war, den Betrieb. 1945 fiel das Gebäude den Bomben zum Opfer.
 
 ![](../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/l_btaukonsument.jpg)Konsument-Warenhaus (Nr. 22): Das Warenhaus entstand in den Zwanziger Jahren als Verkaufsstelle des Konsumvereins Vorwärts für Dresden und Umgebung. Nachdem
@@ -97,7 +97,7 @@ den Gästen des Hotels gehörten u.a. Johannes Heesters, Lotte Huber und Wolfgan
 Straßenbahnhof Löbtau:
 Der Straßenbahnhof Löbtau wurde im Frühjahr 1883 eröffnet und diente als Depot der zwei Jahre zuvor eröffneten Pferdebahn. Diese verkehrte zunächst nur bis zum Glaswerk an der Freiberger Straße, wurde jedoch
 wenige Monate später, am 8. November 1881, bis zum Neuen Annenfriedhof verlängert. Das Depot wurde nach seiner
-Fertigstellung zur Unterstellung der Pferde und Pferdebahnwagen genutzt und bestand bis zur Elektrifizierung der Strecke 1895. 1912 entstand auf dem Grundstück nach Plänen Hans Erlweins die Wohnanlage an der [Bünaustraße](../../../../sudwest/Lobtau/Strassen_Lobtau/strassen_lobtau.html) für Angestellte der Städtischen Straßenbahn. An die Pferdebahnzeit erinnert heute noch ein Schuppen auf dem Gelände.
+Fertigstellung zur Unterstellung der Pferde und Pferdebahnwagen genutzt und bestand bis zur Elektrifizierung der Strecke 1895. 1912 entstand auf dem Grundstück nach Plänen Hans Erlweins die Wohnanlage an der [Bünaustraße](../../../../sudwest/lobtau/strassen_lobtau/) für Angestellte der Städtischen Straßenbahn. An die Pferdebahnzeit erinnert heute noch ein Schuppen auf dem Gelände.
 
 Kaiser-Wilhelm-Denkmal: Das heute nicht mehr vorhandene Denkmal wurde aus Anlass des 90. Geburtstages Kaiser
 Wilhelm I. am 22. März 1887 am Löbtauer Straßenbahnhof aufgestellt. Das Denkmal bestand aus einer Granitplatte mit
@@ -150,7 +150,7 @@ Gorbitz:
 ![](../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/gorbitzkesselsdstr116.jpg)Während im unteren Teil der Kesselsdorfer Straße ab 1880 zu beiden Seiten mehrgeschossige
 Wohn- und Geschäftshäuser entstanden, blieb die Gorbitzer Flur bis 1980 weitgehend unbebaut. Lediglich am Rande des Dorfkerns Niedergorbitz standen einige Bauerngüter und Mietshäuser.
 Pläne zur Errichtung eines großen Wohnviertels zwischen Löbtau und der heutigen Julius-Vahlteich-Straße scheiterten am Beginn des Ersten Weltkrieges. Auch nach 1945 blieben
-die Flächen des früheren Kammergutes unbebaut und wurden bis in die 1970er Jahre landwirtschaftlich genutzt. Erst der Beschluss zum Aufbau eines großen [Neubaugebietes](../../../../sudwest/Gorbitz/gorbitz.html) am
+die Flächen des früheren Kammergutes unbebaut und wurden bis in die 1970er Jahre landwirtschaftlich genutzt. Erst der Beschluss zum Aufbau eines großen [Neubaugebietes](../../../../sudwest/gorbitz/) am
 Gorbitzer Hang veränderte das Bild. Bis 1990 war das Areal bis zur Stadtgrenze in Gompitz fast komplett mit Wohnblocks bebaut. Moderne Einkaufsmärkte und Gewerbebetriebe folgten in den
 letzten Jahren. Auf der linken Straßenseite sind noch einige historische Bauerngüter von Nieder- und Obergorbitz erhalten, die teilweise saniert wurden. Zu den wenigen Villenbauten an der
 Kesselsdorfer Straße gehört das Haus Nr. 116. Es wurde 1912 für einen Dresdner Fabrikanten errichtet _(Foto)_.
@@ -194,7 +194,7 @@ Auch die benachbarten Grundstücke Nr. 187 und 189 sind frühere Bauernhöfe und
 ![](../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/gorbitzlandeskrone.jpg)Landeskrone:
 Die Gaststätte (Kesselsdorfer Straße 200) entstand Ende des 19. Jahrhunderts an der Ecke zur Hirtenstraße. Auch nach 1945 blieb das Gasthaus in
 Betrieb und schloss erst um 1970 seine Pforten. Das Gebäude wird seitdem gewerblich genutzt und nach 1990 umfassend saniert. Heute befindet sich hier ein Fachgeschäft für
-den Reitsportbedarf. Unweit der Landeskrone gab es mit dem [Reichsschmied](../../../../sudwest/Lobtau/Strassen_Lobtau/Kesselsdorfer_Strasse/Reichsschmied/reichsschmied.html) ein
+den Reitsportbedarf. Unweit der Landeskrone gab es mit dem [Reichsschmied](../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/reichsschmied/) ein
 weiteres bekanntes Gorbitzer Lokal, welches nach 1945 als DEFA-Studio für Trickfilme bekannt wurde.
 
 ![](../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/gorbitzziegelei.jpg)Ziegelei Kunath (Nr. 242):
@@ -212,7 +212,7 @@ der vorhandenen technischen Anlagen, zur Schließung der Ziegelei. Auf dem Areal
 
 Gompitz:
 
-Oberhalb des Gorbitzer Hangs erreicht die Kesselsdorfer Straße die Fluren von Gompitz. Hier befindet sich u.a. der Ende des 19. Jahrhunderts erbaute [Gasthof Gompitz](../../../../sudwest/Gompitz/gompitz.html), welcher heute als Schnitzel-Spezialitätenrestaurant Schnizz dient. Im
+Oberhalb des Gorbitzer Hangs erreicht die Kesselsdorfer Straße die Fluren von Gompitz. Hier befindet sich u.a. der Ende des 19. Jahrhunderts erbaute [Gasthof Gompitz](../../../../sudwest/gompitz/), welcher heute als Schnitzel-Spezialitätenrestaurant Schnizz dient. Im
 Zusammenhang mit dem Ausbau der Straße zum Autobahnzubringer wurden 2007 die Wohnhäuser Kesselsdorfer Straße 306 bis 310 sowie Nr. 271, 275 und 277 abgerissen. Seit dem 29. November 2008 verkehrt parallel zur Straße die
 Straßenbahn bis zur Gleisschleife in Pennrich. Unterhalb der Gleistrasse entstand ein 75 Meter langer Tunnel mit zwei Röhren für den Autoverkehr.
 
@@ -224,4 +224,4 @@ Straßenbahn bis zur Gleisschleife in Pennrich. Unterhalb der Gleistrasse entsta
 
 * * *
 
- \[ [Home](../../../../index.html)\] \[ [Nord](../../../../nord/)\] \[ [Nordwest](../../../../Nordwest/nordwest.html)\] \[ [Neustadt](../../../../neustadt/)\] \[ [Nordost](../../../../nordost/)\] \[ [West](../../../../west/)\] \[ [Zentrum](../../../../zentrum/)\] \[ [Südwest](../../../../sudwest/)\] \[ [Süd](../../../../Sud/sud.html)\] \[ [Südost](../../../../Sudost/sudost.html)\] \[ [Ost](../../../../Ost/ost.html)\] \[ [Register](../../../../Register/register.html)\] \[ [Kontakt](../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../Impressum/impressum.html)\]
+ \[ [Home](../../../../index.html)\] \[ [Nord](../../../../nord/)\] \[ [Nordwest](../../../../nordwest/)\] \[ [Neustadt](../../../../neustadt/)\] \[ [Nordost](../../../../nordost/)\] \[ [West](../../../../west/)\] \[ [Zentrum](../../../../zentrum/)\] \[ [Südwest](../../../../sudwest/)\] \[ [Süd](../../../../sud/)\] \[ [Südost](../../../../sudost/)\] \[ [Ost](../../../../ost/)\] \[ [Register](../../../../Register/register.html)\] \[ [Kontakt](../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../impressum/)\]

@@ -11,7 +11,7 @@ date: 2024-02-17T22:13:43+01:00
 
 
 
-[![](../../../hauptseited_lzschen.jpg)](../../../sudwest/Dolzschen/dolzschen.html)
+[![](../../../hauptseited_lzschen.jpg)](../../../sudwest/dolzschen/)
 
 * * *
 
@@ -34,11 +34,11 @@ schuf der Baumeister Schönberger aus heimischen Syenit. Am 28. Februar 1928 erl
 welche zugleich für kleinere Andachten und musikalische Veranstaltungen genutzt wird _(Foto rechts)_. Die Bauausführung des schlichten Gebäudes, welches auf jegliche religiöse Symbolik verzichtet, übernahm der Coschützer Baumeister Max Seiffert. Ihre Einweihung erfolgte am 9. September 1928. Mit der Eingemeindung des Ortes nach Dresden übernahm die Stadt 1945 auch den örtlichen Friedhof, der mit 0,8 Hektar Grundfläche kleinster kommunaler Friedhof Dresdens ist.
 
 Zu den auf dem Dölzschener Friedhof beerdigten Personen gehört der bekannte jüdische
-Sprach- und Literaturwissenschaftler Victor Klemperer (1881-1960), der bis zu seinem Tod 1960 in Dölzschen lebte. Außerdem fanden die TU-Professoren Karl Trinks (1891-1981) und Wolfgang Lange (1921-1977) sowie der Maler und Grafiker Erich Philipp (+ 1978) hier ihre letzte Ruhestätte. Seit 2000 steht das gesamte Areal unter Denkmalschutz. Im gleichen Jahr begann die Sanierung der Friedhofskapelle, welche 2006 abgeschlossen werden konnte. In diesem Zusammenhang erhielt das Gebäude eine neue Turmhaube sowie eine elektrische Orgel. Seit 2015 läutet im Turm eine neue Glocke, die urspünglich aus der Friedrichstädter [Matthäuskirche](../../../Zentrum/Friedrichstadt/Strassen_Friedrichstadt/Friedrichstrasse/Matthauskirche/matthauskirche.html) stammt. Viele Jahre hing sie dann im Glockenstuhl auf dem [Alten Matthäusfriedhof](../../../Zentrum/Friedrichstadt/Strassen_Friedrichstadt/Friedrichstrasse/Matthauskirche/matthausfriedhof.html).
+Sprach- und Literaturwissenschaftler Victor Klemperer (1881-1960), der bis zu seinem Tod 1960 in Dölzschen lebte. Außerdem fanden die TU-Professoren Karl Trinks (1891-1981) und Wolfgang Lange (1921-1977) sowie der Maler und Grafiker Erich Philipp (+ 1978) hier ihre letzte Ruhestätte. Seit 2000 steht das gesamte Areal unter Denkmalschutz. Im gleichen Jahr begann die Sanierung der Friedhofskapelle, welche 2006 abgeschlossen werden konnte. In diesem Zusammenhang erhielt das Gebäude eine neue Turmhaube sowie eine elektrische Orgel. Seit 2015 läutet im Turm eine neue Glocke, die urspünglich aus der Friedrichstädter [Matthäuskirche](../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/matthauskirche/) stammt. Viele Jahre hing sie dann im Glockenstuhl auf dem [Alten Matthäusfriedhof](../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/matthauskirche/matthausfriedhof/).
 
 
 
 * * *
 
  \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\]
- \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../Sud/sud.html)\] \[ [Südost](../../../Sudost/sudost.html)\] \[ [Ost](../../../Ost/ost.html)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../Impressum/impressum.html)\]
+ \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../sud/)\] \[ [Südost](../../../sudost/)\] \[ [Ost](../../../ost/)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../impressum/)\]

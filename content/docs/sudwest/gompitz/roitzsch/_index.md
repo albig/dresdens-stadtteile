@@ -10,7 +10,7 @@ date: 2024-02-17T22:13:44+01:00
 
 ![](../../../plz_01156.jpg)
 
-[![](../../../nachbarn.jpg)](../../../sudwest/Gompitz/gompitz.html)
+[![](../../../nachbarn.jpg)](../../../sudwest/gompitz/)
 
 * * *
 
@@ -25,7 +25,7 @@ Omsewitz gehörigen Burgstädtel in Verbindung gebracht.
 
 ![](../../../sudwest/gompitz/roitzsch/roitzsch1.jpg)1378 gehörte
 Roitzsch zum Amt Dresden. Am 30. September 1408 vergab der Markgraf zu Meißen den Dresdner Bürgern Vinzensius, Hans Alexius und Jorge Busmann einige Güter und Zinsen in Roitzsch zum Lehen. Später kam das Dorf in
-den Besitz der Familie von Miltitz und unterstand dem Rittergut Scharfenberg. Kirchlich war Roitzsch der [Unkersdorfer Kirche](../../../sudwest/Gompitz/Unkersdorf/Unkersdorfer_Kirche/unkersdorfer_kirche.html) zugeordnet.
+den Besitz der Familie von Miltitz und unterstand dem Rittergut Scharfenberg. Kirchlich war Roitzsch der [Unkersdorfer Kirche](../../../sudwest/gompitz/unkersdorf/unkersdorfer_kirche/) zugeordnet.
 
 
 1745 war die Dorfflur Schauplatz von Gefechten im Zusammenhang mit der Schlacht von Kesselsdorf. Der spätere Sieger der Schlacht, Leopold von Dessau,
@@ -35,6 +35,6 @@ eingemeindet. Gemeinsam mit Gompitz und weiteren Dörfern der Umgebung kam der O
 heute zu den kleinsten Stadtteilen der Landeshauptstadt. Um den Dorfplatz sind noch einige historische Bauerngüter aus
 dem 19. Jahrhundert erhalten geblieben. Interessant ist auch ein in einem Garten aufgestelltes Mühlenmodell, welches von Roitzscher Jugendlichen geschaffen wurde.
 
-[![roitzscher straßen](../../../sudwest/gompitz/roitzsch/a_rectangle_1965.gif)](../../../sudwest/Gompitz/Pennrich/Strassen_Gompitz/strassen_gompitz.html)
+[![roitzscher straßen](../../../sudwest/gompitz/roitzsch/a_rectangle_1965.gif)](../../../sudwest/gompitz/pennrich/strassen_gompitz/)
 
-[_Weiterführende Literatur und Quellen_](../../../Impressum/Quellenverzeichnis/quellenverzeichnis.html)
+[_Weiterführende Literatur und Quellen_](../../../impressum/quellenverzeichnis/)

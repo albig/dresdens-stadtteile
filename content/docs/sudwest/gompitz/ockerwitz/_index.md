@@ -14,7 +14,7 @@ date: 2024-02-17T22:13:44+01:00
 
 ![](../../../plz_01156.jpg)
 
-[![](../../../nachbarn.jpg)](../../../sudwest/Gompitz/gompitz.html)
+[![](../../../nachbarn.jpg)](../../../sudwest/gompitz/)
 
 * * *
 
@@ -38,12 +38,12 @@ den Besitzer des Rittergutes Nöthnitz ab, der die Bauern bei Bedarf auf seinen 
 ![](../../../sudwest/gompitz/ockerwitz/ockerwitz4.jpg)1762 wurde Ockerwitz bei einem Dorfbrand zum Teil zerstört, jedoch schon bald wieder aufgebaut. Neben der Landwirtschaft gewann der Obstbau an Bedeutung, für den die Hänge des [Zschonergrundes](../../../west/kemnitz/zschonergrund/) teilweise gerodet wurden. Diese Nutzung schränkte jedoch die herrschaftliche Jagd ein, weshalb es wiederholt zu
 Beschwerden der Jagdhüter beim Kurfürsten über die Ungehörigkeit der Ockerwitzer Bauern kam. Im 19. Jahrhundert entstanden außerdem einige
 Plänersteinbrüche und Gärtnereien in und um den Ort. Nachdem im Zuge der Landgemeindeordnung bis 1852 auch die letzten Dienst- und Geldleistungen abgelöst worden waren, entwickelte sich Ockerwitz zur Stadtrandgemeinde
-Dresdens. 1876 entstand in [Leutewitz](../../../West/Leutewitz/leutewitz.html) ein gemeinsames Schulhaus für Ockerwitz, Leutewitz und Omsewitz. 1904
+Dresdens. 1876 entstand in [Leutewitz](../../../west/leutewitz/) ein gemeinsames Schulhaus für Ockerwitz, Leutewitz und Omsewitz. 1904
 errichtete die Gemeinde ein Wasserwerk mit Hochbehälter, vor allem um die zahlreichen gärtnerischen Betriebe versorgen zu können. Einige Siedlungshäuser wurden in den Dreißiger Jahren und nach 1945 errichtet.
 
 ![](../../../sudwest/gompitz/ockerwitz/ockerwitz3.jpg)1993 kam Ockerwitz als Ortsteil zu Gompitz und ist seit 1999 Stadtteil
 Dresdens. In den letzten Jahren entstanden weitere Wohnsiedlungen zwischen Dorfkern und Zschonergrund, die Ockerwitz zum beliebten Wohnvorort der Landeshauptstadt machten _(Foto)_
-. Zu den prominenten Einwohnern gehörte der spätere sächsische Staatsminister Arnold Vaatz, der im Wohnhaus Am Zschoner Berg Nr. 1 lebte. Einige historische Bauernhöfe befinden sich an der [Ockerwitzer Dorfstraße.](../../../sudwest/Gompitz/Pennrich/Strassen_Gompitz/strassen_gompitz.html)
+. Zu den prominenten Einwohnern gehörte der spätere sächsische Staatsminister Arnold Vaatz, der im Wohnhaus Am Zschoner Berg Nr. 1 lebte. Einige historische Bauernhöfe befinden sich an der [Ockerwitzer Dorfstraße.](../../../sudwest/gompitz/pennrich/strassen_gompitz/)
 
 Burgwall Ockerwitz:
 
@@ -59,10 +59,10 @@ Schimmrichs Gastwirtschaft:
 
 Der Gasthof des Ortes ging aus dem früheren Reiheschank hervor und entstand im 19. Jahrhundert. Um 1900 wurde er nach seinem Besitzer Schimmrichs Gastwirtschaft genannt. Gastwirt Schimmrich war zugleich Gemeindevorstand des Ortes und Mitglied des Vereins der Gast- und Schankwirte der Dresdner Westvororte. Hochgeachtet verstarb er 1910 und wurde am 31. Juli 1910 auf dem Briesnitzer Friedhof beigesetzt. In den 1920er Jahren hieß die kleine Dorfschänke Wegners Gasthaus.
 
-[![ockerwitzer straßen](../../../sudwest/gompitz/ockerwitz/a_rectangle_1962.gif)](../../../sudwest/Gompitz/Pennrich/Strassen_Gompitz/strassen_gompitz.html)
+[![ockerwitzer straßen](../../../sudwest/gompitz/ockerwitz/a_rectangle_1962.gif)](../../../sudwest/gompitz/pennrich/strassen_gompitz/)
 
-[_Weiterführende Literatur und Quellen_](../../../Impressum/Quellenverzeichnis/quellenverzeichnis.html)
+[_Weiterführende Literatur und Quellen_](../../../impressum/quellenverzeichnis/)
 
 ![](../../../cubesdivider.gif)
 
- \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../Sud/sud.html)\] \[ [Südost](../../../Sudost/sudost.html)\] \[ [Ost](../../../Ost/ost.html)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../Impressum/impressum.html)\]
+ \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../sud/)\] \[ [Südost](../../../sudost/)\] \[ [Ost](../../../ost/)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../impressum/)\]

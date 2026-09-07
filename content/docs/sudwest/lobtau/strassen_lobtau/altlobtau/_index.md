@@ -9,7 +9,7 @@ date: 2024-02-17T22:13:44+01:00
 
 
 
-[![](../../../../hauptseitel_btau.jpg)](../../../../sudwest/Lobtau/lobtau.html)
+[![](../../../../hauptseitel_btau.jpg)](../../../../sudwest/lobtau/)
 
 * * *
 
@@ -18,11 +18,11 @@ date: 2024-02-17T22:13:44+01:00
 
 ![](../../../../sudwest/lobtau/strassen_lobtau/altlobtau/l_btaualt2.jpg)Altlöbtau bildet den Kern des 1068 erstmals erwähnten Dorfes, welches Mitte
 des 15. Jahrhunderts aus zwölf Bauernstellen bestand. Bis 1830 blieb diese Größe des Dorfes fast unverändert bestehen. Als Mittelpunkt des Ortes wurde
-der Dorfplatz von mehreren alten Verbindungswegen durchschnitten, welche später der fortschreitenden Bebauung weichen mussten. So führte eine einst als Dresdner Weg bezeichnete Verbindung von der [Weißeritzbrücke](../../../../sudwest/Lobtau/Strassen_Lobtau/Lobtauer_Brucken/lobtauer_brucken.html) kommend direkt auf den Anger und von dort weiter in Richtung Wölfnitz. Bis zu seiner
+der Dorfplatz von mehreren alten Verbindungswegen durchschnitten, welche später der fortschreitenden Bebauung weichen mussten. So führte eine einst als Dresdner Weg bezeichnete Verbindung von der [Weißeritzbrücke](../../../../sudwest/lobtau/strassen_lobtau/lobtauer_brucken/) kommend direkt auf den Anger und von dort weiter in Richtung Wölfnitz. Bis zu seiner
 Einziehung 1892 trug der Abschnitt zwischen Dorfplatz und der heutigen Löbtauer Straße den Namen Pflaumenallee, der westlich an den Platz anschließende Teil den Namen Feld- bzw. Wiesenweg.
 
 ![](../../../../sudwest/lobtau/strassen_lobtau/altlobtau/l_btaualt3.jpg)Südlich des alten Dorfkerns befand sich im 18. Jahrhundert ein künstlich
-angelegter Teich, welcher als Brühlsches Wasserreservoir der Wasserversorgung des Neptunbrunnens auf dem Areal des [Brühlschen Palais](../../../../Zentrum/Friedrichstadt/Strassen_Friedrichstadt/Friedrichstrasse/Marcolinipalais/marcolinipalais.html) in der Friedrichstadt diente. Für diesen Zweck hatte der sächsische
+angelegter Teich, welcher als Brühlsches Wasserreservoir der Wasserversorgung des Neptunbrunnens auf dem Areal des [Brühlschen Palais](../../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/marcolinipalais/) in der Friedrichstadt diente. Für diesen Zweck hatte der sächsische
 Premierminister Heinrich von Brühl am 25. Juni 1743 mehrere Flurstücke von Löbtauer Bauern erworben und von hier eine Röhrfahrt in die Friedrichstadt
 anlegen lassen. Die Versorgung des Teiches erfolgte von Plauen aus mit Hilfe eines Wasserkunsthauses, welches bei Bedarf über ein Schöpfrad das Wasser der Weißeritz nach Löbtau leitete. Nach Zerstörung der Anlage im
 Siebenjährigen Krieg verlandete der Teich und ist bereits 1782 als gänzlich verfallen erwähnt. Auf dem später als Am Teiche bezeichneten Grundstück entstanden Ende des 19. Jahrhunderts Wohnhäuser.
@@ -52,7 +52,7 @@ Windmühlen:
 Etwas abseits des Dorfkerns am Lerchenberg gab es wahrscheinlich schon im Mittelalter eine Windmühle.
 Eine weitere wurde im 16. Jahrhundert in unmittelbarer Nachbarschaft errichtet. Beide Mühlen gehörten der Familie
 Moses (Moyses), welche zugleich Inhaber eines Mühlenhofes an der Weißeritz war. Mit Erlass des Mahlzwanges zur Plauener Hofmühle durch Kurfürst August 1569 entzog dieser der Familie Moses die Mahlgerechtigkeit, was zur
-Stillegung der Mühlen führte. Auf dem Grundstück des Mühlenhofes entstand später der [Reisewitzsche Garten](../../../../sudwest/Lobtau/Strassen_Lobtau/Tharandter_Strasse/Reisewitz_scher_Garten/reisewitz_scher_garten.html).
+Stillegung der Mühlen führte. Auf dem Grundstück des Mühlenhofes entstand später der [Reisewitzsche Garten](../../../../sudwest/lobtau/strassen_lobtau/tharandter_strasse/reisewitz_scher_garten/).
 
 1626 sind in Löbtau erneut zwei Bockwindmühlen verzeichnet. Beide standen in der Nähe der Weißeritz neben der
 Pulvermühle und wurde 1642 wahrscheinlich bei Kampfhandlungen des Dreißigjährigen Krieges zerstört. 1794 finden sich erneut vier Windmühlen am sogenannten Löbtauer Schlag. Diese wurden noch bis ins 19. Jahrhundert von
@@ -62,4 +62,4 @@ Pächtern betrieben. Erst die Einführung moderner Mühlen führten um 1850 zum 
 
 * * *
 
- \[ [Home](../../../../index.html)\] \[ [Nord](../../../../nord/)\] \[ [Nordwest](../../../../Nordwest/nordwest.html)\] \[ [Neustadt](../../../../neustadt/)\] \[ [Nordost](../../../../nordost/)\] \[ [West](../../../../west/)\] \[ [Zentrum](../../../../zentrum/)\] \[ [Südwest](../../../../sudwest/)\] \[ [Süd](../../../../Sud/sud.html)\] \[ [Südost](../../../../Sudost/sudost.html)\] \[ [Ost](../../../../Ost/ost.html)\] \[ [Register](../../../../Register/register.html)\] \[ [Kontakt](../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../Impressum/impressum.html)\]
+ \[ [Home](../../../../index.html)\] \[ [Nord](../../../../nord/)\] \[ [Nordwest](../../../../nordwest/)\] \[ [Neustadt](../../../../neustadt/)\] \[ [Nordost](../../../../nordost/)\] \[ [West](../../../../west/)\] \[ [Zentrum](../../../../zentrum/)\] \[ [Südwest](../../../../sudwest/)\] \[ [Süd](../../../../sud/)\] \[ [Südost](../../../../sudost/)\] \[ [Ost](../../../../ost/)\] \[ [Register](../../../../Register/register.html)\] \[ [Kontakt](../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../impressum/)\]

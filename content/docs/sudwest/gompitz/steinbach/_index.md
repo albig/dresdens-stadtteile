@@ -14,7 +14,7 @@ date: 2024-02-17T22:13:44+01:00
 
 ![](../../../plz_01156.jpg)
 
-[![](../../../nachbarn.jpg)](../../../sudwest/Gompitz/gompitz.html)
+[![](../../../nachbarn.jpg)](../../../sudwest/gompitz/)
 
 * * *
 
@@ -26,7 +26,7 @@ date: 2024-02-17T22:13:44+01:00
 Zschonerbaches und wurde 1361 erstmals als Steynbach urkundlich erwähnt. 1378 ist das Dorf im Verzeichnis der Orte des Amtes Dresden aufgeführt. Neben diesem Amt, welches die obere Gerichtsbarkeit besaß,
 hatten auch der Meißner Lorenzaltar und das dortige Hospital Zinsrechte im Ort. Um 1590 gehörte Steinbach teilweise zum Rittergut Scharfenberg, teilweise zum Rittergut Rothschönberg. Diese Zweiteilung des Ortes blieb
 bis ins 19. Jahrhundert erhalten. Während der größere Scharfenberger Teil aus einigen großen Bauerngütern bestand, lebten im kleineren Ortsteil
-ausschließlich Häusler, die ihren Lebensunterhalt mit Obst- und Weinbau verdienten. Zur Steinbacher Flur gehört auch die abseits des Ortes gelegene [Schulzenmühle](../../../West/Kemnitz/Zschonergrund/Schulzenmuhle/schulzenmuhle.html), die vermutlich ursprünglich Teil der [Wüstung Zschon](../../../west/kemnitz/zschonergrund/) war.
+ausschließlich Häusler, die ihren Lebensunterhalt mit Obst- und Weinbau verdienten. Zur Steinbacher Flur gehört auch die abseits des Ortes gelegene [Schulzenmühle](../../../west/kemnitz/zschonergrund/schulzenmuhle/), die vermutlich ursprünglich Teil der [Wüstung Zschon](../../../west/kemnitz/zschonergrund/) war.
 
 
 ![](../../../sudwest/gompitz/steinbach/steinbach2.jpg)
@@ -41,6 +41,6 @@ gehörte der Ort zu Gompitz und ist seit dem 1. Januar 1999 Stadtteil von Dresde
 
 ![](../../../sudwest/gompitz/steinbach/siegelsteinb.jpg)
 
-[![steinbacher straßen](../../../a_rectangle_1964.gif)](../../../sudwest/Gompitz/Pennrich/Strassen_Gompitz/strassen_gompitz.html)
+[![steinbacher straßen](../../../a_rectangle_1964.gif)](../../../sudwest/gompitz/pennrich/strassen_gompitz/)
 
-[_Weiterführende Literatur und Quellen_](../../../Impressum/Quellenverzeichnis/quellenverzeichnis.html)
+[_Weiterführende Literatur und Quellen_](../../../impressum/quellenverzeichnis/)
