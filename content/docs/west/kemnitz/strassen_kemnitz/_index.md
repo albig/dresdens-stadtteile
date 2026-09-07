@@ -10,7 +10,7 @@ Da sich hier zahlreiche Gärtnereien angesiedelt hatten, trug sie zunächst den 
 mit der Briesnitzer Kirchstraße vereinigt und am 19. Februar 1926 in Am Kirchberg umbenannt.
 
 Nr. 23:
-Das sogenannte Bramschgut gehört zu den letzten verbliebenen Bauerngehöften von Kemnitz. Seinen Namen verdankt es dem Unternehmer Johann Ludwig Bramsch, der einst hier wohnte und 1837 die [Spirituosenfabrik Bramsch](../../../Zentrum/Friedrichstadt/Strassen_Friedrichstadt/Friedrichstrasse/Bramsch-Spirituosenfabrik/bramsch-spirituosenfabrik.html) in
+Das sogenannte Bramschgut gehört zu den letzten verbliebenen Bauerngehöften von Kemnitz. Seinen Namen verdankt es dem Unternehmer Johann Ludwig Bramsch, der einst hier wohnte und 1837 die [Spirituosenfabrik Bramsch](../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/bramsch-spirituosenfabrik/) in
 der Friedrichstadt gründete. Die heute erhaltenen Gebäude stammen aus der Zeit um 1880 und wurden 2011/12 zu einer Wohnanlage ausgebaut.
 
 ## Brückenstraße
