@@ -19,7 +19,7 @@ date: 2024-02-17T22:13:44+01:00
 * * *
 
 
-[![](../../../werbungklein.jpg)](../../../Impressum/Werbung/werbung.html)
+
 
 
 ![](../../../sudwest/gompitz/steinbach/steinbach1.jpg)Steinbach entstand als Waldhufendorf deutscher Siedler im Quellgebiet des

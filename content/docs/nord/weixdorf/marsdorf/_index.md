@@ -14,7 +14,7 @@ date: 2024-02-17T22:13:35+01:00
 * * *
 
 
-[![](../../../werbungklein.jpg)](../../../Impressum/Werbung/werbung.html)
+
 
 
 Marsdorf wurde im Jahr 1350 erstmals als Maroldisdorf im Lehnsbuch Friedrich des Strengen erwähnt. Der Name ist höchstwahrscheinlich vom Lokator (Ortsgründer) des Straßenangerdorfes abgeleitet. Der Ort war

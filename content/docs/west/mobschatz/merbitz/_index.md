@@ -21,7 +21,7 @@ date: 2024-02-17T22:13:46+01:00
 
 ![](http://ad.zanox.com/ppv/?19003280C34986470)
 
-[![](../../../werbungklein.jpg)](../../../Impressum/Werbung/werbung.html)
+
 
 
 ![](../../../west/mobschatz/merbitz/merbitz1.jpg)Merbitz entstand im 10. Jahrhundert als slawischer Rundling und bestand

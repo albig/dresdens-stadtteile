@@ -23,7 +23,7 @@ date: 2024-02-17T22:13:46+01:00
 
 [![](../../../../west/omsewitz/strassen_omsewitz/kummelschanke/omse-ev.jpg)](http://www.omse-ev.de)
 
-[![](../../../../werbungklein.jpg)](../../../../Impressum/Werbung/werbung.html)
+
 
 
 ![](../../../../west/omsewitz/strassen_omsewitz/kummelschanke/omsewk_mmel.jpg)Die Geschichte der Kümmelschänke reicht bis ins 18. Jahrhundert zurück. Das heutige

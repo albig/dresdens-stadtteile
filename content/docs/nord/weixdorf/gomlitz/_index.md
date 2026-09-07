@@ -14,7 +14,7 @@ date: 2024-02-17T22:13:35+01:00
 * * *
 
 
-[![](../../../werbungklein.jpg)](../../../Impressum/Werbung/werbung.html)
+
 
 
 ![](../../../gomlitz2.jpg)Gomlitz wurde 1378 erstmals als Komenicz urkundlich erwähnt. Der aus dem

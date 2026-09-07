@@ -13,7 +13,7 @@ date: 2024-02-17T22:13:47+01:00
 
 * * *
 
-[![](../../../../werbungklein.jpg)](../../../../Impressum/Werbung/werbung.html)
+
 
 
 ![](../../../../zentrum/johannstadt/strassen_johannstadt/pfotenhauerstrasse/johannstpfotenhauerstr.jpg)Die Pfotenhauerstraße wurde 1876 angelegt und bis 1895 durch die

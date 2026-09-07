@@ -15,7 +15,7 @@ date: 2024-02-17T22:13:44+01:00
 * * *
 
 
-[![](../../../werbungklein.jpg)](../../../Impressum/Werbung/werbung.html)
+
 
 
 ![](../../../sudwest/gompitz/unkersdorf/unkersdorf1.jpg)Obwohl der Ortsname (Dorf des Unco) auf einen deutschen Lokator hinweist,

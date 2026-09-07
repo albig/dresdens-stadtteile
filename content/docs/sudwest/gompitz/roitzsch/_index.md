@@ -15,7 +15,7 @@ date: 2024-02-17T22:13:44+01:00
 * * *
 
 
-[![](../../../werbungklein.jpg)](../../../Impressum/Werbung/werbung.html)
+
 
 
 Älteste Besiedlungsspuren auf Roitzscher Flur stammen von 5.000 v. Chr. und werden der Kultur der Bandkeramiker zugeordnet. 1922 wurde an der Ortsgrenze zu Unkersdorf ein Beil gefunden, welches sich heute

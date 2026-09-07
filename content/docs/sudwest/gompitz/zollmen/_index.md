@@ -19,7 +19,7 @@ date: 2024-02-17T22:13:44+01:00
 * * *
 
 
-[![](../../../werbungklein.jpg)](../../../Impressum/Werbung/werbung.html)
+
 
 
 ![](../../../sudwest/gompitz/zollmen/z_llmenerlengrund6.jpg)Das Gebiet um Zöllmen war bereits in der Bronzezeit besiedelt, wie archäologische

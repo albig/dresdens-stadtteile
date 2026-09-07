@@ -14,7 +14,7 @@ date: 2024-02-17T22:13:48+01:00
 * * *
 
 
-[![](../../../../werbungklein.jpg)](../../../../Impressum/Werbung/werbung.html)
+
 
 
 ![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/altenzeller_strasse/s_dvaltenzellerstr37.jpg)Der Name Altenzeller Straße erinnert an einen bereits im Mittelalter vorhandenen

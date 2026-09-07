@@ -23,7 +23,7 @@ date: 2024-02-17T22:13:47+01:00
 
 * * *
 
-[![](../../../werbungklein.jpg)](../../../Impressum/Werbung/werbung.html)
+
 
 
 Die Andreaskirche entstand 1901/02 am Stephanienplatz, nachdem der Vorstand der Trinitatiskirchgemeinde 1898 die Abspaltung des Südteils der Johannstadt und die Bildung einer eigenständigen Gemeinde

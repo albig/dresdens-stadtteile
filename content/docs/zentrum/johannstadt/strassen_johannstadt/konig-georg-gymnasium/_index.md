@@ -23,7 +23,7 @@ date: 2024-02-17T22:13:47+01:00
 
 * * *
 
-[![](../../../../werbungklein.jpg)](../../../../Impressum/Werbung/werbung.html)
+
 
 
 Das König-Georg-Gymnasium entstand als erste humanistische Reformschule Sachsens und wurde am 21. April 1903 eröffnet. Die nach dem damals regierenden König Georg benannte Bildungseinrichtung bezog zunächst

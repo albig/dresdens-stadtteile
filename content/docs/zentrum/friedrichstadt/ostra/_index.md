@@ -13,7 +13,7 @@ date: 2024-02-17T22:13:47+01:00
 * * *
 
 
-[![](../../../werbungklein.jpg)](../../../Impressum/Werbung/werbung.html)
+
 
 
 Die Geschichte des Dorfes Ostra begann im 11. Jahrhundert, als sich sorbische Bauern auf einer hochwasserfreien Erhebung westlich der damaligen Weißeritzmündung ansiedelten. Der Kern dieses Ortes, welcher

@@ -19,7 +19,7 @@ date: 2024-02-17T22:13:46+01:00
 * * *
 
 
-[![](../../../werbungklein.jpg)](../../../Impressum/Werbung/werbung.html)
+
 
 
 ![](../../../west/mobschatz/brabschutz/brabsch1.jpg)Brabschütz entstand im 11./12. Jahrhundert als slawischer Rundling und wurde

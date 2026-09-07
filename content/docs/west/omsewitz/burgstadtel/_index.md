@@ -13,7 +13,7 @@ date: 2024-02-17T22:13:46+01:00
 * * *
 
 
-[![](../../../werbungklein.jpg)](../../../Impressum/Werbung/werbung.html)
+
 
 
 ![](../../../west/omsewitz/burgstadtel/burgst_dtel.jpg)Burgstädtel entstand im Mittelalter als Vorwerk über dem Omsewitzer Grund
