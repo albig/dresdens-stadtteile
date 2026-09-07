@@ -56,7 +56,7 @@ Zu den häufigen Besuchern gehörte der Maler Otto Altenkirch, der viele Darstel
 1956 wurde das Gasthaus wegen Baufälligkeit geschlossen und 1969 abgerissen. Zuletzt nutzte die Hellerauer LPG Kurt Schlosser noch einige der Nebengebäude als Lagerraum. Erhalten blieb das vermutlich aus der Permoser-
 Werkstatt stammende, farblich gestaltete Eingangsportal, welches sich seit 1973  an der Rückseite der Sekundogenitur befindet.
 
-![](../../../cubesdivider.gif)
+
 
 
 

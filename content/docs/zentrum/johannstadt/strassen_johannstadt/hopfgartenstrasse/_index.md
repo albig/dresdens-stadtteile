@@ -32,7 +32,7 @@ Schokoladenfabrik Clauß:
 
 ![](../../../../zentrum/johannstadt/strassen_johannstadt/hopfgartenstrasse/schokoclau_.jpg)Das 1903 gegründete Unternehmen des Schokoladenfabrikanten Bruno Clauß (1872-1930) befand sich an der Einmündung der Hopfgartenstraße in die Stephanienstraße und stellte neben Schokolade und Marzipan auch andere Süßwaren her. Außerdem gehörte eine Kaffeerösterei zum Betrieb. 1921 verlegte Clauß seinen Betrieb zur Stephanienstraße 49. Hier und auf der benachbarten Hopfgartenstraße 28 wurde bis zum Kriegsende produziert. 1923 soll von der Firma die Blockschokolade erfunden worden sein. Auch nach 1945 konnte die Produktion in den nur leicht beschädigten Fabrikgebäuden fortgesetzt werden. Im März 1953 wurde der Firmeninhaber Walter Clauß enteignet. Damit kam der Betrieb zum VEB Dresdner Süßwarenfabriken, der noch funktionstüchtige Maschinen übernahm und die Produktion in der Johannstadt wenig später einstellte. Die Gebäude gehörten dann bis 1991 zum Betonplattenwerk Gerokstraße. Teile des Areals übernahm nach 1990 der Kinderschutzbund, die meisten Bauten stehen jedoch in ruinösem Zustand leer.
 
-![](../../../../cubesdivider.gif)
+
 
 
 

@@ -177,7 +177,7 @@ Nr. 60: Hier haben sich noch einige wenige Reste des früheren [Ostravorwerks](.
 
 ![](../../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/friedrichsthegereiter.jpg)Nr. 64 (Hegereiterhaus): Der schlichte Fachwerkbau am Ende der Friedrichstraße entstand als Wohn- und Dienstsitz des für das Ostragehege zuständigen Revierförsters, des sogenannten Hegereiters. Schon 1696 hatte August der Starke Teile der Fluren einzäunen und in ein Wildgehege umwandeln lassen. Das Gebäude dient heute als Wohnhaus und wurde vor einigen Jahren denkmalgerecht saniert. Bereits vor dem Zweiten Weltkrieg befand sich hier eine Bildhauerwerkstatt.
 
-![](../../../../cubesdivider.gif)
+
 
 
 

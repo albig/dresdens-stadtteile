@@ -34,7 +34,7 @@ Dresden als Schöpfer der Kunstakademie auf der Brühlschen Terrasse bekannt ist
 
 Während die umliegenden Gebäude 1945 völlig zerstört wurden, überstand die Lipsiussäule den Luftangriff schwer beschädigt. Aus Sicherheitsgründen wurde die Figur um 1950 entfernt und ist seitdem verschollen. 2005 erfolgte eine Wiederherstellung und Restaurierung des Denkmals nach historischem Vorbild.
 
-![](../../../../cubesdivider.gif)
+
 
 
 

@@ -3,7 +3,7 @@ title: "Landgericht"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![landgericht münchner platz](../../../../../landgericht_nlafleurbannerh.gif)
+![landgericht münchner platz](../../../../../landgericht_nlafleurbannerh.gif)
 
 * * *
 
@@ -13,11 +13,11 @@ date: 2024-02-17T22:13:48+01:00
 
 * * *
 
-![](../../../../../clearpixel.gif)
+
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
+
 
 [![](../../../../../hauptseites_dvorstadt.jpg)](../../../../../zentrum/sudvorstadt/)
 
@@ -29,7 +29,7 @@ date: 2024-02-17T22:13:48+01:00
 
 * * *
 
-[![](../../../../../werbunggro_2.jpg)](../../../../../Impressum/Werbung/werbung.html)
+
 
 
 ![](../../../../../s_dvlandgericht1.jpg)Das burgartige Gebäude wurde zwischen 1902 und 1907 als Sitz des Königlichen Landgerichts
@@ -75,10 +75,10 @@ beherbergen eine 2012 neu gestaltete Ausstellung zur Geschichte des Justizkomple
 NS-Zeit und nach 1945. Seit 1995 erinnert eine von Wieland Förster geschaffene Plastik Namenlos - Ohne Gesicht an
 die nach 1945 zu Unrecht Verfolgten. Für dieses Werk wurde ihm 1996 der Kunstpreis der Stadt Dresden verliehen.
 
-![](../../../../../clearpixel.gif)
+
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif) \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
+ \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
  \[ [Nordost](../../../../../nordost/)\] \[ [West](../../../../../west/)\] \[ [Zentrum](../../../../../zentrum/)\] \[ [Südwest](../../../../../sudwest/)\]
  \[ [Süd](../../../../../sud/)\] \[ [Südost](../../../../../sudost/)\] \[ [Ost](../../../../../ost/)\] \[ [Register](../../../../../Register/register.html)\] \[ [Kontakt](../../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../../impressum/)\]

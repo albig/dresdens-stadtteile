@@ -87,7 +87,7 @@ Jeschke von Dohna hatte seinen treuen Kriegsknecht zuvor damit beauftragt, seine
 Adelsfamilie nach Königsbrück zu bringen. Am Pillnitz-Moritzburger Weg lauerten ihm jedoch feindliche Reiter auf, denen
 er sich entgegenstellte und dabei ums Leben kam. Den Kindern gelang gemeinsam mit einem Begleiter die Flucht. In Erinnerung an diese Begebenheit wurde bereits kurze Zeit später ein steinernes Kreuz mit der Inschrift _Fin(is) Milit(is) Jhonas Dan(iel)_  (Hier starb der Krieger Jonas Daniel) aufgestellt. 1560 wurde das Gedenkkreuz erstmals erwähnt. Im Jahr 2002 wurde neben dem Kreuz eine erläuternde Gedenktafel angebracht.
 
-![](../cubesdivider.gif)
+
 
 ![](../dresden-quiz.jpg)**Wer kennt Dresden? - Das Stadtquiz**
 
@@ -101,4 +101,4 @@ er sich entgegenstellte und dabei ums Leben kam. Den Kindern gelang gemeinsam mi
 
 * * *
 
-[![](../builtbynof.gif)](http://www.netobjects.com) \[ [Nord](../nord/)\] \[ [Nordwest](../nordwest/)\] \[ [Neustadt](../neustadt/)\] \[ [Nordost](../nordost/)\] \[ [West](../west/)\] \[ [Zentrum](../zentrum/)\] \[ [Südwest](../sudwest/)\] \[ [Süd](../sud/)\] \[ [Südost](../sudost/)\] \[ [Ost](../ost/)\] \[ [Register](../register/)\] \[ [Kontakt](../kontakt/)\] \[ [Impressum](../impressum/)\]
+ \[ [Nord](../nord/)\] \[ [Nordwest](../nordwest/)\] \[ [Neustadt](../neustadt/)\] \[ [Nordost](../nordost/)\] \[ [West](../west/)\] \[ [Zentrum](../zentrum/)\] \[ [Südwest](../sudwest/)\] \[ [Süd](../sud/)\] \[ [Südost](../sudost/)\] \[ [Ost](../ost/)\] \[ [Register](../register/)\] \[ [Kontakt](../kontakt/)\] \[ [Impressum](../impressum/)\]

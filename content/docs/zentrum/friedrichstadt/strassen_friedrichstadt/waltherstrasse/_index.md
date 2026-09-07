@@ -46,7 +46,7 @@ Brücke ein moderner Neubau. Die Stahlbetonbrücke verfügt über vier Fahrspure
 **_Foto:_** _Luftaufnahme des Straßenbahnhofes Waltherstraße und der angrenzenden Straßenzüge, unten rechts der_
 _Komplex des ehemaligen Schullehrer-Seminars (1926 - Archiv Dresdner Verkehrsbetriebe AG)_
 
-![](../../../../cubesdivider.gif)
+
 
 [![airline-direct 728x90 e](http://ad.zanox.com/ppv/?10219618C220738136)](http://ad.zanox.com/ppc/?10219618C220738136T)
 

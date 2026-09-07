@@ -3,11 +3,11 @@ title: "Bramsch-Spirituosenfabrik"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![Bramsch-Spirituosenfabrik](../../../../../Bramsch-Spirituosenfabrik_NIndBanner.GIF)
+![Bramsch-Spirituosenfabrik](../../../../../Bramsch-Spirituosenfabrik_NIndBanner.GIF)
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
+
 
 [![](../../../../../hauptseitefriedrichstadt.jpg)](../../../../../zentrum/friedrichstadt/)
 
@@ -15,7 +15,7 @@ date: 2024-02-17T22:13:47+01:00
 
 ![](../../../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/bramsch-spirituosenfabrik/friedrichstbramschwerbung.jpg)
 
-[![](../../../../../werbungklein2.jpg)](../../../../../Impressum/Werbung/werbung.html)
+
 
 
 ![](../../../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/bramsch-spirituosenfabrik/bramschaktie.jpg)Die Geschichte des Unternehmens begann im Jahr 1820, als der
@@ -50,6 +50,6 @@ _Etiketten des VEB Bramsch Dresden aus den 1980er Jahren_
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif) \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
+ \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
  \[ [Nordost](../../../../../nordost/)\] \[ [West](../../../../../west/)\] \[ [Zentrum](../../../../../zentrum/)\] \[ [Südwest](../../../../../sudwest/)\]
  \[ [Süd](../../../../../sud/)\] \[ [Südost](../../../../../sudost/)\] \[ [Ost](../../../../../ost/)\] \[ [Register](../../../../../Register/register.html)\] \[ [Kontakt](../../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../../impressum/)\]

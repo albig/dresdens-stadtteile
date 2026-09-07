@@ -171,7 +171,7 @@ Die Schweinemastanlage Dölzschen entstand in den 1960er Jahren außerhalb des O
 Nebengebäude. 1990 wurde der Zuchtbetrieb geschlossen. Teile der Anlage dienten danach noch gewerblichen Zwecken.
 Später war hier ein Freizeitpark mit Sommerrodelbahn und Wildgehege geplant. Die stark verfallenen Gebäude wurden 2013 abgerissen und die Fläche anschließend renaturiert.
 
-![](../../../cubesdivider.gif)
+
 
 [![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
 

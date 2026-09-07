@@ -3,22 +3,22 @@ title: "Tiefer Elbstollen"
 date: 2024-02-17T22:13:45+01:00
 ---
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![tiefer elbstollen](../../../../../tiefer_elbstollen_nindbanner.gif)![](../../../../../clearpixel.gif)
+![tiefer elbstollen](../../../../../tiefer_elbstollen_nindbanner.gif)
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
+
 
 [![](../../../../../west/cotta/hauptseitecotta.jpg)](../../../../../west/cotta/)
 
 * * *
 
-[![](../../../../../werbungklein2.jpg)](../../../../../impressum/werbung/)
+
 
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
+
 
 ![](../../../../../west/cotta/strassen_cotta/meissner_landstrasse/tiefer_elbstollen/cotta_elbstollen.jpg)Der Tiefe Elbstollen wurde zur Ableitung der Grubenwässer aus dem Zauckeroder
 Steinkohlenrevier geplant und sollte zugleich dem unterirdischen Kohletransport per Lastkahn dienen. Dabei war vorgesehen, die Kohle auf drei Ellen lange und zwei Ellen

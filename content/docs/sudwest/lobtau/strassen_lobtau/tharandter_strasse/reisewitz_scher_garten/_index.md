@@ -3,13 +3,13 @@ title: "Reisewitz Scher Garten"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![reisewitz´scher garten](../../../../../reisewitz_scher_garten_nurbanlegendbannerh.gif)
+![reisewitz´scher garten](../../../../../reisewitz_scher_garten_nurbanlegendbannerh.gif)
 
 * * *
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
+
 
 [![](../../../../../hauptseitel_btau.jpg)](../../../../../sudwest/lobtau/)
 
@@ -44,6 +44,6 @@ Während die Gartenanlagen zum Großteil der Bevölkerung offen standen, bewohnt
 
 * * *
 
-![](../../../../../clearpixel.gif)[![](../../../../../builtbynof.gif)](http://www.netobjects.com)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif) \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\] \[ [Nordost](../../../../../nordost/)\] \[ [West](../../../../../west/)\] \[ [Zentrum](../../../../../zentrum/)\] \[ [Südwest](../../../../../sudwest/)\]
+ \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\] \[ [Nordost](../../../../../nordost/)\] \[ [West](../../../../../west/)\] \[ [Zentrum](../../../../../zentrum/)\] \[ [Südwest](../../../../../sudwest/)\]
  \[ [Süd](../../../../../sud/)\] \[ [Südost](../../../../../sudost/)\] \[ [Ost](../../../../../ost/)\] \[ [Register](../../../../../Register/register.html)\]
  \[ [Kontakt](../../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../../impressum/)\]

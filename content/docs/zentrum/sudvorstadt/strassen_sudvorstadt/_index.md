@@ -691,7 +691,7 @@ Vermögensfragen mit dem Freistaat Sachsen. Er erarbeitete dabei den 1924 unterz
 
 [![zwickauer straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1695.gif)](../../../zentrum/sudvorstadt/strassen_sudvorstadt/zwickauer_strasse/)
 
-![](../../../cubesdivider.gif)
+
 
 [![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
 

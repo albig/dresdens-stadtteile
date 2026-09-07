@@ -13,7 +13,7 @@ date: 2024-02-17T22:13:48+01:00
 
 * * *
 
-[![](../../../../werbungklein2.jpg)](../../../../Impressum/Werbung/werbung.html)
+
 
 
 ![](../../../../zentrum/wilsdruffer_vorstadt/freiberger_strasse/glaswerk_lobtau/l_btauglaswerk2.jpg)Das Löbtauer Glaswerk wurde Mitte des 19. Jahrhunderts als Tafelglashütte an der [Löbtauer Straße](../../../../sudwest/lobtau/strassen_lobtau/lobtauer_strasse/) gegründet. Zuvor hatte es bereits im 18. Jahrhundert eine Glashütte in der Wilsdruffer Vorstadt gegeben, die jedoch im Siebenjährigen Krieg einging. Maßgeblich beeinflusst wurde die Glasherstellung durch August den Starken, der

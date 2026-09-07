@@ -101,7 +101,7 @@ Bis 1945 lebte zudem der Bildhauer Paul Berger (1889-1949) in diesem Haus. Nach 
 
 Schräg gegenüber lag das Etablissement zur Weinperle von Otto Major, der die Weinstube in Verbindung mit einer Weingrosshandlung und einem kleinen Hotel garni betrieb (Nr. 50). In der Nr. 51 existierte die Schankwirtschaft "Zum Jäger".
 
-![](../../../../cubesdivider.gif)
+
 
 
 

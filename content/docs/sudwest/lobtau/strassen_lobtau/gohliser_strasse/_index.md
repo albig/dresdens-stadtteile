@@ -13,7 +13,7 @@ date: 2024-02-17T22:13:44+01:00
 
 * * *
 
-![](../../../../werbungklein3.jpg)
+
 
 
 Die über Löbtauer und Cottaer Flur verlaufende Gohliser Straße entstand im Zuge des 1875 erarbeiteten Bebauungsplanes Emil Ueberalls und wurde zunächst als Planstraße P bezeichnet. Da sich an ihrem Löbtauer Ende des bekannte Café Frieden befand, nannte man sie im Volksmund zunächst Friedensstraße. Am 14. Dezember 1892 erhielt sie offiziell den Namen Ahlwardtstraße. Namensgeber war der Reichstagsabgeordnete Hermann

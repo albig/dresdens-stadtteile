@@ -102,7 +102,7 @@ Tierschutzvereins finanzierte Heim bietet herrenlosen Hunden, Katzen und Kleinti
 
 ![städtisches tierheim dresden, zum tierheim 10, 01157 dresden, tel. 0351/4 52 03 52](../../../west/stetzsch/strassen_stetzsch/a_rectangle_1272.gif)
 
-![](../../../cubesdivider.gif)
+
 
 [![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
 

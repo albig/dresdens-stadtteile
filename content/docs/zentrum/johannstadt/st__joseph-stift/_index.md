@@ -47,7 +47,7 @@ der neue Nordflügel. Abgeschlossen wurden die Arbeiten im Herbst 2005 mit der �
 
 Für die medizinische Betreuung gibt es im St. Joseph-Stift derzeit fünf Abteilungen: Innere Medizin, Chirurgie, Gynäkologie und Geburtshilfe, Anästhesie und Intensivmedizin sowie Orthopädie. 2009 wurde ein weiterer Ergänzungsbau an der Ecke Wintergarten-/Dinglingerstraße errichtet, 2012 erfolgte die Eröffnung einer Station für Akutgeriatrie.
 
-![](../../../cubesdivider.gif)
+
 
 
 

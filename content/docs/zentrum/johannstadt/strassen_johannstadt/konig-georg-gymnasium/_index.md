@@ -54,7 +54,7 @@ blieb jedoch in seinen Grundzügen erhalten. Lediglich die Turnhalle war komplet
 provisorisch genutzt werden. 1946 wurde die zuletzt König-Georg-Schule genannte Einrichtung mit der Schillerschule in Blasewitz zusammengelegt und dort als [Oberschule\
 Dresden-Ost](../../../../ost/blasewitz/) weitergeführt. Das frühere Schulhaus diente nach seiner Wiederherstellung ab 1946 die Poliklinik der Medizinischen Akademie. Heute ist hier die Zahnklinik des [Universitätsklinikums](../../../../zentrum/johannstadt/universitatsklinikum/) untergebracht.
 
-![](../../../../cubesdivider.gif)
+
 
 
 

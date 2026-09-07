@@ -242,7 +242,7 @@ Der Wilsdruffer Ring wurde 1983 angelegt und so wie weitere Straßen im Neubauge
 benannt. Die Kleinstadt Wilsdruff liegt zwischen Dresden und Meißen und ist Verwaltungszentrum für mehrere Dörfer der
 Umgebung. Im Zuge der Stadterneuerung wurden am Wilsdruffer Ring bis 2006 zahlreiche Plattenbauten abgerissen. An ihrer Stelle entstand der Stadtblickpark mit Grün- und Spielflächen sowie Sportgelegenheiten.
 
-![](../../../cubesdivider.gif)
+
 
 [![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
 

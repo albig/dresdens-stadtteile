@@ -93,7 +93,7 @@ Nachdem der Alte Friedhof wegen stark gewachsener Bevölkerungszahl an seine Kap
 
 Auf dem Neuen Friedhof befindet sich u. a. das Grab der viele Jahre in Klotzsche lebenden Kinderbuchillustratorin Gertrud Caspari (1873-1948). 1959 entstand die beeindruckende Gemeinschaftsgrabanlage für die vier beim Testflug der in Klotzsche entwickelten 152 ums Leben gekommenen Piloten der Flugzeugwerft.
 
-![](../../../cubesdivider.gif)
+
 
 * * *
 

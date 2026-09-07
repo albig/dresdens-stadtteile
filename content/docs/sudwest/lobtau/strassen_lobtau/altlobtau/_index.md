@@ -13,7 +13,7 @@ date: 2024-02-17T22:13:44+01:00
 
 * * *
 
-![](../../../../werbungklein3.jpg)
+
 
 
 ![](../../../../sudwest/lobtau/strassen_lobtau/altlobtau/l_btaualt2.jpg)Altlöbtau bildet den Kern des 1068 erstmals erwähnten Dorfes, welches Mitte

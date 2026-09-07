@@ -144,7 +144,7 @@ Die Straße erhielt 1883 den Namen Siemensstraße, der an den Techniker und Unte
 unmittelbarer Nähe. Außerdem machte Siemens durch zahlreiche Erfindungen und technische Neuerungen auf sich aufmerksam. 1953 wurde die Siemensstraße nach dem kleinen Ort Hirschfeld im Erzgebirge in Hirschfelder Straße
 umbenannt.
 
-![](../../../../cubesdivider.gif)
+
 
 [![](../../../../werbunglang2.jpg)](../../../../Impressum/Werbung/werbung.html)
 

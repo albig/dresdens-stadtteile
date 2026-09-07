@@ -188,7 +188,7 @@ Das Klotzscher Gaswerk entstand 1904 aufBeschluss des Gemeinderates am Ortsausga
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 
-![](../../cubesdivider.gif)
+
 
 * * *
 

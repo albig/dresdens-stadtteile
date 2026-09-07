@@ -3,11 +3,11 @@ title: "O-Bus"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![o-bus](../../../../../o-bus_nestimatebanner.gif)![](../../../../../clearpixel.gif)
+![o-bus](../../../../../o-bus_nestimatebanner.gif)
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
+
 
 [![willi-ermer-platz](../../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/o-bus/a_rectangle_1468.gif)](../../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/)
 
@@ -35,7 +35,7 @@ date: 2024-02-17T22:13:44+01:00
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
+
 
 Dresdens erste O-Bus-Linie wurde 1903 unter dem Namen [Dresdner Haidebahn](../../../../../nord/klotzsche/haidebahn/) eingeweiht und verband die Endstelle der Straßenbahn am Arsenal (heute Olbrichtplatz) mit dem Villenvorort Klotzsche-Königswald. Die Fahrzeuge stammten aus der Werkstatt der Dresdner Unternehmers Carl Stoll, der die Strecke als Privatunternehmen betrieb. Zum Einsatz kamen sechs Wagen, die mit Elektromotoren und Stromabnehmer ausgestattet waren. Wegen häufiger Ausfälle und der Lärm- und Staubbelastung durch die Motorwagen geriet das Unternehmen jedoch schon bald in wirtschaftliche Schwierigkeiten und musste bereits im Juli 1904 den Betrieb wieder einstellen. Als wichtigstes Nahverkehrsmittel setzte sich stattdessen die Straßenbahn durch.
 
@@ -58,10 +58,10 @@ wenigen Busse führten nach 1970 zur schrittweisen Einstellung des Betriebes. Na
 nach Weißig (4. September 1971) und von Löbtau nach Gruna (15. August 1974) rückte am 28. November 1975 der letzte Dresdner O-Bus ins Depot ein. Die noch betriebsbereiten Fahrzeuge wurden daraufhin an andere DDR-
 Verkehrsunternehmen verkauft. Heute existiert noch ein kompletter Wagenzug als Museumsfahrzeug in Berlin.
 
-![](../../../../../clearpixel.gif)
+
 
 * * *
 
-![](../../../../../clearpixel.gif)[![](../../../../../builtbynof.gif)](http://www.netobjects.com)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif) \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\] \[ [Nordost](../../../../../nordost/)\] \[ [West](../../../../../west/)\] \[ [Zentrum](../../../../../zentrum/)\] \[ [Südwest](../../../../../sudwest/)\]
+ \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\] \[ [Nordost](../../../../../nordost/)\] \[ [West](../../../../../west/)\] \[ [Zentrum](../../../../../zentrum/)\] \[ [Südwest](../../../../../sudwest/)\]
  \[ [Süd](../../../../../sud/)\] \[ [Südost](../../../../../sudost/)\] \[ [Ost](../../../../../ost/)\] \[ [Register](../../../../../Register/register.html)\]
  \[ [Kontakt](../../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../../impressum/)\]

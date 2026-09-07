@@ -3,7 +3,7 @@ title: "Freibad Cotta"
 date: 2024-02-17T22:13:45+01:00
 ---
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![freibad cotta](../../../../../freibad_cotta_nlafleurbannerh.gif)
+![freibad cotta](../../../../../freibad_cotta_nlafleurbannerh.gif)
 
 * * *
 
@@ -13,11 +13,11 @@ date: 2024-02-17T22:13:45+01:00
 
 * * *
 
-![](../../../../../clearpixel.gif)
+
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
+
 
 [![](../../../../../west/cotta/hauptseitecotta.jpg)](../../../../../west/cotta/)
 
@@ -45,6 +45,6 @@ mit drei 25-Meter-Bahnen und einem Sprungturm erhielt. Außerdem entstanden ein 
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif) \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
+ \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
  \[ [Nordost](../../../../../nordost/)\] \[ [West](../../../../../west/)\] \[ [Zentrum](../../../../../zentrum/)\] \[ [Südwest](../../../../../sudwest/)\]
  \[ [Süd](../../../../../sud/)\] \[ [Südost](../../../../../sudost/)\] \[ [Ost](../../../../../ost/)\] \[ [Register](../../../../../Register/register.html)\] \[ [Kontakt](../../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../../impressum/)\]

@@ -51,7 +51,7 @@ Dürerschule zwangsweise aufgelöst und die jüngeren Schüler auf andere Dresdn
 Schüler der Oberprima verließen die zuletzt als Deutsche Oberschule bezeichnete Einrichtung 1936, womit die
 Geschichte der Dürerschule als eines der bedeutendsten reformpädagogischen Experimente der Weimarer Republik ihr endgültiges Ende fand. Das Schulgebäude wurde 1945 zerstört.
 
-![](../../../../cubesdivider.gif)
+
 
 * * *
 

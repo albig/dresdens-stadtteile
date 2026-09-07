@@ -134,7 +134,7 @@ Durch den Autobahnbau unterbrochen, wurde für den westlichen Abschnitt 1939 die
 
 Die kurze Meridianstraße entstand Anfang des 20. Jahrhunderts zur Erschließung eines neuen Wohnviertels und der angrenzenden Kleingartenanlage. Ihren Namen erhielt sie nach der 1828 aufgestellten [Meridiansäule](../../../nord/rahnitz/), die einer Vermessungsaktion in Sachsen diente. Die Rähnitzer Säule sowie ihr Gegenstück auf der Goldenen Höhe bei Bannewitz stehen unter Denkmalschutz.
 
-![](../../../cubesdivider.gif)
+
 
 [![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
 

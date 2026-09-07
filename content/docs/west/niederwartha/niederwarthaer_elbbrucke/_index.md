@@ -13,7 +13,7 @@ date: 2024-02-17T22:13:46+01:00
 
 * * *
 
-[![](../../../werbungklein2.jpg)](../../../Impressum/Werbung/werbung.html)
+
 
 
 Eisenbahnbrücke:

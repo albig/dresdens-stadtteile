@@ -741,7 +741,7 @@ Einschienen-Schnellbahn. Auftraggeber war der Berliner Verleger August Scherl, d
 Patente die Erfindung des Iren Louis Brennan in die Realität umsetzen wollte. Die Erprobung des Fahrzeugs erfolgte im
 Birkenwäldchen am Tatzberg. Am 1. 11. 1909 wurde die Bahn erstmals in Berlin öffentlich vorgeführt. Klagedrohungen britischer Rechtsanwälte und ein missglückter Probebetrieb in New York bereiteten dem Projekt letztlich ein Ende.
 
-![](../../../cubesdivider.gif)
+
 
 [![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
 

@@ -453,7 +453,7 @@ Der engagierte und kreative Unternehmer baute sein Geschäft nun weiter aus. Neb
 
 [![zirkusstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/zirkusstrasse.jpg)](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Zirkusstraße/zirkusstrasse.html)
 
-![](../../../cubesdivider.gif)
+
 
 [![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
 

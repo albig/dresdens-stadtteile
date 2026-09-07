@@ -42,7 +42,7 @@ Nr. 117: Hier wohnte um 1900 der Bildhauer Friedrich August Richard Hecht (1865-
 
 Rudolf-Schilling-Häuser: 1910-12 entstanden zwischen Holbeinstraße und Wormser Straße die Rudolf-Schilling-Häuser, initiiert vom Dresdner Spar- und Bauverein. Die Wohnanlage wurde vom renommierten Dresdner Architektenbüro Schilling & Gräbner entworfen und gehört zu den Musterbeispielen des sozialen Wohnungsbaus in der Stadt. Für die Mieter, meist Arbeiter und einfache Angestellte entstanden im Innenhof Spielanlagen, Ruheplätze sowie ein Wannenbad mit Duschen und Wäscherei. Um die Kinder während der Arbeitszeit betreuen zu können, richtete der Verein sogar einen eigenen Kindergarten ein. 1972 übernahm die Wohnungsgenossenschaft Johannstadt die Gebäude, die in den letzten Jahren denkmalgerecht saniert wurden.
 
-![](../../../../cubesdivider.gif)
+
 
 
 

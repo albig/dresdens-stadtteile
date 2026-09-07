@@ -175,7 +175,7 @@ Das Mukoviszidose-Zentrum der Dresdner Universitätsklinik (UMC) wurde am 30. M�
 des früheren Bundespräsidenten Roman Herzog. Christiane Herzog hatte sich engagiert für die Erforschung dieser
 Stoffwechselkrankheit eingesetzt. Die Einrichtung dient der komplexen Versorgung der Patienten und wird zum Teil von der Christiane-Herzog-Stiftung finanziert.
 
-![](../../../cubesdivider.gif)
+
 
 [![](../../../zentrum/johannstadt/universitatsklinikum/uniklinikum.jpg)](http://www.uniklinikum-dresden.de)
 

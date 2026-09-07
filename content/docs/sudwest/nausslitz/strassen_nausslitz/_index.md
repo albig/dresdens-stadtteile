@@ -207,7 +207,7 @@ Fichtner besaß mit seinen beiden Söhnen ein Architektur- und Baubüro in Dresd
 Westendpark. Die heutige Roßweiner Straße trug bis zur Eingemeindung von Naußlitz den Namen Albertstraße, benannt nach dem zweiten Sohn des Architekten. Im Haus Williamstraße 5 wohnte Ende des 19. Jahrhunderts. der Eisenbahner
 Dittrich, der durch sein tragisches Schicksal als der [schlafende Bremser von Naußlitz](../../../sudwest/nausslitz/) bekannt wurde.
 
-![](../../../cubesdivider.gif)
+
 
 [![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
 

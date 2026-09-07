@@ -23,7 +23,7 @@ date: 2024-02-17T22:13:46+01:00
 
 * * *
 
-![](../../../werbunggro_2.jpg)
+
 
 
 ![](../../../west/oberwartha/klostergut/oberwarthaklostergut1.jpg)Das Klostergut Oberwartha, früher Brauschänkengut genannt, entstand vermutlich zeitgleich mit dem Ort und gehörte bis Ende des 16. Jahrhunderts zum Besitz der Meißner Bischöfe. Zwischen 1258 und 1266 hatte Bischof Albert II. das Vorwerk und mehrere Hufen Land erworben und diese dem Domkapitel übereignet. In der Folgezeit besaßen wechselnde geistliche Würdenträger Gut und Ort. Neben dem als Wohn- und Verwaltungssitz dienenden Brauschänkengut gehörten u.a. eine Schmiede, Baum- und Weingärten, Scheunen sowie die [Lochmühle](../../../west/oberwartha/strassen_oberwartha/lotzebachstrasse/) im Lotzebachtal zum Vorwerk. Von wirtschaftlicher Bedeutung war vor allem der Weinbau, an dessen einstige Bedeutung noch heute die romanischen Kelleranlagen des Klostergutes erinnern. 1495 erwarb Domdechant Ulrich von Wolffersdorf Dorf und Brauschänkengut und ließ die Oberwarthaer Fluren 1501 an die Einwohner aufteilen.Im Gegenzug mussten diese regelmäßig verschiedene Abgaben an das Domkapitel leisten und waren außerdem zu Spann- und Handdiensten verpflichtet.

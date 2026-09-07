@@ -11,7 +11,7 @@ date: 2024-02-17T22:13:31+01:00
 
 [![dixiebahnhof dresden e.v. zur homepage](../../../../nord/klotzsche/dresden_-_gorlitz/schmalspurbahn/a_rectangle_1001.gif)](http://www.dixiebahnhof.de)
 
-[![](../../../../werbungklein2.jpg)](../../../../Impressum/Werbung/werbung.html)
+
 
 
 Die Eisenbahnstrecke von Klotzsche nach Königsbrück entstand ab 1883 zunächst in Schmalspur mit 750 mm Spurweite. Mit dem Bau der Nebenbahn sollte der Transport von Gütern im Gebiet nördlich von Dresden

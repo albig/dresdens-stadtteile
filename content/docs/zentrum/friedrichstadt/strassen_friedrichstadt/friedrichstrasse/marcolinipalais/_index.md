@@ -3,7 +3,7 @@ title: "Marcolinipalais"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![marcolinipalais](../../../../../marcolinipalais_nlafleurbannerh.gif)
+![marcolinipalais](../../../../../marcolinipalais_nlafleurbannerh.gif)
 
 * * *
 
@@ -15,7 +15,7 @@ date: 2024-02-17T22:13:47+01:00
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
+
 
 [![](../../../../../hauptseitefriedrichstadt.jpg)](../../../../../zentrum/friedrichstadt/)
 
@@ -25,7 +25,7 @@ date: 2024-02-17T22:13:47+01:00
 
 [Der Kulturverein im Fasanengarten Moritzburg](http://www.muse-fasanengarten.de)
 
-[![](../../../../../werbunggro_2.jpg)](../../../../../Impressum/Werbung/werbung.html)
+
 
 
 ![](../../../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/marcolinipalais/friedrichstmarcolini1.jpg)Nachdem Kurfürst Johann Georg II. 1670 Teile der [Ostraer Fluren](../../../../../zentrum/friedrichstadt/ostragehege/) zur Bebauung freigegeben hatte, erwarben Mitglieder des Hofes hier einige

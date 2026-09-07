@@ -147,7 +147,7 @@ Whirlpool, Solarium und Saunalandschaft sowie einen Restaurantbereich und Geträ
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 
-![](../../cubesdivider.gif)
+
 
 ![](../../sudwest/gorbitz/gorbitz_h_henpromenade.jpg)**Matthias Körner: Gorbitzer Höhenpromenade  Dresdens vergessener Schatz**
 

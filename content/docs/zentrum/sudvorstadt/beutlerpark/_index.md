@@ -18,7 +18,7 @@ date: 2024-02-17T22:13:48+01:00
 * * *
 
 
-[![](../../../werbunggro_.jpg)](../../../Impressum/Werbung/werbung.html)
+
 
 
 ![](../../../zentrum/sudvorstadt/beutlerpark/s_dvbeutlerpark1.jpg)Der heutige Beutlerpark befindet sich auf dem Areal des Bornbergs, einer kleinen

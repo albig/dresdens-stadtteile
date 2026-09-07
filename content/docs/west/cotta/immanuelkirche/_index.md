@@ -55,7 +55,7 @@ diente ein preisgünstig von einer Nossener Schule erworbenes Instrument der mus
 Zwischen 1991 und 2007 wurde die Immanuelkirche umfassend saniert. In diesem Zusammenhang entstanden auch zwölf Glasfenster mit Darstellungen der kirchlichen
 Feiertage. Schöpfer war der Dresdner Glasgestalter Wolfgang Korn.
 
-![](../../../cubesdivider.gif)
+
 
 [![](../../../west/cotta/immanuelkirche/immanuelkirche.jpg)](http://www.atlas.emk.de/11966.html)
 

@@ -300,7 +300,7 @@ _diese Eichen, Eurer Kraft und Taten Zeugen._
 
 1931 ließen Verehrer von Neumeister, der inzwischen Direktor der Tharandter Forstakademie war, die Tafel erneuern. Heute ist sie jedoch nicht mehr vorhanden.
 
-![](../../../cubesdivider.gif)
+
 
 [![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/spdd.aspx?permalink=svneZmD)
 

@@ -3,7 +3,7 @@ title: "Matthauskirche"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![matthäuskirche](../../../../../matthauskirche_nlafleurbannerh.gif)
+![matthäuskirche](../../../../../matthauskirche_nlafleurbannerh.gif)
 
 * * *
 
@@ -13,11 +13,11 @@ date: 2024-02-17T22:13:47+01:00
 
 * * *
 
-![](../../../../../clearpixel.gif)
+
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
+
 
 [![](../../../../../hauptseitefriedrichstadt.jpg)](../../../../../zentrum/friedrichstadt/)
 
@@ -44,6 +44,6 @@ Heute gehört die Matthäuskirche als Filiale zur Annenkirchgemeinde.
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif) \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
+ \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
  \[ [Nordost](../../../../../nordost/)\] \[ [West](../../../../../west/)\] \[ [Zentrum](../../../../../zentrum/)\] \[ [Südwest](../../../../../sudwest/)\]
  \[ [Süd](../../../../../sud/)\] \[ [Südost](../../../../../sudost/)\] \[ [Ost](../../../../../ost/)\] \[ [Register](../../../../../Register/register.html)\] \[ [Kontakt](../../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../../impressum/)\]

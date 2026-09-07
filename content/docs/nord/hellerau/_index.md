@@ -115,7 +115,7 @@ Rathaus:
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 
-![](../../cubesdivider.gif)
+
 
 **Führungen durch die Gartenstadt Hellerau:**
 

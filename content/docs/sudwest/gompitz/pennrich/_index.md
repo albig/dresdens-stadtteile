@@ -87,6 +87,6 @@ Depot der Freiwilligen Feuerwehr. Ursprünglich gehörte das Grundstück zum sog
 
 [_Weiterführende Literatur und Quellen_](../../../impressum/quellenverzeichnis/)
 
-![](../../../cubesdivider.gif)
+
 
  \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../sud/)\] \[ [Südost](../../../sudost/)\] \[ [Ost](../../../ost/)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../impressum/)\]

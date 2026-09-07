@@ -564,7 +564,7 @@ Die nach der hier gelegenen Wetterwarte Dresden-Klotzsche benannte Straße befin
 
 Zu den heute in diesem Areal ansässigen Einrichtungen gehören das Landesamt für Archäologie (Zur Wetterwarte 7) und ein städtisches Wohnheim für Obdachlose (Nr. 34). Früher wurde dieses Haus als Lazarett genutzt und war 2015 als Übergangswohnheim für Flüchtlinge vorgesehen.
 
-![](../../../cubesdivider.gif)
+
 
 [![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
 

@@ -153,7 +153,7 @@ Der Ziegeleiweg führt vom Alt-Leuteritzer Dorfkern in nördlicher Richtung nach
 übergeht. Seinen Namen verdankt er der einst hier gelegenen Leuteritzer Ziegelei. Ursprünglich gab es an diesem Standort
 das bereits im Mittelalter untergegangene Dorf Domlitz, dessen Name in den Bezeichnungen Tümmelse für die Siedlung am Daheimweg und in der Flurbezeichnung Tummelsgrund weiterlebt.
 
-![](../../../../cubesdivider.gif)
+
 
 [![](../../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
 

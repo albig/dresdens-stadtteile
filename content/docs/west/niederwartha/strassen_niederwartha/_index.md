@@ -86,7 +86,7 @@ Bäckereiverkaufsstelle genutzt. Heute dient die ehemalige Mühle als Wohnhaus, 
 
 1945 quartierten sich hier russische Soldaten ein, womit der Gastwirtschaftsbetrieb vorerst endete. Erst nach 1990 konnte das Lokal wieder gastronomisch genutzt werden. Seit 1994 befindet sich in den Kellerräumen und im großen Saal die mittelalterliche Erlebnisgaststätte "Zarenkeller" (seit 2015 Prinzenkeller), im Erdgeschoss ein italienisches Restaurant.
 
-![](../../../cubesdivider.gif)
+
 
 [![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
 

@@ -120,7 +120,7 @@ Bis 1942 lebte in diesem Gebäude der deutsch-jüdische Komponist und Dirigent A
 Dresdner Schauspielhaus. Wegen seiner jüdischen Abstammung wurde er am 7. März 1933 von den Nazis aus dem Amt gedrängt und 1934 offiziell entlassen. 1940 musste er mit seiner
 Frau in das Judenhaus Lothringer Weg 2 umziehen und wurde zwei Jahre später nach Riga deportiert. Hier kam das Ehepaar Chitz, vermutlich 1944, ums Leben.
 
-![](../../../../cubesdivider.gif)
+
 
 
 

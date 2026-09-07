@@ -3,11 +3,11 @@ title: "Seidel Naumann"
 date: 2024-02-17T22:13:45+01:00
 ---
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![Seidel & Naumann](../../../../../Seidel___Naumann_NIndBanner.GIF)
+![Seidel & Naumann](../../../../../Seidel___Naumann_NIndBanner.GIF)
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
+
 
 [![](../../../../../hauptseitefriedrichstadt.jpg)](../../../../../zentrum/friedrichstadt/)
 
@@ -39,6 +39,6 @@ Zwangsarbeiter, welche beim Bombenangriff 1945 ums Leben kamen.
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif) \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
+ \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
  \[ [Nordost](../../../../../nordost/)\] \[ [West](../../../../../west/)\] \[ [Zentrum](../../../../../zentrum/)\] \[ [Südwest](../../../../../sudwest/)\]
  \[ [Süd](../../../../../sud/)\] \[ [Südost](../../../../../sudost/)\] \[ [Ost](../../../../../ost/)\] \[ [Register](../../../../../Register/register.html)\] \[ [Kontakt](../../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../../impressum/)\]

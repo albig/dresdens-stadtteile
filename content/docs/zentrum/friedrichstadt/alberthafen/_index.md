@@ -17,7 +17,7 @@ date: 2024-02-17T22:13:46+01:00
 
 * * *
 
-[![](../../../werbungklein2.jpg)](../../../Impressum/Werbung/werbung.html)
+
 
 
 ![](../../../friedrichstalberthafen_luftbild.jpg)Der Dresdner Alberthafen wurde zwischen 1891 und 1895 am Rande der

@@ -54,7 +54,7 @@ Die dadurch entstandene Freifläche nutzte danach bis zur Neubebauung durch ein 
 
 Einkaufszentrum SP1: Das nach seiner postalischen Anschrift Straßburger Platz 1 benannte Nahversorgungszentrum entstand 2015-16 und wurde am 12. Mai 2016 eröffnet. Im Inneren befinden sich zwei Supermärkte, verschiedene Geschäfte, ein Parkhaus und zwei Büroetagen an der Südseite. Bauherr war die aus Hessen stammende Dietz AG.
 
-![](../../../../cubesdivider.gif)
+
 
 
 

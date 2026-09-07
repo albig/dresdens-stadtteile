@@ -13,7 +13,7 @@ date: 2024-02-17T22:13:47+01:00
 
 * * *
 
-[![](../../../werbungklein2.jpg)](../../../Impressum/Werbung/werbung.html)
+
 
 [![airline-direct](http://ad.zanox.com/ppv/?10219639C1407666660)](http://ad.zanox.com/ppc/?10219639C1407666660T)
 

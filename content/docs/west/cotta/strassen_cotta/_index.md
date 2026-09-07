@@ -230,7 +230,7 @@ sich große Verdienste um die Entwicklung des Ortes erwarb und deshalb auch zum 
 Die um 1900 nach dem früheren Gemeindevorstand Heinrich Wagner benannte Straße erhielt 1904 den Namen Alvenslebenstraße. Die Brüder Gustav und Konstantin von Alvensleben nahmen als Generäle der sächsischen Armee am
 Deutsch-Französischen Krieg 1870/71 teil. 1946 erfolgte die Umbenennung in Zöllmener Straße.
 
-![](../../../cubesdivider.gif)
+
 
 [![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
 

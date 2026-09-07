@@ -340,7 +340,7 @@ Lingner selbst wohnte zu dieser Zeit im Vorderhaus des Grundstücks. Heute steht
 
 **_Foto:_** _ehemaliges Wohnhaus Karl August Lingners (Nr. 11)_
 
-![](../../../cubesdivider.gif)
+
 
 [![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
 

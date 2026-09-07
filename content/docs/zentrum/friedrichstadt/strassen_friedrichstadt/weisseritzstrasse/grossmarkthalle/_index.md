@@ -3,7 +3,7 @@ title: "Großmarkthalle"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![großmarkthalle](../../../../../grossmarkthalle_nlafleurbannerh.gif)
+![großmarkthalle](../../../../../grossmarkthalle_nlafleurbannerh.gif)
 
 * * *
 
@@ -13,17 +13,17 @@ date: 2024-02-17T22:13:47+01:00
 
 * * *
 
-![](../../../../../clearpixel.gif)
+
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
+
 
 [![](../../../../../hauptseitefriedrichstadt.jpg)](../../../../../zentrum/friedrichstadt/)
 
 * * *
 
-[![](../../../../../werbunggro_2.jpg)](../../../../../Impressum/Werbung/werbung.html)
+
 
 
 ![](../../../../../friedrichstgro_markthalle1.jpg)Die Großmarkthalle wurde als Hauptmarkthalle der Stadt Dresden zwischen 1893 und
@@ -54,6 +54,6 @@ Pforten. Nach umfassender Sanierung ist das Gebäude heute Domizil eines Einrich
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif) \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
+ \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
  \[ [Nordost](../../../../../nordost/)\] \[ [West](../../../../../west/)\] \[ [Zentrum](../../../../../zentrum/)\] \[ [Südwest](../../../../../sudwest/)\]
  \[ [Süd](../../../../../sud/)\] \[ [Südost](../../../../../sudost/)\] \[ [Ost](../../../../../ost/)\] \[ [Register](../../../../../Register/register.html)\] \[ [Kontakt](../../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../../impressum/)\]

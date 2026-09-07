@@ -3,7 +3,7 @@ title: "Hochschule Fur Verkehrswesen"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![hochschule für verkehrswesen](../../../../../hochschule_fur_verkehrswesen_nlafleurbannerh.gif)
+![hochschule für verkehrswesen](../../../../../hochschule_fur_verkehrswesen_nlafleurbannerh.gif)
 
 * * *
 
@@ -13,11 +13,11 @@ date: 2024-02-17T22:13:48+01:00
 
 * * *
 
-![](../../../../../clearpixel.gif)
+
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
+
 
 [![](../../../../../hauptseites_dvorstadt.jpg)](../../../../../zentrum/sudvorstadt/)
 
@@ -42,10 +42,10 @@ Hochschule an der Andreas-Schubert-Straße. Gemeinsam mit dem Seminargebäude un
 Inneren erinnern. Die Fenster bestehen zum Teil aus halbdurchlässigen Marmorscheiben und sorgen so für eine optimale Klimatisierung und Beleuchtung der Bibliotheksräume. Für die Umsetzung des Bauvorhabens erhielt das
 ausführende Büro 2007 eine Anerkennung beim Architekturpreis Sachsen. Insgesamt stehen den Studenten ca. 125.000 Bücher, davon 60.000 frei zugängliche, zur Verfügung.
 
-![](../../../../../clearpixel.gif)
+
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif) \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
+ \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
  \[ [Nordost](../../../../../nordost/)\] \[ [West](../../../../../west/)\] \[ [Zentrum](../../../../../zentrum/)\] \[ [Südwest](../../../../../sudwest/)\]
  \[ [Süd](../../../../../sud/)\] \[ [Südost](../../../../../sudost/)\] \[ [Ost](../../../../../ost/)\] \[ [Register](../../../../../Register/register.html)\] \[ [Kontakt](../../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../../impressum/)\]

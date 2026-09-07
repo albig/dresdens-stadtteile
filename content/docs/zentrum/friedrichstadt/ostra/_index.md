@@ -48,6 +48,6 @@ deutschen Rodestock abgeleitet worden sein kann. Das nur aus wenigen Gehöft
 Nähe der heutigen Weißeritzmündung an der Hamburger Straße. Wernten, 1071 als Wirnotine (Dorf des Vernota) erwähnt, lag auf dem Gelände zwischen Hafen und Flügelwegbrücke. Beide Dörfer fielen wahrscheinlich im 14./15.
 Jahrhundert einem Hochwasser zum Opfer und wurden nicht wieder aufgebaut. Ihre Fluren wurden später in das Areal des Ostravorwerkes einbezogen.
 
-![](../../../cubesdivider.gif)
+
 
  \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../sud/)\] \[ [Südost](../../../sudost/)\] \[ [Ost](../../../ost/)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../impressum/)\]

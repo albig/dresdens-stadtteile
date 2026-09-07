@@ -28,7 +28,7 @@ bis zur Gegenwart Kleinhaussiedlungen mit aufgelockerter Bebauung. Die verbliebe
 Freiflächen am westlichen Stadtrand wurden ab 1979 mit dem größten Dresdner Neubaugebiet Gorbitz bebaut. Jüngste
 westliche Stadterweiterung war 1997 bzw. 1999 die Eingemeindung von Altfranken und Gompitz. Hier sind nach 1990 größere Gewerbegebiete und Wohnparks entstanden.
 
-![](../cubesdivider.gif)
+
 
 ![](../dresden-quiz.jpg)**Wer kennt Dresden? - Das Stadtquiz**
 
@@ -44,4 +44,4 @@ Sehenswürdigkeiten zu komplettieren. Dafür stehen jeweils vier Antwortmöglich
 
 * * *
 
-[![](../builtbynof.gif)](http://www.netobjects.com) \[ [Nord](../nord/)\] \[ [Nordwest](../nordwest/)\] \[ [Neustadt](../neustadt/)\] \[ [Nordost](../nordost/)\] \[ [West](../west/)\] \[ [Zentrum](../zentrum/)\] \[ [Südwest](../sudwest/)\] \[ [Süd](../sud/)\] \[ [Südost](../sudost/)\] \[ [Ost](../ost/)\] \[ [Register](../register/)\] \[ [Kontakt](../kontakt/)\] \[ [Impressum](../impressum/)\]
+ \[ [Nord](../nord/)\] \[ [Nordwest](../nordwest/)\] \[ [Neustadt](../neustadt/)\] \[ [Nordost](../nordost/)\] \[ [West](../west/)\] \[ [Zentrum](../zentrum/)\] \[ [Südwest](../sudwest/)\] \[ [Süd](../sud/)\] \[ [Südost](../sudost/)\] \[ [Ost](../ost/)\] \[ [Register](../register/)\] \[ [Kontakt](../kontakt/)\] \[ [Impressum](../impressum/)\]

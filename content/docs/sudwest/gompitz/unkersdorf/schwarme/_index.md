@@ -17,7 +17,7 @@ date: 2024-02-17T22:13:44+01:00
 
 * * *
 
-[![](../../../../werbunggro_.jpg)](../../../../Impressum/Werbung/werbung.html)
+
 
 
 Als Schwärme wird die zwischen Unkersdorf, Rennersdorf, Brabschütz, Podemus und Roitzsch gelegene Hochfläche bezeichnet, die früher von den Bewohnern der angrenzenden Dörfer gemeinsam genutzt wurde. Der

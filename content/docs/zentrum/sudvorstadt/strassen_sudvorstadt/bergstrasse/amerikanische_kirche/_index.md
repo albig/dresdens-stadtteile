@@ -3,7 +3,7 @@ title: "Amerikanische Kirche"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![amerikanische kirche st. john](../../../../../amerikanische_kirche_nlafleurbannerh.gif)
+![amerikanische kirche st. john](../../../../../amerikanische_kirche_nlafleurbannerh.gif)
 
 * * *
 
@@ -13,17 +13,17 @@ date: 2024-02-17T22:13:48+01:00
 
 * * *
 
-![](../../../../../clearpixel.gif)
+
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
+
 
 [![](../../../../../hauptseites_dvorstadt.jpg)](../../../../../zentrum/sudvorstadt/)
 
 * * *
 
-[![](../../../../../werbunggro_2.jpg)](../../../../../Impressum/Werbung/werbung.html)
+
 
 
 ![](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/bergstrasse/amerikanische_kirche/s_dvamerikankirche.jpg)Die Amerikanische Kirche wurde 1883 im Auftrag der Stiftung American
@@ -42,6 +42,6 @@ für das geplante Auditorium Maximum bzw. einen Bibliotheksneubau der TU genutzt
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif) \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
+ \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
  \[ [Nordost](../../../../../nordost/)\] \[ [West](../../../../../west/)\] \[ [Zentrum](../../../../../zentrum/)\] \[ [Südwest](../../../../../sudwest/)\]
  \[ [Süd](../../../../../sud/)\] \[ [Südost](../../../../../sudost/)\] \[ [Ost](../../../../../ost/)\] \[ [Register](../../../../../Register/register.html)\] \[ [Kontakt](../../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../../impressum/)\]

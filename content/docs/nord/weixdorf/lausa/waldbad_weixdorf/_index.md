@@ -34,7 +34,7 @@ date: 2024-02-17T22:13:35+01:00
 
 **_Foto:_** _Das Weixdorfer Waldbad auf einer historischen Postkarte_
 
-_![](../../../../cubesdivider.gif)_
+__
 
 * * *
 

@@ -76,7 +76,7 @@ Nach seiner Enttarnung als Doppelagent des sowjetischen und westlicher Geheimdie
 
 Nach Lingners Umzug ins [Lingnerschloss](../../../../nordost/loschwitz/albrechtsschlosser/) am Elbhang 1908 wechselten mehrfach die Besitzer. In den 1930er Jahren hatte hier die Burschenschaft "Alemannenheim" ihr Domizil. Das Haus überstand den Luftangriff 1945 ohne größere Schäden und beherbergte zunächst eine Kfz-Werkstatt, in den 1950er und 60er Jahren das Stadtbüro des Klotzscher Flughafens. Fluggäste konnten hier einchecken und wurden dann per Zubringerbus nach Klotzsche zu ihrer Maschine gebracht. Später hatte in der Villa die Bank für Landwirtschaft und Nahrungsgüterwirtschaft ihr Domizil. 2003-05 erfolgte eine umfassende Sanierung der Villa, die seitdem wieder Wohnzwecken dient. Seit Oktober 2011 hat hier außerdem das Honorarkonsulat von Kroatien seinen Sitz.
 
-![](../../../../cubesdivider.gif)
+
 
 [![airline-direct 728x90 e](http://ad.zanox.com/ppv/?10219618C220738136)](http://ad.zanox.com/ppc/?10219618C220738136T)
 

@@ -99,7 +99,7 @@ Lichtspiele Weixdorf (Nr. 265): Das Gebäude entstand 1938 als Kino der Gemeinde
 
 Lauschenbachmühle (Nr. 470): Auf diesem Grundstück an der Flurgrenze von Lausa zu Hermsdorf befand sich einst die Lauschenbachmühle, eine im Besitz der Hermsdorfer Rittergutsbesitzer befindliche Wassermühle mit zwei Mahlgängen und einem oberschlächtigen Mühlrad. 1657 erwarb Johann Georg Freiherr von Rechenberg diese Mühle zusammen mit der Grundherrschaft über Hermsdorf. 1791 ist die Lauschenbachmühle in einem Verzeichnis aller sächsischen Mühlen ebenfalls verzeichnet. Der Mahlbetrieb wurde um 1975 eingestellt und der Mühlgraben später zugeschüttet.
 
-![](../../../../cubesdivider.gif)
+
 
 [![](../../../../werbunglang2.jpg)](../../../../Impressum/Werbung/werbung.html)
 

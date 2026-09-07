@@ -41,7 +41,7 @@ Nr. 34: Das Grundstück war einst Standort eines großen Bauerngehöfts, welches
 
 ![](../../../../west/cotta/strassen_cotta/hebbelstrasse/cottavolkshaus.jpg)1928 wurde das Gebäude nochmals erweitert und besaß neben Tagungs- und Versammlungsräumen auch eine öffentliche Gaststätte mit Saal, Kegelbahn und Jugendzimmer. Mit Machtübernahme der Nationalsozialisten bezogen NS-Organisationen das Haus und benannten es nach dem sächsischen Ministerpräsidenten Manfred von Killinger in "Killingerheim" um. Nach 1945 übernahm die Stadt Dresden das Arbeiterheim und richtete hier 1964 das Kulturhaus Richard Gärtner ein. Gärtner war aktives Mitglied der SPD und maßgeblich am Bau des Volkshauses beteiligt. Noch nach 1990 fanden im Kulturhaus verschiedene Veranstaltungen statt. Außerdem ist das Volkshaus Sitz der Verwaltung und der Werkstätten des städtischen Puppentheaters. Im August 2001 wurde mit Hebbel\`s Schank- und Gartenwirtschaft wieder eine Gaststätte eingerichtet, deren Räumlichkeiten derzeit jedoch nur noch für private Feiern vermietet werden.
 
-![](../../../../cubesdivider.gif)
+
 
 [![](../../../../werbunglang2.jpg)](../../../../Impressum/Werbung/werbung.html)
 

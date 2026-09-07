@@ -141,7 +141,7 @@ Ein- und Zweifamilienhäusern entstanden war. 1953 wurde sie nach dem Dorf Roitz
 
 Die Ziegeleistraße entstand in den 20er Jahren und erhielt ihren Namen, da sie in Richtung der Omsewitzer Ziegelei führte. 1928/29 entstand hier eine Siedlung mit mehreren Wohnhäusern.
 
-![](../../../cubesdivider.gif)
+
 
 [![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
 

@@ -3,17 +3,17 @@ title: "Teekanne"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![teekanne (fa. seelig & hille)](../../../../../teekanne_nindbanner.gif)![](../../../../../clearpixel.gif)
+![teekanne (fa. seelig & hille)](../../../../../teekanne_nindbanner.gif)
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
+
 
 [![](../../../../../hauptseites_dvorstadt.jpg)](../../../../../zentrum/sudvorstadt/)
 
 * * *
 
-[![](../../../../../werbungklein2.jpg)](../../../../../Impressum/Werbung/werbung.html)
+
 
 
 ![](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/zwickauer_strasse/teekanne/s_dvteekanne.jpg)Das Unternehmen entstand 1882 unter dem Namen R. Seelig & Hille als Handelsfirma zum
@@ -51,6 +51,6 @@ Domizil der zuletzt zum österreichischen Maculan-Konzern gehörenden Bau Union 
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif) \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
+ \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
  \[ [Nordost](../../../../../nordost/)\] \[ [West](../../../../../west/)\] \[ [Zentrum](../../../../../zentrum/)\] \[ [Südwest](../../../../../sudwest/)\]
  \[ [Süd](../../../../../sud/)\] \[ [Südost](../../../../../sudost/)\] \[ [Ost](../../../../../ost/)\] \[ [Register](../../../../../Register/register.html)\] \[ [Kontakt](../../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../../impressum/)\]

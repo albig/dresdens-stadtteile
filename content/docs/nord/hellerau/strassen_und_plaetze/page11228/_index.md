@@ -292,7 +292,7 @@ liberalen Politiker Dr. Wilhelm Külz (1875-1948), der in den Zwanziger Jahren i
 Machtübernahme der Nazis aufgeben. 1945 gehörte er zu den Mitbegründern der LDPD. Zuvor wurde diese Straße Klotzscher Straße genannt. Seit 1993 trägt nur noch der kurze Abschnitt zwischen Boltenhagener Straße und Autobahn den
 Namen Wilhelm-Külz-Straße.
 
-![](../../../../cubesdivider.gif)
+
 
 [![](../../../../stadtplan.jpg)](http://stadtplan2.dresden.de/spdd.aspx?permalink=1TUvHfel)
 

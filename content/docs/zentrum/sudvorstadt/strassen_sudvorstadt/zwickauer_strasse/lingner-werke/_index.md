@@ -3,11 +3,11 @@ title: "Lingner-Werke"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![lingner-werke](../../../../../lingner-werke_nindbanner.gif)![](../../../../../clearpixel.gif)
+![lingner-werke](../../../../../lingner-werke_nindbanner.gif)
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
+
 
 [![](../../../../../hauptseites_dvorstadt.jpg)](../../../../../zentrum/sudvorstadt/)
 
@@ -47,10 +47,10 @@ dem Neubau der Nossener Brücke beseitigt. Nach der Verstaatlichung des Unterneh
 Betrieb nach Bühl (Baden), wo unter dem Namen Lingner + Fischer auch weiterhin Odol-Mundwasser im klassischen
 Design hergestellt wurde. In der DDR wurde die Tradition im Dresdner VEB Elbe-Chemie fortgesetzt. Heute gehört das Unternehmen zum Konzern GlaxoSmithCline.
 
-![](../../../../../clearpixel.gif)
+
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif) \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
+ \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
  \[ [Nordost](../../../../../nordost/)\] \[ [West](../../../../../west/)\] \[ [Zentrum](../../../../../zentrum/)\] \[ [Südwest](../../../../../sudwest/)\]
  \[ [Süd](../../../../../sud/)\] \[ [Südost](../../../../../sudost/)\] \[ [Ost](../../../../../ost/)\] \[ [Register](../../../../../Register/register.html)\] \[ [Kontakt](../../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../../impressum/)\]

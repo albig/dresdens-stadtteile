@@ -63,7 +63,7 @@ Nach 1990 konnte das Herrenhaus des früheren Kammergutes rekonstruiert werden u
 
 **_Fotos:_** _Herrenhaus Gorbitz - auf dem rechten Bild der Eingang mit dem romanischen Portal_
 
-_![](../../../../cubesdivider.gif)_
+__
 
 [![](../../../../werbunglang2.jpg)](../../../../Impressum/Werbung/werbung.html)
 

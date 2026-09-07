@@ -88,7 +88,7 @@ Christian Schieritz, der in die Fassade das ehemalige Eingangsportal des Tromp
 Obwohl das Gebäude seit 1975 auf der Denkmalliste stand, wurde es 1987 für eine vorgesehene, aber nie realisierte
 Neubebauung des Areals zwischen Weißeritzstraße und Adlergasse abgerissen. Lediglich das wertvolle Renaissanceportal konnte geborgen und für eine spätere Verwendung eingelagert werden.
 
-![](../../../../cubesdivider.gif)
+
 
 [![](../../../../werbunglang2.jpg)](../../../../Impressum/Werbung/werbung.html)
 

@@ -75,7 +75,7 @@ Die frühere Hohe Straße erhielt 1926 den neuen Namen Wilhelm-Müller-Straße. 
 bedeutendsten Dichtern der deutschen Romantik und ist Verfasser so bekannter Volkslieder wie Das Wandern ist des Müllers
 Lust und Im Krug zum Grünen Kranze. Mehrfach weilte er in Dresden und traf sich hier mit bekannten Persönlichkeiten seiner Zeit. Während einem seiner Besuche entstand sein Werk Frühlingskranz aus dem Plauenschen Grunde.
 
-![](../../../cubesdivider.gif)
+
 
 [![](../../../stadtplan.jpg)](http://www.dresden.de/de/09/stadtplan.php)
 

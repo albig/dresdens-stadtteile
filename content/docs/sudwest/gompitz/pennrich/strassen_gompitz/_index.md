@@ -214,7 +214,7 @@ Die im Zusammenhang mit dem Bau des Wohngebiet Alte Gärtnereien angelegte S
 vorgesehen. Luckner wuchs im benachbarten Pennrich auf und wurde während des Ersten Weltkriegs als Seeteufel zum
 Volkshelden. Umstritten ist jedoch seine Rolle in der Nazizeit sowie ein Ermittlungsverfahren wegen pädophiler Straftaten, weshalb dieser Name vom Stadtrat abgelehnt wurde.
 
-![](../../../../cubesdivider.gif)
+
 
 [![](../../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
 

@@ -14,7 +14,7 @@ date: 2024-02-17T22:13:31+01:00
 * * *
 
 
-[![](../../../werbungklein2.jpg)](../../../Impressum/Werbung/werbung.html)
+
 
 
 * * *
@@ -31,7 +31,7 @@ Zum Einsatz kamen insgesamt sechs Fahrzeuge, die mit jeweils zwei AEG-Elektromot
 
 ![](../../../nord/klotzsche/haidebahn/klotzschehaideb3.jpg)Obwohl die Bahn zunächst von den Einwohnern gut angenommen wurde und für internationales Aufsehen sorgte, stellten sich schon bald technische Mängel heraus. So beklagten die Anwohner unerträglichen Lärm und Staub, der durch die Wagen aufgewirbelt wurde und die Luft im Kurort beeinträchtigte. Außerdem kam es häufig zu Ausfällen durch defekte Motoren und Kontakte an der Oberleitung. Letztlich musste das Unternehmen 1903 Konkurs anmelden und den Betrieb am 19. März 1904 einstellen. Die technischen Anlagen wurden daraufhin nach Poprad in die Slowakei verkauft. Ab Juli 1904 ersetzte eine Pferdebuslinie die Bahn. 1911 entstand an Stelle der Haidebahn eine elektrische Straßenbahn nach Klotzsche.
 
-![](../../../cubesdivider.gif)
+
 
 * * *
 

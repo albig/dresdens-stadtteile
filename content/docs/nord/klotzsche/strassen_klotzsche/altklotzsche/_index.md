@@ -35,7 +35,7 @@ zeitweise ein Studentenwohnheim. Das nach der Wende geschlossene und zuletzt lee
 
 **_Fotos:_** _Historische Gebäude im Dorfkern Altklotzsche_
 
-_![](../../../../cubesdivider.gif)_
+__
 
 ![](../../../../werbunglang2.jpg)
 

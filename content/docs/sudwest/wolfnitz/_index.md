@@ -45,7 +45,7 @@ geschaffen. 1925/26 entstanden Einfamilienhaussiedlungen Am Stieglitzgrund und d
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 
-![](../../cubesdivider.gif)
+
 
 [![](../../werbunglang.jpg)](../../Impressum/Werbung/werbung.html)
 

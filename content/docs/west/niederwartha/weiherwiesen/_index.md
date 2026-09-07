@@ -15,7 +15,7 @@ date: 2024-02-17T22:13:46+01:00
 
 * * *
 
-![](../../../werbunggro_2.jpg)
+
 
 
 Die sogenannten Weiherwiesen bilden einen Ortsteil von Niederwartha und befinden sich unmittelbar am Elbufer. Noch bis 1954 gehörten sie als

@@ -36,7 +36,7 @@ Michaelskapelle in einem Anbau des zur Christengemeinschaft gehörenden Rochwitz
 Standort auf der Reichenbachstraße. Die Entwürfe für den ein Jahr später vollendeten modernen Neubau stammen von den Architekten Buck und Rex aus Dresden. Das Zentrum besteht aus einer Kirche mit 200 Plätzen sowie einem
 baulich mit dieser verbundenen Gemeindehaus, welches auch für öffentliche Veranstaltungen und Konzerte genutzt wird. Gegenwärtig gehören der Dresdner Christengemeinschaft ca. 1000 Mitglieder an.
 
-![](../../../../cubesdivider.gif)
+
 
 [![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/christengemeinschaft/christengemeinschaft.jpg)](http://www.christengemeinschaft.org/dresden)
 

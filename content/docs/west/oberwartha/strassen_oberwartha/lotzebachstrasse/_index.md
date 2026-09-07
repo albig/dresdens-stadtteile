@@ -13,7 +13,7 @@ date: 2024-02-17T22:13:46+01:00
 
 * * *
 
-![](../../../../werbungklein3.jpg)
+
 
 
 Als Lotzebachstraße wird der auf Oberwarthaer Flur liegende Abschnitt der von Brabschütz nach Cossebaude führenden Verbindungsstraße bezeichnet. Im unteren Cossebauder Teil trägt diese den Namen
@@ -54,7 +54,7 @@ Mühlengebäude, welches nicht nur als Getreidemühle für die Dörfer des Cosse
 1907 erwarb der Thekenbauer Kurt Körner das Mühlengrundstück und nutzte den vorhandenen Schneidegang für seine Produktion. 1943 erfolgte schließlich die Stilllegung der Mühle. Heute dienen die Gebäude gewerblichen
 Zwecken und sind Sitz einer Firma für den Bau von Biertheken.
 
-![](../../../../cubesdivider.gif)
+
 
 [![Générique 468/60](http://ad.zanox.com/ppv/?20271603C850032990)](http://ad.zanox.com/ppc/?20271603C850032990T)
 

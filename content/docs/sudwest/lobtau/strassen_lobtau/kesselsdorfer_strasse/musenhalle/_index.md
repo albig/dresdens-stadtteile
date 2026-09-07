@@ -3,7 +3,7 @@ title: "Musenhalle"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![musenhalle](../../../../../musenhalle_nlafleurbannerh.gif)
+![musenhalle](../../../../../musenhalle_nlafleurbannerh.gif)
 
 * * *
 
@@ -13,11 +13,11 @@ date: 2024-02-17T22:13:44+01:00
 
 * * *
 
-![](../../../../../clearpixel.gif)
+
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
+
 
 [![](../../../../../hauptseitel_btau.jpg)](../../../../../sudwest/lobtau/)
 
@@ -40,10 +40,10 @@ Anwohner konnten zumindest Teile des Gestühls und die wertvollen Vorführappara
 im Saal des dortigen Gasthofes zum Einsatz. Die Ruine der Musenhalle wurde in der Nachkriegszeit abgerissen und auf dem Areal eine Grünfläche angelegt. 1954 entstand hier die zunächst nur in den Sommermonaten betriebene
 Gastwirtschaft Berolina. Das zeltartige Provisorium wurde zwei Jahre später durch einen Leichtbau für den Dauerbetrieb ersetzt. Dieser dient noch immer, heute als Speiselokal Mephisto, seinem Zweck.
 
-![](../../../../../clearpixel.gif)
+
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif) \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
+ \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
  \[ [Nordost](../../../../../nordost/)\] \[ [West](../../../../../west/)\] \[ [Zentrum](../../../../../zentrum/)\] \[ [Südwest](../../../../../sudwest/)\]
  \[ [Süd](../../../../../sud/)\] \[ [Südost](../../../../../sudost/)\] \[ [Ost](../../../../../ost/)\] \[ [Register](../../../../../Register/register.html)\] \[ [Kontakt](../../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../../impressum/)\]

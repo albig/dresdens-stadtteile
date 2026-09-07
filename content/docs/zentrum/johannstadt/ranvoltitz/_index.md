@@ -16,7 +16,7 @@ vom Abbau der reichen Lehmvorkommen. 1316 wurde es letztmals genannt und wahrsch
 gelegenen Vorwerk Knapsdorf gingen die Fluren von Ranvoltitz  in den Besitz des Maternihospitals über und wurden noch bis ins 18. Jahrhundert als Spittelfelder bzw. Spittelholz bezeichnet. Erst 1843 endete die
 Gerichtsbarkeit des Hospitals über 53 Flurstücke in diesem Bereich. An den Ort erinnert heute noch die im Neumarktgebiet gelegene Rampische Straße.
 
-![](../../../cubesdivider.gif)
+
 
 
 

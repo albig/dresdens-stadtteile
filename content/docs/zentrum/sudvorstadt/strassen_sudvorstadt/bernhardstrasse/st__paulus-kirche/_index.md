@@ -3,7 +3,7 @@ title: "St Paulus-Kirche"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![st. paulus-kirche](../../../../../st__paulus-kirche_nlafleurbannerh.gif)
+![st. paulus-kirche](../../../../../st__paulus-kirche_nlafleurbannerh.gif)
 
 * * *
 
@@ -13,11 +13,11 @@ date: 2024-02-17T22:13:48+01:00
 
 * * *
 
-![](../../../../../clearpixel.gif)
+
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
+
 
 [![](../../../../../hauptseites_dvorstadt.jpg)](../../../../../zentrum/sudvorstadt/)
 
@@ -28,7 +28,7 @@ date: 2024-02-17T22:13:48+01:00
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
+
 
 ![](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/bernhardstrasse/st__paulus-kirche/s_dvstpauli.jpg)Die Geschichte der katholischen Gemeinde der Südvorstadt reicht bis ins Jahr 1909 zurück. Damals bildete sich im Schweizer Viertel ein Verein der Katholiken von Dresden-Plauen und Süd. Da zunächst kein eigenes Gotteshaus zur Verfügung stand, nutzte man ab 1921 das Haus [Eisenstuckstraße 27](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/eisenstuckstrasse/) für die Gemeindearbeit. Die Predigten übernahm die Kongregation der Oblaten der makellosen Jungfrau Maria, welche bis 1984 eine Niederlassung in Dresden unterhielt. Der katholische Orden mit
 Stammsitz in Hünfeld bei Fulda hatte sich nach einer Gesetzesänderung 1919 als erster katholischer Orden nach der Reformation wieder in Sachsen niedergelassen mit dem Ziel, hier ein Kloster zu gründen. 1922 erwarb der zur Hofkirche gehörende Verein das Grundstück Bernhardstraße 42 und ließ dort eine Kirche mit ca. 200 Plätzen und einem kleinen Turm errichten. An den Planungen waren die Architekten Robert Witte und Rudolf Zacek beteiligt. Die Finanzierung wurde zum Großteil von den Mitgliedern übernommen. Neben der eigentlichen Kirche sollten ursprünglich noch ein Wohntrakt für die Ordensmitglieder und weitere Nebengebäude entstehen, was jedoch nicht zustande kam. Als Wohnhaus diente stattdessen ein heute als Pfarrei genutzter Anbau.
@@ -41,14 +41,14 @@ Am 6. Dezember 1925 konnte die neue Kirche eingeweiht werden. Wenige Tage späte
 
 Die drei Bronzeglocken im Turm stammen aus den 1950er Jahren und wurden in Apolda gegossen. Ende der 1990er Jahre wurde die St.-Paulus-Kirche saniert. Im Garten des Grundstücks mahnt ein Denkmal an fünf während der NS-Zeit am Münchner Platz hingerichtete polnische katholische Jugendliche und einen Ordensbruder der Steyler Mission, welche 1999 als Märtyrer durch Papst Johannes Paul II. selig gesprochen wurden. Außerdem erinnert eine Gedenkstätte an die Opfer des Bombenangriffs auf Dresden.
 
-![](../../../../../cubesdivider.gif)
+
 
 [![](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/bernhardstrasse/st__paulus-kirche/stpauluskirche.jpg)](http://www.st-paulus-dresden.de)
 
-![](../../../../../clearpixel.gif)
+
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif) \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
+ \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
  \[ [Nordost](../../../../../nordost/)\] \[ [West](../../../../../west/)\] \[ [Zentrum](../../../../../zentrum/)\] \[ [Südwest](../../../../../sudwest/)\]
  \[ [Süd](../../../../../sud/)\] \[ [Südost](../../../../../sudost/)\] \[ [Ost](../../../../../ost/)\] \[ [Register](../../../../../Register/register.html)\] \[ [Kontakt](../../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../../impressum/)\]

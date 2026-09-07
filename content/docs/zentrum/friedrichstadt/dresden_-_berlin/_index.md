@@ -74,7 +74,7 @@ hergestellt werden und war ab August 1945 wieder befahrbar. Da dieses Provisoriu
 kompletten Neubau. Bis 1983 entstand auf den elf alten Pfeilern die noch heute erhaltene 346 Meter lange Brücke _(Foto)_, die neben den Gleisanlagen auch einen
 kombinierten Fuß- und Radweg erhielt. Ab 2006 wurde in unmittelbarer Nachbarschaft eine neue [Straßenbrücke](../../../west/niederwartha/niederwarthaer_elbbrucke/) gebaut.
 
-![](../../../cubesdivider.gif)
+
 
 * * *
 

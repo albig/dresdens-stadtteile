@@ -83,7 +83,7 @@ hier eine Außenstelle des Serumwerkes ihr Domizil. Heute wird das Gebäude von 
 
 **_Fotos:_** _Das Ballhaus Bellevue auf einer Ansicht von 1910 und im Jahr 2013_
 
-![](../../../../cubesdivider.gif)
+
 
 
 

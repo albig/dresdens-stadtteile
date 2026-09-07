@@ -13,7 +13,7 @@ date: 2024-02-17T22:13:48+01:00
 
 * * *
 
-[![](../../../werbungklein3.jpg)](../../../Impressum/Werbung/werbung.html)
+
 
 
 ![](../../../zentrum/wilsdruffer_vorstadt/freiberger_strasse/wv_freibergerstr.jpg)Die Freiberger Straße verbindet die Wilsdruffer Vorstadt mit dem Stadtteil

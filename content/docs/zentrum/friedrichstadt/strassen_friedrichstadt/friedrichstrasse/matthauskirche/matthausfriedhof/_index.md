@@ -164,6 +164,6 @@ Beisetzung erfolgte 1983. Seit einigen Jahren bemühen sich verschiedene Vereine
 
 * * *
 
-[![](../../../../../../builtbynof.gif)](http://www.netobjects.com) \[ [Nord](../../../../../../nord/)\] \[ [Nordwest](../../../../../../nordwest/)\] \[ [Neustadt](../../../../../../neustadt/)\] \[ [Nordost](../../../../../../nordost/)\] \[ [West](../../../../../../west/)\] \[ [Zentrum](../../../../../../zentrum/)\] \[ [Südwest](../../../../../../sudwest/)\]
+ \[ [Nord](../../../../../../nord/)\] \[ [Nordwest](../../../../../../nordwest/)\] \[ [Neustadt](../../../../../../neustadt/)\] \[ [Nordost](../../../../../../nordost/)\] \[ [West](../../../../../../west/)\] \[ [Zentrum](../../../../../../zentrum/)\] \[ [Südwest](../../../../../../sudwest/)\]
  \[ [Süd](../../../../../../sud/)\] \[ [Südost](../../../../../../sudost/)\] \[ [Ost](../../../../../../ost/)\] \[ [Register](../../../../../../Register/register.html)\]
  \[ [Kontakt](../../../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../../../impressum/)\]

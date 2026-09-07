@@ -39,7 +39,7 @@ Die Orgel mit ihren 2547 Pfeifen stammte aus der Werkstatt der Dresdner Firma Ki
 
 **_Fotos:_** _Im Innenraum der Trinitatiskirche (2015)_
 
-![](../../../cubesdivider.gif)
+
 
 [![](../../../zentrum/johannstadt/trinitatiskirche/johanneskirche.jpg)](http://www.johanneskirchgemeinde.de)
 

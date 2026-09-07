@@ -3,7 +3,7 @@ title: "Reichsschmied"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![zum reichsschmied](../../../../../reichsschmied_nlafleurbannerh.gif)
+![zum reichsschmied](../../../../../reichsschmied_nlafleurbannerh.gif)
 
 * * *
 
@@ -15,13 +15,13 @@ date: 2024-02-17T22:13:44+01:00
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
+
 
 [![](../../../../../sudwest/hauptseitegorbitz.jpg)](../../../../../sudwest/gorbitz/)
 
 * * *
 
-[![](../../../../../werbunggro_2.jpg)](../../../../../Impressum/Werbung/werbung.html)
+
 
 
 ![](../../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/reichsschmied/gorbitzreichsschmied1.jpg)Der Gasthof Zum Reichsschmied, benannt zu Ehren des Reichsgründers Otto
@@ -53,6 +53,6 @@ Erst mit Verlegung des MDR nach Leipzig endete die Geschichte der Filmateliers. 
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif) \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
+ \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
  \[ [Nordost](../../../../../nordost/)\] \[ [West](../../../../../west/)\] \[ [Zentrum](../../../../../zentrum/)\] \[ [Südwest](../../../../../sudwest/)\]
  \[ [Süd](../../../../../sud/)\] \[ [Südost](../../../../../sudost/)\] \[ [Ost](../../../../../ost/)\] \[ [Register](../../../../../Register/register.html)\] \[ [Kontakt](../../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../../impressum/)\]

@@ -215,7 +215,7 @@ Oberhalb des Gorbitzer Hangs erreicht die Kesselsdorfer Straße die Fluren von G
 Zusammenhang mit dem Ausbau der Straße zum Autobahnzubringer wurden 2007 die Wohnhäuser Kesselsdorfer Straße 306 bis 310 sowie Nr. 271, 275 und 277 abgerissen. Seit dem 29. November 2008 verkehrt parallel zur Straße die
 Straßenbahn bis zur Gleisschleife in Pennrich. Unterhalb der Gleistrasse entstand ein 75 Meter langer Tunnel mit zwei Röhren für den Autoverkehr.
 
-![](../../../../cubesdivider.gif)
+
 
 [![](../../../../werbunglang2.jpg)](../../../../Impressum/Werbung/werbung.html)
 

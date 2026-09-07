@@ -3,7 +3,7 @@ title: "Schusterhaus"
 date: 2024-02-17T22:13:45+01:00
 ---
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![schusterhaus](../../../../../schusterhaus_nlafleurbannerh.gif)
+![schusterhaus](../../../../../schusterhaus_nlafleurbannerh.gif)
 
 * * *
 
@@ -13,17 +13,17 @@ date: 2024-02-17T22:13:45+01:00
 
 * * *
 
-![](../../../../../clearpixel.gif)
+
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
+
 
 [![](../../../../../west/cotta/hauptseitecotta.jpg)](../../../../../west/cotta/)
 
 * * *
 
-[![](../../../../../werbunggro_2.jpg)](../../../../../Impressum/Werbung/werbung.html)
+
 
 
 ![](../../../../../west/cotta/strassen_cotta/hamburger_strasse/schusterhaus/cottaschusterh.jpg)Das Schusterhaus entstand um 1890 in der Nähe der neuen Weißeritzmündung an

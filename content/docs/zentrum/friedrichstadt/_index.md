@@ -179,7 +179,7 @@ durch Schenkungen und Ankauf auf ca. 1800 Bände an. Die Bibliothek wechselte in
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 
-![](../../cubesdivider.gif)
+
 
 **Wer kann helfen?**
 

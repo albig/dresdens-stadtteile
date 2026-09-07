@@ -17,7 +17,7 @@ date: 2024-02-17T22:13:46+01:00
 
 * * *
 
-[![](../../../werbunggro_.jpg)](../../../Impressum/Werbung/werbung.html)
+
 
 
 ![](../../../west/leutewitz/leutewitzer_park/leutewpark.jpg)Das Gelände des heutigen Leutewitzer Parks wurde noch um 1900 als
@@ -57,7 +57,7 @@ Wiederherstellung des Volksparks. U. a. wurden zwei neue Plastiken Liegende mi
 folgte eine Studie zur Wiederherstellung der historischen Blickbeziehungen und des Wegenetzes im Park. Künftig soll dieser in Anlehnung an seinen historischen Zustand
 rekonstruiert werden. 2013 konnte bereits die einst vorhandene Rodelbahn wieder eingeweiht werden.
 
-![](../../../cubesdivider.gif)
+
 
 [![airline-direct 728x90 e](http://ad.zanox.com/ppv/?10219618C220738136)](http://ad.zanox.com/ppc/?10219618C220738136T)
 

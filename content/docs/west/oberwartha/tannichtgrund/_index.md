@@ -17,7 +17,7 @@ date: 2024-02-17T22:13:46+01:00
 
 * * *
 
-![](../../../werbunggro_.jpg)
+
 
 
 Der Tännichtgrund erstreckt sich auf Oberwarthaer und Niederwarthaer Flur und bildet zugleich die westliche Stadtgrenze Dresdens. Gebildet wird das Tal durch den Tännichtgrundbach, der ca. 300

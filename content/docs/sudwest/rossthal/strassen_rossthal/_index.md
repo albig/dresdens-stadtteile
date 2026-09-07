@@ -72,7 +72,7 @@ Hofjagden als Unterkunft für die Jagdgesellschaft genutzt wurden. 1794 wurde di
 Die Siedlung an der Rütlistraße wurde Ende der Dreißiger Jahre an Stelle des abgerissenen Gasthofes Roßthal angelegt. Der
 Name erinnert an die berühmte Bergwiese in der Schweiz, auf der die Gründung der Schweizer Eidgenossenschaft beschlossen wurde (Rütlischwur).
 
-![](../../../cubesdivider.gif)
+
 
 [![](../../../stadtplan.jpg)](http://www.dresden.de/de/09/stadtplan.php)
 

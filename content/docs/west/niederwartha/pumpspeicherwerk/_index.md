@@ -14,7 +14,7 @@ date: 2024-02-17T22:13:46+01:00
 * * *
 
 
-[![](../../../werbungklein2.jpg)](../../../Impressum/Werbung/werbung.html)
+
 
 
 ![](../../../west/niederwartha/pumpspeicherwerk/niederwpumpwerk1.jpg)Das Niederwarthaer Pumpspeicherwerk wurde 1927 gegen den Protest der umliegenden Gemeinden durch die Energieversorgung Groß-Dresden AG gebaut. Ziel des neuen Kraftwerkes war die Gewinnung zusätzlicher Elektroenergie in Spitzenzeiten, während die lastschwachen Zeiten zur Umwälzung des Wassers genutzt werden. Für das Pumpspeicherwerk entstanden der obere und untere Stausee, die mittels gewaltiger Rohrleitungen verbunden sind. Am unteren Stausee wurden das Turbinenhaus und ein Verwaltungsgebäude im Bauhausstil errichtet. Architekten waren Emil Högg und Kurt Beyer. Das Niederwarthaer Pumpspeicherwerk ging am 27. November 1929 noch vor seiner vollständigen Fertigstellung in Betrieb und war erstes leistungsfähiges Wasserkraftwerk seiner Art in der Welt.

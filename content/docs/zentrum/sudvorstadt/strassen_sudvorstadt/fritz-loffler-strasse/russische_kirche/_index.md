@@ -3,7 +3,7 @@ title: "Russische Kirche"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![russisch-orthodoxe kirche](../../../../../russische_kirche_nlafleurbannerh.gif)
+![russisch-orthodoxe kirche](../../../../../russische_kirche_nlafleurbannerh.gif)
 
 * * *
 
@@ -13,11 +13,11 @@ date: 2024-02-17T22:13:48+01:00
 
 * * *
 
-![](../../../../../clearpixel.gif)
+
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
+
 
 [![](../../../../../hauptseites_dvorstadt.jpg)](../../../../../zentrum/sudvorstadt/)
 
@@ -62,12 +62,12 @@ Geläut durch vier provisorische Neugüsse ersetzt. Nicht zuletzt durch den Zuzu
 1991/94 erfolgten umfangreiche Restaurierungsarbeiten. 2006 konnten die von Fred Krönke geschaffenen neuen Glasfenster eingebaut werden. 2010 wurden acht nach historischem Vorbild in Donezk (Ukraine) gegossene
 Bronzeglocken erworben, welche seitdem wieder im Glockenturm läuten.
 
-![](../../../../../cubesdivider.gif)
+
 
 [![](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/fritz-loffler-strasse/russische_kirche/russischekirche.jpg)](http://www.orthodox-dresden.de)
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif) \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
+ \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]
  \[ [Nordost](../../../../../nordost/)\] \[ [West](../../../../../west/)\] \[ [Zentrum](../../../../../zentrum/)\] \[ [Südwest](../../../../../sudwest/)\]
  \[ [Süd](../../../../../sud/)\] \[ [Südost](../../../../../sudost/)\] \[ [Ost](../../../../../ost/)\] \[ [Register](../../../../../Register/register.html)\] \[ [Kontakt](../../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../../impressum/)\]

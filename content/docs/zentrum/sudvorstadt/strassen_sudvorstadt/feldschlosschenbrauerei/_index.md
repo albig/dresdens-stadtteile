@@ -71,7 +71,7 @@ Gaststätte umgebaut wurde. Seit 1998 lädt hier das Stammhaus Feldschlößche
 
 _Etiketten der Feldschlösschenbrauerei aus den Jahren 1970 - 1990_
 
-![](../../../../cubesdivider.gif)
+
 
 [![](../../../../werbunglang.jpg)](../../../../Impressum/Werbung/werbung.html)
 

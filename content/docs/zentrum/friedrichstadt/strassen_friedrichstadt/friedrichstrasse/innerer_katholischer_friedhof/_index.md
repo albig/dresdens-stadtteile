@@ -3,15 +3,15 @@ title: "Innerer Katholischer Friedhof"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)![innerer katholischer friedhof](../../../../../innerer_katholischer_friedhof_nurbanlegendbannerh.gif)
+![innerer katholischer friedhof](../../../../../innerer_katholischer_friedhof_nurbanlegendbannerh.gif)
 
 * * *
 
-![](../../../../../clearpixel.gif)
+
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)
+
 
 [![](../../../../../hauptseitefriedrichstadt.jpg)](../../../../../zentrum/friedrichstadt/)
 
@@ -592,6 +592,6 @@ Albert von Sachsen (Enkel des letzten sächsischen Königs)
 
 * * *
 
-![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif)[![](../../../../../builtbynof.gif)](http://www.netobjects.com)![](../../../../../clearpixel.gif)![](../../../../../clearpixel.gif) \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\] \[ [Nordost](../../../../../nordost/)\] \[ [West](../../../../../west/)\] \[ [Zentrum](../../../../../zentrum/)\] \[ [Südwest](../../../../../sudwest/)\]
+ \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\] \[ [Nordost](../../../../../nordost/)\] \[ [West](../../../../../west/)\] \[ [Zentrum](../../../../../zentrum/)\] \[ [Südwest](../../../../../sudwest/)\]
  \[ [Süd](../../../../../sud/)\] \[ [Südost](../../../../../sudost/)\] \[ [Ost](../../../../../ost/)\] \[ [Register](../../../../../Register/register.html)\]
  \[ [Kontakt](../../../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../../../impressum/)\]

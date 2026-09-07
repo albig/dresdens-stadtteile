@@ -13,7 +13,7 @@ date: 2024-02-17T22:13:37+01:00
 
 * * *
 
-[![](../../../werbungklein2.jpg)](../../../Impressum/Werbung/werbung.html)
+
 
 
 Die Firma Advanced Micro Devices (AMD) wurde am 1. Mai 1969 in Sunnyvale/Kalifornien gegründet und gehört seit den 70er Jahren zu den international bedeutendsten Herstellern von Prozessoren und

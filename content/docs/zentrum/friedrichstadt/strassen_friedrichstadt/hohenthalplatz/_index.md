@@ -37,7 +37,7 @@ Nach der Umwandlung des benachbarten Marcolinipalais zum Städtischen Krankenhau
 
 Nach Verlegung der Weißeritz und der Verfüllung des ehemaligen Flußbettes ließ man das Antonsdenkmal 1915 zum Hohenthalplatz versetzen, wo es alle Wirren der Zeit überstand. 1999/2000 erfolgte eine umfassende Sanierung. Die Inschrift am Sockel lautet: _Anton dem Guetigen von den Bewohnern der Friedrichstadt d. XXVII Dec. MDCCCXXXV_.
 
-![](../../../../cubesdivider.gif)
+
 
 [![airline-direct 468x60 b](http://ad.zanox.com/ppv/?10219614C662543114)](http://ad.zanox.com/ppc/?10219614C662543114T)
 

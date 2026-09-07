@@ -105,7 +105,7 @@ Wettinschlößchen: Das Wettinschlößchen an der Meißner Landstraße 54 entsta
 genutzt. Zum Lokal gehörte auch ein kleiner Saal für Versammlungen und Veranstaltungen. Später nutzte eine Gummiwarenfabrik die Räume. In den Nachkriegsjahren übernahm das Theater der Jungen Generation den früheren
 Gasthof als Lager für Theaterrequisiten. Heute befindet sich im Gebäude ein privates Filmstudio.
 
-![](../../../../cubesdivider.gif)
+
 
 [![](../../../../werbunglang2.jpg)](../../../../Impressum/Werbung/werbung.html)
 
