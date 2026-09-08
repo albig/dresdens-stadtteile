@@ -3,7 +3,7 @@ title: "Bismarcksäule"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-![bismarcksäule](../../../bismarcksaule_nlafleurbannerh.gif)
+
 
 * * *
 
@@ -42,7 +42,7 @@ date: 2024-02-17T22:13:43+01:00
 [**www.bismarcktuerme.de**](http://www.bismarcktuerme.de)
 
 
-![](../../../sud/racknitz/bismarcksaule/r_ckbismarck.jpg)Die Idee zur Schaffung einer Bismarcksäule geht auf den 1890 gegründeten Dresdner Bismarck-
+Die Idee zur Schaffung einer Bismarcksäule geht auf den 1890 gegründeten Dresdner Bismarck-
 Denkmalausschuss zurück. Zum gleichen Zeitpunkt entstanden ähnliche Vereinigungen in zahlreichen deutschen Städten, die in der Folge zum Bau von Bismarcktürmen und -säulen an verschiedenen Orten
 führten. Der Entwurf zur Dresdner Säule wurde nach einem Architektenwettbewerb erstmals auf der Dresdner Bauausstellung 1900 präsentiert. Nach Wahl des Standortes auf der Franzenshöhe in unmittelbarer Nähe des [Moreaudenkmals](../../../sud/racknitz/schlacht_bei_dresden/) begannen im März 1905 die Arbeiten, die im folgenden Jahr
 beendet wurden. Architekt der Bismarcksäule war der junge Baumeister Wilhelm Kreis. Sein Entwurf, der den Namen Götterdämmerung trug, wurde in leicht abgewandelter Form in zahlreichen deutschen
@@ -50,7 +50,7 @@ Städten realisiert. Die Finanzierung der Dresdner Säule erfolgte zum Großteil
 wird von vier Säulen getragen, die die Stärke und Macht des früheren Reichskanzlers symbolisieren sollen. Als einziger
 plastischer Schmuck befindet sich an der Vorderseite der Reichsadler, der eine Schlange in seinen Krallen trägt. Um die Säule wurde ein heute nur noch teilweise vorhandener Vorplatz mit Treppenaufgängen angelegt.
 
-![](../../../sud/racknitz/bismarcksaule/r_cknb_cherverbrennung.jpg)
+
 Die Bismarcksäule, von deren Sockel sich ein weiter Ausblick über die Stadt bietet, war jedoch von Anfang an nicht als Aussichtsturm konzipiert. Auf der Turmplattform wurde eine Flammenschale angebracht,
 in der bei besonderen Anlässen Holz mit Hilfe von Gasöl entzündet werden konnte und deren Feuer dann weithin sichtbar leuchtete.  Bis 1941 fanden aller zwei Jahre am Tag der
 Sommersonnenwende Bismarck-Gedenkfeiern an der Säule statt, die meist mit einem Fackelzug durch die Stadt kombiniert wurden. 1931 übernahm die NSDAP-Ortsgruppe die Ausrichtung dieser Feiern, die die Popularität des

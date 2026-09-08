@@ -3,7 +3,7 @@ title: "Schlachthof"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![Schlachthof](../../../../Schlachthof_NIndBanner.GIF)
+
 
 * * *
 

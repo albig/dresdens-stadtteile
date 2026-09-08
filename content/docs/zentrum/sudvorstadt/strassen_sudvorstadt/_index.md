@@ -693,7 +693,7 @@ Vermögensfragen mit dem Freistaat Sachsen. Er erarbeitete dabei den 1924 unterz
 
 
 
-[![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
+[Südvorstadt auf OpenStreetMap](https://www.openstreetmap.org/search?query=Dresden+S%C3%BCdvorstadt)
 
 
 

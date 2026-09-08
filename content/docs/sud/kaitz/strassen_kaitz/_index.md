@@ -3,7 +3,7 @@ title: "Straßen Kaitz"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![straßen und plätze in kaitz](../../../strassen_kaitz_n1_banner2.gif)
+
 
 * * *
 
@@ -13,12 +13,12 @@ date: 2024-02-17T22:13:41+01:00
 
 [![altkaitz](../../../sud/kaitz/strassen_kaitz/altkaitz.jpg)](../../../Sud/Kaitz/Strassen_Kaitz/Altkaitz/altkaitz.html)
 
-![](../../../sud/kaitz/strassen_kaitz/bannewitzer_stra_e.jpg)
+
 
 Die Bannewitzer Straße, eine Seitenstraße der Boderitzer Straße,
 geht auf einen alten Fußweg nach Nöthnitz zurück, der 1876 zum Fahrweg ausgebaut wurde. 1904 erhielt sie den Namen Nöthnitzer Straße. Im Zusammenhang mit der Eingemeindung von Kaitz wurde sie 1926 nach dem nahegelegenen Ort Bannewitz in Bannewitzer Straße umbenannt. Der nördlich gelegene Teil der Straße jenseits des Kaitzbaches wird umgangssprachlich auch "Schulberg" genannt, da er zur 1844 eröffneten Kaitzer Schule führt. Im südlichen Teil liegt der sogenannte "Läuseberg", dessen Name an ein russisches Feldlager während der Schlacht bei Dresden und die schlimmen hygienischen Zustände in dieser Zeit erinnert. Hier befand sich ab 1900 auch der heute nicht mehr genutzte Wasserhochbehälter des Ortes, dessen bauliche Überreste noch vorhanden sind. Die Gebäude der Bannewitzer Straße stammen meist aus der ersten Hälfte des 20. Jahrhunderts, einige Baulücken wurden nach 1990 mit Eigenheimen geschlossen.
 
-![](../../../sud/kaitz/strassen_kaitz/kaitzratskeller.jpg)Ratskeller Kaitz: Das Eckhaus an der Kreuzung zur Boderitzer Straße (Nr. 12- _Foto_) wurde 1892 für den Schankwirt Robert Jüngling erbaut und hieß zunächst "Restaurant Thalschlösschen". Erst 1919 wechselte der Name unter den neuen Besitzern, der Familie Nestler in "Ratskeller Kaitz". In den 1930er Jahren fanden im Garten hinter dem Haus auch Volksfeste mit Vogelschießen und Schlachtfeste statt. 1945 befand sich hier ein Auffanglager für Ausgebombte, zeitweise auch ein Ausweichstandort für die als Lazarett genutzte Schule.
+Ratskeller Kaitz: Das Eckhaus an der Kreuzung zur Boderitzer Straße (Nr. 12- _Foto_) wurde 1892 für den Schankwirt Robert Jüngling erbaut und hieß zunächst "Restaurant Thalschlösschen". Erst 1919 wechselte der Name unter den neuen Besitzern, der Familie Nestler in "Ratskeller Kaitz". In den 1930er Jahren fanden im Garten hinter dem Haus auch Volksfeste mit Vogelschießen und Schlachtfeste statt. 1945 befand sich hier ein Auffanglager für Ausgebombte, zeitweise auch ein Ausweichstandort für die als Lazarett genutzte Schule.
 
 In den 1950er Jahren wandelte sich der "Ratskeller" wieder zu einer typischen Vorstadtkneipe mit Billiardtischen und Treffpunkt für Skat- und Doppelkopfspieler. Auch der 1949 gegründete Volkschor Kaitz nutzte das Lokal als Probenraum. Hinzu kamen Familienfeste, Schulungen und Versammlungen. 1982 übernahm die Familie Mittag das Traditionslokal und führte es bis zur Schließung 1995. Heute werden die ehemaligen Gasträume als Büro genutzt.
 
@@ -26,15 +26,15 @@ In den 1950er Jahren wandelte sich der "Ratskeller" wieder zu einer typischen Vo
 
 Die heutige Boderitzer Straße trug früher in Kaitz den Namen Leichenweg, da sie die Verbindung des Dorfes zur Leubnitzer Kirche und dem dortigen Friedhof war. Im Zusammenhang mit dem Bau einiger Mietshäuser wurde sie 1899 zur Fahrstraße ausgebaut und ab 1904 Leubnitzer Straße genannt. Erstmals in Kaitz wurden für diese Straße fortlaufende Hausnummern vergeben. 1926 erfolgte die Vereinigung mit der Mockritzer Friedrich-August-Straße zur [Boderitzer Straße](../../../sud/mockritz/strassen_mockritz/). Die Flurgrenze verläuft zwischen den Häusern 69 und 71.
 
-![](../../../sud/kaitz/strassen_kaitz/kaitzboderitzerstr.jpg)Die Wohnhäuser an der Boderitzer Straße stammen aus der Zeit der zweiten Ortserweiterung in den Jahren 1894 und 1901. Meist handelt es sich um typische Würfelhäuser, wie sie in vielen Dresdner Vorstädten in dieser Zeit typisch waren. Bewohner waren meist Arbeiter und Angestellte. Zudem gab es hier mehrere Geschäfte, u.a. für Lebensmittel (Nr. 78, 91 und 95), eine Verkaufsstelle des Konsumvereins "Vorwärts" (Nr. 81), eine Fleischerei (Nr. 82) und eine Drogerie (Nr. 99). Im Haus Nr. 83 betrieb Hans Gehre seine Bäckerei. Der Bäckermeister war begeisterter Radrennfahrer und nahm 1936 sogar an den Olympischen Spielen in Berlin teil. Im Hintergebäude des Grundstücks Boderitzer Straße 79 hatte Adolf Neumann (1868-1942) seine Dekorationsmalerei. Neumann schuf auch einige Ölgemälde und gehörte bis 1918 dem Kaitzer Gemeinderat an. Aus der Tischlerei Kurt Trögers (Nr. 95) ging nach 1945 die PGH Tischlerhandwerk und die Bau- und Möbeltischlerei Bannewitz hervor. Zudem gab es vor 1945 einige Kleinbetriebe, so eine Bettfedernreinigung (Nr. 93) und die Hutfabrik Rüdiger & Anders (Nr. 95).
+Die Wohnhäuser an der Boderitzer Straße stammen aus der Zeit der zweiten Ortserweiterung in den Jahren 1894 und 1901. Meist handelt es sich um typische Würfelhäuser, wie sie in vielen Dresdner Vorstädten in dieser Zeit typisch waren. Bewohner waren meist Arbeiter und Angestellte. Zudem gab es hier mehrere Geschäfte, u.a. für Lebensmittel (Nr. 78, 91 und 95), eine Verkaufsstelle des Konsumvereins "Vorwärts" (Nr. 81), eine Fleischerei (Nr. 82) und eine Drogerie (Nr. 99). Im Haus Nr. 83 betrieb Hans Gehre seine Bäckerei. Der Bäckermeister war begeisterter Radrennfahrer und nahm 1936 sogar an den Olympischen Spielen in Berlin teil. Im Hintergebäude des Grundstücks Boderitzer Straße 79 hatte Adolf Neumann (1868-1942) seine Dekorationsmalerei. Neumann schuf auch einige Ölgemälde und gehörte bis 1918 dem Kaitzer Gemeinderat an. Aus der Tischlerei Kurt Trögers (Nr. 95) ging nach 1945 die PGH Tischlerhandwerk und die Bau- und Möbeltischlerei Bannewitz hervor. Zudem gab es vor 1945 einige Kleinbetriebe, so eine Bettfedernreinigung (Nr. 93) und die Hutfabrik Rüdiger & Anders (Nr. 95).
 
-![](../../../sud/kaitz/strassen_kaitz/kaitzboderitzerstr2.jpg)Auffällig sind die Eckhäuser zur Bannewitzer Straße, in dem sich früher die Gaststätte "Ratskeller Kaitz" _(Foto)_ und das Gemeindeamt befanden, sowie die beiden Doppelhäuser Boderitzer Straße 84/86 und 88/90. Ab 1901 nutzte der Gemeinderat zunächst das Erdgeschoss der Boderitzer Straße 94, bevor 1913 das Haus Boderitzer Straße 92 bezogen wurde. Neben dem Gemeindeamt befanden sich hier bis zur Eingemeindung 1921 auch das Standesamt und das Ortsgericht. Auch die Kaitzer Post hatte von 1913 bis 1955 und 1964 bis 1978 (Nr. 91), 1956 bis 1959 (Nr. 99) und 1979 bis 1991 (Nr. 78) auf der Boderitzer Straße ihr Domizil. Im Haus Boderitzer Straße 85 war zeitweise die Polizeidienststelle mit Arrestzelle im Hinterhaus untergebracht.
+Auffällig sind die Eckhäuser zur Bannewitzer Straße, in dem sich früher die Gaststätte "Ratskeller Kaitz" _(Foto)_ und das Gemeindeamt befanden, sowie die beiden Doppelhäuser Boderitzer Straße 84/86 und 88/90. Ab 1901 nutzte der Gemeinderat zunächst das Erdgeschoss der Boderitzer Straße 94, bevor 1913 das Haus Boderitzer Straße 92 bezogen wurde. Neben dem Gemeindeamt befanden sich hier bis zur Eingemeindung 1921 auch das Standesamt und das Ortsgericht. Auch die Kaitzer Post hatte von 1913 bis 1955 und 1964 bis 1978 (Nr. 91), 1956 bis 1959 (Nr. 99) und 1979 bis 1991 (Nr. 78) auf der Boderitzer Straße ihr Domizil. Im Haus Boderitzer Straße 85 war zeitweise die Polizeidienststelle mit Arrestzelle im Hinterhaus untergebracht.
 
 Autohaus Friedewald (Nr. 75): Auf diesem Grundstück eröffnete 1924 der Stellmacher Martin Friedewald seine Firma zur Herstellung von Leitern, Schubkarren, Handwagen und ähnlichen Fahrzeugen. Außerdem fertigte der Betrieb Zubehörteile und Karosserien für Kraftfahrzeuge, die zu dieser Zeit noch einen hohen Anteil an Holzteilen besaßen. Mit der Weiterentwicklung der Kfz-Technik kamen ab 1930 zunehmend auch Reparaturen an Blechkarossen hinzu. Da das Kaitzer Grundstück nun nicht mehr den Anforderungen genügte, verlegte Friedewald seine Werkstatt 1938 nach Räcknitz, wo sie als "Autohaus Friedewald" bis heute existiert.
 
 ![franzweg](../../../sud/kaitz/strassen_kaitz/a_rectangle_660.gif)
 
-![](../../../sud/kaitz/strassen_kaitz/kaitzfranzweg.jpg)Der parallel zum Kaitzbach verlaufende Franzweg erhielt seinen Namen 1926 nach dem früheren Gemeindevorstand von Kaitz Adolf Max Franz (1860-1916). Zuvor wurde er Schmiedegäßchen genannt. Einer seiner Vorfahren verkaufte hier 1839 ein Grundstück, auf dem 1844 das neue Kaitzer [Schulhaus](../../../sud/kaitz/) errichtet wurde. Die mehrfach erweiterte Schule wird heute von der 71. Grundschule "Am Kaitzbach" genutzt.
+Der parallel zum Kaitzbach verlaufende Franzweg erhielt seinen Namen 1926 nach dem früheren Gemeindevorstand von Kaitz Adolf Max Franz (1860-1916). Zuvor wurde er Schmiedegäßchen genannt. Einer seiner Vorfahren verkaufte hier 1839 ein Grundstück, auf dem 1844 das neue Kaitzer [Schulhaus](../../../sud/kaitz/) errichtet wurde. Die mehrfach erweiterte Schule wird heute von der 71. Grundschule "Am Kaitzbach" genutzt.
 
 Das 1849 umgebaute Wohngebäude Franzweg Nr. 12 _(Foto)_ gehört zu den ältesten Häusern in Kaitz und steht unter Denkmalschutz. Eine Inschrift am Türsturz von 1849 erinnert an den früheren Besitzer J. G. Keller. In diesem Gebäude wurde am 21. Juli 1894 der Pfarrer Paul Richter geboren. Richter gehörte in der NS-Zeit der Bekennenden Kirche an und wurde 1942 in das KZ Dachau deportiert, wo er im August an Hungertyphus starb. An der Einmündung in die Possendorfer Straße hat die [Freiwillige Feuerwehr Kaitz](../../../sud/kaitz/) ihr Domizil. Bis 1990 gab es hier zudem einen Kindergarten. Bemerkenswert sind auch die beiden Sonnenuhren an den Wohnhäusern Franzweg 18 und 20.
 
@@ -50,7 +50,7 @@ Die große Straßenschleife Innsbrucker Straße wurde 1925 angelegt, um den Durc
 
 ![kaitzer weinberg](../../../sud/kaitz/strassen_kaitz/a_rectangle_662.gif)
 
-![](../../../sud/kaitz/strassen_kaitz/kaitzerweinberg.jpg)Die Straße Kaitzer Weinberg wurde als Fuß- und Wirtschaftsweg nach Kleinpestitz am Nordrand des Kaitzbachtales angelegt. Von 1908 bis 1926 trug sie den Namen Weinbergstraße. 1918 wurde der Weg im Rahmen von Notstandsarbeiten ausgebaut. Nachdem bereits um 1912 das heutige "Pfarrer-Richter-Haus" (Nr. 16) und das Café Weinberg (Nr. 12) enstanden waren, folgten ab ca. 1930 bis zum Zweiten Weltkrieg zahlreiche individuell gestaltete Ein- und Zweifamilienhäuser.
+Die Straße Kaitzer Weinberg wurde als Fuß- und Wirtschaftsweg nach Kleinpestitz am Nordrand des Kaitzbachtales angelegt. Von 1908 bis 1926 trug sie den Namen Weinbergstraße. 1918 wurde der Weg im Rahmen von Notstandsarbeiten ausgebaut. Nachdem bereits um 1912 das heutige "Pfarrer-Richter-Haus" (Nr. 16) und das Café Weinberg (Nr. 12) enstanden waren, folgten ab ca. 1930 bis zum Zweiten Weltkrieg zahlreiche individuell gestaltete Ein- und Zweifamilienhäuser.
 
 Die hier gelegenen Grundstücke am Hang des Kaitzbachtales nutzten die Kaitzer Einwohner ab ca. 1650 bis 1887 als Weinberge. An diese Vergangenheit erinnert ein 1686 errichtetes Weinberghaus und eine historische Plänermauer im Grundstück Nr. 14. In der Mauer neben dem Eingangstor sieht man eine auf das Jahr 1686 datierte Schrifttafel sowie die Initialen der damaligen Besitzer der Weinberge, die Familien Clauß, Palitzsch und Winkler. Das stark verfallene Gebäude, welches bis zu einem Unwetter 1962 auf dem Dach auch eine Wetterfahne mit Weinbaumotiv besaß, konnte nach 1990 weitgehend originalgetreu wiederaufgebaut werden. Gleichzeitig entstand ein heftig umstrittener moderner Neubau auf diesem Grundstück _(Foto)_.
 
@@ -88,7 +88,7 @@ Die 1954 eingeführte Straßenbezeichnung Zschaukegraben bezieht sich auf den ne
 
 
 
-[![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
+[Kaitz auf OpenStreetMap](https://www.openstreetmap.org/search?query=Dresden+Kaitz)
 
 
 

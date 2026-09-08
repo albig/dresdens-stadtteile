@@ -3,7 +3,7 @@ title: "Rommler Jonas"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![römmler & jonas](../../../../../rommler___jonas_nindbanner.gif)
+
 
 * * *
 

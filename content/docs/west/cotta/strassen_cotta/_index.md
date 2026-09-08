@@ -232,7 +232,7 @@ Deutsch-Französischen Krieg 1870/71 teil. 1946 erfolgte die Umbenennung in Zöl
 
 
 
-[![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
+[Cotta auf OpenStreetMap](https://www.openstreetmap.org/search?query=Dresden+Cotta)
 
 
 

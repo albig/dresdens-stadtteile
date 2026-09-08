@@ -188,7 +188,7 @@ dieser Weg an Bedeutung und verschwand schließlich aus dem Stadtbild. Als Rests
 
 
 
-[![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
+[Zschertnitz auf OpenStreetMap](https://www.openstreetmap.org/search?query=Dresden+Zschertnitz)
 
 
 

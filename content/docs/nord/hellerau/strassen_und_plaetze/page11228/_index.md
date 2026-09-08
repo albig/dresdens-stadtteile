@@ -294,7 +294,7 @@ Namen Wilhelm-Külz-Straße.
 
 
 
-[![](../../../../stadtplan.jpg)](http://stadtplan2.dresden.de/spdd.aspx?permalink=1TUvHfel)
+[Hellerau auf OpenStreetMap](https://www.openstreetmap.org/search?query=Dresden+Hellerau)
 
 
 

@@ -302,7 +302,7 @@ _diese Eichen, Eurer Kraft und Taten Zeugen._
 
 
 
-[![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/spdd.aspx?permalink=svneZmD)
+[Langebrück auf OpenStreetMap](https://www.openstreetmap.org/search?query=Dresden+Langebr%C3%BCck)
 
 
 

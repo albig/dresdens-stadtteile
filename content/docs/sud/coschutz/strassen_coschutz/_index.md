@@ -274,7 +274,7 @@ Zu den jüngeren Gebäuden gehören der 1965 von der Wohnungsbaugenossenschaft "
 
 
 
-[![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
+[Coschütz auf OpenStreetMap](https://www.openstreetmap.org/search?query=Dresden+Cosch%C3%BCtz)
 
 
 

@@ -10,7 +10,7 @@ date: 2024-02-17T22:13:43+01:00
 
 * * *
 
-![](../../../../sud/plauen/strassen_plauen/altplauen/plauenbahnhof2.jpg)
+
 
 **Empfangsgebäude des Plauener Bahnhofs**
 

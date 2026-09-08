@@ -136,7 +136,7 @@ Die kurze Meridianstraße entstand Anfang des 20. Jahrhunderts zur Erschließung
 
 
 
-[![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
+[Rähnitz auf OpenStreetMap](https://www.openstreetmap.org/search?query=Dresden+R%C3%A4hnitz)
 
 
 

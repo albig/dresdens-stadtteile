@@ -209,7 +209,7 @@ Dittrich, der durch sein tragisches Schicksal als der [schlafende Bremser von 
 
 
 
-[![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
+[Naußlitz auf OpenStreetMap](https://www.openstreetmap.org/search?query=Dresden+Nau%C3%9Flitz)
 
 
 

@@ -3,7 +3,7 @@ title: "Dresdner Sportclub 1898"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![dresdner sportclub 1898](../../../../dsc_nlafleurbannerh.gif)
+
 
 * * *
 

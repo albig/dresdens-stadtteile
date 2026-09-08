@@ -63,7 +63,7 @@ dem Denkmal beigesetzt. Das Monument stellt eines der wenigen künstlerischen Ze
 
 
 
-![](../../../Sud/Kaitz/Elisa-Cover.jpeg)**Buchtipp: Christine Fischer "Elisa und der Schatten Napoleons", Taschenbuch (348 Seiten) (ISBN 978-3741208010)**
+**Buchtipp: Christine Fischer "Elisa und der Schatten Napoleons", Taschenbuch (348 Seiten) (ISBN 978-3741208010)**
 
 Frühjahr 1813. Seit acht Jahren leidet Dresden unter der französischen Besatzung. Einquartierung, Hunger und Krankheit drängen die Bürger an den Rand des Erträglichen. Auch die junge Elisa Tilla, die Pirnaer Apothekertochter, die 1806 hoffnungsvoll in die Residenzstadt kommt. Von einem traumatischen Kindheitserlebnis verfolgt, von ihrer Jugendliebe verlassen, sucht sie mutig ihren Platz im Leben und trotzt allen Schicksalsschlägen. Doch im August 1813 geschieht das Unfassbare: Die Armeen der Verbündeten stehen vor Dresden, bereit, dem Eroberer die Entscheidungsschlacht aufzuzwingen. Napoleon gewinnt die Schlacht. Danach beginnt für die Menschen in der eingeschlossenen Stadt eine Leidenszeit von apokalyptischem Ausmaß.
 

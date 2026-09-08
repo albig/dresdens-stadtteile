@@ -244,7 +244,7 @@ Umgebung. Im Zuge der Stadterneuerung wurden am Wilsdruffer Ring bis 2006 zahlre
 
 
 
-[![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
+[Gorbitz auf OpenStreetMap](https://www.openstreetmap.org/search?query=Dresden+Gorbitz)
 
 
 

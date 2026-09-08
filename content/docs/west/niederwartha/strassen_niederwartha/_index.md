@@ -88,7 +88,7 @@ Bäckereiverkaufsstelle genutzt. Heute dient die ehemalige Mühle als Wohnhaus, 
 
 
 
-[![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
+[Niederwartha auf OpenStreetMap](https://www.openstreetmap.org/search?query=Dresden+Niederwartha)
 
 
 

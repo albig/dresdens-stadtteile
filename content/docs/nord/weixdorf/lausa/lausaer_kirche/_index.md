@@ -31,15 +31,15 @@ date: 2024-02-17T22:13:35+01:00
 
 * * *
 
-![](../../../../nord/weixdorf/lausa/lausaer_kirche/wx_roller.jpg)
+
 
 _Porträt Pastor Rollers_
 
-![](../../../../nord/weixdorf/lausa/lausaer_kirche/wx_rollergrab.jpg)
+
 
 _Grab Pastor Rollers auf dem Lausaer Kirchhof_
 
-![](../../../../nord/weixdorf/lausa/lausaer_kirche/wx_pastorengräber.jpg)
+
 
 _Pastorengräber an der Kirchenmauer_
 
@@ -54,7 +54,7 @@ Mit Unterstützung der Hermsdorfer Rittergutsherrschaft wurde die Kirche ab 1607
 
 ![](../../../../nord/weixdorf/lausa/lausaer_kirche/lausakirche2.jpg)Der jetzige Kirchenbau geht auf den letzten größeren Umbau des Jahres 1650 zurück. Zehn Jahre später entstand der noch heute vorhandene Anbau mit der Sakristei und einer darüber liegenden Betstube. 1729 und 1786 sind Renovierungen der Lausaer Kirche in den Annalen verzeichnet. Im 18. Jahrhundert war sie Wirkungsort des bekannten Pfarrers David Samuel Roller. Roller war als volkstümlicher Kirchenmann bekannt und eng mit der Malerfamilie Kügelgen befreundet. Wilhelm von Kügelgen, der 1816 in Lausa konfirmiert wurde, setzte ihm in seinen Jugenderinnerungen eines alten Mannes ein literarisches Denkmal. Roller verstarb 1850 und liegt auf dem Kirchhof begraben. Nach ihm wird die Kirche heute oft auch Pastor-Roller-Kirche genannt.
 
-![](../../../../nord/weixdorf/lausa/lausaer_kirche/wx_innenraum.jpg)Wenige Jahre nach Rollers Tod erfolgten erneut Veränderungen im Innenraum. So wurde 1855 eine Orgel eingebaut. 1871 erhielt die Kirche drei Bronzeglocken, die 1917 eingeschmolzen und nach dem Ersten Weltkrieg durch Stahlglocken ersetzt wurden. Eine umfassende Erneuerung des Innenraumes nahm 1912 der Lausaer Architekt Reuter vor. Dabei wurden auch die Bilder an der Empore geschaffen, die Szenen aus der biblischen Geschichte zeigen und von J. P. Herrmann und D. Ricken stammen. Gleichzeitig ersetzte die Gemeinde die bisherige Orgel durch eine neue der Firma Jahn. Sehenswert sind auch die aus dem 18. Jahrhundert stammende Saaldecke des Innenraumes sowie die einstige Patronatsloge der Hermsdorfer Rittergutsbesitzer, die heute eine kleine Ausstellung zur Kirchengeschichte beherbergt. Die 1986/87 restaurierte Lausaer Kirche ist als Pfarrkirche auch für die Orte Hermsdorf und Grünberg und die heutigen Weixdorfer Ortsteile zuständig _(Foto um 1930: Walter Möbius - SLUB / Fotothek)._
+Wenige Jahre nach Rollers Tod erfolgten erneut Veränderungen im Innenraum. So wurde 1855 eine Orgel eingebaut. 1871 erhielt die Kirche drei Bronzeglocken, die 1917 eingeschmolzen und nach dem Ersten Weltkrieg durch Stahlglocken ersetzt wurden. Eine umfassende Erneuerung des Innenraumes nahm 1912 der Lausaer Architekt Reuter vor. Dabei wurden auch die Bilder an der Empore geschaffen, die Szenen aus der biblischen Geschichte zeigen und von J. P. Herrmann und D. Ricken stammen. Gleichzeitig ersetzte die Gemeinde die bisherige Orgel durch eine neue der Firma Jahn. Sehenswert sind auch die aus dem 18. Jahrhundert stammende Saaldecke des Innenraumes sowie die einstige Patronatsloge der Hermsdorfer Rittergutsbesitzer, die heute eine kleine Ausstellung zur Kirchengeschichte beherbergt. Die 1986/87 restaurierte Lausaer Kirche ist als Pfarrkirche auch für die Orte Hermsdorf und Grünberg und die heutigen Weixdorfer Ortsteile zuständig _(Foto um 1930: Walter Möbius - SLUB / Fotothek)._
 
 In der nordöstlichen Ecke des Pfarrgartens steht die inzwischen ca. 20 Meter hohe sogenannte Dohna-Eiche. Sie wurde 1815 anlässlich ihres 10. Todestages zu Ehren der Burggräfin Marianna Amalia zu Dohna (1779-1805) gepflanzt und steht heute unter Naturschutz. Ein weiterer Gedenkbaum ist die in der Nähe befindliche Lutherlinde. Der ursprüngliche Baum wurde Anfang November 1883 zu Ehren Martin Luthers auf dem Kirchhof gepflanzt und am 23. Januar 1958 zum Naturdenkmal erklärt. Unsachgemäße Pflegearbeiten führten in den 1960er Jahren jedoch zu schweren Schäden und dem Absterben der Linde. Als Ersatz wurde ein einige Jahre jüngerer Baum als Lutherlinde gewidmet. An seinem Stamm ist ein vom Weixdorfer Maler und Bildhauer Franz Rädlein geschaffenes Flachbild des Reformators angebracht.
 

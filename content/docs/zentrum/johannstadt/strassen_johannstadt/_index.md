@@ -743,7 +743,7 @@ Patente die Erfindung des Iren Louis Brennan in die Realität umsetzen wollte. D
 
 
 
-[![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
+[Johannstadt auf OpenStreetMap](https://www.openstreetmap.org/search?query=Dresden+Johannstadt)
 
 
 

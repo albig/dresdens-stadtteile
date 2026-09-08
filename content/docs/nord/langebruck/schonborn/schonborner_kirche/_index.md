@@ -3,7 +3,7 @@ title: "Schönborner Kirche"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![schönborner kirche](../../../../schonborner_kirche_nlafleurbannerh.gif)
+
 
 * * *
 
@@ -23,10 +23,10 @@ date: 2024-02-17T22:13:32+01:00
 
 * * *
 
-![](../../../../nord/langebruck/schonborn/schonborner_kirche/kirche_sch_nborn.jpg)
 
 
-![](../../../../nord/langebruck/schonborn/schonborner_kirche/sch_nbornkirche.jpg)Die erste Kapelle des Ortes wurde vermutlich bereits um 1250 errichtet. Genauere Angaben
+
+Die erste Kapelle des Ortes wurde vermutlich bereits um 1250 errichtet. Genauere Angaben
 aus der Frühzeit fehlen, da alle Dokumente zur Kirchengeschichte bei einem Brand im 17. Jahrhundert verloren gingen. 1555 wird diese Kapelle als Filialkirche der Radeberger
 Stadtkirche bestätigt. Zwischen 1587 und 1608 entstand an gleicher Stelle eine neue Dorfkirche, die nach ihrer Zerstörung durch einen Blitzschlag in den Jahren 1653 bis 1664
 wiederaufgebaut wurde. Dabei erhielt der schlichte Bau im Wesentlichen sein heutiges Aussehen mit dem achteckigen Dachreiter, welcher einen Kirchturm ersetzt. Die Weihe erfolgte

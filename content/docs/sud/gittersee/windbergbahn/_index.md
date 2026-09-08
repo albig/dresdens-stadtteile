@@ -3,7 +3,7 @@ title: "Windbergbahn"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![Windbergbahn](../../../Windbergbahn_NIndBanner.GIF)
+
 
 * * *
 

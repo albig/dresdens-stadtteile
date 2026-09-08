@@ -35,7 +35,7 @@ Die Orgel mit ihren 2547 Pfeifen stammte aus der Werkstatt der Dresdner Firma Ki
 
 ![](../../../zentrum/johannstadt/trinitatiskirche/johannsttrinitatiskirche2.jpg)Die Bomben des Jahres 1945 beschädigten auch die Trinitatiskirche, deren Kirchenschiff bis auf die Außenmauern zerstört wurde. Erhalten blieben einige Nebenräume und der Kirchturm. _(Foto)_. Ursprünglich war ein Wiederaufbau der Kirchenruine geplant, welcher jedoch mangels Baumaterialien und aus finanziellen Gründen nicht zu Stande kam. Stattdessen nutzt die Gemeinde für ihre Gottesdienste das Anfang der 1960er Jahre wiederaufgebaute Gemeindehaus an der Fiedlerstraße 2. Nachdem durch den Beschluss zum Wiederaufbau der Frauenkirche Dresdens bekannteste Kirchenruine verschwand, entschloss man sich Mitte der 1990er Jahre, die Trinitatiskirche in ihrem derzeitigen Zustand zu belassen und künftig als Mahnmal für die Opfer des Zweiten Weltkrieges zu betrachten. 1996 wurde dafür ein Förderverein gegründet. Im beräumten Innenraum finden heute regelmäßig Open-Air-Gottesdienste und Konzerte statt. Die Räume im Kirchturm werden als Jugendtreff genutzt. Seit 2001 gehört die frühere Trinitatisgemeinde gemeinsam mit der Striesener Erlöser-Andreas-Gemeinde zur Johanneskirchgemeinde.
 
-![](../../../zentrum/johannstadt/trinitatiskirche/johannsttrinitatiskirche3.jpg)![](../../../zentrum/johannstadt/trinitatiskirche/johannsttrinitatiskirche4.jpg)
+
 
 **_Fotos:_** _Im Innenraum der Trinitatiskirche (2015)_
 

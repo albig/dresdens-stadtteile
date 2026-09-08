@@ -3,7 +3,7 @@ title: "Dresden - Görlitz"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![Dresden - Görlitz](../../../Dresden_-_Gorlitz_NIndBanner.GIF)
+
 
 * * *
 

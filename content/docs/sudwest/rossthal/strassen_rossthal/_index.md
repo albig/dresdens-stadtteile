@@ -74,7 +74,7 @@ Name erinnert an die berühmte Bergwiese in der Schweiz, auf der die Gründung d
 
 
 
-[![](../../../stadtplan.jpg)](http://www.dresden.de/de/09/stadtplan.php)
+[Roßthal auf OpenStreetMap](https://www.openstreetmap.org/search?query=Dresden+Ro%C3%9Fthal)
 
 
 

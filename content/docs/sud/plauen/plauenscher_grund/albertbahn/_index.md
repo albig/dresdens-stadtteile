@@ -3,7 +3,7 @@ title: "Albertbahn"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-![Albertbahn](../../../../Albertbahn_NIndBanner.GIF)
+
 
 * * *
 

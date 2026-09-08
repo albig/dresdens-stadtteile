@@ -392,7 +392,7 @@ welches seinen Standort zuvor am alten Dorfplatz hatte. Heute befindet sich an s
 
 
 
-[![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
+[Plauen auf OpenStreetMap](https://www.openstreetmap.org/search?query=Dresden+Plauen)
 
 
 

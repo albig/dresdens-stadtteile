@@ -155,7 +155,7 @@ das bereits im Mittelalter untergegangene Dorf Domlitz, dessen Name in den Bezei
 
 
 
-[![](../../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
+[Mobschatz auf OpenStreetMap](https://www.openstreetmap.org/search?query=Dresden+Mobschatz)
 
 
 

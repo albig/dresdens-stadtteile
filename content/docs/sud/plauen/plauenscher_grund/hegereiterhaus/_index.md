@@ -3,7 +3,7 @@ title: "Hegereiterhaus"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-![hegereiterhaus](../../../../hegereiterhaus_nlafleurbannerh.gif)
+
 
 * * *
 
@@ -25,7 +25,7 @@ date: 2024-02-17T22:13:43+01:00
 
 
 
-![](../../../../sud/plauen/plauenscher_grund/hegereiterhaus/plaugrundforsth.jpg)Das Hegereiterhaus entstand 1722 in der Nähe der heutigen
+Das Hegereiterhaus entstand 1722 in der Nähe der heutigen
 Felsenkellerbrauerei als Sitz des Plauener Revierförsters. Nach Erwerb eines Teiles vom Grundstück der Buschmühle konnte der schlichte zweigeschossige Fachwerkbau innerhalb weniger Monate errichtet werden. Die Baukosten
 beliefen sich auf 614 Taler. Außerdem mussten die zum Dresdner Amt gehörenden Dörfer Holz aus der Dresdner Heide anliefern. Neben den Dienst- und Wohnräumen des Hegereiters gehörten auch Geräteschuppen
 und Pferdestall zum Objekt. Später entstanden noch ein Schießstand sowie eine Küche zur Versorgung kurfürstlicher Jagdgesellschaften. Im 18. Jahrhundert galt der Plauensche Grund als beliebtes Jagdrevier der Kurfürsten.

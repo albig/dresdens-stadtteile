@@ -216,7 +216,7 @@ Volkshelden. Umstritten ist jedoch seine Rolle in der Nazizeit sowie ein Ermittl
 
 
 
-[![](../../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
+[Gompitz auf OpenStreetMap](https://www.openstreetmap.org/search?query=Dresden+Gompitz)
 
 
 

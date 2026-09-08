@@ -123,7 +123,7 @@ Der Weg Zur Schäferei erinnert an die einstige Schäferei des Klostergutes. Die
 
 
 
-[![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
+[Oberwartha auf OpenStreetMap](https://www.openstreetmap.org/search?query=Dresden+Oberwartha)
 
 
 

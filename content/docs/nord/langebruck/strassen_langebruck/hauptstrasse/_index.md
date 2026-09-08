@@ -42,7 +42,7 @@ Feuerwehrmuseum (Nr. 38): Das Gebäude wurde 1898 als Spritzenhaus für die vier
 
 ![](../../../../nord/langebruck/strassen_langebruck/hauptstrasse/langeebr_ckteichm_hle.jpg)Teichmühle (Nr. 50): Auf diesem Grundstück befand sich einst die 1524 erstmals genannte Teichmühle unterhalb des noch heute bestehenden Mühlteiches. Besitzer war der Förster Matthes Günther, der zugleich eine Brettschneidemühle in der Dresdner Heide betrieb. 1731/32 erfolgte im Mühlteich der Einbau von Rechen und Absperrgattern zur Karpfenzucht. Das heutige Gebäude entstand 1804 und wurde um 1930 zum Wohnhaus umgebaut. Über der Tür erinnert ein Schlussstein an den Neubau im 19. Jahrhundert.
 
-![](../../../../cubesdivider1.gif)
+
 
 
 

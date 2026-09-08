@@ -8,7 +8,7 @@ date: 2024-02-17T22:13:46+01:00
 
 
 
-![](../../../West/Mobschatz/Podemus/wapppodemus.JPG)
+
 
 **Gemeindesiegel von Podemus**
 

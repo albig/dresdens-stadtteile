@@ -3,7 +3,7 @@ title: "Bergbaubetrieb Willy Agatz"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![Bergbaubetrieb Willy Agatz](../../../Bergbaubetrieb_Willy_Agatz_NIndBanner.GIF)
+
 
 * * *
 

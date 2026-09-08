@@ -3,7 +3,7 @@ title: "Niederwarthaer Elbbrücken"
 date: 2024-02-17T22:13:46+01:00
 ---
 
-![niederwarthaer elbbrücken](../../../niederwarthaer_elbbrucke_nconsolebanner.gif)
+
 
 * * *
 

@@ -3,7 +3,7 @@ title: "Kümmelschänke"
 date: 2024-02-17T22:13:46+01:00
 ---
 
-![kümmelschänke](../../../../kummelschanke_nlafleurbannerh.gif)
+
 
 * * *
 
@@ -26,7 +26,7 @@ date: 2024-02-17T22:13:46+01:00
 
 
 
-![](../../../../west/omsewitz/strassen_omsewitz/kummelschanke/omsewk_mmel.jpg)Die Geschichte der Kümmelschänke reicht bis ins 18. Jahrhundert zurück. Das heutige
+Die Geschichte der Kümmelschänke reicht bis ins 18. Jahrhundert zurück. Das heutige
 Gebäude entstand 1737 und erhielt seinen Namen vermutlich nach dem hier ausgeschenkten Kümmelschnaps. Zeitweise wurde das Lokal auch Rosengarten genannt.
 Bereits vor dem Zweiten Weltkrieg war die Kümmelschänke beliebtes Ausflugslokal mit Tanzsaal und wurde 1927/29 umgebaut. 1974 musste die historische Gaststätte wegen
 Baufälligkeit schließen. 1985 entstand im Dresdner Westen ein Jugendclub namens Dresdner Wanderzunft, der sich die Wiederentdeckung alter Handwerkskunst zum Ziel
@@ -37,7 +37,7 @@ Omse e.V.) das Grundstück und sanierte die Gastwirtschaft. 1993 eröffnete das 
 Töpferwerkstatt und Räume für verschiedene Aktivitäten als Bildungs- und Begegnungsstätte. Alljährlich zur Weihnachtszeit verwandelt sich das Haus mit dem angrenzenden historischen Dorfkern von Omsewitz in einen großen
 Adventskalender. In den Fenstern sind dann beleuchtete Bilder und künstlerische Darstellungen zu sehen, die täglich bei einem kleinen Rahmenprogramm geöffnet werden.
 
-![](../../../../west/omsewitz/strassen_omsewitz/kummelschanke/omsewk_mmel2.jpg)
+
 
 **_Fotos:_** _Die Kümmelschänke in den Dreißiger Jahren (oben) und heute_
 

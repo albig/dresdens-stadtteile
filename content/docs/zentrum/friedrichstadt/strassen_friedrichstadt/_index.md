@@ -342,7 +342,7 @@ Lingner selbst wohnte zu dieser Zeit im Vorderhaus des Grundstücks. Heute steht
 
 
 
-[![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
+[Friedrichstadt auf OpenStreetMap](https://www.openstreetmap.org/search?query=Dresden+Friedrichstadt)
 
 
 

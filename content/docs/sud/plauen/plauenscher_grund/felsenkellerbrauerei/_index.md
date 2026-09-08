@@ -3,7 +3,7 @@ title: "Felsenkellerbrauerei"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-![Felsenkellerbrauerei](../../../../Felsenkellerbrauerei_NIndBanner.GIF)
+
 
 * * *
 
@@ -19,15 +19,15 @@ date: 2024-02-17T22:13:43+01:00
 
 **des Eiswurms**
 
-![](../../../../sud/plauen/plauenscher_grund/felsenkellerbrauerei/bierdeckel100j.jpg)
+
 
 **Bieruntersetzer "100 Jahre Felsenkeller"**
 
-![](../../../../sud/plauen/plauenscher_grund/felsenkellerbrauerei/felsenkellerwerbung.jpg)
+
 
 **Blechwerbetafel aus den 1920er Jahren**
 
-![](../../../../sud/plauen/plauenscher_grund/felsenkellerbrauerei/felsenkelleretikett2.jpg)
+
 
 **Flaschenetikett für Weizenbier**
 
@@ -40,7 +40,7 @@ Das Unternehmen wuchs schnell und entwickelte sich bis 1900 zur bedeutendsten s�
 
 ![](../../../../sud/plauen/plauenscher_grund/felsenkellerbrauerei/plgrundfelsenkeller3.jpg)Die Felsenkellerbrauerei stellte zunächst bayrisches Lagerbier, ab 1880 vorrangig Bier nach Pilsner Brauart her und war wirtschaftlich äußerst erfolgreich. Moderne Anlagen ermöglichten in der zwischen 1871 und 1895 mehrmals erweiterten Brauerei eine effektive Produktion. Erstmals in Deutschland wurde in der Felsenkellerbrauerei die Kohlefeuerung der Braukessel in einem Großbetrieb angewandt. 1866 wurden ein neues Kontorhaus und eine Malztenne gebaut, 1868/69 der große Lagerkeller am Restaurant geschaffen. Zwischen 1872 und 1874 entstanden zehn weitere Lagerkeller und drei Gär- und Eiskeller, 1887 die dritte Malztenne. Zur Wasserversorgung richtete man 1885 ein eigenes Wasserwerk ein. Das Wasser dafür kam über eine Leitung aus dem [Kaitzgrund](../../../../sud/kaitz/kaitzbachtal/) sowie sechs eigenen Tiefbrunnen. 1891/92 folgten ein Kühlhaus sowie ein Maschinen- und Kesselhaus. Gegenüber den eigentlichen Braugebäuden entstand um 1890 ein Gebäudekomplex für den umfangreichen Fuhrpark _(Foto)_. Außerdem richtete man bereits 1858 eine Brauereigaststätte mit großem Saal ein, die sich zum beliebten Ausflugsziel der Dresdner entwickelte. Dieses Gebäude wurde 1945 durch Bomben schwer beschädigt und 1957 als Kulturhaus der Eisenbahner wieder eröffnet.
 
-![](../../../../sud/plauen/plauenscher_grund/felsenkellerbrauerei/felsenkellerkühlung.jpg)![](../../../../sud/plauen/plauenscher_grund/felsenkellerbrauerei/plgrundfelsenkeller7.jpg)1905 erwarb die Brauerei die Malzfabrik in Pirna. 1909 wurde ein neues Verwaltungsgebäude erbaut. Eine Übersicht der vorhandenen Bauten und Anlagen nennt für die Zeit vor dem Ersten Weltkrieg die Malzbereitung mit Mälzerei, Tennen und Darren, Lagerräumen und Schrotanlagen, drei Sudhäuser, ein modernes Kühlhaus mit Flächenberieselungskühlapparaten _(Bild links)_, den Gärkeller mit 382 Gärbottichen, ein betriebseigenes Kraftwerk, Kesselhaus, Dampfmaschinen, Werkstätten für die Faßherstellung _(Bild rechts)_, Schmiede, Zimmerei, Wagenbauanstalt, Schlosserei, ein der Qualitätskontrolle dienendes Laboratorium sowie einen großen Fuhrpark mit Verladehalle, Anschlussgleise und eine Bahnverladungshalle. Ein besonderes Kuriosum war, dass sich das Gelände der Felsenkellerbrauerei bis zur Eingemeindung auf den Fluren der drei Gemeinden Plauen, Coschütz und Dölzschen befand und deshalb auch die Steuern anteilig an diese Orte zu entrichten waren.
+1905 erwarb die Brauerei die Malzfabrik in Pirna. 1909 wurde ein neues Verwaltungsgebäude erbaut. Eine Übersicht der vorhandenen Bauten und Anlagen nennt für die Zeit vor dem Ersten Weltkrieg die Malzbereitung mit Mälzerei, Tennen und Darren, Lagerräumen und Schrotanlagen, drei Sudhäuser, ein modernes Kühlhaus mit Flächenberieselungskühlapparaten _(Bild links)_, den Gärkeller mit 382 Gärbottichen, ein betriebseigenes Kraftwerk, Kesselhaus, Dampfmaschinen, Werkstätten für die Faßherstellung _(Bild rechts)_, Schmiede, Zimmerei, Wagenbauanstalt, Schlosserei, ein der Qualitätskontrolle dienendes Laboratorium sowie einen großen Fuhrpark mit Verladehalle, Anschlussgleise und eine Bahnverladungshalle. Ein besonderes Kuriosum war, dass sich das Gelände der Felsenkellerbrauerei bis zur Eingemeindung auf den Fluren der drei Gemeinden Plauen, Coschütz und Dölzschen befand und deshalb auch die Steuern anteilig an diese Orte zu entrichten waren.
 
 ![](../../../../sud/plauen/plauenscher_grund/felsenkellerbrauerei/plgrundfelsenkeller2.jpg)Im Gegensatz zu vielen kleineren Brauereien überstand der Großbetrieb Felsenkellerbrauerei sowohl die schwierige Zeit nach dem Ersten Weltkrieg als auch die Weltwirtschaftskrise. Dazu trugen aufwendige Marketingaktionen bei, so die Herstellung von Blechwerbeschildern, Biergläsern und individuell gestalteten Etiketten. 1930 ließ sich die seinerzeit größte Brauerei Sachsens im Zusammenhang mit der Internationalen Hygieneausstellung von der renommierten Firma Boehner einen Reklame-Kurzfilm anfertigen. Erst während des Zweiten Weltkriegs kam es zu drastischen Einschränkungen des Betriebes. Auf Weisung des Reichsministers für Bewaffnung und Munition mussten Teile der Felsenkeller 1944 für ein Drahtwerk der Firma Osram zur Verfügung gestellt werden. Die Bombenangriffe auf Dresden trafen 1945 den Saal der Brauereigaststätte, während die übrigen Gebäude weitgehend unbeschädigt blieben.
 

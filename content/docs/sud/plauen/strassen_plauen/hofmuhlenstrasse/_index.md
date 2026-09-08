@@ -12,21 +12,21 @@ date: 2024-02-17T22:13:43+01:00
 
 **Werbung ehemaliger Plauener Unternehmen**
 
-![](../../../../sud/plauen/strassen_plauen/hofmuhlenstrasse/hoffmann_kuehne.jpg)
 
-![](../../../../sud/plauen/strassen_plauen/hofmuhlenstrasse/klavier.jpg)
+
+
 
 _Pianofabrik_
 
 _Hoffmann & Kühne_
 
-![](../../../../sud/plauen/strassen_plauen/hofmuhlenstrasse/otto manjock.jpg)
+
 
 _Plastine-Fabrik_
 
 _Otto Manjock_
 
-![](../../../../sud/plauen/strassen_plauen/hofmuhlenstrasse/möbelfabrik_jähnichen.jpg)
+
 
 _Fabrik für Innenausbau_
 
@@ -49,7 +49,7 @@ _ganz rechts stehenden Häuser Nr. 59 und 61 im Jahr 2014 (rechts)_
 
 Einzelne Gebäude:
 
-![](../../../../sud/plauen/strassen_plauen/hofmuhlenstrasse/walkmühle.jpg)Walkmühle: Diese Mühle befand sich bis 1897 am rechten Weißeritzufer in der Nähe des Grundstücks Hofmühlenstraße
+Walkmühle: Diese Mühle befand sich bis 1897 am rechten Weißeritzufer in der Nähe des Grundstücks Hofmühlenstraße
 18\. Das Wasserrad wurde dabei vom Mühlgraben der Bienertmühle angetrieben. Besitzer war Mitte des 18. Jahrhunderts Graf Heinrich von Brühl, der sie ab 1746 bis zur Zerstörung im Siebenjährigen Krieg als Wasserhebewerk nutzte, um die Brunnen seines [Friedrichstädter Palais](../../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/marcolinipalais/) zu betreiben. als. 1795 wurde sie von der Dresdner Tuchmacherinnung umgebaut, um sie zum Walken von Stoffen und Leder zu nutzen. 1867 pachtete der frühere Pulvermüller Carl Gottlieb Meinert die Mühle und wandelte sie in eine Furnierschneidemühle um. Nach dessen Tod 1874 übernahm sie Traugott Gottlieb Bienert. Das Gebäude fiel am 31. Juli 1897 dem Weißeritzhochwasser zum Opfer und wurde nicht wieder aufgebaut.
 
 Unweit davon lag am [Weißeritzmühlgraben](../../../../sudwest/lobtau/weisseritzmuhlgraben/) eine weitere Walkmühle, die sich im Besitz der Dresdner Tuchmacherinnung befand. Die um ca. 1570 entstandene Mühle brannte 1868 ab und wurde daraufhin als Furnierschneidemühle des Unternehmers Kittler wiederaufgebaut _(Foto)_. 1897 übernahm die Stadt Dresden die Mühle und überließ sie 1914 dem Plauener Fabrikbesitzer [Anton Reiche](../../../../sud/plauen/strassen_plauen/blechwarenfabrik_reiche/). 1934 wurden die Gebäude abgetragen.
@@ -62,7 +62,7 @@ Nr 17: Das Eckhaus zwischen dem heute nicht mehr vorhandenen Röhrweg und der Bi
 
 Nr. 20: Das Eckgrundstück zur Würzburger Straße unmittelbar an der Weißeritz war ab 1899 Sitz der Klavierbaumanufaktur Hoffmann & Kühne. Später hatten hier auch die Sächsische Metall-Schrauben-Fabrik E. Görldt, die Strickwarenfabrik Josef Herrmann und die Schuhfabrik Horst Gräfe & Co. ihre Geschäftsräume. Nach 1990 wurden die Gebäude abgerissen und das Grundstück danach von einem Pflanzen- und Saatgutverkauf genutzt.
 
-![](../../../../sud/plauen/strassen_plauen/hofmuhlenstrasse/spielkarten.jpg)![](../../../../sud/plauen/strassen_plauen/hofmuhlenstrasse/korkfabrik.jpg)Nr. 21: Auch auf diesem Grundstück befand sich einst eine von zahlreichen Plauener Fabriken in diesem Viertel. Das Unternehmen wurde Ende des 19. Jahrhunderts von Max Kühne gegründet und firmierte um 1900 unter dem Namen Plauensche Korkfabrik Kreutziger & Oeser (ab 1910 Dresdner Kork-Industrie - _Bild rechts_).
+Nr. 21: Auch auf diesem Grundstück befand sich einst eine von zahlreichen Plauener Fabriken in diesem Viertel. Das Unternehmen wurde Ende des 19. Jahrhunderts von Max Kühne gegründet und firmierte um 1900 unter dem Namen Plauensche Korkfabrik Kreutziger & Oeser (ab 1910 Dresdner Kork-Industrie - _Bild rechts_).
 
 Nach dem Ersten Weltkrieg nutzte die Sächsische Plastine-Fabrik von Otto Manjock die Fabrikräume. Hergestellt wurde Modelliermasse sowie verschiedene Gesellschafts- und Beschäftigungsspiele. In den 1920er Jahren warb das Unternehmen als "älteste Spezialfabrik für Modelliermasse (Plastelina)" mit "Fröbel Modellierspielen" mit vielen Vorlagen und Modellierhölzern" sowie "Beschäftigungsspielen nach Fröbel". Außerdem waren Kartenspiele im Angebot, u.a. mit dem Olympiasiegern von 1936 _(Bild links)_. Um 1920 gab es im Haus zudem eine Außenstelle des Sächsischen Serumwerkes (Institut für Bakteriotherapie). Zuletzt dienten die 1945 zerstörten Gebäude als Lagerhaus.
 
@@ -70,13 +70,13 @@ Nr. 25: Im Erdgeschoss des Wohnhauses an der Ecke Hofmühlen-/Würzburger Straß
 
 Sächsische Malzfabrik: Das Unternehmen wurde am 29. Januar 1889 gegründet und nahm das gesamte Grundstück Hofmühlenstraße 33 bis zur Bahnlinie ein. Hergestellt und verkauft wurde vorrangig Braumalz für verschiedene Dresdner Brauereien. Zum Areal gehörten 1943 die Tennen- und Trommel-Mälzerei, vier Darren zur Trocknung der Gerste, vier werkseigene Brunnen, Verwaltungs- und Lagergebäude. Die Kapazität ermöglichte die Vermälzung von ca. 240.000 Zentnern Gerste pro Kampagne. Für den Transport besaß der Betrieb ein eigenes Anschlussgleis an die Bahnlinie Dresden - Chemnitz. 1945 fielen die Gebäude der Plauener Malzfabrik weitgehend dem Bombenangriff zum Opfer. Die formale Auflösung der Aktiengesellschaft erfolgte jedoch erst 1961.
 
-![](../../../../sud/plauen/strassen_plauen/hofmuhlenstrasse/plauenmalzfabrik.jpg)
+
 
 _Rechnungskopf der Sächsischen Malzfabrik Dresden-Plauen_
 
 Nr. 39/41: Das Grundstück war bis Mitte der 1930er Jahre Sitz der Firma Arthur Jähnichen - Fabrik für Innenausbau. Jähnichen, gelernter Tischler und später auch Glasermeister hatte seine Werkstatt 1869 gegründet und später zu einer Fabrik für Möbel, Ladenbau und Inneneinrichtungen ausgebaut. Im Hintergebäude hatte zeitweise auch die Gelbgießerei Josef Kaul (1905), eine Kartonnagenfabrik (1925) und zuletzt die Tischlerei Wilhelm Specht ihren Sitz. Im Vordergebäude (Nr. 41) wohnte bis 1945 der Bildhauer Rudolf Kreische (1904-1969), der von 1924 bis 1936 Mitarbeiter der Zwingerbauhütte war.
 
-![](../../../../sud/plauen/strassen_plauen/hofmuhlenstrasse/plauenhofmühlenstr55.jpg)Gasthaus Altplauen (Nr. 51): Das noch auf den alten Plauener Dorfkern zurückgehende Haus Hofmühlenstraße 51 war vor dem Ersten Weltkrieg unter dem Namen Gasthaus Altplauen eine von mehreren Einkehrstätten des Unterdorfes. 1910 ist das Lokal als "Gesellschaftshaus Plauen" im Adressbuch verzeichnet und gehörte Friedrich Wilhelm Müller. 1918 richtete man im Saal ein Kino mit ca. 300 Plätzen ein (Metropol-Lichtspiele). Allerdings scheint das Projekt von keinem großen Erfolg begleitet worden zu sein, denn bereits 1920 ist nur noch vom Gasthaus Altplauen die Rede. Wenige Jahre später schloss die Gaststätte für immer ihre Pforten, die Räume wurden bis zum Abriss gewerblich genutzt.
+Gasthaus Altplauen (Nr. 51): Das noch auf den alten Plauener Dorfkern zurückgehende Haus Hofmühlenstraße 51 war vor dem Ersten Weltkrieg unter dem Namen Gasthaus Altplauen eine von mehreren Einkehrstätten des Unterdorfes. 1910 ist das Lokal als "Gesellschaftshaus Plauen" im Adressbuch verzeichnet und gehörte Friedrich Wilhelm Müller. 1918 richtete man im Saal ein Kino mit ca. 300 Plätzen ein (Metropol-Lichtspiele). Allerdings scheint das Projekt von keinem großen Erfolg begleitet worden zu sein, denn bereits 1920 ist nur noch vom Gasthaus Altplauen die Rede. Wenige Jahre später schloss die Gaststätte für immer ihre Pforten, die Räume wurden bis zum Abriss gewerblich genutzt.
 
 Nr. 55: Das langgestrecke Gebäude bildet den Auftakt zur noch erhaltenen Restbebauung des früheren Plauener Unterdorfes _(im Foto ganz links)_. Einst gab es hier eine Bäckerei sowie Pässlers Café und Kuchengarten. Nach 1990 wurde das Haus saniert.
 

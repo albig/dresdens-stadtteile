@@ -77,7 +77,7 @@ Lust und Im Krug zum Grünen Kranze. Mehrfach weilte er in Dresden und tra
 
 
 
-[![](../../../stadtplan.jpg)](http://www.dresden.de/de/09/stadtplan.php)
+[Leutewitz auf OpenStreetMap](https://www.openstreetmap.org/search?query=Dresden+Leutewitz)
 
 
 

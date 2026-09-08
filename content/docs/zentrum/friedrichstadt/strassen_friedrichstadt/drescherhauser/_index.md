@@ -3,7 +3,7 @@ title: "Drescherhauser"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![drescherhäuser](../../../../drescherhauser_n1_banner2.gif)
+
 
 * * *
 
@@ -21,7 +21,7 @@ von denen 12 dem Ostravorwerk gehörten. Anfang des 19. Jahrhunderts wurden vier
 
 Im Zuge des Niedergangs des Ostravorwerkes wandelte sich auch die Bevölkerungsstruktur der Drescherhäuser, die um 1900 meist von Handwerkerfamilien bewohnt wurden. Zudem gab es in einem der Häuschen die Gartenwirtschaft "Alt Dresden" mit Kegelbahn. Die mit kleinen Gärten umgebenen Fachwerkhäuschen waren ein beliebtes Motiv für Maler und Fotografen, entsprachen jedoch zu diesem Zeitpunkt bereits längst nicht mehr den Anforderungen an moderne Wohnbedingungen. Zuletzt nutzte man die Gebäude als vorübergehende Unterkunft für Obdachlose. 1934 wurde das letzte Drescherhaus abgebrochen. An ihrer Stelle befindet sich heute eine 1917 gegründete Kleingartenanlage. Außerdem erinnert der Straßenname Drescherhäuser an die einstige Tagelöhnersiedlung.
 
-![](../../../../zentrum/friedrichstadt/strassen_friedrichstadt/drescherhauser/friedrichstdrescherh_user.jpg)![](../../../../zentrum/friedrichstadt/strassen_friedrichstadt/drescherhauser/friedrichstdrescherh_user2.jpg)
+
 
 **_Fotos:_** _Die Drescherhäuser in den Zwanziger Jahren und die heutige Straße Drescherhäuser im Winter 2006_
 

@@ -3,7 +3,7 @@ title: "Lingner-Werke"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![lingner-werke](../../../../../lingner-werke_nindbanner.gif)
+
 
 * * *
 

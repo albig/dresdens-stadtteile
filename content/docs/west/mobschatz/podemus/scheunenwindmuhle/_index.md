@@ -3,7 +3,7 @@ title: "Scheunenwindmühle"
 date: 2024-02-17T22:13:46+01:00
 ---
 
-![scheunenwindmühle](../../../../scheunenwindmuhle_nlafleurbannerh.gif)
+
 
 * * *
 
@@ -36,7 +36,7 @@ Betrieb einer Windmühle besaß, baute er eine ungenutzte Scheune auf seinem Gru
 dienten zugleich zum Einleiten der einströmenden Luft, welche im Inneren zwei Windräder mit einem Durchmesser von 4,70 Meter bzw. 3,85 Meter antrieb. Das eigentliche Mahlwerk
 befand sich im Obergeschoss des Fachwerkgebäudes. 1914 erfolgte eine Umstellung der Scheunenwindmühle auf elektrischen Betrieb. Erst 1957 wurde die Mühle endgültig stillgelegt.
 
-![](../../../../west/mobschatz/podemus/scheunenwindmuhle/podemusm_hle.jpg)Das in der Folgezeit vernachlässigte und verfallende Gebäude musste 1974 abgerissen
+Das in der Folgezeit vernachlässigte und verfallende Gebäude musste 1974 abgerissen
 werden. Dabei konnten wichtige Bauteile geborgen und die Mühle dokumentiert werden. Diese erhielten offiziell den Status eines Denkmals der Produktionsgeschichte, blieben jedoch
 zunächst im Depot des Museums für Volkskunst in Dresden. 1992-93 erfolgte in Saalow bei Luckenwalde (Brandenburg) der Wiederaufbau der Scheunenwindmühle, welche dort seit 1995
 besichtigt werden kann. Gepflegt und betrieben wird die Mühle durch den Verein Scheunenwindmühle Saalow e. V., welcher im Inneren auch ein kleines Museum einrichtete.

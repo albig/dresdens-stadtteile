@@ -197,7 +197,7 @@ zunächst nach dem sächsischen Königshaus Wettinstraße genannt. Bis 1905 ents
 
 
 
-[![](../../../stadtplan.jpg)](http://stadtplan2.dresden.de/%28S%28qvoq2msj2wptx45bbqipndcp%29%29/spdd.aspx)
+[Gittersee auf OpenStreetMap](https://www.openstreetmap.org/search?query=Dresden+Gittersee)
 
 
 

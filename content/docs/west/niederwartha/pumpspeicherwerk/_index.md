@@ -3,7 +3,7 @@ title: "Pumpspeicherwerk"
 date: 2024-02-17T22:13:46+01:00
 ---
 
-![Pumpspeicherwerk](../../../Pumpspeicherwerk_NIndBanner.GIF)
+
 
 * * *
 
