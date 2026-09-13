@@ -25,17 +25,6 @@ date: 2024-02-17T22:13:37+01:00
 
 **in Gruna:**
 
-[![](../../ost/gruna/gymgruna.jpg)](http://www.erlwein-gymnasium.de)
-
-[![](../../ost/gruna/32gsgruna.jpg)](http://www.siebenschwabenschule.de)
-
-![](../../bibodd.jpg)
-
-[![bibliothek gruna papstdorfer str. 13 01277 dresden tel. 0351/2561037](../../ost/gruna/a_rectangle_1007.gif)](http://www.bibo-dresden.de)
-
-[![](../../ost/gruna/schieferburggruna.jpg)](http://www.schieferburg.de)
-
-
 ![](../../ost/gruna/grunalandgraben.jpg)Der heutige Stadtteil Gruna wurde im Mittelalter von deutschen Siedlern gegründet und 1370 als Grunow erstmals erwähnt. Der Name bedeutet Ort in der grünen Aue und bildete ein Platzdorf mit Block- und Streifenflur. Die ausgedehnte Dorfflur von ca. 175 Hektar Acker- und Wiesenflächen erstreckte sich zwischen der heutigen Winterbergstraße bis zum Striesener Friedhof sowie zwischen Hepkeplatz und Enderstraße. Begrenzt wurde das Gebiet von zwei alten Elbarmen, die später als Gartenland dienten. Ein Teil dieses tiefergelegenen Geländes wird bis heute vom [Landgraben](../../ost/striesen/landgraben/) durchflossen _(Foto)_, der bereits 1309 erwähnt ist und als Entwässerungsgraben, Wasserreservoir und natürlicher Schutz vor feindlichen Übergriffen genutzt wurde.
 
 ![](../../ost/gruna/gruna2.jpg)Ursprünglich unterstand Gruna dem Domstift zu Meißen, kam jedoch im Zuge der Reformation an das Religionsamt bzw. das kurfürstliche Amt Dresden. Erst im Zuge der Landgemeindeordnung des 19. Jahrhunderts wurde diese Unterstellung zugunsten moderner Verwaltungsformen aufgehoben. Wichtigster Erwerbszweig blieb jahrhundertelang die Landwirtschaft. Später kamen noch Gartenbau und zwei Ziegeleien hinzu. Zudem betrieben einige Einwohner im Nebenerwerb Spinnerei und Strohflechterei. Kirchlich gehörte Gruna zur Dresdner Kreuzkirche. Veränderungen der Dorfflur erfolgten 1547 durch die Einbeziehung der Felder des untergegangenen Dorfes [Praschütz](../../ost/gruna/neugruna/) sowie die 1678 vom Kurfürsten erzwungene Abtretung von Flächen zugunsten des Großen Gartens. 1716 mussten weitere Teile der Fluren zur Anlage der kurfürstlichen Fasanerie aufgegeben werden. 1890 erfolgte die Neugestaltung dieser "Grunaer Anlagen" mit Schaffung des Neuteichs und weiterer Erholungsflächen.
