@@ -6,7 +6,6 @@ weight: 10
 
 
 
-[![home](../home_ncubesprim.gif)](../index.html)[![innere altstadt](../innere_altstadt_ncubesprim.gif)](../zentrum/innere_altstadt/)[![wilsdruffer vorstadt](../wilsdruffer_vorstadt_ncubesprim.gif)](../zentrum/wilsdruffer_vorstadt/)[![seevorstadt](../seevorstadt_ncubesprim.gif)](../zentrum/seevorstadt/)[![pirnaische vorstadt](../pirnaische_vorstadt_ncubesprim.gif)](../zentrum/pirnaische_vorstadt/)[![großer garten](../grosser_garten_ncubesprim.gif)](../zentrum/grosser_garten/)[![johannstadt](../johannstadt_ncubesprim.gif)](../zentrum/johannstadt/)[![friedrichstadt](../friedrichstadt_ncubesprim.gif)](../zentrum/friedrichstadt/)[![südvorstadt](../sudvorstadt_ncubesprim.gif)](../zentrum/sudvorstadt/)
 
 
 Das Stadtzentrum umfasst im engeren Sinn den historischen Stadtkern, der in seinen Grundzügen bis ins Mittelalter zurückgeht und bis Anfang des 19. Jahrhunderts von einer Wall- und Grabenanlage umgeben war.

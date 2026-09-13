@@ -20,7 +20,6 @@ date: 2024-02-17T22:13:46+01:00
 
 **Mobschatzer Ortsteile**
 
-[![leuteritz](../../west/mobschatz/leuteritz_ncubesprim.gif)](../../west/mobschatz/leuteritz/)[![merbitz](../../west/mobschatz/merbitz_ncubesprim.gif)](../../west/mobschatz/merbitz/)[![brabschütz](../../west/mobschatz/brabschutz_ncubesprim.gif)](../../west/mobschatz/brabschutz/)[![podemus](../../west/mobschatz/podemus_ncubesprim.gif)](../../west/mobschatz/podemus/)[![rennersdorf](../../west/mobschatz/rennersdorf_ncubesprim.gif)](../../west/mobschatz/rennersdorf/)
 
 * * *
 

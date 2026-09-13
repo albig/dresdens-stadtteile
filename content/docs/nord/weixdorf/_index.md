@@ -17,7 +17,6 @@ date: 2024-02-17T22:13:35+01:00
 
 **Weixdorfer Ortsteile:**
 
-[![lausa](../../nord/weixdorf/lausa_ncubesprim.gif)](../../nord/weixdorf/lausa/)[![marsdorf](../../nord/weixdorf/marsdorf_ncubesprim.gif)](../../nord/weixdorf/marsdorf/)[![friedersdorf](../../nord/weixdorf/friedersdorf_ncubesprim.gif)](../../nord/weixdorf/friedersdorf/)[![gomlitz](../../nord/weixdorf/gomlitz_ncubesprim.gif)](../../nord/weixdorf/gomlitz/)
 
 [![](../../nachbarn.jpg)](../../nord/)
 

@@ -19,7 +19,6 @@ date: 2024-02-17T22:13:43+01:00
 
 **Gompitzer Ortsteile:**
 
-[![pennrich](../../sudwest/gompitz/pennrich_ncubesprim.gif)](../../sudwest/gompitz/pennrich/)[![zöllmen](../../sudwest/gompitz/zollmen_ncubesprim.gif)](../../sudwest/gompitz/zollmen/)[![ockerwitz](../../sudwest/gompitz/ockerwitz_ncubesprim.gif)](../../sudwest/gompitz/ockerwitz/)[![unkersdorf](../../sudwest/gompitz/unkersdorf_ncubesprim.gif)](../../sudwest/gompitz/unkersdorf/)[![steinbach](../../sudwest/gompitz/steinbach_ncubesprim.gif)](../../sudwest/gompitz/steinbach/)[![roitzsch](../../sudwest/gompitz/roitzsch_ncubesprim.gif)](../../sudwest/gompitz/roitzsch/)
 
 [![](../../nachbarn.jpg)](../../sudwest/)
 

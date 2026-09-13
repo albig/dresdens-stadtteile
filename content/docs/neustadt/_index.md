@@ -12,7 +12,6 @@ type: "docs"
 
 
 
-[![home](../home_ncubesprim.gif)](../index.html)[![innere neustadt](../innere_neustadt_ncubesprim.gif)](../neustadt/innere_neustadt/)[![äußere neustadt](../aussere_neustadt_ncubesprim.gif)](../neustadt/aussere_neustadt/)[![albertstadt](../albertstadt_ncubesprim.gif)](../neustadt/albertstadt/)[![leipziger vorstadt](../leipziger_vorstadt_ncubesprim.gif)](../neustadt/leipziger_vorstadt/)
 
 * * *
 
