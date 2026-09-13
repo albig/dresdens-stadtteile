@@ -10,18 +10,7 @@ type: "docs"
 
 * * *
 
-
-
-
-* * *
-
-[![familienwappen entwickeln lassen](../neustadt/familienwappen-entwickeln-lassen.jpg)](https://www.wappen-erstellen-lassen.de/)
-
-[![cartoonist dresden](../neustadt/karikaturist-dresden.jpg)](https://www.karikaturen-service.de/)
-
-
-
-![ortsamt neustadt hoyerswerdaer str. 3 01099 dresden tel. 0351/4886655 ortsamt-neustadt@dresden.de](../neustadt/a_rectangle_18.gif)Zur Dresdner Neustadt gehören der heute meist als Innere Neustadt bezeichnete
+Zur Dresdner Neustadt gehören der heute meist als Innere Neustadt bezeichnete
 rechtselbische Stadtkern, die westlich davon gelegene Leipziger Vorstadt mit dem [Hechtviertel](../neustadt/leipziger_vorstadt/hechtviertel/), die Äußere Neustadt, bestehend aus Antonstadt und Radeberger Vorstadt
 sowie das ehemalige Militärgelände der Albertstadt.
 
@@ -39,10 +28,6 @@ Albertstadt, die bis 1945 als größte deutsche Militärstadt einen eigenen Guts
 Militärbauten wurden, erzwungen durch den Versailler Vertrag, nach dem Ersten Weltkrieg teilweise entmilitarisiert und gewerblich genutzt und gehören heute zum [Industriegelände](../neustadt/albertstadt/industriegelande/). Dennoch blieb das Militär bis in jüngste Vergangenheit wichtigstes
 Element dieses Stadtteils. Heute werden die ehemaligen Kasernen meist als Büro- und Verwaltungsgebäude genutzt. Außerdem haben einige öffentliche Einrichtungen
 in der Albertstadt ihren Sitz, ebenso wie die Heeresoffiziersschule der Bundeswehr.
-
-
-
-[![flyeralarm](../impressum/werbung/flyeralarm/banner flyeralarm.jpg)](../impressum/werbung/flyeralarm/)
 
 
 
