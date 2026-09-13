@@ -3,7 +3,7 @@ title: "Trinitatisfriedhof"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![trinitatisfriedhof](../../../trinitatisfriedhof_nurbanlegendbannerh.gif)
+![trinitatisfriedhof](trinitatisfriedhof_nurbanlegendbannerh.gif)
 
 * * *
 

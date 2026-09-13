@@ -3,7 +3,7 @@ title: "Wehlener Straße"
 date: 2024-02-17T22:13:39+01:00
 ---
 
-![wehlener straße](../../../../wehlener_strasse_n1_banner2.gif)
+![wehlener straße](wehlener_strasse_n1_banner2.gif)
 
 * * *
 

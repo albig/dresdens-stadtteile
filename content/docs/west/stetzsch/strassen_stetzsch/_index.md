@@ -3,7 +3,7 @@ title: "Straßen Stetzsch"
 date: 2024-02-17T22:13:46+01:00
 ---
 
-![straßen und plätze in stetzsch](../../../strassen_stetzsch_n1_banner2.gif)
+![straßen und plätze in stetzsch](strassen_stetzsch_n1_banner2.gif)
 
 * * *
 
@@ -19,7 +19,7 @@ Die Alsenstraße, kurz zuvor als Planstraße Z angelegt, wurde 1926 nach der im 
 
 **_Foto:_** _Die Stetzscher Holzhaussiedlung um 1934_
 
-![altstetzsch](../../../a_rectangle_321.gif)
+![altstetzsch](a_rectangle_321.gif)
 
 ![](../../../west/stetzsch/strassen_stetzsch/stetzsch3.jpg)Altstetzsch bildet den Dorfplatz (Anger) des früheren Bauerndorfes. Bis zur Eingemeindung wurde dieser Platz als Gustav-Merbitz-Platz bezeichnet. Namensgeber war der frühere Gemeindevorstand Gustav Merbitz (18351913). Am 19. Februar 1926 erfolgte die offizielle Umbenennung in Altstetzsch. Gleichzeitig erhielt die frühere Bismarckstraße den Namen Gustav-Merbitz-Straße.
 
@@ -39,7 +39,7 @@ _Und trägt man mich dereinst als Wirth zum Thor hinaus, Dann ist gebaut in jene
 
 **Inschrift am Haus Altstetzsch 11**
 
-![am urnenfeld](../../../a_rectangle_322.gif)
+![am urnenfeld](a_rectangle_322.gif)
 
 ![](../../../west/stetzsch/strassen_stetzsch/stetzschbahnschl.jpg)Die Straße wurde früher Schulstraße genannt, da sich hier das 1877/78 errichtete erste Stetzscher [Schulhaus](../../../west/stetzsch/) befand. 1926 erfolgte die Umbenennung in Am Urnenfeld. Mit der Namensgebung soll an die hier um 1900 gemachten archäologischen Funde erinnert werden. Auf dem Areal war damals ein großer Urnenhain der frühen Eisenzeit entdeckt worden, der der Billendorfer Kultur (800 bis 400 v. Chr.) zugerechnet wird. Mit den Grabbeigaben konnte die vorslawische Besiedlung der Region nachgewiesen werden. Bemerkenswertestes Gebäude ist neben dem Schulhaus die um 1910 erbaute Villa Am Urnenfeld 15. Im heute nur noch als Wohnhaus genutzten Haus Am Urnenfeld 31, unmittelbar neben der Bahnstrecke gelegen, befand sich vor 1945 das Restaurant und Café "Zum Bahnschlösschen" _(Foto)_.
 
@@ -49,11 +49,11 @@ _Und trägt man mich dereinst als Wirth zum Thor hinaus, Dann ist gebaut in jene
 
 Die Brabschützer Straße wurde nach dem Ersten Weltkrieg zur Erschließung eines neuen Wohngebiets angelegt und am 29. Oktober 1925 nach dem nahegelegenen Ort Brabschütz benannt. Zuvor trug sie kurzzeitig den Namen Grünweg. Seit 1999 ist auch [Brabschütz](../../../west/mobschatz/brabschutz/) als Teil der Ortschaft Mobschatz ein Stadtteil von Dresden.
 
-![buhnenstraße](../../../a_rectangle_323.gif)
+![buhnenstraße](a_rectangle_323.gif)
 
 Die Ende des 19. Jahrhunderts angelegte Straße in der Nähe der Elbwiesen hieß ursprünglich Schanzenstraße, wurde jedoch nach der Eingemeindung zur Vermeidung von Verwechslungen 1926 in Buhnenstraße umbenannt. Beide Namen erinnern an die Befestigung des Elbufers mittels Buhnen und Dämmen, um die Siedlung Stetzsch vor Hochwasser zu schützen.
 
-![flensburger straße](../../../a_rectangle_324.gif)
+![flensburger straße](a_rectangle_324.gif)
 
 Die Straße entstand 1926 durch Zusammenlegung der früheren Gohliser und Kemnitzer Straße in Stetzsch und der Dresdner Straße in Kemnitz. Die amtliche Benennung erfolgte am 26. Februar 1926. Ihren Namen erhielt sie nach der Stadt Flensburg in Schleswig-Holstein. 1926/27 errichte die Firma Höntsch & Co. an der Flensburger Straße eine Holzhaussiedlung für den Allgemeinen Sächsischen Siedlerverband mit elf Zwei- und sieben Vierfamilienhäusern. Die Siedlung (Nr. 41-61 b)steht heute unter Denkmalschutz. Auf dem Gelände einer früheren Gärtnerei (Nr. 23-29) wurden 2010/11 mehrere Einfamilienhäuser gebaut.
 
@@ -61,7 +61,7 @@ Die Straße entstand 1926 durch Zusammenlegung der früheren Gohliser und Kemnit
 
 **_Foto:_** _Holzhaussiedlung an der Flensburger Straße_
 
-![gustav-merbitz-straße](../../../a_rectangle_325.gif)
+![gustav-merbitz-straße](a_rectangle_325.gif)
 
 ![](../../../west/stetzsch/strassen_stetzsch/stetzschgasthof.jpg)Die frühere Bismarckstraße, heute Gustav-Merbitz-Straße, wurde am 19. Februar 1926 nach dem Stetzscher Schul- und Kirchenvorstand Gustav Merbitz (1835-1913) benannt. Merbitz war viele Jahre Gemeindevorstand des Ortes und erwarb sich dabei große Verdienste um die Entwicklung des Ortes. Bereits zu Lebzeiten hatte die Gemeinde ihm zu Ehren den Dorfplatz benannt. Gustav Merbitz wohnte im Haus Meißner Straße Nr. 63.
 
@@ -69,7 +69,7 @@ Im Haus Gustav-Merbitz-Straße 2, unmittelbar am Dorfplatz gelegen, befand sich 
 
 [![meißner landstraße](../../../a_rectangle_326.gif)](../../../west/cotta/strassen_cotta/meissner_landstrasse/)
 
-![miltitzer straße](../../../a_rectangle_327.gif)
+![miltitzer straße](a_rectangle_327.gif)
 
 Die Miltitzer Straße trägt ihren Namen seit 1926 nach dem kleinen Ort Miltitz in der Nähe von Meißen. Zuvor wurde sie
 Florastraße genannt, da sich hier einige Gärtnereien befanden. Der Gartenbau entwicklte sich seit dem 19. Jahrhundert zum wichtigsten Wirtschaftszweig des Ortes.
@@ -82,19 +82,19 @@ Lindenhof: 1889 entstand auf der Podemusstraße 9 der Gasthof Lindenhof, anf
 Versammlungslokal. Nach 1945 nutzten kommunale Behörden die früheren Gasträume. 1997 wurde der Lindenhof als Hotel und Restaurant wiedereröffnet. In diesem Zusammenhang erfolgte
 auch eine teilweise Rekonstruktion der historischen Ausmalung und Deckengestaltung. Seit Juli 2015 wird der frühere Gasthof als Unterkunft für Asylbewerber genutzt.
 
-![seegärten](../../../a_rectangle_328.gif)
+![seegärten](a_rectangle_328.gif)
 
 Die Straße wurde 1924 angelegt und Seegärten genannt, da sich hier der niedrigste Punkt des Dresdner Stadtgebietes
 befindet. Das Gelände war in der Vergangenheit häufig überschwemmt, was zur Entstehung kleiner Elblachen führte. Die
 heute zum Großteil verlandeten Tümpel sind Teil des Landschaftsschutzgebietes Elbtal. Zwischen 1921 und 1925 entstand an
 den Seegärten eine Wohnanlage des Kleinwohnungs-Bauvereins Dresden. Die vom Hellerauer Vorbild inspirierten Reihenhäuser wurden von Prof. Dr. Otto Schubert entworfen und blieben bis heute fast unverändert erhalten.
 
-![wildbergstraße](../../../a_rectangle_329.gif)
+![wildbergstraße](a_rectangle_329.gif)
 
 Ursprünglich wurde diese 1905 angelegte Straße Bahnstraße genannt, da sie unmittelbar an den Gleisen der Eisenbahnstrecke entlangführte. 1926 erfolgte
 nach dem Ort Wildberg bei Meißen die Umbenennung in Wildbergstraße.
 
-![zum tierheim](../../../a_rectangle_330.gif)
+![zum tierheim](a_rectangle_330.gif)
 
 Die Straße Zum Tierheim erhielt ihren Namen 1994, da sie zum Dresdner Tierheim führt. Das vor allem mit Spenden des
 Tierschutzvereins finanzierte Heim bietet herrenlosen Hunden, Katzen und Kleintieren ein Domizil und wurde in den 90er Jahren erweitert und modernisiert. In unmittelbarer Nähe befindet sich seit

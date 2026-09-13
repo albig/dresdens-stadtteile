@@ -3,7 +3,7 @@ title: "Burgberg"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![burgberg](../../../../burgberg_nlafleurbannerh.gif)
+![burgberg](burgberg_nlafleurbannerh.gif)
 
 * * *
 

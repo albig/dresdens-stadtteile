@@ -3,7 +3,7 @@ title: "Schloss Pillnitz"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![schloss pillnitz](../../../schloss_pillnitz_nlafleurbannerh.gif)
+![schloss pillnitz](schloss_pillnitz_nlafleurbannerh.gif)
 
 * * *
 

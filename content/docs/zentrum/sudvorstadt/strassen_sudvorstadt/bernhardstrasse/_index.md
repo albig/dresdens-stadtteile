@@ -3,7 +3,7 @@ title: "Bernhardstraße"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![bernhardstraße](../../../../bernhardstrasse_n1_banner2.gif)
+![bernhardstraße](bernhardstrasse_n1_banner2.gif)
 
 * * *
 
@@ -35,7 +35,7 @@ Gartenanlage, Autogaragen und Salonräume. Zum Hotel gehörte auch die benachbar
 ebenfalls Pensionsräume untergebracht waren. Besitzer war um 1918 Fritz Kühn. Wie die meisten Villen des Schweizer
 Viertels wurden diese beiden Gebäude 1945 zerstört und in der Nachkriegszeit abgerissen. 1955 errichte auf dem Areal das Deutsche Rote Kreuz einen noch heute vorhandenen Neubau.
 
-![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/bernhardstrasse/s_dvhotelwestminster.jpg)![](../../../../s_dvhotelwestminster2.jpg)![](../../../../s_dvhotelwestminster3.jpg)
+![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/bernhardstrasse/s_dvhotelwestminster.jpg)![](s_dvhotelwestminster2.jpg)![](s_dvhotelwestminster3.jpg)
 
 _Fotos: Hotel Westminuster mit Villa Astoria (links), in der Mitte das Vestibül, rechts der Rauchsalon im Hotel_
 
@@ -53,7 +53,7 @@ In diesem heute nicht mehr vorhandenen Wohnhaus lebte 1909/10 der Schriftsteller
 Theaterstücke, Gedichte und Essays und war darüber hinaus Herausgeber mehrere Kunstzeitschriften sowie Verfasser des
 ersten Autoreisebuches der Literaturgeschichte, in welchem er seine Italientour im Adler-Phaeton 1902 beschrieb. Ab 1914 diente die Villa als Kinderheim der Lukaskirchgemeinde.
 
-![](../../../../svbernhardstr13.jpg)Nr. 13: Das auch Ilsenhof genannte Haus im neoklassizistischen Stil _(Foto)_ wurde
+![](svbernhardstr13.jpg)Nr. 13: Das auch Ilsenhof genannte Haus im neoklassizistischen Stil _(Foto)_ wurde
 bis zur Zerstörung 1945 als Pension Brandt genutzt und war eine von zahlreichen derartigen Einrichtungen im Schweizer Viertel. Die ruhige und dennoch zentrumsnahe
 Lage machte die westliche Südvorstadt vor dem Zweiten Weltkrieg zum bevorzugten Standort von Pensionen, Mädchenpensionaten und Privatkliniken
 
@@ -114,7 +114,7 @@ Gebäuden der Bernhardstraße. Entworfen wurde die Villa vom renommierten Archit
 Elemente des englischen Landhausstils mit modernen funktionalen Merkmalen kombinierte und damit Maßstäbe für den
 Wohnhausbau nach Ausklang des Historismus setzte. Erster Besitzer war der sächsische Hofrat Dr. Martin Grübler.
 
-![](../../../../plauenbernhardstr116.jpg)Nr. 116: Das um 1890 erbaute Mehrfamilienhaus gehört mit seinen Ecktürmchen und dem Kuppeldach zu den bemerkenswertesten Gebäuden im oberen Straßenabschnitt _(Foto)_. Im Inneren erschließt ein kreisrundes Treppenhaus die einzelnen Etagen. 1930 erfolgte ein Umbau des Dachgeschosses, welches bei der jüngsten Sanierung 1994 durch ein zusätzliches Staffelgeschoss ersetzt wurde.
+![](plauenbernhardstr116.jpg)Nr. 116: Das um 1890 erbaute Mehrfamilienhaus gehört mit seinen Ecktürmchen und dem Kuppeldach zu den bemerkenswertesten Gebäuden im oberen Straßenabschnitt _(Foto)_. Im Inneren erschließt ein kreisrundes Treppenhaus die einzelnen Etagen. 1930 erfolgte ein Umbau des Dachgeschosses, welches bei der jüngsten Sanierung 1994 durch ein zusätzliches Staffelgeschoss ersetzt wurde.
 
 Bis 1942 lebte in diesem Gebäude der deutsch-jüdische Komponist und Dirigent Arthur Chitz. Chitz hatte in Prag u.a. bei Antonin Dvorák studiert und war ab 1918 Kapellmeister am
 Dresdner Schauspielhaus. Wegen seiner jüdischen Abstammung wurde er am 7. März 1933 von den Nazis aus dem Amt gedrängt und 1934 offiziell entlassen. 1940 musste er mit seiner

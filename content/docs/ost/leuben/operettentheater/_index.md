@@ -3,7 +3,7 @@ title: "Operettentheater"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![operettentheater](../../../operettentheater_nlafleurbannerh.gif)
+![operettentheater](operettentheater_nlafleurbannerh.gif)
 
 * * *
 

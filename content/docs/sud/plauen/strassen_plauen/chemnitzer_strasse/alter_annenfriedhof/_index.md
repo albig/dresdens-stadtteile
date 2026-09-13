@@ -3,7 +3,7 @@ title: "Alter Annenfriedhof"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-![alter annenfriedhof](../../../../../alter_annenfriedhof_nurbanlegendbannerh.gif)
+![alter annenfriedhof](alter_annenfriedhof_nurbanlegendbannerh.gif)
 
 * * *
 
@@ -19,17 +19,17 @@ date: 2024-02-17T22:13:43+01:00
 
 ![alter annenfriedhof chemnitzer str. 32 01187 dresden  tel. 0351/4 71 83 82](../../../../../sud/plauen/strassen_plauen/chemnitzer_strasse/alter_annenfriedhof/a_rectangle_1099.gif)
 
-[![](../../../../../annenfriedhof.jpg)](http://www.annenfriedhof-dresden.de)
+[![](annenfriedhof.jpg)](http://www.annenfriedhof-dresden.de)
 
 
-![](../../../../../s_dvalterannenfriedhof1.jpg)Der Alte Annenfriedhof entstand Mitte des 19. Jahrhunderts als Ersatz für den zu klein
+![](s_dvalterannenfriedhof1.jpg)Der Alte Annenfriedhof entstand Mitte des 19. Jahrhunderts als Ersatz für den zu klein
 gewordenen Annenfriedhof in der dichtbebauten Wilsdruffer Vorstadt. Die Wahl des neuen Standortes war heftig umstritten, da das Areal an der Chemnitzer Straße
 ursprünglich als Bauland vorgesehen war und man außerdem negative Auswirkungen auf den Betrieb der nahegelegenen Gaststätte Feldschlößchen befürchtete. Nachdem
 Forderungen, den bisherigen Friedhof am Sternplatz zu erweitern, ebenso abgelehnt wurden wie die Idee, auf einen neuen Begräbnisplatz ganz zu verzichten und die Toten
 stattdessen auf dem Trinitatisfriedhof beizusetzen, beschloss die Annenkirchgemeinde den Erwerb eines Grundstücks an der Chemnitzer Straße. Mit Zustimmung der Königlichen Kreisdirektion begannen 1847 die
 Vorarbeiten, so dass bereits am 2. Juni 1848 die erste Beisetzung erfolgen konnte.
 
-![](../../../../../s_dvalterannenfriedhof2.jpg)
+![](s_dvalterannenfriedhof2.jpg)
 Die gesamte Anlage wurde nach Plänen des Ratsbaumeisters Christian Gottlieb Spieß mit vier Begräbnisfeldern gestaltet, welche mit Hecken und Bäumen umrahmt sind. Bereits ein Jahr später
 wurde auf dem Friedhof eine Gedenkstätte für 53 Opfer des Dresdner Maiaufstandes geschaffen _(Foto rechts)_. Den gefallenen Revolutionären folgten schon bald Persönlichkeiten des Dresdner
 Kunst- und Kulturlebens, aber auch prominente Politiker sowie Professoren der Technischen Hochschule. Zu den hier beigesetzten Personen gehört u.a. Robert Henze, der zahlreiche
@@ -41,10 +41,10 @@ die Gebäude von Stadtbaudirektor Johann Friedrich Eichberg. Weitere geplante Er
 an der beengten Lage des Friedhofs zwischen Eisenbahnstrecke und Chemnitzer Straße. Nachdem sich auch die damals
 noch selbständige Gemeinde Plauen weigerte, Land für weitere Gräberfelder zur Verfügung zu stellen, entschloss sich die Annengemeinde zum Bau eines neuen Friedhofs in Löbtau, welcher 1875 als [Neuer Annenfriedhof](../../../../../sudwest/Lobtau/Friedenskirche/Neuer_Annenfriedhof/neuer_annenfriedhof.html) eingeweiht werden konnte.
 
-![](../../../../../s_dvalterannenfriedhof3.jpg)Die Bombenangriffe vom 13./14. Februar und vom 17. April 1945 richteten auf dem Alten Annenfriedhof erhebliche Schäden an. Einige historische Grabstätten gingen dabei verloren. Auch die Friedhofskapelle und das Leichenhaus wurden zerstört bzw. schwer beschädigt. Dank des Engagements von Friedhofsinspektor Geiser gelang es, einige beschädigte Gräber zu reparieren und den Friedhof wieder nutzbar zu machen. 1966 entstand auf dem Platz der zerstörten Kapelle ein
+![](s_dvalterannenfriedhof3.jpg)Die Bombenangriffe vom 13./14. Februar und vom 17. April 1945 richteten auf dem Alten Annenfriedhof erhebliche Schäden an. Einige historische Grabstätten gingen dabei verloren. Auch die Friedhofskapelle und das Leichenhaus wurden zerstört bzw. schwer beschädigt. Dank des Engagements von Friedhofsinspektor Geiser gelang es, einige beschädigte Gräber zu reparieren und den Friedhof wieder nutzbar zu machen. 1966 entstand auf dem Platz der zerstörten Kapelle ein
 Neubau. 1983 legte die Technische Universität an der Gruft des Literaturwissenschaftlers Hermann Hettner eine Gedenkstätte für neun Professoren an, deren Gräber nicht mehr zu rekonstruieren waren _(Foto)_. Weitere historische Grabstellen konnten in den letzten Jahren restauriert werden. Ein 2006 neu gestaltetes Gräberfeld beherbergt die sterblichen Überreste von 149 bekannten und 592 unbekannten Opfern des Luftangriffs 1945. Die Finanzierung übernahm der Schweizer Rolf Hartmann (+ 2007), die Umsetzung die Dresdner Landschaftsarchitektin Dr. Haufe. Auf dem schlichten Obelisk sind Worte aus den Klageliedern des Jeremias zu lesen, die Kreuzkantor Richard Mauersberger für sein Requiem zur Zerstörung Dresdens: Wie liegt die Stadt so wüst... verwendete.
 
-![](../../../../../s_dvannendenkmal.jpg)Annendenkmal:
+![](s_dvannendenkmal.jpg)Annendenkmal:
 Das Standbild wurde 1869 von Robert Henze als Brunnenfigur für den Vorplatz der Annenkirche geschaffen. Die Aufstellung erfolgte aus Anlass des 100. Jahrestages des
 Wiederaufbaus der Kirche und wurde von der Güntz-Stiftung finanziert. Im Mittelpunkt des Brunnens stand ein Bronzestandbild der sächsischen Kurfürstin Anna von Dänemark. Am Sockel
 gab es zwei Inschriftentafeln sowie Darstellungen des sächsischen und dänischen Wappens.

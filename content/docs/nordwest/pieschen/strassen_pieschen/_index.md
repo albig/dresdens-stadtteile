@@ -3,7 +3,7 @@ title: "Straßen Pieschen"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![straßen und plätze in pieschen](../../../strassen_pieschen_n1_banner2.gif)
+![straßen und plätze in pieschen](strassen_pieschen_n1_banner2.gif)
 
 * * *
 
@@ -81,7 +81,7 @@ Die Hans-Fromm-Straße wurde 2016 im Zusammenhang mit dem Neubauviertel "Markusp
 
 Zwischen 1912 und 1914 errichtete an der Hans-Sachs- und der benachbarten [Marienhofstraße](../../../nordwest/trachenberge/strassen_trachenberge/) der Dresdner Spar- und Bauverein die sogenannten Palmié-Häuser _(Foto)_. Architekt der kleinen Wohnanlage (Nr. 33-35) war Heinrich Koch. In den Zwanziger Jahren wurden am Straßenrand zahlreiche Gingko-Bäume angepflanzt. Die ursprünglich aus China stammenden Bäume bilden eine der in Sachsen äußerst seltenen Gingko-Alleen und stehen seit 2004 unter Naturschutz.
 
-![heidestraße](../../../a_rectangle_114.gif)
+![heidestraße](a_rectangle_114.gif)
 
 ![](../../../nordwest/pieschen/strassen_pieschen/piesch_heidestraße.jpg)![](../../../nordwest/pieschen/strassen_pieschen/werbung ebert.jpg)Die Heidestraße, Teil eines alten Verbindungsweges zwischen Pieschen und der Dresdner Heide, führt durch das Pieschener Fabrikviertel. 1879 hatte die damals noch selbstständige Gemeinde Pieschen das Areal zwischen Eisenbahn und Großenhainer Straße per Ortsgesetz als Industriegebiet ausgewiesen. Der in diesem Zusammenhang ausgebaute Weg erhielt 1886 den Namen Haidestraße. Seine westliche Verlängerung wurde zwischen 1892 und 1897 Moltkestraße genannt, bevor man den Abschnitt zwischen Riesaer und Großenhainer Straße ebenfals der Haidestraße zuordnete. 1906 wurde die Schreibweise in Heidestraße verändert.
 
@@ -201,7 +201,7 @@ Die Markusstraße verdankt ihren Namen, ebenso wie der angrenzende Markusplatz d
 
 _und das Pfarrhaus der Markuskirche (rechts)_
 
-![mohnstraße](../../../a_rectangle_115.gif)
+![mohnstraße](a_rectangle_115.gif)
 
 ![](../../../nordwest/pieschen/strassen_pieschen/piesch_mohnstr35.jpg)Die Mohnstraße verdankt ihren Namen dem früheren Pieschener Lehrer Gottlieb Mohn (1811-1881), der 48 Jahre an der Pieschener Schule tätig war. Ihren Namen erhielt sie 1889. Hier befand sich an der Ecke Mohnstraße/Altpieschen einst das größte Bauerngut Pieschens (Nr. 46), welches auch als Bischofsgut bekannt war. Ursprünglich gehörte es als Herrengut zum Besitz der Meißner Bischöfe, die es als Raststätte auf dem Weg von Meißen nach Stolpen nutzten. 1899 wurde das Gut abgerissen. Wenig später entstanden hier Wohnhäuser und die von Hans Erlwein entworfene Wohnanlage [Altpieschen 5-15](../../../nordwest/pieschen/strassen_pieschen/altpieschen/). Da sie in ihrem Verlauf teilweise dem alten Kirchweg von Pieschen nach Kaditz folgt, war ein Teil der Mohnstraße ab 1886 als Kirchstraße benannt und wurde erst 1897 ebenfalls der Mohnstraße zugeordnet.
 
@@ -213,7 +213,7 @@ Von den einstigen Handwerksbetriebe soll hier die um 1900 erstmals genannte Böt
 
 [![oschatzer straße](../../../nordwest/pieschen/strassen_pieschen/a_rectangle_1409.gif)](../../../nordwest/pieschen/strassen_pieschen/oschatzer_strasse/)
 
-![osterbergstraße](../../../a_rectangle_116.gif)
+![osterbergstraße](a_rectangle_116.gif)
 
 Die Osterbergstraße, bis zur Eingemeindung Pieschens 1897 Bergstraße genannt, wurde 1877 angelegt und führte zum Zeitpunkt ihrer Entstehung noch durch Weinberge der Pieschener Bauern. Namensgeber war der Osterberg in der Nähe von Niederwartha.
 Nach der Jahrhundertwende entstanden auch hier mehrstöckige Mietshäuser. 1879 wurde das heute von der [26\. Grundschule](../../../nordwest/pieschen/) genutzte Schulhaus gebaut. Das Eckhaus zur Bürgerstraße (Nr. 24/26) wurde um 1910 errichtet und beherbergte im Erdgeschoss in den 1930er Jahren eine Haushaltwaren-Verkaufsstelle des Konsumsvereins "Vorwärts". Ab 1941 nutzte die Post diese Räume. Das zweite Ladenlokal diente ab 1938 als Sparkassenfiliale. Zuvor war diese ab 1886 im Erdgeschoss des gegenüberliegenden Rathauses untergebracht. 1994 verzog sie ins Elbcenter. Die einstigen Schalterräume nutzt seitdem das DRK als Kleiderkammer.
@@ -244,7 +244,7 @@ Außerdem gibt es auf der Rehefelder Straße zwei Kindertagesstätten. Eine befi
 
 Während des Luftangriffs 1945 gab es auch im Bereich der Gartenanlage einige Schäden. In der Nachkriegszeit wurden die Gärten jedoch bald wieder für die Versorgung mit Obst und Gemüse genutzt. Das alte Vereinsheim wurde rekonstruiert und umgebaut 1964 erfolgte die Grundsteinlegung für den Neubau eines Kulturheims, welches am 25. Oktober 1969 eingeweiht werden konnte und heute als öffentliche Gaststätte dient. Zur Anlage gehören derzeit 280 Gärten.
 
-![riesaer straße](../../../a_rectangle_117.gif)
+![riesaer straße](a_rectangle_117.gif)
 
 Die Riesaer Straße wurde Ende des 19. Jahrhunderts parallel zum Bahndamm angelegt und führt an zahlreichen Industriebetrieben vorbei. Von 1883 bis 1886 trug sie zunächst den Namen Große Maschinenhausstraße, bevor dann der Name Fabrikstraße eingeführt wurde. Nach der Eingemeindung von Pieschen 1897 erfolgte die Umbenennung nach der Industriestadt Riesa.
 
@@ -258,7 +258,7 @@ Zweites größeres Unternehmen war die Malzfabrik Woldemar Schmidt AG an der Rie
 
 Sachsenverlag (Nr. 32): Die Sachsenverlag Druckerei- und Verlagsgesellschaft mbH wurde 1947 im Komplex des sogenannten "Goehle-Werkes" gegründet, in dem nach dem Zweiten Weltkrieg auch die "Sächsische Zeitung" beheimatet war. Der ausgedehnte Gebäudekomplex erstreckt sich zwischen Großenhainer, Heide- und Riesaer Straße und dient heute als Kulturzentrum "Zentralwerk e.V." und Gründerzentrum. Erstes Buch des neuen Verlags war die von Paul W. Eisold verfasste Dokumentation "Hitler wie er wirklich war" über den Aufstieg und die Verbrechen der Nationalsozialisten. Später konzentrierte man sich vor allem auf heimatkundliche Bücher und Kunstbände, von denen u.a. Fritz Löfflers "Das alte Dresden" bekannt geworden ist. Hinzu kamen belletristische Titel und Kinderbücher. 1962 wurde der Sachsenverlag aufgelöst.
 
-![robert-matzke-straße](../../../a_rectangle_118.gif)
+![robert-matzke-straße](a_rectangle_118.gif)
 
 ![](../../../nordwest/pieschen/strassen_pieschen/pieschrmatzke34.jpg)Die heutige Robert-Matzke-Straße war ursprünglich Teil eines Verbindungsweges, welcher von Pieschener Ortskern zum St.-Pauli-Friedhof und weiter in die Dresdner Heide führte und deshalb ab 1886 Haidestraße genannt wurde. 1892 erhielt der westliche Abschnitt dieses Weges bis zur Großenhainer Straße die Benennung Moltkestraße. 1897 wurde der östlich der Bahnlinie gelegene Teil wieder der Heidestraße zugeordnet, die Moltkestraße dafür zwei Jahre später bis zur Leipziger Straße verlängert. Helmuth Graf von Moltke (1800-1891) war Generalfeldmarschall in der preußischen Armee und gilt als einer der bedeutendsten Militärführer des 19. Jahrhunderts. 1871 ernannte ihn die Stadt Dresden zum Ehrenbürger.
 
@@ -336,7 +336,7 @@ Ab 1930 wohnte der aus Trachau stammende Arbeiter Albert Hensel mit seiner Ehefr
 
 Die Waldstraße wurde 1899 angelegt und erhielt 1902 ihren Namen, da sie damals noch entlang des Heidewalds führte. Ursprünglich war eine durchgehende Straßenführung von der Hans-Sachs- bis zur Hubertusstraße geplant, die jedoch nicht zustande kam. Zwischen 1912 und 1914 wurde hier nach Plänen von Heinrich Koch eine kleine Wohnanlage des Dresdner Spar- und Bauvereins gebaut (Nr. 1-7).
 
-![wurzener straße](../../../a_rectangle_119.gif)
+![wurzener straße](a_rectangle_119.gif)
 
 Die Wurzener Straße wurde bereits 1866 als Nordstraße angelegt und nach der Eingemeindung Pieschens 1898 nach der Kleinstadt Wurzen bei Leipzig benannt. In diesem damals noch weitgehend unbebautem Gebiet lagen neben Kleingärten auch die Sportplätze des Pieschener Arbeiterturnvereins. Außerdem gab es im Abschmitt zwischen Leisniger und Rehefelder Straße einige Wohnhäuser. In einem dieser Häuser (Nr. 12) wohnte ab 1927 der kommunistische Arbeiterfunktionär und Dresdner Stadtrat Arno Lade. Lade wurde 1944 wegen seiner Mitarbeit in einer Widerstandsgruppe verhaftet und starb im Polizeigefängnis. An ihn erinnert die in der Nähe gelegene Arno-Lade-Straße.
 

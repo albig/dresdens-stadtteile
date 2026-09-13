@@ -3,7 +3,7 @@ title: "Kapellknabeninstitut"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![kapellknabeninstitut](../../../../kapellknabeninstitut_nlafleurbannerh.gif)
+![kapellknabeninstitut](kapellknabeninstitut_nlafleurbannerh.gif)
 
 * * *
 

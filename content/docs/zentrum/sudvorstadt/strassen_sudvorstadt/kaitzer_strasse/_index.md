@@ -3,7 +3,7 @@ title: "Kaitzer Straße"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![kaitzer straße](../../../../kaitzer_strasse_n1_banner2.gif)
+![kaitzer straße](kaitzer_strasse_n1_banner2.gif)
 
 * * *
 

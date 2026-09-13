@@ -3,7 +3,7 @@ title: "Heiliger Born"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![heiliger born](../../../heiliger_born_nurbanlegendbannerh.gif)
+![heiliger born](heiliger_born_nurbanlegendbannerh.gif)
 
 * * *
 

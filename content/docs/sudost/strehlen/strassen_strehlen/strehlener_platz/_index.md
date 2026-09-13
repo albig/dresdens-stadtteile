@@ -3,7 +3,7 @@ title: "Strehlener Platz"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![strehlener platz](../../../../strehlener_platz_n1_banner2.gif)
+![strehlener platz](strehlener_platz_n1_banner2.gif)
 
 * * *
 

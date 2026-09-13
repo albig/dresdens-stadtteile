@@ -3,7 +3,7 @@ title: "Sagen Um den Olterteich"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![sagen um den olterteich](../../../../olterteichsage_nlafleurbannerh.gif)
+![sagen um den olterteich](olterteichsage_nlafleurbannerh.gif)
 
 * * *
 

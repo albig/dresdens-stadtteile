@@ -3,7 +3,7 @@ title: "Weidners Sanatorium"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![weidners sanatorium](../../../../weidners_sanatorium_nlafleurbannerh.gif)
+![weidners sanatorium](weidners_sanatorium_nlafleurbannerh.gif)
 
 * * *
 

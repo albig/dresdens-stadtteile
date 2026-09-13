@@ -3,7 +3,7 @@ title: "Albrechtsschlösser"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![albrechtsschlösser](../../../albrechtsschlosser_nlafleurbannerh.gif)
+![albrechtsschlösser](albrechtsschlosser_nlafleurbannerh.gif)
 
 * * *
 

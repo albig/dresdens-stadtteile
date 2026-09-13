@@ -3,7 +3,7 @@ title: "Straßen Meusslitz"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![straßen und plätze in meußlitz](../../../strassen_meusslitz_n1_banner2.gif)
+![straßen und plätze in meußlitz](strassen_meusslitz_n1_banner2.gif)
 
 * * *
 

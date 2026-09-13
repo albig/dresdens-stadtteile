@@ -3,7 +3,7 @@ title: "Kyawstraße"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![kyawstraße](../../../../kyawstrasse_n1_banner2.gif)
+![kyawstraße](kyawstrasse_n1_banner2.gif)
 
 * * *
 
@@ -29,7 +29,7 @@ Nr. 4: Die Villa war bis 1936 Wohnsitz des Unternehmers Marceli Komendzinski, In
 
 Villa Kyaw (Nr. 8): Das Haus entstand 1863 als Wohnsitz für den Rechtsanwalt Baron Heinrich Rudolph von Kyaw. Neben seiner beruflichen Tätigkeit befasste er sich mit Geschichte und verfasste u.a. die erste Biografie des Fürsten Putjatin. Außerdem setzte er sich für die Einrichtung einer evangelischen Kirche im Ort ein. Nach seinem Tod 1885 wohnte hier seine Tochter Elisabeth, mit ihrem Ehemann, dem Kunstmaler Carl von Ledebur. Später lebte der Bildhauer, Maler und Grafiker Walter Rehn (1884-1951) im Haus. Rehn hatte nach seiner Lehre als Porzellanmaler an der Kunstgewerbeschule studiert und war dann freischaffend tätig.
 
-![](../../../../klzkyawstr9.jpg)Landhaus Daheim (Nr. 9): Das villenartige Gebäude _(Foto)_ entstand nach 1890. Hier lebte von 1897 bis zu seinem Umzug in das neu errichtete Rathaus 1902 der Kleinzschachwitzer Gemeindevorstand Emil Bernhard Thömel. Unter seiner Regie entwickelte sich Kleinzschachwitz zum beliebten Wohnvorort Dresdens mit moderner Infrastruktur und zahlreichen Villenbauten.
+![](klzkyawstr9.jpg)Landhaus Daheim (Nr. 9): Das villenartige Gebäude _(Foto)_ entstand nach 1890. Hier lebte von 1897 bis zu seinem Umzug in das neu errichtete Rathaus 1902 der Kleinzschachwitzer Gemeindevorstand Emil Bernhard Thömel. Unter seiner Regie entwickelte sich Kleinzschachwitz zum beliebten Wohnvorort Dresdens mit moderner Infrastruktur und zahlreichen Villenbauten.
 
 Villa Germania (Nr. 15): Die Villa wurde 1892 für den Arzt Dr. Scheffler erbaut und bis 1936 von der Familie bewohnt. Ab 1937 diente sie bis zum Ende des Zweiten Weltkriegs als Zweitwohnsitz des sächsischen NS-Gauleiters Mutschmann. Danach nutzte man das Haus ab 1946 als Mietshaus. 2006 wurde die Villa saniert
 

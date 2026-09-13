@@ -3,7 +3,7 @@ title: "Marcolinipalais"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![marcolinipalais](../../../../../marcolinipalais_nlafleurbannerh.gif)
+![marcolinipalais](marcolinipalais_nlafleurbannerh.gif)
 
 * * *
 

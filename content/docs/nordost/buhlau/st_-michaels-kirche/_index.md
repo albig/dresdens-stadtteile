@@ -3,7 +3,7 @@ title: "St.-Michaels-Kirche"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![st.-michaels-kirche](../../../st_-michaels-kirche_nlafleurbannerh.gif)
+![st.-michaels-kirche](st_-michaels-kirche_nlafleurbannerh.gif)
 
 * * *
 

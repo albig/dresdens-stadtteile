@@ -3,7 +3,7 @@ title: "Plattleite"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![plattleite](../../../../plattleite_n1_banner2.gif)
+![plattleite](plattleite_n1_banner2.gif)
 
 * * *
 

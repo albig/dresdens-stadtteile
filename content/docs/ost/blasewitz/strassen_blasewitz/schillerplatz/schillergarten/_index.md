@@ -3,7 +3,7 @@ title: "Schillergarten"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![schillergarten](../../../../../schillergarten_nlafleurbannerh.gif)
+![schillergarten](schillergarten_nlafleurbannerh.gif)
 
 * * *
 

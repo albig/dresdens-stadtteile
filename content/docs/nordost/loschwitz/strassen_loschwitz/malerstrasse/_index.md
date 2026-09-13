@@ -3,7 +3,7 @@ title: "Malerstraße"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![malerstraße](../../../../malerstrasse_n1_banner2.gif)
+![malerstraße](malerstrasse_n1_banner2.gif)
 
 * * *
 

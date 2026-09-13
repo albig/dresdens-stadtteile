@@ -3,7 +3,7 @@ title: "Kirchgemeinde Gittersee"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![kirchgemeinde gittersee](../../../kirche_gittersee_nlafleurbannerh.gif)
+![kirchgemeinde gittersee](kirche_gittersee_nlafleurbannerh.gif)
 
 * * *
 

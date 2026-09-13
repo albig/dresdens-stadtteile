@@ -3,7 +3,7 @@ title: "Gaststätten in Pillnitz"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![gaststätten in pillnitz](../../../gaststatten_pillnitz_nlafleurbannerh.gif)
+![gaststätten in pillnitz](gaststatten_pillnitz_nlafleurbannerh.gif)
 
 * * *
 

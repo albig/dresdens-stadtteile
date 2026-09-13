@@ -3,7 +3,7 @@ title: "Begerburg"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-![begerburg](../../../begerburg_nlafleurbannerh.gif)
+![begerburg](begerburg_nlafleurbannerh.gif)
 
 * * *
 
@@ -38,7 +38,7 @@ burgartige Villa im neogotischen Stil errichten. Nach seinem Besitzer Begerburg 
 großen Saal, einen Kaffeesalon sowie mehrere Treppenaufgänge, die in die oberen Räume und zum Turm mit Aussichtsplattform führten. Nach dem Absturz eines
 Gastes über die Klippen des Steinbruchs unterhalb des Hauses wurde die Schankkonzession jedoch wieder entzogen und die Begerburg in ein Wohnhaus umgewandelt. Bis  1934 blieb sie in Familienbesitz.
 
-![](../../../d_lzschenbegerburg4.jpg)Wegen seines schlechten Bauzustandes war 1934 sogar ein Abriss des Gebäudes
+![](d_lzschenbegerburg4.jpg)Wegen seines schlechten Bauzustandes war 1934 sogar ein Abriss des Gebäudes
 geplant, der jedoch an den Protesten der Einwohner Dölzschens scheiterte. Stattdessen übernahm die Gemeinde das Areal und ließ die verfallene Villa
 sanieren. Anschließend wurde sie bis 1945 zunächst von den Nationalsozialisten, danach zeitweise als FDJ-Heim Grete Walther genutzt. Später diente sie als
 Domizil der Dölzschener Bücherei und als Lagerraum. 1979 erfolgte der Verkauf an einen privaten Besitzer, der die Begerburg 1985 umfassend renovieren ließ und als Pension einrichtete.

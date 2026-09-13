@@ -3,7 +3,7 @@ title: "Ziegelei Kunath"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![ziegelei kunath](../../../../ziegelei_kunath_nurbanlegendbannerh.gif)
+![ziegelei kunath](ziegelei_kunath_nurbanlegendbannerh.gif)
 
 * * *
 

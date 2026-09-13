@@ -3,7 +3,7 @@ title: "Kirchgemeinde Coschütz"
 date: 2024-02-17T22:13:40+01:00
 ---
 
-![kirchgemeinde coschütz](../../../kirchgemeinde_coschutz_nlafleurbannerh.gif)
+![kirchgemeinde coschütz](kirchgemeinde_coschutz_nlafleurbannerh.gif)
 
 * * *
 

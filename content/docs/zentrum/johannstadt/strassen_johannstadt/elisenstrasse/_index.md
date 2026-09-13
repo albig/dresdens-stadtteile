@@ -3,7 +3,7 @@ title: "Elisenstraße"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![elisenstraße](../../../../elisenstrasse_n1_banner2.gif)
+![elisenstraße](elisenstrasse_n1_banner2.gif)
 
 * * *
 

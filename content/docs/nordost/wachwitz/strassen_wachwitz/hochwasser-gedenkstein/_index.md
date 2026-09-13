@@ -3,7 +3,7 @@ title: "Hochwasser-Gedenkstein"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![hochwasser-gedenkstein](../../../../hochwasser-gedenkstein_nlafleurbannerh.gif)
+![hochwasser-gedenkstein](hochwasser-gedenkstein_nlafleurbannerh.gif)
 
 * * *
 

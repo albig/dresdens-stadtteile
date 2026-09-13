@@ -3,7 +3,7 @@ title: "Plauenscher Grund"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-![plauenscher grund](../../../plauenscher_grund_nurbanlegendbannerh.gif)
+![plauenscher grund](plauenscher_grund_nurbanlegendbannerh.gif)
 
 * * *
 
@@ -26,7 +26,7 @@ date: 2024-02-17T22:13:43+01:00
 
 Ursprünglich wurde der gesamte Talabschnitt der Weißeritz zwischen Plauen und Tharandt als Plauenscher Grund bezeichnet. Im engeren Sinne gehören die im Tal gelegenen Fluren der Gemeinden Plauen, Dölzschen, Gittersee und Coschütz bis zur Freitaler Stadtgrenze dazu. Der Grund war schon im Mittelalter Standort mehrerer Mühlen, blieb jedoch ansonsten unbesiedelt. Wirtschaftliche Bedeutung hatte die bis 1875 betriebene Holzflößerei auf der Weißeritz sowie der Anbau von Obst und Wein an den Hängen. Reste ehemaliger Weinbergsterrassen sind stellenweise noch erhalten. Bereits 1366 wurde in Plauen erstmals eine Wassermühle erwähnt. Im 15. Jahrhundert folgte die Walkmühle der Dresdner Tuchmacher, die 1568 Kurfürst August erwarb. Dieser ließ das Gebäude abbrechen und im darauffolgenden Jahr durch eine Mahlmühle ersetzen. Als [Hofmühle](../../../sud/plauen/bienertmuhle/) oblagen zeitweise 66 Orte der Dresdner Umgebung dem Mahlzwang dieser Mühle, welcher erst um 1840 endete. Nach Übernahme der früheren Hofmühle durch Traugott Bienert im Jahr 1852 wurde das Unternehmen als Bienertmühle bekannt.
 
-![](../../../sud/plauen/plauenscher_grund/plaugrund4.jpg)![](../../../plaugrund5.jpg)
+![](../../../sud/plauen/plauenscher_grund/plaugrund4.jpg)![](plaugrund5.jpg)
 
 **_Bilder:_** _Der Plauensche Grund um 1810 - Gemälde von Carl August Richter (links) und Anton Graff (rechts)_
 

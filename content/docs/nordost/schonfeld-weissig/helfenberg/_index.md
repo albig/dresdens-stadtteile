@@ -30,7 +30,7 @@ eine Ziegelei, ein Brauhaus, eine Schäferei, zwei Mühlen, 13 Fischteiche sowie
 Regie von Ernst Abraham von Dehn-Rothfelser wurden zudem um 1600 Obstbaumalleen angelegt und der Weinbau an den Elbhängen forciert. 1628 entstand im Rittergut die noch bis in die Nachkriegszeit betriebene Helfenberger
 Schlossbrauerei. Schwer getroffen wurden Ort und Gut im Jahr 1644 bei einem Überfall des schwedischen Generals Lennart von Torstenson, welcher das Dorf niederbrannte.
 
-![](../../../helfenbergrittergut.jpg)Neben Landwirtschaft betrieben die Helfenberger Rittergutsbesitzer auch Weinbau. Die
+![](helfenbergrittergut.jpg)Neben Landwirtschaft betrieben die Helfenberger Rittergutsbesitzer auch Weinbau. Die
 Weinberge lagen am Elbhang zwischen dem Ort und dem benachbarten Rockau. An diesem erinnert noch das Alte Presshaus südwestlich des Gutes, welches 1673 errichtet wurde.
 1860 erhielt das unter Denkmalschutz stehende Gebäude nach einem Umbau sein heutiges Aussehen.
 
@@ -44,7 +44,7 @@ nach 1945 eingemeindet wurde. Das frühere Rittergut wurde nach der Bodenreform 
 Herrenhaus:
 
 
-![](../../../helfenbergschlo_.jpg)Das Herrenhaus entstand im 16. Jahrhundert als Sitz des Helfenberger Rittergutes, wobei für
+![](helfenbergschlo_.jpg)Das Herrenhaus entstand im 16. Jahrhundert als Sitz des Helfenberger Rittergutes, wobei für
 den Bau auch Abbruchmaterial der alten Burg Verwendung fand. Das heutige Gebäude stammt von 1775 und wurde um 1800 von Gottlob Friedrich Thormeyer klassizistisch umgestaltet.
 Dabei verlängerte man die Hauptfront des Gebäudes um zwei Achsen und verlegte den Eingang zur Ostseite. Künstlerisch bemerkenswert ist die neu geschaffene Giebelseite zum
 Park, welche vom Bildhauer Franz Pettrich mit einem Relieffries mit Szenen aus der griechischen Mythologie gestaltet wurde _(Foto rechts)_. Darunter führt eine Freitreppe in den Park.

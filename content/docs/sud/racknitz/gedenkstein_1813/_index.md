@@ -3,7 +3,7 @@ title: "Gedenkstein 1813"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-![gedenkstein 1813](../../../gedenkstein_1813_nlafleurbannerh.gif)
+![gedenkstein 1813](gedenkstein_1813_nlafleurbannerh.gif)
 
 * * *
 

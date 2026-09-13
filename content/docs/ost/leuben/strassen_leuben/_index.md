@@ -3,7 +3,7 @@ title: "Straßen Leuben"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![straßen und plätze in leuben](../../../strassen_leuben_n1_banner2.gif)
+![straßen und plätze in leuben](strassen_leuben_n1_banner2.gif)
 
 * * *
 
@@ -32,7 +32,7 @@ Nach 1945 wurde die Anstalt zunächst als Heim für schwererziehbare Jugendliche
 
 
 
-![am dahlienheim](../../../a_rectangle_1244.gif)
+![am dahlienheim](a_rectangle_1244.gif)
 
 Die kurze Straße am Südrand des ehemaligen Dorfkerns verdankt ihren Namen der bis 1969 hier beheimateten [Dahlienzucht Engelhardt](../../../ost/leuben/strassen_leuben/gartnerei_engelhardt/). Das 1914 gegründete und auf die Züchtung dieser Zierpflanzen spezialisierte Unternehmen gehörte zu den
 bekanntesten Leubener Gärtnereien, musste jedoch später dem Neubaugebiet weichen. Heute führt die Familie ihre Gärtnerei in Heidenau weiter. Am Dahlienheim entstanden zwischen 1970 und 1974 Neubauten.
@@ -128,7 +128,7 @@ werden.
 
 Die Reisstraße wurde nach 1900 am Rande des Dorfkerns angelegt und ist wie auch zahlreiche weitere Leubener Straßen nach einem bedeutenden Physiker benannt. Johann Philipp Reis (1834-1874) erfand 1861 das Telefon. Die Wohngebäude entstanden in den Jahren bis zum Ersten Weltkrieg bzw. in den 1950er und 60er Jahren des 20. Jahrhunderts.
 
-![](../../../ost/leuben/strassen_leuben/leubenreisstr.jpg)![](../../../leubenreisstr2.jpg)
+![](../../../ost/leuben/strassen_leuben/leubenreisstr.jpg)![](leubenreisstr2.jpg)
 
 **_Fotos:_** _Die Wohnanlage an der Reisstraße mit Details der Fassadengestaltung_
 
@@ -151,7 +151,7 @@ Auf dem Gelände der nach 1990 stillgelegten Gärtnerei wurde 2010 mit dem Bau e
 
 ![](../../../ost/leuben/strassen_leuben/münch_haufe1926.jpg)Die von den Inhabern 1912 erstmals vorgestellte Rosenzüchtung Heinrich Münch erhielt im gleichen Jahr auf einer internationalen Ausstellung in London eine Silbermedaille. Zu den mit der Gärtnerei verbundenen Rosensorten gehörten auch "Frau Elisabeth Münch" und "Frau Ida Münch". Nach dem Ersten Weltkrieg widmete man sich stärker dem Vertrieb und hatte zeitweise ein Sortiment von über 1000 Sorten im Angebot. Zur Jubiläums-Gartenschau 1926 in Dresden gestaltete die Großgärtnerei einen Rosen-Sondergarten mit Teehaus, der zu den Höhepunkten der Schau gehörte _(Foto rechts)_. Die Gärtnerei blieb auch nach dem Zweiten Weltkrieg in Betrieb und existierte bis 1990.
 
-![rottwerndorfer straße](../../../a_rectangle_555.gif)
+![rottwerndorfer straße](a_rectangle_555.gif)
 
 Die Rottwerndorfer Straße wurde im Zusammenhang mit dem Bau des Neubauviertels Leuben im westlichen Teil der Ortsflur
 angelegt. Ihren Namen erhielt sie nach dem heutigen Pirnaer Stadtteil Rottwerndorf. Mitte der 1970er Jahre entstanden hier

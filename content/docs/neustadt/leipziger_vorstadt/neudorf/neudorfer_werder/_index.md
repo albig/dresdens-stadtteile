@@ -3,7 +3,7 @@ title: "Neudorfer Werder"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![neudorfer werder](../../../../neudorfer_werder_nurbanlegendbannerh.gif)
+![neudorfer werder](neudorfer_werder_nurbanlegendbannerh.gif)
 
 * * *
 
@@ -49,7 +49,7 @@ außerdem ein Sportplatz an der Eisenberger Straße. U.a. finden hier Fußballsp
 
 TSV Rotation Dresden:
 
-![](../../../../lvstadioneisenbergerstr.jpg)Der Verein wurde 1945 unter dem Namen SG Pieschen von ehemaligen Mitgliedern
+![](lvstadioneisenbergerstr.jpg)Der Verein wurde 1945 unter dem Namen SG Pieschen von ehemaligen Mitgliedern
 des Fußballvereins Sportfreunde 01 gegründet und nutzte zunächst einen Sportplatz an der Wurzener Straße in der Nähe des Sachsenbades. Wenig später wechselte
 man jedoch in das ehemalige Allianz-Stadion (Paul-Gruner-Stadion) zwischen Moritzburger und Eisenberger Straße _(Foto)_. Ab 1950 beteiligte man sich als BSG
 Sachsenverlag bzw. als BSG Rotation Dresden am Spielbetrieb und schaffte es bis in die DDR-Oberliga. Trägerbetrieb war zeitweise der Verlag der Sächsischen

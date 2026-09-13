@@ -3,7 +3,7 @@ title: "Comeniusstraße"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![comeniusstraße](../../../../comeniusstrasse_n1_banner2.gif)
+![comeniusstraße](comeniusstrasse_n1_banner2.gif)
 
 * * *
 

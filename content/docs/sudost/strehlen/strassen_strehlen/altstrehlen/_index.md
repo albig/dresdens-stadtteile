@@ -3,7 +3,7 @@ title: "Altstrehlen"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![altstrehlen](../../../../altstrehlen_n1_banner2.gif)
+![altstrehlen](altstrehlen_n1_banner2.gif)
 
 * * *
 

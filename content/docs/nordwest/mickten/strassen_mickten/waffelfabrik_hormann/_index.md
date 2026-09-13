@@ -13,7 +13,7 @@ date: 2024-02-17T22:13:36+01:00
 
 * * *
 
-![](../../../../h_rmannmarke1.jpg)
+![](h_rmannmarke1.jpg)
 
 
 ![](../../../../nordwest/mickten/strassen_mickten/waffelfabrik_hormann/micktenh_rmann1.jpg)Das Unternehmen wurde 1895 in Dresden-Altstadt von den Brüdern Max
@@ -28,7 +28,7 @@ VEB Waffelfabrik Radebeul integriert. Zeitweise befand sich auf dem Gelände au�
 1995/96 die Wohnhäuser an der neu angelegten Straße Elbvillenweg.. Der unter Denkmalschutz stehende Gebäudekomplex zwischen Stern-, Trachauer und  Kötzschenbroder Straße _(Fotos)_
 beherbergt nach seiner Sanierung heute ebenfalls Wohnungen.
 
-![](../../../../h_rmannmarke3.jpg)![](../../../../h_rmannmarke2.jpg)![](../../../../h_rmannmarke4.jpg)![](../../../../h_rmannmarke5.jpg)
+![](h_rmannmarke3.jpg)![](h_rmannmarke2.jpg)![](h_rmannmarke4.jpg)![](h_rmannmarke5.jpg)
 
 _Sammelbilder-Werbemarken der Firma Hörmann aus der Zeit vor dem Zweiten Weltkrieg_
 

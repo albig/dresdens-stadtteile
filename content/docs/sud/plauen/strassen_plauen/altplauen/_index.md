@@ -3,7 +3,7 @@ title: "Altplauen"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-![altplauen](../../../../altplauen_n1_banner2.gif)
+![altplauen](altplauen_n1_banner2.gif)
 
 * * *
 
@@ -25,7 +25,7 @@ gegenüber liegende Straßenseite nehmen die Bauten der [Bienertmühle](../../..
 Flußufers zur Hegereiterbrücke. 1921 erfolgte die Verlegung der Talstraße auf die andere Uferseite. Zwei Jahre später entstand in Altplauen der neue Eisenbahnhaltepunkt Dresden-Plauen mit Straßenunterführung ( _Foto rechts_). Zuvor gab es an dieser Stelle einen mit Schranken versehenen Bahnübergang _(Foto oben)_. Das frühere Bahnhofsgebäude (im Bild rechts) nutzt seit einigen
 Jahren ein Jugendklub. Zugleich dient die Station jedoch auch weiterhin als S-Bahn-Haltepunkt.
 
-![](../../../../plauenaltpl.jpg)Im Zusammenhang mit der Hochlegung der Eisenbahngleise und der
+![](plauenaltpl.jpg)Im Zusammenhang mit der Hochlegung der Eisenbahngleise und der
 Einrichtung des neuen Haltepunktes entstand zugleich eine neue Straßenbahntrasse von der Tharandter Straße über Altplauen zum Chemnitzer Platz. Zusätzlich gab es ab 1926 ein bis 1964 genutztes Gütergleis in den Hof
 der Bienertmühle. Gleisreste sind noch heute im Hof des Betriebsgeländes zu sehen. Die nach 1945 über die Reckestraße geführte Straßenbahnstrecke wurde 1999 aus verkehrstechnischen Gründen stillgelegt und durch eine
 Neutrassierung vom Münchner Platz zum Westendring ersetzt. Das Foto zeigt die Eisenbahnunterführung kurz vor Einstellung des Straßenbahnverkehrs im Jahr 1998.

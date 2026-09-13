@@ -3,7 +3,7 @@ title: "Tännichtgrund"
 date: 2024-02-17T22:13:46+01:00
 ---
 
-![tännichtgrund](../../../tannichtgrund_nurbanlegendbannerh.gif)
+![tännichtgrund](tannichtgrund_nurbanlegendbannerh.gif)
 
 * * *
 

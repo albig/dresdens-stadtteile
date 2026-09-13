@@ -3,7 +3,7 @@ title: "Trachauer Siedlung"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![trachauer siedlung](../../../trachauer_siedlung_nlafleurbannerh.gif)
+![trachauer siedlung](trachauer_siedlung_nlafleurbannerh.gif)
 
 * * *
 

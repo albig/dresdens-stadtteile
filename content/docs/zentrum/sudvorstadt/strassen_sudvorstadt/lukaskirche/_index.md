@@ -3,7 +3,7 @@ title: "Lukaskirche"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![lukaskirche](../../../../lukaskirche_nlafleurbannerh.gif)
+![lukaskirche](lukaskirche_nlafleurbannerh.gif)
 
 * * *
 

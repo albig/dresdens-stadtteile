@@ -3,7 +3,7 @@ title: "Moritzburger Straße"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![moritzburger straße](../../../../moritzburger_strasse_n1_banner2.gif)
+![moritzburger straße](moritzburger_strasse_n1_banner2.gif)
 
 * * *
 
@@ -30,7 +30,7 @@ Flugschau ums Leben kam. Zwischen 1938/39 und 1941 errichtete die Wohnungsbauges
 fielen. Weitere Gebäude wurden 1945 zerstört bzw. zu DDR-Zeiten aufgrund ihres schlechten Bauzustandes abgerissen. Als letzte Häuser der ursprünglichen Bebauung
 verschwanden 1996 die Häuser Moritzburger Straße 10, 12 und 14 zugunsten einer modernen Wohnanlage. Heute erinnern lediglich die Gebäude Nr. 76 und 78 an die dörfliche Vergangenheit der Moritzburger Straße.
 
-![](../../../../lvmoritzburgerstr76_2.jpg)![](../../../../lvmoritzburgerstr76.jpg)
+![](lvmoritzburgerstr76_2.jpg)![](lvmoritzburgerstr76.jpg)
 
 **_Fotos:_** _Wohnhäuser an der Moritzburger Straße 76 - 78 um 1935 und 2013_
 

@@ -3,7 +3,7 @@ title: "Freiberger Straße"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![freiberger straße](../../../freiberger_strasse_n1_banner2.gif)
+![freiberger straße](freiberger_strasse_n1_banner2.gif)
 
 * * *
 
@@ -47,7 +47,7 @@ Nach 1990 endete der Betrieb der Industriebahn, deren Gleisanlagen man wenig sp�
 
 **_Foto:_** _ehemalige Eisenbahnbrücke über die Freiberger Straße (abgerissen im März 2007)_
 
-![](../../../l_btaugeissler.jpg)Militäreffekten-Fabrik Geißler & Hast: Die Gold- und Silbermanufaktur und
+![](l_btaugeissler.jpg)Militäreffekten-Fabrik Geißler & Hast: Die Gold- und Silbermanufaktur und
 Militär-Effekten-Fabrik Löbtau entstand 1815 und befand sich zunächst im Besitz von Leopold Zilliger. Das zu den ältesten Löbtauer Gewerbebetrieben gehörende
 Unternehmen wurde 1868 von Friedrich Geißler erworben, der zwei Jahre später Max Hast als Teilhaber aufnahm, so dass der Betrieb fortan als Geißler & Hast
 firmierte. Hergestellt wurden vorrangig Zubehörteile für Uniformen wie Schärpen, Säbelteile und Schulterstücke für den Bedarf der sächsischen Armee.
@@ -77,7 +77,7 @@ Spielplatzes. Dabei wurden Teile, u.a. der Sockel eines alten Industrieschornste
 
 Maschinenfabrik J. M. Lehmann:
 
-![](../../../l_btaumaschinenfabrik.jpg)Das Unternehmen wurde 1834 von Johann Martin Lehmann (1802-1869) in
+![](l_btaumaschinenfabrik.jpg)Das Unternehmen wurde 1834 von Johann Martin Lehmann (1802-1869) in
 Dresden gegründet und baute vorrangig Maschinen zur Herstellung von Kakao-, Schokoladen- und Zuckerwaren. Zu den Entwicklungen der jungen Firma gehörten u.a. eine neuartige Walzenreibemaschine für Schokolade
 sowie die erste Kakaoentölungs-Presse mit hydraulischer Handpumpe.
 
@@ -95,7 +95,7 @@ nach Kriegsende verlassen und in Wasseralfingen in Württemberg einen Neuanfang 
 
 **_Bilder:_** _Meyers Großes Konversations-Lexikon, Band 17. Leipzig 1909_
 
-![](../../../weger___warmuth.jpg)
+![](weger___warmuth.jpg)
 Nr. 116: Das Wohnhaus sowie das angrenzende Grundstück gehörten bis 1945 zum ausgedehnten Betriebsgelände der Maschinenfabrik Lehmann. Im Erdgeschoss des
 Vorderhauses gab es vor dem Ersten Weltkrieg eine kleine Schankwirtschaft. Nachdem in den Zwanziger Jahren die Hauptproduktion der Maschinenfabrik nach Heidenau
 verlegt worden war, vermietete man einige nicht mehr benötigte Gebäude an Fremdfirmen. U.a. hatte hier der Konservenhersteller Weger & Warmuth seine
@@ -109,7 +109,7 @@ fehlgeschlagener Privatisierung schloss die Gaststätte Anfang 1990 und stand se
 
 Nr.: 113-121: Die Gebäude zwischen Saxoniastraße und Ebertplatz gehören zur Wohnanlage des Dresdner Spar- und Bauvereins und wurden 1919-1921 nach Plänen von Paul Beck errichtet.
 
-![](../../../l_btaufreibergerstr132.jpg)Nr. 132 / 134: Die beiden repräsentativen Geschäftshäuser entstanden Ende des 19.
+![](l_btaufreibergerstr132.jpg)Nr. 132 / 134: Die beiden repräsentativen Geschäftshäuser entstanden Ende des 19.
 Jahrhunderts unmittelbar an der [Bismarckbrücke](../../../sudwest/lobtau/strassen_lobtau/lobtauer_brucken/) über die Weißeritz. Zusammen mit dem
 gegenüberliegenden Wohnhaus Nr. 123 und den anschließenden Gebäuden des [Crispiplatzes](../../../sudwest/lobtau/strassen_lobtau/ebertplatz/) bildeten sie den repräsentativen Brückenkopf der Flußquerung
 _(Foto)_. Während die Obergeschosse Wohnungen beherbergten, gab es im Erdgeschoss verschiedene Geschäfte, u.a. eine Apotheke und eine Niederlassung des Waaren-

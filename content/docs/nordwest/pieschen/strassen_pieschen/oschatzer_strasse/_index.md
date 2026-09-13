@@ -3,7 +3,7 @@ title: "Oschatzer Straße"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![oschatzer straße](../../../../oschatzer_strasse_n1_banner2.gif)
+![oschatzer straße](oschatzer_strasse_n1_banner2.gif)
 
 * * *
 
@@ -43,7 +43,7 @@ Einzelne Gebäude:
 
 ![](../../../../nordwest/pieschen/strassen_pieschen/oschatzer_strasse/piesch_saxonia.jpg)Café Saxonia (Nr. 13): Das Café entstand Ende des 19. Jahrhunderts im Erdgeschoss des Eckhauses zur Konkordienstraße und befand sich zunächst im Besitz von Paul Herrnsdorf. Nach dem Ersten Weltkrieg übernahm Hermann Kaut das Café und ließ es umbauen und mit Billardtisch und elektrischem Klavier ausstatten, um die Attraktivität weiter zu erhöhen. Nach einem erneuten Eigentümerwechsel 1934 übernahm die Familie Hänsel das Lokal und führte es als Bäckerei weiter. 1958 wurde diese von Rudolf Maaß übernommen. Seit 2016 gehört auch das traditionsreiche [Café Maaß](../../../../ost/gruna/strassen_gruna/) an der Zwinglistraße zum Unternehmen.
 
-![](../../../../pieschenoschatzerstr.jpg)Kaufhaus Fanger (Nr. 15): Größtes Handelshaus der Oschatzer Straße war das um 1898 von der jüdischen Kaufmannsfamilie Benjamin und Fritze Fanger errichtete Gebäude Oschatzer Straße 15 / Konkordienstraße 44 _(Foto)_. Anfangs als Galanterie- und Lederwaren- sowie Küchengerätehandlung betrieben, entwickelte es sich später zum Vollsortiment-Kaufhaus. Später firmierte es unter dem Namen "HAWA - Haus der vielen Waren" und blieb bis 1938 unter jüdischer Geschäftsleitung. Neben dem Kaufhaus gab es im Erdgeschoss zeitweise eine Filile der bekannten Dresdner Süßwarenhandlung Richard Selbmann. Im Zuge der zwangsweisen Arisierung übernahm 1938 Gustav Caspar das Warenhaus.
+![](pieschenoschatzerstr.jpg)Kaufhaus Fanger (Nr. 15): Größtes Handelshaus der Oschatzer Straße war das um 1898 von der jüdischen Kaufmannsfamilie Benjamin und Fritze Fanger errichtete Gebäude Oschatzer Straße 15 / Konkordienstraße 44 _(Foto)_. Anfangs als Galanterie- und Lederwaren- sowie Küchengerätehandlung betrieben, entwickelte es sich später zum Vollsortiment-Kaufhaus. Später firmierte es unter dem Namen "HAWA - Haus der vielen Waren" und blieb bis 1938 unter jüdischer Geschäftsleitung. Neben dem Kaufhaus gab es im Erdgeschoss zeitweise eine Filile der bekannten Dresdner Süßwarenhandlung Richard Selbmann. Im Zuge der zwangsweisen Arisierung übernahm 1938 Gustav Caspar das Warenhaus.
 
 1941 musste Fangers Tochter Selma Lotte mit ihrem Mann Moritz Auerbach in das "Judenhaus" Bautzner Straße 20 umziehen und Zwangsarbeit in den Goehle-Werken leisten. 1942 deportierte man das Paar zunächst in das [Judenlager Hellerberge](../../../../nord/) und wenig später nach Auschwitz, wo beide ums Leben kamen. Fritze Fanger starb 1943 in Theresienstadt. Nach 1945 wurde das Gebäude bis 1990 als Konsum-Warenhaus genutzt. Danach befand sich hier die Filiale eines Schlecker-Drogeriemarktes. 2015 übernahm ein türkischer Lebensmittelmarkt die Räume.
 

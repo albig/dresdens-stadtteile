@@ -3,7 +3,7 @@ title: "Pillnitzer Elbinsel"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![pillnitzer elbinsel](../../../pillnitzer_elbinsel_nurbanlegendbannerh.gif)
+![pillnitzer elbinsel](pillnitzer_elbinsel_nurbanlegendbannerh.gif)
 
 * * *
 

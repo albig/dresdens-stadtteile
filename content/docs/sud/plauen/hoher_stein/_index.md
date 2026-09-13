@@ -3,7 +3,7 @@ title: "Hoher Stein"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-![hoher stein](../../../hoher_stein_nurbanlegendbannerh.gif)
+![hoher stein](hoher_stein_nurbanlegendbannerh.gif)
 
 * * *
 

@@ -3,7 +3,7 @@ title: "Straßen Oberwartha"
 date: 2024-02-17T22:13:46+01:00
 ---
 
-![straßen und plätze in oberwartha](../../../strassen_oberwartha_n1_banner2.gif)
+![straßen und plätze in oberwartha](strassen_oberwartha_n1_banner2.gif)
 
 * * *
 

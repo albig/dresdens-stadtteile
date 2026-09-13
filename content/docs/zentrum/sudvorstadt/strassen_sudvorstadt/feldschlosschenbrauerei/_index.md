@@ -3,7 +3,7 @@ title: "Feldschlösschenbrauerei"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![feldschlösschenbrauerei](../../../../feldschlosschenbrauerei_nlafleurbannerh.gif)
+![feldschlösschenbrauerei](feldschlosschenbrauerei_nlafleurbannerh.gif)
 
 * * *
 
@@ -38,7 +38,7 @@ _gehörigen und an der Straße gelegenen Feld zu bauen._
 
 
 
-![](../../../../s_dvfeldschl_sschen1.jpg)Die spätere Feldschlösschenbrauerei geht auf ein abseits der Stadt in der Nähe
+![](s_dvfeldschl_sschen1.jpg)Die spätere Feldschlösschenbrauerei geht auf ein abseits der Stadt in der Nähe
 des Hahneberges gelegenes Bauerngut zurück, welches sich 1644 im Besitz einer Anna Nehlin befand. In diesem Jahr gewährte Kurfürst Johann Georg I. dem Anwesen die Schankgerechtigkeit, womit die Entwicklung zum Gasthof
 eingeleitet wurde. 1684 erwarb der Geheime Kriegsrat Christoph Dietrich von Bose das Gut und ließ es mit Genehmigung des sächsischen Hof deutlich erweitern. Bald entstand inmitten von weiten Feldern ein schlossartiges
 Gebäude, welches als Feldschlößchen zu den größten Ausflugs- und Vergnügungslokalen im Dresdner Umland gehörte. Anziehungspunkte waren
@@ -58,7 +58,7 @@ Am 7. Juli 1858 wandelten seine Söhne das Unternehmen in eine Aktiengesellschaf
 entwickelte sich die Feldschlößchenbrauerei zu einem der größten sächsischen Bierhersteller. Nach der Jahrhundertwende schloss man sich mit der Radeberger Exportbierbrauerei zu einer
 Interessengemeinschaft zusammen, wodurch die Absatzmärkte nochmals erweitert werden konnten. Eine Fusion beider Unternehmen erfolgte im Jahr 1920.
 
-![](../../../../s_dvfeldschl_sschen3.jpg)Neben der Brauerei gab es auch weiterhin das Lokal Zum Feldschlößchen,
+![](s_dvfeldschl_sschen3.jpg)Neben der Brauerei gab es auch weiterhin das Lokal Zum Feldschlößchen,
 welches 1875 umgebaut und um einen neuen großen Bier- und Konzertgarten erweitert wurde. Leider fiel dieser später dem Bau der Zigarettenfabrik Sulima
 zum Opfer, während die Gaststätte selbst noch bis zur Zerstörung 1945 existierte. Auch die Brauerei selbst wurde schwer in Mitleidenschaft gezogen, konnte die
 Produktion jedoch Ende 1945 wieder aufnehmen. 1960 schloss sich die Feldschlösschen- Brauerei mit anderen Betrieben der Branche zum VEB Dresdner Brauereien zusammen. Bis 1990 stellte der zuletzt zum VEB Getränkekombinat

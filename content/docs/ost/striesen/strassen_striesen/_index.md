@@ -3,7 +3,7 @@ title: "Straßen Striesen"
 date: 2024-02-17T22:13:39+01:00
 ---
 
-![straßen und plätze in striesen](../../../strassen_striesen_n1_banner2.gif)
+![straßen und plätze in striesen](strassen_striesen_n1_banner2.gif)
 
 * * *
 
@@ -19,13 +19,13 @@ Im Haus Alemannenstraße 12 besaß der Glasmaler Josef Goller (1868-1947) sein A
 
 Zu den in Striesen ansässigen Künstlern gehörte auch der Bildhauer Oskar Aurich (1877-1968). Nach seinem Studium an der Kunstgewerbeschule war er ab 1905 als freiberuflicher Bildhauer tätig und hatte sein Atelier in der Alemannenstraße 22. 1945 ausgebombt, verlor er sein Atelier und viele seine Werke. Nach dem Zweiten Weltkrieg war er Dozent an der Hochschule für Bildende Künste. An Stelle seines zerstörten Atelierhauses befindet sich jetzt ein Wohnblock.
 
-![altenberger straße](../../../a_rectangle_76.gif)
+![altenberger straße](a_rectangle_76.gif)
 
 ![](../../../ost/striesen/strassen_striesen/striesaltenbergerstr.jpg)Die Altenberger Straße bildete einst die Flurgrenze zwischen [Neugruna](../../../ost/gruna/neugruna/) und Blasewitz, wird heute jedoch meist zu Striesen gerechnet. Ihren Namen erhielt sie 1893 nach der Bergstadt Altenberg im Osterzgebirge. Vor der Eingemeindung 1892 wurde diese östlichste Straße Striesens mit der Nummer 17 bezeichnet. 1901 kam die auf Neugrunaer Flur gelegene Seidnitzer Straße, 1904 der zu Seidnitz gehörende Abschnitt der Blasewitzer Straße hinzu. Letztgenannter Teil hieß ursprünglich bis 1896 Blasewitzer Weg. Ein Teilabschnitt der Altenberger Straße wurde früher auch Ziegelweg genannt, da er die Verbindung von Seidnitz und Gruna zur Blasewitzer Ziegelei am Elbufer herstellte
 
 ![](../../../ost/striesen/strassen_striesen/striesaltenbergerstr29.jpg)Die Gebäude, meist mehrgeschossige Mietshäuser, entstanden um 1900 und weisen verschiedene architektonische Stilformen auf. Interessante Fassaden finden sich u. a. an den Häusern Altenberger Straße 3 und 6 sowie an der Häusergruppe Nr. 14-18. In einigen Gebäuden der Altenberger Straße gab es einst kleinere Geschäfte für die Versorgung der Bevölkerung. So unterhielt der amerikanische Warenhauskonzern Woolworth im Erdgeschoss des Hauses Altenberger Straße 27 Anfang der 1950er Jahre eine Filiale. Nach 1990 wurden die Räume zu Wohnzwecken umgebaut. Im Nachbarhaus Nr. 29 wurde am 23. Juni 1951 das erste HO-Selbstbedienungsgeschäft in Dresden errichtet, in dem man ohne Bezugsscheine Industriewaren erwerben konnte _(Foto)_. Unweit davon befindet sich seit einigen Jahren im früheren Wittenberger Hof das rustikale Lokal Astloch (Nr. 22). Bereits seit 1900 lädt die Familiengaststätte Neugrunaer Casino(Nr. 1) zur Einkehr ein. Ein moderner Wohn- und Geschäftskomplex entstand 1995 am Altenberger Platz und beherbergt als Ladengalerie Striesen verschiedene Geschäfte, Büros und Wohnungen. Vor dem Gebäude steht ein moderner Pyramidenbrunnen.
 
-![altstriesen](../../../a_rectangle_442.gif)
+![altstriesen](a_rectangle_442.gif)
 
 Der Name Altstriesen erinnert an den früheren Dorfkern des Ortes, welcher aus einem Vorwerk und mehreren Bauerngütern hervorging und sich nördlich der heutigen [Schandauer Straße](../../../ost/striesen/strassen_striesen/schandauer_strasse/) befand. Die Gebäude entstanden nach der Zerstörung 1813 neu und bewahrten noch bis 1945 ihr ländliches Aussehen. Für den Wiederaufbau fanden zum Teil Steine der ehemaligen Umfassungsmauer des Großen Gartens Verwendung, nachdem dieser für die Öffentlichkeit zugänglich gemacht worden war. Nach Aufgabe der Landwirtschaft befanden sich in den Gehöften meist kleine Handwerksbetriebe, Schankwirtschaften und Läden. Der vom [Landgraben](../../../ost/striesen/landgraben/) gespeiste frühere Dorfteich wurde Ende des 19. Jahrhunderts trockengelegt. In alten Stadtplänen ist die Platzanlage ab 1889 als Wettinplatz bzw. ab 1893 als Markgraf-Heinrich-Platz ausgewiesen. Am 21. März 1921 erfolgte die Umbenennung in Altstriesen.
 
@@ -37,13 +37,13 @@ Nach 1880 entstanden an der Nordseite des langgestreckten Dorfplatzes mehrgescho
 
 Wettindenkmal: Der aus schwarzem Marmor gefertigte Obelisk wurde aus Anlass des 800. Thronjubiläums der Wettiner 1889 auf dem Striesener Dorfplatz aufgestellt, der in diesem Zusammenhang den Namen Wettinplatz erhielt. Das Denkmal trug die Inschrift Zur Erinnerung an die 800-jährige Jubelfeier des Hauses Wettin. Die Gemeinde Striesen und blieb auch bei späteren Umgestaltungen des Platzes erhalten. Auch die Zerstörung fast aller Gebäude des Umfeldes beim Luftangriff 1945 überstand es ohne größere Schäden, wurde jedoch in der Nachkriegszeit entfernt und ist seitdem verschollen.
 
-![am landgraben](../../../a_rectangle_866.gif)
+![am landgraben](a_rectangle_866.gif)
 
 Die Straße Am Landgraben, im alten Striesener Dorfkern gelegen, erinnert an den früheren [Landgraben](../../../ost/striesen/landgraben/), der einst hier entlang floss und auch den 1876 trockengelegten Dorfteich speiste. Der Landgraben war bereits um 1860 zur heutigen Lauensteiner Straße verlegt worden, um Platz für neue Gebäude zu schaffen. Die offizielle Namensgebung erfolgte 1892. Schon 1839 hatte die Gemeinde im Haus Nr. 3 das erste Schulhaus eröffnet. Sämtliche Gebäude wurden 1945 zerstört. Im Zuge der Neubebauung nach dem Zweiten Weltkrieg wurde der Weg teilweise überbaut und besteht heute nur noch aus einem kurzen Reststück.
 
-[![augsburger straße](../../../a_rectangle_867.gif)](../../../ost/striesen/strassen_striesen/augsburger_strasse/)
+[![augsburger straße](a_rectangle_867.gif)](../../../ost/striesen/strassen_striesen/augsburger_strasse/)
 
-![barbarossaplatz](../../../a_rectangle_870.gif)
+![barbarossaplatz](a_rectangle_870.gif)
 
 ![](../../../ost/striesen/strassen_striesen/striesbarbarossa.jpg)Der Platz wurde in der zweiten Hälfte des 19. Jahrhunderts angelegt und 1893 in Erinnerung an den legendenumwobenen deutschen Barbarossaplatz genannt. 1890 entstand eine Straßenbahnverbindung vom Altmarkt zum Barbarossaplatz, die wenig später mit den vorhandenen Linien nach Blasewitz verbunden und 1897 elektrifiziert wurde. Der Platz entwickelte sich in der Folgezeit zu einem kleinen Verkehrsknotenpunkt _(Foto um 1910)_ und war Mittelpunkt des Neustriesener Villenviertels.
 
@@ -63,11 +63,11 @@ _Kontoristin, Funktionär der kommunistischen Kinder-, Jugend- und Frauenorganis
 
 [![bärensteiner straße](../../../ost/striesen/strassen_striesen/bärensteiner strasse.jpg)](../../../ost/striesen/strassen_striesen/bärensteiner_strasse/)
 
-![behrischstraße](../../../a_rectangle_872.gif)
+![behrischstraße](a_rectangle_872.gif)
 
 Die nach 1860 als Straße 14 in Neustriesen angelegte und um 1900 mit Mietshäusern bebaute Behrischstraße verdankt ihren Namen dem früheren Dresdner Bürgermeister Burckhard Leberecht Behrisch (1682-1750), Gutsherr und Doktor der Rechtswissenschaften, der zwischen 1733 und 1750 im Amt war. 1893 erfolgte ihre offizielle Benennung. Ursprünglich erstreckte sich diese auch auf den Abschnitt nördlich der Niederwaldstraße, bevor dieser 1926 in die Jüngststraße einbezogen wurde. Im Wohnhaus Nr. 13 hatte viele Jahre der Bildhauer Bruno Fischer (1860-1932) seine Wohnung. Fischer war Meisterschüler Johannes Schillings an der Dresdner Kunstakademie und schuf zahlreiche Brunnenplastiken im sächsischen Raum sowie einige Figuren am Dresdner Rathausturm. Im Eckhaus zur Eisenacher Straße (Nr. 9) befand sich früher die Schankwirtschaft "Eisenacher Hof".
 
-![bergmannstraße](../../../a_rectangle_873.gif)
+![bergmannstraße](a_rectangle_873.gif)
 
 ![](../../../ost/striesen/strassen_striesen/striesenbergmannstr2.jpg)Die Bergmannstraße entstand Ende des 19. Jahrhunderts als Straße 8 und verbindet den im Norden Neustriesens gelegenen Hüblerplatz mit dem früheren Dorfkern Altgruna. Um 1900 entstanden auch hier Wohn- und Geschäftshäuser, die teilweise 1945 den Bomben zum Opfer fielen und durch Neubauten ersetzt wurden. Ihren Namen erhielt die Straße nach dem Advokaten Ehregott Friedrich Bergmann (1710-1773), der von 1767-1773 Bürgermeister von Dresden war.
 
@@ -82,7 +82,7 @@ _**Fotos:**_ _Blick in die Bergmannstraße - rechts das Gemeindezentrum der Ev.-
 
 [![](../../../ost/striesen/strassen_striesen/freirchliche_gemeinde.jpg)](http://www.b19.de)
 
-![bertolt-brecht-allee](../../../a_rectangle_874.gif)
+![bertolt-brecht-allee](a_rectangle_874.gif)
 
 ![](../../../ost/striesen/strassen_striesen/striesenbusinesspark.jpg)Die südlich der Schandauer Straße gelegene Bertolt-Brecht-Allee wurde vor Beginn des Ersten Weltkrieges als Verlängerung der Spenerstraße angelegt und ab 1907 Carlowitzstraße genannt. Namensgeber war der sächsische Staatsmann Christoph von Carolowitz (+ 1578). An ihrem südlichen Ende lag am Schnittpunkt mit der Comeniusstraße der Carlowitzplatz. Zahlreiche Gebäude dieser Straße fielen 1945 den Bomben zum Opfer. In der Nachkriegszeit entstand zwischen Müller-Berset-Straße und Carlowitzstraße ein Betonwerk, in dem Trümmerschutt zu Ziegelsplitt zermahlen und zu Platten für den Wohnungsbau verarbeitet wurde.
 
@@ -90,7 +90,7 @@ Ihren heutigen Namen erhielt die Straße 1963 nach dem deutschen Dichter und The
 
 [![borsbergstraße](../../../ost/striesen/strassen_striesen/borsbergstraße.jpg)](../../../ost/striesen/strassen_striesen/borsbergstrasse/)
 
-![bräterstraße](../../../a_rectangle_878.gif)
+![bräterstraße](a_rectangle_878.gif)
 
 Die Bräterstraße wurde in den Dreißiger Jahren angelegt, als hier die Bebauung mit Wohnhäusern geplant war. Die amtliche
 Namensgebung erfolgte am 12. Mai 1937. Ihren Namen verdankt sie dem Dresdner Stadtbaurat Edmund Bräter (1855-1925), der gemeinsam mit Karl Roth Schöpfer des Neuen Rathauses ist. Außerdem war Bräter als Leiter des städtischen Hochbauamtes verantwortlich für den Bau der heutigen Universitätsklinik, der Markthallen an der Weißeritzstraße und der Hauptstraße sowie der Wasserwerke Tolkewitz und Räcknitz.
@@ -99,7 +99,7 @@ Bedingt durch den Ausbruch des Zweiten Weltkrieges konnte das geplante Wohnviert
 
 [![comeniusstraße](../../../zentrum/johannstadt/strassen_johannstadt/comeniusstra_e.jpg)](../../../zentrum/johannstadt/strassen_johannstadt/comeniusstrasse/)
 
-![dornblüthstraße](../../../a_rectangle_883.gif)
+![dornblüthstraße](a_rectangle_883.gif)
 
 Die Dornblüthstraße wurde als 12. Straße Neu-Striesens angelegt und 1892 nach dem früheren Dresdner Bürgermeister Marcus Dornblüth (16421715) benannt. Dornblüth begann seine Laufbahn als kurfürstlicher Steuerprokurator und wurde 1697 zum Bürgermeister gewählt, ein Amt, welches er bis 1715 innehatte. Die Villen und Mehrfamilienhäuser an der
 Dornblüthstraße entstanden meistens Ende des 19. Jahrhunderts im Stil des Historismus. Im Haus Nr. 7 wurde 1993 die beliebte Weinstube Gewölbe 7 eröffnet (seit 2005 Restaurant Dornblüte). Auf der gegenüberliegenden Straßenseite befindet sich das 1899 eröffnete [Freimaurerinstitut](../../../ost/striesen/), heute Gymnasium Kreuzschule. Weitere Lokale an der Dornblüthstraße sind das Il Trullo, die Pflaume (ehemals Rattenloch) und das Dr. Schlüter im Eckhaus zur Augsburger Straße. Zuvor wurden diese Räume von Dresdens erstem Irish Pub genutzt, vor dem Ersten Weltkrieg von der Schankwirtschaft 'Kiautschou'.
@@ -114,7 +114,7 @@ Die Eilenburger Straße entstand 1883 im Zuge der Parzellierung der Striesener F
 
 Im Haus Eilenburger Straße 6 befand sich ab 1904 die Photographische Manufaktur von Richard Knoll, einem Hersteller von Kameraverschlüssen und anderer fotografischer Zubehörteile. 1928 wurde das Unternehmen von Emil Hofert übernommen und 1931 in EHO-Kamera-Fabrik GmbH umbenannt. Nach Übernahme des Betriebes durch Berthold Altmann bezog die Firma 1937 neue Räume auf der Lortzingstraße 38 ( [Altissa-Camera-Werk](../../../zentrum/johannstadt/strassen_johannstadt/))
 
-![eisenacher straße](../../../a_rectangle_884.gif)
+![eisenacher straße](a_rectangle_884.gif)
 
 Die Eisenacher Straße im Osten von Neustriesen wurde bis zur Eingemeindung des Ortes 1892 Straße B genannt und erhielt dann ihren Namen nach der thüringischen Kleinstadt Eisenach. Bemerkenswertestes Gebäude ist das 1899 entstandene frühere [Freimaurerinstitut](../../../ost/striesen/), welches heute von der Kreuzschule genutzt wird. In unmittelbarer Nachbarschaft liegt der 1920 angelegte [Striesener Volkspark](../../../ost/striesen/strassen_striesen/seidelsche_gartnerei/hermann-seidel-park/).
 
@@ -124,7 +124,7 @@ _**Fotos:**_ _Das ehemalige Freimaurerinstitut (heute Kreuzschule) an der Eisena
 
 _Im rechten Bild ist die Turnhalle im Innenhof zu sehen._
 
-![ermelstraße](../../../a_rectangle_885.gif)
+![ermelstraße](a_rectangle_885.gif)
 
 Die frühere Straße 11, die vom Pohlandplatz ausgehend nach Norden führt, erhielt 1893 den Namen Ermelstraße und wurde mit den für Striesen typischen Mietshäusern in offener Bauweise bebaut. Der Straßenname erinnert an den Dresdner Bürgermeister Friedrich August Ermel (17401812), der ab 1787 bis 1812 die Geschicke der Stadt leitete.
 
@@ -136,7 +136,7 @@ Im Wohnhaus Ermelstraße 21 lebte bis zu ihrem Tod die Landschaftsmalerin und Li
 
 Die Fürstenwalder Straße entstand Anfang der 1930er Jahre beim Bau einer neuen Wohnsiedlung und wurde am 9. Mai 1935 offiziell benannt. In Anlehnung an einige benachbarte Straßen erhielt auch sie ihren Namen nach einem Ort im Osterzgebirge, dem heute zu Altenberg gehörenden Dorf Fürstenwalde.
 
-![geisingstraße](../../../a_rectangle_886.gif)
+![geisingstraße](a_rectangle_886.gif)
 
 Die Geisingstraße gehört zu den ältesten Striesener Straßen und geht auf einen alten Verbindungsweg zwischen Striesen und Gruna zurück. 1893 erhielt dieser Weg offiziell den Namen Geisingstraße, benannt nach dem Berg Geising bei Altenberg. Ursprünglich führte sie von Altstriesen (Markgraf-Heinrich-Platz) bis zur Beilstraße in Gruna, wurde jedoch in den 1970er Jahren teilweise überbaut.
 
@@ -148,13 +148,13 @@ Die Geisingstraße gehört zu den ältesten Striesener Straßen und geht auf ein
 
 _im rechten Bild das letzte erhaltene Alt-Striesener Wohnhaus im Sommer 2006_
 
-![glasewaldtstraße](../../../a_rectangle_887.gif)
+![glasewaldtstraße](a_rectangle_887.gif)
 
 Die Glasewaldtstraße im östlichen Teil von Striesen wurde als Straße 13 angelegt und nach der Eingemeindung 1892 umbenannt. Friedrich Glasewaldt (1706-1784) war von 1771-1784 Bürgermeister von Dresden und zeitweise Besitzer des Weingutes [Glasewaldts Ruhe](../../../nord/wilschdorf/) in Wilschdorf. Die für die Entstehungszeit typische Bebauung mit mehrgeschossigen Mietshäusern blieb bis heute weitgehend erhalten. Außerdem gab es einige kleinere Gastwirtschaften, so z.B. in der Nr. 29 das Restaurant "Zur Amsel" sowie in Nr. 34 das Lokal "Sachsenwald". Im Eckhaus zur Wittenberger Straße (Nr. 42) befand sich der "Glasewald-Hof". Mehrere durch Abriss entstandene Baulücken wurden Mitte der 1990er Jahre mit modernen Wohnhäusern geschlossen.
 
 ![](../../../ost/striesen/strassen_striesen/striesenglasewaldt8.jpg)Zu den bemerkenswertesten Gebäuden gehört das villenartige Landhaus Glasewaldtstraße Nr. 8 _(Foto)_, welches als eines der ersten Häuser an der Straße 1888 von Karl Emil Scherz errichtet wurde. Die Fassade ist mit verschiedenen Sinnsprüchen verziert. Bauherrin war die Hofschauspielerin Charlotte Basté (1867-1928), die hier bis kurz vor dem Ersten Weltkrieg mit ihrer Familie wohnte. Eine Erinnerungstafel wurde in den 1960er Jahren entfernt. Interessant ist auch das gegenüberliegende Wohnhaus Nr. 7, welches um 1900 dem Holzhändler Ernst Kempe gehörte und auch nach 1945 im Familienbesitz blieb. Auf dem Grundstück Glasewaldtstraße 22 besaß bis 1990 der VEB Messelektronik Dresden eine Niederlassung. Ein Anfang der 1980er Jahre für dieses Unternehmen errichteter Betonbunker diente der Messung radioaktiver Strahlung für die Dosimeter-Herstellung und wurde erst 2011 im Zusammenhang mit der Neubebauung des Grundstücks beseitigt.
 
-![glashütter straße](../../../a_rectangle_888.gif)
+![glashütter straße](a_rectangle_888.gif)
 
 ![](../../../ost/striesen/strassen_striesen/striesjunghansstr.jpg)Die frühere Straße K im Süden der Striesener Flur erhielt 1892 nach der Uhrmacherstadt Glashütte im Müglitztal den Namen Glashütter Straße. Neben Produktionsgebäuden der Zigarettenindustrie entstanden hier nach der Jahrhundertwende auch einige Wohnhäuser. Die Anlage zwischen Glashütter, Kipsdorfer, Dornblüth- und Junghansstraße wurde 1910/11 vom Kleinwohnungs-Bauverein Dresden als erstes Bauvorhaben der 1910 gegründeten Genossenschaft errichtet _(Foto)_. Ziel war die Schaffung preiswerten Wohnraums für die Mitglieder des Bauvereins. Als Architekt der als König-Friedrich-August-Häuser bezeichneten Gebäude konnte Theodor Richter gewonnen werden, der nach einem einheitlichen Konzept die gesamte Wohnanlage mit ihren 124 Wohnungen entwarf. Die Anlage besteht aus drei dreigeschossigen Wohnblocks, die ursprünglich an der Junghansstraße durch zwei Torhäuser miteinander verbunden waren. Heute gehören die Häuser der Wohnungsgenossenschaft "Aufbau" und wurden 1994 saniert.
 
@@ -174,7 +174,7 @@ Die Gottleubaer Straße wurde 1903 nach der Stadt Bad Gottleuba benannt. Der Kur
 
 Der Haenel-Clauß-Platz an der Einmündung der Prossener Straße in die Haenel-Clauß-Straße entstand Mitte der 1930er Jahre im Zuge der Bebauung des Areals. Am 12. Mai 1937 wurde die im Bebauungsplan als "Platz 4" verzeichnete Anlage in Anlehnung an die benachbarte Straße nach Sara Emilie Haenel-Clauß benannt.
 
-![haenel-clauß-straße](../../../a_rectangle_893.gif)
+![haenel-clauß-straße](a_rectangle_893.gif)
 
 Die 1912 angelegte Haenel-Clauß-Straße, im Wohngebiet um den Hepkeplatz gelegen, erinnert an die Wohltäterin und Stifterin Sara Emilie Haenel-Clauß, die aus privaten Mitteln 1889 ein Genesungsheim für arme kranke Kinder finanzierte. Zuvor verlief in diesem Bereich ein Fußweg zwischen Gruna und Striesen, der in alten Stadtplänen als Weg Am alten Landgraben bezeichnet wurde. Ihren Namen erhielt die frühere Planstraße 7 am 31. August 1912.
 
@@ -186,7 +186,7 @@ Die 1912 angelegte Haenel-Clauß-Straße, im Wohngebiet um den Hepkeplatz gelege
 
 Die ersten Wohnhäuser, meist mehrgeschossige Gebäude in geschlossener Bauweise, entstanden in den Jahren vor dem Ersten Weltkrieg und weisen teilweise Jugendstilformen auf. Ursprünglich führte die Straße von der Krenkel- bis zur Spenerstraße. Mit Zerstörung der meisten Gebäude und dem 1955 begonnenen Wiederaufbau rund um die Borsbergstraße wurde sie jedoch in ihrem östlichen Abschnitt fast vollständig überbaut. Im verbliebenen Straßenteil sind die Wohnhäuser Hans-Böheim-Straße 2 und 4 als Kulturdenkmäler in der Denkmalliste verzeichnet. In der Nr. 2 _(Foto)_ wohnten bis ca. 1940 mehrere jüdische Familien, bevor diese vertrieben und in sogenannte "Judenhäuser" umziehen mussten.
 
-![haydnstraße](../../../a_rectangle_894.gif)
+![haydnstraße](a_rectangle_894.gif)
 
 ![](../../../ost/striesen/strassen_striesen/strieshaydnstr.jpg)Die Haydnstraße wurde Ende des 19. Jahrhunderts als Planstraße H des Striesener Bebauungsplans angelegt und verband die benachbarte Johannstadt mit dem Altstriesener Dorfkern. Ihren Namen erhielt sie 1890 nach dem österreichischen Komponisten Joseph Haydn (1732-1809), welcher vor allem durch seine Streichquartette bekannt wurde. Ältester Abschnitt ist der Straßenteil westlich der heutigen Fetscherstraße in der Johannstadt. 1903 wurde sie bis zur Striesener Tittmannstraße, 1928 bis zur Spenerstraße verlängert.
 
@@ -204,7 +204,7 @@ Sportverein "Bar Kochba": Der jüdische Sportverein entstand 1919 und hatte bis 
 
 Mit Machtergreifung der Nationalsozialisten wurde jüdischen Vereinen der Wettkampf mit "reinrassigen" Sportvereinen verboten. Erlaubt blieben lediglich Begegnungen auf freundschaftlicher Ebene. Nachdem bis zu den Olympischen Spielen 1936 noch eine weitgehend liberale Sportpolitik betrieben wurde, musste der Verein wenig später seinen Platz im Ostragehege aufgeben und zur ehemaligen Radrennbahn nach Reick umziehen. Mit dem Abbruch der Rennbahn 1939 endete auch die Geschichte von Bar Kochba. Das Vereinshaus in Striesen war schon vorher für eine Bebauung aufgegeben worden.
 
-![hepkeplatz](../../../a_rectangle_895.gif)
+![hepkeplatz](a_rectangle_895.gif)
 
 Der Hepkeplatz trägt ebenso wie die benachbarte [Hepkestraße](../../../ost/gruna/strassen_gruna/) den Namen des Kaufmanns Bernhard Hepke (1837- 1916), der sich auch als Stifter für das Gemeinwohl engagierte. Die offizielle Benennung erfolgte am 25. Oktober 1928. Zuvor befand sich hier eine Ziegelei mit Lehmgrube, die man später jedoch mit Asche und Hausmüll verfüllte. Teile des Grundstücks dienten danach als Kleingartensparte "Blumenau", die jedoch 1937 der fortschreitenden Bebauung weichen musste.
 

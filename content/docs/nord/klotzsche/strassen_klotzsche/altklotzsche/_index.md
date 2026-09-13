@@ -3,7 +3,7 @@ title: "Altklotzsche"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![altklotzsche](../../../../altklotzsche_n1_banner2.gif)
+![altklotzsche](altklotzsche_n1_banner2.gif)
 
 * * *
 

@@ -3,7 +3,7 @@ title: "Straßen Rahnitz"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![straßen und plätze in rähnitz](../../../strassen_rahnitz_n1_banner2.gif)
+![straßen und plätze in rähnitz](strassen_rahnitz_n1_banner2.gif)
 
 * * *
 
@@ -130,7 +130,7 @@ Durch den Autobahnbau unterbrochen, wurde für den westlichen Abschnitt 1939 die
 
 
 
-![meridianstraße](../../../a_rectangle_1230.gif)
+![meridianstraße](a_rectangle_1230.gif)
 
 Die kurze Meridianstraße entstand Anfang des 20. Jahrhunderts zur Erschließung eines neuen Wohnviertels und der angrenzenden Kleingartenanlage. Ihren Namen erhielt sie nach der 1828 aufgestellten [Meridiansäule](../../../nord/rahnitz/), die einer Vermessungsaktion in Sachsen diente. Die Rähnitzer Säule sowie ihr Gegenstück auf der Goldenen Höhe bei Bannewitz stehen unter Denkmalschutz.
 

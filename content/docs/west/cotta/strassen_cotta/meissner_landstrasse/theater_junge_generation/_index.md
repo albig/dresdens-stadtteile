@@ -3,7 +3,7 @@ title: "Theater Junge Generation"
 date: 2024-02-17T22:13:45+01:00
 ---
 
-![theater junge generation](../../../../../theater_junge_generation_nlafleurbannerh.gif)
+![theater junge generation](theater_junge_generation_nlafleurbannerh.gif)
 
 * * *
 

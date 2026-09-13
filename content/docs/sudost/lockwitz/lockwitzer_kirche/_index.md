@@ -3,7 +3,7 @@ title: "Lockwitzer Kirche"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![lockwitzer kirche](../../../lockwitzer_kirche_nlafleurbannerh.gif)
+![lockwitzer kirche](lockwitzer_kirche_nlafleurbannerh.gif)
 
 * * *
 

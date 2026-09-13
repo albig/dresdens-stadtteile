@@ -31,7 +31,7 @@ date: 2024-02-17T22:13:41+01:00
 
 [![](../../sud/kaitz/geschichtsverein_kaitz.jpg)](http://www.geschichtsverein-kaitz.de)
 
-[![homepage des sportvereins sachsen kaitz](../../a_rectangle_1523.gif)](http://www.sachsen-kaitz.de)
+[![homepage des sportvereins sachsen kaitz](a_rectangle_1523.gif)](http://www.sachsen-kaitz.de)
 
 
 ![](../../sud/kaitz/kaitz1.jpg)Der Bauernweiler Kaitz wurde am 31. März 1206 gemeinsam mit Dresden und anderen Ortschaften erstmals als Kiz (altsorbisch: Haus, Hütte) genannt und erstreckt sich zu beiden Seiten des [Kaitzbachtales](../../sud/kaitz/kaitzbachtal/). Andere Deutungen leiten den Namen vom slawischen Kyi (= Keule, Knüppel) oder dem Namen des Stammesältesten ab. Gegründet von sorbischen Siedlern gab es hier bereits frühzeitig einen Herrenhof, dessen Besitzer vom Markgrafen zu Meißen belehnt worden war. Außerdem besaßen Dresdner Bürger, 1408 u. a. die bedeutende Ratsherrenfamilie Busmann Anteile am Dorf. 1445 lebten in Kaitz fünf Bauern mit ihren Familien. 1473 ist ein Steinbruch bei Kaitz erwähnt, in dem im 18. Jahrhundert u.a. Baumaterial für den Bau des Altstädter Rathauses gewonnen wurde. Wichtigster Erwerbszweig war jedoch die Landwirtschaft. Außerdem befanden sich an den Hängen des Kaitzbachtales Weinberge, an die noch ein altes [Winzerhaus](../../sud/kaitz/strassen_kaitz/) von 1686 erinnert. Noch bis ins 16. Jahrhundert war der Ort dem Meißner Hochstift abgabenpflichtig. Kirchlich gehörte Kaitz zur Frauenkirche, ab 1674 zur Kirche von Leubnitz.

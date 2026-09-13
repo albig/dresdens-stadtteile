@@ -3,7 +3,7 @@ title: "Heidefriedhof"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![heidefriedhof](../../../heidefriedhof_nurbanlegendbannerh.gif)
+![heidefriedhof](heidefriedhof_nurbanlegendbannerh.gif)
 
 * * *
 
@@ -17,7 +17,7 @@ date: 2024-02-17T22:13:32+01:00
 
 * * *
 
-![heidefriedhof der stadt dresden  moritzburger landstr. 299 01129 dresden  tel. 0351/8 49 89 58](../../../a_rectangle_295.gif)
+![heidefriedhof der stadt dresden  moritzburger landstr. 299 01129 dresden  tel. 0351/8 49 89 58](a_rectangle_295.gif)
 
 
 ![](../../../nordost/dresdner_heide/heidefriedhof/heidefriedh2.jpg)Erste Pläne zum Bau eines neuen städtischen Großfriedhofes entstanden bereits vor dem

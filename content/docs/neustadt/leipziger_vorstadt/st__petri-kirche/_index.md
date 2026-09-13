@@ -3,7 +3,7 @@ title: "St. Petri-Kirche"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![st. petri-kirche](../../../st__petri-kirche_nlafleurbannerh.gif)
+![st. petri-kirche](st__petri-kirche_nlafleurbannerh.gif)
 
 * * *
 

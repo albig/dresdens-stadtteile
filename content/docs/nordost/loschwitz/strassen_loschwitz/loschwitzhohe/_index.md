@@ -3,7 +3,7 @@ title: "Loschwitzhöhe"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![loschwitzhöhe](../../../../loschwitzhohe_nlafleurbannerh.gif)
+![loschwitzhöhe](loschwitzhohe_nlafleurbannerh.gif)
 
 * * *
 
@@ -35,7 +35,7 @@ AG das Areal, um hier ein modernes großes Ausflugslokal zu errichten. Die Gesel
 Schwebebahn und wollte durch das Restaurant zusätzliche Fahrgäste gewinnen. Die Planungen übertrug man dem Loschwitzer Architekten Martin Pietsch, der das Umbauprojekt 1901/02 realisierte. In den Anfangsjahren wurde das
 Gebäude auch als Schwebebahnhotel bezeichnet.
 
-![](../../../../loschwh_he2.jpg)Das neue Haus besaß zwei Gasträume mit über 100 Plätzen, einen Saal für
+![](loschwh_he2.jpg)Das neue Haus besaß zwei Gasträume mit über 100 Plätzen, einen Saal für
 170 Personen, eine verglaste Veranda mit Kegelbahn im Untergeschoss und eine große Gartenterrasse mit weiteren 280 Plätzen. Hinzu kamen Lager- und Küchenräume, vier Gästezimmer sowie eine Wohnung für die Wirtsfamilie.
 Vor allem wegen des herrlichen Fernblicks über das Elbtal war die Loschwitzhöhe beliebtes Ausflugslokal und bildete ein Pendant zum Luisenhof auf dem benachbarten Berg. Da sich die Gaststätte schnell großer
 Beliebtheit erfreute, planten ihre Besitzer 1909 ein Erweiterung um einen weiteren Saal und einen Ausbau des Dachgeschosses, was jedoch bedingt

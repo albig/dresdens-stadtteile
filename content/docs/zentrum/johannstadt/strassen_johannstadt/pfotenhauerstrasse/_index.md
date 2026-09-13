@@ -3,7 +3,7 @@ title: "Pfotenhauerstraße"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![pfotenhauerstraße](../../../../pfotenhauerstrasse_n1_banner2.gif)
+![pfotenhauerstraße](pfotenhauerstrasse_n1_banner2.gif)
 
 * * *
 

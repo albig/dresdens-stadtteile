@@ -3,7 +3,7 @@ title: "Konigsheimplatz"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![königsheimplatz](../../../../konigsheimplatz_n1_banner2.gif)
+![königsheimplatz](konigsheimplatz_n1_banner2.gif)
 
 * * *
 

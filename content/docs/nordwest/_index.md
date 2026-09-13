@@ -11,7 +11,7 @@ type: "docs"
 
 
 
-![ortsamt pieschen bürgerstraße 63 01127 dresden  tel. 0351/4885400  ortsamt-pieschen@dresden.de](../a_rectangle.gif)Der nordwestliche Teil Dresdens, zwischen der Elbe und den Hängen der Hellerberge
+![ortsamt pieschen bürgerstraße 63 01127 dresden  tel. 0351/4885400  ortsamt-pieschen@dresden.de](a_rectangle.gif)Der nordwestliche Teil Dresdens, zwischen der Elbe und den Hängen der Hellerberge
 gelegen, war noch bis ins 19. Jahrhundert ein rein ländliches Gebiet. Die hier gelegenen Dörfer entstanden meist als slawische Gründungen zwischen dem 6. und 11. Jahrhundert.
 Allerdings war das Gebiet bereits in ur- und frühgeschichtlicher Zeit besiedelt, wie verschiedene Funde beweisen. Im Zusammenhang mit der deutschen Ostexpansion
 wurden die slawischen Siedlungen in das deutsche Herrschaftsgebiet einbezogen und christianisiert. Hauptort war das Kirchdorf Kaditz, zu dessen Kirchspiel die Dörfer

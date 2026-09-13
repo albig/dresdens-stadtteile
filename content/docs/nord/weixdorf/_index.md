@@ -36,7 +36,7 @@ date: 2024-02-17T22:13:35+01:00
 
 **in Weixdorf:**
 
-[![homepage der grundschule weixdorf](../../a_rectangle_594.gif)](https://www.grundschule-weixdorf.de/)
+[![homepage der grundschule weixdorf](a_rectangle_594.gif)](https://www.grundschule-weixdorf.de/)
 
 [![](../../nord/weixdorf/msweixdorf.jpg)](http://cms.sn.schule.de/msw)
 

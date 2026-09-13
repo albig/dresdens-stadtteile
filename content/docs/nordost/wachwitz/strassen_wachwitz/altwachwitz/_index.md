@@ -3,7 +3,7 @@ title: "Altwachwitz"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![altwachwitz](../../../../altwachwitz_n1_banner2.gif)
+![altwachwitz](altwachwitz_n1_banner2.gif)
 
 * * *
 

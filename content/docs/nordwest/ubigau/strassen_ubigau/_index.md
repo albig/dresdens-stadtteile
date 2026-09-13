@@ -25,7 +25,7 @@ zum Naturdenkmal erklärt. In unmittelbarer Nachbarschaft erinnert eine Gedenks�
 
 **_Fotos:_** _Dorfkern Altübigau mit Hochwassersäule._
 
-![carrierastraße](../../../a_rectangle_89.gif)
+![carrierastraße](a_rectangle_89.gif)
 
 Die Carrierastraße wurde 1997 im Zusammenhang mit dem Neubau des Stadtteilzentrums Elbarkaden angelegt. Ihren
 Namen erhielt sie nach der italienischen Kunstmalerin Rosalba Carriera (1675-1757). Nach Eröffnung des Wohn- und Geschäftskomplexes befindet sich hier heute das eigentliche Zentrum Übigaus _(Foto)_.

@@ -3,7 +3,7 @@ title: "Waldfriedhof Weißer Hirsch"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![waldfriedhof weißer hirsch](../../../waldfriedhof_weisser_hirsch_nurbanlegendbannerh.gif)
+![waldfriedhof weißer hirsch](waldfriedhof_weisser_hirsch_nurbanlegendbannerh.gif)
 
 * * *
 
@@ -17,7 +17,7 @@ date: 2024-02-17T22:13:34+01:00
 
 * * *
 
-![waldfriedhof weißer hirsch am heiderand 8 01324 dresden tel. 0351/2684450](../../../a_rectangle_178.gif)
+![waldfriedhof weißer hirsch am heiderand 8 01324 dresden tel. 0351/2684450](a_rectangle_178.gif)
 
 * * *
 

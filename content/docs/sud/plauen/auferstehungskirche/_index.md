@@ -3,7 +3,7 @@ title: "Auferstehungskirche"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![auferstehungskirche](../../../auferstehungskirche_nlafleurbannerh.gif)
+![auferstehungskirche](auferstehungskirche_nlafleurbannerh.gif)
 
 * * *
 

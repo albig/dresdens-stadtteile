@@ -3,7 +3,7 @@ title: "Marienallee"
 date: 2024-02-17T22:13:30+01:00
 ---
 
-![marienallee](../../../../marienallee_n1_banner2.gif)
+![marienallee](marienallee_n1_banner2.gif)
 
 * * *
 

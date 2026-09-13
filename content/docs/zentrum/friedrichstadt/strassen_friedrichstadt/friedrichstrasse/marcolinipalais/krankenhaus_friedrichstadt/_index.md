@@ -3,7 +3,7 @@ title: "Krankenhaus Friedrichstadt"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![krankenhaus friedrichstadt](../../../../../../krankenhaus_friedrichstadt_nlafleurbannerh.gif)
+![krankenhaus friedrichstadt](krankenhaus_friedrichstadt_nlafleurbannerh.gif)
 
 * * *
 

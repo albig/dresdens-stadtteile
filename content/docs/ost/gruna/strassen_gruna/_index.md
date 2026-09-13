@@ -3,7 +3,7 @@ title: "Straßen Gruna"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![straßen und plätze in gruna](../../../strassen_gruna_n1_banner2.gif)
+![straßen und plätze in gruna](strassen_gruna_n1_banner2.gif)
 
 * * *
 
@@ -257,13 +257,13 @@ Die Tauscherstraße im Ortsteil Neugruna wurde 1876 angelegt und nach dem frühe
 
 Die Traubestraße erhielt ihren Namen nach dem Dresdner Unternehmer Joseph Traube, der als Eiergroßhändler tätig war und 1876 auf seinem Grundstück die Eröffnung des ersten Neugrunaer [Schulhauses](../../../ost/gruna/) ermöglichte. Zunächst befanden sich die Klassenräume auf der Traubestraße, bevor später weitere Räumlichkeiten an der Hofmann- und Tauscherstraße hinzukamen. 1909 wurde diese provisorische Schule durch den Neubau von Erlwein ersetzt.
 
-![zwinglistraße](../../../a_rectangle_1023.gif)
+![zwinglistraße](a_rectangle_1023.gif)
 
-![](../../../grunazwinglistr.jpg)Die Zwinglistraße, bis 1901 als Lindenstraße bezeichnet, erhielt ihren Namen nach dem Schweizer Reformator Huldrych Zwingli (1484-1531). Zwingli wirkte seit 1521 in Zürich und ist gemeinsam mit Kalvin Begründer der Reformierten Kirche. Die Zwinglistraße wurde um 1900 mit gutbürgerlichen Wohn- und Geschäftshäusern bebaut, die jedoch 1945 zum Großteil den Bomben zum Opfer fielen. Erhalten blieb hingegen die kleine Wohnanlage Nr. 41-45 auf der gegenüberliegenden Straßenseite aus den Jahren 1934/35. Ursprünglich sollten die Häuser Teil des Neubauviertels der GEWOBAG werden, mussten jedoch auf Weisung der Nazis wieder in traditionellen Bauformen mit Steildächern gestaltet werden. Im heute nicht mehr vorhandenen Eckhaus zur Stübelallee befand sich bis 1945 das Grunaer Postamt.
+![](grunazwinglistr.jpg)Die Zwinglistraße, bis 1901 als Lindenstraße bezeichnet, erhielt ihren Namen nach dem Schweizer Reformator Huldrych Zwingli (1484-1531). Zwingli wirkte seit 1521 in Zürich und ist gemeinsam mit Kalvin Begründer der Reformierten Kirche. Die Zwinglistraße wurde um 1900 mit gutbürgerlichen Wohn- und Geschäftshäusern bebaut, die jedoch 1945 zum Großteil den Bomben zum Opfer fielen. Erhalten blieb hingegen die kleine Wohnanlage Nr. 41-45 auf der gegenüberliegenden Straßenseite aus den Jahren 1934/35. Ursprünglich sollten die Häuser Teil des Neubauviertels der GEWOBAG werden, mussten jedoch auf Weisung der Nazis wieder in traditionellen Bauformen mit Steildächern gestaltet werden. Im heute nicht mehr vorhandenen Eckhaus zur Stübelallee befand sich bis 1945 das Grunaer Postamt.
 
 1975 begann zwischen Zwinglistraße und dem Dorfkern Altgruna der Aufbau des Neubaugebietes Gruna. Weitere Baulücken wurden nach 1990 geschlossen. 1999 entstand an der Zwinglistraße eine zentrale Haltestelle für Bus und Bahn. Ein modernes Einkaufszentrum ist auf dem Areal Zwingli-, Rothermundt- und Bodenbacher Straße geplant (Zwingli-Passage).
 
-![](../../../gruna_cafemaas.jpg)Café Maaß: Das traditionsreiche Grunaer Café Maaß mit angeschlossener Konditorei wurde 1908 als Kaffee Müller im Eckhaus Zwingli-/ Ecke Bodenbacher Straße eröffnet ( _Zwinglistraße 29 - Foto_). In den 1930er Jahren übernahm Franz Maaß mit seiner Frau die Bewirtschaftung. 1945 fiel das Gebäude den Bomben zum Opfer. Dennoch gelang es der Familie, schon bald in den notdürftig wieder hergestellten Keller- und Erdgeschossräumen den Betrieb fortzuführen. 1998 konnte an gleicher Stelle ein moderner Neubau übergeben werden, in dem neben dem Café im Erdgeschoss auch einige Wohnungen entstanden.
+![](gruna_cafemaas.jpg)Café Maaß: Das traditionsreiche Grunaer Café Maaß mit angeschlossener Konditorei wurde 1908 als Kaffee Müller im Eckhaus Zwingli-/ Ecke Bodenbacher Straße eröffnet ( _Zwinglistraße 29 - Foto_). In den 1930er Jahren übernahm Franz Maaß mit seiner Frau die Bewirtschaftung. 1945 fiel das Gebäude den Bomben zum Opfer. Dennoch gelang es der Familie, schon bald in den notdürftig wieder hergestellten Keller- und Erdgeschossräumen den Betrieb fortzuführen. 1998 konnte an gleicher Stelle ein moderner Neubau übergeben werden, in dem neben dem Café im Erdgeschoss auch einige Wohnungen entstanden.
 
 
 

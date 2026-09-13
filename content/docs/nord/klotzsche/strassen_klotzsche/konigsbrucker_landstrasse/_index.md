@@ -3,7 +3,7 @@ title: "Konigsbrucker Landstraße"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![königsbrücker landstraße](../../../../konigsbrucker_landstrasse_n1_banner2.gif)
+![königsbrücker landstraße](konigsbrucker_landstrasse_n1_banner2.gif)
 
 * * *
 

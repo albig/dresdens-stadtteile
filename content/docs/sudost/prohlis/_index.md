@@ -120,7 +120,7 @@ die Besucherzahlen des Freibades deutlich an. 1988 wurde in unmittelbarer Nachba
 
 ![freibad prohlis schwimmhalle prohlis senftenberger str. 58 tel. 0351/2843161](../../sudost/prohlis/a_rectangle_808.gif)
 
-[![prohliser straßen](../../a_rectangle_1119.gif)](../../sudost/prohlis/strassen_prohlis/)
+[![prohliser straßen](a_rectangle_1119.gif)](../../sudost/prohlis/strassen_prohlis/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

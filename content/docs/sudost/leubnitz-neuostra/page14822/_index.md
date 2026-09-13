@@ -3,7 +3,7 @@ title: "Page14822"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![straßen und plätze in leubnitz-neuostra](../../../page14822_n1_banner2.gif)
+![straßen und plätze in leubnitz-neuostra](page14822_n1_banner2.gif)
 
 * * *
 
@@ -23,7 +23,7 @@ nach dem früheren Generalintendanten der Sächsischen Staatsoper Prof. Dr. Alfr
 Amt vertrieben. Bis zu seinem Tod wohnte er in Leubnitz-Neuostra auf der Spitzwegstraße 60. Da sowohl der Ausbau der
 Planstraße als auch deren Bebauung nicht realisiert wurden, erfolgte am 9. Dezember 2002 der Einzug der Straße sowie die Aufhebung des Straßennamens.
 
-[![altleubnitz](../../../a_rectangle_704.gif)](../../../sudost/leubnitz-neuostra/page14822/altleubnitz/)
+[![altleubnitz](a_rectangle_704.gif)](../../../sudost/leubnitz-neuostra/page14822/altleubnitz/)
 
 ![](../../../sudost/leubnitz-neuostra/page14822/am_dachsberg.jpg)
 
@@ -65,7 +65,7 @@ Wohnsiedlung auf der Leubnitzer Höhe angelegt. Zwischen 1999 und 2007 entstande
 Die Straße Am Querweg entstand als Querverbindung zwischen der Thomas-Mann-Straße und der Straße An der
 Kirschwiese. Erstmals ist sie im Adressbuch von 1914 verzeichnet. Die Gebäude gehören zum ab 1910 entstandenen Wohngebiet Süd-Ost-Kolonie.
 
-![an der kirschwiese](../../../a_rectangle_1536.gif)
+![an der kirschwiese](a_rectangle_1536.gif)
 
 Die Straße An der Kirschwiese verdankt ihren Namen einer alten Flurbezeichnung. Sie entstand 1910 beim Bau der
 sogenannten Süd-Ost-Kolonie und ist 1913 erstmals im Adressbuch verzeichnet. Architektonisch interessant ist das 1931

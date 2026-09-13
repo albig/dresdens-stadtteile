@@ -3,7 +3,7 @@ title: "Straßen Mobschatz"
 date: 2024-02-17T22:13:46+01:00
 ---
 
-![straßen und plätze in mobschatz und den ortsteilen](../../../../strassen_mobschatz_n1_banner2.gif)
+![straßen und plätze in mobschatz und den ortsteilen](strassen_mobschatz_n1_banner2.gif)
 
 * * *
 
@@ -11,7 +11,7 @@ date: 2024-02-17T22:13:46+01:00
 
 [![](../../../../west/mobschatz/leuteritz/strassen_mobschatz/hauptseitemobschatz2.jpg)](../../../../west/mobschatz/)
 
-![altmobschatz](../../../../a_rectangle_306.gif)
+![altmobschatz](a_rectangle_306.gif)
 
 Der Dorfplatz bildet mit seinen Gehöften den Kern des Ortes und lässt noch deutlich die Form des slawischen Rundlings erkennen. Im Zuge der deutschen Landnahme wurde er später in östlicher Richtung erweitert. Die Drei- bzw. Vierseithöfe entstanden nach dem großen Dorfbrand von 1816 und stehen heute unter Denkmalschutz. Bemerkenswert ist vor allem der Vierseithof Altmobschatz Nr. 1, der sich seit 1550 ununterbrochen im Besitz der Bauernfamilie Kürbis befand. Auch dieses Gut brannte 1816 ab und wurde bis 1818 in heutiger Form wiederaufgebaut. Neben der historischen Toreinfahrt sind auch noch einige Inschriftentafeln an der Fassade erhalten geblieben. Im Zusammenhang mit der Eingemeindung des Ortes 1999 erfolgte 2001 die Umbenennung des seit 1911 offiziell so benannten Dorfplatzes in Altmobschatz.
 
@@ -25,11 +25,11 @@ Der Dorfplatz bildet mit seinen Gehöften den Kern des Ortes und lässt noch deu
 Seit der Eingemeindung des Ortes trägt der frühere Dorfplatz von Podemus, eine von der Podemuser Hauptstraße abzweigende kurze Sackgasse, offiziell den Namen Altpodemus. Auch
 hier sind noch mehrere historische Gebäude erhalten geblieben, unter Denkmalschutz stehen die Bauernhäuser Altpodemus Nr. 1 und 3 _(Foto)_.
 
-![am berg](../../../../a_rectangle_309.gif)
+![am berg](a_rectangle_309.gif)
 
 Die steile und kurvenreiche Straße Am Berg verbindet Mobschatz mit dem Elbtal und wurde Ende des 19. Jahrhunderts ausgebaut. Ab 1911 hieß sie bis zur Eingemeindung des Ortes Bergstraße und wurde erst 2001 umbenannt. Um 1900 entstanden hier zahlreiche Villen für wohlhabende Zuzügler.
 
-![am hang](../../../../a_rectangle_307.gif)
+![am hang](a_rectangle_307.gif)
 
 Die Straße Am Hang wurde nach 1900 angelegt und nach ihrer Lage am Elbtalhang benannt. Zugleich bildet sie die Grenze der Mobschatzer Gemarkung zu den Nachbarstadtteilen Stetzsch und Gohlis. Ab 1926 entstanden hier einige Siedlungshäuser.In einem dieser Häuser befand sich vor 1945 das beliebte Café Himmelreich.
 
@@ -42,7 +42,7 @@ Die Straße Am Hang wurde nach 1900 angelegt und nach ihrer Lage am Elbtalhang b
 Der erst nach der Eingemeindung offiziell benannte Wirtschaftsweg Am Rausch zweigt westlich des Brabschützer Ortskerns
 von der Oberlandstraße ab und führt zu den nördlich des Dorfes gelegenen Feldern, bevor er an der Ortsgrenze zu Cossebaude in den Friedhofsweg übergeht. Seinen Namen erhielt er nach einem alten Flurnamen.
 
-![am tummelsgrund](../../../../a_rectangle_308.gif)
+![am tummelsgrund](a_rectangle_308.gif)
 
 Die heutige Straße Am Tummelsgrund wurde erst nach 1990 angelegt und nach einem alten Flurnamen benannt. Bereits
 zwischen 1927 und 1933 war jedoch der nördliche Teil der heutigen Elbhangstraße von der Flurgrenze zu Cossebaude bis zur Straße Am Berg als Tummelsgrund bezeichnet worden. Im Mittelalter gab es westlich von Mobschatz eine kleine
@@ -50,13 +50,13 @@ Siedlung Domlitz, welche jedoch zur Wüstung wurde. Im Laufe der Zeit wandelte s
 Villensiedlung wurde ab 1993 mit einer neuen Wohnsiedlung bebaut.
 
 
-![an der autobahn](../../../../a_rectangle_312.gif)
+![an der autobahn](a_rectangle_312.gif)
 
 Die Straße war ursprünglich Teil des alten Merbitz - Mobschatzer Kommunikationsweges. Durch den Autobahnbau wurde
 die Verbindung 1935 unterbrochen, woraufhin der verbliebene kurze Straßenteil den Namen An der Autobahn erhielt. Unweit davon führt eine Brücke über die Autobahntrasse, von der sich ein interessanter Blick über die Stadt bietet.
 
 
-![buschweg](../../../../a_rectangle_310.gif)
+![buschweg](a_rectangle_310.gif)
 
 Der Buschweg führt vom alten Dorfkern von Mobschatz oberhalb des Leuteritzer Grundes bis zum Nachbarort
 Alt-Leuteritz. 1888 wurde hier ein Wasserhochbehälter zur besseren Versorgung des Ortes angelegt. Ein Teil des Weges
@@ -70,7 +70,7 @@ der noch deutlich die Form des Rundlings slawischer Herkunft erkennen lässt. Di
 eingeführt. Bemerkenswert sind die Gehöfte Nr. 2, 4, 6, 7 und 9, an denen sich teilweise verschiedene Inschriften erhalten haben. Das Gut Nr. 8 war bereits seit
 1630 im Besitz der Familie Kürbis, die zu den ältesten Bauernfamilien der Umgebung gehört. Interessant ist auch das unter Denkmalschutz stehende Gut Nr. 10 mit großem Hoftor und Wappenstein von 1790 _(Foto)_.
 
-![elbhangstraße](../../../../a_rectangle_311.gif)
+![elbhangstraße](a_rectangle_311.gif)
 
 Die Elbhangstraße entstand 2001 durch die Zusammenlegung der früheren Cossebauder Straße und der Ernst-Thälmann-Straße. Die Verbindungsstraße nach Cossebaude wurde 1906/07 angelegt und mit Ein- und Mehrfamilienhäusern bebaut. Nach dem Ersten Weltkrieg beschloss man die amtliche Namensgebung als Cossebauder Straße, welche erstmals 1925 im Adressbuch nachweisbar ist. Zwischen 1927 und 1933 wurden die Häuser der Straße Am Tummelsgrund zugeordnet. 1934 erfolgte eine Umbenennung in Adolf-Hitler-Straße, 1945 die Rückbenennung in Cossebauder Straße.
 
@@ -87,18 +87,18 @@ _Fotos: Gasthof Mobschatz - rechts der frühere Saal auf einer historischen Ansi
 Der Weg bildete früher die Verbindung zwischen Mobschatz und der Briesnitzer Kirche. Da er von den Bewohnern regelmäßig zum Besuch der Messe genutzt wurde, erhielt er
 den Namen Mobschatzer Meßweg. 1886 erfolgte im unteren Teil der Ausbau zur Straße, welche seit 1897 Merbitzer Straße genannt wird. Der auf Mobschatzer Flur gelegene Teil ist in heutigen Stadtplänen als Kirchenweg eingetragen.
 
-![lößnitzblick](../../../../a_rectangle_315.gif)
+![lößnitzblick](a_rectangle_315.gif)
 
 Die Straße Lößnitzblick, direkt am Elbhang gelegen, erhielt ihren Namen nach dem Blick auf die gegenüberliegenden Lößnitzhänge in Radebeul. Sie wurde 1926/27 angelegt und mit Siedlungshäusern bebaut.
 
 
-![martin-luther-ring](../../../../a_rectangle_313.gif)
+![martin-luther-ring](a_rectangle_313.gif)
 
 Die Straße wurde als Lutherstraße 1911 auf dem Gelände der stillgelegten Mobschatzer Ziegelei angelegt. Bis zum Beginn
 des Ersten Weltkrieges entstand hier eine Villenkolonie. 1919 erfolgte eine Verlängerung der Straße bis zur Bergstraße und die Bebauung
 der verbliebenen Freiflächen bis 1925. Um Verwechslungen mit der gleichnamigen Straße in Dresden vorzubeugen, wurde die Straße 2001 in Martin-Luther-Ring umbenannt.
 
-![merbitzer ring](../../../../a_rectangle_316.gif)
+![merbitzer ring](a_rectangle_316.gif)
 
 ![](../../../../west/mobschatz/leuteritz/strassen_mobschatz/merbitz2.jpg)
 Die Straße verbindet die Gehöfte des alten Dorfkerns von Merbitz und erhielt ihren Namen Merbitzer Ring erst nach 1990. Fast alle der noch erhaltenen Dreiseithöfe

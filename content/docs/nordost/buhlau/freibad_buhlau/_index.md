@@ -3,7 +3,7 @@ title: "Freibad Bühlau"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![freibad bühlau](../../../freibad_buhlau_nurbanlegendbannerh.gif)
+![freibad bühlau](freibad_buhlau_nurbanlegendbannerh.gif)
 
 * * *
 

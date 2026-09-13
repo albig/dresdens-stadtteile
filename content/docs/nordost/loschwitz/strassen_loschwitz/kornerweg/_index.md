@@ -3,7 +3,7 @@ title: "Kornerweg"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![körnerweg](../../../../kornerweg_n1_banner2.gif)
+![körnerweg](kornerweg_n1_banner2.gif)
 
 * * *
 

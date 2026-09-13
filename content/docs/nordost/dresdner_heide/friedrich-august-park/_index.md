@@ -3,7 +3,7 @@ title: "Friedrich-August-Park"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![friedrich-august-park](../../../friedrich-august-park_nurbanlegendbannerh.gif)
+![friedrich-august-park](friedrich-august-park_nurbanlegendbannerh.gif)
 
 * * *
 

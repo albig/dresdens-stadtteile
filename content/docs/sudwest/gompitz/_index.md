@@ -109,7 +109,7 @@ Verein Bergfrieden e. V. 98 Parzellen. Außerdem gibt es ein auch öffentlic
 
 [![](../../sudwest/gompitz/kgv-bergfrieden.jpg)](http://www.kgv-bergfrieden-gompitz.de)
 
-[![gompitzer straßen](../../a_rectangle_425.gif)](../../sudwest/gompitz/pennrich/strassen_gompitz/)
+[![gompitzer straßen](a_rectangle_425.gif)](../../sudwest/gompitz/pennrich/strassen_gompitz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

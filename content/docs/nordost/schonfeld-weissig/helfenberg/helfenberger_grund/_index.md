@@ -3,7 +3,7 @@ title: "Helfenberger Grund"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![helfenberger grund](../../../../helfenberger_grund_nurbanlegendbannerh.gif)
+![helfenberger grund](helfenberger_grund_nurbanlegendbannerh.gif)
 
 * * *
 
@@ -76,7 +76,7 @@ genannte Unternehmen beschäftigte zeitweise über 250 Arbeiter und unterhielt N
 York und Antwerpen. Zur Fabrik gehörten nach der Jahrhundertwende auch eine eigene Druckerei zur Herstellung der
 Verpackungsmaterialien, Tischlerei, Wasser- und Elektrizitätswerk sowie eine Poststelle für den Versand der Artikel in alle Welt.
 
-![](../../../../helfenbergfabrik2.jpg)1951 wurde die Chemische Fabrik Helfenberg enteignet und in mehrere Teilbetriebe aufgegliedert. Ein Zweigbetrieb produzierte unter altem Namen in Wevelinghofen im
+![](helfenbergfabrik2.jpg)1951 wurde die Chemische Fabrik Helfenberg enteignet und in mehrere Teilbetriebe aufgegliedert. Ein Zweigbetrieb produzierte unter altem Namen in Wevelinghofen im
 Rheinland weiter und kam später zur Chemischen Gesellschaft Rhenania. Der Dresdner Betrieb wurde zunächst als VEB Chemische Fabrik Helfenberg weitergeführt und ab
 1955 als Montagestätte für Kameras von den Dresdner Kamerawerken (ab 1964 VEB Pentacon) genutzt. Die früheren Produktionsgebäude und die Villa Eugen Dieterichs, an
 den auch ein Straßenname in Niederpoyritz erinnert, sind noch erhalten. 1999 entstand hier ein Kunst- und Wohnprojekt, in dem Designer, Werbegrafiker und ein

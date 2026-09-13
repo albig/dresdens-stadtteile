@@ -3,7 +3,7 @@ title: "Wasaplatz"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![wasaplatz](../../../../wasaplatz_n1_banner2.gif)
+![wasaplatz](wasaplatz_n1_banner2.gif)
 
 * * *
 

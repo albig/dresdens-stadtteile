@@ -3,7 +3,7 @@ title: "Altlobtau"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![altlöbtau](../../../../altlobtau_n1_banner2.gif)
+![altlöbtau](altlobtau_n1_banner2.gif)
 
 * * *
 

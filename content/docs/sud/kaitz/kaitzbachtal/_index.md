@@ -3,7 +3,7 @@ title: "Kaitzbachtal"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![kaitzbachtal](../../../kaitzbachtal_nurbanlegendbannerh.gif)
+![kaitzbachtal](kaitzbachtal_nurbanlegendbannerh.gif)
 
 * * *
 

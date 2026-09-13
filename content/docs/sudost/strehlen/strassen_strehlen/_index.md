@@ -3,7 +3,7 @@ title: "Straßen Strehlen"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![straßen und plätze in strehlen](../../../strassen_strehlen_n1_banner2.gif)
+![straßen und plätze in strehlen](strassen_strehlen_n1_banner2.gif)
 
 * * *
 
@@ -423,7 +423,7 @@ in der DDR.
 
 [![wasaplatz](../../../sudost/strehlen/strassen_strehlen/a_rectangle_1137.gif)](../../../sudost/strehlen/strassen_strehlen/wasaplatz/)
 
-![wasastraße](../../../a_rectangle_768.gif)
+![wasastraße](a_rectangle_768.gif)
 
 Die um 1880 angelegte Wasastraße erhielt ihren Namen nach dem schwedischen Königsgeschlecht Wasa. Mit der Namensgebung sollte die Gemahlin König Alberts, Carola von Wasa-Holstein-Gottor (1833-1907) geehrt werden, die diesem Geschlecht entstammte. 1853 hatte sie den sächsischen Thronfolger geheiratet. Zu DDR-Zeiten wurde die Wasastraße nach einem Politiker Johannes-Dieckmann-Straße genannt. Johannes Dieckmann (1893-1969) gehörte zu den Mitbegründern der LDPD (Liberaldemokratische Partei Deutschlands) und war zwischen 1949 und 1969 Präsident der Volkskammer und ab 1960 zugleich stellvertretender Vorsitzender des Staatsrates der DDR. Für seine Verdienste erhielt er 1963 die Ehrenbürgerwürde der Stadt Dresden. Im Oktober 1991 bekam die Wasastraße ihren früheren Namen zurück. Bis heute sind hier zahlreiche Villen und Landhäuser verschiedener Stilrichtungen erhalten, die nach erfolgter Sanierung meist gewerblichen Zwecken dienen.
 
@@ -443,7 +443,7 @@ Nr. 16: Die im Landhausstil erbaute Villa war bis 1990 Sitz der Landeskirchliche
 
 _in der Mitte Nr. 2b, rechts Nr. 11_
 
-![weberplatz](../../../a_rectangle_769.gif)
+![weberplatz](a_rectangle_769.gif)
 
 Der Weberplatz entstand als Vorplatz des 1910 erbauten [Friedrich-August-Seminars](../../../sudost/strehlen/) und erhielt seinen Namen nach dem
 bekannten Komponisten Carl Maria von Weber (1786-1826), der viele Jahre als Hofkapellmeister in Dresden wirkte.
@@ -451,7 +451,7 @@ Gleichzeitig entstanden die Diesterwegstraße und die Wigardstraße, die heute n
 Ergänzungsbauten der Technischen Universität überbaut wurden. Sowohl der Pädagoge Adolph Diesterweg (1790-1866) als auch der Stenograph Franz Wigard (1807-1885) waren an den bürgerlichen Reformen des 19. Jahrhunderts beteiligt und
 sollten mit dieser Namensgebung in Nachbarschaft der ersten modernen Lehrerbildungsstätte in Sachsen geehrt werden.
 
-![wundtstraße](../../../a_rectangle_770.gif)
+![wundtstraße](a_rectangle_770.gif)
 
 Die Wundtstraße erhielt ihren Namen nach dem Philosophen und Psychologen Wilhelm Wundt (1832-1920), der als Begründer der modernen experimentellen Psychologie gilt. 1969/73 entstanden an der Wundtstraße sechs 15-geschossige Studentenwohnheime für die Technische Universität. Diese wurden in den vergangenen Jahren saniert und mit neuen Außenfassaden versehen.
 

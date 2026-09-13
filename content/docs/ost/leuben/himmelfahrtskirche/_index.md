@@ -3,7 +3,7 @@ title: "Himmelfahrtskirche"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![himmelfahrtskirche](../../../himmelfahrtskirche_nlafleurbannerh.gif)
+![himmelfahrtskirche](himmelfahrtskirche_nlafleurbannerh.gif)
 
 * * *
 

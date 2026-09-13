@@ -3,7 +3,7 @@ title: "Herz-Jesu-Kirche"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![herz-jesu-kirche](../../../herz-jesu-kirche_nlafleurbannerh.gif)
+![herz-jesu-kirche](herz-jesu-kirche_nlafleurbannerh.gif)
 
 * * *
 

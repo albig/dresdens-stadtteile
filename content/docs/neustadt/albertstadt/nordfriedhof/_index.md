@@ -3,7 +3,7 @@ title: "Nordfriedhof"
 date: 2024-02-17T22:13:30+01:00
 ---
 
-![nordfriedhof](../../../nordfriedhof_nurbanlegendbannerh.gif)
+![nordfriedhof](nordfriedhof_nurbanlegendbannerh.gif)
 
 
 [![](../../../neustadt/hauptseitealbertstadt.jpg)](../../../neustadt/albertstadt/)

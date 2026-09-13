@@ -3,7 +3,7 @@ title: "Kleinzschachwitzer Ufer"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![kleinzschachwitzer ufer](../../../../kleinzschachwitzer_ufer_n1_banner2.gif)
+![kleinzschachwitzer ufer](kleinzschachwitzer_ufer_n1_banner2.gif)
 
 * * *
 

@@ -3,7 +3,7 @@ title: "Loschwitzer Kirche"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![loschwitzer kirche](../../../loschwitzer_kirche_nlafleurbannerh.gif)
+![loschwitzer kirche](loschwitzer_kirche_nlafleurbannerh.gif)
 
 * * *
 

@@ -3,7 +3,7 @@ title: "Kunstgewerbeschule"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![kunstgewerbeschule](../../../../kunstgewerbeschule_nlafleurbannerh.gif)
+![kunstgewerbeschule](kunstgewerbeschule_nlafleurbannerh.gif)
 
 * * *
 

@@ -3,7 +3,7 @@ title: "Garnisonskirche"
 date: 2024-02-17T22:13:30+01:00
 ---
 
-![garnisonkirche](../../../../../garnisonskirche_nlafleurbannerh.gif)
+![garnisonkirche](garnisonskirche_nlafleurbannerh.gif)
 
 * * *
 

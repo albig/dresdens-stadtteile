@@ -3,7 +3,7 @@ title: "Straßen Nickern"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![straßen und plätze in nickern](../../../strassen_nickern_n1_banner2.gif)
+![straßen und plätze in nickern](strassen_nickern_n1_banner2.gif)
 
 * * *
 
@@ -77,7 +77,7 @@ Die im Zusammenhang mit dem Bau einer neuen Wohnsiedlung am Trützsch angelegte 
 
 Die Büttigstraße erinnert an den früheren Staatsrat Wilhelm August Büttig (1809-1879) und dessen Neffen Ernst Leberecht Büttig, welche Ende des 19. Jahrhunderts ein Vermächtnis zum Bau einer Schule errichteten. 1884 konnte dieses neue Schulhaus an der Fritz-Meinhardt-Straße eingeweiht werden. Wilhelm August Büttig, geboren in Nickern, studierte in Leipzig Medizin und war später Leibarzt des Großfürsten Konstantin Nikolajewitsch Romanow in St. Petersburg. Bereits vor dem Zweiten Weltkrieg hatte es in Nickern eine Büttigstraße gegeben, die jedoch 1947 in Fritz-Meinhardt-Straße umbenannt wurde. Im Zusammenhang mit dem Bau einer neuen Eigenheimsiedlung entstand Anfang der 1990er Jahre die neue Büttigstraße.
 
-![dora-zschille-straße](../../../a_rectangle_1750.gif)
+![dora-zschille-straße](a_rectangle_1750.gif)
 
 Die im Zusammenhang mit dem Bau einer Eigenheimsiedlung Ende der 1990er Jahre angelegte Straße verdankt ihren Namen der Opernsängerin Dora Anna Zschille-Weydling (1906-1997), die viele Jahre an der Dresdner Staatsoper wirkte. Zuvor gehörte das Areal zur in den 1930er Jahren errichteten [Alten Kaserne](../../../sudost/nickern/kaserne_nickern/), welche von 1945 bis zum Abzug 1991 von sowjetischen Armeeeinheiten genutzt wurde.
 
@@ -119,7 +119,7 @@ Die Heinz-Bongartz-Straße entstand Ende der 1990er Jahre im Zusammenhang mit de
 
 **_Foto:_** _Neubauten an der Heinz-Bongartz-Straße_
 
-![helena-rott-straße](../../../a_rectangle_1751.gif)
+![helena-rott-straße](a_rectangle_1751.gif)
 
 Mit der Namensgebung Helena-Rott-Straße wird an die Kammersängerin und Altistin Helena Rott (1908-1991) erinnert, die viele Jahre dem Ensemble der Dresdner Staatsoper angehörte. Auch diese Straße im Musikerviertel entstand 1999 im Zusammenhang mit der Umwandlung des ehemaligen Nickerner Kasernengeländes zum Wohnpark. Eine Bebauung mit Eigenheimen begann jedoch erst 2015.
 

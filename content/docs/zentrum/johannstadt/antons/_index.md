@@ -3,7 +3,7 @@ title: "Antons"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![antons](../../../antons_nlafleurbannerh.gif)
+![antons](antons_nlafleurbannerh.gif)
 
 * * *
 

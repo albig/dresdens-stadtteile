@@ -3,7 +3,7 @@ title: "Innerer Katholischer Friedhof"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![innerer katholischer friedhof](../../../../../innerer_katholischer_friedhof_nurbanlegendbannerh.gif)
+![innerer katholischer friedhof](innerer_katholischer_friedhof_nurbanlegendbannerh.gif)
 
 * * *
 

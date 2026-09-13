@@ -81,7 +81,7 @@ Freibad Niedersedlitz
 
 Mit der Eingemeindung 1950 übernahm die Stadt Dresden das Bad und veranlasste erneut Planungen für einen Ausbau der Anlage. Letztlich beschränkte man sich jedoch auf verschiedene Modernisierungs- und Sanierungsarbeiten wie den Bau eines neuen Toilettengebäudes und die Instandsetzung des Mühlbachbettes. 1999 erfolgte die Schließung des Freibades, welches 2002 offiziell aus dem Bereich Sportstätten und Bäder herausgelöst wurde. Das Areal dient heute gewerblichen Zwecken.
 
-[![niedersedlitzer straßen](../../a_rectangle_1145.gif)](../../ost/niedersedlitz/strassen_niedersedlitz/)
+[![niedersedlitzer straßen](a_rectangle_1145.gif)](../../ost/niedersedlitz/strassen_niedersedlitz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

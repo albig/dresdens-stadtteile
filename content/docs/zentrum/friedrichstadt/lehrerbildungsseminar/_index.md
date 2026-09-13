@@ -3,7 +3,7 @@ title: "Lehrerbildungsseminar"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![lehrerbildungsseminar](../../../lehrerbildungsseminar_nlafleurbannerh.gif)
+![lehrerbildungsseminar](lehrerbildungsseminar_nlafleurbannerh.gif)
 
 * * *
 

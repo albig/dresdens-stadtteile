@@ -3,7 +3,7 @@ title: "Washingtonstraße"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![washingtonstraße](../../../../washingtonstrasse_n1_banner2.gif)
+![washingtonstraße](washingtonstrasse_n1_banner2.gif)
 
 * * *
 

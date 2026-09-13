@@ -3,7 +3,7 @@ title: "Gohliser Straße"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![gohliser straße](../../../../gohliser_strasse_n1_banner2.gif)
+![gohliser straße](gohliser_strasse_n1_banner2.gif)
 
 * * *
 

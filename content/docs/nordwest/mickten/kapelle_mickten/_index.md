@@ -3,7 +3,7 @@ title: "Kapelle Mickten"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![kapelle mickten](../../../kapelle_mickten_nlafleurbannerh.gif)
+![kapelle mickten](kapelle_mickten_nlafleurbannerh.gif)
 
 * * *
 

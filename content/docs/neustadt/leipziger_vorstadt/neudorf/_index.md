@@ -61,7 +61,7 @@ Holzgewinnung demontiert. Das Bild (rechts) zeigt die Schiffsmühle auf einem Ge
 
 Elbfähre:
 
-![](../../../neudorff_hre.jpg)Die Neudorfer Elbfähre wurde um 1840 in Verlängerung der heutigen Eisenberger
+![](neudorff_hre.jpg)Die Neudorfer Elbfähre wurde um 1840 in Verlängerung der heutigen Eisenberger
 Straße eingerichtet und verband den Ort mit dem gegenüberliegenden Ostragehege. Betreiber war bis 1923 die Dresdner Fischerinnung, danach der Pieschener
 Fährmeister Albert Jacob. Bis 1945 wurde sie gern von den Besuchern der Gartenwirtschaft Onkel Toms Hütte im Ostragehege genutzt, welche unmittelbar an
 der Fährstelle lag. Zurückgehende Passagierzahlen führten 1992 zur Einstellung des Betriebes. Das Foto zeigt die ehemalige Fährstelle im Frühjahr 2013.

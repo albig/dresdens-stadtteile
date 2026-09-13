@@ -3,7 +3,7 @@ title: "Tharandter Straße"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![tharandter straße](../../../../tharandter_strasse_n1_banner2.gif)
+![tharandter straße](tharandter_strasse_n1_banner2.gif)
 
 * * *
 
@@ -19,7 +19,7 @@ date: 2024-02-17T22:13:44+01:00
 
 
 
-![](../../../../l_btautharstr3.jpg)Die heutige Tharandter Straße wurde Mitte des 16. Jahrhunderts als Fußweg durch
+![](l_btautharstr3.jpg)Die heutige Tharandter Straße wurde Mitte des 16. Jahrhunderts als Fußweg durch
 den Plauenschen Grund angelegt. 1712 regten die Ämter Dippoldiswalde und die Stadt Tharandt an, den bestehenden Fahrweg über die Höhen von Coschütz und
 Plauen in das Weißeritztal zu verlegen und zu befestigen. Wegen des hohen Aufwands und der zu geringen Verkehrsbedeutung wurde das Vorhaben jedoch
 abgelehnt. Erst nach einer erneuten Eingabe erfolgte 1745 der Ausbau des Talweges zur Fahrstraße, um so eine bessere Verbindung zwischen dem Elbtal und den
@@ -56,7 +56,7 @@ Volksentscheid in Sachsen 1946 wurde die Firma Schulz & Schultze enteignet und i
 auf der Gröbelstraße. 1964 erfolgte die Eingliederung als Betriebsteil in den neu gebildeten VEB Lufttechnische
 Anlagen mit Sitz in Klotzsche. Nach 1990 wurde die Produktion eingestellt, wenig später folgte der Abriss der Gebäude.
 
-![](../../../../irmscher___witte.jpg)Dresdner Strickmaschinenfabrik: Der Betrieb entstand 1868 auf der Freiberger Straße 11, als
+![](irmscher___witte.jpg)Dresdner Strickmaschinenfabrik: Der Betrieb entstand 1868 auf der Freiberger Straße 11, als
 Georg Laue hier seine Werkstatt einrichtete und mit dem Bau der ersten deutschen Strickmaschinen begann. Zunächst erfolgte die Produktion von Maschinen nach
 amerikanischem Vorbild, bald jedoch nach eigenen Konstruktionsentwürfen. Der große Erfolg machte wenig später den Neubau einer Fabrik auf Löbtauer Flur erforderlich (Tharandter
 Straße 31/33). Am 1. Januar 1879 trat Theodor Eduard Timaeus, ein Verwandter des bekannten Schokoladenfabrikanten, in den Betrieb ein, der nun als Dresdner

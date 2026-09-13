@@ -3,7 +3,7 @@ title: "Straßen Weissig"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![straßen und plätze in weißig](../../../../strassen_weissig_n1_banner2.gif)
+![straßen und plätze in weißig](strassen_weissig_n1_banner2.gif)
 
 * * *
 

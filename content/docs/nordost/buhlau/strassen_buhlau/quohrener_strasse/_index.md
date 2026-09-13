@@ -3,7 +3,7 @@ title: "Quohrener Straße"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![quohrener straße](../../../../quohrener_strasse_n1_banner2.gif)
+![quohrener straße](quohrener_strasse_n1_banner2.gif)
 
 * * *
 

@@ -3,7 +3,7 @@ title: "Klenckescher Kurberg"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![klenckescher kurberg](../../../../klenckescher_kurberg_nlafleurbannerh.gif)
+![klenckescher kurberg](klenckescher_kurberg_nlafleurbannerh.gif)
 
 * * *
 

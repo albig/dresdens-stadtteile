@@ -3,7 +3,7 @@ title: "Grundstraße"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![grundstraße](../../../../grundstrasse_n1_banner2.gif)
+![grundstraße](grundstrasse_n1_banner2.gif)
 
 * * *
 
@@ -28,7 +28,7 @@ date: 2024-02-17T22:13:33+01:00
 
 Bis 1945 befand sich an der Einmündung der Grundstraße in den Körnerplatz eine Rangierstelle der Straßenbahn, die ursprünglich Auftakt für eine geplante Linie bis nach Bühlau sein sollte. 1949 wurde diese durch Dresdens einzige [O-Bus-Linie](../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/o-bus/) ersetzt, die noch bis 1974 zwischen Löbtau und Weißig verkehrte. Ab 1990 bis 2001 wurde die Grundstraße komplett saniert. An der Buswartehalle Steglichstraße _(Foto)_ berichtet ein 1949 von Hermann Glöckner gestaltetes Wandbild mit Inschrift von der Geschichte dieser Straße:
 
-![](../../../../nordost/loschwitz/strassen_loschwitz/grundstrasse/loschwwartehalle.jpg)![die grundstrasse  durch sie verbanden dresdens östliche gebiete sich mit dem weg zum nahen bautzner land an ihrer seite floss zu tal die trille gab sieben mühlen, einer silberschmiede kraft und arbeit fand so manche fleiss`ge hand](../../../../a_rectangle_204.gif)
+![](../../../../nordost/loschwitz/strassen_loschwitz/grundstrasse/loschwwartehalle.jpg)![die grundstrasse  durch sie verbanden dresdens östliche gebiete sich mit dem weg zum nahen bautzner land an ihrer seite floss zu tal die trille gab sieben mühlen, einer silberschmiede kraft und arbeit fand so manche fleiss`ge hand](a_rectangle_204.gif)
 
 Einzelne Gebäude:
 

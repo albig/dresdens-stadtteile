@@ -3,7 +3,7 @@ title: "Äußerer Katholischer Friedhof"
 date: 2024-02-17T22:13:46+01:00
 ---
 
-![äußerer katholischer friedhof](../../../ausserer_katholischer_friedhof_nurbanlegendbannerh.gif)
+![äußerer katholischer friedhof](ausserer_katholischer_friedhof_nurbanlegendbannerh.gif)
 
 * * *
 

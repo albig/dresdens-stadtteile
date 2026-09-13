@@ -41,6 +41,6 @@ gehörte der Ort zu Gompitz und ist seit dem 1. Januar 1999 Stadtteil von Dresde
 
 ![](../../../sudwest/gompitz/steinbach/siegelsteinb.jpg)
 
-[![steinbacher straßen](../../../a_rectangle_1964.gif)](../../../sudwest/gompitz/pennrich/strassen_gompitz/)
+[![steinbacher straßen](a_rectangle_1964.gif)](../../../sudwest/gompitz/pennrich/strassen_gompitz/)
 
 [_Weiterführende Literatur und Quellen_](../../../impressum/quellenverzeichnis/)

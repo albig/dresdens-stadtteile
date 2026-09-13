@@ -3,7 +3,7 @@ title: "Lahmann-Sanatorium"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![lahmann-sanatorium](../../../../lahmann-sanatorium_nlafleurbannerh.gif)
+![lahmann-sanatorium](lahmann-sanatorium_nlafleurbannerh.gif)
 
 * * *
 

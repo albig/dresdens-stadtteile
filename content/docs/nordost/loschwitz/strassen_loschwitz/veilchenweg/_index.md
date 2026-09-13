@@ -3,7 +3,7 @@ title: "Veilchenweg"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![veilchenweg](../../../../veilchenweg_n1_banner2.gif)
+![veilchenweg](veilchenweg_n1_banner2.gif)
 
 * * *
 

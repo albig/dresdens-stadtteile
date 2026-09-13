@@ -3,7 +3,7 @@ title: "Hamburger Straße"
 date: 2024-02-17T22:13:45+01:00
 ---
 
-![hamburger straße](../../../../hamburger_strasse_n1_banner2.gif)
+![hamburger straße](hamburger_strasse_n1_banner2.gif)
 
 * * *
 

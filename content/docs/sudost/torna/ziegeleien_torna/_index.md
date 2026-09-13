@@ -3,7 +3,7 @@ title: "Ziegeleien in Torna"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![ziegeleien in torna](../../../ziegeleien_torna_nlafleurbannerh.gif)
+![ziegeleien in torna](ziegeleien_torna_nlafleurbannerh.gif)
 
 * * *
 

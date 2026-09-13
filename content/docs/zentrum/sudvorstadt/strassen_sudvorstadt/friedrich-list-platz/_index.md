@@ -3,7 +3,7 @@ title: "Friedrich-List-Platz"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![friedrich-list-platz](../../../../friedrich-list-platz_n1_banner2.gif)
+![friedrich-list-platz](friedrich-list-platz_n1_banner2.gif)
 
 * * *
 

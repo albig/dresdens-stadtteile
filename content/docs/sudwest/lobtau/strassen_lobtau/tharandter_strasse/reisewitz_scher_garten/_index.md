@@ -3,7 +3,7 @@ title: "Reisewitz Scher Garten"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![reisewitz´scher garten](../../../../../reisewitz_scher_garten_nurbanlegendbannerh.gif)
+![reisewitz´scher garten](reisewitz_scher_garten_nurbanlegendbannerh.gif)
 
 * * *
 
@@ -15,9 +15,9 @@ date: 2024-02-17T22:13:44+01:00
 
 * * *
 
-![](../../../../../l_btreisewitzbrauerei.jpg)
+![](l_btreisewitzbrauerei.jpg)
 
-![](../../../../../l_btreisewitzbrauerei2.jpg)
+![](l_btreisewitzbrauerei2.jpg)
 
 _Werbedeckel und Tafel der Brauerei Reisewitz_
 

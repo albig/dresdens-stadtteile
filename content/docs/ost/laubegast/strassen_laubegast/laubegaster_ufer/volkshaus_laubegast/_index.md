@@ -3,7 +3,7 @@ title: "Volkshaus Laubegast"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![volkshaus laubegast](../../../../../volkshaus_laubegast_nlafleurbannerh.gif)
+![volkshaus laubegast](volkshaus_laubegast_nlafleurbannerh.gif)
 
 * * *
 

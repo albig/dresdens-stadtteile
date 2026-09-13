@@ -3,7 +3,7 @@ title: "Tiergartenstraße"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![tiergartenstraße](../../../../tiergartenstrasse_n1_banner2.gif)
+![tiergartenstraße](tiergartenstrasse_n1_banner2.gif)
 
 * * *
 

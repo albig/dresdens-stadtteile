@@ -3,7 +3,7 @@ title: "Markuskirche"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![markuskirche](../../../markuskirche_nlafleurbannerh.gif)
+![markuskirche](markuskirche_nlafleurbannerh.gif)
 
 * * *
 

@@ -3,7 +3,7 @@ title: "Erlöserkirche"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![erlöserkirche](../../../erloserkirche_nlafleurbannerh.gif)
+![erlöserkirche](erloserkirche_nlafleurbannerh.gif)
 
 * * *
 
@@ -62,7 +62,7 @@ halten sie bis heute die Erinnerung an das zerstörte Gotteshaus wach.
 
 
 
-[![](../../../johanneskirche.jpg)](http://www.johanneskirchgemeinde.de)
+[![](johanneskirche.jpg)](http://www.johanneskirchgemeinde.de)
 
 * * *
 

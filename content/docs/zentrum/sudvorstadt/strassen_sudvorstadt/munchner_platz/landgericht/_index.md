@@ -3,7 +3,7 @@ title: "Landgericht"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![landgericht münchner platz](../../../../../landgericht_nlafleurbannerh.gif)
+![landgericht münchner platz](landgericht_nlafleurbannerh.gif)
 
 * * *
 

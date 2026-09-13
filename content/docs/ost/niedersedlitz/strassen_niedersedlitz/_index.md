@@ -3,7 +3,7 @@ title: "Straßen Niedersedlitz"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![straßen und plätze in niedersedlitz](../../../strassen_niedersedlitz_n1_banner2.gif)
+![straßen und plätze in niedersedlitz](strassen_niedersedlitz_n1_banner2.gif)
 
 * * *
 
@@ -149,11 +149,11 @@ Die im Zusammenhang mit dem Bau einer Wohnsiedlung Mitte der Dreißiger Jahre an
 
 ![](../../../ost/niedersedlitz/strassen_niedersedlitz/niedersedlebrtstr.jpg)Die Friedrich-Ebert-Straße entstand 1925 beim Bau einer Arbeiterwohnsiedlung im Osten der Niedersedlitzer Flur. Der Name erinnert an den ersten deutschen Reichspräsidenten Friedrich Ebert (1871-1925). Ebert war bis zu seiner Wahl ab 1913 Vorsitzender der SPD und gehörte zu den führenden Köpfen des gemäßigten Flügels der Partei. Aus politischen Gründen erfolgte am 20. März 1933 die Umbenennung in Leo-Schlageter-Straße. Albert Leo Schlageter (1894-1923) war als Mitglied der nationalsozialistischen Großdeutschen Arbeiterpartei an mehreren Sprengstoffanschlägen im französisch besetzten Ruhrgebiet beteiligt und wurde wegen dieser Anschläge und Spionage 1923 zum Tode verurteilt und hingerichtet.Während der NS-Zeit galt er als ein Vorkämpfer der Bewegung. Bereits 1945 wurde die Straße wieder rückbenannt und erhielt ihren alten Namen Friedrich-Ebert-Straße zurück.
 
-![](../../../geranienweg.jpg)
+![](geranienweg.jpg)
 
 Der Geranienweg entstand beim Bau des Wohnpark am Niedersedlitzer Platz und wurde am 7. Oktober 1993 benannt. Wie auch bei einigen älteren benachbarten Straßen erfolgte die Namensgebung nach einer Zierpflanzenart.
 
-![](../../../gersdorfer_weg.jpg)
+![](gersdorfer_weg.jpg)
 
 Sowohl der Gersdorfer Weg als auch der benachbarte Göppersdorfer Weg wurden Mitte der 1970er Jahre beim Bau einer kleinen Eigenheimsiedlung nördlich der Windmühlenstraße angelegt. Die Namensgebung erfolgte am 12. Juli 1973 nach dem Ort Gersdorf, einem Ortsteil von Bahretal im Kreis Pirna (heute Landkreis Sächsische-Schweiz-Osterzgebirge.
 
@@ -345,7 +345,7 @@ Nach 1945 wurde die Malzfabrik verstaatlicht und gehörte später als VEB Malzwe
 
 Am 15. Mai des gleichen Jahres gründete Adalbert Fischer den "Belletristischen Verlag Dresden-Niedersedlitz", in dem er u.a. Mays Frühwerke unter dem Titel "Erzgebirgische Dorfgeschichten" veröffentlichte. Nach Fischers Tod 1907 übernahm zunächst seine Witwe, danach sein Schwiegersohn Arthur Schubert die Geschäftsleitung. Nach 1933 firmierte der Verlag unter Regie von Adele Preatorius als "Verlag Das Vaterhaus" und gab u.a. die Illustrierte Roman-Zeitschrift "Das Vaterhaus" heraus. Hinzu kamen Autoren wie der Science-Fiction-Schriftsteller Robert Kraft und die zu ihrer Zeit durch Frauen- und Adelsromane bekannte Schriftstellerin Anny von Panhuys _(Cover-Abbildungen)_. Das frühere Verlagsgebäude wurde 2012 abgerissen.
 
-![windmühlenstraße](../../../a_rectangle_1326.gif)
+![windmühlenstraße](a_rectangle_1326.gif)
 
 Die Windmühlenstraße wurde als Verbindungsstraße zwischen Niedersedlitz und der alten Pirnaischen Straße (heute Dohnaer Straße angelegt). Ihren Namen verdankt sie der 1825 hier errichteten Holländerwindmühle auf dem Hinterberg. Erst nach dem Ersten Weltkrieg entstanden an der Windmühlenstraße durch eine Baugenossenschaft die ersten Wohnhäuser, die 1935 um eine größere Wohnsiedlung ergänzt wurden. Auf den verbliebenen Freiflächen südlich der Straße errichtete man ab 1980 zehngeschossige Wohnhäuser. Die wegen ihres Grundrisses Sternhäuser genannten Gebäude wurden ab 2005 abgerissen.
 

@@ -3,7 +3,7 @@ title: "Neuer Jüdischer Friedhof"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![neuer jüdischer friedhof](../../../neuer_judischer_friedhof_nurbanlegendbannerh.gif)
+![neuer jüdischer friedhof](neuer_judischer_friedhof_nurbanlegendbannerh.gif)
 
 * * *
 

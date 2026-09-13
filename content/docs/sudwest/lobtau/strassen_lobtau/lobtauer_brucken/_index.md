@@ -23,7 +23,7 @@ Weißeritzbrücke Kesselsdorfer Straße:
 
 1837 entstand die bis heute erhaltene Brücke, die zunächst Chausseehausbrücke genannt wurde, bevor sie 1902 den Namen Bismarckbrücke erhielt. 1916 wurde an der Brücke eine Büste des Eisernen Kanzlers angebracht, welche jedoch nach 1945 verschwand und erst 1998 durch eine Relieftafel aus der Kunstgießerei Lauchhammer ersetzt wurde. 1998 erfolgte die Sanierung der heute offiziell unbenannten Brücke. Dabei wurden auf die vorhandenen Sandsteinbögen drei Stahlbetonbögen aufgesetzt. Das Bauwerk ist 40 Meter lang und 15 Meter breit und dient dem Straßenbahnverkehr.
 
-![](../../../../l_btaubismarckbr_cke.jpg)
+![](l_btaubismarckbr_cke.jpg)
 
 **_Foto:_** _Blick vom Ebertplatz über die Bismarckbrücke in Richtung Kesselsdorfer Straße um 1930_
 

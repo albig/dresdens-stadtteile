@@ -3,7 +3,7 @@ title: "Schaferstraße"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![schäferstraße](../../../../schaferstrasse_n1_banner2.gif)
+![schäferstraße](schaferstrasse_n1_banner2.gif)
 
 * * *
 
@@ -64,7 +64,7 @@ Nr. 24: Das heute nicht mehr vorhandene Mietshaus in der Nähe der Behringstraß
 
 Nr. 42 (ehem. 59):  Hier, im Eckhaus zur Menageriestraße wurde am 8. Februar 1876 Paula (Modersohn-) Becker als Tochter eines Eisenbahnbeamten geboren. Bekannt wurde sie als Malerin und Mitglied der Künstlergruppe um Otto Modersohn in Worpswede. Die Familie verzog kurz nach ihrer Geburt nach der [Friedrichstraße](../../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/) 46 und zog 1888 nach Bremen. Das Wohnhaus wurde in den 1950er Jahren abgerissen und nach 1990 durch einen Neubau ersetzt. Hier erinnert seit wenigen Jahren eine Gedenktafel an die Künstlerin.
 
-![](../../../../friedrichstkristallpalast.jpg)Kristallpalast (Nr. 45):
+![](friedrichstkristallpalast.jpg)Kristallpalast (Nr. 45):
 Der Kristallpalast gehörte vor dem Zweiten Weltkrieg zu den beliebtesten Tanz- und Vergnügungslokalen der Friedrichstadt. Ursprünglich wurde das Gebäude mit dem größten Dresdner Ballsaal als
 Gasthof  Zum Elephanten errichtet. Seinen Namen erhielt das Lokal nach einem über dem Eingang angebrachten Hauszeichen. 1810 kam hier der Landschaftsmaler Robert Kummer, Enkel des Wirtes, zur Welt.
 

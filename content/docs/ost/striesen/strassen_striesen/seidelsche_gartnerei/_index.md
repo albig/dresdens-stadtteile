@@ -3,7 +3,7 @@ title: "Seidelsche Gärtnerei"
 date: 2024-02-17T22:13:39+01:00
 ---
 
-![seidelsche gärtnerei](../../../../seidelsche_gartnerei_nurbanlegendbannerh.gif)
+![seidelsche gärtnerei](seidelsche_gartnerei_nurbanlegendbannerh.gif)
 
 * * *
 

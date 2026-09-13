@@ -3,7 +3,7 @@ title: "Hauptstraße"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![hauptstraße](../../../../hauptstrasse_n1_banner2.gif)
+![hauptstraße](hauptstrasse_n1_banner2.gif)
 
 * * *
 
@@ -22,7 +22,7 @@ In diesem ältesten Teil des Ortes wurde 1524 erstmals eine Dorfmühle erwähnt,
 
 Einzelne Gebäude:
 
-![](../../../../langebr_ck_gasthof.jpg)Gasthof Langebrück: (Nr. 2)  Die Geschichte des Langebrücker Gasthofes lässt sich bis ins Jahr 1444 zurückverfolgen, als am Roten Graben in der Mitte des Dorfes erstmals ein Erbgericht mit Brauschenke erwähnt wurde. Das Erblehngericht befand sich in Höhe der Kirche an der sogenannten Schenkenbrücke und war lange Zeit politischer und kultureller Mittelpunkt des Dorfes. Zum Areal gehörten später drei weitere Grundstücke, darunter das Kellerhaus an der Kirchstraße und die 1738 eingerichtete Oberschenke an der Kreuzung mit der Liegauer Straße. Neben der eigentlichen Schankwirtschaft gehörte auch eine Brauerei, eine Brennerei sowie eine Bäckerei zum Schankgut.
+![](langebr_ck_gasthof.jpg)Gasthof Langebrück: (Nr. 2)  Die Geschichte des Langebrücker Gasthofes lässt sich bis ins Jahr 1444 zurückverfolgen, als am Roten Graben in der Mitte des Dorfes erstmals ein Erbgericht mit Brauschenke erwähnt wurde. Das Erblehngericht befand sich in Höhe der Kirche an der sogenannten Schenkenbrücke und war lange Zeit politischer und kultureller Mittelpunkt des Dorfes. Zum Areal gehörten später drei weitere Grundstücke, darunter das Kellerhaus an der Kirchstraße und die 1738 eingerichtete Oberschenke an der Kreuzung mit der Liegauer Straße. Neben der eigentlichen Schankwirtschaft gehörte auch eine Brauerei, eine Brennerei sowie eine Bäckerei zum Schankgut.
 
 1846 wurde an der Hauptstraße in der Nähe der Eisenbahnstrecke der neue Gasthof zu Langebrück gegründet und ersetzte die bisherigen Schankwirtschaften in der Oberschänke und im Erbgericht. Schnell entwickelte sich das Lokal zum gesellschaftliches Zentrum des Ortes. 1925 wurde hier ein Kino eingerichtet, welches als Filmschau Langebrück bis 1987 bestand. So wie in vielen unzerstörten Veranstaltungsstätten des Dresdner Umlandes fanden auch im Langebrücker Gasthof nach 1945 gelegentlich Aufführungen des Dresdner Staatsschauspiels und der Staatsoper statt. Mehrfach traten im Saal der Kreuzchor und die Staatskapelle auf.
 

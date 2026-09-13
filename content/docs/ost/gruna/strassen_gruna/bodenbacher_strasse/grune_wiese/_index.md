@@ -3,7 +3,7 @@ title: "Grune Wiese"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![grüne wiese](../../../../../grune_wiese_nlafleurbannerh.gif)
+![grüne wiese](grune_wiese_nlafleurbannerh.gif)
 
 * * *
 

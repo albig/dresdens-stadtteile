@@ -3,7 +3,7 @@ title: "Straßen Kleinzschachwitz"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![straßen und plätze in kleinzschachwitz](../../../strassen_kleinzschachwitz_n1_banner2.gif)
+![straßen und plätze in kleinzschachwitz](strassen_kleinzschachwitz_n1_banner2.gif)
 
 * * *
 
@@ -13,7 +13,7 @@ date: 2024-02-17T22:13:37+01:00
 
 ![altkleinzschachwitz](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1433.gif)
 
-![](../../../klzaltkleinzschachw.jpg)Die frühere Hauptstraße von Kleinzschachwitz erhielt in Anlehnung an eine für fast alle
+![](klzaltkleinzschachw.jpg)Die frühere Hauptstraße von Kleinzschachwitz erhielt in Anlehnung an eine für fast alle
 Dresdner Stadtteile angewandte Tradition nach der Eingemeindung am 1. Juli 1926 den Namen Altkleinzschachwitz. Zuvor war sie ab 1878 der Augustinstraße zugeordnet und wurde 1902
 nach dem damals regierenden sächsischen König Georgplatz genannt. Da der Ort kein typisches Bauerndorf, sondern eine Handwerker- und Häuslergemeinde war, fehlen größere
 Bauerngüter. Rund um die Straße haben sich noch einige Wohngebäude aus dem 18. und 19. Jahrhundert erhalten _(Foto: Nr. 3 und 5)_. Die meisten Wohn- und Geschäftshäuser entstanden
@@ -28,7 +28,7 @@ Stil der Romantik mit verschiedenen Kleinbauten, künstlichen Ruinen, Wasserläu
 
 ![am sandberg](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1779.gif)
 
-![](../../../klzam_sandberg.jpg)
+![](klzam_sandberg.jpg)
 Die heute Am Sandberg genannte Straße im Norden der Kleinzschachwitzer Flur entstand nach 1890 abzweigend von der Meußlitzer Straße und wurde anschließend mit Villen und
 Landhäusern bebaut. Zunächst wurde sie Gartenstraße genannt. Am 25. Februar 1902 beschloss der Gemeinderat, die Gartenstraße nach dem früheren sächsischen König künftig
 Johannstraße zu nennen. Die benachbarte Wiesenstraße erhielt zeitgleich nach dessen Gemahlin den Namen Amalienstraße. Nach der Eingemeindung von Kleinzschachwitz wurde die
@@ -54,17 +54,17 @@ größeren Gebäudes 1896 zur Unterbringung hilfsbedürftiger Familien genutzt. 
 
 ![august-röckel-straße](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1434.gif)
 
-![](../../../klzbaldamusstr.jpg)
+![](klzbaldamusstr.jpg)
 Die August-Röckel-Straße im Villenviertel von Kleinzschachwitz verdankt ihren Namen dem Musikdirektor und Revolutionär August Röckel (1814-1876). Röckel wirkte ab 1843 in Dresden und gehörte gemeinsam mit Richard Wagner zu den
 Führern des Maiaufstandes 1849. Später zu lebenslanger Haft verurteilt, wurde er als letzter Maigefangener erst 1863 aus dem Zuchthaus entlassen. Die Straße wurde
 1935 im Zusammenhang mit dem Bau einer neuen Wohnsiedlung angelegt und trug bis zum 2. Februar 1946 den Namen Baldamusstraße. Namensgeber war der deutsche
 Kampfflieger Hartmuth Baldamus (1893-1917). Baldamus stammte aus Dresden, ließ sich 1914 zum Piloten ausbilden und starb am 14. April 1917 bei einem Zusammenstoß mit einer gegnerischen Maschine in Frankreich.
 
-[![](../../../berthold-haupt-stra_e.jpg)](../../../ost/leuben/strassen_leuben/berthold-haupt-strasse/)
+[![](berthold-haupt-stra_e.jpg)](../../../ost/leuben/strassen_leuben/berthold-haupt-strasse/)
 
 ![carl-borisch-straße](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1776.gif)
 
-![](../../../klzcarl-borsch-str.jpg)Die Carl-Borisch-Straße im Kleinzschachwitzer Ortskern wurde 1894 von Carl Friedrich
+![](klzcarl-borsch-str.jpg)Die Carl-Borisch-Straße im Kleinzschachwitzer Ortskern wurde 1894 von Carl Friedrich
 August Borisch (1826-1906) angelegt, der hier einige Grundstücke besaß und diese mit Wohnhäusern bebauen ließ. Borisch war viele Jahre im Gemeinderat des Ortes tätig. Nach
 Übereignung der Erschließungsstraße an die Gemeinde erhielt sie ihm zu Ehren ihren Namen.
 

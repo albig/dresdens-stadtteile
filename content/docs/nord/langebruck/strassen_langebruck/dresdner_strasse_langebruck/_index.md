@@ -3,7 +3,7 @@ title: "Dresdner Straße Langebruck"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![dresdner straße](../../../../dresdner_strasse_langebruck_n1_banner2.gif)
+![dresdner straße](dresdner_strasse_langebruck_n1_banner2.gif)
 
 * * *
 

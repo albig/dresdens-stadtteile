@@ -3,7 +3,7 @@ title: "Stephanuskirche"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![stephanuskirche](../../../stephanuskirche_nlafleurbannerh.gif)
+![stephanuskirche](stephanuskirche_nlafleurbannerh.gif)
 
 * * *
 

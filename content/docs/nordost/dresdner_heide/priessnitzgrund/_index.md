@@ -3,7 +3,7 @@ title: "Prießnitzgrund"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![prießnitzgrund](../../../priessnitzgrund_nurbanlegendbannerh.gif)
+![prießnitzgrund](priessnitzgrund_nurbanlegendbannerh.gif)
 
 * * *
 

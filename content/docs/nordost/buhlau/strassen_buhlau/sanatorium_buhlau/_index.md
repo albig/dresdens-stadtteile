@@ -3,7 +3,7 @@ title: "Sanatorium Bühlau"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![sanatorium bühlau](../../../../sanatorium_buhlau_nlafleurbannerh.gif)
+![sanatorium bühlau](sanatorium_buhlau_nlafleurbannerh.gif)
 
 * * *
 

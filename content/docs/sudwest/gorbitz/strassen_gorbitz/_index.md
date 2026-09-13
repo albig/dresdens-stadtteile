@@ -3,7 +3,7 @@ title: "Straßen Gorbitz"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![straßen und plätze in gorbitz](../../../strassen_gorbitz_n1_banner2.gif)
+![straßen und plätze in gorbitz](strassen_gorbitz_n1_banner2.gif)
 
 * * *
 
@@ -74,7 +74,7 @@ Straßenbahnhof. Die Grundsteinlegung erfolgte am 8. Dezember 1993, die Eröffnu
 heute die zentrale Betriebswerkstatt der DVB sowie Abstellhallen für bis zu 120 Stadtbahnwagen. Die Gleislänge beträgt insgesamt ca. 11 km. Der Betriebshof war wegen der Umstellung des Fuhrparks auf die längeren Stadtwahnwagenzüge
 notwendig geworden und ersetzt zugleich mehrere kleinere Straßenbahnhöfe.
 
-![](../../../dahlienweg.jpg)
+![](dahlienweg.jpg)
 
 Der Dahlienweg entstand im Zusammenhang mit dem ersten Bauabschnitt des Neubauviertes Gorbitz und wurde am 15. März
 1979 benannt. Wie auch bei den benachbarten Straßen Asternweg und Sonnenblumenweg erfolgte die Namensgebung nach einer Zierpflanzenart.
@@ -161,7 +161,7 @@ Die heutige Hirtenstraße trug bis 1926 den Namen Pietzschstraße nach dem Gutsb
 
 **_Fotos:_** _Siedlung Hirtenstraße (links) - Hexenhaus an der Hofwiesenstraße (rechts)_
 
-![hofwiesenstraße](../../../a_rectangle_469.gif)
+![hofwiesenstraße](a_rectangle_469.gif)
 
 Ursprünglich trug diese Straße in Niedergorbitz den Namen Dammweg, der auf das ehemalige Dammviertel des Ortes hinwies. Am 21. Oktober 1921 wurde der Dammweg in Hofwiesenstraße umbenannt, da hier einst die Wiesen des in kurfürstlichem Besitz befindlichen Kammergutes lagen. Zu den romantischsten Gebäuden im alten Gorbitz zählt das nach 1990 liebevoll sanierte Hexenhaus auf der Hofwiesenstraße 28, welches heute als historisches Gasthaus dient. Erbaut wurde dieses Fachwerkhaus im Jahr 1802.
 
@@ -187,7 +187,7 @@ Merianplatz wurden 1982/83 mit dem zweiten Baubschnitt bebaut.
 
 [![kesselsdorfer straße](../../../sudwest/a_rectangle_472.gif)](../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/)
 
-![leßkestraße](../../../a_rectangle_473.gif)
+![leßkestraße](a_rectangle_473.gif)
 
 ![](../../../sudwest/gorbitz/strassen_gorbitz/gorbitzle_kestra_e.jpg)Die frühere Schulstraße verdankt ihren Namen dem Heimatforscher und Lehrer
 Friedrich August Leßke, der bis zu seinem Tod 1904 Direktor der Niedergorbitzer Schule war. Das Schulhaus Leßkestraße 1 entstand 1890 an Stelle eines abgerissenen
@@ -223,7 +223,7 @@ vor allem durch ihre naturgetreuen Pflanzenzeichnungen berühmt wurde. Außerdem
 Die Rädestraße, vor 1926 Heinrichstraße genannt, erhielt ihren Namen nach dem ehemaligen Obergorbitzer
 Gemeindevorstand Friedrich Gottlieb Räde. Die Familie war über mehrere Generationen im Ort ansässig und stiftete Geld für gemeinnützige Zwecke. 1905 wurde an der Rädestraße der [Gorbitzer Friedhof](../../../sudwest/gorbitz/kirchen_gorbitz/) angelegt.
 
-![schreberstraße](../../../a_rectangle_478.gif)
+![schreberstraße](a_rectangle_478.gif)
 
 Die Schreberstraße wurde 1933 nach dem Leipziger Arzt Daniel Moritz Schreber (1808-1861) benannt, der als Begründer der Kleingartenbewegung gilt (Schrebergärten). An
 dieser Straße entstand im gleichen Jahr eine auch als Schweinesiedlung bezeichnete kleine Wohnanlage in Nachbarschaft der sogenannten Schweinesenke der Kammergutes.

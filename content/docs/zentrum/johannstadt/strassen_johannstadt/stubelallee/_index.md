@@ -3,7 +3,7 @@ title: "Stubelallee"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![stübelallee](../../../../stubelallee_n1_banner2.gif)
+![stübelallee](stubelallee_n1_banner2.gif)
 
 * * *
 

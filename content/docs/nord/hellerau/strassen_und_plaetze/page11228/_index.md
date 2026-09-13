@@ -3,7 +3,7 @@ title: "Page11228"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![straßen und plätze in hellerau](../../../../page11228_n1_banner2.gif)
+![straßen und plätze in hellerau](page11228_n1_banner2.gif)
 
 * * *
 

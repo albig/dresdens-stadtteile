@@ -3,7 +3,7 @@ title: "Bergstraße"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![bergstraße](../../../../bergstrasse_n1_banner2.gif)
+![bergstraße](bergstrasse_n1_banner2.gif)
 
 * * *
 

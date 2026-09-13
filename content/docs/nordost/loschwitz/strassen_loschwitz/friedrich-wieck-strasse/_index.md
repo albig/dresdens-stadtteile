@@ -3,7 +3,7 @@ title: "Friedrich-Wieck-Straße"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![friedrich-wieck-straße](../../../../friedrich-wieck-strasse_n1_banner2.gif)
+![friedrich-wieck-straße](friedrich-wieck-strasse_n1_banner2.gif)
 
 * * *
 

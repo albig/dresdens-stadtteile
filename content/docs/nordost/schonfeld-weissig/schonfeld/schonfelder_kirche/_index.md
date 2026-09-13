@@ -3,7 +3,7 @@ title: "Schönfelder Kirche"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![schönfelder kirche](../../../../schonfelder_kirche_nlafleurbannerh.gif)
+![schönfelder kirche](schonfelder_kirche_nlafleurbannerh.gif)
 
 * * *
 

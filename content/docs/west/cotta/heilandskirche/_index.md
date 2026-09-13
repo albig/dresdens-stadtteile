@@ -3,7 +3,7 @@ title: "Heilandskirche"
 date: 2024-02-17T22:13:45+01:00
 ---
 
-![heilandskirche](../../../heilandskirche_nlafleurbannerh.gif)
+![heilandskirche](heilandskirche_nlafleurbannerh.gif)
 
 * * *
 

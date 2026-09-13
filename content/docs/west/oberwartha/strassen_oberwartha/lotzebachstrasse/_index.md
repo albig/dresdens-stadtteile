@@ -3,7 +3,7 @@ title: "Lotzebachstraße"
 date: 2024-02-17T22:13:46+01:00
 ---
 
-![lotzebachstraße](../../../../lotzebachstrasse_n1_banner2.gif)
+![lotzebachstraße](lotzebachstrasse_n1_banner2.gif)
 
 * * *
 

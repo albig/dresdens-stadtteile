@@ -3,7 +3,7 @@ title: "Trinitatiskirche"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![trinitatiskirche](../../../trinitatiskirche_nlafleurbannerh.gif)
+![trinitatiskirche](trinitatiskirche_nlafleurbannerh.gif)
 
 * * *
 

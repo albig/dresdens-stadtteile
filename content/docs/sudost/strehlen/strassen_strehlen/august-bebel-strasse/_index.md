@@ -3,7 +3,7 @@ title: "August-Bebel-Straße"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![august-bebel-straße](../../../../august-bebel-strasse_n1_banner2.gif)
+![august-bebel-straße](august-bebel-strasse_n1_banner2.gif)
 
 * * *
 

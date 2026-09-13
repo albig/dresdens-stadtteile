@@ -3,7 +3,7 @@ title: "Drei-Kaiser-Hof"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![drei-kaiser-hof](../../../../../drei-kaiser-hof_nlafleurbannerh.gif)
+![drei-kaiser-hof](drei-kaiser-hof_nlafleurbannerh.gif)
 
 * * *
 

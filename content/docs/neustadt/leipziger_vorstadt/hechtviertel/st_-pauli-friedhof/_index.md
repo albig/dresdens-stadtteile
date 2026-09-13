@@ -3,7 +3,7 @@ title: "St.-Pauli-Friedhof"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![st.-pauli-friedhof](../../../../st_-pauli-friedhof_nurbanlegendbannerh.gif)
+![st.-pauli-friedhof](st_-pauli-friedhof_nurbanlegendbannerh.gif)
 
 * * *
 

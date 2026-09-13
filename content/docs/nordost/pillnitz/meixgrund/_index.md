@@ -3,7 +3,7 @@ title: "Meixgrund"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![meixgrund](../../../meixgrund_nurbanlegendbannerh.gif)
+![meixgrund](meixgrund_nurbanlegendbannerh.gif)
 
 * * *
 

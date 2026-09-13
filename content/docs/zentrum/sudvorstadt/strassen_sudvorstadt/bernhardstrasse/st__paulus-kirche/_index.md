@@ -3,7 +3,7 @@ title: "St Paulus-Kirche"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![st. paulus-kirche](../../../../../st__paulus-kirche_nlafleurbannerh.gif)
+![st. paulus-kirche](st__paulus-kirche_nlafleurbannerh.gif)
 
 * * *
 

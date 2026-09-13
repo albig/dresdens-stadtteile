@@ -3,7 +3,7 @@ title: "St. Joseph-Stift"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![st. joseph-stift](../../../st__joseph-stift_nlafleurbannerh.gif)
+![st. joseph-stift](st__joseph-stift_nlafleurbannerh.gif)
 
 * * *
 

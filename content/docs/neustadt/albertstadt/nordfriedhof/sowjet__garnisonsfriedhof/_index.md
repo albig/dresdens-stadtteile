@@ -3,7 +3,7 @@ title: "Sowjetischer Garnisonsfriedhof"
 date: 2024-02-17T22:13:30+01:00
 ---
 
-![sowjetischer garnisonsfriedhof](../../../../sowjet__garnisonsfriedhof_nurbanlegendbannerh.gif)
+![sowjetischer garnisonsfriedhof](sowjet__garnisonsfriedhof_nurbanlegendbannerh.gif)
 
 [![](../../../../neustadt/hauptseitealbertstadt.jpg)](../../../../neustadt/albertstadt/)
 

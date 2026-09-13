@@ -74,6 +74,6 @@ eine neue Zufahrtsrampe. Die im Inneren der Mühle eingerichtete historische Gas
 Herbst 2003 wieder geöffnet. Eine umfassende Instandsetzung einschließlich der Erneuerung der Mühlenflügel erfolgte 2008. Bekannt wurde die Windmühle auch durch eine Sammlung von Mühlengeschichten, die ein Nachkomme des
 früheren Mühlenbesitzers Felgentreff 1914 unter dem Titel Der Windmüller von Leutewitz veröffentlichte.
 
-[![leutewitzer straßen](../../a_rectangle_367.gif)](../../west/leutewitz/strassen_leutewitz/)
+[![leutewitzer straßen](a_rectangle_367.gif)](../../west/leutewitz/strassen_leutewitz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)

@@ -3,7 +3,7 @@ title: "Friedrichstraße"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![friedrichstraße](../../../../friedrichstrasse_n1_banner2.gif)
+![friedrichstraße](friedrichstrasse_n1_banner2.gif)
 
 * * *
 

@@ -3,7 +3,7 @@ title: "Loschwitzer Straße"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![loschwitzer straße](../../../../loschwitzer_strasse_n1_banner2.gif)
+![loschwitzer straße](loschwitzer_strasse_n1_banner2.gif)
 
 * * *
 

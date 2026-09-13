@@ -3,7 +3,7 @@ title: "Munchner Platz"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![münchner platz](../../../../munchner_platz_n1_banner2.gif)
+![münchner platz](munchner_platz_n1_banner2.gif)
 
 * * *
 
@@ -20,7 +20,7 @@ Fußballmeister wurde und später das Amt des Bundestrainers übernahm.
 
 ![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/munchner_platz/s_dvtr_mmerbahn.jpg)Beim Bombenangriff auf Dresden wurden auch einige Gebäude am Münchner Platz getroffen. Zur Enttrümmerung der Innenstadt und des westlichen Teils der Südvorstadt legte man eine Feldbahn an, welche ab Januar 1951 über die Kaitzer und Münchner Straße zum Münchner Platz und von dort direkt in die Lehmgrube an der Nöthnitzer Straße führte. Oberhalb des Münchner Platzes entstand dafür ein großer Betriebs- und Rangierbahnhof mit Lokschuppen, Kohlendepot und Wasserkran. Gegenüber davon stand ab 1947 ein schlichter Flachbau mit Konsum-Verkaufstelle _(Foto)_. Während Lokschuppen und Werkstätten bereits kurz nach Einstellung der Trümmerbahn im Oktober 1951 verschwanden, blieb der Verkaufspavillon noch bis zum Abriss 2013 als Zeugnis der unmittelbaren Nachkriegsgeschichte erhalten. An gleicher Stelle befindet sich heute in einem Neubau wieder ein Konsum-Markt.
 
-![](../../../../s_dvallendedenkmal.jpg)1974 wurde der Münchner Platz nach dem am 11. September 1973 durch einen Militärputsch gestürzten und ermordeten chilenischen Präsidenten in Salvador-Allende-Platz umbenannt. Im gleichen Jahr entstand das bis heute in der Nähe der Straßenbahnhaltestelle in Richtung Innenstadt erhaltene Denkmal mit Porträtrelief Allendes. 1991 beschloss der Stadtrat die Rückbenennung in Münchner Platz.
+![](s_dvallendedenkmal.jpg)1974 wurde der Münchner Platz nach dem am 11. September 1973 durch einen Militärputsch gestürzten und ermordeten chilenischen Präsidenten in Salvador-Allende-Platz umbenannt. Im gleichen Jahr entstand das bis heute in der Nähe der Straßenbahnhaltestelle in Richtung Innenstadt erhaltene Denkmal mit Porträtrelief Allendes. 1991 beschloss der Stadtrat die Rückbenennung in Münchner Platz.
 
 **_Foto:_** _Gedenkstein für Salvador Allende. Die unter dem Porträtrelief befindliche Tafel trägt die Inschrift: SALVADOR ALLENDE vom Volk gewählter Präsident Chiles ermordet von einer reaktionären Militärjunta am 11. September 1973_
 

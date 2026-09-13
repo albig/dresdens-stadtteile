@@ -3,7 +3,7 @@ title: "Zum Sächsischen Jäger"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![zum sächsischen jäger](../../../../sachsischer_jager_nlafleurbannerh.gif)
+![zum sächsischen jäger](sachsischer_jager_nlafleurbannerh.gif)
 
 * * *
 

@@ -3,7 +3,7 @@ title: "Heidenschanze"
 date: 2024-02-17T22:13:40+01:00
 ---
 
-![heidenschanze](../../../heidenschanze_nurbanlegendbannerh.gif)
+![heidenschanze](heidenschanze_nurbanlegendbannerh.gif)
 
 * * *
 

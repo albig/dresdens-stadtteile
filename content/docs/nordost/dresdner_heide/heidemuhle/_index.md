@@ -3,7 +3,7 @@ title: "Heidemühle"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![heidemühle](../../../heidemuhle_nlafleurbannerh.gif)
+![heidemühle](heidemuhle_nlafleurbannerh.gif)
 
 * * *
 

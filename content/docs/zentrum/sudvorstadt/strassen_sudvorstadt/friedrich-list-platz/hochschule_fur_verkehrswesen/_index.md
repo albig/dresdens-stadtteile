@@ -3,7 +3,7 @@ title: "Hochschule Fur Verkehrswesen"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![hochschule für verkehrswesen](../../../../../hochschule_fur_verkehrswesen_nlafleurbannerh.gif)
+![hochschule für verkehrswesen](hochschule_fur_verkehrswesen_nlafleurbannerh.gif)
 
 * * *
 

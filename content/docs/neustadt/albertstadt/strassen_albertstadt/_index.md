@@ -3,7 +3,7 @@ title: "Straßen Albertstadt"
 date: 2024-02-17T22:13:30+01:00
 ---
 
-![straßen und plätze der albertstadt](../../../strassen_albertstadt_n1_banner2.gif)
+![straßen und plätze der albertstadt](strassen_albertstadt_n1_banner2.gif)
 
 * * *
 
@@ -107,7 +107,7 @@ Die ehemalige Straße G im Industriegelände wurde im März 1997 nach einem Unte
 
 Der Holunderweg, eine kleine von der Arno-Holz-Allee abgehende Sackgasse, wurde am 8. Februar 1956 benannt. Grund für die Namensgebung waren örtliche Gegebenheiten. An der kurzen Straße stehen meherere Gebäude, so die Häuser Nr. 2 bis 8 und die Doppelhäuser Nr. 10, 14 und 16 unter Denkmalschutz.
 
-[![königsbrücker straße](../../../a_rectangle_1571.gif)](../../../neustadt/aussere_neustadt/antonstadt/konigsbrucker_strasse/)
+[![königsbrücker straße](a_rectangle_1571.gif)](../../../neustadt/aussere_neustadt/antonstadt/konigsbrucker_strasse/)
 
 ![magazinstraße](../../../neustadt/albertstadt/strassen_albertstadt/a_rectangle_1561.gif)
 

@@ -197,7 +197,7 @@ Ebenso wie ihre Nachbarstraßen wurde die Käthe-Kollwitz-Straße um 1900 im Zus
 Wohnviertels am Bahnhof angelegt. Vor 1945 trug sie den Namen Bismarckstraße. Bis heute prägen Gründerzeithäuser das
 Straßenbild rund um den Bismarckplatz. Ihren heutigen Namen erhielt die Straße nach der deutschen Malerin und Grafikerin Käthe Kollwitz (1867-1945), welche mit ihren Anti-Kriegs-Darstellungen international bekannt wurde.
 
-![](../../../cossbismarckstr.jpg)
+![](cossbismarckstr.jpg)
 
 **_Foto:_** _Blick in die Cossebauder Bismarckstraße um 1910_
 

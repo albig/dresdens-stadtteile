@@ -3,7 +3,7 @@ title: "Freibad Cotta"
 date: 2024-02-17T22:13:45+01:00
 ---
 
-![freibad cotta](../../../../../freibad_cotta_nlafleurbannerh.gif)
+![freibad cotta](freibad_cotta_nlafleurbannerh.gif)
 
 * * *
 

@@ -9,7 +9,7 @@ Die frühere Dorfstraße von Altbriesnitz erhielt 1926 den Namen Altbriesnitz. H
 bischöflichen Vorwerken hervorgegangene Dorfes mit einigen historischen Gehöften, von denen das Bennogut das bedeutendste
 ist. In einem dieser Gebäude, dem sogenannten Herrenhaus (Nr. 3) befand sich zwischen 1908 und 1921 das Gemeindeamt des Ortes.
 
-![](../../../briesnbennogut3.jpg)Bennogut: Das Gut (Altbriesnitz Nr. 4) gehört zu den ältesten Gebäuden des Ortes und geht im Kern auf das frühere Vorwerk der Meißner Bischöfe zurück. Ein zweites
+![](briesnbennogut3.jpg)Bennogut: Das Gut (Altbriesnitz Nr. 4) gehört zu den ältesten Gebäuden des Ortes und geht im Kern auf das frühere Vorwerk der Meißner Bischöfe zurück. Ein zweites
 Vorwerk befand sich im Besitz des Archidiakons von Briesnitz. Mit der Reformation und der Säkularisierung des kirchlichen Besitzes wurden beide Vorwerke aufgelöst und
 an ortsansässige Bauern vergeben. Das alte Bennogut fiel 1769 einem Brand zum Opfer und entstand daraufhin als Vierflügelanlage neu. Bauherr war der sächsische
 Landweinmeister Heinrich Roos, der zuvor größere Teile der Ortsflur erworben hatte. Später befand es sich zeitweise im Besitz des sächsischen Ministers Detlev Graf von
@@ -41,7 +41,7 @@ _Pirnisch: Radebergisch: Meißnisch etc. wo und wie er es am nechsten erzeugen u
 
 **Auszug aus den Briesnitzer Dorfrügen von 1648**
 
-![](../../../briesngasthof2.jpg)1896 entstand der Gasthof in seiner heutigen Form für den Briesnitzer Gastwirt A.
+![](briesngasthof2.jpg)1896 entstand der Gasthof in seiner heutigen Form für den Briesnitzer Gastwirt A.
 Birnbaum. Baumeister war Heinrich Kühne, die Entwürfe stammten von Gustav Pietzsch. Zum Lokal gehörte nun auch ein Ballsaal für über 400 Personen, der bis
 1945 für Bälle und ähnliche Tanzvergnügungen genutzt wurde. Besitzer des Gasthofes war bis 1913 August Ernst Binder, danach Gustav Diecke. Dieser ließ einige
 Modernisierungen und Veränderungen vornehmen. Zeitweise firmierte der Gasthof nun unter dem Namen Dieckes Ball-Etblissement. Ab 1918 fanden im Saal regelmäßige
@@ -124,7 +124,7 @@ wurden 1928-1930 errichtet und gehören heute zur Eisenbahner-Wohnungsbau-Genoss
 
 ## Hammeraue
 
-![](../../../briesnitzhammeraue.jpg)Auch diese Straße wurde nach einem früheren Flurnamen benannt und erhielt ihre offizielle Benennung Hammeraue 1913. Bereits im Mai 1912 war hier die Grundsteinlegung für die ersten Wohnhäuser der Briesnitzer Siedlung erfolgt. Ende Juli konnte mit der Nr. 48 das erste Gebäude bezogen werden. Während der Bauzeit befand sich an der Ecke zur Merbitzer Straße eine vom Gastwirt Ernst Binder bewirtschaftete Kantine für die Arbeiter. Später wurden durch die Briesnitzer Siedlergesellschaft Grünflächen geschaffen, um so den Charakter der Gartenstadt zu unterstreichen. Das Bild (rechts) zeigt die Einmündung Hammeraue / Hammerberg kurz nach ihrer Fertigstellung.
+![](briesnitzhammeraue.jpg)Auch diese Straße wurde nach einem früheren Flurnamen benannt und erhielt ihre offizielle Benennung Hammeraue 1913. Bereits im Mai 1912 war hier die Grundsteinlegung für die ersten Wohnhäuser der Briesnitzer Siedlung erfolgt. Ende Juli konnte mit der Nr. 48 das erste Gebäude bezogen werden. Während der Bauzeit befand sich an der Ecke zur Merbitzer Straße eine vom Gastwirt Ernst Binder bewirtschaftete Kantine für die Arbeiter. Später wurden durch die Briesnitzer Siedlergesellschaft Grünflächen geschaffen, um so den Charakter der Gartenstadt zu unterstreichen. Das Bild (rechts) zeigt die Einmündung Hammeraue / Hammerberg kurz nach ihrer Fertigstellung.
 
 ## Heroldstraße
 

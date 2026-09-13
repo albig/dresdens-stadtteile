@@ -3,7 +3,7 @@ title: "Durerstraße"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![dürerstraße](../../../../durerstrasse_n1_banner2.gif)
+![dürerstraße](durerstrasse_n1_banner2.gif)
 
 * * *
 
@@ -33,7 +33,7 @@ Nr. 8: In diesem heute nicht mehr vorhandenem Wohnhaus zwischen Cranach- und Pes
 
 Nr. 13: Das Eckhaus zur Pestalozzistraße beherbergte vor 1945 mit der Schankwirtschaft Teutonia eine von zahlreichen kleinen Gastwirtschaften der Pirnaischen Vorstadt.
 
-![](../../../../johannstd_rerstr26.jpg) Landesversicherungsanstalt Sachsen (Nr. 26): Der Monumentalbau für die Landesversicherungsanstalt Sachsen entstand 1892-95 nach Plänen des Architekten Hermann Thüme. Thüme hatte kurz zuvor den Wettbewerb für den
+![](johannstd_rerstr26.jpg) Landesversicherungsanstalt Sachsen (Nr. 26): Der Monumentalbau für die Landesversicherungsanstalt Sachsen entstand 1892-95 nach Plänen des Architekten Hermann Thüme. Thüme hatte kurz zuvor den Wettbewerb für den
 Neubau gewonnen. Der Gebäudekomplex nahm das gesamte Grundstück zwischen Dürer-, Holbein und Marschnerstraße ein und umschloss als Vierflügelbau einen länglichen, rechteckigen Innenhof. Hier fand ein kleiner
 Zierbrunnen des Bildhauers Oswald Kurt Dämmig Aufstellung, der einen Ziehharmonika spielenden Jungen zeigte. 1928 folgte noch ein Ergänzungsbau an
 der Ecke Dürer-/Güntzstraße, für den u.a. das einstige Atelier Ernst Hähnels abgerissen werden musste. Die 1945 beschädigten Gebäude wurden später vereinfacht wiederhergestellt und werden

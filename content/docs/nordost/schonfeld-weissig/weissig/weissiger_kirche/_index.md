@@ -3,7 +3,7 @@ title: "Weißiger Kirche"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![weißiger kirche](../../../../weissiger_kirche_nlafleurbannerh.gif)
+![weißiger kirche](weissiger_kirche_nlafleurbannerh.gif)
 
 * * *
 

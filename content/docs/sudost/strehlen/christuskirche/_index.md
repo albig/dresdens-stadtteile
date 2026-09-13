@@ -3,7 +3,7 @@ title: "Christuskirche"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![christuskirche](../../../christuskirche_nlafleurbannerh.gif)
+![christuskirche](christuskirche_nlafleurbannerh.gif)
 
 * * *
 

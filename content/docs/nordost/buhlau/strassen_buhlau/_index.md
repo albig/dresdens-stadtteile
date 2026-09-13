@@ -3,7 +3,7 @@ title: "Straßen Buhlau"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![straßen und plätze in bühlau](../../../strassen_buhlau_n1_banner2.gif)
+![straßen und plätze in bühlau](strassen_buhlau_n1_banner2.gif)
 
 * * *
 
@@ -53,7 +53,7 @@ Im Wohnhaus Marienwerder Straße 11 lebte ab 1950 die Schriftstellerin Annemarie
 
 Nr. 17: Architektonisch interessant ist das 1963-1965 erbaute Einfamilienhaus Eibauer Straße 17. Der moderne Bau im kubischen Stil wurde von Kurt Nowotny entworfen und steht als Zeugnis der Nachkriegsmoderne unter Denkmalschutz. Bauherr war der Obermedizinalrat Dr. Werner Ludwig, Präsident des DRK in der DDR. Das in Hanglage errichtete Gebäude oberhalb der Grundstraße ist in modernem Stil, jedoch mit traditionellen Baumaterialien errichtet. Farbige Akzente setzen rote Klinkerwände. Einige Details wie Türen, Fenster und die Holzverkleidung im Obergeschoss sind heute verändert.
 
-![elisabethstraße](../../../a_rectangle_1124.gif)
+![elisabethstraße](a_rectangle_1124.gif)
 
 ![](../../../nordost/buhlau/strassen_buhlau/b_hlauelisabethstr.jpg)
 Die Elisabethstraße, welche im Westen Bühlaus die Bautzner Landstraße mit der Grundstraße verbindet, erhielt ihren Namen um 1870 nach der Unternehmersgattin Elisabeth Klemm. Deren Ehemann, der Kaufmann Alfred Klemm hatte die kleine Sackgasse Ende des 19. Jahrhunderts ausbauen und nach seiner Ehefrau benennen lassen. 1903 entstand ausgehend von der Grundstraße eine weitere Stichstraße, die nach ihrer Lage ab 1908 zunächst Bergstraße genannt wurde _(Foto)_. Noch vor dem Ersten Weltkrieg erfolgte eine Verbindung beider Abschnitte durch einen Fußweg, später durch eine ausgebaute Straße. Im Zusammenhang mit der Eingemeindung von Bühlau und Loschwitz erhielt diese am 1. Juni 1926 den einheitlichen Namen Elisabethstraße.

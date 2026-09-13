@@ -3,7 +3,7 @@ title: "Karlsruher Straße"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![karlsruher straße](../../../../karlsruher_strasse_n1_banner2.gif)
+![karlsruher straße](karlsruher_strasse_n1_banner2.gif)
 
 * * *
 
@@ -100,7 +100,7 @@ Wismut über. Im Saal entstand um 1950 das neue Filmtheater Glück Auf mit c
 der Arbeiter des Gitterseer Wismut-Schachtes, später als Schulungsstätte des Unternehmens. Zur Versorgung der Bergleute errichtete man um 1980 ein
 zusätzliches Kantinengebäude mit Großküche und Speisesaal. 1991 wurde das Filmtheater geschlossen und das verfallene Gebäude 2006 abgerissen. An seiner Stelle entstand eine kleine Wohnanlage.
 
-![](../../../../gitterseekarlsruherstr158.jpg)Nr. 158: Das letzte Haus auf Obergitterseer Flur an der westlichen Straßenseite
+![](gitterseekarlsruherstr158.jpg)Nr. 158: Das letzte Haus auf Obergitterseer Flur an der westlichen Straßenseite
 entstand um 1860 und gehört zu den ältesten Bauten der oberen Karlsruher Straße. Das ursprünglich eingeschossige Gebäude mit ausgebautem Dachgeschoss
 beherbergte neben Wohnräumen zugleich ein kleines Ladengeschäft für Textilwaren und ist typisches Beispiel für die Arbeiterwohnhäuser des Ortes. Kleine Läden
 sollten das oft karge Familieneinkommen der Bergleute aufbessern und dienten zugleich der Versorgung der Bevölkerung vor Ort. 1929 wurde das Haus um ein

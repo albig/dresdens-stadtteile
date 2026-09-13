@@ -3,7 +3,7 @@ title: "Kotzschenbroder Straße"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![kötzschenbroder straße](../../../../kotzschenbroder_strasse_n1_banner2.gif)
+![kötzschenbroder straße](kotzschenbroder_strasse_n1_banner2.gif)
 
 * * *
 

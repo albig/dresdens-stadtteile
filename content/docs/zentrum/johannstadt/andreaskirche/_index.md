@@ -3,7 +3,7 @@ title: "Andreaskirche"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![andreaskirche](../../../andreaskirche_nlafleurbannerh.gif)
+![andreaskirche](andreaskirche_nlafleurbannerh.gif)
 
 * * *
 

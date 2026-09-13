@@ -3,7 +3,7 @@ title: "Augsburger Straße"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![augsburger straße](../../../../augsburger_strasse_n1_banner2.gif)
+![augsburger straße](augsburger_strasse_n1_banner2.gif)
 
 * * *
 

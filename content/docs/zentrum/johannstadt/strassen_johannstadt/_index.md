@@ -3,7 +3,7 @@ title: "Straßen Johannstadt"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![straßen und plätze in der johannstadt](../../../strassen_johannstadt_n1_banner2.gif)
+![straßen und plätze in der johannstadt](strassen_johannstadt_n1_banner2.gif)
 
 * * *
 

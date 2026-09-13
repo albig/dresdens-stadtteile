@@ -3,7 +3,7 @@ title: "Standseilbahn"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![standseilbahn](../../../standseilbahn_nestimatebanner.gif)
+![standseilbahn](standseilbahn_nestimatebanner.gif)
 
 * * *
 

@@ -3,7 +3,7 @@ title: "Hechtsches Weingut"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![hechtsches weingut](../../../../hechtsches_weingut_nlafleurbannerh.gif)
+![hechtsches weingut](hechtsches_weingut_nlafleurbannerh.gif)
 
 * * *
 

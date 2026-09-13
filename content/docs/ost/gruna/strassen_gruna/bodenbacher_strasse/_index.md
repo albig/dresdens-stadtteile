@@ -3,7 +3,7 @@ title: "Bodenbacher Straße"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![bodenbacher straße](../../../../bodenbacher_strasse_n1_banner2.gif)
+![bodenbacher straße](bodenbacher_strasse_n1_banner2.gif)
 
 * * *
 

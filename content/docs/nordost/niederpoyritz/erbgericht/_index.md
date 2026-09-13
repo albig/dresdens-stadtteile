@@ -3,7 +3,7 @@ title: "Erbgericht Niederpoyritz"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![erbgericht niederpoyritz](../../../erbgericht_nlafleurbannerh.gif)
+![erbgericht niederpoyritz](erbgericht_nlafleurbannerh.gif)
 
 * * *
 

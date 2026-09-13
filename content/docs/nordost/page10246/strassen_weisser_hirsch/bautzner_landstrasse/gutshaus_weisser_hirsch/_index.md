@@ -3,7 +3,7 @@ title: "Gutshaus Weißer Hirsch"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![gutshaus weißer hirsch](../../../../../gutshaus_weisser_hirsch_nlafleurbannerh.gif)
+![gutshaus weißer hirsch](gutshaus_weisser_hirsch_nlafleurbannerh.gif)
 
 * * *
 

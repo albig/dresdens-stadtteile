@@ -3,7 +3,7 @@ title: "Straßen Zschertnitz"
 date: 2024-02-17T22:13:45+01:00
 ---
 
-![straßen und plätze in zschertnitz](../../../strassen_zschertnitz_n1_banner2.gif)
+![straßen und plätze in zschertnitz](strassen_zschertnitz_n1_banner2.gif)
 
 * * *
 
@@ -179,7 +179,7 @@ Adlige, Kaiser Karl V. und den Papst tätig. 1576 starb er in Venedig. Einige Bi
 
 [![zellescher weg](../../../sud/zschertnitz/strassen_zschertnitz/a_rectangle_698.gif)](../../../sud/zschertnitz/strassen_zschertnitz/zellescher_weg/)
 
-![zschertnitzer marktweg](../../../a_rectangle_839.gif)
+![zschertnitzer marktweg](a_rectangle_839.gif)
 
 Der Zschertnitzer Marktweg führte einst vom alten Dorfkern in nördlicher Richtung über die heutige Heinrich-Greif-Straße
 zum Zelleschen Weg und von dort am Bornberg vorbei (heute Beutlerpark) zur Innenstadt. Dieser alte Weg wurde nicht nur

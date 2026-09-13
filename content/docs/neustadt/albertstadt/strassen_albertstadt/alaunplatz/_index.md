@@ -3,7 +3,7 @@ title: "Alaunplatz"
 date: 2024-02-17T22:13:30+01:00
 ---
 
-![alaunplatz](../../../../alaunplatz_n1_banner2.gif)
+![alaunplatz](alaunplatz_n1_banner2.gif)
 
 * * *
 

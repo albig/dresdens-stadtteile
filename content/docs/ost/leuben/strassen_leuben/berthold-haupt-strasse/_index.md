@@ -3,7 +3,7 @@ title: "Berthold-Haupt-Straße"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![berthold-haupt-straße](../../../../berthold-haupt-strasse_n1_banner2.gif)
+![berthold-haupt-straße](berthold-haupt-strasse_n1_banner2.gif)
 
 * * *
 

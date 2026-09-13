@@ -61,7 +61,7 @@ der Sage nach Jugend und Schönheit geben soll. Gleiches wird von der nahen Zieg
 
 Rochwitz gehörte ursprünglich zur Schönfelder Kirche, weshalb die Kinder des Ortes zunächst die dortige Kirchschule, später die Schule im Nachbarort Bühlau besuchten. 1882 entstand für die Gemeinde Rochwitz ein eigenes Schulhaus an der Hutbergstraße 2. Mit der Eingemeindung wurde dieses 1921 als 61. Volksschule in das Dresdner Schulnetz eingegliedert. Bis 1934 erfolgten mehrere Erweiterungen, so dass schließlich sieben Klassenräume zur Verfügung standen. Zuletzt wurde das Gebäude von der 61. Grundschule Heinrich Schütz genutzt _(Foto)_. Da das Haus jedoch zu klein war und nicht mehr den Anforderungen genügte, erfolgte 2016 der Abriss. Bis 2018 soll es durch einen modernen Neubau ersetzt werden.
 
-[![rochwitzer straßen](../../a_rectangle_195.gif)](../../nordost/rochwitz/strassen_rochwitz/)
+[![rochwitzer straßen](a_rectangle_195.gif)](../../nordost/rochwitz/strassen_rochwitz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

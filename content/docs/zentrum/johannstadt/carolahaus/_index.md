@@ -3,7 +3,7 @@ title: "Carolahaus"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![carolahaus](../../../carolahaus_nlafleurbannerh.gif)
+![carolahaus](carolahaus_nlafleurbannerh.gif)
 
 * * *
 

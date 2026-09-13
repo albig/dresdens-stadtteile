@@ -3,7 +3,7 @@ title: "Gasstraßenbahn"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![gasstraßenbahn](../../../../gasstrassenbahn_nestimatebanner.gif)
+![gasstraßenbahn](gasstrassenbahn_nestimatebanner.gif)
 
 * * *
 

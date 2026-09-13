@@ -3,7 +3,7 @@ title: "Musenhalle"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![musenhalle](../../../../../musenhalle_nlafleurbannerh.gif)
+![musenhalle](musenhalle_nlafleurbannerh.gif)
 
 * * *
 

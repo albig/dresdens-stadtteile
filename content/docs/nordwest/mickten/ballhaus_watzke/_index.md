@@ -3,7 +3,7 @@ title: "Ballhaus Watzke"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![ballhaus watzke](../../../ballhaus_watzke_nlafleurbannerh.gif)
+![ballhaus watzke](ballhaus_watzke_nlafleurbannerh.gif)
 
 * * *
 

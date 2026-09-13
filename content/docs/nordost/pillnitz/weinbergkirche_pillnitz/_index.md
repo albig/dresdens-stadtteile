@@ -3,7 +3,7 @@ title: "Weinbergkirche Pillnitz"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![weinbergkirche pillnitz](../../../weinbergkirche_pillnitz_nlafleurbannerh.gif)
+![weinbergkirche pillnitz](weinbergkirche_pillnitz_nlafleurbannerh.gif)
 
 * * *
 

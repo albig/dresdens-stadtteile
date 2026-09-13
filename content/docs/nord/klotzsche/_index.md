@@ -184,7 +184,7 @@ Gaswerk Klotzsche:
 
 Das Klotzscher Gaswerk entstand 1904 aufBeschluss des Gemeinderates am Ortsausgang in Richtung Weixdorf in unmittelbarer Nachbarschaft des Wasserwerkes und wurde am 13. April 1905 in Betrieb genommen. Zunächst besaß dieses Werk drei Öfen, Geräte- und Personalräume sowie ein Gasometer mit 800 Kubikmetern Inhalt. Zwischen 1908 und 1911 erfolgten Erweiterungen des Betriebes, u. a. der Neubau eines zweiten Gasometers. Weitere Verbesserungen und Modernisierungen wurden nach dem Ersten Weltkrieg vorgenommen. Hauptaufgabe des Werkes war die Versorgung der örtlichen Bevölkerung und Industrie mit Stadtgas sowie die Sicherung der Straßenbeleuchtung. Das Gaswerk überstand den Zweiten Weltkrieg unbeschädigt und wurde 1950 stillgelegt. Später dienten die Bauten an der Königsbrücker Straße 100 als Lager- und Produktionsgebäude.
 
-[![klotzscher straßen](../../a_rectangle_918.gif)](../../nord/klotzsche/strassen_klotzsche/)
+[![klotzscher straßen](a_rectangle_918.gif)](../../nord/klotzsche/strassen_klotzsche/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

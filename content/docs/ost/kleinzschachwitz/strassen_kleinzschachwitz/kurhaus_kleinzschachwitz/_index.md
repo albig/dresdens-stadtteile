@@ -3,7 +3,7 @@ title: "Kurhaus Kleinzschachwitz"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![kurhaus kleinzschachwitz](../../../../kurhaus_kleinzschachwitz_nlafleurbannerh.gif)
+![kurhaus kleinzschachwitz](kurhaus_kleinzschachwitz_nlafleurbannerh.gif)
 
 * * *
 

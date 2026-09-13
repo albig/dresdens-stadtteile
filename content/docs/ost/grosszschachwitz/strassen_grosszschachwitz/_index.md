@@ -3,7 +3,7 @@ title: "Straßen Grosszschachwitz"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![straßen und plätze in großzschachwitz und sporbitz](../../../strassen_grosszschachwitz_n1_banner2.gif)
+![straßen und plätze in großzschachwitz und sporbitz](strassen_grosszschachwitz_n1_banner2.gif)
 
 * * *
 
@@ -187,9 +187,9 @@ Sergej Rubinstein (1889-1960). Rubinstein befasste sich u.a. mit der Psychologie
 
 ![](../../../ost/grosszschachwitz/strassen_grosszschachwitz/gro_zschachwitzschweizstr.jpg)Die Schweizstraße wurde nach dem Ersten Weltkrieg im Zusammenhang mit dem Bau neuer Wohnhäuser angelegt. Die Namensgebung erinnert an die im 19. Jahrhundert aufgekommene Bezeichnung Sächsische Schweiz für das Elbsandsteingebirge. Der Begriff wurde von den romantischen Malern Anton Graff und Adrian Zingg geprägt, die sich in der Felsenwelt an ihre Schweizer Heimat erinnert fühlten. Einer Tradition folgend erhielten mehrere Großzschachwitzer Straßen später Namen nach Orten in diesem Gebiet. Im Haus Schweizstraße 8 befindet sich seit 1901 die Familiengaststätte Reichsapfel.
 
-![walter-peters-straße](../../../a_rectangle_1783.gif)
+![walter-peters-straße](a_rectangle_1783.gif)
 
-![](../../../sporbitzwpetersstr.jpg)Die kleine Straße in der Nähe der alten Sporbitzer Schule erhielt ihren Namen nach dem
+![](sporbitzwpetersstr.jpg)Die kleine Straße in der Nähe der alten Sporbitzer Schule erhielt ihren Namen nach dem
 Maschinenführer und antifaschistischen Widerstandskämpfer Walter Peters, welcher 1944 von den Nationalsozialisten ermordet wurde. Die Wohnhäuser entstanden in den Zwanziger Jahren.
 
 

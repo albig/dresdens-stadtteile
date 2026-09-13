@@ -3,7 +3,7 @@ title: "Dresdner Heide"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![dresdner heide](../../dresdner_heide_nurbanlegendbannerh.gif)
+![dresdner heide](dresdner_heide_nurbanlegendbannerh.gif)
 
 * * *
 

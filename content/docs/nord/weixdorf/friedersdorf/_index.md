@@ -19,7 +19,7 @@ Friedersdorf entstand als Waldhufendorf in einer Niederung mit mehreren Teichen 
 hin. Im Jahr 1556 erwarb der Hermsdorfer Rittergutsbesitzer Christoph von Carlowitz ein Friedersdorfer Gut, nachdem dessen Besitzer Andrees dieses wegen Überschuldung verkaufen musste. Ab 1696 unterstand der gesamte Ort
 der Grundherrschaft dieses Rittergutes.
 
-![](../../../friedersdorf2.jpg)
+![](friedersdorf2.jpg)
 
 **_Foto:_** _Blick über den Mittelteich nach Friedersdorf um 1910_
 

@@ -3,7 +3,7 @@ title: "Dohnaer Straße"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![dohnaer straße](../../../../dohnaer_strasse_n1_banner2.gif)
+![dohnaer straße](dohnaer_strasse_n1_banner2.gif)
 
 * * *
 

@@ -3,7 +3,7 @@ title: "Leutewitzer Park"
 date: 2024-02-17T22:13:46+01:00
 ---
 
-![leutewitzer park](../../../leutewitzer_park_nurbanlegendbannerh.gif)
+![leutewitzer park](leutewitzer_park_nurbanlegendbannerh.gif)
 
 * * *
 

@@ -3,7 +3,7 @@ title: "Niedersedlitzer Flutgraben"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![niedersedlitzer flutgraben](../../../niedersedlitzer_flutgraben_nurbanlegendbannerh.gif)
+![niedersedlitzer flutgraben](niedersedlitzer_flutgraben_nurbanlegendbannerh.gif)
 
 * * *
 

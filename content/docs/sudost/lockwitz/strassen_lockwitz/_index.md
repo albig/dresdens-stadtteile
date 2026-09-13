@@ -3,7 +3,7 @@ title: "Straßen Lockwitz"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![straßen und plätze in lockwitz](../../../strassen_lockwitz_n1_banner2.gif)
+![straßen und plätze in lockwitz](strassen_lockwitz_n1_banner2.gif)
 
 * * *
 
@@ -64,7 +64,7 @@ Die Straße Am Viertelacker führt vom sogenannten Krähenhügel in nordöstlich
 
 **_Fotos:_** _ehemaliger Hof Am Viertelacker 21 mit Schrifttafel von 1861_
 
-![am wehr](../../../a_rectangle_1153.gif)
+![am wehr](a_rectangle_1153.gif)
 
 ![](../../../sudost/lockwitz/strassen_lockwitz/lockwitzpferdetumb.jpg)Die kleine Straße Am Wehr in der Nähe des Lockwitzer Dorfkerns erhielt ihren Namen 1930 nach dem hier befindlichen Wehr, welches einst den [Lockwitzbach](../../../sudost/lockwitz/lockwitzbach/) aufstaute, um dessen Wasserkraft für den Betrieb der unterhalb gelegenen Mühlen zu nutzen. Zuvor wurde sie Jacobsplatz genannt. 2002 wurde die historische Wehranlage beim Hochwasser zerstört, inzwischen jedoch wieder hergestellt. Unmittelbar an der nahegelegenen Brücke steht seit 1913 der [Lockwitzer Frosch](../../../sudost/lockwitz/strassen_lockwitz/am_plan/), Wahrzeichen des Ortes.
 
@@ -164,7 +164,7 @@ Die Straße Hohles Tor wurde im Zuge der Bebauung am Galgenberg Anfang des 20. J
 
 
 
-![kap-herr-weg](../../../a_rectangle_930.gif)
+![kap-herr-weg](a_rectangle_930.gif)
 
 Der Kap-herr-Weg, unmittelbar hinter dem Schloss gelegen, erinnert an eine einst im Ort ansässige Adelsfamilie. Hermann
 Christian Kap-herr besaß ab 1867 die Gutsherrschaft Lockwitz und kaufte wenig später die Rittergüter in Bärenklause und im

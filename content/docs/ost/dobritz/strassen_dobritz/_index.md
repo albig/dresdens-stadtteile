@@ -3,7 +3,7 @@ title: "Straßen Dobritz"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![straßen und plätze in dobritz](../../../strassen_dobritz_n1_banner2.gif)
+![straßen und plätze in dobritz](strassen_dobritz_n1_banner2.gif)
 
 * * *
 

@@ -3,7 +3,7 @@ title: "Kirchen in Klotzsche"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![kirchen in klotzsche](../../../klotzscher_kirchen_nlafleurbannerh.gif)
+![kirchen in klotzsche](klotzscher_kirchen_nlafleurbannerh.gif)
 
 * * *
 

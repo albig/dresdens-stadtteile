@@ -3,7 +3,7 @@ title: "Putjatinhaus"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![putjatinhaus](../../../../putjatinhaus_nlafleurbannerh.gif)
+![putjatinhaus](putjatinhaus_nlafleurbannerh.gif)
 
 * * *
 

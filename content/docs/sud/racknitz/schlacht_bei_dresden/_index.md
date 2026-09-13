@@ -3,7 +3,7 @@ title: "Schlacht bei Dresden"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-![schlacht bei dresden](../../../schlacht_bei_dresden_nlafleurbannerh.gif)
+![schlacht bei dresden](schlacht_bei_dresden_nlafleurbannerh.gif)
 
 * * *
 

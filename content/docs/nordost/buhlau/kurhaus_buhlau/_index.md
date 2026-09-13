@@ -3,7 +3,7 @@ title: "Kurhaus Bühlau"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![kurhaus bühlau](../../../kurhaus_buhlau_nlafleurbannerh.gif)
+![kurhaus bühlau](kurhaus_buhlau_nlafleurbannerh.gif)
 
 * * *
 

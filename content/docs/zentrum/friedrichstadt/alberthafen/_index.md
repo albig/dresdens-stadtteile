@@ -20,7 +20,7 @@ date: 2024-02-17T22:13:46+01:00
 
 
 
-![](../../../friedrichstalberthafen_luftbild.jpg)Der Dresdner Alberthafen wurde zwischen 1891 und 1895 am Rande der
+![](friedrichstalberthafen_luftbild.jpg)Der Dresdner Alberthafen wurde zwischen 1891 und 1895 am Rande der
 Friedrichstadt angelegt. Zuvor standen der Elbschiffahrt in Dresden lediglich die 1822 bzw. 1861/64 angelegten Kais am Altstädter und Neustädter Elbufer sowie die Winterhäfen in [Loschwitz](../../../nordost/loschwitz/) und [Pieschen](../../../nordwest/pieschen/) zur Verfügung. Da diese jedoch ebenso wenig wie der 1872/76 angelegte [Neustädter Hafen](../../../neustadt/leipziger_vorstadt/) dem gewachsenen Verkehrsaufkommen genügten, entschloss sich
 der sächsische Staat zum Neubau eines Elbhafens im Ostragehege. Bereits 1850 hatte der sächsische Ingenieur Friedrich Karl Preßler einen Plan zur grundlegenden Neuordnung der Verkehrsanlagen der Stadt vorgelegt, der
 neben dem Bau eines Zentralbahnhofes in der Friedrichstadt auch die Anlage eines Hafens mit Umschlagmöglichkeit zur Eisenbahn vorsah.

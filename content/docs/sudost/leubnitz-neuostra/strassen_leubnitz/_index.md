@@ -3,7 +3,7 @@ title: "Straßen Leubnitz"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![straßen und plätze in leubnitz-neuostra](../../../strassen_leubnitz_n1_banner2.gif)
+![straßen und plätze in leubnitz-neuostra](strassen_leubnitz_n1_banner2.gif)
 
 * * *
 
@@ -66,7 +66,7 @@ dem Maler Anselm Feuerbach (1829-1880) Feuerbachstraße genannt. Feuerbach schuf
 
 ![friebelstraße](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_706.gif)
 
-![](../../../gostritzwegs_ule.jpg)Die Friebelstraße verbindet Leubnitz mit dem Nachbarort Gostritz. Noch bis zum Ersten Weltkrieg war
+![](gostritzwegs_ule.jpg)Die Friebelstraße verbindet Leubnitz mit dem Nachbarort Gostritz. Noch bis zum Ersten Weltkrieg war
 dieses Gebiet kaum bebaut und Standort einer von insgesamt vier Leubnitzer Ziegeleien. 1817 war hier der erste artesische Brunnen Sachsens abgeteuft worden, dessen Wasser für die Ziegelherstellung verwendet
 wurde. 1919 wurde auf dem Gelände ein Sportplatz angelegt. Teile des ehemaligen Ziegeleibetriebes sind noch erhalten und werden heute zu Wohn- und Gewerbezwecken genutzt. Die angrenzenden Flächen dienen als Kleingärten.
 
@@ -154,7 +154,7 @@ Dohnaer Straße. Benannt wurde die Straße nach dem Komponisten und Musikwissens
 1973). Thilmann wirkte ab 1946 als Dozent an der Palucca-Schule und war ab 1956 Professor der Dresdner Musikhochschule.
 Für seine Verdienst beim Wiederaufbau des Musiklebens der Stadt erhielt er 1960 den Martin-Andersen-Nexö-Kunstpreis.
 
-![karl-laux-straße](../../../a_rectangle_1147.gif)
+![karl-laux-straße](a_rectangle_1147.gif)
 
 Die Karl-Laux-Straße wurde Mitte der 80er Jahre im Zuge des Neubaugebietes Leubnitz südlich der Dohnaer Straße angelegt
 und nach dem Musikkritiker Karl Laux (1896-1978) benannt. Ab 1934 arbeitete Laux als Kritiker für die Dresdner Neuesten Nachrichten, nach 1945 für die Tägliche Rundschau. Zwischen 1951 und 1962 war er Rektor der Musikhochschule.
@@ -195,7 +195,7 @@ den Bauverein Gartenheim errichtet.
 Die kurze Leiblstraße an der Ecke Teplitzer/ Gostritzer Straße entstand 1925 im Zusammenhang mit dem Bau einiger neuer
 Wohnhäuser. Ihren Namen verdankt sie dem Maler Wilhelm Leibl (1844-1900), der zu den Hauptvertretern des bürgerlichen Realismus gehört und zahlreiche Darstellungen des Arbeitslebens der Bauern schuf.
 
-![max-klinger-straße](../../../a_rectangle_940.gif)
+![max-klinger-straße](a_rectangle_940.gif)
 
 Die bereits 1925 angelegte Wohngebietsstraße östlich der Gostritzer Straße wurde zwischen 1926 und 1927 mit einer
 genossenschaftlichen Wohnsiedlung bebaut und ab 1929 Max-Klinger-Straße genannt. Max Klinger (1857-1920) gehört zu

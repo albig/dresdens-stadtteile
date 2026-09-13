@@ -3,7 +3,7 @@ title: "Straßen Leipziger Vorstadt"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![straßen und plätze der leipziger vorstadt](../../../strassen_leipziger_vorstadt_n1_banner2.gif)
+![straßen und plätze der leipziger vorstadt](strassen_leipziger_vorstadt_n1_banner2.gif)
 
 * * *
 
@@ -197,7 +197,7 @@ Die Harkortstraße wurde Ende des 19. Jahrhunderts im Zusammenhang mit der Umges
 
 ![hartigstraße](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/a_rectangle_1515.gif)
 
-![](../../../lvhartigstra_e.jpg)Auf dem Gelände des früheren Neudorfer Flurstücks Ploschen entstand 1895 die Hartigstraße, die ihren Namen dem Professor und Rektor der Technischen Hochschule Dr. Carl Ernst Hartig (1836-1900) verdankt. Die amtliche Benennung erfolgte nach Hartigs Tod im Jahr 1900.
+![](lvhartigstra_e.jpg)Auf dem Gelände des früheren Neudorfer Flurstücks Ploschen entstand 1895 die Hartigstraße, die ihren Namen dem Professor und Rektor der Technischen Hochschule Dr. Carl Ernst Hartig (1836-1900) verdankt. Die amtliche Benennung erfolgte nach Hartigs Tod im Jahr 1900.
 
 In dieser Zeit begann auch die Bebauung dieser Straße mit Mietshäusern. Außerdem siedelten sich einige kleinere Unternehmen an. U.a. gab es in der Nr. 1 die Seifen- und Parfümeriefabrik Wilhelm Geissler mit Zweigbetrieben auf der Leipziger Straße und der Erfurter Straße. 1929 siedelte sich auf dem Grundstück die Marmeladenfabrik Ringelhan an. Außerdem gab es hier zeitweise eine Buchdruckerei und eine Wäscherei. Vorhandene Baulücken wurden erst 1995 mit dem Wohnblock Hartigstraße 1-5 geschlossen _(im Foto links hinten)_.
 
@@ -209,7 +209,7 @@ Der Hedwig-Langner-Weg entstand 2015 im Zusammenhang mit einem kleinen Wohngebie
 
 ![hedwigstraße](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/a_rectangle_19.gif)
 
-![](../../../lvhedwigstra_e.jpg)Die 1878 angelegte Hedwigstraße befindet sich in der Nähe der Marienbrücke unmittelbar am Neustädter Elbufer. Ihren Namen erhielt sie nach der sächsischen Kurfürstin Hedwig von Dänemark (1581-1641), Gemahlin Kurfürst Christian II. Die kinderlose Fürstin verwaltete nach dem Tod ihres Mannes 1611 mehrere Ämter und engagierte sich für den Ausbau von Kirchen und Schulen. Außerdem setzte sie sich für die Eindeichung der Elbe zum Hochwasserschutz ein und spendete während des Dreißigjährigen Krieges für Hungernde und Pestkranke.
+![](lvhedwigstra_e.jpg)Die 1878 angelegte Hedwigstraße befindet sich in der Nähe der Marienbrücke unmittelbar am Neustädter Elbufer. Ihren Namen erhielt sie nach der sächsischen Kurfürstin Hedwig von Dänemark (1581-1641), Gemahlin Kurfürst Christian II. Die kinderlose Fürstin verwaltete nach dem Tod ihres Mannes 1611 mehrere Ämter und engagierte sich für den Ausbau von Kirchen und Schulen. Außerdem setzte sie sich für die Eindeichung der Elbe zum Hochwasserschutz ein und spendete während des Dreißigjährigen Krieges für Hungernde und Pestkranke.
 
 Das Straßenbild prägen auf der linken Seite heute mehrgeschossige Mietshäuser _(Foto)_. Weitere Flächen gehören zum Areal des angrenzenden Arzneimittelwerks.
 

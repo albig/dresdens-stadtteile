@@ -3,7 +3,7 @@ title: "Straßen Gittersee"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![straßen und plätze in gittersee](../../../strassen_gittersee_n1_banner2.gif)
+![straßen und plätze in gittersee](strassen_gittersee_n1_banner2.gif)
 
 * * *
 
@@ -30,7 +30,7 @@ Zeit nach dem Zweiten Weltkrieg nach dem Berliner Astronomen Bruno Bürgel (1875
 und wurde vor allem durch seine populärwissenschaftlichen Bücher zur Astronomie bekannt. Bis 1946 wurde die Straße Eigenheimstraße genannt. In den Jahren vor dem
 Ersten Weltkrieg entstanden hier vorrangig Doppelhäuser für wohlhabendere Einwohner der Gemeinde.
 
-![collmweg](../../../a_rectangle_1323.gif)
+![collmweg](a_rectangle_1323.gif)
 
 Der Collmweg am Fuße des gleichnamigen [Collmberges](../../../sud/coschutz/collmberg/) führt parallel zur Trasse der Windbergbahn und dann auf den Gipfel der 240 Meter hohen Erhebung. Ursprünglich betrieben hier Coschützer Bauern Weinbau. Später wurden die Felder bis 1945 von den Freital-Zauckeroder Bombastus-Werken für den Salbeianbau genutzt. Ab 1948 diente der Berg als Abraumhalde des Bergbauunternehmens der Wismut, später als Müll- und Aschedeponie und wurde dabei weitgehend überschüttet. In diesem Zusammenhang verschwand auch der größte Teil des Collmweges, der heute nur noch in einem Reststück an der Potschappler Straße existiert.
 
@@ -48,7 +48,7 @@ von Raketenteilen der V1 einbezogen, was 1944 zur Bombardierung von Birkigt und 
 zerstört. Erhalten blieb eines der älteren Gebäude Niedergittersees (Nr. 24), welches sich nach Sanierung äußerlich wieder
 weitgehend im Ursprungszustand zeigt und so ein interessantes Zeugnis der Ortsgeschichte der Arbeitergemeinde darstellt _(Foto)_. Unter der Straße verläuft die Haupttrinkwasserleitung von der Klingenberger Talstraße zum [Wasserwerk Coschütz](../../../sud/coschutz/).
 
-![](../../../gitterseehuthaus.jpg)
+![](gitterseehuthaus.jpg)
 
 **_Foto:_** _Das Huthaus des Gitterseer Steinkohle-Aktienvereins als Dresslers Restaurant um 1910._
 
@@ -104,7 +104,7 @@ Der von der Potschappler Straße abgehende Hüttenweg verbindet Niedergittersee 
 
 ![karl-stein-straße](../../../sud/gittersee/strassen_gittersee/a_rectangle_600.gif)
 
-![](../../../gitterseeksteinstr.jpg)Die Karl-Stein-Straße in Gittersee (früher Bergstraße) wurde nach 1945 nach dem
+![](gitterseeksteinstr.jpg)Die Karl-Stein-Straße in Gittersee (früher Bergstraße) wurde nach 1945 nach dem
 kommunistischen Widerstandskämpfer Karl Stein (1902-1942) benannt, der ab 1934 der Gruppe um Fritz Schulze und Albert Hensel angehörte. Stein wurde mit
 seinen Mitkämpfern 1942 zum Tode verurteilt und hingerichtet. An ihn erinnert ein Gedenkstein an der Einmündung Potschappler Straße.
 
@@ -157,7 +157,7 @@ engagierte sich Büttner auch politisch und wurde deshalb von den Nazis nach 193
 
 ![potschappler straße](../../../sud/gittersee/strassen_gittersee/a_rectangle_597.gif)
 
-![](../../../gittersee4.jpg)Die Potschappler Straße verbindet Gittersee mit dem Freitaler Stadtteil Potschappel.
+![](gittersee4.jpg)Die Potschappler Straße verbindet Gittersee mit dem Freitaler Stadtteil Potschappel.
 Im oberen Teil befindet sich an der Einmündung in die Karlsruher Straße der alte Dorfkern _(Foto)_, in dem sich jedoch nur noch wenige Reste der früheren dörflichen
 Bebauung erhalten haben. Ursprünglich gab es hier neben einigen Giebelhäusern einen größeren Dreiseithof. In der ersten Hälfte des 19. Jahrhunderts folgten kleinere
 Häusleranwesen für Bergleute und Arbeiterfamilien. Bereits um 1960 wurden die meisten Gebäude wegen ihres schlechten Bauzustandes abgerissen. 1991 entstand

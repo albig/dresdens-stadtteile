@@ -3,7 +3,7 @@ title: "Straßen Laubegast"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![straßen und plätze in laubegast](../../../strassen_laubegast_n1_banner2.gif)
+![straßen und plätze in laubegast](strassen_laubegast_n1_banner2.gif)
 
 * * *
 
@@ -74,7 +74,7 @@ Bedeutendstes Haus ist das 1733 in heutiger Form erbaute Fährgut (Nr. 30), eins
 
 Der Feldkirchner Weg wurde nach 1990 zur Erschließung einer kleinen Eigenheimsiedlung südlich der Klagenfurter Straße angelegt. Seinen Namen erhielt er nach der Stadt Feldkirch in Vorarlberg/Österreich.
 
-![](../../../gasteiner_stra_e.jpg)
+![](gasteiner_stra_e.jpg)
 
 Die Gasteiner Straße entstand Ende der 1920er Jahre und wurde 1929 nach dem Gasteinertal in den Hohen Tauern in Österreich benannt. 1932 wurde sie bis zur Marburger Straße verlängert.
 
@@ -290,13 +290,13 @@ Straßen nach einem geografischen Begriff der Region Österreich-Ungarn benannt.
 Gartenbaubetrieben gehörte. 1992/93 wurde hier eine der ersten Wohnanlagen der Nachwendezeit angelegt. Zum Wohnpark Solitude gehören neben verschiedenen Stadtvillen und Appartementshäusern auch ein Hotel und einige Reihenhäuser .
 
 
-![tauernstraße](../../../a_rectangle_1185.gif)
+![tauernstraße](a_rectangle_1185.gif)
 
 Die bis 1926 als Albertstraße bezeichnete Tauernstraße verbindet parallel zur Salzburger Straße Laubegast mit dem benachbarten Leuben
 . Die ersten Gebäude auf Laubegaster Flur entstanden bereits um 1900. Hier befindet sich u. a. das Postamt des Stadtteils. Im Haus Tauernstraße 11 wurde 1926 eine Filiale des Dresdner Konsumvereins eröffnet.
 Bemerkenswert ist auch die 1909 von Hugo Kaul errichtete Villa Nr. 28 mit klassizistischen und Jugendstil-Elementen. Der Name der Tauernstraße stammt von einem Gebirgszug in Österreich.
 
-![zur bleiche](../../../a_rectangle_1184.gif)
+![zur bleiche](a_rectangle_1184.gif)
 
 Die von der Österreicher Straße zur Elbe führende Straße Zur Bleiche erinnert an die einst bedeutende Herstellung von
 Zwirngarn in Laubegast. Das in Heimarbeit gesponnene Garn wurde im Anschluss zum Bleichen auf die Elbwiesen gelegt. Bis

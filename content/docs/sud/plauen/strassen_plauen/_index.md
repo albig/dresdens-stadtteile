@@ -3,7 +3,7 @@ title: "Straßen Plauen"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-![straßen und plätze in plauen](../../../strassen_plauen_n1_banner2.gif)
+![straßen und plätze in plauen](strassen_plauen_n1_banner2.gif)
 
 * * *
 
@@ -11,7 +11,7 @@ date: 2024-02-17T22:13:43+01:00
 
 [![](../../../sud/plauen/strassen_plauen/hauptseiteplauen2.jpg)](../../../sud/plauen/)
 
-![agnes-smedley-straße](../../../a_rectangle_620.gif)
+![agnes-smedley-straße](a_rectangle_620.gif)
 
 ![](../../../sud/plauen/strassen_plauen/plauenasmedley.jpg)Die Agnes-Smedley-Straße
 hieß ursprünglich wegen ihres Verlaufs am Weißeritzufer Uferstraße. Nach der Eingemeindung Plauens erhielt sie 1904 den Namen Kielmannseggstraße, der an die Gräfin Auguste Charlotte von Kielmannsegge
@@ -22,7 +22,7 @@ Nach 1945 wurde die Straße in Agnes-Smedley-Straße umbenannt. Die amerikanisch
 Smedley (1894-1950) schloss sich in den Zwanziger Jahren der anarchistischen Bewegung an und nahm am Freiheitskampf in
 Indien und China teil. Zeitweise lebte sie in Berlin. Enge Kontakte unterhielt sie während des Zweiten Weltkrieges zum Agenten Dr. Richard Sorge, der in Japan für den sowjetischen Geheimdienst tätig war.
 
-![albert-schweitzer-straße](../../../a_rectangle_621.gif)
+![albert-schweitzer-straße](a_rectangle_621.gif)
 
 ![](../../../sud/plauen/strassen_plauen/plauenalbschweitzerstr.jpg)Die Straße im südlichen Teil Plauens an der Ortsgrenze zu Coschütz wurde nach dem Ersten
 Weltkrieg im Zusammenhang mit dem Bau neuer Wohnhäuser angelegt und zunächst nach dem deutschen Philosophen Friedrich Wilhelm Nietzsche (1844-1900) Nietzschestraße
@@ -381,7 +381,7 @@ Die im süddeutschen Stil gestaltete Villa wurde 1908 nach Plänen des Architekt
 Nr. 69:
 Auch dieses Haus gehört zu den architektonisch interessanten Villen und Mietshäusern der Würzburger Straße. Die malerische Villa mit zahlreichen Schmuckdetails entstand 1906.
 
-![zwickauer platz](../../../a_rectangle_640.gif)
+![zwickauer platz](a_rectangle_640.gif)
 
 ![](../../../sud/plauen/strassen_plauen/plauenzwickauerplatz.jpg)Der ursprünglich Wettiner Platz genannte Platz erhielt seinen Namen Zwickauer Platz
 erst nach der Eingemeindung Plauens 1904. Gleichzeitig wurde die benachbarte Falkenstraße in [Zwickauer Straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/zwickauer_strasse/) umbenannt. Angelegt wurde er 1895 im Zuge der

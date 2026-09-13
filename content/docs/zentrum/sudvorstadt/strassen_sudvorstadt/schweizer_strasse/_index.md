@@ -3,7 +3,7 @@ title: "Schweizer Straße"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![schweizer straße](../../../../schweizer_strasse_n1_banner2.gif)
+![schweizer straße](schweizer_strasse_n1_banner2.gif)
 
 * * *
 

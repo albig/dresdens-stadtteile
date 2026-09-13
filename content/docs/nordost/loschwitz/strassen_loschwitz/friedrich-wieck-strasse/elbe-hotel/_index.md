@@ -3,7 +3,7 @@ title: "Elbe-Hotel"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![elbe-hotel demnitz](../../../../../elbe-hotel_nlafleurbannerh.gif)
+![elbe-hotel demnitz](elbe-hotel_nlafleurbannerh.gif)
 
 * * *
 

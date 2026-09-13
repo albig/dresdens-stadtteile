@@ -3,7 +3,7 @@ title: "Alexander-Puschkin-Platz"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![alexander-puschkin-platz](../../../../alexander-puschkin-platz_n1_banner2.gif)
+![alexander-puschkin-platz](alexander-puschkin-platz_n1_banner2.gif)
 
 * * *
 

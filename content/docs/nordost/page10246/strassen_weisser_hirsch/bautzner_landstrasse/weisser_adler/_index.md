@@ -3,7 +3,7 @@ title: "Weißer Adler"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![weißer adler](../../../../../weisser_adler_nlafleurbannerh.gif)
+![weißer adler](weisser_adler_nlafleurbannerh.gif)
 
 * * *
 

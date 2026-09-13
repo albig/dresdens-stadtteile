@@ -3,7 +3,7 @@ title: "Dresden 1945"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![dresden 1945](../../../../../dresden_1945_nlafleurbannerh.gif)
+![dresden 1945](dresden_1945_nlafleurbannerh.gif)
 
 * * *
 

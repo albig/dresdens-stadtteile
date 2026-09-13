@@ -3,7 +3,7 @@ title: "Petzold & Aulhorn"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-![petzold & aulhorn](../../../../petzold___aulhorn_nlafleurbannerh.gif)
+![petzold & aulhorn](petzold___aulhorn_nlafleurbannerh.gif)
 
 * * *
 
@@ -23,7 +23,7 @@ date: 2024-02-17T22:13:43+01:00
 
 * * *
 
-![](../../../../plauenpetzaulhorn3.jpg)
+![](plauenpetzaulhorn3.jpg)
 
 
 ![](../../../../sud/plauen/strassen_plauen/plauenpetzaulh.jpg)Die Schokoladenfabrik Petzold & Aulhorn wurde 1843 vom Konditor Carl
@@ -33,7 +33,7 @@ Straße 22. Ursprünglich hatte auf diesem Areal eine Mühle am [Weißeritzmühl
 Mühlenbesitzers Sippel übernahm. Fünf Jahre später kauften die beiden Unternehmer noch das Haus Wilsdruffer Straße 7 in der Innenstadt als Ladengeschäft. Zweigniederlassungen besaß
 die Firma u.a. in Berlin, Chemnitz, Leipzig, Breslau, Nürnberg und Frankfurt/M.. Ende des 19. Jahrhunderts gehörte Petzold & Aulhorn zu den bekanntesten Schokoladenfabriken Deutschlands.
 
-![](../../../../plauenpetzaulhorn2.jpg)Da sich auch das neue Betriebsgelände als zu klein erwies, kauften die Inhaber 1897 große
+![](plauenpetzaulhorn2.jpg)Da sich auch das neue Betriebsgelände als zu klein erwies, kauften die Inhaber 1897 große
 Teile des verwilderten [Reisewitzschen Gartens](../../../../sudwest/lobtau/strassen_lobtau/tharandter_strasse/reisewitz_scher_garten/) in Plauen auf und errichteten hier einen
 modernen Betrieb (Bienertstraße 1). Bis 1945 wurden unter den Markennamen Pea und Deutschmeister Schokoladentafeln, Pralinen und ähnliche Erzeugnisse produziert und
 überregional verkauft.  Im Zweiten Weltkrieg wurden die Gebäude durch Bomben schwer beschädigt, so dass Petzold & Aulhorn die Produktion in Dresden nicht wieder aufnehmen konnten.

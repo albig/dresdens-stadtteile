@@ -3,7 +3,7 @@ title: "Sowjetisches Ehrenmal"
 date: 2024-02-17T22:13:30+01:00
 ---
 
-![sowjetisches ehrenmal](../../../../sowjetisches_ehrenmal_nlafleurbannerh.gif)
+![sowjetisches ehrenmal](sowjetisches_ehrenmal_nlafleurbannerh.gif)
 
 * * *
 

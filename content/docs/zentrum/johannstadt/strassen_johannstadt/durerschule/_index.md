@@ -3,7 +3,7 @@ title: "Dürerschule"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![dürerschule](../../../../durerschule_nlafleurbannerh.gif)
+![dürerschule](durerschule_nlafleurbannerh.gif)
 
 * * *
 

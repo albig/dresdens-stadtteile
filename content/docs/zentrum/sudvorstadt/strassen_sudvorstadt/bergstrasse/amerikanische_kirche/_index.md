@@ -3,7 +3,7 @@ title: "Amerikanische Kirche"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![amerikanische kirche st. john](../../../../../amerikanische_kirche_nlafleurbannerh.gif)
+![amerikanische kirche st. john](amerikanische_kirche_nlafleurbannerh.gif)
 
 * * *
 
@@ -33,7 +33,7 @@ Gemeinde in der alten Waisenhauskirche statt. Architekt des neogotischen Baus wa
 wurden vom Dresdner Glasgestalter Bruno Urban hergestellt. Die Kirche bestand aus einem dreischiffigen Langhaus, einem kleineren Querschiff und dem angrenzenden Chor sowie einem vorgesetzten
 Turm. Unmittelbar neben der Kirche befand sich das Gemeindehaus.
 
-![](../../../../../s_dvamerikankirche3.jpg)
+![](s_dvamerikankirche3.jpg)
 1945 wurde die Amerikanische Kirche schwer beschädigt und brannte aus. Erhalten blieb neben den Außenmauern auch der Turm, weshalb man 1953 den Wiederaufbau der Ruine für
 die Evangelisch-Reformierte Gemeinde plante. Nachdem diese jedoch neue Räume in der früheren Hofgärtnerei an der Brühlschen Terrasse bezogen hatte, wurde ein Ausbau für die
 Studentengemeinde erwogen. Gegen diese Planungen legte das Stadtplanungsamt unter Hans Bronder Widerspruch ein, da sich mit der [Russischen Kirche](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/fritz-loffler-strasse/russische_kirche/) und der [Lukaskirche](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/lukaskirche/) bereits zwei Gotteshäuser in unmittelbarer Nähe befanden und man in der Nähe der Technischen

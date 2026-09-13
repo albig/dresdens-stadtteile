@@ -3,7 +3,7 @@ title: "Klosterhof"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![klosterhof](../../../klosterhof_nlafleurbannerh.gif)
+![klosterhof](klosterhof_nlafleurbannerh.gif)
 
 * * *
 

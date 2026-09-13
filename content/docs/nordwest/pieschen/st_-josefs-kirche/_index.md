@@ -3,7 +3,7 @@ title: "Kathol. St.-Josefs-Kirche"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![kathol. st.-josefs-kirche](../../../st_-josefs-kirche_nlafleurbannerh.gif)
+![kathol. st.-josefs-kirche](st_-josefs-kirche_nlafleurbannerh.gif)
 
 * * *
 

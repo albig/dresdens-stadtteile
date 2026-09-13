@@ -34,7 +34,7 @@ date: 2024-02-17T22:13:32+01:00
 
 [![bibliothek  langebrück weißiger str. 5 01465 langebrück tel. 035201/70263](../../nord/langebruck/a_rectangle_590.gif)](http://www.bibo-dresden.de)
 
-[![friedrich-wolf- grundschule langebrück  zur homepage](../../a_rectangle_944.gif)](http://www.sn.schule.de/~fwg)
+[![friedrich-wolf- grundschule langebrück  zur homepage](a_rectangle_944.gif)](http://www.sn.schule.de/~fwg)
 
 * * *
 
@@ -73,7 +73,7 @@ Die Jahre nach der Wende waren von der Erschließung weiterer Bauflächen geprä
 
 Ortsteil Heidehof:
 
-![](../../langebr_ckheidehof.jpg)Der Ortsteil Heidehof entstand Anfang der Dreißiger Jahre westlich des alten
+![](langebr_ckheidehof.jpg)Der Ortsteil Heidehof entstand Anfang der Dreißiger Jahre westlich des alten
 Dorfkerns auf einem Gelände zwischen Bahndamm und Dresdner Straße. Zuvor befand sich hier ein gleichnamiges Bauerngut, welches jedoch 1933 durch einen Großbrand zerstört wurde. Auf dem Areal errichtete man bis zum
 Beginn des Zweiten Weltkrieges kleine Siedlungshäuser in schlichten Bauformen _(Foto)_.
 

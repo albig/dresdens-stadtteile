@@ -3,7 +3,7 @@ title: "Donaths Neue Welt"
 date: 2024-02-17T22:13:39+01:00
 ---
 
-![donaths neue welt](../../../../../donaths_neue_welt_nlafleurbannerh.gif)
+![donaths neue welt](donaths_neue_welt_nlafleurbannerh.gif)
 
 * * *
 

@@ -59,6 +59,6 @@ Beim Luftangriff vom 16. Januar 1945 wurden auch die beiden Schulen des Hechtvie
 
 **_Foto:_** _Neubau der 30. Grundschule an der Hechtstraße_
 
-[![straßen und plätze im hechtviertel](../../../a_rectangle_1181.gif)](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/)
+[![straßen und plätze im hechtviertel](a_rectangle_1181.gif)](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/)
 
  \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../sud/)\] \[ [Südost](../../../sudost/)\] \[ [Ost](../../../ost/)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../impressum/)\]

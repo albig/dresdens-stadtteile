@@ -3,7 +3,7 @@ title: "Osterreicher Straße"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![österreicher straße](../../../../osterreicher_strasse_n1_banner2.gif)
+![österreicher straße](osterreicher_strasse_n1_banner2.gif)
 
 * * *
 

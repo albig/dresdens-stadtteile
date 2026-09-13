@@ -3,7 +3,7 @@ title: "Straßen Sudvorstadt"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![straßen und plätze der südvorstadt](../../../strassen_sudvorstadt_n1_banner2.gif)
+![straßen und plätze der südvorstadt](strassen_sudvorstadt_n1_banner2.gif)
 
 * * *
 
@@ -29,14 +29,14 @@ als Finanzprokurator angestellt und gehörte ab 1853 dem Stadtverordneten-Kolleg
 einige 1945 jedoch zerstört wurden. Auf dem Ruinengrundstück Am Beutlerpark 6 wurde in den 1970er Jahren die Kinderkrippe der Technischen Universität errichtet. Im
 Eckhaus zur Patrice-Lumumba-Straße (Nr. 7) wohnte viele Jahre der frühere Dresdner Oberbürgermeister Walter Weidauer. Nicht mehr vorhanden ist das frühere Wohnhaus des Architekten Max Kühne (1874-1942), Teilhaber des Architektenbüros Lossow & Kühne (Nr. 8).
 
-![](../../../an_der_falkenbr_cke.jpg)
+![](an_der_falkenbr_cke.jpg)
 
 Die heute nicht mehr vorhandene Straße An der Falkenbrücke verband einst die die Bahngleise überspannende Falkenbrücke
 mit der Chemnitzer Straße. Zu den wenigen Gebäuden gehörte das Wohnhaus Nr. 2a mit dem Restaurant 3 Falken. Alle
 Häuser wurden 1945 zerstört, die Straße selbst in den 1960er Jahren aufgegeben. Heute verläuft in der Nähe die Hochstraße
 (Budapester Straße), weitere Grundstücke werden von zwei Studentenwohnheimen aus den 1960er Jahren eingenommen.
 
-![](../../../svan_der_falkenbr_cke.jpg)![](../../../svfalkenbr_cke.jpg)
+![](svan_der_falkenbr_cke.jpg)![](svfalkenbr_cke.jpg)
 
 _Fotos: Wohn- und Geschäftshaus An der Falkenbrücke 2a (links),_
 
@@ -87,7 +87,7 @@ Böhmischen Bahnhofes. Nachdem dieser bereits wenige Jahre später nicht mehr de
 Neorenaissancestil. 1898 wurde dieser schließlich durch den Hauptbahnhof ersetzt, dessen ausgedehnte Gleisanlagen bis heute
 die gesamte Nordseite der Straße einnehmen. Nach Zerstörung sämtlicher Gebäude benannte man die frühere Bismarckstraße in der Nachkriegszeit in Bayrische Straße um.
 
-![](../../../svpostamt24.jpg)Bedingt durch die Bahnhofsnähe gab es an der Bismarckstraße einst zahlreiche Hotels und Pensionen. Bekanntestes war das Hotel Continental, welches in der
+![](svpostamt24.jpg)Bedingt durch die Bahnhofsnähe gab es an der Bismarckstraße einst zahlreiche Hotels und Pensionen. Bekanntestes war das Hotel Continental, welches in der
 Gebäudegruppe Bismarckstraße 16-18 untergebracht war. Weitere Hotels befanden sich in der Nr. 10 (Hotel Austria), Nr. 12 (Hotel Viktoria) und Nr. 14 (Hotel Hoeritzsch). Auch im Haus Nr. 20 existierte mit dem Regina- Hotel eine
 Übernachtungsstätte. 1908 errichteten die Firma Gebr. Heinrich auf dem Grundstück Nr. 8 einen Neubau für das Kaiserliche Postamt _(Foto)_. Ab 1914 wurde dieses als
 Postamt Dresden A 24, ab 1964 als Dresden 8024 bezeichnet. Zur Verladung der hier eingelieferten Brief- und Paketsendungen gab es früher sogar eine unterirdische
@@ -100,7 +100,7 @@ Betrieb und ließ das Continental auf 150 Hotelzimmer erweitern. Hinzu kamen
 Innenhof gab es einen großzügig gestalteten Gästegarten, welcher in den Sommermonaten auch als Konzertplatz genutzt wurde. Das zu den Hotels ersten Ranges gehörende
 Continental wurde Anfang der 1930er Jahre noch einmal modernisiert, wenige Jahre später jedoch geschlossen.
 
-![](../../../svcontinental3.jpg)![](../../../svcontinental2.jpg)![](../../../svcontinental1.jpg)
+![](svcontinental3.jpg)![](svcontinental2.jpg)![](svcontinental1.jpg)
 
 **_Fotos:_** _Aufnahmen aus dem Continental aus dem 1920er Jahren:_
 
@@ -285,16 +285,16 @@ Nr. 10: Im Wohnhaus Geinitzstraße 10 wohnte viele Jahre der Chemiker und Univer
 
 ![george-bähr-straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1654.gif)
 
-![](../../../svgeorgeb_hrstr.jpg)Die George-Bähr-Straße entstand kurz nach 1900 und verbindet den Münchner Platz
+![](svgeorgeb_hrstr.jpg)Die George-Bähr-Straße entstand kurz nach 1900 und verbindet den Münchner Platz
 mit dem Fritz-Förster-Platz. Ihren Namen erhielt sie nach dem Dresdner Ratszimmermeister und Erbauer der Frauenkirche George Bähr (1666-1738).  Neben dem 1902-07 errichteten [Landgericht](../../../zentrum/sudvorstadt/strassen_sudvorstadt/munchner_platz/landgericht/) prägen vor allem Lehrgebäude der TU das
 Straßenbild. Außerdem entstanden hier einige Mietshäuser. Erhalten blieb u.a. das 1900 fertiggestellte Gebäude George-Bähr-Straße 20, errichtet vom Architektenbüro
 Sommerschuh & Rumpel, mit historisierender Jugendstilfassade. Auch die Wohnhäuser Nr. 18 und 12 bis 14 blieben fast unverändert erhalten. Weitere Gebäude  fielen 1945
 den Bomben zum Opfer. Im Haus George-Bähr-Straße 4 wohnte in den Zwanziger Jahren der deutsch-jüdische Politiker Peter Blachstein. Blachstein gehörte nach 1945 der SPD-Bundestagsfraktion an und war
 zeitweise deutscher Botschafter in Jugoslawien. Eine enge Freundschaft verband ihn mit Willy Brandt.
 
-![](../../../georg-schumann-stra_e.jpg)
+![](georg-schumann-stra_e.jpg)
 
-![](../../../svgeorgschumannstr.jpg)
+![](svgeorgschumannstr.jpg)
 Die Georg-Schumann-Straße entstand Ende des 19. Jahrhunderts, blieb jedoch zunächst namenlos und unbebaut. Als erstes Gebäude entstand zwischen 1902 und 1907 der Monumentalbau des [Landgerichts am Münchner Platz](../../../zentrum/sudvorstadt/strassen_sudvorstadt/munchner_platz/landgericht/), welches heute als Georg-Schumann-Bau von der Technischen Universität genutzt wird. Aus der gleichen Zeit stammt der ursprüngliche Name Abekenstraße, der 1907 erstmals
 nachweisbar ist. Christian Wilhelm Ludwig von Abeken (1826-1890) war von 1871 bis 1890 sächsischer Justizminister und enger Vertrauter Bismarcks. Nach dem Ersten Weltkrieg wurden die Wohnblocks Nr. 2 bis 28 durch den Bauverein
 Gartenheim e.G.m.b.H. errichtet. Die Häuser waren Teil einer geplanten, jedoch nur teilweise realisierten Wohnanlage zwischen Münchner Platz, Münchner und Nöthnitzer Straße _(Foto um 1935)_

@@ -3,7 +3,7 @@ title: "Schandauer Straße"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![schandauer straße](../../../../schandauer_strasse_n1_banner2.gif)
+![schandauer straße](schandauer_strasse_n1_banner2.gif)
 
 * * *
 

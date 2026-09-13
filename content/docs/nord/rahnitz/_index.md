@@ -92,7 +92,7 @@ Goldenen Höhe in der Nähe von Bannewitz. Initiator der Säule war der sächsis
 
 **_Foto:_** _Meridiansäule mit Lohrmann-Gedenktafel_
 
-[![rähnitzer straßen](../../a_rectangle_1233.gif)](../../nord/rahnitz/strassen_rahnitz/)
+[![rähnitzer straßen](a_rectangle_1233.gif)](../../nord/rahnitz/strassen_rahnitz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

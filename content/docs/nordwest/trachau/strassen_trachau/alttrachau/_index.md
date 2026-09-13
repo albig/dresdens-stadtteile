@@ -3,7 +3,7 @@ title: "Alttrachau"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![alttrachau](../../../../alttrachau_n1_banner2.gif)
+![alttrachau](alttrachau_n1_banner2.gif)
 
 * * *
 

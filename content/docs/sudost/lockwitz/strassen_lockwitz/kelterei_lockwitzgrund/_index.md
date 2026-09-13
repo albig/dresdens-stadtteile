@@ -3,7 +3,7 @@ title: "Kelterei Lockwitzgrund"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![kelterei lockwitzgrund](../../../../kelterei_lockwitzgrund_nlafleurbannerh.gif)
+![kelterei lockwitzgrund](kelterei_lockwitzgrund_nlafleurbannerh.gif)
 
 * * *
 

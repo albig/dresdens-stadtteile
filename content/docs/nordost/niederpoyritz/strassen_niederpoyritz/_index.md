@@ -3,7 +3,7 @@ title: "Straßen Niederpoyritz"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![straßen und plätze in niederpoyritz](../../../strassen_niederpoyritz_n1_banner2.gif)
+![straßen und plätze in niederpoyritz](strassen_niederpoyritz_n1_banner2.gif)
 
 * * *
 

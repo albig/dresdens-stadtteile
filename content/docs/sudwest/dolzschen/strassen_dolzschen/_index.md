@@ -3,7 +3,7 @@ title: "Straßen Dolzschen"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-![straßen und plätze in dölzschen](../../../strassen_dolzschen_n1_banner2.gif)
+![straßen und plätze in dölzschen](strassen_dolzschen_n1_banner2.gif)
 
 * * *
 
@@ -114,7 +114,7 @@ Ihren heutigen Namen erhielt die in den Zwanziger Jahren ausgebaute Straße 1946
 
 ![](../../../sudwest/dolzschen/strassen_dolzschen/d_lzschencaf_.jpg)Café Hohendölzschen: Oberhalb des Bienertparks befand sich ab 1911 das beliebte Café Hohendölzschen _(Nr. 1- Foto)_, von dem aus sich ein herrlicher Fernblick über die Umgebung bot. Die kleine Gaststätte erfreute sich als Ausflugsziel, aber auch als Tanzlokal großer Beliebtheit. 1949 übernahm die HO die Bewirtschaftung, bevor der Gastronomiebetrieb in den 1960er Jahren eingestellt wurde. Danach befand sich hier eine Kindertagesstätte. 1990 wurde das Gebäude an die Alteigentümer zurückgegeben und wenig später abgerissen. Heute steht auf dem Grundstück ein modernes Einfamilienhaus.
 
-![hultschiner straße](../../../a_rectangle_1202.gif)
+![hultschiner straße](a_rectangle_1202.gif)
 
 ![](../../../sudwest/dolzschen/strassen_dolzschen/d_lzschbauvereintafel.jpg)
 Die Hultschiner Straße entstand in den Jahren nach dem Ersten Weltkrieg und wurde nach der Stadt Hultschin (tschechisch Hlu¥ín) benannt. Die Kleinstadt in der Nähe von Ostrava

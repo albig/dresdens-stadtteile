@@ -3,7 +3,7 @@ title: "Teuschers Sanatorium"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![teuschers sanatorium](../../../../teuschers_sanatorium_nlafleurbannerh.gif)
+![teuschers sanatorium](teuschers_sanatorium_nlafleurbannerh.gif)
 
 * * *
 

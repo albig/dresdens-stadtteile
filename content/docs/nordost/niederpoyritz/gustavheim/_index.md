@@ -3,7 +3,7 @@ title: "Gustavheim"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![gustavheim](../../../gustavheim_nlafleurbannerh.gif)
+![gustavheim](gustavheim_nlafleurbannerh.gif)
 
 * * *
 

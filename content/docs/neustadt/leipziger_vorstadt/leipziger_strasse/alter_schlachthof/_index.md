@@ -13,7 +13,7 @@ date: 2024-02-17T22:13:31+01:00
 
 * * *
 
-[![alter schlachthof  gothaer str. 11 01097 dresden  tickets: 0351 / 86 66 00 0351 / 84 04 20 02](../../../../a_rectangle_1480.gif)](http://www.alter-schlachthof.de)
+[![alter schlachthof  gothaer str. 11 01097 dresden  tickets: 0351 / 86 66 00 0351 / 84 04 20 02](a_rectangle_1480.gif)](http://www.alter-schlachthof.de)
 
 * * *
 

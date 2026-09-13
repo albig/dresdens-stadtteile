@@ -3,7 +3,7 @@ title: "Hopfgartenstraße"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![hopfgartenstraße](../../../../hopfgartenstrasse_n1_banner2.gif)
+![hopfgartenstraße](hopfgartenstrasse_n1_banner2.gif)
 
 * * *
 

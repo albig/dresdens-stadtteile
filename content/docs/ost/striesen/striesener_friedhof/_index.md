@@ -3,7 +3,7 @@ title: "Striesener Friedhof"
 date: 2024-02-17T22:13:39+01:00
 ---
 
-![striesener friedhof](../../../striesener_friedhof_nurbanlegendbannerh.gif)
+![striesener friedhof](striesener_friedhof_nurbanlegendbannerh.gif)
 
 * * *
 

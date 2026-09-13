@@ -26,7 +26,7 @@ date: 2024-02-17T22:13:39+01:00
 [![bethlehemkirche  dresden-tolkewitz  pfarramt: marienberger str. 65 01279 dresden  tel. 0351/2516539](../../../../a_rectangle_1653.gif)](http://www.bethlehemkirche-dresden.de)
 
 
-![](../../../../tolkewkirche.jpg)Nachdem Tolkewitz jahrhundertelang zur Parochie der Leubener Himmelfahrtskirche
+![](tolkewkirche.jpg)Nachdem Tolkewitz jahrhundertelang zur Parochie der Leubener Himmelfahrtskirche
 gehört hatte, kamen in den Jahren nach dem Ersten Weltkrieg Pläne auf, ein eigenes Gotteshaus zu errichten. Diese konnten jedoch zunächst nicht realisiert werden.
 Stattdessen versammelte man sich ab 1938 in einem provisorischen Betsaal in einem ausgebauten Stallgebäude eines Alttolkewitzer Bauerngutes. Noch heute erinnert der
 Name Bethlehemkirche an diesen schwierigen Beginn der kirchlichen Arbeit.

@@ -3,7 +3,7 @@ title: "Sachsenplatz"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![sachsenplatz](../../../../sachsenplatz_n1_banner2.gif)
+![sachsenplatz](sachsenplatz_n1_banner2.gif)
 
 * * *
 

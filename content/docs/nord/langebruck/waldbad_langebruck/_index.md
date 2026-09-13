@@ -3,7 +3,7 @@ title: "Waldbad Langebrück"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![waldbad langebrück](../../../waldbad_langebruck_nurbanlegendbannerh.gif)
+![waldbad langebrück](waldbad_langebruck_nurbanlegendbannerh.gif)
 
 * * *
 

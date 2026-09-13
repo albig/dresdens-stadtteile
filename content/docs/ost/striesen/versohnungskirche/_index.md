@@ -3,7 +3,7 @@ title: "Versöhnungskirche"
 date: 2024-02-17T22:13:39+01:00
 ---
 
-![versöhnungskirche](../../../versohnungskirche_nlafleurbannerh.gif)
+![versöhnungskirche](versohnungskirche_nlafleurbannerh.gif)
 
 * * *
 

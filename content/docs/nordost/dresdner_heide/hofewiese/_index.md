@@ -3,7 +3,7 @@ title: "Hofewiese"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![hofewiese](../../../hofewiese_nlafleurbannerh.gif)
+![hofewiese](hofewiese_nlafleurbannerh.gif)
 
 * * *
 

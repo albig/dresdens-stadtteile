@@ -3,7 +3,7 @@ title: "Schloss Roßthal"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![schloss roßthal](../../../schloss_rossthal_nlafleurbannerh.gif)
+![schloss roßthal](schloss_rossthal_nlafleurbannerh.gif)
 
 * * *
 

@@ -72,7 +72,7 @@ Pflanzenarten. Die im Elbtal vorkommende Fledermausart Kleine Hufeisennase w
 nach mehreren Gerichtsentscheidungen im November 2007 mit den Vorarbeiten begonnen. 2008-10 folgte der Bau der Anschlusstunnel auf Neustädter Seite, der
 Brückenpfeiler und die Montage des Hauptteils mit dem Brückenbogen. Dieser wurde am 19. Dezember 2010 mit Hilfe von Spezialtransportwagen und Pontons über den Fluss gezogen und an seinen Bestimmungsort verbracht _(Foto)_. Im Anschluss erfolgten die weiteren Arbeiten an der Brücke und ihren Zufahrten. Die feierliche Einweihung der neuen Elbquerung erfolgte am 24. August 2013 im Rahmen eines großen Bürgerfestes.
 
-![](../../../waldschl_sschenbr_cke1.jpg)![](../../../waldschl_sschenbr_cke2.jpg)![](../../../waldschl_sschenbr_cke4.jpg)
+![](waldschl_sschenbr_cke1.jpg)![](waldschl_sschenbr_cke2.jpg)![](waldschl_sschenbr_cke4.jpg)
 
 **_Fotos:_** _Eröffnung der Waldschlösschenbrücke am 24. August 2013_
 

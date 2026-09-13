@@ -3,7 +3,7 @@ title: "Hotel De Bücke Dich"
 date: 2024-02-17T22:13:46+01:00
 ---
 
-![hotel de bücke dich](../../../../hotel_de_bucke_dich_nlafleurbannerh.gif)
+![hotel de bücke dich](hotel_de_bucke_dich_nlafleurbannerh.gif)
 
 * * *
 

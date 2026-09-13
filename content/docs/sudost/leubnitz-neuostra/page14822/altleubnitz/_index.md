@@ -3,7 +3,7 @@ title: "Altleubnitz"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![altleubnitz](../../../../altleubnitz_n1_banner2.gif)
+![altleubnitz](altleubnitz_n1_banner2.gif)
 
 * * *
 

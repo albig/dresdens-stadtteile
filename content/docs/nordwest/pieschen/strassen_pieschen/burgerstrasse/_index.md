@@ -24,7 +24,7 @@ Die Bürgerstraße, ursprünglich Feld- bzw. Flurweg genannt, trug ab 1877 auf P
 
 Ein weiteres bekanntes Lokal entstand nach 1990 auf der Bürgerstraße 14. Das mehrfach ausgezeichnete Restaurant ars vivendi (seit 2006 Petit Frank) gilt als eines der besten Feinschmeckerlokale in Dresden. Im Haus Nr. 38/40 hatte seit 1908 die traditionsreiche Spielwarenhandlung Puppen-Langner ihren Sitz, bis zur Schließung 2014 ältestes Spielzeuggeschäft Dresdens. Wichtige Kulturstätten des Stadtteils sind die Kreative Werkstatt im Hof der Bürgerstraße 50 sowie das Kinder- und Jugendhaus Emmers im alten Schulhaus (Nr. 68).
 
-![](../../../../pieschenb_rgerstr.jpg)
+![](pieschenb_rgerstr.jpg)
 
 **_Fotos:_** _Polizeirevier Pieschen an der Bürgerstraße / Ecke Osterbergstraße - Spielplatz im Galvanohof_
 
@@ -37,7 +37,7 @@ Restaurant "Zur Post" (Nr. 36): Ursprünglich befand sich in diesem Gebäude sei
 Puppen-Langner (Nr. 40): Das traditionsreiche Dresdner Spielwarengeschäft wurde am 1. Oktober 1894 von Hedwig Langner als Puppen-Klinik gegründet und widmete sich vor allem der Reparatur und Pflege defekter Puppen. Zunächst nutzte man Räume gegenüber der Markuskirche (Nr. 55), bevor das Unternehmen 1908 zur Bürgerstraße 40 umzog. Tochter Johanna begann sich nun verstärkt dem Verkauf von Spielzeug zuzuwenden, während Hedwig Langner auch weiterhin ihre Puppenklinik betrieb. Trotz Kriegszerstörungen und der wirtschaftlichen Probleme der Nachkriegszeit blieb der Laden auch nach 1945 in Familienbesitz und wurde ab 1950 von Johannas Sohn Rudolf Winkler und seiner Frau Christa fortgeführt. 1985 übernahm Hansjochen Langner die Geschäftsführung. 1989 und Anfang der 1990er Jahre gab es
 umfassende Umbauarbeiten im Geschäft, welches bis zur Schließung Ende 2014 älteste Dresdner Spielzeughandlung blieb.
 
-![](../../../../pieschengalvanohof.jpg)Galvanohof: Der Gebäudekomplex an der Bürgerstraße 50 beherbergte ursprünglich die
+![](pieschengalvanohof.jpg)Galvanohof: Der Gebäudekomplex an der Bürgerstraße 50 beherbergte ursprünglich die
 Geschäftsräume des Consumvereins für Pieschen und Umgegend. Später nutzte die Konsumgenossenschaft Dresden, nach deren Zwangsauflösung bis 1945 die
 Gemeinschaftswerk Versorgungsring G.m.b.H. die Räume. Nach dem Zweiten Weltkrieg befand sich hier der Sitz des VEB Galvano Dresden, einer Fabrik zur Herstellung
 galvanischer Erzeugnisse. Neben dem Pieschener Betriebsteil besaß die Firma ein weiteres Werk auf dem Areal der früheren [Schokoladenfabrik Petzold & Aulhorn](../../../../sud/plauen/strassen_plauen/petzold___aulhorn/) in Plauen. 1993
@@ -50,7 +50,7 @@ Galvanohof Werkstätten für verschiedene künstlerische Betätigungen, eine Gal
 1996 finden regelmäßige Ausstellungen regionaler und überregionaler Künstler statt. Berkenswert ist die aus 1500 Keramikfliesen bestehende Wandgestaltung am Durchganz zum Hof _(Foto)_
 . Schöpfer waren zwischen 2006 und 2009 Kinder und Jugendliche aus dem Stadtteil.
 
-[![kreative werkstatt dresden galvanohof - bürgerstrasse 50 - 01127 dresden www.kreative-werkstatt.de](../../../../a_round_rectangle_76.gif)](http://www.kreative-werkstatt.de)
+[![kreative werkstatt dresden galvanohof - bürgerstrasse 50 - 01127 dresden www.kreative-werkstatt.de](a_round_rectangle_76.gif)](http://www.kreative-werkstatt.de)
 
 Firma Ostner (O.D.-Werk Willy Ostner):
 

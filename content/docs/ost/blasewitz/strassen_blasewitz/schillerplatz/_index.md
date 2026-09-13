@@ -3,7 +3,7 @@ title: "Schillerplatz"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![schillerplatz](../../../../schillerplatz_n1_banner2.gif)
+![schillerplatz](schillerplatz_n1_banner2.gif)
 
 * * *
 

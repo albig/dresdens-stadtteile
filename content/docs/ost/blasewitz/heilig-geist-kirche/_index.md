@@ -3,7 +3,7 @@ title: "Heilig-Geist-Kirche"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![heilig-geist-kirche](../../../heilig-geist-kirche_nlafleurbannerh.gif)
+![heilig-geist-kirche](heilig-geist-kirche_nlafleurbannerh.gif)
 
 * * *
 

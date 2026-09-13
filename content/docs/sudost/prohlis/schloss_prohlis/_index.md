@@ -3,7 +3,7 @@ title: "Schloß Prohlis"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![schloß prohlis](../../../schloss_prohlis_nlafleurbannerh.gif)
+![schloß prohlis](schloss_prohlis_nlafleurbannerh.gif)
 
 * * *
 

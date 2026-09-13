@@ -3,7 +3,7 @@ title: "Fritz-Loffler-Straße"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![fritz-löffler-straße](../../../../fritz-loffler-strasse_n1_banner2.gif)
+![fritz-löffler-straße](fritz-loffler-strasse_n1_banner2.gif)
 
 * * *
 

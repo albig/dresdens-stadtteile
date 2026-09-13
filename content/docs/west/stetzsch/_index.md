@@ -41,7 +41,7 @@ von der Niedersedlitzer Firma Höntsch & Co. gebaut und stehen seit 1991 unter D
 
 Schule:
 
-![](../../stetzschschule.jpg)Das erste Schulhaus entstand 1878 für den Schulverband Stetzsch - Mobschatz. Nachdem dieses zu klein geworden war, wurde zunächst 1897 ein Anbau, 1902 unmittelbar daneben ein größerer Schulneubau errichtet. 1912 folgte nach Plänen des Architekten Curt Herfurth die Turnhalle, die zugleich als Jugendheim diente. Mit der Eingemeindung von Stetzsch wurde die Schule 1921 als 77. Volksschule ins Dresdner Schulnetz eingegliedert. Zu DDR-Zeiten nutzte die 77. Polytechnische Oberschule das Gebäude. In den 1970er Jahren erhielt sie nach einem kommunistischen Widerstandskämpfer den Namen Oswald Rentzsch. Heute befindet sich hier die 77. Grundschule An den Seegärten.
+![](stetzschschule.jpg)Das erste Schulhaus entstand 1878 für den Schulverband Stetzsch - Mobschatz. Nachdem dieses zu klein geworden war, wurde zunächst 1897 ein Anbau, 1902 unmittelbar daneben ein größerer Schulneubau errichtet. 1912 folgte nach Plänen des Architekten Curt Herfurth die Turnhalle, die zugleich als Jugendheim diente. Mit der Eingemeindung von Stetzsch wurde die Schule 1921 als 77. Volksschule ins Dresdner Schulnetz eingegliedert. Zu DDR-Zeiten nutzte die 77. Polytechnische Oberschule das Gebäude. In den 1970er Jahren erhielt sie nach einem kommunistischen Widerstandskämpfer den Namen Oswald Rentzsch. Heute befindet sich hier die 77. Grundschule An den Seegärten.
 
 Elbebad:
 
@@ -49,7 +49,7 @@ Nach dem Vorbild anderer Elbanlieger errichtete die Gemeinde Stetzsch 1914 unter
 mit zwei großen Gemeinschaftsbassins und hölzernen Umkleidekabinen. Das Elbebahnen-Bad Stetzsch war in den Sommermonaten zwischen Juni und September geöffnet und wurde auch von den Bewohnern aus Briesnitz und
 Kemnitz gern besucht. Trotz des guten Zuspruchs musste das Stetzscher Elbebad Ende der Zwanziger Jahre aus wirtschaftlichen Gründen geschlossen werden.
 
-[![stetzscher straßen](../../a_rectangle_274.gif)](../../west/stetzsch/strassen_stetzsch/)
+[![stetzscher straßen](a_rectangle_274.gif)](../../west/stetzsch/strassen_stetzsch/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

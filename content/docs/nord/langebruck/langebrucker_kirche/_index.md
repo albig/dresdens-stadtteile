@@ -3,7 +3,7 @@ title: "Langebrücker Kirche"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![langebrücker kirche](../../../langebrucker_kirche_nlafleurbannerh.gif)
+![langebrücker kirche](langebrucker_kirche_nlafleurbannerh.gif)
 
 * * *
 

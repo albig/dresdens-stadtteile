@@ -3,7 +3,7 @@ title: "Wachberg"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![wachberg](../../../../wachberg_nlafleurbannerh.gif)
+![wachberg](wachberg_nlafleurbannerh.gif)
 
 * * *
 

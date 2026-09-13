@@ -3,7 +3,7 @@ title: "Sozialeinrichtungen in Trachenberge"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![sozialeinrichtungen in trachenberge](../../../trachenberge_-_sozialeinrichtu_nlafleurbannerh.gif)
+![sozialeinrichtungen in trachenberge](trachenberge_-_sozialeinrichtu_nlafleurbannerh.gif)
 
 * * *
 

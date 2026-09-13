@@ -3,7 +3,7 @@ title: "Straßen Trachau"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![straßen und plätze in trachau](../../../strassen_trachau_n1_banner2.gif)
+![straßen und plätze in trachau](strassen_trachau_n1_banner2.gif)
 
 * * *
 
@@ -157,7 +157,7 @@ Die Wohnzeile Nr. 1-33 wurden zwischen 1929 und 1931 nach Plänen von Hans Walos
 
 Die Galileistraße entstand im Zusammenhang mit dem Bau der Trachauer Siedlung als Seitenstraße der Neuländer Straße und wurde in der Folgezeit mit Siedlungshäusern bebaut. Die Namensgebung erfolgte im April 1929, in Anlehnung an die Straßennamen der Trachauer Siedlung, nach einem berühmten Wissenschaftler. Galileo Galilei (1564-1642) entdeckte Fall- und Pendelgesetz und setzte sich für die Durchsetzung des Kopernikanischen Weltbildes ein, was ihm Verfolgung durch die Inquisition einbrachte. Ursprünglich sollte sie durchgängig bis zum Morseweg ausgebaut werden, was jedoch nicht umgesetzt wurde.
 
-![gaußstraße](../../../a_rectangle_78.gif)
+![gaußstraße](a_rectangle_78.gif)
 
 ![](../../../nordwest/trachau/strassen_trachau/trachaugau_str.jpg)Die Gaußstraße war ursprünglich ein alter Verbindungsweg des Dorfes Trachau nach
 Norden und hieß ab 1880 Nordstraße. Zuvor wurde sie wegen ihrer Beschaffenheit im Volksmund Sandweg genannt. 1904 erhielt sie nach dem deutschen Mathematiker Karl Friedrich Gauß (1777-1855) den Namen Gaußstraße. Gauß gilt bis heute als einer der berühmtesten Mathematiker überhaupt und entdeckte zahlreiche neue mathematische Gesetze.
@@ -193,7 +193,7 @@ Während im Westteil der [Trachauer Siedlung](../../../nordwest/trachau/trachaue
 
 Die an der Südseite der Halleystraße befindlichen Wohngebäude (Nr. 1-7, 9-13 und 15-19) wurden 1930/31 für die Wohnungsgenossenschaft GEWOBAG errichtet, wobei die Entwürfe von Hans Richter stammen. Charakteristisch sind die Laubengänge zur Straße, die durch kammartige Treppenhäuser unterbrochen werden _(Foto)_. Für die Häuser der gegenüberliegenden Straßenseite (Nr. 6-10), entstanden zwischen 1934 und 1936, zeichneten Ernst Ufer und Kurt Müller verantwortlich.
 
-![henricistraße](../../../a_rectangle_79.gif)
+![henricistraße](a_rectangle_79.gif)
 
 Die Henricistraße am Rande des Trachauer Dorfkerns trug ursprünglich den Namen Dorffrieden und hieß ab 1896 Schulgasse, da sie ihren Ausgangspunkt am 1873 eingerichteten ersten Trachauer Schulhaus (Alttrachau 52) hatte. Der seit dem 29. Juni 1900 gültige heutige Name erinnert an den früheren Kaditzer Pfarrer Karl Bernhard Henrici (1837-1924). Henrici besuchte die Fürstenschule in Grimma, war später als Geistlicher in Waldheim und Zwickau tätig und übernahm 1876 die Pfarrstelle in Kaditz. Zugleich war er viele Jahre Lokalschulinspektor für Trachau und Mitglied im örtlichen Schulvorstand.
 
@@ -209,7 +209,7 @@ Ende des 19. Jahrhunderts begann auch hier die großstädtische Bebauung. Als er
 
 Die Hildesheimer Straße wurde kurz nach 1900 als Straße XI angelegt und 1904 nach der niedersächsischen Stadt Hildesheim benannt. Ursprünglich sollte sie Leipziger Straße und Dorfplatz Alttrachau verbinden, was jedoch nicht zustande kam. Als erstes Gebäude entstand hier 1902 das Wohnhaus Hildesheimer Straße 66, in dessen Erdgeschoss 1905 die Gaststätte Zum Bahnhof Trachau eröffnet wurde. Mehrfach wechselten die Besitzer, bevor das Lokal Anfang der 1930 Jahre schloss. 1935 übernahm die Kant-Apotheke die ehemaligen Gasträume.
 
-![industriestraße](../../../a_rectangle_80.gif)
+![industriestraße](a_rectangle_80.gif)
 
 ![](../../../nordwest/trachau/strassen_trachau/trachauindustrie.jpg)1899 wurde parallel zum Bahndamm eine neue Straße angelegt, die den Namen Industriestraße erhielt. Gemäß dem Bebauungsplan der Gemeinde waren die Flächen zur Ansiedlung von Gewerbebetrieben vorgesehen. Allerdings ließen sich zunächst nur an der linken Straßenseite einige Unternehmen nieder, so die Fabrik für hölzerne Riemenscheiben Karthaus & Co. (Nr. 17), die Metalldruckwarenfabrik Hermann Neider, die Lackfabrik Otto Baer, die Loschwitzer [Tintenfabrik Leonhardi](../../../nordost/loschwitz/strassen_loschwitz/grundstrasse/tintenfabrik_leonhardi/) und die [Waffel- und Zuckerwarenfabrik Max Gerhardt](../../../nordwest/trachau/strassen_trachau/wilder-mann-strasse/) (Nr. 63). 1900 nahm an der Industriestraße 19 das [Trachauer Gaswerk](../../../nordwest/trachau/) seinen Betrieb auf.
 
@@ -225,7 +225,7 @@ Die Jubiläumstraße wurde 1896 in Erinnerung an das in diesem Jahr gefeierte 25
 
 Die frühere Hedwigstraße im Norden der Trachauer Flur wurde 1896 angelegt und zunächst nach der Gattin des Trachauer Gemeindeältesten Alwin Gebler benannt. Gebler war nach seiner Entlassung aus dem 3. Königlich-sächsischen Infanterie-Regiment Nr. 102 Besitzer der "Dresdner Sand- und Kieswerke AG". Die noch erhaltene Villa des Ehepaares (Geblerstraße 20) wird heute als Kindergarten genutzt. Um Verwechslungen mit einer gleichnamigen Straße der Leipziger Vorstadt zu vermeiden, erhielt die Trachauer Hedwigstraße nach der Eingemeindung des Ortes am 1. Januar 1904 den Namen Kleestraße. Die Namensgebung erinnert an den Pädagogen und Sprachwissenschaftler Julius Ludwig Klee (1807-1867), der viele Jahre Rektor der Dresdner Kreuzschule war und als Philologe am Deutschen Wörterbuch der Gebrüder Grimm mitarbeitete. Die Wohnhäuser Kleestraße 2, 4 und 6 entstanden ab 1929 für die Wohnungsbaugenossenschaft GEWOG nach Plänen von Hans Waloschek und gehören zur [Trachauer Siedlung](../../../nordwest/trachau/trachauer_siedlung/).
 
-![kopernikusstraße](../../../a_rectangle_81.gif)
+![kopernikusstraße](a_rectangle_81.gif)
 
 ![](../../../nordwest/trachau/strassen_trachau/trachaukopernikus.jpg)Die Kopernikusstraße verdankt ihren Namen dem polnischen Astronomen Nikolaus Kopernikus (1473-1543), der als erster die These des sonnenzentrierten Planetensystems aufstellte und damit das Weltbild seiner Zeit revolutionierte. Erstmals benannt wurde sie im Dezember 1904.
 
@@ -273,7 +273,7 @@ An der Micktner Straße 10 entstand bis Sommer 2014 der Neubau der 144. Grundsch
 
 Der Morseweg, am Rande der sogenannten Kriegerheimsiedlung gelegen, erhielt seinen Namen 1932 in Erinnerung an den amerikanischen Erfinder Samuel Finley Morse (1791-1872), der 1837 den Morseapparat und das zugehörige Morsealphabeth zur Nachrichtenübermittlung erfand.
 
-![neuländer straße](../../../a_rectangle_82.gif)
+![neuländer straße](a_rectangle_82.gif)
 
 Der Name Neuländer Straße geht auf das Jahr 1661 zurück, als Trachauer Bauern die kurfürstliche Erlaubnis erhielten, hier zur Gewinnung neuer Ackerflächen den Wald zu roden. Das auch für den Weinbau genutzte Flurstück wurde als die Neuländer bezeichnet. Dieser Name ging 1905 auf die aus einem Forstweg hervorgegangene Straße über.
 
@@ -290,7 +290,7 @@ Nach 1945 bezog zunächst bis 1954 eine Klinik für Unfallgeschädigte und Körp
 
 **_Fotos:_** _Mannschaftsgebäude und Speisesaal der Polizeischule um 1935 (Else Seifert - SLUB/Fotothek)_
 
-![pettenkoferstraße](../../../a_rectangle_100.gif)
+![pettenkoferstraße](a_rectangle_100.gif)
 
 Die heutige Pettenkoferstraße geht in ihrem Verlauf auf den alten Trachauer Kirchweg nach Kaditz zurück. Erst 1896 wurde dieser Fußweg zur Straße ausgebaut und zunächst Kirchgasse genannt. 1904 erfolgte die Umbenennung nach dem Professor für medizinische Chemie Max von Pettenkofer (1818-1901). Pettenkofer gilt als Begründer der experimentellen Hygiene und war zwischen 1890 und 1899 Präsident der Bayrischen Akademie für Wissenschaften.
 
@@ -360,7 +360,7 @@ Die Steinheilstraße in der Trachauer Siedlung erhielt ihren Namen 1935 nach dem
 
 Im Haus Stephanstraße 38 wohnte bis zu seinem Tod 1973 der Volksschullehrer und Stadtarchivar Alfred Hahn (1888-1973). Hahn war viele Jahre an der 40. Volksschule in Trachau als Lehrer tätig und wirkte nach 1945 als Archivar des Dresdner Stadtarchivs. Außerdem verfasste er zahlreiche heimatkundliche Beiträge für verschiedene Tageszeitungen.
 
-![teichstraße](../../../a_rectangle_84.gif)
+![teichstraße](a_rectangle_84.gif)
 
 ![](../../../nordwest/trachau/strassen_trachau/trachauteichstr.jpg)Die Teichstraße, seit 1901 so genannt, erinnert an die früheren Dorfteiche. Diese waren bis zur Trockenlegung letzter Rest eines alten Elbarmes und wurden nach Bau der Kanalisation Ende des 19.Jahrhunderts zugeschüttet. An dieser Straße entstanden um die Jahrhundertwende einige Mietshäuser, die nach 1990 saniert wurden. Bemerkenswert ist das unter Denkmalschutz stehende Wohnhaus Nr. 5, in dessen Treppenhaus sich Malereien der Entstehungszeit erhalten haben. Bis 1993 wohnte hier der Dresdner Maler Theodor Rosenhauer (1901-1996), an den seit 2001 eine Gedenktafel erinnert. Das Haus Teichstraße 7 wurde 1995 vom bekannten deutschen Model Claudia Schiffer erworben und saniert.
 
@@ -370,7 +370,7 @@ Im Haus Stephanstraße 38 wohnte bis zu seinem Tod 1973 der Volksschullehrer und
 
 Nach dem Ersten Weltkrieg wurde die Tichatscheckstraße bis Alttrachau verlängert. 1926-30 errichtete die Baugenossenschaft für Handwerk, Handel und Gewerbe den Wohnkomplex zwischen Tichatscheck-, Guts-Muths-Straße und Alttrachau. im Wohnhaus Nr. 14 wohnte viele Jahre der Micktener Baumeisters Gustav Richard Martin. Das Grundstück Nr. 19 war nach dem Zweiten Weltkrieg Produktionsort von Betonteilen für den verbreiteten DDR-Garagentyp "Dresden". Nach 1990 nutzte bis zum Abriss 2016 ein Getränkemarkt das Areal. 2017 entstanden hier drei Einfamilien- und ein Mehrfamilienhaus.
 
-![trentzschweg](../../../a_rectangle_101.gif)
+![trentzschweg](a_rectangle_101.gif)
 
 Der Trentzschweg entstand 1935 als Verbindungsweg zwischen Steinheilstraße und Halleystraße und wurde nach dem früheren Windmüller in Trachau, Karl Friedrich Trentzsch benannt. Trentzsch bewirtschaftete später auch die Gaststätte Feldschlösschen an der Leipziger Straße.
 
@@ -388,12 +388,12 @@ Die Trobischstraße in der Trachauer Siedlung erinnert an den Gutsbesitzer Johan
 
 Die Veteranenstraße, eine kurze Sackgasse östlich von der Leipziger Straße abgehend, erhielt 1896 ihren Namen in Erinnerung an die Veteranen des Deutsch-Französischen Kriegs 1870/71. Dabei sollte wohl wie auch bei der benachbarten Jubiläumsstraße Bezug auf die Gründung des Deutschen Reichs genommen werden.
 
-![virchowstraße](../../../a_rectangle_1419.gif)
+![virchowstraße](a_rectangle_1419.gif)
 
 Die Virchowstraße entstand um 1900 im Zusammenhang mit der Erschließung eines neuen Wohnviertels an der Ortsgrenze zu Pieschen. Ihren Namen erhielt sie 1902 nach dem Naturforscher Rudolf Virchow (1821-1902), der zu den Mitbegründern der modernen Anthropologie und Ethnologie gehört. Ursprünglich führte sie von der Dippelsdorfer Straße nur bis zur heutigen Dorothea-Erxleben-Straße, wurde nach dem Ersten Weltkrieg jedoch bis zur Duckwitzstraße verlängert.
 Die Wohnhäuser Nr. 27 und 28 gehören zur zwischen 1926 und 1928 entstandenen Siedlung Zur guten Hoffnung und wurden von Paul Müller entworfen.
 
-![wahnsdorfer straße](../../../a_rectangle_1541.gif)
+![wahnsdorfer straße](a_rectangle_1541.gif)
 
 Die Wahnsdorfer Straße im Norden der Trachauer Flur wurde ab 1897 bis zur Eingemeindung des Ortes Kyffhäuserstraße genannt. Ihren jetzigen Namen erhielt sie 1904 nach dem Radebeuler Ortsteil Wahnsdorf.
 
@@ -401,9 +401,9 @@ Die Wahnsdorfer Straße im Norden der Trachauer Flur wurde ab 1897 bis zur Einge
 
 Die Weixdorfer Straße entstand kurz vor dem Ersten Weltkrieg und wurde im August 1914 nach dem Ort Weixdorf benannt, der seit 19999 als Ortschaft zu Dresden gehört. Ursprünglich war ein durchgehender Straßenverlauf von der Boxdorfer Straße bis zur Großenhainer Straße vorgesehen, letztlich blieb jedoch ein Stück nur Fußweg, der durch die Kleingartenanlage Erdenglück e.V. führt. Ältestes Gebäude ist das bereits 1896/97 entstandene Mietshaus Nr. 17, welches dem Kaufmann Albert Rollhäuser gehörte und Auftakt zur Bebauung des Viertels um die Burgsdorffstraße war.
 
-[![wilder-mann-straße](../../../a_rectangle_1395.gif)](../../../nordwest/trachau/strassen_trachau/wilder-mann-strasse/)
+[![wilder-mann-straße](a_rectangle_1395.gif)](../../../nordwest/trachau/strassen_trachau/wilder-mann-strasse/)
 
-![wöhlerstraße](../../../a_rectangle_428.gif)
+![wöhlerstraße](a_rectangle_428.gif)
 
 ![](../../../nordwest/trachau/strassen_trachau/trachau_wöhlerstr.jpg)Die Ende des 19. Jahrhunderts südlich des Alttrachauer Dorfkerns angelegte Straße trug ab 1899 bis zur Eingemeindung den Namen Gohliser Straße. Grund war ihre Ausrichtung zu den am linken Elbufer gelegenen Dörfern Ober- und Niedergohlis. 1904 wurde sie in Wöhlerstraße umbenannt. Friedrich Wöhler (1800-1864) arbeitete als Professor für organische Chemie und entwickelte 1828 das Verfahren der Harnstoffsynthese. Mit seinen Versuchen gehört er zu den Wegbereitern der Biochemie und wurde für seine Verdienste international geehrt.
 

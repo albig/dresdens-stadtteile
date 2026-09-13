@@ -3,7 +3,7 @@ title: "Königliche Villa"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![königliche villa](../../../konigliche_villa_nlafleurbannerh.gif)
+![königliche villa](konigliche_villa_nlafleurbannerh.gif)
 
 * * *
 

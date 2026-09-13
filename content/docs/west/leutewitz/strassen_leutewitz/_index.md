@@ -3,7 +3,7 @@ title: "Straßen Leutewitz"
 date: 2024-02-17T22:13:46+01:00
 ---
 
-![straßen und plätze in leutewitz](../../../strassen_leutewitz_n1_banner2.gif)
+![straßen und plätze in leutewitz](strassen_leutewitz_n1_banner2.gif)
 
 * * *
 
@@ -45,13 +45,13 @@ Parkstraße genannt. Nach der Eingemeindung von Leutewitz erfolgte am 19. Februa
 
 
 
-![droste-hülshoff-straße](../../../a_rectangle_369.gif)
+![droste-hülshoff-straße](a_rectangle_369.gif)
 
 An der früheren Kemnitzer Straße entstanden um 1900 die ersten Häuser außerhalb des Leutewitzer Dorfkerns, die die
 Entwicklung zum Dresdner Wohnvorort einleiteten. Ihren Namen erhielt sie 1908 nach dem benachbarten Dorf Kemnitz. Am
 19\. Februar 1926 wurde sie nach der bekannten deutschen Dichterin Annette Freiin von Droste-Hülshoff (1797-1848) in Droste-Hülshoff-Straße umbenannt.
 
-![gorbitzer straße](../../../a_rectangle_370.gif)
+![gorbitzer straße](a_rectangle_370.gif)
 
 Die heutige Gorbitzer Straße wurde früher als Oberer Leichenweg bezeichnet, da die Bewohner des Ortes hier ihren Weg zum
 Briesnitzer Friedhof nahmen. 1904 ist sie jedoch bereits als Gorbitzer Straße im Leutewitzer Adressbuch verzeichnet. Auf
@@ -59,17 +59,17 @@ Gorbitzer Flur trug sie offiziell den Namen Leutewitzer Straße, wurde jedoch zu
 ebenfalls in Gorbitzer Straße umbenannt. Bereits 1893 ist in diesem Gebiet eine Ziegelei erwähnt. 1898 entstand an der Straße
 der Cottaer Friedhof. Ursprünglich führte die Gorbitzer Straße bis zur Kesselsdorfer Straße, wurde jedoch beim Bau des Neubauviertels Gorbitz auf die heutige Straßenführung gekürzt.
 
-![schaumbergerstraße](../../../a_rectangle_371.gif)
+![schaumbergerstraße](a_rectangle_371.gif)
 
 Die Schaumbergerstraße erinnert an den Volksschriftsteller Heinrich Schaumberger (1843-1874), der durch seine
 Dorfgeschichten im 19. Jahrhundert beliebt war. 1875 erschien eine zweibändige Volksausgabe seiner gesammelten Werke. Die frühere Südstraße in Leutewitz erhielt diesen Namen am 19. Februar 1926.
 
-![weststraße](../../../a_rectangle_372.gif)
+![weststraße](a_rectangle_372.gif)
 
 Die Weststraße trug bis zur Eingemeindung des Ortes den Namen Weinbergstraße, der an den noch um 1870 bedeutenden
 Weinbau im Ort erinnerte. Initiator war der Mühlen- und Gastwirtschaftsbesitzer Felgentreff, der für sein Lokal einige Weinberge anlegen ließ. Am 1. Oktober 1931 wurde die Straße nach ihrer geografischen Lage umbenannt.
 
-![wilhelm-müller-straße](../../../a_rectangle_373.gif)
+![wilhelm-müller-straße](a_rectangle_373.gif)
 
 Die frühere Hohe Straße erhielt 1926 den neuen Namen Wilhelm-Müller-Straße. Wilhelm Müller (1794-1827) gehört zu den
 bedeutendsten Dichtern der deutschen Romantik und ist Verfasser so bekannter Volkslieder wie Das Wandern ist des Müllers

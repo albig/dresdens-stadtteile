@@ -3,7 +3,7 @@ title: "Zellescher Weg"
 date: 2024-02-17T22:13:45+01:00
 ---
 
-![zellescher weg](../../../../zellescher_weg_n1_banner2.gif)
+![zellescher weg](zellescher_weg_n1_banner2.gif)
 
 * * *
 

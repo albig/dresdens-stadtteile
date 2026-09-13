@@ -3,7 +3,7 @@ title: "St.-Pauli-Kirche"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![st.-pauli-kirche](../../../../st_-pauli-kirche_nlafleurbannerh.gif)
+![st.-pauli-kirche](st_-pauli-kirche_nlafleurbannerh.gif)
 
 * * *
 

@@ -3,7 +3,7 @@ title: "Dresdner Vorortbahn"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![dresdner vorortbahn](../../../dresdner_vorortbahn_nestimatebanner.gif)
+![dresdner vorortbahn](dresdner_vorortbahn_nestimatebanner.gif)
 
 * * *
 
@@ -13,7 +13,7 @@ date: 2024-02-17T22:13:38+01:00
 
 [![](../../../ost/leuben/strassen_leuben/hauptseiteleuben.jpg)](../../../ost/leuben/)
 
-[![](../../../hauptseitelaubegast.jpg)](../../../ost/laubegast/)
+[![](hauptseitelaubegast.jpg)](../../../ost/laubegast/)
 
 * * *
 

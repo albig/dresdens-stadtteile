@@ -3,7 +3,7 @@ title: "Waldbad Weixdorf"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![waldbad weixdorf](../../../../waldbad_weixdorf_nurbanlegendbannerh.gif)
+![waldbad weixdorf](waldbad_weixdorf_nurbanlegendbannerh.gif)
 
 * * *
 

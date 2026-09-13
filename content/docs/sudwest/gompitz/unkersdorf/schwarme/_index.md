@@ -3,7 +3,7 @@ title: "Schwärme"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![schwärme](../../../../schwarme_nurbanlegendbannerh.gif)
+![schwärme](schwarme_nurbanlegendbannerh.gif)
 
 * * *
 

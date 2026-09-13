@@ -3,7 +3,7 @@ title: "Lößnitzbahn"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![lößnitzbahn](../../../lossnitzbahn_nestimatebanner.gif)
+![lößnitzbahn](lossnitzbahn_nestimatebanner.gif)
 
 * * *
 

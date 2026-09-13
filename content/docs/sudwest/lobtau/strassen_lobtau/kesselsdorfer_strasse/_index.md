@@ -3,7 +3,7 @@ title: "Kesselsdorfer Straße"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![kesselsdorfer straße](../../../../kesselsdorfer_strasse_n1_banner2.gif)
+![kesselsdorfer straße](kesselsdorfer_strasse_n1_banner2.gif)
 
 * * *
 
@@ -38,7 +38,7 @@ bezeichnet und gehört zu den wichtigsten alten Fernstraßen im Dresdner Raum. A
 versehen, von denen jedoch keine erhalten blieb. 1704 entstand in diesem Zusammenhang an Stelle einer hölzernen Vorgängerin eine steinerne [Brücke](../../../../sudwest/lobtau/strassen_lobtau/lobtauer_brucken/) über die Weißeritz. Als Hauptverkehrsverbindung ins Erzgebirge wurde sie 1767 Gebürgische
 Hauptstraße genannt. Noch bis zum Ende des 19. Jahrhunderts erinnerte eine Wegsäule in der Nähe der Kreuzung mit der Tharandter und Löbtauer Straße an die Bedeutung dieses Verkehrsweges.
 
-![](../../../../l_btaukesselsdorfer2.jpg)Zwischen 1810 und 1812 wurde die Straße im Auftrag Napoleons zur Chaussee
+![](l_btaukesselsdorfer2.jpg)Zwischen 1810 und 1812 wurde die Straße im Auftrag Napoleons zur Chaussee
 ausgebaut und erhielt dabei im Wesentlichen ihren heutigen Verlauf. Ab 1871 trug sie zunächst den Namen Wilsdruffer Straße, ab 1904 Kesselsdorfer Straße. Dieser Name
 wurde nach der Eingemeindung auch auf die Straßenabschnitte in Gorbitz (1926) und in Gompitz (1999) übertragen. Ab 1881 verkehrte eine Pferdebahn bis zum 1875 entstandenen [Neuen Annenfriedhof](../../../../sudwest/Lobtau/Friedenskirche/Neuer_Annenfriedhof/neuer_annenfriedhof.html). 1893/96 wurde diese Strecke elektrifiziert und bis
 zum Straßenbahnhof Naußlitz verlängert. Bereits vor dem Zweiten Weltkrieg entwickelte sich die Kesselsdorfer Straße zum Stadtteilzentrum der westlichen
@@ -56,7 +56,7 @@ Nr. 8: In diesem heute nicht mehr vorhandenem Gebäude (ehem. Wilsdruffer Straß
 
 ![](../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/löbtaupassage.jpg)Löbtau-Passage: Das moderne Einkaufszentrum entstand 2008/09 auf dem Grundstück des früheren Dreikaiserhofes und einiger Nebengebäude. Im Erdgeschoss befindet sich eine Ladenpassage, im Obergeschoss ein zweigeschossiges Parkdeck. Zuvor war das Grundstück des 1945 zerstörten Hotels zeitweise Standort des HO-Möbelhauses Das schöne Heim (Möbelhaus West), später einiger Verkaufspavillons, bevor diese am 28. Juni 1996 durch einen Großbrand zerstört wurden. In den Neubau der Löbtau-Passage wurde auch der Mustersaal der ehemaligen [Lampenfabrik Seifert](../../../../sudwest/lobtau/strassen_lobtau/) auf der Gröbelstraße integriert. Hier hatte 1906 die erste öffentliche Ausstellung der Brücke-Künstler stattgefunden.
 
-![](../../../../l_btaukaufhausmagnet.jpg)Kaufhaus Magnet (Nr. 11): Das in den Zwanziger Jahren errichtete Kaufhaus blieb bis zur Schließung 1990 eine beliebte Einkaufsstätte weit über die Löbtauer Ortsgrenzen hinaus _(im Bild rechtes Gebäude)_. Vor 1945 wurde es als Rheinische Kaufhalle bezeichnet. Im Obergeschoss besaß der Maler Otto Dix ab 1933 seine Atelierräume und nutzte diese bis zu seinem Tod 1969. Nach 1945 gab es im Haus für einige Jahre eine Tauschzentrale (Tauze), in der man im Tausch gegen Wertgegenstände Lebens- und Genussmittel erhielt. Zu den Geschäftsführern des Unternehmens gehörte der spätere Vorsitzende des Zentralrates der Juden in Deutschland Ignatz Bubis.
+![](l_btaukaufhausmagnet.jpg)Kaufhaus Magnet (Nr. 11): Das in den Zwanziger Jahren errichtete Kaufhaus blieb bis zur Schließung 1990 eine beliebte Einkaufsstätte weit über die Löbtauer Ortsgrenzen hinaus _(im Bild rechtes Gebäude)_. Vor 1945 wurde es als Rheinische Kaufhalle bezeichnet. Im Obergeschoss besaß der Maler Otto Dix ab 1933 seine Atelierräume und nutzte diese bis zu seinem Tod 1969. Nach 1945 gab es im Haus für einige Jahre eine Tauschzentrale (Tauze), in der man im Tausch gegen Wertgegenstände Lebens- und Genussmittel erhielt. Zu den Geschäftsführern des Unternehmens gehörte der spätere Vorsitzende des Zentralrates der Juden in Deutschland Ignatz Bubis.
 
 Am 25. November 1948 eröffnete in den Räumen das erste freie HO-Fachgeschäft Dresdens, in welchem man Textilien, Schuhe und Industriewaren ohne Bezugsscheine erwerben konnte. Später wurde diese Einrichtung in Textilhaus West, 1960 im Kaufhaus Magnet umbenannt. Ab 1975 standen den Kunden vier Komplexverkaufsbereiche zur Verfügung, wodurch sich die Verkaufsfläche deutlich vergrößerte. Das nach der Wende viele Jahre leer stehende Kaufhaus wurde 2010 saniert und dabei äußerlich stark verändert.
 

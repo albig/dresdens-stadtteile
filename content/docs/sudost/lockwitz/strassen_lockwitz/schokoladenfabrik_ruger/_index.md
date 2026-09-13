@@ -3,7 +3,7 @@ title: "Schokoladenfabrik Rüger"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![schokoladenfabrik rüger](../../../../schokoladenfabrik_ruger_nlafleurbannerh.gif)
+![schokoladenfabrik rüger](schokoladenfabrik_ruger_nlafleurbannerh.gif)
 
 * * *
 

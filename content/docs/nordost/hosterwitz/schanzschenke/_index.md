@@ -3,7 +3,7 @@ title: "Schanzschenke"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![schanzschenke](../../../schanzschenke_nlafleurbannerh.gif)
+![schanzschenke](schanzschenke_nlafleurbannerh.gif)
 
 * * *
 

@@ -3,7 +3,7 @@ title: "Waldbad Klotzsche"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![waldbad klotzsche](../../../../waldbad_klotzsche_nurbanlegendbannerh.gif)
+![waldbad klotzsche](waldbad_klotzsche_nurbanlegendbannerh.gif)
 
 * * *
 

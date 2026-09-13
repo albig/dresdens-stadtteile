@@ -3,7 +3,7 @@ title: "Blasewitzer Straße"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![blasewitzer straße](../../../../blasewitzer_strasse_n1_banner2.gif)
+![blasewitzer straße](blasewitzer_strasse_n1_banner2.gif)
 
 * * *
 

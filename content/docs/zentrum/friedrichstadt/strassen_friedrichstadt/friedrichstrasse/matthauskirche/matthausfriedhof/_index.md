@@ -3,7 +3,7 @@ title: "Matthäusfriedhof"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![matthäusfriedhof](../../../../../../matthausfriedhof_nurbanlegendbannerh.gif)
+![matthäusfriedhof](matthausfriedhof_nurbanlegendbannerh.gif)
 
 * * *
 

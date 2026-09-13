@@ -3,7 +3,7 @@ title: "Landgraben"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![landgraben](../../../landgraben_nurbanlegendbannerh.gif)
+![landgraben](landgraben_nurbanlegendbannerh.gif)
 
 * * *
 

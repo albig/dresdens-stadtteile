@@ -3,7 +3,7 @@ title: "Universitätsklinikum"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![universitätsklinikum](../../../universitatsklinikum_nlafleurbannerh.gif)
+![universitätsklinikum](universitatsklinikum_nlafleurbannerh.gif)
 
 * * *
 
@@ -23,7 +23,7 @@ date: 2024-02-17T22:13:47+01:00
 
 * * *
 
-[![universitätsklinikum ](../../../a_rectangle_1514.gif)](http://www.uniklinikum-dresden.de)
+[![universitätsklinikum ](a_rectangle_1514.gif)](http://www.uniklinikum-dresden.de)
 
 ![](../../../zentrum/johannstadt/universitatsklinikum/johannstuniklinik_carusdkm.jpg)
 

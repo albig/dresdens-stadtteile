@@ -3,7 +3,7 @@ title: "Innerer Neustädter Friedhof"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![innerer neustädter friedhof](../../../innerer_neustadter_friedhof_nurbanlegendbannerh.gif)
+![innerer neustädter friedhof](innerer_neustadter_friedhof_nurbanlegendbannerh.gif)
 
 * * *
 

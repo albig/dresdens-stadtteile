@@ -102,7 +102,7 @@ Dazu trugen sowohl die am Elbufer gelegenen Ausflugslokale, aber auch die ab 187
 Gründe sowie die Auflösung der Fischerinnung zur Einstellung des Fährbetriebs an der Saloppe (1953) und bei Anton´s (1957). Erhalten blieb hingegen die in der
 Nachkriegszeit an ihren heutigen Standort am Fährgarten verlegte Elbfähre zur Drachenschänke am Diakonissenweg _(Foto)_.
 
-[![straßen in der johannstadt](../../a_rectangle_1303.gif)](../../zentrum/johannstadt/strassen_johannstadt/)
+[![straßen in der johannstadt](a_rectangle_1303.gif)](../../zentrum/johannstadt/strassen_johannstadt/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

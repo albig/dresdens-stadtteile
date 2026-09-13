@@ -3,7 +3,7 @@ title: "Eisenstuckstraße"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![eisenstuckstraße](../../../../eisenstuckstrasse_n1_banner2.gif)
+![eisenstuckstraße](eisenstuckstrasse_n1_banner2.gif)
 
 * * *
 

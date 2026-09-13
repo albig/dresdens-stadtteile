@@ -3,7 +3,7 @@ title: "Straßen Kaditz"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![straßen und plätze in kaditz](../../../strassen_kaditz_n1_banner2.gif)
+![straßen und plätze in kaditz](strassen_kaditz_n1_banner2.gif)
 
 * * *
 

@@ -3,7 +3,7 @@ title: "Gasthof Weißig"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![gasthof weißig](../../../../gasthof_weissig_nlafleurbannerh.gif)
+![gasthof weißig](gasthof_weissig_nlafleurbannerh.gif)
 
 * * *
 

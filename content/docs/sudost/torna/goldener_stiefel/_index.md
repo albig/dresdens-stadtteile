@@ -3,7 +3,7 @@ title: "Goldener Stiefel"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![goldener stiefel](../../../goldener_stiefel_nlafleurbannerh.gif)
+![goldener stiefel](goldener_stiefel_nlafleurbannerh.gif)
 
 * * *
 

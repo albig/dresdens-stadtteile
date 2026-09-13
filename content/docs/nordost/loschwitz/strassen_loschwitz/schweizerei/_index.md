@@ -3,7 +3,7 @@ title: "Schweizerei"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![schweizerei](../../../../schweizerei_nlafleurbannerh.gif)
+![schweizerei](schweizerei_nlafleurbannerh.gif)
 
 * * *
 

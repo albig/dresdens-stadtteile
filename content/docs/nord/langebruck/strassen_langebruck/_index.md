@@ -3,7 +3,7 @@ title: "Straßen Langebruck"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![straßen und plätze in langebrück](../../../strassen_langebruck_n1_banner2.gif)
+![straßen und plätze in langebrück](strassen_langebruck_n1_banner2.gif)
 
 * * *
 
@@ -85,7 +85,7 @@ Die 1936 erstmals erwähnte Brunnenstraße befindet sich im Langebrücker Ortste
 
 ![forststraße](../../../nord/langebruck/strassen_langebruck/a_rectangle_1258.gif)
 
-![](../../../langebr_ckforsthaus.jpg)Die Forststraße erhielt ihren Namen nach dem hier befindlichen Langebrücker
+![](langebr_ckforsthaus.jpg)Die Forststraße erhielt ihren Namen nach dem hier befindlichen Langebrücker
 Forstamt. Dieses entstand im 17. Jahrhundert. als Forst- und Jagdhaus und wurde 1635 erstmals erwähnt. 1780/81 wurde das heutige Gebäude errichtet, welches neben den Dienst- und Wohnräumen des Revierförsters zugleich
 Unterkunftsräume für kurfürstliche Jagdgesellschaften besaß. Später als Königliches Forstamt genutzt, ist es heute Sitz der Revierförsterei Langebrück _(Foto)_. Künftig ist in diesem Haus die Einrichtung eines kleinen Museums zur Dresdner Heide geplant.
 
@@ -99,7 +99,7 @@ Die kurze Friedrich-Ebert-Straße zweigt von der Liegauer Straße ab und erhielt
 
 Im Wohnhaus Friedrich-Wolf-Straße befand sich ab 1926 die private Leihbibliothek von Annemarie Pöthig. Ab 1933 wohnte in diesem Gebäude der Jurist Ernst Venus (1880-1971). Venus war 1905/1906 Berichterstatter der "Sächsischen Staatszeitung" im Sächsischen Landtag und danach in verschiedenen Funktionen in der sächsischen Verwaltung beschäftigt. Nach seiner Tätigkeit als Landrat von Stollberg und Annaberg übernahm er 1928 die Leitung der Amtshauptmannschaft Dresden und blieb bis 1944 letzter Amtshauptmann des Kreises.
 
-![](../../../gartenstra_e.jpg)
+![](gartenstra_e.jpg)
 
 Die Gartenstraße entstand 1934 als Planstraße B im Wohnviertel Heidehof. Zwischen 1935 und 1945 trug sie den Namen
 Maikowski- bzw. Hans-Maikowski-Straße. Hans Maikowski (1908-1933) war Führer einer SA-Sturmabteilung in Berlin- Charlottenburg und wurde am 31. Januar 1933, dem Tag der nationalsozialistischen Machtübernahme, unter ungeklärten

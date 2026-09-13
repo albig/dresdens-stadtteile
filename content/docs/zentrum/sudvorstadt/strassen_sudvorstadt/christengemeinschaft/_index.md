@@ -3,7 +3,7 @@ title: "Christengemeinschaft"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![christengemeinschaft](../../../../christengemeinschaft_nlafleurbannerh.gif)
+![christengemeinschaft](christengemeinschaft_nlafleurbannerh.gif)
 
 * * *
 

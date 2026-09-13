@@ -3,7 +3,7 @@ title: "Gostritzer Straße"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![gostritzer straße](../../../../gostritzer_strasse_n1_banner2.gif)
+![gostritzer straße](gostritzer_strasse_n1_banner2.gif)
 
 * * *
 

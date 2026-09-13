@@ -3,7 +3,7 @@ title: "Rähnitzer Kirche"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![rähnitzer kirche](../../../rahnitzer_kirche_nlafleurbannerh.gif)
+![rähnitzer kirche](rahnitzer_kirche_nlafleurbannerh.gif)
 
 * * *
 

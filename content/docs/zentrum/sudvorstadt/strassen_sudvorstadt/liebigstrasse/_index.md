@@ -3,7 +3,7 @@ title: "Liebigstraße"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![liebigstraße](../../../../liebigstrasse_n1_banner2.gif)
+![liebigstraße](liebigstrasse_n1_banner2.gif)
 
 * * *
 
@@ -42,7 +42,7 @@ Nach 1945 diente die Villa bis 1995 als Mietshaus und wurde 2001 an ein Bauunter
 erfolgte eine denkmalgerechte Sanierung des Gebäudes, welches jetzt als Wohn- und Bürohaus genutzt wird. In Erinnerung an den Computer-Pionier Konrad Zuse trägt das Haus heute den Namen  Konrad-Zuse-Haus. Diese
 Namensgebung erfolgte auf Anregung des Besitzers, welcher Träger der Konrad-Zuse-Medaille für Verdienste um die Informatik im Baugewerbe ist.
 
-![](../../../../svliebigstr7.jpg)Nr. 7: Das repräsentative Neorenaissancegebäude mit entstand 1875 als eines der letzten Bauwerke des Schweizer Viertels im Geist der Nicolai-Schule. Ursprünglich gehörte es dem königlichen Hofjuwelier Fritz Chrambach, der zugleich das Amt eines Kaiserlich-Türkischen Konsuls innehatte. Chrambach war Mitinhaber des Juweliergeschäfts Elimeyer am Neumarkt und galt als kunstsinniger Gastgeber. So weilten u.a. der Komponist und Klaviervirtuose Anton Rubinstein, Richard Wagners Sohn Siegfried mit seiner Frau Winifred und der Literaturnobelpreisträger Karl Gjellerup in seinem Haus.
+![](svliebigstr7.jpg)Nr. 7: Das repräsentative Neorenaissancegebäude mit entstand 1875 als eines der letzten Bauwerke des Schweizer Viertels im Geist der Nicolai-Schule. Ursprünglich gehörte es dem königlichen Hofjuwelier Fritz Chrambach, der zugleich das Amt eines Kaiserlich-Türkischen Konsuls innehatte. Chrambach war Mitinhaber des Juweliergeschäfts Elimeyer am Neumarkt und galt als kunstsinniger Gastgeber. So weilten u.a. der Komponist und Klaviervirtuose Anton Rubinstein, Richard Wagners Sohn Siegfried mit seiner Frau Winifred und der Literaturnobelpreisträger Karl Gjellerup in seinem Haus.
 
 Ab 1930 diente die Villa als Privatklinik für Gynäkologie und Geburtshilfe von Prof. Dr. med. Wilhelm Rübsamen, der zeitweise auch geschäftsführender Oberarzt des Johannstädter Krankenhauses war. 1945 brannte das Haus aus, konnte jedoch bis 1949 wieder aufgebaut werden. Unter Leitung Professor Rübsamens, später unter der seiner Tochter Ursula, blieb die Frauenklinik auch zu DDR-Zeiten in Familienbesitz und gehörte zu den wenigen Privatkliniken der Stadt. Erst 1987 gab Dr. med. Ursula Rübsamen ihre Klinik aus Altersgründen auf, führte jedoch noch gelegentliche Sprechstunden durch. Ab 1992 nutzte zunächst die Diakonissenanstalt, später die Johanniter-Unfallhilfe das Gebäude. Heute hat hier eine Werbeagentur ihren Sitz. Außerdem gibt es im Haus einige Mietwohnungen.
 

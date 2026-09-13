@@ -3,7 +3,7 @@ title: "König-Georg-Gymnasium"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![könig-georg-gymnasium](../../../../konig-georg-gymnasium_nlafleurbannerh.gif)
+![könig-georg-gymnasium](konig-georg-gymnasium_nlafleurbannerh.gif)
 
 * * *
 

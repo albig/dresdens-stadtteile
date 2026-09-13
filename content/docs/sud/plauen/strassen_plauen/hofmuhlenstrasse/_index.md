@@ -3,7 +3,7 @@ title: "Hofmuhlenstraße"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-![hofmühlenstraße](../../../../hofmuhlenstrasse_n1_banner2.gif)
+![hofmühlenstraße](hofmuhlenstrasse_n1_banner2.gif)
 
 * * *
 
@@ -34,14 +34,14 @@ _Arthur Jähnichen_
 
 
 
-![](../../../../plauenscherhof.jpg)Die Hofmühlenstraße wurde 1597 erstmals erwähnt und hieß ursprünglich Wassergasse, ab 1865 Wasserstraße. Der Name erinnerte an die 1541 angelegte [Hochplauensche Röhrfahrt](../../../../sud/plauen/) zur Wasserversorgung des Dresdner Schlosses. Die parallel zum Weißeritzufer führende Straße war Standort der Gebäude des Plauener Unterdorfes, welches im Gegensatz zum Dorfkern um die Kirche jedoch stark hochwassergefährdet war. Nach einer erneuten Zerstörung zahlreicher Häuser beim schweren Weißeritzhochwasser am 31. Juli 1897 wurde die Flußseite nicht wieder aufgebaut. Heute erinnern die weitgehend erhaltenen Gebäude der gegenüberliegenden Straßenseite an die dörfliche Vergangenheit Plauens. Bemerkenswert sind u.a die aus dem 17. und 18. Jahrhundert stammenden Fachwerkhäuser Nr. 59 und 61 (2012 saniert). Im Haus Nr. 71 befand sich früher die bekannte Schankstätte Plauenscher Hof _(Foto)_
+![](plauenscherhof.jpg)Die Hofmühlenstraße wurde 1597 erstmals erwähnt und hieß ursprünglich Wassergasse, ab 1865 Wasserstraße. Der Name erinnerte an die 1541 angelegte [Hochplauensche Röhrfahrt](../../../../sud/plauen/) zur Wasserversorgung des Dresdner Schlosses. Die parallel zum Weißeritzufer führende Straße war Standort der Gebäude des Plauener Unterdorfes, welches im Gegensatz zum Dorfkern um die Kirche jedoch stark hochwassergefährdet war. Nach einer erneuten Zerstörung zahlreicher Häuser beim schweren Weißeritzhochwasser am 31. Juli 1897 wurde die Flußseite nicht wieder aufgebaut. Heute erinnern die weitgehend erhaltenen Gebäude der gegenüberliegenden Straßenseite an die dörfliche Vergangenheit Plauens. Bemerkenswert sind u.a die aus dem 17. und 18. Jahrhundert stammenden Fachwerkhäuser Nr. 59 und 61 (2012 saniert). Im Haus Nr. 71 befand sich früher die bekannte Schankstätte Plauenscher Hof _(Foto)_
 . 1904 erhielt die Straße ihren heutigen Namen nach der ehemaligen [Hofmühle](../../../../sud/plauen/bienertmuhle/) (Bienertmühle).
 
 Neben den verbliebenen Gebäuden Alt-Plauens enstanden im 19. Jahrhundert im nördlichen Teil der Straße verschiedene Gewerbebetriebe. Zu den bedeutendsten gehörte die 1889 erbaute Malzfabrik Plauen. Hier wurde Rohgerste zu Malz verarbeitet und an die in Plauen ansässigen Brauereien Reisewitz und Plauenscher Lagerkeller geliefert. 1945 wurde die Fabrik zerstört. Hinzu kamen zahlreiche kleinere Firmen unterschiedlicher Branchen, Handwerksbetriebe und Läden für die örtliche Versorgung.
 
 Große Schäden richtete das Weißeritzhochwasser vom August 2002 an, welches die Straße unterspülte und einige Gebäude schwer beschädigte. Beim Einsturz eines Wohnhauses an der Ecke zur Würzburger Straße kam ein Mann ums Leben. Außerdem wurden fast alle Weißeritzbrücken in diesem Bereich zerstört bzw. schwer beschädigt.
 
-![](../../../../plauenhofm_hl1.jpg)![](../../../../plauenhofm_hls.jpg)
+![](plauenhofm_hl1.jpg)![](plauenhofm_hls.jpg)
 
 **_Foto:_** _Die Hofmühlenstraße um 1900 (links) und die im historischen Bild_
 
@@ -80,7 +80,7 @@ Gasthaus Altplauen (Nr. 51): Das noch auf den alten Plauener Dorfkern zurückgeh
 
 Nr. 55: Das langgestrecke Gebäude bildet den Auftakt zur noch erhaltenen Restbebauung des früheren Plauener Unterdorfes _(im Foto ganz links)_. Einst gab es hier eine Bäckerei sowie Pässlers Café und Kuchengarten. Nach 1990 wurde das Haus saniert.
 
-![](../../../../plauenscherhofalt.jpg)Plauenscher Hof (Nr. 71): Die Gaststätte ging aus dem alten Gasthof des Unterdorfes hervor und befand sich im noch heute erhaltenen Gebäude Hofmühlenstraße 71 an der Ecke Altplauen / Weißeritzbrücke. Das Haus entstand um 1800 und erhielt später in einem Seitenflügel noch einen Gesellschaftssaal. Vor dem Ersten Weltkrieg wurde es als "Tharandter Hof", nach 1918 als "Plauenscher Hof" bezeichnet. Noch bis in die 1950er Jahre wurde es gastronomisch genutzt. Bis 1954 gab es zudem in einem Anbau an der rechten Seite einen Fleischerladen. Später dienten die Räume noch bis in die 1990er Jahre als Fahrradwerkstatt und -handlung. Zudem gab es zeitweise einen Friseursalon und ein Tabakgeschäft. Heute steht das beim Hochwasser 2002 schwer in Mitleidenschaft gezogene Gebäude leer.
+![](plauenscherhofalt.jpg)Plauenscher Hof (Nr. 71): Die Gaststätte ging aus dem alten Gasthof des Unterdorfes hervor und befand sich im noch heute erhaltenen Gebäude Hofmühlenstraße 71 an der Ecke Altplauen / Weißeritzbrücke. Das Haus entstand um 1800 und erhielt später in einem Seitenflügel noch einen Gesellschaftssaal. Vor dem Ersten Weltkrieg wurde es als "Tharandter Hof", nach 1918 als "Plauenscher Hof" bezeichnet. Noch bis in die 1950er Jahre wurde es gastronomisch genutzt. Bis 1954 gab es zudem in einem Anbau an der rechten Seite einen Fleischerladen. Später dienten die Räume noch bis in die 1990er Jahre als Fahrradwerkstatt und -handlung. Zudem gab es zeitweise einen Friseursalon und ein Tabakgeschäft. Heute steht das beim Hochwasser 2002 schwer in Mitleidenschaft gezogene Gebäude leer.
 
 
 

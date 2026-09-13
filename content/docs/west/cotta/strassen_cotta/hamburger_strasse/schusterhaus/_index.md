@@ -3,7 +3,7 @@ title: "Schusterhaus"
 date: 2024-02-17T22:13:45+01:00
 ---
 
-![schusterhaus](../../../../../schusterhaus_nlafleurbannerh.gif)
+![schusterhaus](schusterhaus_nlafleurbannerh.gif)
 
 * * *
 

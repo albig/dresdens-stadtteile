@@ -3,7 +3,7 @@ title: "Am Steinberg"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![am steinberg](../../../../am_steinberg_n1_banner2.gif)
+![am steinberg](am_steinberg_n1_banner2.gif)
 
 * * *
 
@@ -38,7 +38,7 @@ Um 1925 lebte hier der Verlagsbuchhändler Ernst Schobloch, der mit seinem Verla
 
 1881 kam das Grundstück in den Besitz des Großindustriellen Julius Robert Spies. Dessen Schwiegersohn, der Fabrikbesitzer Robert Wollner, beauftragte 1908 Wilhelm Kreis, die Villa im Neobarockstil zu erweitern. Das schlossartige Anwesen erhielt eine neue Zufahrt, großzügige Treppen- und Terrassenanlagen und einen Park mit Plastiken und einem Teepavillon. Als Verbindung zur benachbarten Villa Asta wurde eine Brücke errichtet. In den Neubau wurden die Kellerräume und ein als Musikzimmer genutzter Raum mit Stuckelementen integriert. Der plastische Schmuck am Haus stammt von Karl Weinberger, einige Putten und Vasen schufen Georg Wrba und Rudolf Born.
 
-![](../../../../wachwwollnervilla.jpg)Nach Wollners Tod wechselte das Haus mehrfach seinen Besitzer und diente seit 1930 als Heilerziehungsheim der Sächsischen Erholungsfürsorge. Hier wurden jugendliche Bettnässer untergebracht und behandelt. Nach Verlegung der Einrichtung nach Moritzburg bezog kurzzeitig der Reichsarbeitsdienst das Gebäude, bevor es im Oktober 1933 vom SS-Sonderkommando "Sachsen" übernommen wurde. Unter Leitung des später als KZ-Kommandanten berüchtigten Karl Otto Koch (1897-1945 war hier eine Spezialeinheit der SS stationiert. Dabei kam es auch zu einer Umgestaltung der Innenräume. Im Untergeschoss der Violla befanden sich neben dem Heizungskeller die Küche, im Erdgeschoss waren Tages- und Schulungsräume sowie der Speisesaal untergebracht. Das Ober- und das Dachgeschoss dienten als Unterkunft der ca. 50-60 Personen.
+![](wachwwollnervilla.jpg)Nach Wollners Tod wechselte das Haus mehrfach seinen Besitzer und diente seit 1930 als Heilerziehungsheim der Sächsischen Erholungsfürsorge. Hier wurden jugendliche Bettnässer untergebracht und behandelt. Nach Verlegung der Einrichtung nach Moritzburg bezog kurzzeitig der Reichsarbeitsdienst das Gebäude, bevor es im Oktober 1933 vom SS-Sonderkommando "Sachsen" übernommen wurde. Unter Leitung des später als KZ-Kommandanten berüchtigten Karl Otto Koch (1897-1945 war hier eine Spezialeinheit der SS stationiert. Dabei kam es auch zu einer Umgestaltung der Innenräume. Im Untergeschoss der Violla befanden sich neben dem Heizungskeller die Küche, im Erdgeschoss waren Tages- und Schulungsräume sowie der Speisesaal untergebracht. Das Ober- und das Dachgeschoss dienten als Unterkunft der ca. 50-60 Personen.
 
 Nachdem im April 1934 das SS-Kommando in die Gebäude des ehemaligen [Maria-Anna-Kinderhospitals](../../../../nordwest/trachenberge/trachenberge_-_sozialeinrichtu/) in Trachenberge umgezogen war, übernahm eine SS-Sportschule die ehemalige Wollner-Villa, die hier u.a. die Sportausbildung für lokale SS-Einheiten durchführte. Erster Leiter war Walter Vogt, mehrfacher sächsischer Gaumeister im Skisport. Nach 1945 diente die Villa bis 1990 als Wohnheim der Pädagogischen Hochschule. Heute befinden sich hier Wohnungen.
 

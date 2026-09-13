@@ -3,7 +3,7 @@ title: "Institut für Gartenbau"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![institut für gartenbau](../../../institut_fur_gartenbau_nlafleurbannerh.gif)
+![institut für gartenbau](institut_fur_gartenbau_nlafleurbannerh.gif)
 
 * * *
 
@@ -39,6 +39,6 @@ Obstzüchtung, das Institut für Pflanzengenetik und Kulturpflanzenforschung mit
 in Deutschland einmaliges Forschungszentrum, für das 1997/99 einige Neubauten an der Lohmener Straße entstanden. Für das denkmalgerecht sanierte und umgebaute Hörsaalzentrum am Pillnitzer Platz erhielten die Architekten
 1999 den Erlweinpreis der Stadt Dresden verliehen. Auch der historische Gewächshauskomplex Pillnitzer Kreuz wurde in den letzten Jahren saniert.
 
-![](../../../pillnkammergut.jpg)
+![](pillnkammergut.jpg)
 
 **_Foto:_** _Das Kammergut Pillnitz - Keimzelle der Gartenbautradition des Ortes_

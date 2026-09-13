@@ -3,7 +3,7 @@ title: "Pillnitzer Landstraße"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![pillnitzer landstraße](../../../../pillnitzer_landstrasse_n1_banner2.gif)
+![pillnitzer landstraße](pillnitzer_landstrasse_n1_banner2.gif)
 
 * * *
 
@@ -105,7 +105,7 @@ abgerissen werden. Weitere Gebäude verschwanden zum Teil hinter hohen Aufschüt
 Maulbeerallee zwischen Wachwitz und Niederpoyritz, welche jedoch beim Bau der Straßenbahn durch eine Hecke zur Elbseite ersetzt wurde. Um die Ruhe des Ortes nicht zu
 gefährden, galt noch bis 1929 ein Sonntagsfahrverbot auf dieser Straße.
 
-![](../../../../wachwpillnitzerland93.jpg)Erstes Gebäude auf Wachwitzer Flur ist das frühere Winzerhaus des Schlosserberges
+![](wachwpillnitzerland93.jpg)Erstes Gebäude auf Wachwitzer Flur ist das frühere Winzerhaus des Schlosserberges
 (Nr. 93 - _Foto_). Deutlich ist hier noch der alte, beim Straßenbau teilweise verschüttete Eingang zu erkennen. Auch das Gebäude Nr. 123 stammt noch aus der Zeit des
 Wachwitzer Weinbaus und gehört zu den ältesten Häusern des Ortes. Hier befand sich einst eine Weinpresse. Weitere Gebäude mußten um 1900 Landhäusern und Villen
 weichen. Erwähnt werden sollen die Häuser Nr. 111 mit Dachreiter (Hildes Heim), Nr. 115 (Villa Johanna), Nr. 141 (1913 von Emil Wägner), Nr. 147 (Villa Frieda),
@@ -173,7 +173,7 @@ Nr. 156: Das Anwesen bestand ursprünglich aus einem Wohnhaus, einem Nebengebäu
 Teile dieses Gutes entstanden bereits um 1684. Ab 1761 befand es sich im Besitz der Familie Patzig, danach seit 1864
 der Familie Neumann. Bis 1928 nutzten es die Besitzer noch für landwirtschaftliche Zwecke, bevor hier die Baufirma Reinhold Gierth einzog. Das frühere Stallgebäude dient heute als Vereinshaus des Segelclubs Wachwitz.
 
-![](../../../../wachwitzh_he.jpg)Gasthaus Wachwitzhöhe: Das Lokal entstand um 1870 am Wachwitzer Elbhang
+![](wachwitzh_he.jpg)Gasthaus Wachwitzhöhe: Das Lokal entstand um 1870 am Wachwitzer Elbhang
 (Pillnitzer Landstraße 159) und war von einem weitläufigen Park umgeben. Der Turm diente einst als Aussichtspunkt für die Gäste. Außerdem bestand eine Reitertreppe, die
 zu einer kleinen Grotte führte. Besitzer war der Dresdner Gastronom Carl August Schüttel, weshalb der Volksmund die Restauration auch Schüttelhöhenannte. Ihm
 folgten mehrere Pächter, denen jedoch kein Erfolg beschieden war. Bereits 1888 mußte die Wachwitzhöhe wieder schließen und diente fortan als Wohnhaus..

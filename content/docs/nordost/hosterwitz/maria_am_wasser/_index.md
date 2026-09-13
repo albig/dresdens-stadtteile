@@ -3,7 +3,7 @@ title: "Maria am Wasser"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![maria am wasser](../../../maria_am_wasser_nlafleurbannerh.gif)
+![maria am wasser](maria_am_wasser_nlafleurbannerh.gif)
 
 * * *
 

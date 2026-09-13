@@ -3,7 +3,7 @@ title: "Goldene Krone"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![goldene krone](../../../../../goldene_krone_nlafleurbannerh.gif)
+![goldene krone](goldene_krone_nlafleurbannerh.gif)
 
 * * *
 

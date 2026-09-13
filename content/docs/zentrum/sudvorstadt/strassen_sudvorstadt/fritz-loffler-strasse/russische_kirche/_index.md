@@ -3,7 +3,7 @@ title: "Russische Kirche"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![russisch-orthodoxe kirche](../../../../../russische_kirche_nlafleurbannerh.gif)
+![russisch-orthodoxe kirche](russische_kirche_nlafleurbannerh.gif)
 
 * * *
 

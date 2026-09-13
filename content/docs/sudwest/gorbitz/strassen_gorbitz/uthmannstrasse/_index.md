@@ -3,7 +3,7 @@ title: "Uthmannstraße"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![uthmannstraße](../../../../uthmannstrasse_n1_banner2.gif)
+![uthmannstraße](uthmannstrasse_n1_banner2.gif)
 
 * * *
 

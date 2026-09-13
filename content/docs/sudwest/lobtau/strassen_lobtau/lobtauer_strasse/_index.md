@@ -3,7 +3,7 @@ title: "Lobtauer Straße"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![löbtauer straße](../../../../lobtauer_strasse_n1_banner2.gif)
+![löbtauer straße](lobtauer_strasse_n1_banner2.gif)
 
 * * *
 
@@ -64,11 +64,11 @@ entstand hier mit dem Heaven 07 Dresdens erstes offiziell genehmigtes Bordel
 Sommer 1998 zwangsweise geräumt und die Gebäude Ende 2010 abgerissen. 2013 wurde auf dem Grundstück die
 temporäre Kunstinstallation Fahrtwindkino mit bedruckten Bildtafeln aufgestellt, die an das ehemals hier verlaufende Weißeritzbett erinnern. Gestaltet wurde das Projekt vom Büro Storch.Landschaftsarchitektur.
 
-![](../../../../l_btaufahrtwindkino.jpg)
+![](l_btaufahrtwindkino.jpg)
 
 **_Foto:_** _Kunstinstallation Fahrtwindkino an der Löbtauer Straße 29_
 
-![](../../../../l_btaupflegeheim.jpg)Stadtkrankenhaus Löbtauer Straße (Nr. 31/33): Bereits 1861 wurde im
+![](l_btaupflegeheim.jpg)Stadtkrankenhaus Löbtauer Straße (Nr. 31/33): Bereits 1861 wurde im
 ehemaligen Gemeindehaus Löbtau eine Städtische Pflegeeinrichtung für geistig  und körperlich Behinderte mit 55 Betten eingerichtet. 1888 entstand auf einem
 Grundstück an der Löbtauer Straße das spätere Stadtkrankenhaus als Städtisches Irren- und Siechenhaus, welches ein Jahr später mit der Abteilung
 für Geisteskranke des Friedrichstädter Krankenhauses fusionierte. Infolge des Bevölkerungswachstums der Stadt und der daraus resultierenden Zunahme an
@@ -86,7 +86,7 @@ sollen künftig saniert und als altersgerechte Wohnungen vermietet werden. 2014 
 
 Nach 1945 nutzte das volkseigene Verkehrskombinat Dresden das Grundstück an der Löbtauer Straße 45. U.a. war hier bis 1990 die Fahrschule des VEB Taxi und Fahrschule untergebracht.
 
-![](../../../../l_btaualpensch_nke.jpg)
+![](l_btaualpensch_nke.jpg)
 Alpenschänke: Das Gebäude Löbtauer Straße 56 entstand im 19. Jahrhundert direkt auf der Stadtgrenze zwischen Dresden und Löbtau und diente als Akzisehaus zur Erhebung kommunaler Abgaben _(Foto)_
 . Im Nebenerwerb betrieben die Pächter eine kleine Gastwirtschaft, die ihren ungewöhnlichen Namen vermutlich wegen des langen Anstieges bis zu diesem Punkt erhielt. Im Volksmund war die
 Schänke als Pumphäuschen bekannt, da sich die Fuhrleute hier oft Geld zur Bezahlung der Einfuhrzölle pumpen mussten. Hier befand sich auch eine
@@ -105,7 +105,7 @@ Dampfdruck gefertigtes Kakaopulver, welches sich leichter als herkömmliche Prod
 auch Makkaroni und Waffelgebäck zum Herstellungsprogramm. Um 1910 zählte die Firma fast 500 Beschäftigte. Beim Bombenangriff auf Dresden wurde die Schokoladenfabrik zerstört, womit die Geschichte des Unternehmens endete.
 
 
-![](../../../../l_btaugewerbezentrum.jpg)Gründer - und Gewerbezentrum:
+![](l_btaugewerbezentrum.jpg)Gründer - und Gewerbezentrum:
 Das moderne Bürogebäude Löbtauer Straße 67 _(Foto)_ entstand 1999 auf dem Gelände des früheren Motorenwerkes unmittelbar an der [Weißeritzbrücke](../../../../sudwest/lobtau/strassen_lobtau/lobtauer_brucken/). Zuvor war das Grundstück bis 1934 von einer
 Schokoladenfabrik, danach bis 1991 von einem Zweigbetrieb des Sachsenwerkes zur Herstellung von Elektromaschinen genutzt worden. Hier haben heute zahlreiche
 klein- und mittelständische Unternehmen aus dem Bereich Handwerk und Gewerbe ihren Sitz. Die angrenzende weißeritzbrücke wurde nach dem Hochwasser von 2002 durch einen Neubau ersetzt und die Uferzone neu gestaltet.
@@ -130,14 +130,14 @@ eröffnet. Hier können Dresdner Bands und Einzelmusiker Probenräume für ihre 
 Nr. 81  / 83: Das viergeschossige Doppelwohnhaus entstand Ende des 19. Jahrhunderts und blieb im Gegensatz zu
 zahlreichen Wohngebäuden der Umgebung bis Ende der 1980er Jahre erhalten. Im Zuge der Verlängerung der Nossener Brücke und dem Bau der Hochstraße wurde der Bau am 20. September 1992 gesprengt.
 
-![flußstraße](../../../../a_rectangle_553.gif)
+![flußstraße](a_rectangle_553.gif)
 
 Die Flußstraße wurde im Zusammenhang mit dem Ausbau des Industriegebietes zwischen Löbtauer und Freiberger Straße
 angelegt. 1871 erhielt sie ihren Namen nach der nahegelegenen Weißeritz, die 1893 ihr neues Bett in Richtung Cotta erhielt.
 Die ersten Wohngebäude an der Flußstraße wurden zwischen 1859 und 1862 durch den Cottaer Zimmermann Deckow für
 die Arbeiter der Vorstadt errichtet. Die Straße wird heute nicht mehr namentlich benannt, ist in ihrer Anlage jedoch noch erhalten.
 
-![hirschfelder straße](../../../../a_rectangle_554.gif)
+![hirschfelder straße](a_rectangle_554.gif)
 
 Die Straße erhielt 1883 den Namen Siemensstraße, der an den Techniker und Unternehmer Friedrich August Siemens
 (1826-1904) erinnerte. Die Familie Siemens war Inhaber des im 19. Jahrhunderts entstandenen [Löbtauer Glaswerk](../../../../zentrum/wilsdruffer_vorstadt/freiberger_strasse/glaswerk_lobtau/) in

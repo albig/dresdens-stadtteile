@@ -3,7 +3,7 @@ title: "Saloppe"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![saloppe](../../../../saloppe_nlafleurbannerh.gif)
+![saloppe](saloppe_nlafleurbannerh.gif)
 
 * * *
 

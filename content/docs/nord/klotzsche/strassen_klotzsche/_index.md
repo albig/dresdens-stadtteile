@@ -3,7 +3,7 @@ title: "Straßen Klotzsche"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![straßen und plätze in klotzsche](../../../strassen_klotzsche_n1_banner2.gif)
+![straßen und plätze in klotzsche](strassen_klotzsche_n1_banner2.gif)
 
 * * *
 
@@ -93,7 +93,7 @@ ausgestatteten Doppelhäuser wurden anfangs bevorzugt an Kriegsversehrte des Ers
 Die heutige Straße wurde erstmals 1897 im Klotzscher Adressbuch aufgeführt und trug damals den Namen Forststraße. Grund war
 die Lage der Straße am Rande der Dresdner Heide. Im September 1953 erfolgte die Umbenennung in Am Waldblick.
 
-![](../../../am_wasserwerk.jpg)
+![](am_wasserwerk.jpg)
 
 Die Straße Am Wasserwerk wurde 2005 im Zusamenhang mit dem Bau einer neuen Wohnsiedlung angelegt. Der Name erinnert an das frühere Klotzscher [Wasserwerk](../../../nord/klotzsche/), welches 1899 von Baurat Salbach an der Königsbrücker Landstraße errichtet worden war. In
 der Nachkriegszeit wurde der Betrieb stillgelegt. Bis 2009 entstanden hier insgesamt 24 Einfamilien- und Doppelhäuser der Siedlung Wohnerlebnis am Königswald.

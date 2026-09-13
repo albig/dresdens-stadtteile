@@ -3,7 +3,7 @@ title: "Grossenhainer Straße"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![großenhainer straße](../../../grossenhainer_strasse_n1_banner2.gif)
+![großenhainer straße](grossenhainer_strasse_n1_banner2.gif)
 
 * * *
 

@@ -3,7 +3,7 @@ title: "Volkspark Räcknitz"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-![volkspark räcknitz](../../../volkspark_racknitz_nurbanlegendbannerh.gif)
+![volkspark räcknitz](volkspark_racknitz_nurbanlegendbannerh.gif)
 
 * * *
 

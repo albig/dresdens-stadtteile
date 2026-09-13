@@ -3,7 +3,7 @@ title: "Zur Eule"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![gasthaus ](../../../../../zur_eule_nlafleurbannerh.gif)
+![gasthaus ](zur_eule_nlafleurbannerh.gif)
 
 * * *
 

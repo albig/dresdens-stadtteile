@@ -3,7 +3,7 @@ title: "Johannisfriedhof"
 date: 2024-02-17T22:13:39+01:00
 ---
 
-![johannisfriedhof](../../../johannisfriedhof_nlafleurbannerh.gif)
+![johannisfriedhof](johannisfriedhof_nlafleurbannerh.gif)
 
 * * *
 

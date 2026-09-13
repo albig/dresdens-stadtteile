@@ -3,7 +3,7 @@ title: "Loschwitzer Friedhof"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![loschwitzer friedhof](../../../../loschwitzer_friedhof_nlafleurbannerh.gif)
+![loschwitzer friedhof](loschwitzer_friedhof_nlafleurbannerh.gif)
 
 * * *
 

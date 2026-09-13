@@ -3,7 +3,7 @@ title: "Pfarrei"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![pfarrei ](../../../pfarrei__heilige_familie__nlafleurbannerh.gif)
+![pfarrei ](pfarrei__heilige_familie__nlafleurbannerh.gif)
 
 * * *
 
@@ -38,7 +38,7 @@ geweiht wurde _(Foto)_. Ein Großteil der Arbeiten wurde dabei von den Gemeindem
 
 
 
-[![](../../../christlicheschule.jpg)](http://www.cs-dresden.de)
+[![](christlicheschule.jpg)](http://www.cs-dresden.de)
 
 * * *
 

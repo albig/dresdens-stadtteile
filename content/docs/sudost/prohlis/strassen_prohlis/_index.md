@@ -3,7 +3,7 @@ title: "Straßen Prohlis"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![straßen und plätze in prohlis](../../../strassen_prohlis_n1_banner2.gif)
+![straßen und plätze in prohlis](strassen_prohlis_n1_banner2.gif)
 
 * * *
 
@@ -53,7 +53,7 @@ Hellerau bebaut. Die Entwürfe für die aus fünfzig Doppelhäusern bestehende S
 kinderreiche Familien verkauft. 1945 fiel die Siedlung mit Ausnahme eines einzigen Hauses den Bomben zum Opfer. Ab 1950 wurden die zerstörten Gebäude durch massive
 Eigenheime ersetzt. Das letzte erhaltene Holzhaus am Zeisigweg wurde nach 1990 denkmalgerecht saniert.
 
-![](../../../berzdorfer_stra_e.jpg)
+![](berzdorfer_stra_e.jpg)
 
 Die Berzdorfer Straße entstand in den 1980er Jahren im nördlichen Teil des Neubaugebietes Prohlis. Ihren Namen erhielt sie nach
 dem Dorf Berzdorf auf dem Eigen bei Görlitz. Der Ort, der bereits 1963 als Ortsteil zur Gemeinde Schönau-Berzdorf kam, fiel 1969 dem Braunkohleabbau zum Opfer. An seiner Stelle befindet sich heute der Berzdorfer See.
@@ -76,7 +76,7 @@ Der 1927 nach einer Vogelart benannte Drosselweg liegt in einem kleinen Wohngebi
 wurde. Ursprünglich gab es hier vorwiegend Holzhäuser der Niedersedlitzer Firma Höntsch & Co. und der Deutschen Werkstätten
 Hellerau. Mit Ausnahme eines Doppelhauses am Zeisigweg fielen alle Gebäude dem Luftangriff zum Opfer. Auf den Fundamenten entstanden ab 1950 neue Wohnhäuser, nun jedoch in Massivbauweise.
 
-![elsterwerdaer straße](../../../a_rectangle_960.gif)
+![elsterwerdaer straße](a_rectangle_960.gif)
 
 Die Elsterwerdaer Straße entstand Anfang der 1980er Jahre im Zusammenhang mit dem Prohliser Neubaugebiet und erhielt ihren Namen nach der brandenburgischen Kleinstadt Elsterwerda. Im Zusammenhang mit der städtebaulichen Neuordnung des Areals wurde der zehngeschossige Plattenbau Elsterwerdaer Straße 1-7 2005 zugunsten einer Grünfläche abgerissen. Ein am Giebel befindliches Wandbild Mutter und Kind des Dresdner Künstlers Siegfried Schade konnte geborgen und für eine Wiederverwendung an anderer Stelle eingelagert werden. Das Kunstwerk entstand zwischen 1975 und 1979 aus 30 einzelnen Platten und stellt ein bedeutendes Zeugnis der architekturbezogenen Kunst der DDR dar.
 

@@ -3,7 +3,7 @@ title: "Ev.-Methodistische Friedenskirche"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![ev.-methodistische friedenskirche](../../../ev_-methodistische_friedenskir_nlafleurbannerh.gif)
+![ev.-methodistische friedenskirche](ev_-methodistische_friedenskir_nlafleurbannerh.gif)
 
 * * *
 

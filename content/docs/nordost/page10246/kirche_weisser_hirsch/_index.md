@@ -3,7 +3,7 @@ title: "Kirche Weißer Hirsch"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![kirche weißer hirsch](../../../kirche_weisser_hirsch_nlafleurbannerh.gif)
+![kirche weißer hirsch](kirche_weisser_hirsch_nlafleurbannerh.gif)
 
 * * *
 
@@ -42,7 +42,7 @@ _Der Kirchturm um 1930 und 2021_
 
 Auf Initiative dieser Vereinigung fanden ab 1877 erstmals Gottesdienste in einem Schulzimmer auf der Luboldtstraße statt, deren Leitung der Loschwitzer Pfarrer übernahm. 1888 gründete sich unter Vorsitz des herzoglich-braunschweigschen Majors und Kammerherren von Unger ein "Verein für kirchliche Angelegenheiten in Weißer Hirsch". Im gleichen Jahr stellte Nikolaus Stange bei der Kreishauptmannschaft einen Antrag zur Errichtung eines Betsaales an der Mittelstraße (heute Stangestraße). Das benötigte Grundstück wurde von den Erben Küntzelmanns kostenlos zur Verfügung gestellt. Am 24. November 1888 wurde der Grundstein für das evangelische Gotteshaus gelegt.
 
-![](../../../weihievkirchealt.jpg)Das ca. 200 Personen fassende Gebäude wurde teilweise aus Holz errichtet, wobei der Legende nach die berühmte Kirche Wang im Riesengebirge Pate stand. Jüngere Forschungen können das jedoch nicht bestätigen, da erhebliche konstruktive Unterschiede zwischen beiden Bauten bestehen. Architekt der neuen Kirche war der Baumeister Franz Richard Schaeffer. Die Kirche Weißer Hirsch wurde am 14. Juli 1889 eingeweiht und blieb zunächst Filialkirche von Loschwitz. Erst am 1. April 1897 wurde der Weiße Hirsch eine eigenständige Kirchgemeinde. Im gleichen Jahr erwarb die junge Gemeinde ein Stück Heidewald, um hier einen eigenen [Friedhof](../../../nordost/page10246/waldfriedhof_weisser_hirsch/) anzulegen. Eine katholische Kapelle folgte mit der heutigen [Hubertuskirche](../../../nordost/page10246/hubertuskirche/) im Jahr 1937.
+![](weihievkirchealt.jpg)Das ca. 200 Personen fassende Gebäude wurde teilweise aus Holz errichtet, wobei der Legende nach die berühmte Kirche Wang im Riesengebirge Pate stand. Jüngere Forschungen können das jedoch nicht bestätigen, da erhebliche konstruktive Unterschiede zwischen beiden Bauten bestehen. Architekt der neuen Kirche war der Baumeister Franz Richard Schaeffer. Die Kirche Weißer Hirsch wurde am 14. Juli 1889 eingeweiht und blieb zunächst Filialkirche von Loschwitz. Erst am 1. April 1897 wurde der Weiße Hirsch eine eigenständige Kirchgemeinde. Im gleichen Jahr erwarb die junge Gemeinde ein Stück Heidewald, um hier einen eigenen [Friedhof](../../../nordost/page10246/waldfriedhof_weisser_hirsch/) anzulegen. Eine katholische Kapelle folgte mit der heutigen [Hubertuskirche](../../../nordost/page10246/hubertuskirche/) im Jahr 1937.
 
 Ursprünglich bestand die kleine Kirche aus einem rechteckigen Bau mit drei Fensterachsen und einer kleinen Apsis an der Nordseite _(Foto rechts)_. Der Eingang war durch einen hölzernen Vorbau vor Witterungseinflüssen geschützt. Darüber befand sich ein rundes Glasfenster, über diesem in einer Nische eine Büste
 Martin Luthers. Statt eines Glockenturmes besaß sie zunächst nur einen kleinen Dachreiter. Das Innere war mit verschiedenen Ornamentmalereien verziert. Die Ausstattung bestand aus einem schlichten Altartisch mit Kruzifix und einer Kanzel in der rechten vorderen Ecke. Interessant ist die bis heute erhaltene, sichtbare Deckenkonstruktion im Kirchsaal mit ihren freiliegenden Holzbalken.

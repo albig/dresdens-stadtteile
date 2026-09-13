@@ -3,7 +3,7 @@ title: "Leonhardi-Museum"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![leonhardi-museum](../../../../../leonhardi-museum_nlafleurbannerh.gif)
+![leonhardi-museum](leonhardi-museum_nlafleurbannerh.gif)
 
 * * *
 

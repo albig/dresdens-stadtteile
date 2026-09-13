@@ -3,7 +3,7 @@ title: "Hermann-Seidel-Park"
 date: 2024-02-17T22:13:39+01:00
 ---
 
-![hermann-seidel-park](../../../../../hermann-seidel-park_nurbanlegendbannerh.gif)
+![hermann-seidel-park](hermann-seidel-park_nurbanlegendbannerh.gif)
 
 * * *
 

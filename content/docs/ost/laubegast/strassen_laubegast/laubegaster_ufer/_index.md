@@ -3,7 +3,7 @@ title: "Laubegaster Ufer"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![laubegaster ufer](../../../../laubegaster_ufer_n1_banner2.gif)
+![laubegaster ufer](laubegaster_ufer_n1_banner2.gif)
 
 * * *
 

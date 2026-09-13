@@ -3,7 +3,7 @@ title: "Schloss Lockwitz"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![schloss lockwitz](../../../schloss_lockwitz_nlafleurbannerh.gif)
+![schloss lockwitz](schloss_lockwitz_nlafleurbannerh.gif)
 
 * * *
 
@@ -36,7 +36,7 @@ date: 2024-02-17T22:13:42+01:00
 
 In diesem Jahr wurde zunächst Niederlockwitz an Geheimrat Gotthelf Friedrich von Schönberg verkauft. Zwei Jahre später folgte Nickern. 1692 erwarb Schönberg auch das überschuldete Rittergut Oberlockwitz. Zwischen 1699 und 1702 ließ er umfassende Erneuerungsarbeiten an Schloss und Gutsgebäuden vornehmen. Weitere Umbauten erfolgten um 1770 unter Johann Friedrich Graf von Dallwitz. Von 1785 bis 1800 gehörten Schloss und Herrschaft Carl Theodor Reichsgraf von Schall.
 
-![](../../../lockwitz_schloss.jpg)Ein prominenter Gast des Schlosses war 1757 der preußische König Friedrich II., der hier während des Siebenjährigen Krieges ab 24. März sein Hauptquartier nahm. Eine Legende besagt, dass Friedrich der Große in Lockwitz Opfer eines Giftanschlages durch seinen Kammerdiener Glasow werden sollte. Nur der Aufmerksamkeit eines Knaben, welcher die Giftmischerei beobachtete und dem König meldete, rettete ihm das Leben. Historisch ist diese Geschichte jedoch nicht verbürgt. In den Befreiungskriegen 1813 befand sich im Schloss ein Lazarett für preußische und russische Soldaten, die im Kampf gegen Napoleon verwundet worden waren.
+![](lockwitz_schloss.jpg)Ein prominenter Gast des Schlosses war 1757 der preußische König Friedrich II., der hier während des Siebenjährigen Krieges ab 24. März sein Hauptquartier nahm. Eine Legende besagt, dass Friedrich der Große in Lockwitz Opfer eines Giftanschlages durch seinen Kammerdiener Glasow werden sollte. Nur der Aufmerksamkeit eines Knaben, welcher die Giftmischerei beobachtete und dem König meldete, rettete ihm das Leben. Historisch ist diese Geschichte jedoch nicht verbürgt. In den Befreiungskriegen 1813 befand sich im Schloss ein Lazarett für preußische und russische Soldaten, die im Kampf gegen Napoleon verwundet worden waren.
 
 ![](../../../sudost/lockwitz/schloss_lockwitz/lockwitzschloss2.jpg)Anfang des 19. Jahrhundertes wechselten mehrfach die Besitzer des Schlosses. Ab 1800 gehörte es für fünf Jahre Johann Sebastian von Wirsing, danach von 1805 bis 1810 Johann Christian Gottlob von Steinhäußer, bevor ein Sequester das überschuldete Rittergut verwaltete. 1833 erwarb Johann Gottlob Preußer das Gebäude mit dem zugehörigen Rittergut. Preußer galt als einer der fortschrittlichsten Adligen seiner Zeit und erließ freiwillig seinen Bauern sämtliche Fron- und Zinsleistungen.
 

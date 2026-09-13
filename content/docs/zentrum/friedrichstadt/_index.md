@@ -160,7 +160,7 @@ Zwischen 1849 und 1875 wurden nach Plänen von Ottomar Glöckner mehrere neue Sc
 an der Institutsgasse trotz dieser Erweiterungen Ende des 19. Jahrhunderts nicht mehr den Anforderungen genügte, wurde das Freimaurerinstitut 1899 nach [Striesen](../../ost/striesen/) verlegt. Heute hat in diesem Gebäude die Kreuzschule ihr Domizil. Die
 früheren Schulgebäude in der Friedrichstadt verfielen wenig später dem Abbruch.
 
-![](../../friedrichstadtfreimaurer.jpg)
+![](friedrichstadtfreimaurer.jpg)
 
 **_Bild:_** _Lehr- und Erziehungsinstitut für Knaben Dresden-Friedrichstadt_
 
