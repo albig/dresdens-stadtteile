@@ -8,13 +8,6 @@ type: "docs"
 
 * * *
 
-
-
-
-
-
-![ortsamt cotta lübecker str. 121 01157 dresden tel. 0351/4885690 ortsamt-cotta@dresden.de  ortschaft gompitz altnossener str. 46a 01156 dresden tel. 0351/4887981 ortschaft-gompitz@dresden.de  ortschaft altfranken tel. 0351/4139232.](../sudwest/daten ortsamt.jpg)
-
 Der Südwesten der Stadt umfasst das Gebiet der Hochflächen oberhalb des Elbtals
 bis zum Plauenschen Grund. Da der mit Lößlehm bedeckte Boden recht fruchtbar war, entstanden hier im 11./12. Jahrhundert zahlreiche kleine Dörfer, deren
 Bewohner vom Ackerbau lebten. Meist waren es slawische Rundweiler, wobei die Ortskerne bis heute zum Teil erhalten geblieben sind. Da die heutige [Kesselsdorfer Straße](../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/) lange Zeit einzige wichtige Verkehrsverbindung in diesem Gebiet war, setzte

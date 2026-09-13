@@ -18,10 +18,6 @@ date: 2024-02-17T22:13:32+01:00
 * * *
 
 
-
-[![](../../nordost/dresdner_heide/heidef_hrungen.jpg)](http://www.kartographia.de)
-
-
 Das rund 50 km² große Waldgebiet der Dresdner Heide im Norden der Stadt nimmt ca. 21 % des Stadtgebietes ein. Ursprünglich war die Heide bedeutend größer und bildete mit dem Moritzburger Friedewald, der
 Laußnitzer Heide und dem Karswald eine geschlossene Waldfläche. Noch 1476 befand sich in den Nähe des heutigen Neustädter Bahnhofes eine kleine Antonius-Kapelle, die damals inmitten des Waldes lag, der sich bis in Höhe
 des Albertplatzes hinzog. Bis zum 12./13. Jahrhundert ging dieser Zusammenhang durch Rodungen und Besiedlung verloren. Weitere Gebiete fielen im 19. Jahrhundert der Abholzung des Hellers und der Anlage der [Albertstadt](../../neustadt/albertstadt/) ab 1873 zum Opfer.

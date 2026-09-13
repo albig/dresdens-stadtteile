@@ -51,7 +51,6 @@ hier Nachrichtentruppen der Reichswehr und der Wehrmacht, nach 1945 Einheiten de
 Die Marie-Curie-Straße im Übigauer Gewerbegebiet an der Scharfenberger Straße Straße erhielt ihren Namen 1995 nach der polnisch-französischen Chemikerin und Physikerin Marie Sklodowska-Curie (1867-1934). Marie Curie
 gilt als eine der Begründerinnen der Radiochemie und entdeckte gemeinsam mit ihrem Mann Pierre das Element Polonium. Für ihre Forschungen erhielt sie 1911 den Nobelpreis.
 
-![mengsstraße](../../../nordwest/ubigau/strassen_ubigau/a_rectangle_1475.gif)
 
 Von 1899 bis zur Eingemeindung Übigaus 1903 wurde diese Straße nach dem
 damals regierenden sächsischen König Albertstraße genannt. Da es diesen Namen jedoch in Dresden mehrfach gab, machte sich eine Umbenennung erforderlich. Ihren
@@ -69,7 +68,6 @@ bezeichnet wird. Neue Wohnhäuser folgten 1964/65 in Ergänzung der vorhandenen 
 
 __
 
-![rauchstraße](../../../nordwest/ubigau/strassen_ubigau/a_rectangle_1337.gif)
 
 Die Rauchstraße bildete früher die Ortsgrenze zwischen Mickten und Übigau und hieß deshalb bis 1903 Grenzstraße. Ihr
 jetziger Name erinnert an den bekannten Bildhauer des Klassizismus Christian Daniel Rauch (1777-1857, der vor allem in Berlin tätig war und 1857 in Dresden verstarb.
@@ -101,17 +99,14 @@ Haupteingang angebrachtes Kreuz, welches sich ursprünglich auf dem Kaditzer Sch
 Die Schwindstraße wurde 1900 als Gartenstraße angelegt und 1903 nach dem romantischen Maler und Zeichner Moritz von
 Schwind (1804-1871) benannt. Schwind schuf zahlreiche Zeichnungen und Gemälde mit Motiven aus der Märchen- und Sagenwelt. Auf ihn geht auch die Figur des Weihnachtsmannes mit weißem Bart, Rute und Geschenkesack zurück.
 
-![tauberthstraße](../../../nordwest/ubigau/strassen_ubigau/a_rectangle_1334.gif)
 
 Die Tauberthstraße wurde 1996 im neuen Gewerbegebiet Übigau angelegt. Otto Volkmar Tauberth (1816-1871) war als Eisenbahn-Maschinenbauingenieur einer der engsten Mitarbeiter Andreas Schuberts und wirkte an der Übigauer
 Maschinenbauanstalt. Tauberth wurde später Maschinenmeister der ersten deutschen Fernbahn und war zeitweise auch Vorsitzender des Dresdner Gewerbevereins.
 
-![thäterstraße](../../../nordwest/ubigau/strassen_ubigau/a_rectangle_1333.gif)
 
 Die Thäterstraße erhielt ihren Namen 1904 nach dem früheren Zeichenlehrer an der Dresdner Kunstakademie Julius Thäter
 (1804-1870), der seine letzten Lebensjahre in München verbrachte. Zuvor hieß die Straße Schulstraße, da sich hier seit 1897 das Übigauer [Schulhaus](../../../nordwest/ubigau/) befand.
 
-[![washingtonstraße](../../../nordwest/ubigau/strassen_ubigau/a_rectangle_1330.gif)](../../../nordwest/ubigau/strassen_ubigau/washingtonstrasse/)
 
 ![werftstraße](../../../nordwest/ubigau/strassen_ubigau/a_rectangle_1332.gif)
 
