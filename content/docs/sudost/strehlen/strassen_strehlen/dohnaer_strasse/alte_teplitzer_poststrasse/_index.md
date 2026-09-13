@@ -34,7 +34,6 @@ verläßt und als Alte Landstraße nach Dohna führt. Von den einst sechs vorhan
 
 
 
-[![](../../../../../werbunglang.jpg)](../../../../../Impressum/Werbung/werbung.html)
 
 
 

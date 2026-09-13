@@ -162,7 +162,6 @@ Nr. 409: Das einstöckige Gebäude, vorletztes Haus vor der Stadtgrenze zu Dohna
 
 
 
-[![](../../../../werbunglang2.jpg)](../../../../Impressum/Werbung/werbung.html)
 
 
 

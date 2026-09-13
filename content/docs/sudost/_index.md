@@ -9,17 +9,6 @@ type: "docs"
 * * *
 
 
-
-
-* * *
-
-
-[![](../dresden-lexikon.jpg)](http://www.dresden-lexikon.de)
-
-**Private Homepage von Siegmar Baumgärtel**
-
-
-
 ![ortsamt prohlis (im prohlis-zentrum) prohliser allee 10 01239 dresden  tel. 0351/488 84 44 ortsamt-prohlis@dresden.de](../sudost/a_rectangle_1.gif)Der Südraum des Elbtales wurde bereits zwischen dem 1. und 5. Jh. von den Stämmen
 der Elbgermanen besiedelt. Bevorzugte Wohnplätze lagen im Tal des Kaitzbaches und in der Umgebung des auch im Winter eisfreien Heiligen Borns in Leubnitz.
 Frühgeschichtliche Funde wurden auch in Mockritz und im Raum Leubnitz/Goppeln an der Friebelstraße gemacht. Nach Abwanderung der Germanen rückten slawische Völker
