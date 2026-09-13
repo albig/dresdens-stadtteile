@@ -6,22 +6,7 @@ date: 2024-02-17T22:13:35+01:00
 
 * * *
 
-
-
-
-* * *
-
-
-
-* * *
-
-[![](../../dresden-lexikon.jpg)](http://www.dresden-lexikon.de)
-
-**Homepage von Siegmar Baumgärtel**
-
-
-
-![ortschaft schönfeld-weißig bautzner landstr. 291 01328 dresden-weißig  tel. 0351/4 88 79 01  ortschaft-schoenfeld-weissig@ dresden.de](../../nordost/schonfeld-weissig/a_rectangle_284.gif)Das Schönfelder Hochland, früher auch als Pillnitzer Elbgebirge bezeichnet,
+Das Schönfelder Hochland, früher auch als Pillnitzer Elbgebirge bezeichnet,
 war bereits in der Bronzezeit besiedelt, worauf eine 1854 entdeckte Kultstätte hinweist. Unter Leitung des Archäologen Preusker wurden in der Nähe von
 Weißig über 400 Fundstücke geborgen, die den Platz zu einer der größten bronzezeitlichen Ausgrabungsfelder in Sachsen machten. Die seit dem 6. Jahrhundert hier lebenden Slawen errichteten zum Schutz ihrer Dörfer einige
 Befestigungsanlagen, so auf dem Hutberg und dem Borsberg. Nach Gründung der Burg Meißen im Jahr 929 begann die schrittweise Inbesitznahme des rechtselbischen Gebietes durch deutsche Bauern. Um 1150 entstanden so

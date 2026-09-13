@@ -9,23 +9,7 @@ type: "docs"
 
 * * *
 
-
-
-
-* * *
-
-
-* * *
-
-[![](../dresden-lexikon.jpg)](http://www.dresden-lexikon.de)
-
-**Private Homepage von Siegmar Baumgärtel**
-
-* * *
-
-
-
-![ortsamt klotzsche kieler straße 52 01109 dresden  tel. 0351/4886501 ortsamt-klotzsche@dresden.de *** ortschaft weixdorf weixdorfer rathausplatz 2 01108 dresden  tel. 0351/8883611 ortschaft-weixdorf@dresden.de *** ortschaft langebrück/schönborn weißiger str. 5 01465 langebrück  tel. 035201/8160 ortschaft-langebrueck@dresden.de](../nord/a_rectangle_864.gif)Zu den nördlichen Stadtteilen Dresdens gehören die oberhalb der Hellerterrasse
+Zu den nördlichen Stadtteilen Dresdens gehören die oberhalb der Hellerterrasse
 gelegenen Orte Klotzsche, Rähnitz, Hellerau und Wilschdorf sowie die Ortschaften Weixdorf, Langebrück und Schönborn. Bis in jüngste Vergangenheit blieben diese
 Gebiete durch den Heller von der Stadt räumlich getrennt. Die weitgehend unbesiedelten Hellerberge wurden früher als militärische Übungsplätze genutzt und
 blieben so unbebaut. Wichtigste  Straßenverbindungen zur Stadt sind die [Königsbrücker Landstraße](../nord/klotzsche/strassen_klotzsche/konigsbrucker_landstrasse/)

@@ -7,27 +7,9 @@ type: "docs"
 ---
 
 
-
-
 * * *
 
-
-
-
-* * *
-
-
-* * *
-
-[![www.autoteiledirekt.de](../nordost/autoteile 150x49.jpg)](http://www.autoteiledirekt.de/)
-
-[![](../dresden-lexikon.jpg)](http://www.dresden-lexikon.de)
-
-**Homepage von Siegmar Baumgärtel**
-
-
-
-![ortsamt loschwitz grundstraße 3 01326 dresden  tel. 0351/4 88 85 01 ortsamt-loschwitz@dresden.de  ***  ortschaft schönfeld-weißig bautzner str. 3 01328 dresden-weißig  tel. 0351/44 48 73 02 ortschaft-schoenfeld-weissig@ dresden.de](../a_rectangle_2.gif)Zu den nordöstlichen Stadtteilen gehören die am Rande der Dresdner Heide
+Zu den nordöstlichen Stadtteilen gehören die am Rande der Dresdner Heide
 gelegenen Ortschaften Bühlau, Rochwitz und Weißer Hirsch, die Elbdörfer zwischen Loschwitz und Pillnitz sowie die Orte des Schönfelder Hochlandes. Noch um das
 Jahr 1000 bildete die Dresdner Heide mit den Wäldern um Moritzburg und Königsbrück, dem Karswald und der Massenei ein zusammenhängendes und weitgehend unbewohntes Waldgebiet. Am Rande existierten einige kleine Dörfer,
 die von Slawen, später auch von deutschen Siedlern bewohnt wurden und vor allem von der Waldwirtschaft lebten. Mit der zunehmenden Besiedlung wurde der
