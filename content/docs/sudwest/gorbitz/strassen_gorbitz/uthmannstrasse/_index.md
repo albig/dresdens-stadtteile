@@ -65,7 +65,6 @@ Nach 1990 konnte das Herrenhaus des früheren Kammergutes rekonstruiert werden u
 
 __
 
-[![](../../../../werbunglang2.jpg)](../../../../Impressum/Werbung/werbung.html)
 
 
 

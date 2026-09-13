@@ -37,7 +37,6 @@ zeitweise ein Studentenwohnheim. Das nach der Wende geschlossene und zuletzt lee
 
 __
 
-![](../../../../werbunglang2.jpg)
 
 
 

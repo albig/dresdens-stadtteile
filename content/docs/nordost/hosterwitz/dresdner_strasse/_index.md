@@ -154,7 +154,6 @@ war Fuchs durch seine Hochzeit mit Marie Julie Brandt mit den Eigentümern des L
 
 
 
-[![](../../../werbunglang2.jpg)](../../../Impressum/Werbung/werbung.html)
 
 
 

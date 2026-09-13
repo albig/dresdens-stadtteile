@@ -78,7 +78,6 @@ ursprünglichen Standort eine Gedenktafel an die historischen Zusammenhänge eri
 Der Name Am Wetterbusch erinnert an einen alten Flurnamen, der 1825 als Wetterbüschgen erwähnt wurde. Das Wäldchen wurde zuvor auch als Pfarrbusch bezeichnet, da es sich im Besitz des Unkersdorfer Pfarrers befand. 1813
 brannten napoleonische Soldaten den Pfarrbusch teilweise nieder. Von der Anhöhe bietet sich ein schöner Blick über Unkersdorf und seine Umgebung.
 
-[![](../../../../werbunglang.jpg)](../../../../Impressum/Werbung/werbung.html)
 
 ![drei-häuser-weg](../../../../sudwest/gompitz/pennrich/strassen_gompitz/a_rectangle_438.gif)
 
@@ -162,7 +161,6 @@ Dorfkern des Gompitzer Ortsteils [Ockerwitz](../../../../sudwest/gompitz/ockerwi
 einzelnen Gehöften zu erkennen. Die Drei-und Vierseithöfe erhielten ihre heutiges Aussehen im 19. Jahrhunderts und stehen heute unter Denkmalschutz. An einigen Gebäuden, so an den Höfen  Nr. 1 _(Foto)_
 und Nr. 9 haben sich Inschriftentafeln mit den Initialien der Besitzer und dem Baujahr erhalten.
 
-[![](../../../../werbunglang.jpg)](../../../../Impressum/Werbung/werbung.html)
 
 ![oskar-maune-straße](../../../../sudwest/gompitz/pennrich/strassen_gompitz/a_rectangle_432.gif)
 

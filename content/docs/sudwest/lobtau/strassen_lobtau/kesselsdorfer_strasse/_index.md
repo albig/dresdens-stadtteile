@@ -217,7 +217,6 @@ Straßenbahn bis zur Gleisschleife in Pennrich. Unterhalb der Gleistrasse entsta
 
 
 
-[![](../../../../werbunglang2.jpg)](../../../../Impressum/Werbung/werbung.html)
 
 
 

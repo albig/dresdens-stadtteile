@@ -49,7 +49,6 @@ zwischen 1927 und 1933 war jedoch der nördliche Teil der heutigen Elbhangstraß
 Siedlung Domlitz, welche jedoch zur Wüstung wurde. Im Laufe der Zeit wandelte sich dieser Name zu Tummelse und ging später auf die wenigen Häuser am heutigen Daheimweg über. Die Freifläche zwischen dem alten Dorfkern und der
 Villensiedlung wurde ab 1993 mit einer neuen Wohnsiedlung bebaut.
 
-[![](../../../../werbunglang.jpg)](../../../../Impressum/Werbung/werbung.html)
 
 ![an der autobahn](../../../../a_rectangle_312.gif)
 
@@ -92,7 +91,6 @@ den Namen Mobschatzer Meßweg. 1886 erfolgte im unteren Teil der Ausbau zur Stra
 
 Die Straße Lößnitzblick, direkt am Elbhang gelegen, erhielt ihren Namen nach dem Blick auf die gegenüberliegenden Lößnitzhänge in Radebeul. Sie wurde 1926/27 angelegt und mit Siedlungshäusern bebaut.
 
-[![](../../../../werbunglang.jpg)](../../../../Impressum/Werbung/werbung.html)
 
 ![martin-luther-ring](../../../../a_rectangle_313.gif)
 

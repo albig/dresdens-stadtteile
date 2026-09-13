@@ -101,7 +101,6 @@ Lauschenbachmühle (Nr. 470): Auf diesem Grundstück an der Flurgrenze von Lausa
 
 
 
-[![](../../../../werbunglang2.jpg)](../../../../Impressum/Werbung/werbung.html)
 
 
 

@@ -64,7 +64,6 @@ lebt hier der durch seine Bildhauerarbeiten bekannte Peter Makolies. Makolies wa
 
 
 
-[![](../../../../werbunglang2.jpg)](../../../../Impressum/Werbung/werbung.html)
 
 
 

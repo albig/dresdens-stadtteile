@@ -90,7 +90,6 @@ Neubebauung des Areals zwischen Weißeritzstraße und Adlergasse abgerissen. Led
 
 
 
-[![](../../../../werbunglang2.jpg)](../../../../Impressum/Werbung/werbung.html)
 
 
 

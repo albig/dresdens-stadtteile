@@ -74,7 +74,6 @@ Fischerinnung und der Fährgemeinschaft am 1. April 1953 führten schließlich z
 
 
 
-[![](../../../../werbunglang.jpg)](../../../../Impressum/Werbung/werbung.html)
 
 
 

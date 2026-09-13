@@ -41,7 +41,6 @@ vorrangig durch den Bau von Wohnsiedlungen mit Einfamilien- und Reihenhäusern. 
 
 
 
-[![](../../werbunglang.jpg)](../../Impressum/Werbung/werbung.html)
 
 * * *
 

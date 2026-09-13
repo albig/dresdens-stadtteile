@@ -73,7 +73,6 @@ _Etiketten der Feldschlösschenbrauerei aus den Jahren 1970 - 1990_
 
 
 
-[![](../../../../werbunglang.jpg)](../../../../Impressum/Werbung/werbung.html)
 
 * * *
 

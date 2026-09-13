@@ -113,7 +113,6 @@ _der Senfbüchse (Mitte) und dem 2006 entstandenen Flutdenkmal (rechts)_
 
 
 
-[![](../../../../werbunglang.jpg)](../../../../Impressum/Werbung/werbung.html)
 
 
 

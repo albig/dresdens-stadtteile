@@ -79,7 +79,6 @@ Irmgard-Fischer-Eiche: Die zu den Dresdner Gedenkbäumen zählende Stieleiche st
 
 
 
-[![](../../../../werbunglang2.jpg)](../../../../Impressum/Werbung/werbung.html)
 
 
 

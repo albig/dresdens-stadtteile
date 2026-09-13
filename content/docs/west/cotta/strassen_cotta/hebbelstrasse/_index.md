@@ -43,7 +43,6 @@ Nr. 34: Das Grundstück war einst Standort eines großen Bauerngehöfts, welches
 
 
 
-[![](../../../../werbunglang2.jpg)](../../../../Impressum/Werbung/werbung.html)
 
 
 

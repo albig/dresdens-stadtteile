@@ -145,7 +145,6 @@ Das Haus müsste also wohl seine Witwe verkauft haben... Im Oktober 1886 heirate
 
 
 
-[![](../../../werbunglang2.jpg)](../../../Impressum/Werbung/werbung.html)
 
 * * *
 

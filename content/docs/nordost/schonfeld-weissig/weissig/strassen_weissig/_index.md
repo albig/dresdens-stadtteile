@@ -35,7 +35,6 @@ Ortschaftsrates, der Bibliothek und einer Filiale der Stadtsparkasse (Am Weißig
 Die nach 1990 angelegte Straße An der Prießnitzaue erschließt das zwischen 1991 und 1994 entstandene Gewerbegebiet
 Weißig. Hier befindet sich auch das Hochland-Center Weißig, größtes Einkaufszentrum des Schönfelder Hochlandes. Am 3. Oktober 1998 wurde es eröffnet. Der Straßename erinnert an die Auenlandschaft der [Prießnitz](../../../../nordost/dresdner_heide/priessnitzgrund/), welche nördlich des Areals ihren Weg in Richtung Dresdner Heide nimmt.
 
-![](../../../../werbunglang.jpg)
 
 ![anton-günther-weg](../../../../nordost/schonfeld-weissig/weissig/strassen_weissig/a_rectangle_1755.gif)
 
@@ -141,7 +140,6 @@ Bühlau. Ihren Namen verdankt sie dem als Dichter der Lüneburger Heide beka
 Löns (1866-1914), der zahlreiche Natur- und Tiergeschichten verfasste. Die Wege innerhalb der Siedlung sind meist nach Kräuter- und Blumennamen benannt (Chrysanthemenweg, Erikaweg, Dahlienweg usw.). Die Bezeichnung Baudenweg
 erinnert hingegen an die einst beliebte Ausflugsgaststätte Zwergbaude an der [Ullersdorfer Straße](../../../../nordost/buhlau/strassen_buhlau/).
 
-![](../../../../werbunglang.jpg)
 
 ![max-kosler-straße](../../../../nordost/schonfeld-weissig/weissig/strassen_weissig/a_rectangle_985.gif)
 

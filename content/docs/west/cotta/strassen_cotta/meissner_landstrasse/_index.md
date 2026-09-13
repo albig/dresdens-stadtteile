@@ -107,7 +107,6 @@ Gasthof als Lager für Theaterrequisiten. Heute befindet sich im Gebäude ein pr
 
 
 
-[![](../../../../werbunglang2.jpg)](../../../../Impressum/Werbung/werbung.html)
 
 
 
