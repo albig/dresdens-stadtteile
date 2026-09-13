@@ -152,6 +152,7 @@ _Dem Andenken des am 25. Juni 1834 hier im Zweikampf gefallenen Artillerie-Lie
 
 _Otto Bernhard Julius Koehler setzte diesen Stein die tief trauernde Liebe der Seinen_
 
+[![langebrücker straßen](../../nord/langebruck/a_rectangle_1478.gif)](../../nord/langebruck/strassen_langebruck/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

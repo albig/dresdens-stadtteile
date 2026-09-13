@@ -22,6 +22,7 @@ Ratskeller Kaitz: Das Eckhaus an der Kreuzung zur Boderitzer Straße (Nr. 12- _F
 
 In den 1950er Jahren wandelte sich der "Ratskeller" wieder zu einer typischen Vorstadtkneipe mit Billiardtischen und Treffpunkt für Skat- und Doppelkopfspieler. Auch der 1949 gegründete Volkschor Kaitz nutzte das Lokal als Probenraum. Hinzu kamen Familienfeste, Schulungen und Versammlungen. 1982 übernahm die Familie Mittag das Traditionslokal und führte es bis zur Schließung 1995. Heute werden die ehemaligen Gasträume als Büro genutzt.
 
+![boderitzer straße](../../../sud/mockritz/strassen_mockritz/a_rectangle_675.gif)
 
 Die heutige Boderitzer Straße trug früher in Kaitz den Namen Leichenweg, da sie die Verbindung des Dorfes zur Leubnitzer Kirche und dem dortigen Friedhof war. Im Zusammenhang mit dem Bau einiger Mietshäuser wurde sie 1899 zur Fahrstraße ausgebaut und ab 1904 Leubnitzer Straße genannt. Erstmals in Kaitz wurden für diese Straße fortlaufende Hausnummern vergeben. 1926 erfolgte die Vereinigung mit der Mockritzer Friedrich-August-Straße zur [Boderitzer Straße](../../../sud/mockritz/strassen_mockritz/). Die Flurgrenze verläuft zwischen den Häusern 69 und 71.
 

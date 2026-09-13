@@ -9,6 +9,7 @@ type: "docs"
 * * *
 
 
+![ortsamt blasewitz naumannstr. 5 01309 dresden tel. 0351/4888601 ortsamt-blasewitz@dresden.de  ****  ortsamt leuben hertzstr. 23 01257 dresden 0351/4888101 ortsamt-leuben@dresden.de](../ost/a_rectangle_969.gif)
 
 Die östlichen Stadtteile Dresdens umfassen das Gebiet der Elbtalweitung auf Altstädter Seite und erstrecken sich im Anschluss an die Johannstadt bis zur Stadtgrenze von Heidenau. Dieses Gebiet wurde einst von verschiedenen alten Elbarmen durchzogen und war dementsprechend feucht. Trotz der Hochwassergefahr entstanden hier seit dem 9./10. Jh. eine Reihe slawischer Siedlungen, die das umgebende Gras- und Weideland nutzten. Noch bis Mitte des 19. Jh. waren diese Dörfer kaum über ihre ursprünglichen Grenzen hinausgewachsen. Neben ackerbaulich genutzten Flächen gab es auch größere zusammenhängende Waldgebiete, deren Reste heute noch im Blasewitzer Waldpark und in Kleinzschachwitz erhalten geblieben sind.
 

@@ -23,6 +23,7 @@ date: 2024-02-17T22:13:36+01:00
 
 * * *
 
+![evangel.-lutherische apostelkirche kopernikusstraße 40 01139 dresden  tel. 0351/853210](../../../nordwest/trachau/apostelkirche/a_rectangle_1097.gif)
 
 * * *
 

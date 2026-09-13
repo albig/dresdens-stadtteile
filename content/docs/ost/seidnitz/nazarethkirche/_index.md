@@ -23,6 +23,7 @@ date: 2024-02-17T22:13:38+01:00
 
 * * *
 
+![ev.-luth. nazarethkirche  dresden-seidnitz  altseidnitz 12 01277 dresden  tel.: 0351 - 256 11 65](../../../ost/seidnitz/nazarethkirche/a_rectangle_1653.gif)
 
 [![](../../../ost/seidnitz/nazarethkirche/kirchgemeinde_gruna-seidnitz.jpg)](http://www.kirche-gruna-seidnitz.de)
 

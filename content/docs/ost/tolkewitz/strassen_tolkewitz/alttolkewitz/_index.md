@@ -41,6 +41,7 @@ Nr. 19: Das heute nicht mehr vorhandenen Gehöft Nr. 19 besaß im 18. Jahrhunder
 
 Augustushof (Nr. 22): Bemerkenswert ist der gut erhaltene Bauernhof Alttolkewitz Nr. 22, welcher bereits 1628 erwähnt wurde. Das zu den größeren Tolkewitzer Bauerngütern gehörende Anwesen befand sich ab 1705 im Besitz der Familie Hähnichen, an die noch die Initialien A. H. (August Hähnichen) über dem Eingang und verschiedene Schrifttafeln an den Gebäuden erinnern. Karl August Hähnichen (1842-1917) übte 25 Jahre lang das Amt eines Gemeindevorstandes aus und war zugleich Mitglied des Schulvorstandes und mehrerer Tolkewitzer Vereine. Auf ihn geht der Name Augustushof für dieses Anwesen zurück.
 
+![auf gott nur seine hoffnung gründen, und mit ihm gehen ein und aus der wird voll seegen immer finden gefüllet scheune hof und haus  joh: sam: hähnchen](../../../../ost/tolkewitz/strassen_tolkewitz/alttolkewitz/a_rectangle_490.gif)![und gott wird mich auch wenn ichs wage hier wohlthuns saamen auszustreun einst zu dem großen erndtetage in seine scheuern sameln ein.  erbauet ano. 1841](../../../../ost/tolkewitz/strassen_tolkewitz/alttolkewitz/a_rectangle_487.gif)
 
 _Inschriften an der Scheune des Augustushofes_
 
