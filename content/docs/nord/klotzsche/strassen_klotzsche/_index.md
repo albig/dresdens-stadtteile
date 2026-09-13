@@ -267,7 +267,7 @@ erhalten ist. Architekt der Villa war Woldemar Kandler, der auch die Christuskir
 seinem Tod auf dem Alten Friedhof Klotzsche beigesetzt. Nach 1945 war das Haus zeitweise Sitz des sowjetischen Geheimdienstes. Architektonisch interessant sind auch die benachbarten Häuser
 Nr. 8 und 14. Letzteres stammt ebenfalls von Woldemar Kandler. Das Wohnhaus Parkstraße 8 ( _Foto rechts_) wurde 1927 für den Apotheker Ernst Halle als Apotheke und Labor errichtet. Architekt war Oswin Hempel.
 
-![](../../../grenzstra_e.jpg)
+![](grenzstra_e.jpg)
 
 Die Grenzstraße, Teil des ehemaligen Fürstenweges zwischen Volkersdorf und [Hofewiese](../../../nordost/dresdner_heide/hofewiese/), erhielt ihren Namen 1945, da sie an der
 Ortsgrenze Klotzsches verläuft. 1935 entstand auf dem Areal zwischen Grenzstraße und Weixdorf die Luftnachrichtenschule mit

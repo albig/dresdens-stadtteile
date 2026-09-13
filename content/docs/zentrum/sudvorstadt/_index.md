@@ -49,7 +49,7 @@ später folgten weitere Strecken durch die Strehlener Straße, zum Münchner Pla
 
 _Foto: Hauptgebäude des Polytechnikums am Bismarckplatz (Friedrich-List-Platz)_
 
-![](../../sv_n_rnberger_ei.jpg)Auch die Dresdner Baugesellschaft hatte bereits 1871 große Flächen bis zur Flurgrenze nach Plauen erworben, um diese zu erschließen und Gewinn
+![](sv_n_rnberger_ei.jpg)Auch die Dresdner Baugesellschaft hatte bereits 1871 große Flächen bis zur Flurgrenze nach Plauen erworben, um diese zu erschließen und Gewinn
 bringend weiterzuveräußern. Zunächst blieb das Areal jedoch unbebaut und wurde gärtnerisch genutzt. Erst 1899 verabschiedete der Dresdner Stadtrat einen Bebauungsplan, welcher auch in diesem Teil der Südvorstadt meist
 geschlossene Bebauung vorsah. Trotz Einwendungen der Bewohner des Schweizer Viertels und des Bezirksvereins Süd entstanden nun innerhalb weniger Jahre repräsentative Mietshäuser mit zahlreichen Geschäften. Wegen
 der ovalen Platzanlage im Zentrum der neuangelegten Nürnberger Straße bürgerte sich für dieses Gebiet der Name Nürnberger Ei ein. Zeitweise sprach man auch vom Bayrischen Viertel, da

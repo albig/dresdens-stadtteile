@@ -25,14 +25,14 @@ date: 2024-02-17T22:13:48+01:00
 
 ![gedenkstätte münchner platz  george-bähr-str. 7 01069 dresden  tel. 0351/46331990](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/munchner_platz/landgericht/a_rectangle_1683.gif)
 
-[![](../../../../../gedenkst_ttem_npl.jpg)](http://www.stsg.de)
+[![](gedenkst_ttem_npl.jpg)](http://www.stsg.de)
 
 * * *
 
 
 
 
-![](../../../../../s_dvlandgericht1.jpg)Das burgartige Gebäude wurde zwischen 1902 und 1907 als Sitz des Königlichen Landgerichts
+![](s_dvlandgericht1.jpg)Das burgartige Gebäude wurde zwischen 1902 und 1907 als Sitz des Königlichen Landgerichts
 erbaut. Die Entwürfe für den aus mehreren Einzelbauten bestehenden Komplex stammen von Oskar Kramer. Architektonisch orientierte sich der Neubau am bislang dominierenden Historismus
 der Neorenaissance in Verbindung mit der aufkommenden Reformarchitektur. Der plastische Schmuck an der Fassade wurde von Ernst Hottenroth geschaffen und zeigt verschiedene Motive
 zum Justizwesen. Relieftafeln  mit den Themen Verbrechen, Geständnis, Urteil und Sühne an der Außenfront des Schwurgerichtssaals weisen auf die Nutzung des Hauses hin. Die offizielle
@@ -43,7 +43,7 @@ Verwaltungsräume und eine kleine Anstaltskapelle. Diese diente der seelsorgeris
 untergebrachten Häftlinge.  Im Innenhof befand sich die für die Vollstreckung von Todesurteilen genutzte Guillotine, welche zunächst nur bei schweren Kapitalverbrechen zum Einsatz kam. 1936 wurde
 dieser Richtplatz zu einer von zehn zentralen Hinrichtungsstätten des Deutschen Reiches erklärt.
 
-![](../../../../../s_dvlandgericht4.jpg)Während der NS-Zeit wurden in der Haftanstalt an der George-Bähr-Straße
+![](s_dvlandgericht4.jpg)Während der NS-Zeit wurden in der Haftanstalt an der George-Bähr-Straße
 zahlreiche Gegner des Naziregimes aus dem In- und Ausland festgehalten. Hier fanden auch Prozesse des berüchtigten Volksgerichtshofs und der Sondergerichte
 sowie des Oberlandesgerichts Posen statt, die sich gegen deutsche Widerstandskämpfer, Deserteure der Wehrmacht, aber auch gegen ausländische
 Nazigegner aus den besetzten Ostgebieten und der Tschechoslowakei richteten. Zur Vollstreckung der verhängten Todesurteile nutzte man den im Innenhof befindlichen
@@ -52,7 +52,7 @@ und Mähren. Bekannte Opfer der Nazijustiz, die am Münchner Platz zum Tode ve
 Otto Galle, Herbert Blochwitz und Georg Schumann, der tschechische Major Josef Matohlina und die Funktionärin des
 tschechischen Nationalen Frauenrates Anna Pollertová. Während des Luftangriffs 1945 trafen Bomben auch Teile des Landgerichts und ermöglichten einigen Gefangenen die Flucht.
 
-![](../../../../../s_dvlandgericht2.jpg)Auch nach dem Zweiten Weltkrieg diente das Landgericht zunächst weiterhin seinem Zweck. Im
+![](s_dvlandgericht2.jpg)Auch nach dem Zweiten Weltkrieg diente das Landgericht zunächst weiterhin seinem Zweck. Im
 Mittelpunkt standen zunächst Prozesse gegen führende Nationalsozialisten bzw. Personen, die an Kriegs- und Tötungsverbrechen beteiligt waren. So fanden hier 1946/47 die Verhandlungen gegen
 Ärzte der Euthansieanstalt Pirna-Sonnenstein und gegen die an Unrechtsurteilen beteiligten früheren Richter des Oberlandesgerichts Dresden statt.  Da die Räumlichkeiten am Münchner
 Platz oft nicht ausreichten, verlegte man größere Prozesse in Ausweichquartiere in der Nordhalle bzw. in der Tonhalle an der Glacisstraße (heute Kleines Haus). Später nutzte die sowjetische
@@ -65,7 +65,7 @@ mindestens 11 Todesurteile, nach 1950 nochmals 66 vollstreckt. Opfer waren neben
 der DDR gestellt hatten. Unter Angabe gefälschter Todesursachen wurden diese Personen anonym auf dem Tolkewitzer
 Johannesfriedhof beigesetzt, wo seit 1998 eine Urnengemeinschaftsanlage mit 23 Einzelgräbern an sie erinnert. Ab 1952 diente der Gebäudekomplex zugleich als zentrale Hinrichtungsstätte der DDR.
 
-![](../../../../../s_dvlandgericht3.jpg)1956 verlegte das Bezirksgericht Dresden seinen Sitz zur Lothringer Straße. Die nun nicht
+![](s_dvlandgericht3.jpg)1956 verlegte das Bezirksgericht Dresden seinen Sitz zur Lothringer Straße. Die nun nicht
 mehr benötigten Gebäude wurden daraufhin bis 1964 für die [Technische Universität](../../../../../zentrum/sudvorstadt/technische_universitat/)
 umgebaut. Aus ehemaligen Gerichtssälen und Büros entstanden Hörsäle und Seminarräume. Der frühere Zellentrakt des Gefängnisses wurde wieder aufgebaut und zu
 Arbeits- und Büroräumen erweitert. In Erinnerung an den hier 1945 hingerichteten Widerstandskämpfer Georg Schumann erhielt das Gebäude den Namen Georg-

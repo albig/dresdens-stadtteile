@@ -19,7 +19,7 @@ date: 2024-02-17T22:13:35+01:00
 
 ![waldbad weixdorf zum sportplatz 1a 01108 dresden tel. 0351/8804164](../../../../nord/weixdorf/lausa/waldbad_weixdorf/a_rectangle_1527.gif)
 
-![](../../../../weixdbad2.jpg)
+![](weixdbad2.jpg)
 
 **Werbung um 1950**
 

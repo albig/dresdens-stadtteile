@@ -91,7 +91,7 @@ Pfeiffer, der sich hier auch ein Sommerhaus errichten ließ. Das repräsentative
 Templerhaus:
 Die Villa entstand im 19. Jahrhundert im klassizistischen Stil. Seit 1997 befindet sich hier ein Konvent des Templerordens. An der Fassade weist eine Marienfigur auf die religiöse Nutzung des Hauses hin.
 
-![](../../../../loschwtemplerh.jpg)
+![](loschwtemplerh.jpg)
 
 **_Foto:_** _Templerhaus an der Pillnitzer Landstraße_
 
@@ -151,7 +151,7 @@ Das Grundstück oberhalb der Einmündung des Oberwachwitzer Wegs gehörte urspr�
 Oberkonsistorialrat und späterer Präsident des Evangelisch-Lutherischen Landeskonsistoriums das Areal und nutzte das 1878 erbaute Gebäude als
 Sommerhaus. 1913 wurde es durch einen Villenneubau des Architekten Emil Wägner ersetzt _(Foto)_. In den 1920er Jahren wohnte hier die Schauspielerin Alice Verden und die Regisseurin Hermine Körner.
 
-![](../../../../wachwgarelune.jpg)Ehlichs Dampfschiffrestaurant (Gare de la Lune - Nr. 148):
+![](wachwgarelune.jpg)Ehlichs Dampfschiffrestaurant (Gare de la Lune - Nr. 148):
 Die Geschichte dieser Gastwirtschaft geht auf den auch in Wachwitz früher üblichen Reiheschank zurück, den 1844 der Maurermeister Johann Gottlieb Ehlich erworben hatte. Dessen Sohn
 durfte schließlich mit Billigung des Gemeinderates ab 1862 einen kleinen Ausschank von Wein, Kaffee, Milch und Lagerbier betreiben. 1872 wurde das frühere Gut komplett umgebaut und zum regulären Gasthof mit Saal gemacht
 _(Foto)_. Wegen seiner günstigen Lage an der Dampferanlegestelle entwickelte sich Ehlichs Dampfschiffrestaurant bald zum beliebten Ausflugslokal, obwohl die Genehmigung

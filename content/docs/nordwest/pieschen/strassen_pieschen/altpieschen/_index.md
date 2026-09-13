@@ -22,7 +22,7 @@ Die Gehöfte an der Westseite des Dorfplatzes wurden um die Jahrhundertwende zug
 
 Zwischen 1926 und 1946 verkehrte eine Straßenbahnlinie durch den Ortskern. Die Am 11. Mai 1926 eingeführte Linie 14 führte, vom Georgplatz kommend, über die Fritz-Reuter- und Harkortstraße zur Bürgerstraße, durchquerte dann den alten Dorfkern und die Braunschweiger Straße und bog über die Wurzener Straße in Richtung Straßenbahnhof Mickten ab und fuhr dann über die Mohnstraße ab. Diese große Schleife wurde am 2. November 1946 wieder stillgelegt und die Gleise zur Gewinnung von Gleismaterial wieder abgebaut.
 
-![](../../../../nordwest/pieschen/strassen_pieschen/altpieschen/pieschalt.jpg)![](../../../../pieschalt4.jpg)
+![](../../../../nordwest/pieschen/strassen_pieschen/altpieschen/pieschalt.jpg)![](pieschalt4.jpg)
 
 **_Fotos:_** _Dorfkern Altpieschen - links Altpieschen Nr 2, rechts Altpieschen Nr. 4_
 

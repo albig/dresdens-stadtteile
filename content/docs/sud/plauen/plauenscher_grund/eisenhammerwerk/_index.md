@@ -13,7 +13,7 @@ date: 2024-02-17T22:13:43+01:00
 
 * * *
 
-![](../../../../plgrundeisenhammerwerk2.jpg)
+![](plgrundeisenhammerwerk2.jpg)
 
 
 ![](../../../../sud/plauen/plauenscher_grund/eisenhammerwerk/plgrundh_ttensch_nke.jpg)Die Geschichte des späteren Eisenhammerwerkes begann 1794, als der aus Stolpen

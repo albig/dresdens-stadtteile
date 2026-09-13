@@ -9,7 +9,7 @@ date: 2024-02-17T22:13:45+01:00
 
 
 
-[![](../../../hauptseitecotta2.jpg)](../../../west/cotta/)
+[![](hauptseitecotta2.jpg)](../../../west/cotta/)
 
 ![altcotta](../../../west/cotta/strassen_cotta/a_rectangle_391.gif)
 
@@ -61,7 +61,7 @@ Die Straße erhielt 1891 zunächst den Namen Florastraße, wurde 1904 jedoch in 
 
 ![](../../../west/cotta/strassen_cotta/cottagrillparzerstr.jpg)Die um 1870 angelegte Straße, zunächst Südstraße genannt, erhielt 1904 den Namen Grillparzerstraße. Der österreichische Dramatiker Franz Grillparzer (1791-1872) verfasste zahlreiche Bühnenstücke, meist zu historischen Themen. 1826 besuchte er Dresden und äußerte sich im Anschluss an diesen Besuch ausgesprochen kritisch über Sprache und Lebensart der Dresdner. 1910 wurde ein neuangelegter Platz, in den Bauplänen als "Platz 2" bezeichnet, ebenfalls nach dem Dichter benannt. Die hier befindliche Wohnanlage entstand 1936 und wurde nach 1990 durch die WOBA saniert. Bereits zuvor hatte 1927 eine Dresdner Baugenossenschaft nach Entwurf von Curt Herfurt das Wohnhaus Grillparzerstraße 3-5 errichten lassen. Aus der Zeit um 1900 stammen die meisten älteren Häuser. In der Nr. 20 an der Ecke zur Tonbergstraße gab es um 1910 die Schankwirtschaft "Goldene Krone". Ein weiteres Lokal existierte in der Nr. 51. Das ursprünglich als Turmhaus Cotta bezeichnete Lokal wird bis heute gastronomisch genutzt, nach 1990 von der Wohngebietskneipe Jolly´s und der Nachtbar "Schlauch".
 
-![](../../../west/cotta/strassen_cotta/cottagrillparzerpl2.jpg)![](../../../cottagrillparzerpl.jpg)
+![](../../../west/cotta/strassen_cotta/cottagrillparzerpl2.jpg)![](cottagrillparzerpl.jpg)
 
 **_Foto:_** _Wohnhäuser am Grillparzerplatz um 1910 und heute_
 

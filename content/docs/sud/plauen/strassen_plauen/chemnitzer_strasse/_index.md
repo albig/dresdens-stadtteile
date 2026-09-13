@@ -250,7 +250,7 @@ letzten Luftangriffes auf Dresden das Westendschlösschen und beendeten die gast
 berichten, dass das Gebäude danach noch als Unterkunft des Volkssturmes und später für sowjetische Soldaten
 genutzt wurde und in der Nachkriegszeit einem Brand zum Opfer fiel. An gleicher Stelle entstand 1995 ein modernes Wohn- und Geschäftshaus.
 
-![](../../../../plauwestendschl_.jpg)
+![](plauwestendschl_.jpg)
 
 **_Foto:_** _Das Plauener Westendschlösschen auf einer historischen Postkarte_
 

@@ -18,7 +18,7 @@ date: 2024-02-17T22:13:46+01:00
 
 
 
-![](../../../rennersdorf.jpg)Rennersdorf wurde 1378 erstmals im Verzeichnis der Orte des Amtes Dresden
+![](rennersdorf.jpg)Rennersdorf wurde 1378 erstmals im Verzeichnis der Orte des Amtes Dresden
 als Reymarstorf erwähnt. Der Ortsname geht auf einen Lokator Reinhard oder Reinmar zurück, der den Ort vermutlich im Zusammenhang mit der fränkischen
 Besiedlung im 12. Jahrhundert gründete. Später wechselte die Schreibweise über Reinharzcdorf und Reinerstorf zu Rennersdorf (1569). 1748 wurde das
 Dorf Rönnersdorf genannt, bevor sich im 19. Jahrhundert endgültig die heutige Schreibweise durchsetzte.
@@ -40,7 +40,7 @@ entstand. In Rennersdorf selbst existierte zeitweise eine Ziegelei, deren Gebäu
 Diese natürliche Kühleisgewinnung wurde noch bis 1957 praktiziert. In jüngster Zeit entwickelte sich Rennersdorf zum Wohnvorort von Dresden. Der bereits seit 1950 zur Nachbargemeinde Brabschütz gehörende Ort kam 1994 zu
 Mobschatz und am 1. Januar 1999 zur Landeshauptstadt. In den letzten Jahren wurden im Ort mehrere Einfamilienhäuser gebaut.
 
-![](../../../rennersdeisteich.jpg)
+![](rennersdeisteich.jpg)
 
 **_Foto:_** _Der Rennersdorfer Eisteich im Lotzebachtal_
 
