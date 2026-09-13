@@ -1,0 +1,60 @@
+---
+title: "Ost"
+date: 2024-02-17T22:13:36+01:00
+weight: 50
+type: "docs"
+---
+
+
+* * *
+
+
+
+[![home](../home_ncubesprim.gif)](../index.html)[![striesen](../striesen_ncubesprim.gif)](../ost/striesen/)[![blasewitz](../blasewitz_ncubesprim.gif)](../ost/blasewitz/)[![gruna](../gruna_ncubesprim.gif)](../ost/gruna/)[![seidnitz](../seidnitz_ncubesprim.gif)](../ost/seidnitz/)[![tolkewitz](../tolkewitz_ncubesprim.gif)](../ost/tolkewitz/)[![laubegast](../laubegast_ncubesprim.gif)](../ost/laubegast/)[![dobritz](../dobritz_ncubesprim.gif)](../ost/dobritz/)[![leuben](../leuben_ncubesprim.gif)](../ost/leuben/)[![niedersedlitz](../niedersedlitz_ncubesprim.gif)](../ost/niedersedlitz/)[![großzschachwitz](../grosszschachwitz_ncubesprim.gif)](../ost/grosszschachwitz/)[![kleinzschachwitz](../kleinzschachwitz_ncubesprim.gif)](../ost/kleinzschachwitz/)[![sporbitz](../sporbitz_ncubesprim.gif)](../ost/sporbitz/)[![meußlitz](../meusslitz_ncubesprim.gif)](../ost/meusslitz/)[![zschieren](../zschieren_ncubesprim.gif)](../ost/zschieren/)
+
+* * *
+
+
+* * *
+
+**Private Homepage v. Siegmar Baumgärtel**
+
+[![](../dresden-lexikon.jpg)](http://www.dresden-lexikon.de)
+
+
+
+![ortsamt blasewitz naumannstr. 5 01309 dresden tel. 0351/4888601 ortsamt-blasewitz@dresden.de  ****  ortsamt leuben hertzstr. 23 01257 dresden 0351/4888101 ortsamt-leuben@dresden.de](../ost/a_rectangle_969.gif)
+
+Die östlichen Stadtteile Dresdens umfassen das Gebiet der Elbtalweitung auf Altstädter Seite und erstrecken sich im Anschluss an die Johannstadt bis zur Stadtgrenze von Heidenau. Dieses Gebiet wurde einst von verschiedenen alten Elbarmen durchzogen und war dementsprechend feucht. Trotz der Hochwassergefahr entstanden hier seit dem 9./10. Jh. eine Reihe slawischer Siedlungen, die das umgebende Gras- und Weideland nutzten. Noch bis Mitte des 19. Jh. waren diese Dörfer kaum über ihre ursprünglichen Grenzen hinausgewachsen. Neben ackerbaulich genutzten Flächen gab es auch größere zusammenhängende Waldgebiete, deren Reste heute noch im Blasewitzer Waldpark und in Kleinzschachwitz erhalten geblieben sind.
+
+Mit zunehmendem Wachstum der Großstadt begann ab 1860 die Besiedlung der zwischen den Dörfern verbliebenen Freiflächen. Im Gegensatz zu den nördlichen und nordwestlichen Stadtteilen wurden die Wohnviertel fast ausschließlich in offener Bauweise errichtet. Neben villenartigen Mietshäusern entstanden vor allem in der Nähe der Elbe zahlreiche Villen und Landhäuser wohlhabender Familien, die zum Wohlstand der Gemeinden beitrugen. Gewerbliche Einrichtungen waren auf die Streifen entlang der Hauptverkehrswege beschränkt. Neben der [Schandauer Straße](../ost/striesen/strassen_striesen/schandauer_strasse/) und der [Bodenbacher Straße](../ost/gruna/strassen_gruna/bodenbacher_strasse/) war das vor allem die 1846 eröffnete Eisenbahnlinie nach Böhmen. Striesen und Niedersedlitz entwickelten sich so zu bedeutenden Industriestandorten, während die übrigen Orte noch länger ihr ländliches Bild behalten konnten.
+
+Nachdem Ende des 19. Jh. Striesen und Gruna mit der Großstadt zusammengewachsen waren, wurden beide Orte nach Dresden eingemeindet. Noch vor dem Ersten Weltkrieg folgte Tolkewitz. Dem wohlhabenden Blasewitz, einst reichste Gemeinde Sachsen, gelang die Verteidigung seiner Selbstständigkeit noch bis 1921. Im Anschluss an die Eingemeindungen wurden auch die noch verbliebenen Freiflächen bebaut. Da die ehemaligen Dorfkerne von Striesen und Gruna 1945 den Bomben zum Opfer fielen, erinnert heute nur noch wenig an die vorstädtische Geschichte dieser Orte
+
+In der Nachkriegszeit nach 1945 erfolgte die bislang letzte Stadterweiterung Dresdens in östlicher Richtung. Gemeinsam kamen 1950 Großzschachwitz und die Industriegemeinde Niedersedlitz sowie Meußlitz, Sporbitz und Zschieren zu Dresden. Heute sind diese Orte beliebte Wohnstandorte, was nach 1990 zum Bau einiger neuer Wohnsiedlungen führte.
+
+**Blasewitzer Tännicht:**
+
+Als Blasewitzer Tännicht wurde früher ein ausgedehntes Waldgebiet bezeichnet, welches sich von der Pirnaischen Vorstadt bis nach Tolkewitz erstreckte. Hauptsächlich bestand dieses Waldstück aus Fichten und Kiefern und wurde von den Anwohnern in verschiedene Flurstücke eingeteilt: Brempacher Aue, Hausholz, Gellenberg, Schwalbenkopf und Faselberg. Wegen seines Wildreichtums war das Tännicht beliebtes Jagdrevier der sächsischen Kurfürsten, für die um 1670 in Blasewitz ein Hegereiterhaus an Stelle des heutigen Schillergartens eingerichtet wurde. Dieses bildete den Mittelpunkt des Reviers, bestehend aus dem "Untergehege" auf Blasewitzer Flur und dem "Obergehege" um Kleinzschachwitz. Hauptsächlich wurden hier Hasen und Rebhühner gejagt. Auf Befehl August des Starken entstand 1717 nach Plänen Pöppelmanns ein neues Jagdhaus an der heutigen Forsthausstraße. Im Grundstück Händelallee 10 erinnert eine historische Jagdsäule an eine Parforcejagd Friedrich August des Gerechten 1818. Teile des Tännichts waren zu diesem Zeitpunkt längst in Ackerland umgewandelt, was zur Gründung mehrerer Vorwerke auf dem Territorium der späteren [Johannstadt](../zentrum/johannstadt/) führte.
+
+Schwere Schäden richteten Kampfhandlungen während des Siebenjährigen Krieges an, denen Teile des Waldes zum Opfer fielen. 1759 beklagte der Hegereiter Zschimmer, daß in dem Blasewitzer Tännicht von dem zur Wagenburg gehörigen, dort herumstehenden Volke sowohl das königliche, als auch das zum Hospital- und dem geistlichen Brückenamte gehörige Holz sehr stark niedergeschlagen würde. Der dem Maternihospital gehörende Teil des Tännichts wurde daraufhin nicht wieder aufgeforstet, sondern als Ackerland verpachtet.
+
+Mit Beginn des 19. Jahrhunderts begann die zunehmende Inanspruchnahme des Blasewitzer Tännichts für Baumaßnahmen.
+Schrittweise verdrängten neue Wohnsiedlungen den Wald, so dass sich heute nur noch geringe Reste erhalten haben. Bedeutendstes Überbleibsel ist der [Blasewitzer Waldpark](../ost/blasewitz/waldpark_blasewitz/), welcher 1867 von Arthur Willibald Königsheim vor der
+vollständigen Abholzung gerettet wurde. Auch das hinter dem 1901 errichteten Johannstädter Krankenhaus gelegene Birkenwäldchen, einst als junges Tännicht bezeichnet, geht auf das frühere Waldgebiet zurück.
+
+
+
+![](../dresden-quiz.jpg)**Wer kennt Dresden? - Das Stadtquiz**
+
+500 Fragen zur Geschichte und Gegenwart Dresdens finden sich in diesem
+neuen Quizspiel für 2 bis 6 Mitspieler ab 14 Jahren. Ziel ist es, durch die richtige Beantwortung der Fragen seinen Spielplan mit Straßen, Gebäuden und
+Sehenswürdigkeiten zu komplettieren. Dafür stehen jeweils vier Antwortmöglichkeiten und ein Joker je Spielrunde zur Verfügung.
+
+**Erhältlich u.a. bei Hugendubelund Spielaxie (Altmarkt-Galerie), Buch Habel (Gorbitz/Merianplatz), Karstadt, Haus des Buches )Dr.-Külz-Ring),**
+
+**Buch & Kunst, Capito - Der Spieleladen (Rothenburger Straße) und auf dem Striezelmarkt (Verlagsstand der Striezelmarktzeitung/SDV)**
+
+* * *
+
+ \[ [Nord](../nord/)\] \[ [Nordwest](../nordwest/)\] \[ [Neustadt](../neustadt/)\] \[ [Nordost](../nordost/)\] \[ [West](../west/)\] \[ [Zentrum](../zentrum/)\] \[ [Südwest](../sudwest/)\] \[ [Süd](../sud/)\] \[ [Südost](../sudost/)\] \[ [Ost](../ost/)\] \[ [Register](../register/)\] \[ [Kontakt](../kontakt/)\] \[ [Impressum](../impressum/)\]
