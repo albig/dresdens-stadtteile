@@ -31,7 +31,7 @@ vollständigen Abholzung gerettet wurde. Auch das hinter dem 1901 errichteten Jo
 
 
 
-![](../dresden-quiz.jpg)**Wer kennt Dresden? - Das Stadtquiz**
+
 
 500 Fragen zur Geschichte und Gegenwart Dresdens finden sich in diesem
 neuen Quizspiel für 2 bis 6 Mitspieler ab 14 Jahren. Ziel ist es, durch die richtige Beantwortung der Fragen seinen Spielplan mit Straßen, Gebäuden und

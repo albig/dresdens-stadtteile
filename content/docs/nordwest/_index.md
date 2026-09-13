@@ -73,7 +73,7 @@ Video: Impressionen vom Hochwasser in der Kaditzer Flutrinne in Dresden (6. Juni
 
 
 
-![](../dresden-quiz.jpg)**Wer kennt Dresden? - Das Stadtquiz**
+
 
 500 Fragen zur Geschichte und Gegenwart Dresdens finden sich in diesem
 neuen Quizspiel für 2 bis 6 Mitspieler ab 14 Jahren. Ziel ist es, durch die richtige Beantwortung der Fragen seinen Spielplan mit Straßen, Gebäuden und
