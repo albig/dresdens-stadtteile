@@ -89,7 +89,3 @@ params:
         url: mailto:alexander@bigga.de
         icon: fa fa-envelope
         desc: Discuss development issues around the project
-
-  ananke_socials:
-    - name: mastodon
-      url: https://gruene.social/@albigdd
