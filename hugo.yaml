@@ -1,22 +1,47 @@
 baseURL: /
-defaultContentLanguage: de
 title: Dresdner Stadtteile
+
+contentDir: content
+defaultContentLanguage: de
+defaultContentLanguageInSubdir: false
+enableMissingTranslationPlaceholders: true
+enableRobotsTXT: true
+enableGitInfo: true
+
+languages:
+  de:
+    languageCode: de-DE
+    languageDirection: ltr
+    languageName: Deutsch
+    weight: 1
+
+taxonomies:
+  tag: tags
+  category: categories
+
+module:
+  proxy: direct
+  imports:
+    - path: github.com/google/docsy
+
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+        title: true
+    renderer:
+      unsafe: true
+  highlight:
+    style: tango
+
 params:
   privacy_policy: /datenschutz
   impressum: /impressum
-  contentDir: content
-  languages:
-    de:
-      languageCode: de-DE
-      languageDirection: ltr
-      languageName: Deutsch
-      weight: 1
-  defaultContentLanguageInSubdir: true
-  enableMissingTranslationPlaceholders: true
-  enableRobotsTXT: true
-  enableGitInfo: true
-  params:
+
   offlineSearch: true
+  offlineSearchSummaryLength: 200
+
   taxonomy:
     taxonomyCloud:
       - tags
@@ -27,6 +52,7 @@ params:
     taxonomyPageHeader:
       - tags
       - categories
+
   ui:
     breadcrumb_disable: false
     navbar_logo: true
@@ -39,16 +65,15 @@ params:
     footer_about_enable: true
     feedback:
       enable: false
-      yes: Glad to hear it! Please <a
+      "yes": Glad to hear it! Please <a
         href="https://github.com/albig/dresdens-stadtteile/issues/new">tell us how we
         can improve</a>.
-      no: Sorry to hear that. Please <a
+      "no": Sorry to hear that. Please <a
         href="https://github.com/albig/dresdens-stadtteile/issues/new">tell us how we
         can improve</a>.
     readingtime:
       enable: false
-      offlineSearch: true
-      offlineSearchSummaryLength: 200
+
   links:
     developer:
       - name: GitHub
@@ -64,23 +89,7 @@ params:
         url: mailto:alexander@bigga.de
         icon: fa fa-envelope
         desc: Discuss development issues around the project
+
   ananke_socials:
     - name: mastodon
       url: https://gruene.social/@albigdd
-taxonomies:
-  tag: tags
-  category: categories
-module:
-  proxy: direct
-  imports:
-    - path: github.com/google/docsy
-markup:
-  goldmark:
-    parser:
-      attribute:
-        block: true
-        title: true
-    renderer:
-      unsafe: true
-  highlight:
-    style: tango
