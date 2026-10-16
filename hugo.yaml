@@ -10,9 +10,9 @@ enableGitInfo: true
 
 languages:
   de:
-    languageCode: de-DE
-    languageDirection: ltr
-    languageName: Deutsch
+    locale: de-DE
+    direction: ltr
+    label: Deutsch
     weight: 1
 
 taxonomies:
