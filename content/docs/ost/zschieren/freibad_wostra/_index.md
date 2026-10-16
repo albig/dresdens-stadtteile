@@ -3,15 +3,6 @@ title: "Freibad Wostra"
 date: 2024-02-17T22:13:39+01:00
 ---
 
-![freibad wostra](freibad_wostra_nurbanlegendbannerh.gif)
-
-* * *
-
-
-
-* * *
-
-
 
 [![](../../../ost/zschieren/freibad_wostra/hauptseitezschieren.jpg)](../../../ost/zschieren/)
 
