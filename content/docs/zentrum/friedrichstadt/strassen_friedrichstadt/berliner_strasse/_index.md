@@ -3,19 +3,6 @@ title: "Berliner Straße"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![berliner straße](berliner_strasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseitefriedrichstadt.jpg)](../../../../zentrum/friedrichstadt/)
-
-* * *
-
-
-
-
 ![](../../../../zentrum/friedrichstadt/strassen_friedrichstadt/berliner_strasse/friedrichstberlinerstr.jpg)Die Berliner Straße geht auf einen im 19. Jahrhundert angelegten namenlosen
 Wirtschaftsweg zurück. Neben Gärten  befanden sich hier die Pulvermagazine der sächsischen Armee, die man aus Sicherheitsgründen außerhalb des bebauten Gebietes konzentriert hatte. 1871-75 ließ die
 private Berlin - Dresdner Eisenbahngesellschaft eine neue [Fernbahnstrecke](../../../../zentrum/friedrichstadt/dresden_-_berlin/)

@@ -3,19 +3,6 @@ title: "Waltherstraße"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../hauptseitefriedrichstadt.jpg)](../../../../zentrum/friedrichstadt/)
-
-* * *
-
-
-
-
 Ursprünglich lag in diesem Abschnitt der Landstraße nach Meißen (heute Schäferstraße) der Briesnitzer Schlag, eine zur Erhebung von städtischen Abgaben dienende Zollstelle. Nach dem Ausbau eines auch als
 Ringstraße bzw. Äpfelallee bezeichneten Feldweges erfolgte 1875 die Namensgebung Waltherstraße. Mit dieser sollte der Geheime Medizinalrat und königliche Leibarzt Dr. Hermann Walther (1818-1871) geehrt werden, der
 zwischen 1849 und 1869 als Oberarzt am Friedrichstädter Krankenhaus wirkte.

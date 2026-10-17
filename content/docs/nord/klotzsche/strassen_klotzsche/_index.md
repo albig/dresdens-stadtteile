@@ -1,15 +1,7 @@
 ---
-title: "Straßen Klotzsche"
+title: "Straßen und Plätze in Klotzsche"
 date: 2024-02-17T22:13:32+01:00
 ---
-
-![straßen und plätze in klotzsche](strassen_klotzsche_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../nord/klotzsche/strassen_klotzsche/hauptseiteklotzsche2.jpg)](../../../nord/klotzsche/)
 
 ![](../../../nord/klotzsche/strassen_klotzsche/ahlbecker_stra_e.jpg)
 
@@ -276,7 +268,7 @@ anlegte. Außerdem wurde zwischen 1986 und 1990 ein Wohngebiet mit ca. 700 Wohnu
 entstand auf dem Gelände des ehemaligen Zentrums für Mikroelektronik ein moderner Büropark, der in den kommenden Jahren noch
 erweitert werden soll. Die Bahnstrecke wurde 2000/01 als Flughafenzubringer ausgebaut und verlängert.
 
-![](../../../nord/klotzsche/strassen_klotzsche/grüner weg.jpg)
+![](../../../nord/klotzsche/strassen_klotzsche/grüner_weg.jpg)
 
 Der Grüne Weg wurde um 1930 als eine von der Querallee (heute Boltenhagener Straße) abgehende Sackgasse angelegt und erhielt zunächst den Namen Grüne Straße. Noch vor dem Zweiten Weltkrieg wechselte der Name in Am Querweg. Da es im Stadtteil Leubnitz-Neuostra jedoch ebenfalls eine Straße mit diesem Namen gab, machte sich nach der Eingemeindung von Klotzsche eine erneute Umbenennung erforderlich. Diese erfolgte im September 1953 in Grüner Weg. Im Zusammenhang mit dem Bau des Neubauviertels an der Karl-Marx-Straße wurde der Grüne Weg in den 1960er Jahren verlängert.
 
@@ -324,7 +316,7 @@ Die Karl-Marx-Straße verbindet die Königsbrücker Landstraße mit dem Flughafe
 
 In den 1960er Jahren wurden an der Karl-Marx-Straße Wohnblöcke für die Angestellten von Klotzscher Betrieben errichtet, denen später eine Plattenbausiedlung folgte. Bemerkenswert ist der 1952/55 als Konstruktionsbüro der [DDR-Luftfahrtindustrie](../../../nord/klotzsche/flughafen/flugzeugwerft/) errichtete Stahlbetonbau am Flughafen, welcher unter Denkmalschutz steht. 1997 wurde das Haus zum Airport Bürocenter umgebaut. 2009/10 entstand an der Ecke zur Boltenhagener Straße ein modernes Einkaufszentrum nach einem Entwurf des Dresdner Architekten Dieter Gechter.
 
-![karlshagener weg](../../../nord/klotzsche/strassen_klotzsche/karlshagener weg.jpg)
+![karlshagener weg](../../../nord/klotzsche/strassen_klotzsche/karlshagener_weg.jpg)
 
 Der Karlshagener Weg wurde in den 1970er Jahren als Zugang zu zwei damals neu errichteten Kindereinrichtungen angelegt. Ähnlich wie bei einigen Nachbarstraßen erfolgte die Namensgebung nach einem Ort an der Ostseeküste, dem Ostseebad Karlshagen
 
@@ -342,7 +334,7 @@ eingeführt wurde. Auch hier war die Namensgleichheit mit einer Dresdner Straße
 Bis zur Gegenwart sind an der Kieler Straße zahlreiche Gebäude aus der Zeit des Kurortes erhalten geblieben. Im Haus Nr. 7 gab es einst ein Lehrerinnen-Heim,
 1910 unter dem Namen Carolastift in den Adressbüchern verzeichnet. Im Eckhaus Nr. 18 _(im Bild ganz links)_ gab es bereits vor dem Ersten Weltkrieg das Restaurant zur Wartburg. In der Bismarckstraße 58 hatte bis 1945 eine Dienststelle der Kriminalpolizei ihren Sitz.
 
-![klotzscher berglehne](../../../nord/klotzsche/strassen_klotzsche/klotzscher berglehne.jpg)
+![klotzscher berglehne](../../../nord/klotzsche/strassen_klotzsche/klotzscher_berglehne.jpg)
 
 Die Straße Klotzscher Berglehne liegt in einem Neubaugebiet zwischen Oderstraße und Dörnichtweg und geht in östliche Richtung über in die Traute-Richter-Straße. Sie entstand nach 2000 und erhielt ihren Namen nach örtlichen Gegebenheiten.
 
@@ -386,7 +378,7 @@ Der Lauschigwiesenweg entstand bereits 2000 zur Erschließung eines geplanten ne
 
 Die Lindenstraße entstand in der 2. Hälfte des 19. Jahrhunderts im Ortsteil Alberthöhe. Ihren Namen erhielt sie nach den hier gepflanzten Lindenbäumen.
 
-![lubminer straße](../../../nord/klotzsche/strassen_klotzsche/lubminer straße.jpg)
+![lubminer straße](../../../nord/klotzsche/strassen_klotzsche/lubminer_straße.jpg)
 
 Die Lubminer Straße wurde Anfang der 1970er Jahre im Zuge des Neubaugebietes Klotzsche angelegt. 1974 erhielt sie, so wie andere Straßen in diesem Viertel, ihren Namen nach einem Ort an der Ostsee, dem Seebad Lubmin.
 
@@ -405,7 +397,7 @@ Zentrum Mikroelektronik Dresden (ZMD): Das Institut in Klotzsche geht auf die am
 Mit der Herauslösung der Forschungseinrichtung aus dem Kombinat Carl Zeiss Jena begann 1990 ein neuer Abschnitt der Firmengeschichte. Fortan firmierte diese als Zentrum Mikroelektronik Dresden GmbH. 1992 entstand schließlich das heutige
 Fraunhofer-Institut für Mikroelektronische Schaltungen und Systeme, welches sich sowohl mit Forschungsaufgaben als auch industrienahmen Dienstleistungen für Unternehmen der Branche befasst. Seit 2003 wird dieses als Fraunhofer-Institut für Photonische Mikrosysteme (IPMS) bezeichnet. Heute arbeiten hier ca. 210 Mitarbeiter an elektronischen, mechanischen und optischen Komponenten und ihrer Integration in intelligente Bauelemente und Systeme.
 
-![marsdorfer straße](../../../nord/klotzsche/strassen_klotzsche/marsdorfer straße.jpg)
+![marsdorfer straße](../../../nord/klotzsche/strassen_klotzsche/marsdorfer_straße.jpg)
 
 Die Marsdorfer Straße entstand ursprünglich als Marsdorfer Weg und ist seit 1897 im Adressbuch verzeichnet. Wenig später wechselte die Bezeichnung Weg in Straße. Benannt ist sie nach dem kleinen Ort Marsdorf, der seit 1999 als Stadtteil zu Dresden gehört. Reste des alten Marsdorfer Weges sind noch nördlich des Flugplatzes erhalten. An der Einmündung der Marsdorfer in die Rähnitzer Straße steht eine Stieleiche, die als Naturdenkmal ausgewiesen ist.
 
@@ -567,10 +559,6 @@ Zu den heute in diesem Areal ansässigen Einrichtungen gehören das Landesamt f�
 
 
 [Klotzsche auf OpenStreetMap](https://www.openstreetmap.org/search?query=Dresden+Klotzsche)
-
-* * *
-
-
 
 * * *
 

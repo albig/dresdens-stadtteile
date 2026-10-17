@@ -3,18 +3,6 @@ title: "Waldbad Weixdorf"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![waldbad weixdorf](waldbad_weixdorf_nurbanlegendbannerh.gif)
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../nord/weixdorf/lausa/hauptseiteweixdorf.jpg)](../../../../nord/weixdorf/)
-
 * * *
 
 ![waldbad weixdorf zum sportplatz 1a 01108 dresden tel. 0351/8804164](../../../../nord/weixdorf/lausa/waldbad_weixdorf/a_rectangle_1527.gif)

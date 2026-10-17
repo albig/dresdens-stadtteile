@@ -7,25 +7,6 @@ date: 2024-02-17T22:13:35+01:00
 
 * * *
 
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../../nordost/schonfeld-weissig/weissig/hauptseitewei_ig.jpg)](../../../../../nordost/schonfeld-weissig/weissig/)
-
-* * *
-
-
-
-
 _In der Nähe des Dorfes Weißig bei Eschdorf erhebt sich der sogenannte Hutberg beinahe 100 Fuß über der Meeresfläche. Vor langen, langen Jahren war dieser Berg von einem_
 _Zwerggeschlecht bewohnt, welches still und freundlich mit den Bewohnern der umliegenden Gegend verkehrte und sich besonders durch das Tragen von runden Spitzhüten auszeichnete. In dem Berge war Reichthum an Silber, und_
 _oft kamen Leute aus der Nachbarschaft und baten um ein Darlehn, welches jene auch nie verweigerten; nur hielten sie streng darauf, daß die Schuld zum vorher bestimmten Tage zurückgezahlt ward, geschah dies nicht, so_

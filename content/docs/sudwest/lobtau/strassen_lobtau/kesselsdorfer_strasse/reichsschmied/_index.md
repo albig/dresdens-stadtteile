@@ -1,17 +1,7 @@
 ---
-title: "Reichsschmied"
+title: "Zum Reichsschmied"
 date: 2024-02-17T22:13:44+01:00
 ---
-
-![zum reichsschmied](reichsschmied_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
 
 * * *
 

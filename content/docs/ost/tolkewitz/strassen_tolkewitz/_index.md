@@ -1,15 +1,7 @@
 ---
-title: "Straßen Tolkewitz"
+title: "Straßen und Plätze in Tolkewitz"
 date: 2024-02-17T22:13:39+01:00
 ---
-
-![straßen und plätze in tolkewitz](strassen_tolkewitz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../ost/tolkewitz/strassen_tolkewitz/hauptseitetolkewitz2.jpg)](../../../ost/tolkewitz/)
 
 [![alttolkewitz](../../../ost/tolkewitz/strassen_tolkewitz/a_rectangle_1065.gif)](../../../ost/tolkewitz/strassen_tolkewitz/alttolkewitz/)
 

@@ -3,15 +3,6 @@ title: "Eichbusch"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-
-* * *
-
-
-
-
-[![](../../../../nachbarn.jpg)](../../../../nordost/schonfeld-weissig/)
-
-
 Eichbusch wurde 1652 erstmals als Schäfferey in Eichbüschen urkundlich erwähnt,
 entstand jedoch vermutlich bereits um 1618 als Vorwerk des Helfenberger Rittergutes. Zur Gemarkung gehören zwei noch heute als Gebäude erhaltene Wassermühlen am Keppbach sowie einige wenige Wohnhäuser. Kernstück der
 kleinen Siedlung ist der Gebäudekomplex der früheren Schäferei, welche einst Teil der königlichen Merinoschafzucht war. Der Stammsitz dieses Unternehmens befand

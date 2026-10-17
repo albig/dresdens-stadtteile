@@ -3,28 +3,7 @@ title: "Schloss Lockwitz"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![schloss lockwitz](schloss_lockwitz_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../hauptseitelockwitz.jpg)](../../../sudost/lockwitz/)
-
-* * *
-
-
-
 
 ![](../../../sudost/lockwitz/schloss_lockwitz/lockwitzschloss1840.jpg)Schloss Lockwitz _(Bild um 1840)_ geht auf ein 1349 erstmals erwähntes Rittergut zurück, welches zunächst mit der Dresdner Alexiuskapelle und Heinrich Karras zwei Besitzern gehörte. Von 1411 bis 1512 besaß die Dresdner Bürgerfamilie Ziegler einen Anteil am Gut, der übrige gehörte seit Ende des 15. Jahrhunderts dem Freiberger Patriziergeschlecht von Alnpeck. Stefan Alnpeck (1456-1521) war als Münzmeister und Amtshauptmann zu Freiberg zu erheblichem Wohlstand gekommen und Gründer der Saigerhütte Grünthal.
 

@@ -3,19 +3,6 @@ title: "Kornerplatz"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![körnerplatz](kornerplatz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../nordost/hauptseiteloschwitz.jpg)](../../../../nordost/loschwitz/)
-
-* * *
-
-
-
-
 ![](../../../../nordost/loschwitz/strassen_loschwitz/kornerplatz/loschwk_rnerpl1.jpg)Der Körnerplatz wurde in seiner heutigen Form Ende des 19. Jahrhunderts im Nordteil des früheren Loschwitzer Dorfkerns angelegt. Ursprünglich befand sich hier auf hochwasserfreiem Terrain der Gemeindeanger mit dem Dorfbrunnen, um den sich zahlreiche Fachwerkhäuser gruppierten. Mit dem Bau des [Blauen Wunders](../../../../nordost/loschwitz/blaues_wunder/) entschlossen sich die Gemeinden Blasewitz und Loschwitz zur Umgestaltung der beiden Brückenköpfe. 1892 begann der Abbruch von insgesamt zwölf Gebäuden zwischen [Grundstraße](../../../../nordost/loschwitz/strassen_loschwitz/grundstrasse/), [Körnerweg](../../../../nordost/loschwitz/strassen_loschwitz/) und [Friedrich-Wieck-Straße](../../../../nordost/loschwitz/strassen_loschwitz/friedrich-wieck-strasse/). An ihrer Stelle entstanden bis zur Jahrhundertwende mehrgeschossige Wohngebäude mit Läden im Erdgeschoss. In diesem Zusammenhang wurde der alte Dorfplatz nach dem Juristen und Schriftsteller Christian Gottfried Körner (1756-1831) benannt, der in Loschwitz einen Weinberg besaß.
 
 ![](../../../../nordost/loschwitz/strassen_loschwitz/kornerplatz/loschwk_rnerpl.jpg)Im Eckhaus zur Schillerstraße 1 befand sich früher die Wildbret- und Geflügel- handlung Richard Herfurth, deren dekorative Jugendstil-Hinterglasmalereien noch erhalten sind. Bemerkenswert ist auch das schmale Nachbargebäude an der Auffahrt zur Brücke, Goldenes Schiff genannt. Das Eckhaus Friedrich-Wieck-Straße 2, 1895 von Karl Emil Scherz errichtet, zeigt am Giebelfeld eine Reliefdarstellung Bismarcks, die als eines der wenigen Bismarck-Denkmale Dresdens die Bilderstürmerei der Nachkriegszeit überstand. Scherz lieferte auch die Entwürfe für zahlreiche Nachbargebäude rund um den Platz und an den angrenzenden Straßen. Von den zahlreichen traditionsreichen Geschäften sollen an dieser Stelle stellvertretend die Pelzwarenhandlung Hermann Lange, die Buchbinderei Brauer, das Hamburger Cigarrenhaus, Uhrmacher Winkler, die Samenhandlung Görn, die Blumenhandlung Feige (später Trinks) und das Fotohaus Gaudernack erwähnt werden. Zu den älteren Bauwerken gehört das 1857 von Theodor Lehnert erbaute Wohn- und Geschäftshaus Körnerplatz 1 an der Einmündung der Grundstraße.

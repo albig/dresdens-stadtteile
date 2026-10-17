@@ -331,7 +331,7 @@ Lampenfabrik Seifert:
 
 Die nach 1890 in der Nähe des heutigen Conertplatzes angelegte Straße wurde ab 1894 zunächst Parkstraße genannt, womit dem parkartig gestalteten Gelände des damaligen Kronprinzenplatzes Reverenz erwiesen werden sollte. Um Verwechslungen mit der Parkstraße in der Innenstadt zu vermeiden, erfolgte nach der Eingemeindung 1904 die Umbenennung in Grumbacher Straße. Der Ort Grumbach gehört heute als Ortsteil zu Wilsdruff.
 
-![](../../../sudwest/lobtau/strassen_lobtau/hainsberger straße.jpg)
+![](../../../sudwest/lobtau/strassen_lobtau/hainsberger_straße.jpg)
 
 ![](../../../sudwest/lobtau/strassen_lobtau/löbtauhainsbergerstr.jpg)Die vom Bonhoefferplatz zur Tharandter Straße führende Hainsberger Straße wurde 1897 angelegt und nach dem Dorf Hainsberg, seit 1964 ein Stadtteil von Freital, benannt. Neben Wohnhäusern gab es hier auch einige meist in den Hintergebäuden untergebrachte Kleinunternehmen, wie die Sächsische Konservenfabrik Bernhard Richter (Nr. 3), die Biox AG (Nr. 5) und die erste Produktionsstätte der bekannten Schokoladenfabrik Hartwig & Vogel (Nr. 9, bis 1914). In der Nr. 22 befand sich von 1929 bis 1945 die Adventgemeinde.
 

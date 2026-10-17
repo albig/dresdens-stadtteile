@@ -3,10 +3,6 @@ title: "Industriebahn Albertstadt"
 date: 2024-02-17T22:13:30+01:00
 ---
 
-
-
-[![](../../../../neustadt/hauptseitealbertstadt.jpg)](../../../../neustadt/albertstadt/)
-
 ![](../../../../neustadt/albertstadt/industriegelande/industriebahn_albertstadt/albindustriebahn1.jpg)Die Industriebahn Albertstadt entstand als sogenannte Zeugmeistereibahn im
 Auftrag des Kriegsministeriums und wurde am 24. September 1901 in Betrieb genommen. Ausgangspunkt war die Strecke [Dresden - Görlitz](../../../../nord/klotzsche/dresden_-_gorlitz/), von der die
 Industriebahn nördlich der Straßenbrücke am heutigen Haltepunkt Industriegelände abzweigt. Anschlussgleise führten zu den Pulvermagazinen sowie zum Arsenal mit

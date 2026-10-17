@@ -3,20 +3,6 @@ title: "Rossendorf"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-
-* * *
-
-
-
-
-[![](../../../nachbarn.jpg)](../../../nordost/schonfeld-weissig/)
-
-* * *
-
-
-
-
-
 ![](../../../nordost/schonfeld-weissig/rossendorf/rossendorf.jpg)Rossendorf wurde vermutlich im 12. Jahrhundert von fränkischen Bauern gegründet,
 ging jedoch bald wieder ein. Der Ort wurde 1349 als wüst bezeichnet und seine Fluren unter den umliegenden Orten aufgeteilt. Erst 1429 wird wieder ein Vorwerk
 Rossendorf urkundlich erwähnt, welches vermutlich auf einer kleinen Anhöhe an der Alten Hornstraße lag. In diesem Jahr verkaufte Siegmund von Wartenberg für 2000

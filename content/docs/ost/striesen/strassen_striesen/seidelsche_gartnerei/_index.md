@@ -3,18 +3,7 @@ title: "Seidelsche Gärtnerei"
 date: 2024-02-17T22:13:39+01:00
 ---
 
-![seidelsche gärtnerei](seidelsche_gartnerei_nurbanlegendbannerh.gif)
-
 * * *
-
-* * *
-
-
-
-[![](../../../../ost/striesen/hauptseitestriesen.jpg)](../../../../ost/striesen/)
-
-* * *
-
 
 ![](../../../../ost/striesen/strassen_striesen/seidelsche_gartnerei/striesseidelpark2.jpg)Die Geschichte der Gärtnerei Seidel begann in Böhmen, woher die Familie ursprünglich stammte. Während des Dreißigjährigen Krieges flohen die Vorfahren Hermann Seidels aus Glaubensgründen nach Sachsen und ließen sich zunächst in Radeberg nieder. Christoph Seydel (1670-1747) übte hier zeitweise das Amt des Bürgermeisters aus und gründete 1717 das Augustusbad.
 

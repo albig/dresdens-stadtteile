@@ -3,16 +3,6 @@ title: "Felsenkellerbrauerei"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../hauptseiteplauen.jpg)](../../../../sud/plauen/)
-
-* * *
-
 ![](../../../../sud/plauen/plauenscher_grund/felsenkellerbrauerei/plgrundfelsenkeller6.jpg)
 
 **Bieruntersetzer der Felsenkellerbrauerei mit dem Firmenlogo**

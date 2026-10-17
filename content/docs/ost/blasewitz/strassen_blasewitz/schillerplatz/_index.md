@@ -3,18 +3,6 @@ title: "Schillerplatz"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![schillerplatz](schillerplatz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseiteblasewitz.jpg)](../../../../ost/blasewitz/)
-
-* * *
-
-
-
 ![](../../../../ost/blasewitz/strassen_blasewitz/schillerplatz/blasewschiller10.jpg)Der Schillerplatz entstand im 19. Jahrhundert an Stelle des früheren Blasewitzer Dorfplatzes. Noch um 1850 lagen hier die Gehöfte der Bewohner, umgeben von Gärten und Feldern. In einem dieser Güter kam am 20. August 1802 der Maler Woldemar Hottenroth (1802-1894) zur Welt, dessen Vater das Anwesen 1798 erworben hatte, 1810 jedoch wieder verkaufte. Als eines der wenigen Gebäude der dörflichen Vergangenheit ist dieses Haus unmittelbar neben dem Schillergarten (Schillerplatz 10) bis heute erhalten geblieben _(Foto)_. Zwischen 2006 bis 2017 befand sich hier die kleine Pension "Nebenan". 2010 wurde am Gebäude eine von Elke und Peter Ressel gestaltete Gedenktafel zu Ehren des Künstlers und seines Bruders Edmund Hottenroth (1804-1889) angebracht.
 
 Nachdem viele Bauern durch den Verkauf ihrer Parzellen an Bauinteressenten zu Wohlstand gekommen waren, errichteten sie an Stelle der früheren Gehöfte neue Wohnhäuser mit Läden, kleinen Handwerksbetrieben und Gaststätten. Bereits 1875 gab es nur noch ein einziges Bauerngut im Ort. Um 1860 hatte der Platz den Namen des Dichters Friedrich Schiller erhalten, womit an dessen häufige Besuche im [Gasthof Blasewitz](../../../../ost/blasewitz/strassen_blasewitz/schillerplatz/schillergarten/) erinnert werden sollte.

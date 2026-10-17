@@ -3,19 +3,6 @@ title: "Calberlastraße"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![calberlastraße](calberlastrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../nordost/hauptseiteloschwitz.jpg)](../../../../nordost/loschwitz/)
-
-* * *
-
-
-
-
 ![](../../../../nordost/loschwitz/strassen_loschwitz/calberlastrasse/loschwcalberla8.jpg)Die Calberlastraße im Ortsteil Oberloschwitz erinnert an den Zuckerfabrikanten Heinrich
 Conrad Wilhelm Calberla (1774-1832) und seinen Sohn Gustav Moritz Calberla (1809-1909), der die Straße anlegen ließ und früher im Haus Nr. 5 wohnte. Sie geht auf einen
 alten Fußweg zurück, der die Pillnitzer Landstraße mit dem oberhalb des Elbhangs gelegenen Spittelteich verband. Aus diesem Grund wurde der Weg früher Spittelweg bzw. Spittelgasse

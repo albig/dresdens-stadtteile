@@ -3,19 +3,6 @@ title: "Schloßbrauerei Niederpoyritz"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../nordost/hauptseiteniederpoyritz.jpg)](../../../../nordost/niederpoyritz/)
-
-* * *
-
-
-
-
 ![](../../../../nordost/niederpoyritz/strassen_niederpoyritz/schlossbrauerei/niepschlo_brauerei.jpg)Die Geschichte der früheren Niederpoyritzer Schloßbrauerei reicht bis ins Jahr 1659
 zurück, als der Rittergutsbesitzer Caspar Haubold von Körbitz die Genehmigung des Kurfürsten erhielt, hier ein Brauhaus einzurichten. Wenig später wurde mit dem Bau
 begonnen. Danach übernahmen wechselnde Pächter den Betrieb der Rittergutsbrauerei, welche wegen der hohen Qualität des hier hergestellten Bieres weit über die Ortsgrenzen hinaus bekannt wurde.

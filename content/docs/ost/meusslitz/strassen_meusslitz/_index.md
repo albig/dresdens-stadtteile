@@ -1,15 +1,7 @@
 ---
-title: "Straßen Meusslitz"
+title: "Straßen und Plätze in Meußlitz"
 date: 2024-02-17T22:13:38+01:00
 ---
-
-![straßen und plätze in meußlitz](strassen_meusslitz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../ost/meusslitz/strassen_meusslitz/hauptseitemeu_litz2.jpg)](../../../ost/meusslitz/)
 
 ![](../../../ost/meusslitz/strassen_meusslitz/am_br_chigt.jpg)
 
@@ -75,7 +67,7 @@ Am 25. Februar 1993 erfolgte eine erneute Umbennung zu Ehren der deutschen Schri
 
 Die Ganghoferstraße, eine Seitenstraße der Meußlitzer Straße, erhielt ihren Namen am 15. Dezember 1933 nach dem deutschen Schriftsteller Ludwig Ganghofer (1855-1920), der vor allem im Gebirgsmilieu angesiedelte Unterhaltungsromane verfasste. In unmittelbarer Nachbarschaft befinden sich der Friedhof und die Kirche des Ortes. 1897 hatten sich Meußlitz, Sporbitz und Kleinzschachwitz zu einer gemeinsamen Kirchgemeinde zusammengeschlossen, die eine frühere Schulturnhalle zum Gemeindesaal umbauten. Seit 1947 trägt dieser den Namen [Stephanuskirche](../../../ost/kleinzschachwitz/stephanuskirche/).
 
-![grüner steig](../../../ost/meusslitz/strassen_meusslitz/grüner steig.jpg)
+![grüner steig](../../../ost/meusslitz/strassen_meusslitz/grüner_steig.jpg)
 
 Die kleine Straße im Dorfkern von Meußlitz erhielt zunächst auf Beschluss des Gemeinderates am 7. Februar 1901 den Namen Wiesenstraße. Bereits zuvor war ein hier gelegenes Flurstück Wiesenfeld genannt worden. Da es in Gruna bereits eine Wiesenstraße gab, machte sich nach der Eingemeindung von Zschachwitz, zu dem Meußlitz ab 1922 gehörte, eine Umbenennung erforderlich. Am 30. September 1953 wurde die Meußlitzer Wiesenstraße in Grüner Steig umbenannt.
 

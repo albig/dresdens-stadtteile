@@ -3,22 +3,6 @@ title: "Rähnitzer Kirche"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![rähnitzer kirche](rahnitzer_kirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-[![](../../../nord/rahnitz/rahnitzer_kirche/hauptseiter_hnitz.jpg)](../../../nord/rahnitz/)
-
 * * *
 
 ![friedhof rähnitz-hellerau ludwig-kossuth-str. 20 01109 dresden  ev.-luth. pfarramt wilschdorf/rähnitz reineckeweg 5 01109 dresden tel. 0351/8808404](../../../nord/rahnitz/rahnitzer_kirche/a_rectangle_1006.gif)

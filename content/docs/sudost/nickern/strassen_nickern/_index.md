@@ -1,15 +1,7 @@
 ---
-title: "Straßen Nickern"
+title: "Straßen und Plätze in Nickern"
 date: 2024-02-17T22:13:42+01:00
 ---
-
-![straßen und plätze in nickern](strassen_nickern_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../sudost/nickern/strassen_nickern/hauptseitenickern2.jpg)](../../../sudost/nickern/)
 
 ![alnpeckstraße](../../../sudost/nickern/strassen_nickern/a_rectangle_847.gif)
 
@@ -145,7 +137,7 @@ Die kurze Inger-Karén-Straße im Wohnpark Nickern verdankt ihren Namen der Oper
 
 Die 1998 im nördlichen Teil des Wohnparks Nickern angelegte Joseph-Keilberth-Straße erinnert an den Dirigenten und früheren Generalmusikdirektor der Dresdner Staatskapelle Joseph Keilberth (1908-1968). Keilberth war erster Leiter des Orchesters nach 1945 und maßgeblich am Wiederaufbau des Musiklebens in der Stadt beteiligt.
 
-![kautzscher straße](../../../sudost/nickern/strassen_nickern/kautzscher straße.jpg)
+![kautzscher straße](../../../sudost/nickern/strassen_nickern/kautzscher_straße.jpg)
 
 Die Kautzscher Straße entstand 1932 beim Bau der Wohnsiedlung nordwestlich der Fritz-Meinhardt-Straße und verbindet die Schönberg- mit der Elsternstraße. Die 1934 erstmals im Adressbuch genante Straße erhielt ihren Namen nach dem nördlich von Kreischa gelegenen Dorf Kautzsch.
 

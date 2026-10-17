@@ -3,19 +3,6 @@ title: "Teekanne"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../../hauptseites_dvorstadt.jpg)](../../../../../zentrum/sudvorstadt/)
-
-* * *
-
-
-
-
 ![](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/zwickauer_strasse/teekanne/s_dvteekanne.jpg)Das Unternehmen entstand 1882 unter dem Namen R. Seelig & Hille als Handelsfirma zum
 Vertrieb asiatischer Waren. Im Ladengeschäft auf der Seestraße 10, ab 1886 auf der Prager Straße 30/32 wurden neben Tee auch chinesisches und japanisches Porzellan, Paravents, edle
 Stoffe und Kleider verkauft. Erst nach Übergabe des Unternehmens an die Nachfolger Rudolf Anders und Eugen Nisslé spezialisierte sich der Betrieb auf den Verkauf von Tee, der in

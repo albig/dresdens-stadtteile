@@ -1,15 +1,7 @@
 ---
-title: "Straßen Omsewitz"
+title: "Straßen und Plätze in Omsewitz"
 date: 2024-02-17T22:13:46+01:00
 ---
-
-![straßen und plätze in omsewitz](strassen_omsewitz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../west/omsewitz/strassen_omsewitz/hauptseiteomsewitz2.jpg)](../../../west/omsewitz/)
 
 ![adalbert-stifter-weg](a_rectangle_375.gif)
 
@@ -79,7 +71,7 @@ Der Hagebuttenweg entstand Anfang der 1980er Jahre im Zusammenhang mit dem Bau d
 
 
 
-![harthaer straße](../../../west/omsewitz/strassen_omsewitz/harthaer straße.jpg)
+![harthaer straße](../../../west/omsewitz/strassen_omsewitz/harthaer_straße.jpg)
 
 Die Harthaer Straße wurde als ringförmige Erschließungsstraße angelegt und am 29. August 1986 nach dem Kurort Hartha, heute ein Ortsteil von Tharandt, benannt. Hier befindet sich das "Gorbitz-Center", eines von mehreren großen Einkaufscentern im Neubaugebiet Gorbitz. Das von Supermärkten und kleineren Läden sowie Arztpraxen genutzte Gebäude wurde 2015 an einen Investor verkauft und umgebaut.
 

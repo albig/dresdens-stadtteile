@@ -3,18 +3,6 @@ title: "Lockwitztalbahn"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![lockwitztalbahn](lockwitztalbahn_nestimatebanner.gif)
-
-* * *
-
-
-
-[![](../../../hauptseitelockwitz.jpg)](../../../sudost/lockwitz/)
-
-* * *
-
-
-
 ![](../../../sudost/lockwitz/lockwitztalbahn/lockwitztalbahn1.jpg)Die Lockwitztalbahn wurde 1905/06 durch den Gemeindeverband Niedersedlitz - Lockwitz - Kreischa erbaut, nachdem bereits zuvor Projekte für eine Eisenbahnstrecke von Niedersedlitz durch das Lockwitztal aufgekommen waren. Die meterspurige elektrisch betriebene Straßenbahn entstand in nur knapp sechsmonatiger Bauzeit und verband die im Lockwitzgrund gelegenen Orte mit dem Niedersedlitzer Bahnhof. Hier gab es außerdem Anschluss an die ebenfalls schmalspurige [Dresdner Vorortbahn](../../../ost/niedersedlitz/dresdner_vorortbahn/) in Richtung Leuben und Kleinzschachwitz. Die offizielle Einweihung der 9,15 km langen Strecke fand am 3. März 1906 statt. Bereits im ersten Jahr konnten 372.000 Fahrgäste registriert worden, die das neue Verkehrsmittel vor allem an den Wochenenden rege nutzten. Dafür standen zunächst sechs Trieb- und zwei Beiwagen zur Verfügung. 1908 wurde der Fahrzeugpark um zwei weitere Wagenzüge erweitert.
 
 ![](../../../sudost/lockwitz/lockwitztalbahn/lockwitztalbahn2.jpg)Neben Personen wurden in den Anfangsjahren auch Güter und Post befördert. So nutzten ab 1911 die [Kelterei Donath](../../../sudost/lockwitz/strassen_lockwitz/kelterei_lockwitzgrund/), [Rügers Schokoladenfabrik](../../../sudost/lockwitz/strassen_lockwitz/schokoladenfabrik_ruger/) und die

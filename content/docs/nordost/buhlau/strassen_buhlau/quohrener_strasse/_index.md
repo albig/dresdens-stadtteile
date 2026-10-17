@@ -3,21 +3,6 @@ title: "Quohrener Straße"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![quohrener straße](quohrener_strasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../nordost/hauptseiteb_hlau.jpg)](../../../../nordost/buhlau/)
-
-* * *
-
-
-
-
-
-
 ![](../../../../nordost/buhlau/strassen_buhlau/quohrener_strasse/b_hlau1.jpg)Die Quohrener Straße bildet die Hauptstraße des alten Dorfkerns. Ihren Namen
 erhielt sie nach dem im Laufe der Zeit mit Bühlau zusammengewachsenen Ortsteil Quohren, der 1365 erstmals als Quohrne urkundlich erwähnt wurde. Bis zur
 Eingemeindung Bühlaus wurde diese Straße Schönfelder Straße genannt. Die Lage der erhaltenen Gehöfte zu beiden Seiten der Straße, deren Geschichte sich

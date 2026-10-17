@@ -3,24 +3,6 @@ title: "Auferstehungskirche"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![auferstehungskirche](auferstehungskirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../hauptseiteplauen.jpg)](../../../sud/plauen/)
-
 * * *
 
 ![](../../../sud/plauen/auferstehungskirche/plauensiegelkirche.jpg)

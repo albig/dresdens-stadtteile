@@ -12,14 +12,6 @@ date: 2024-02-17T22:13:39+01:00
 
 **Gemeindesiegel von Zschieren**
 
-
-[![](../../nachbarn.jpg)](../../ost/)
-
-* * *
-
-
-
-
 * * *
 
 **Vereine in Zschieren:**

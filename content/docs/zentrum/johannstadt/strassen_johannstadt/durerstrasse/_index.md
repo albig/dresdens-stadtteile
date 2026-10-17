@@ -3,19 +3,11 @@ title: "Durerstraße"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![dürerstraße](durerstrasse_n1_banner2.gif)
-
 * * *
 
 
 
 [![](../../../../hauptseitepv.jpg)](../../../../zentrum/pirnaische_vorstadt/)
-
-[![](../../../../hauptseitejohannstadt.jpg)](../../../../zentrum/johannstadt/)
-
-* * *
-
-
 
 ![](../../../../zentrum/johannstadt/strassen_johannstadt/durerstrasse/johannstd_rerstr2.jpg)Ebenso wie der heute nicht mehr vorhandene [Dürerplatz](../../../../zentrum/johannstadt/strassen_johannstadt/) erhielt auch die Dürerstraße ihren Namen nach dem deutschen Maler und Grafiker Albrecht Dürer
 (1471-1528), dessen Holzschnitte und Kupferstiche zu den bedeutendsten Werken der Kulturgeschichte gehören. Ihren Ausgangspunkt hatte die 1873

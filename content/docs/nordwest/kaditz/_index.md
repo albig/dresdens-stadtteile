@@ -14,11 +14,6 @@ date: 2024-02-17T22:13:36+01:00
 
 ![](../../nordwest/plz_01139.jpg)
 
-[![](../../nachbarn.jpg)](../../nordwest/)
-
-
-* * *
-
 **Schulen in Kaditz:**
 
 [![](../../nordwest/kaditz/43gskaditz.jpg)](https://cms.sachsen.schule/43gsdd/start/)

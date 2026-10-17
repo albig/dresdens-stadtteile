@@ -14,8 +14,6 @@ date: 2024-02-17T22:13:44+01:00
 
 ![](../../../plz_01156.jpg)
 
-[![](../../../nachbarn.jpg)](../../../sudwest/gompitz/)
-
 Pennrich wurde 1378 im Verzeichnis der Orte des Amtes Dresden erstmals erwähnt. Der Ort entstand vermutlich im 11. Jahrhundert als Gassendorf deutscher Kolonisten. Möglicherweise ging in der Ortsflur die
 bereits vorhandene slawische Siedlung Ranczwicz auf, da Pennrich noch um 1469 als Penerik-Ranczwicz bezeichnet wird. Die Herkunft des Ortsnamens ist unklar. Wahrscheinlich stand das altsorbische Wort pnarik = Baumstock
 bzw. Pen = Stöckigt Pate. Verschiedene Quellen erklären den Ortsnamen auch in Verbindung mit dem sagenhaften Meißner Bischof Benno: Penerich = Bennos Reich, da Pennrich einst zum Besitz des Klosters Seußlitz gehörte.

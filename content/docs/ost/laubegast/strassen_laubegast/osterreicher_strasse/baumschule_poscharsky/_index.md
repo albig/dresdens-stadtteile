@@ -7,19 +7,6 @@ date: 2024-02-17T22:13:38+01:00
 
 * * *
 
-
-
-* * *
-
-
-
-[![](../../../../../ost/laubegast/hauptseitelaubegast.jpg)](../../../../../ost/laubegast/)
-
-* * *
-
-
-
-
 Die Familie Poscharsky gehörte im 19. Jahrhundert zu den bekanntesten Vertretern des sächsischen Gartenbaus. In Dresden besaß sie mehrere Gärtnereien und Baumschulen u. a. auf der Pirnaischen Straße 42, der
 Zwickauer Straße 54, der Konkordienstraße 25 und der Schießgasse 4. Größte Niederlassung war die Baumschule Laubegast mit insgesamt 18 Hektar Fläche, die wegen ihrer Ausdehnung auch Waldpark Laubegast genannt wurde.
 

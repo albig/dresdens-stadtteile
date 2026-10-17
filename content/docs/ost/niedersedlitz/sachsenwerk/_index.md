@@ -3,16 +3,6 @@ title: "Sachsenwerk"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../hauptseiteniedersedlitz.jpg)](../../../ost/niedersedlitz/)
-
-* * *
-
 ![](../../../ost/niedersedlitz/sachsenwerk/sachsenwerk_werbung.jpg)
 
 

@@ -12,14 +12,6 @@ date: 2024-02-17T22:13:38+01:00
 
 **Gemeindesiegel von Niedersedlitz**
 
-
-[![](../../nachbarn.jpg)](../../ost/)
-
-* * *
-
-
-
-
 * * *
 
 **Schulen in Niedersedlitz:**

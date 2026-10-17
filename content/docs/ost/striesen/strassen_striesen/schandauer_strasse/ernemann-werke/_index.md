@@ -3,21 +3,6 @@ title: "Ernemann-Werke"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../../ost/striesen/hauptseitestriesen.jpg)](../../../../../ost/striesen/)
-
-* * *
-
-
-
-
-
-
 Die Ernemann-Kamerawerke gehen auf den Unternehmer Heinrich Ernemann zurück, der aus einfachen Verhältnissen stammte und in Dresden zunächst ein Posamenten-, Strumpf- und Weißwarengeschäft besaß. Da der gelernte Schlosser sich schon früh mit technischen Dingen beschäftigte, tat er sich mit einem befreundeten Handwerker, dem Tischlermeister Matthias, zusammen und gründete am 16. November 1889 auf der Güterbahnhofstraße 10 sein erstes Unternehmen zum Bau von Fotoapparaten (Dresdener photographische Apparate-Fabrik Ernemann & Matthias). Auch nach der Trennung von seinem Kompagnon 1891 führte
 Heinrich Ernemann seine Firma mit Erfolg weiter und verlegte sie zunächst in die Pirnaische Straße, später auf die Kaulbachstraße 13. 1896 konnte er das Grundstück Schandauer Straße 48 erwerben und ließ hier ein modernes Produktionsgebäude errichten _(Fotos um 1924)_. Drei Jahre später wandelte Heinrich Ernemann den Betrieb in eine Aktiengesellschaft für Camera-Fabrikation um.
 

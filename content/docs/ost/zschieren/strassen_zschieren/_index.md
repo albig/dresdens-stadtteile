@@ -1,17 +1,9 @@
 ---
-title: "Straßen Zschieren"
+title: "Straßen und Plätze in Zschieren"
 date: 2024-02-17T22:13:39+01:00
 ---
 
-![straßen und plätze in zschieren](strassen_zschieren_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../ost/zschieren/strassen_zschieren/hauptseitezschieren2.jpg)](../../../ost/zschieren/)
-
-![am mittelwald](../../../ost/zschieren/strassen_zschieren/am mittelwald.jpg)
+![am mittelwald](../../../ost/zschieren/strassen_zschieren/am_mittelwald.jpg)
 
 Die Straße Am Mittelwald entstand 1935 und erhielt ihren Namen nach einer Flurbezeichnung. Am 3. Mai 1935 wurde sie dem öffentlichen Verkehr übergeben.
 
@@ -27,7 +19,7 @@ Der Straßenname An der Ölmühle erinnert an die einst hier befindliche Ölmüh
 
 Der kleine Weg An der Wostra verbindet die Wilhelm-Weitling-Straße mit dem Elbufer und führt am früheren Gelände der Ziegelei Neubert entlang. 1930 wurde hier durch die Wochenend- und Strandbadgesellschaft (WOSTRA) eine Laubenkolonie mit Freibad errichtet. Aus dieser ging das bis heute beliebte [Strandbad Wostra](../../../ost/zschieren/freibad_wostra/) mit angeschlossenem Campingplatz hervor. Die Straßenbezeichnung An der Wostra wurde jedoch erst nach 2000 eingeführt.
 
-![an der schanze](../../../ost/zschieren/strassen_zschieren/an der schanze.jpg)
+![an der schanze](../../../ost/zschieren/strassen_zschieren/an_der_schanze.jpg)
 
 Die kleine Straße An der Schanze wurde Anfang 1935 benannt. Die Namensgebung erfolgte vermutlich nach einer hier gelegenen militärischen Befestigungsanlage.
 
@@ -51,7 +43,7 @@ Angelegt wurde die Straße um 1930 und zunächst An der Albertstraße genannt, d
 
 Die Käthe-Kollwitz-Straße wurde um 1908 im Zusammenhang mit der Bebauung der Fluren zwischen Kleinzschachwitz und Zschieren angelegt und nach dem 1902 verstorbenen sächsischen König zunächst Georgstraße genannt. Nach 1945 erhielt sie den Namen der Malerin Käthe Kollwitz (1867-1945), die durch ihre Anti-Kriegs-Darstellungen international bekannt wurde. Käthe Kollwitz verbrachte ihre letzten Lebensmonate auf Einladung der Wettiner in Moritzburg, wo noch heute eine Gedenkstätte an sie erinnert.
 
-![krippener straße](../../../ost/zschieren/strassen_zschieren/krippener straße.jpg)
+![krippener straße](../../../ost/zschieren/strassen_zschieren/krippener_straße.jpg)
 
 Die Krippener Straße bildet die Verlängerung des Gondelwegs im benachbarten Meußlitz und wurde zunächst auch auf Zschierener Flur so genannt. Um 1900 erfolgte die Umbenennung als Christian Friedrichstraße (in dieser Schreibweise) nach dem Privatmann, der die Straße angelegt hatte. Zu den Bewohnern gehörte 1904/05 für einige Monate der Schriftsteller Robert Kraft, der als Autor utopischer Abenteuerromane zu seiner Zeit ähnlich populär wie Karl May war.
 

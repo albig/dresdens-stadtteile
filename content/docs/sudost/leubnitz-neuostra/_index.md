@@ -18,13 +18,6 @@ date: 2024-02-17T22:13:41+01:00
 
 ![](../../sudost/plz_01219.jpg)
 
-[![](../../nachbarn.jpg)](../../sudost/)
-
-* * *
-
-
-
-
 * * *
 
 **Bildungseinrichtungen**

@@ -12,14 +12,6 @@ date: 2024-02-17T22:13:32+01:00
 
 **Gemeindesiegel von Hosterwitz**
 
-
-[![](../../nachbarn.jpg)](../../nordost/)
-
-* * *
-
-
-
-
 * * *
 
  **Schulen in Hosterwitz:**

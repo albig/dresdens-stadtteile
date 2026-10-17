@@ -3,24 +3,7 @@ title: "Gustavheim"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![gustavheim](gustavheim_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../nordost/hauptseiteniederpoyritz.jpg)](../../../nordost/niederpoyritz/)
-
 
 ![](../../../nordost/niederpoyritz/gustavheim/niepgustavheim2.jpg)Das Gebäude entstand 1873 als Sommervilla des Dresdner Malers Leonhardt
 Johannes Sturm, welcher vor allem als Porträtmaler tätig war und gemeinsam mit seinem Bruder Ludwig eine Kunsthandlung auf der Prager Straße betrieb. Da Sturm

@@ -3,19 +3,6 @@ title: "Ostra"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-
-* * *
-
-
-
-[![](../../../hauptseitefriedrichstadt.jpg)](../../../zentrum/friedrichstadt/)
-
-* * *
-
-
-
-
-
 Die Geschichte des Dorfes Ostra begann im 11. Jahrhundert, als sich sorbische Bauern auf einer hochwasserfreien Erhebung westlich der damaligen Weißeritzmündung ansiedelten. Der Kern dieses Ortes, welcher
 am 31. März 1206 gemeinsam mit Dresden erstmals als Oztrov erwähnt wurde, lag am Ende der heutigen Friedrichstraße. Der Name ist vom altsorbischen Wort ostrov = Werder, Flussinsel abgeleitet, was auf die geografische
 Lage der Siedlung im früheren Mündungsgebiet der Weißeritz hinweist. In der Urkunde ging es um die Klärung eines Rechtsstreites, in welchem ein Herbod von Ostrov als Zeuge genannt ist.

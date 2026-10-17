@@ -3,22 +3,6 @@ title: "Neuberindenkmal"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![neuberindenkmal](neuberindenkmal_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-[![](../../../../ost/laubegast/hauptseitelaubegast.jpg)](../../../../ost/laubegast/)
-
 * * *
 
 ![](../../../../ost/laubegast/strassen_laubegast/neuberindenkmal/laubegneuberindkm2.jpg)

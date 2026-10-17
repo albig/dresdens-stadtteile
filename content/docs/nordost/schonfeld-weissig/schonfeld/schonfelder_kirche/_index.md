@@ -3,24 +3,6 @@ title: "Schönfelder Kirche"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![schönfelder kirche](schonfelder_kirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../nordost/schonfeld-weissig/schonfeld/hauptseitesch_nfeld.jpg)](../../../../nordost/schonfeld-weissig/schonfeld/)
-
 * * *
 
 ![ev.-luth. kirchgemeinde schönfeld borsbergstraße 6 01328 dresden  tel. 0351/2618572](../../../../nordost/schonfeld-weissig/schonfeld/schonfelder_kirche/a_rectangle_1128.gif)

@@ -12,13 +12,6 @@ date: 2024-02-17T22:13:37+01:00
 
 **Gemeindesiegel von Gruna**
 
-
-[![](../../nachbarn.jpg)](../../ost/)
-
- *** * ***
-
-
-
 * * *
 
 **Bildungseinrichtungen**

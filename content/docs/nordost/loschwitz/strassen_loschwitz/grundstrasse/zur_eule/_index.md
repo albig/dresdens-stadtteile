@@ -3,18 +3,6 @@ title: "Zur Eule"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![gasthaus ](zur_eule_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
 * * *
 
 [![](../../../../../nordost/hauptseiterochwitz.jpg)](../../../../../nordost/rochwitz/)![inschriften an der fassade:  einst kamen die hussiten hier ins haus geritten. sie nahmen allhier drei tage quartier. und sie hausten und bemausten den wirt ohne scheu um seine barschaft, seine getränke, seine wurst, sein heu.  schwere nöten brachten die schweden 1630 diesem haus drangsal und viel qualen erlitten die armen ohne erbarmen ehe sie starben.  weißen kuchen, da die eulen-wirtin bäckt, allen schmeckt kamen von jeher die haufen aus den drei dörfern gelaufen, um diesen kuchen zu versuchen und nicht zu vergessen, eule-kirmeskuchen zu essen.  wo einst das borstenvieh der heide kam zur tränke an der trille, baute später man die schänke, der säugrund gibt noch heute davon kunde, drum gäste kommt rein, auch ihr gehört zur runde.  aus wasser- und aus feuersnot, oftmals gerettet mit der geschichte, allerzeit vielfach verkettet, steht hier die eule wie eine säule an der grenze von der biele mit luschwitz am eingang zu rochwitz drum gast verweile hast keine eile.](../../../../../nordost/loschwitz/strassen_loschwitz/grundstrasse/zur_eule/a_rectangle_1043.gif)

@@ -3,28 +3,7 @@ title: "Andreaskirche"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![andreaskirche](andreaskirche_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../zentrum/johannstadt/hauptseitejohannstadt.jpg)](../../../zentrum/johannstadt/)
-
-* * *
-
-
-
 
 Die Andreaskirche entstand 1901/02 am Stephanienplatz, nachdem der Vorstand der Trinitatiskirchgemeinde 1898 die Abspaltung des Südteils der Johannstadt und die Bildung einer eigenständigen Gemeinde
 beschlossen hatte. Grund war der starke Zuzug in diesem Gebiet, durch den die bisher genutzte [Trinitatiskirche](../../../zentrum/johannstadt/trinitatiskirche/) zu klein geworden war. Für die Planung des Gebäudes, welches mit nur 850 Plätzen lediglich als Filialkirche der Trinitatisgemeinde gedacht war, wurde der Baumeister Oskar Kaiser verpflichtet. Im Sommer 1901 erfolgte die Grundsteinlegung  für das Gotteshaus.

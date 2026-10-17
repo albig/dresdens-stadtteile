@@ -3,16 +3,6 @@ title: "Fernsehturm"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../nordost/hauptseitewachwitz.jpg)](../../../nordost/wachwitz/)
-
-* * *
-
 [![förderverein fernsehturm dresden c/o eberhard mittag  freiberger str. 8 01067 dresden tel. 0351/4954223](../../../nordost/wachwitz/fernsehturm/a_rectangle_1463.gif)](http://www.VereinFernsehturmDresden.de)
 
 

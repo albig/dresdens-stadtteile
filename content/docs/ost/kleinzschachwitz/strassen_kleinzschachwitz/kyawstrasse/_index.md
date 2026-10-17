@@ -3,20 +3,6 @@ title: "Kyawstraße"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![kyawstraße](kyawstrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../ost/hauptseitekleinzschachwitz.jpg)](../../../../ost/kleinzschachwitz/)
-
-* * *
-
-
-
-
-
 ![](../../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/kyawstrasse/klzkyawstr33.jpg)Die Kyawstraße erinnert an den Dresdner Kommunalpolitiker Heinrich Rudolph von Kyaw (1809-1885), der ab 1863 in Kleinzschachwitz lebte. Kyaw war ein Großonkel des sächsischen Generalleutnants Friedrich Wilhelm von Kyaw (1654-1733), welcher ab 1715 das Amt des Festungskommandanten des Königsteins innehatte, vor allem jedoch als Satiriker und schlagfertiger Gesprächspartner bei Hofe bekannt wurde. Aktiv setzte sich Heinrich Rudolph von Kyaw als Vorsitzender des Kirchlichen Vereins für die Bildung einer eigenen Kirchgemeinde und die weitere Entwicklung seines Heimatortes ein. Bis zu seinem Tod 1885 lebte er in der noch heute erhaltenen Villa Kyawstraße 8. Ihm zu Ehren erhielt die am Haus vorbeiführende Straße am 1. Juni 1926 ihren Namen. Zuvor ist sie ab 1878 als Pillnitzer Weg, ab 1905 als Pillnitzer Straße in den Stadtplänen verzeichnet.
 
 Einzelne Gebäude:

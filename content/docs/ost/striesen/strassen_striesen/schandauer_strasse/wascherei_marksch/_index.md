@@ -3,19 +3,6 @@ title: "Wascherei Marksch"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../../hauptseitestriesen.jpg)](../../../../../ost/striesen/)
-
-* * *
-
-
-
-
 Die Wäscherei und Färberei Märksch wurde 1881 vom Färbermeister Paul Märksch auf der Großen Schießgasse in der Nähe des Pirnaischen Platzes  gegründet. Aufgrund der guten Geschäftslage mietete Märksch
 schon wenige Jahre später weitere Räumlichkeiten auf der Pirnaischen Straße, 1895 auf der Trinitatisstraße an. 1906 erwarb das Familienunternehmen ein Grundstück am Pohlandplatz (Schandauer Str. 44/46) und ließ hier ein
 nach modernsten Gesichtspunkten ausgestattes Produktionsgebäude errichten. Geleitet wurde der Betrieb von der Witwe des 1896 verstorbenen Firmengründers sowie deren Sohn Paul Märksch jun. Später setzten Sohn Arno und

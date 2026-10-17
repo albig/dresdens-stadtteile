@@ -3,14 +3,6 @@ title: "Bergbaubetrieb Willy Agatz"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../sud/hauptseitegittersee.jpg)](../../../sud/gittersee/)
-
 [![](../../../sud/hauptseitecosch_tz.jpg)](../../../sud/coschutz/)
 
 

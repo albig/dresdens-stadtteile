@@ -1,15 +1,7 @@
 ---
-title: "Straßen Cotta"
+title: "Straßen und Plätze in Cotta"
 date: 2024-02-17T22:13:45+01:00
 ---
-
-![straßen und plätze in cotta](strassen_cotta_n1_banner2.gif)
-
-* * *
-
-
-
-[![](hauptseitecotta2.jpg)](../../../west/cotta/)
 
 ![altcotta](../../../west/cotta/strassen_cotta/a_rectangle_391.gif)
 

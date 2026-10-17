@@ -3,18 +3,6 @@ title: "Industriebahn Kaditz"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../hauptseitekaditz.jpg)](../../../nordwest/kaditz/)
-
-* * *
-
-
-
 ![](../../../nordwest/kaditz/industriebahn_kaditz/kaditzindustrieb2.jpg)Die Geschichte der Kaditzer Industriebahn begann in den Dreißiger Jahren mit
 ersten Plänen zum Bau eines Eisenbahnanschlusses für die Industriebetriebe zwischen Kaditz und Übigau. Vor allem die Firmen Dampfkesselbau Übigau und [Koch & Sterzel](../../../nordwest/ubigau/strassen_ubigau/koch___sterzel/) drängten auf einen solchen Anschluss, um ihre Erzeugnisse
 kostengünstig zum Empfänger transportieren zu können. 1941 begannen sowjetische Kriegsgefangene mit den Erdarbeiten und dem Bau der erforderlichen

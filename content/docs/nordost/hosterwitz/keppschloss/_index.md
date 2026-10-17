@@ -3,24 +3,6 @@ title: "Keppschloss"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![keppschloss](keppschloss_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../nordost/hauptseitehosterwitz.jpg)](../../../nordost/hosterwitz/)
-
 * * *
 
 [**MUSE IM FASANENGARTEN e.V.**](http://www.muse-fasanengarten.de)

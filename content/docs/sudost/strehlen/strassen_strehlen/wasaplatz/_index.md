@@ -3,18 +3,6 @@ title: "Wasaplatz"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![wasaplatz](wasaplatz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../sud/hauptseitestrehlen.jpg)](../../../../sudost/strehlen/)
-
-* * *
-
-
-
 Der Wasaplatz wurde um 1880 angelegt und entwickelte sich in der Folgezeit zum neuen Strehlener Ortszentrum mit Gasthof, Geschäften und Wohnhäusern. Neben dem Hotel Königshof und einigen Villen entstand um 1880 das Geschäftshaus mit der Wasa-Apotheke. Seinen Namen erhielt dieser Platz wie auch die benachbarte Wasastraße nach dem polnisch-schwedischen Königsgeschlecht Wasa. Die Gemahlin König Alberts, Carola von Wasa-Holstein-Gottor (1833-1907) entstammte dieser Familie und sollte mit der Namensgebung geehrt werden. 1853 hatte sie den sächsischen Thronfolger geheiratet. Heute ist der Wasaplatz wichtiger Verkehrsknotenpunkt und zugleich Einkaufszentrum für die Umgebung. Nach 1990 entstand unmittelbar neben dem "Königshof" ein modernes Wohn- und Geschäftshaus an der Lockwitzer Straße.
 
 ![](../../../../sudost/strehlen/strassen_strehlen/wasaplatz/strehlenwasapl.jpg)![](../../../../sudost/strehlen/strassen_strehlen/wasaplatz/strehlenwasaapotheke.jpg)

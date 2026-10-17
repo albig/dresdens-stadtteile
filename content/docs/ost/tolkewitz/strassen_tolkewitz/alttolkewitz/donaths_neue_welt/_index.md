@@ -3,27 +3,7 @@ title: "Donaths Neue Welt"
 date: 2024-02-17T22:13:39+01:00
 ---
 
-![donaths neue welt](donaths_neue_welt_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-[![](../../../../../ost/tolkewitz/hauptseitetolkewitz.jpg)](../../../../../ost/tolkewitz/)
-
-* * *
-
-
-
-
 
 ![](../../../../../ost/tolkewitz/strassen_tolkewitz/alttolkewitz/donaths_neue_welt/tolkewdonaths.jpg)Das beliebte Tolkewitzer Vergnügungsetablissement Donaths Neue Welt entstand aus dem einstigen Dorfgasthof und wurde 1873 unter seinem neuen Namen eröffnet. Besitzer waren die beiden Brüder Hermann und Rinaldo Donath, die sich auch als Fotografen einen guten Ruf erwarben. Rinaldo Donath hatte zuvor bereits als Gastwirt des Blasewitzer Goethegartens gastronomische Erfahrungen sammeln können. 1893 übernahm Emil Böbber Donaths Neue Welt. Später führte der Gastwirt Karl Wattig den Betrieb weiter. 1902 entstand ein großzügiges neues Gaststättengebäude im altdeutschen Fachwerkstil _(Foto)_.
 

@@ -12,14 +12,6 @@ date: 2024-02-17T22:13:46+01:00
 
 **Gemeindesiegel von Omsewitz**
 
-
-[![](../../nachbarn.jpg)](../../west/)
-
-* * *
-
-
-
-
 ![](../../west/omsewitz/omsewitz1.jpg)Omsewitz wurde von slawischen Siedlern gegründet und 1317 erstmals als
 Omasuwitz (= Leute eines Omaz) urkundlich erwähnt. Volkstümlich wird der Ortsname auch mit der Ameise (mundartlich: Omse) in Verbindung gebracht, die
 deshalb das Gemeindewappen zeigt. Im Mittelalter unterstand der Ort einem als [Burgstädtel](../../west/omsewitz/burgstadtel/) bezeichneten  benachbarten Vorwerk. Dieses burgartige Herrengut,

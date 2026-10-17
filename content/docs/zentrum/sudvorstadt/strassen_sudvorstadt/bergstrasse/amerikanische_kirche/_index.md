@@ -1,30 +1,9 @@
 ---
-title: "Amerikanische Kirche"
+title: "Amerikanische Kirche St. John"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![amerikanische kirche st. john](amerikanische_kirche_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../../hauptseites_dvorstadt.jpg)](../../../../../zentrum/sudvorstadt/)
-
-* * *
-
-
-
 
 ![](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/bergstrasse/amerikanische_kirche/s_dvamerikankirche.jpg)Die Amerikanische Kirche wurde 1883 im Auftrag der Stiftung American
 Church of  St. John in the City of  Dresden am Reichsplatz errichtet und ein Jahr später am Ersten Weihnachtsfeiertag eingeweiht. Diese Stiftung war am

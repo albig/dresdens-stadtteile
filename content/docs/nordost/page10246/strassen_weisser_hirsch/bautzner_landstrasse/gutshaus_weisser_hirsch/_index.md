@@ -3,29 +3,7 @@ title: "Gutshaus Weißer Hirsch"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![gutshaus weißer hirsch](gutshaus_weisser_hirsch_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../../nordost/page10246/hauptseitewhirsch.jpg)](../../../../../nordost/page10246/)
-
-* * *
-
-
-
-
 
 ![](../../../../../nordost/page10246/strassen_weisser_hirsch/bautzner_landstrasse/gutshaus_weisser_hirsch/weihigutsh3.jpg)Die Gutswirtschaft Weißer Hirsch geht auf eine1686 vom kurfürstlichen
 Kapellmeister Christoph Bernhardi errichtete Schänke zurück, die dieser Zum Weißen Hirsch nannte. Der Überlieferung  nach soll Kurfürst August im Jahr

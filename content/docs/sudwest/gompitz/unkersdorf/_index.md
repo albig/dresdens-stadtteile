@@ -10,14 +10,6 @@ date: 2024-02-17T22:13:44+01:00
 
 ![](../../../plz_01156.jpg)
 
-[![](../../../nachbarn.jpg)](../../../sudwest/gompitz/)
-
-* * *
-
-
-
-
-
 ![](../../../sudwest/gompitz/unkersdorf/unkersdorf1.jpg)Obwohl der Ortsname (Dorf des Unco) auf einen deutschen Lokator hinweist,
 entstand Unkersdorf vermutlich bereits im 11. Jahrhundert als slawische Siedlung. 1071 wurden die Orte Bulsice und Nicradewice erstmals in einer Urkunde des
 Papstes erwähnt, in dem dieser dem Bischof von Meißen die genannten Dörfer überschrieb. Die beiden Siedlungen bilden vermutlich den Ursprung des

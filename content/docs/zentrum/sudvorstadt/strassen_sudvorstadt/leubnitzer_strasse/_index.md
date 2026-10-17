@@ -3,19 +3,6 @@ title: "Leubnitzer Straße"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![leubnitzer straße](leubnitzer_strasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseites_dvorstadt.jpg)](../../../../zentrum/sudvorstadt/)
-
-* * *
-
-
-
-
 ![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/leubnitzer_strasse/s_dvleubnitzerstr23.jpg)Die Leubnitzer Straße wurde um 1850 im Zusammenhang mit dem Bau des Villenviertels
 hinter dem Hauptbahnhof angelegt. Ihren Namen erhielt sie nach dem Dresdner Stadtteil Leubnitz. Von den zahlreichen Villen überstanden nur wenige die Luftangriffe des Zweiten
 Weltkriegs. Einige erhaltene Gebäude am westlichen Ende der Straße wurden 1976 für die Neubauten der Budapester Straße abgerissen. Die durch die Zerstörung entstandenen

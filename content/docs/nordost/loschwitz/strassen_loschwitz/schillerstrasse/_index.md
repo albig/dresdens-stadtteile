@@ -3,16 +3,6 @@ title: "Schillerstraße"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![schillerstraße](schillerstrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../nordost/hauptseiteloschwitz.jpg)](../../../../nordost/loschwitz/)
-
-* * *
-
 ![schillerhäuschen  schillerstraße 19 01326 dresden  tel. 0351/498660 (stadtmuseum dresden)](../../../../nordost/loschwitz/strassen_loschwitz/schillerstrasse/a_rectangle_421.gif)
 
 * * *

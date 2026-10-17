@@ -3,24 +3,6 @@ title: "St.-Michaels-Kirche"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![st.-michaels-kirche](st_-michaels-kirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../nordost/hauptseiteb_hlau.jpg)](../../../nordost/buhlau/)
-
 * * *
 
 ![st.-michaels-kirche  quohrener str. 18 01324 dresden tel. 0351/2683028](../../../nordost/buhlau/st_-michaels-kirche/a_rectangle_193.gif)

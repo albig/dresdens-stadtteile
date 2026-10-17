@@ -3,19 +3,6 @@ title: "Tiergartenstraße"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![tiergartenstraße](tiergartenstrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../sud/hauptseitestrehlen.jpg)](../../../../sudost/strehlen/)
-
-* * *
-
-
-
-
 Die Tiergartenstraße entstand Mitte des 19. Jahrhunderts und erhielt ihren Namen nach dem hier 1861 eröffneten Zoologischen Garten. Die Grundstücke an der Südseite des Großen Gartens wurden mit
 repräsentativen Villen bebaut, die die Straße zum Wohnsitz einiger der reichsten Dresdner Familien machten. Gleichzeitig stellte diese Straße eine Verbindung zwischen dem Englischen Viertel der Seevorstadt und den
 Villenvierteln Strehlens her. Ab 1882 verkehrte die Pferdebahnlinie Neumarkt - Zoologischer Garten bis zur Tiergartenstraße. Am Endpunkt dieser Strecke (Querallee) befand sich damals der Eingang zum Zoologischen Garten,

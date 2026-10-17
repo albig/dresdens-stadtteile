@@ -3,22 +3,6 @@ title: "Christophoruskirche"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![christophoruskirche](christophoruskirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-[![](../../../nord/hauptseitewilschdorf.jpg)](../../../nord/wilschdorf/)
-
 * * *
 
 ![](../../../nord/wilschdorf/christophoruskirche/christophoruskirche.jpg)

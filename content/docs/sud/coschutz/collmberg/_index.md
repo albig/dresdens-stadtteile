@@ -3,10 +3,7 @@ title: "Collmberg"
 date: 2024-02-17T22:13:40+01:00
 ---
 
-[\|](http://) Neucoschütz![collmberg](../../../sud/coschutz/collmberg/collmberg_nurbanlegendbannerh.gif)
-
-* * *
-
+[\|](http://) Neucoschütz
 
 * * *
 

@@ -3,28 +3,7 @@ title: "Hechtsches Weingut"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![hechtsches weingut](hechtsches_weingut_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../neustadt/leipziger_vorstadt/hauptseitelv.jpg)](../../../../neustadt/leipziger_vorstadt/)
-
-* * *
-
-
-
 
 Die Geschichte des HechtŽschen Weingutes begann im Jahr 1715, als der kurfürstliche Förster Johann August Hecht ein Grundstück an der heutigen Maxim-Gorki-Straße erwarb und hier einen Weinberg anlegen ließ.
 Hecht war als Revierförster für das Revier Neudorf verantwortlich und bezog ein Haus auf seinem neuen Besitz. Bereits 1706 hatte er für dieses Gebäude das Schankrecht erhalten, welches jedoch nur für seine Bediensteten

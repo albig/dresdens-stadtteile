@@ -16,11 +16,6 @@ date: 2024-02-17T22:13:44+01:00
 
 **Gemeindesiegel von Niedergorbitz**
 
-
-[![](../../nachbarn.jpg)](../../sudwest/)
-
-* * *
-
 **Gorbitzer Stadtteilseiten:**
 
 [![](../../sudwest/gorbitz/gorbitz.jpg)](http://www.ddgorbitz.de)
@@ -30,10 +25,6 @@ date: 2024-02-17T22:13:44+01:00
 [![](../../plattenblatt.jpg)](http://www.plattenblatt.wg.am)
 
 [![](../../sudwest/gorbitz/gobi.jpg)](http://www.gobi-dresden.wg.vu)
-
-* * *
-
-
 
 * * *
 

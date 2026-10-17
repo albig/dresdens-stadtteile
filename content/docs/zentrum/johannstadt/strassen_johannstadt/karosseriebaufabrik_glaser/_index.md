@@ -3,14 +3,6 @@ title: "Karosseriebaufabrik Gläser"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../hauptseitejohannstadt.jpg)](../../../../zentrum/johannstadt/)
-
 ![](../../../../zentrum/johannstadt/strassen_johannstadt/karosseriebaufabrik_glaser/johannstgl_serwerbung.jpg)
 
 

@@ -1,15 +1,7 @@
 ---
-title: "Straßen Niedersedlitz"
+title: "Straßen und Plätze in Niedersedlitz"
 date: 2024-02-17T22:13:38+01:00
 ---
-
-![straßen und plätze in niedersedlitz](strassen_niedersedlitz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../ost/niedersedlitz/strassen_niedersedlitz/hauptseiteniedersedlitz2.jpg)](../../../ost/niedersedlitz/)
 
 ![](../../../ost/niedersedlitz/strassen_niedersedlitz/am_feld.jpg)
 
@@ -157,11 +149,11 @@ Der Geranienweg entstand beim Bau des Wohnpark am Niedersedlitzer Platz und wurd
 
 Sowohl der Gersdorfer Weg als auch der benachbarte Göppersdorfer Weg wurden Mitte der 1970er Jahre beim Bau einer kleinen Eigenheimsiedlung nördlich der Windmühlenstraße angelegt. Die Namensgebung erfolgte am 12. Juli 1973 nach dem Ort Gersdorf, einem Ortsteil von Bahretal im Kreis Pirna (heute Landkreis Sächsische-Schweiz-Osterzgebirge.
 
-![göppersdorfer weg.jpg](../../../ost/niedersedlitz/strassen_niedersedlitz/göppersdorfer weg.jpg)
+![göppersdorfer_weg.jpg](../../../ost/niedersedlitz/strassen_niedersedlitz/göppersdorfer_weg.jpg)
 
 Der Göppersdorfer Weg entstand gemeinsam mit dem Gersdorfer Weg beim Bau einer Eigenheimsiedlung an der Windmühlenstraße. Am 12. Juli 1973 entschied der Rat der Stadt Dresden, diesen Weg nach der Ortschaft Göppersdorf, heute ein Ortsteil von Bahretal im Landkreis Sächsische Schweiz-Osterzgebirge, zu benennen.
 
-![heidenauer straße.jpg](../../../ost/niedersedlitz/strassen_niedersedlitz/heidenauer straße.jpg)
+![heidenauer_straße.jpg](../../../ost/niedersedlitz/strassen_niedersedlitz/heidenauer_straße.jpg)
 
 ![](../../../ost/niedersedlitz/strassen_niedersedlitz/niedersedlheidenauerstr.jpg)Die heute über Niedersedlitzer und Großlugaer Flur führende Heidenauer Straße entstand Ende des 19. Jahrhunderts und ist am 16. Juli 1897 erstmals als Poststraße erwähnt. Am 4. April 1905 beschloss der Niedersedlitzer Gemeinderat die Umbenennung in Schillerstraße. Bereits 1917 kam es jedoch zu einer erneuten Namensänderung, da man sich entschieden hatte, die bestehende Goethestraße zu teilen und einem Abschnitt den Namen Schillerstraße zu geben. Beide Abschnitte tragen heute den Namen Bedrich-Smetana-Straße. Die bestehende Schillerstraße wurde nach General Paul von Hindenburg in Hindenburgstraße umbenannt. Der Beschluss des Gemeinderates dazu wurde am 13. Februar 1917 getroffen.
 
@@ -195,7 +187,7 @@ Der Hermann-Schmitt-Platz wurde kurz vor dem Ersten Weltkrieg angelegt und ab 6.
 
 Die Kleinborthener Straße, seit dem 30. September 1953 benannt nach dem Dohnaer Ortsteil Kleinborthen, wurde in den 1920er Jahren angelegt und mit Wohnhäusern bebaut. Da sie in Richtung des benachbarten Stadtteils Prohlis führt, erhielt sie 1926 zunächst den Namen Prohliser Straße. Da es jedoch in Reick bereits eine gleichnamige Straße gab, erfolgte im Zuge der Eingemeindung von Niedersedlitz 1953 die Umbenennung. Auf den verbliebenen Freiflächen in leichter Hanglage entstand ab 2008 eine kleine Eigenheimsiedlung.
 
-![kleine straße](../../../ost/niedersedlitz/strassen_niedersedlitz/kleine straße.jpg)
+![kleine straße](../../../ost/niedersedlitz/strassen_niedersedlitz/kleine_straße.jpg)
 
 Die Kleine Straße verbindet die Bismarck- mit der Sosaer Straße und erhielt am 4. April 1905 nach dem Erfinder des Buchdrucks Johannes Gutenberg zunächst den Namen Gutenbergstraße. Da es nach der Eingemeindung des Ortes jedoch bereits eine gleichnamige Straße in der Johannstadt gab, erfolgte am 30. September 1953 die Umbenennung in Kurze Straße.
 
@@ -219,7 +211,7 @@ Bereits in den 1920er Jahren entstand an der Flurgrenze zwischen beiden Ortsteil
 
 ![](../../../ost/niedersedlitz/strassen_niedersedlitz/niedersschwimmhalle.jpg)Lehrschwimmbecken Niedersedlitz: Das Gebäude an der Lugaer Straße 12 entstand in den 1930er Jahren und beherbergte ab 1938 zunächst die Filmschau Niedersedlitz mit ca. 400 Plätzen. Zeitweise ist dieses Kino auch als "Capitol-Lichtspiele" im Adressbuch verzeichnet. Betreiber war der auf der Gartenstraße (heute Lungkwitzer Straße) 16 wohnende Unternehmer Albert Heinze. 1967 endete der Spielbetrieb. Kurz danach erfolgte der Umbau des früheren Kinos zu einer Lehrschwimmhalle. Diese Schwimmhalle blieb bis zum Jahr 2000 erhalten. Nach mehrjährigem Leerstand erfolgte ein Verkauf des Gebäudes und der Umbau zum Wohnhaus mit mehreren Loftwohnungen.
 
-![lungkwitzer straße](../../../ost/niedersedlitz/strassen_niedersedlitz/lungkwitzer straße.jpg)
+![lungkwitzer straße](../../../ost/niedersedlitz/strassen_niedersedlitz/lungkwitzer_straße.jpg)
 
 ![](../../../ost/niedersedlitz/strassen_niedersedlitz/niederslungkwitzer4.jpg)Die heutige Lungkwitzer Straße verband schon vor ihrem Ausbau als sogenannter "Communicationsweg" Niedersedlitz mit dem benachbarten Sporbitz. 1888 begann der Bau des Abschnitts zwischen Lugaer Straße und Bismarckstraße, der im Anschluss Gartenstraße genannt wurde. Noch bis 1929 war diese Straße eine Privatstraße, bevor sie von der Gemeinde übernommen wurde. Nachdem Niedersedlitz 1950 zu Dresden gekommen war, machte sich eine Umbenennung erforderlich. Ursprünglich war dafür der Name Am Bach (nach dem hier fließenden Lockwitzbach) vorgesehen. Letztlich entschied man sich jedoch für die Namensgebung nach dem Ort Lungkwitz, einem Ortsteil von Kreischa. Das Foto zeigt die Villa Lungkwitzer Straße 4. Im Haus Nr. 20 gab es bis ca. 1990 die Gastwirtschaft "Zur Börse". Heute werden die Räume von einer Praxis genutzt.
 
@@ -341,7 +333,7 @@ Bereits Ende des 19. Jahrhunderts waren an diesem Teil von Niedersedlitz zahlrei
 
 Nach 1945 wurde die Malzfabrik verstaatlicht und gehörte später als VEB Malzwerke zum Getränkekombinat Dresden. Größere Umbauarbeiten erfolgten letztmals 1956. Zeitweise befand sich hier auch ein Lager des VEB Saat- und Pflanzgut. Seit 1990 stehen die markanten Gebäude leer und verfallen. Pläne für eine künftige Nutzung gibt es derzeit nicht.
 
-![](../../../ost/niedersedlitz/strassen_niedersedlitz/münchmeyer - robert-kraft.jpg)![](../../../ost/niedersedlitz/strassen_niedersedlitz/münchmeyer - anny von panhuys.jpg)Nr. 26: Das heute nicht mehr vorhandene Gebäude war ab 1902 Sitz des bekannten Münchmeyer-Verlages. Der von Heinrich Gotthold Münchmeyer gegründete Verlag gab hauptsächlich Kolportageromane heraus und wurde vor allem durch seinen populärsten Autor Karl May bekannt. Wirtschaftliche Schwierigkeiten zwangen Münchmeyers Witwe Pauline 1899 zum Verkauf an den Buchhändler Adalbert Fischer. Fischer verlegte den Firmensitz im Juni 1902 nach Niedersedlitz. Hier besaß er auch eine Villa auf der Gartenstraße 4. Wenig später kam es zu einem Streit zwischen Fischer und May, da der Schriftsteller dem Verleger den unerlaubten Nachdruck seiner Werke mit von May nicht autorisierten Änderungen vorwarf. Erst ein vom Niedersedlitzer Rechtsanwalt Trummler beglaubigter Vergleich beendete 1903 den Konflikt.
+![](../../../ost/niedersedlitz/strassen_niedersedlitz/münchmeyer_-_robert-kraft.jpg)![](../../../ost/niedersedlitz/strassen_niedersedlitz/münchmeyer_-_anny_von_panhuys.jpg)Nr. 26: Das heute nicht mehr vorhandene Gebäude war ab 1902 Sitz des bekannten Münchmeyer-Verlages. Der von Heinrich Gotthold Münchmeyer gegründete Verlag gab hauptsächlich Kolportageromane heraus und wurde vor allem durch seinen populärsten Autor Karl May bekannt. Wirtschaftliche Schwierigkeiten zwangen Münchmeyers Witwe Pauline 1899 zum Verkauf an den Buchhändler Adalbert Fischer. Fischer verlegte den Firmensitz im Juni 1902 nach Niedersedlitz. Hier besaß er auch eine Villa auf der Gartenstraße 4. Wenig später kam es zu einem Streit zwischen Fischer und May, da der Schriftsteller dem Verleger den unerlaubten Nachdruck seiner Werke mit von May nicht autorisierten Änderungen vorwarf. Erst ein vom Niedersedlitzer Rechtsanwalt Trummler beglaubigter Vergleich beendete 1903 den Konflikt.
 
 Am 15. Mai des gleichen Jahres gründete Adalbert Fischer den "Belletristischen Verlag Dresden-Niedersedlitz", in dem er u.a. Mays Frühwerke unter dem Titel "Erzgebirgische Dorfgeschichten" veröffentlichte. Nach Fischers Tod 1907 übernahm zunächst seine Witwe, danach sein Schwiegersohn Arthur Schubert die Geschäftsleitung. Nach 1933 firmierte der Verlag unter Regie von Adele Preatorius als "Verlag Das Vaterhaus" und gab u.a. die Illustrierte Roman-Zeitschrift "Das Vaterhaus" heraus. Hinzu kamen Autoren wie der Science-Fiction-Schriftsteller Robert Kraft und die zu ihrer Zeit durch Frauen- und Adelsromane bekannte Schriftstellerin Anny von Panhuys _(Cover-Abbildungen)_. Das frühere Verlagsgebäude wurde 2012 abgerissen.
 

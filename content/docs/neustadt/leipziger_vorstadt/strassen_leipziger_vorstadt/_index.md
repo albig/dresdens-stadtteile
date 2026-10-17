@@ -1,15 +1,7 @@
 ---
-title: "Straßen Leipziger Vorstadt"
+title: "Straßen und Plätze der Leipziger Vorstadt"
 date: 2024-02-17T22:13:31+01:00
 ---
-
-![straßen und plätze der leipziger vorstadt](strassen_leipziger_vorstadt_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/hauptseitelv2.jpg)](../../../neustadt/leipziger_vorstadt/)
 
 [![alexander-puschkin-platz](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/a_rectangle_1737.gif)](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/alexander-puschkin-platz/)
 
@@ -161,7 +153,7 @@ Die Bebauung der Gehestraße mit Wohn- und Geschäftshäusern begann erst nach 1
 
 Ursprünglich gehörte das Areal zum alten Dresdner [Schlachthof](../../../neustadt/leipziger_vorstadt/leipziger_strasse/alter_schlachthof/) und wurde nach dessen Schließung 1907 von verschiedenen Gewerbebetrieben genutzt. Erst nach 1990 entschloss man sich, die Zufahrtsstraße und die hier ansässigen Betriebe unter einer neuen Adresse zu führen. Auf Beschluss des Stadtrates erhielt diese am 2. November 1995 den Namen Gothaer Straße. Bei der Namensgebung orientierte man sich an der benachbarten Erfurter und Weimarischen Straße, welche ebenfalls nach Thüringer Städten benannt sind.
 
-![](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/großenhainer platz.jpg)
+![](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/großenhainer_platz.jpg)
 
 Der Großenhainer Platz entstand 1862 als Mittelpunkt einer geplanten, jedoch nie realisierten Wohnanlage und wurde in Anlehnung an die den Platz kreuzende Großenhainer Straße benannt. 1889/90 baute man hier die [St. Petri-Kirche](../../../Neustadt/Leipziger_Vorstadt/St_Petri-Kirche/st_petri-kirche.html). Außerdem gab es am Platz um 1910 die Polizeiwache des 9. Bezirks (Nr. 1) sowie im Eckhaus zur Erfurter Straße (Nr. 32) die Schankwirtschaft "Stadt Erfurt".
 

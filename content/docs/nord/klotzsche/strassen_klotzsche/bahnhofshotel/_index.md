@@ -3,28 +3,7 @@ title: "Bahnhofshotel"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![bahnhofshotel](bahnhofshotel_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../nord/klotzsche/hauptseiteklotzsche.jpg)](../../../../nord/klotzsche/)
-
-* * *
-
-
-
 
 Das Gebäude gegenüber dem Klotzscher Bahnhof entstand 1884 als Sommerfrische Quosdorf im Auftrag des damaligen Bezirksfeldwebels Friedrich August Quosdorf. Quosdorf hatte ab 1875 größere Flächen Land in
 diesem Bereich erworben und gilt als Gründer des Kurbades [Königswald](../../../../nord/klotzsche/). Nachdem er die klimatisch günstige Lage am Rand der Dresdner Heide erkannt hatte, richtete er

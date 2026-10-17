@@ -3,20 +3,6 @@ title: "Borsbergstraße"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![borsbergstraße](../../../../ost/striesen/strassen_striesen/borsbergstrasse/borsbergstrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../ost/striesen/hauptseitestriesen.jpg)](../../../../ost/striesen/)
-
-* * *
-
-
-
-
-
 ![](../../../../ost/striesen/strassen_striesen/borsbergstrasse/striesenborsbergstr1.jpg)Die Borsbergstraße war ursprünglich Teil eines alten Verbindungsweges von der Residenz zur [Pillnitzer Fähre](../../../../nordost/pillnitz/), der seine Verlängerung in der heutigen [Schandauer Straße](../../../../ost/striesen/strassen_striesen/schandauer_strasse/) fand. In Dresden beginnend, verlief er durch die heutige Pirnaische Vorstadt, am Großen Garten vorbei und dann weiter über Striesen und Tolkewitz bis zur Fährstelle. 1768 wurde dieser Weg auf Striesener Flur verlegt und führte seitdem am Dorfkern südlich vorbei. Amtlich wurde er als "Dresden - Laubegast - Pillnitzer Chaussee" bezeichnet.
 
 Nachdem ab 1874 in der [Johannstadt](../../../../zentrum/johannstadt/) neue Wohnviertel angelegt wurden, siedelten sich hier zahlreiche Gärtnereien an. Außerdem gab es in diesem Abschnitt die Dampf-Bierbrauerei Striesen, die Ziegelei Friedrichs und eine Chemische Fabrik. Mit fortschreitender Ausdehnung der Großstadt mussten die Gärtnereien Ende des 19. Jahrhunderts repräsentativen Gründerzeitbauten weichen. In diesem Zusammenhang erfolgte 1884 nach mehrjährigen Vorplanungen ein Ausbau der seit 1873 als "Straße J" bezeichneten Chaussee und das Verlegen von Straßenbahngleisen. Am 31. Mai 1884 fuhr hier die erste Pferdebahnlinie der "Tramways Company of Germany Ltd.". 1897 wurde diese Strecke auf elektrischen Betrieb umgestellt. 1905 errichtete die katholische Gemeinde ein Gotteshaus an der Borsbergstraße 13, welches den Namen [Herz-Jesu-Kirche](../../../../ost/striesen/herz-jesu-kirche/) erhielt. Die Straße trug zu diesem Zeitpunkt bereits ihren heutigen Namen nach dem oberhalb von Pillnitz gelegenen Borsberg. Andere Pläne, wie z.B. der Bau eines Zirkusgebäudes für den dänischen Zirkusunternehmer Wulff, blieben unrealisiert. 1903-04 erfolgte nochmals ein grundhafter Ausbau der Straße, verbunden mit einem Brückenneubau über den [Landgraben](../../../../ost/striesen/landgraben/).

@@ -3,24 +3,6 @@ title: "Sg Gittersee"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![sg gittersee](sg_gittersee_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../sud/hauptseitegittersee.jpg)](../../../sud/gittersee/)
-
 * * *
 
 [![](../../../sud/gittersee/sg_gittersee/sggittersee.jpg)](http://www.sg-gittersee.de)

@@ -3,16 +3,6 @@ title: "Tintenfabrik Leonhardi"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../../nordost/hauptseiteloschwitz.jpg)](../../../../../nordost/loschwitz/)
-
-* * *
-
 ![](../../../../../nordost/loschwitz/strassen_loschwitz/grundstrasse/tintenfabrik_leonhardi/leonharditinte1.jpg)
 
 

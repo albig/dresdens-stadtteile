@@ -1,30 +1,9 @@
 ---
-title: "Elbe-Hotel"
+title: "Elbe-Hotel Demnitz"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![elbe-hotel demnitz](elbe-hotel_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../../nordost/hauptseiteloschwitz.jpg)](../../../../../nordost/loschwitz/)
-
-* * *
-
-
-
 
 ![](../../../../../nordost/loschwitz/strassen_loschwitz/friedrich-wieck-strasse/elbe-hotel/loschwelbehotel2.jpg)Das spätere Elbe-Hotel ging aus einer bereits 1626 erstmals genannten Loschwitzer
 Schankwirtschaft hervor. In diesem Jahr hatte Peter Eger, der Besitzer des Gutes Friedrich-Wieck-Straße 16, das Ausschankrecht für Dresdner Biere erworben.

@@ -3,24 +3,6 @@ title: "St -Michael-Kapelle"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![st.-michael-kapelle](st_-michael-kapelle_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../../hauptseitefriedrichstadt.jpg)](../../../../../zentrum/friedrichstadt/)
-
 * * *
 
 ![caritasverband für das bistum dresden-meißen e.v. magdeburger str. 33 01067 dresden  tel.: 03 51/ 49 83 60](../../../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/st_-michael-kapelle/a_rectangle_1629.gif)

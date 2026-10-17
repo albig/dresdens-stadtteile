@@ -10,15 +10,7 @@ date: 2024-02-17T22:13:32+01:00
 
 ![ortschaft langebrück (mit schönborn) weißiger str. 5 01465 langebrück  tel. 035201/8160  ortschaft-langebrueck @dresden.de](../../nord/langebruck/a_rectangle_865.gif)
 
-
-[![](../../nachbarn.jpg)](../../nord/)
-
 [![](../../nord/langebruck/sch_nborn.jpg)](../../nord/langebruck/schonborn/)
-
-* * *
-
-
-
 
 * * *
 

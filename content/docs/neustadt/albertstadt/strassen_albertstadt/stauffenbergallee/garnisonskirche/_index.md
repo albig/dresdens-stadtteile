@@ -3,24 +3,6 @@ title: "Garnisonskirche"
 date: 2024-02-17T22:13:30+01:00
 ---
 
-![garnisonkirche](garnisonskirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../../neustadt/hauptseitealbertstadt.jpg)](../../../../../neustadt/albertstadt/)
-
 * * *
 
 [![kathol. kirchgemeinde st. franziskus xaverius stauffenbergallee 9 01099 dresden  tel. 0351/8045826](../../../../../neustadt/albertstadt/strassen_albertstadt/stauffenbergallee/garnisonskirche/a_rectangle_142.gif)](http://www.st-franziskus-xaverius-dresden.de/)

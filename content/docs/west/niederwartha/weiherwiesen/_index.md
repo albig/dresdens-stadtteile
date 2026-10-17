@@ -3,20 +3,7 @@ title: "Weiherwiesen"
 date: 2024-02-17T22:13:46+01:00
 ---
 
-![weiherwiesen](weiherwiesen_nurbanlegendbannerh.gif)
-
 * * *
-
-* * *
-
-
-
-[![](../../../west/hauptseiteniederwartha.jpg)](../../../west/niederwartha/)
-
-* * *
-
-
-
 
 Die sogenannten Weiherwiesen bilden einen Ortsteil von Niederwartha und befinden sich unmittelbar am Elbufer. Noch bis 1954 gehörten sie als
 einziger linkselbischer Teil zu Radebeul. Im Jahr 1519 hatte die Gemeinde Kötzschenbroda ca. 43 Hektar Elbwiesen erworben. Diese sollten vorrangig für die Gewinnung von Heu und als Weideland dienen, da in Kötzschenbroda

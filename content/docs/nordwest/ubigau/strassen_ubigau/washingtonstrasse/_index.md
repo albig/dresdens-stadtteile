@@ -3,21 +3,6 @@ title: "Washingtonstraße"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![washingtonstraße](washingtonstrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../nordwest/ubigau/hauptseite_bigau.jpg)](../../../../nordwest/ubigau/)
-
-* * *
-
-
-
-
-
-
 ![](../../../../nordwest/ubigau/strassen_ubigau/washingtonstrasse/_bigsiemenspark.jpg)Die Washingtonstraße bildete einst die östliche Grenze des [Kaditzer Flugplatzes](../../../../nordwest/kaditz/flugplatz_kaditz/) und wurde deshalb auch Am Flugplatz genannt. Erst im Zuge des Baus der [Flügelwegbrücke](../../../../nordwest/kaditz/strassen_kaditz/flugelwegbrucke/) wurde sie 1930/31 ausgebaut und aus Anlass des 200.
 Geburtstages von George Washington am 22. Februar 1932 in Washingtonstraße umbenannt. Washington war ab 1775 Oberbefehlshaber der amerikanischen Unabhängigkeitstruppen und wurde 1789 zum ersten Präsidenten der USA
 gewählt.

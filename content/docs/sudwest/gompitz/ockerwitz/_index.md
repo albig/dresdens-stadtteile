@@ -14,16 +14,6 @@ date: 2024-02-17T22:13:44+01:00
 
 ![](../../../plz_01156.jpg)
 
-[![](../../../nachbarn.jpg)](../../../sudwest/gompitz/)
-
-* * *
-
-
-
-
-
-
-
 Ockerwitz entstand als slawische Siedlung im 11. Jahrhundert und weist noch heute die typische Dorfform eines Rundlings auf. Bereits 1071 wurde ein Ort Oicice in einer Urkunde des Bischofs Benno genannt,
 wobei die Identität mit Ockerwitz allerdings umstritten ist. 1371 wird Ogranwitz im Verzeichnis der Orte des Amtes Dresden erstmals erwähnt. Der Name ist entweder von einem slawischen Personennamen abgeleitet (okor -
 novici = neues Dorf des Oker) oder aber vom slawischen Wort okraj (über dem Rande), was auf die Lage des Dorfes oberhalb des Zschonergrundes hinweisen könnte.

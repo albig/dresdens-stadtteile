@@ -12,16 +12,9 @@ date: 2024-02-17T22:13:36+01:00
 
 **Gemeindesiegel von Trachau**
 
-![](../../nordwest/trachau/plz 01129.jpg)
+![](../../nordwest/trachau/plz_01129.jpg)
 
 ![](../../nordwest/plz_01139.jpg)
-
-[![](../../nachbarn.jpg)](../../nordwest/)
-
-* * *
-
-
-
 
 * * *
 

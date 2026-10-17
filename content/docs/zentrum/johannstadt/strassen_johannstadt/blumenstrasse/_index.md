@@ -3,16 +3,6 @@ title: "Blumenstraße"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![blumenstraße](blumenstrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseitejohannstadt.jpg)](../../../../zentrum/johannstadt/)
-
-* * *
-
 ![](../../../../zentrum/johannstadt/strassen_johannstadt/blumenstrasse/johannstblumenstr3.jpg)
 
 **Werbepostkarte des Logenhauses Blumenstraße 3**

@@ -3,24 +3,6 @@ title: "Ev.-Methodistische Friedenskirche"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![ev.-methodistische friedenskirche](ev_-methodistische_friedenskir_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../nordost/hauptseiteb_hlau.jpg)](../../../nordost/buhlau/)
-
 * * *
 
 ![gemeindezentrum  der friedenskirche  neubühlauer str. 3 01324 dresden tel. 0351/2686522](../../../nordost/buhlau/ev_-methodistische_friedenskir/a_rectangle_1117.gif)

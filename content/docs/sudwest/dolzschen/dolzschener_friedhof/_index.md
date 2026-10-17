@@ -3,16 +3,6 @@ title: "Dölzschener Friedhof"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-![dölzschener friedhof](dolzschener_friedhof_nurbanlegendbannerh.gif)
-
-* * *
-
-* * *
-
-
-
-[![](../../../hauptseited_lzschen.jpg)](../../../sudwest/dolzschen/)
-
 * * *
 
 ![dölzschener friedhof friedhofsweg 01187 dresden  tel. 0171/6434593](../../../sudwest/dolzschen/dolzschener_friedhof/a_rectangle_584.gif)

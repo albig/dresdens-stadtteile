@@ -3,18 +3,6 @@ title: "Zaschendorf"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-
-* * *
-
-
-
-
-[![](../../../nachbarn.jpg)](../../../nordost/schonfeld-weissig/)
-
-* * *
-
-
-
 Zaschendorf entstand im 11./12. Jahrhundert als Ansiedlung fränkischer Bauern
 und wurde 1367 erstmals erwähnt. Der Ortsname Zaschlensdorff bzw. Zcazlauwendorf ist vermutlich von einem slawischen Personennamen Catislav abgeleitet. 1387 gab es im Ort ein Vorwerk, welches zum Rittergut Schönfeld
 gehörte und Standort einer Schäferei war. 1494 gehörte das Dorf der Familie von Karras, der auch die Gerichtsbarkeit über den Ort oblag. Trotz seiner

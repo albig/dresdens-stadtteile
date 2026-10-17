@@ -1,15 +1,7 @@
 ---
-title: "Straßen Sudvorstadt"
+title: "Straßen und Plätze der Südvorstadt"
 date: 2024-02-17T22:13:48+01:00
 ---
-
-![straßen und plätze der südvorstadt](strassen_sudvorstadt_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/hauptseites_dvorstadt2.jpg)](../../../zentrum/sudvorstadt/)
 
 ![ackermannstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1728.gif)
 

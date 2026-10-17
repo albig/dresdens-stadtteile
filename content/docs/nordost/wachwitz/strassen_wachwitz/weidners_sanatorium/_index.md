@@ -3,26 +3,7 @@ title: "Weidners Sanatorium"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![weidners sanatorium](weidners_sanatorium_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../nordost/hauptseitewachwitz.jpg)](../../../../nordost/wachwitz/)
-
-* * *
-
 
 ![](../../../../nordost/wachwitz/strassen_wachwitz/weidners_sanatorium/wachwweidnerssan1.jpg)Das Sanatorium Weidner in Wachwitz wurde 1916 vom Loschwitzer Arzt Dr.
 Eugen Weidner (1861-1926) gegründet. Weidner hatte zuvor als Arzt am [Lahmann-Sanatorium](../../../../nordost/page10246/strassen_weisser_hirsch/lahmann-sanatorium/) gearbeitet und war durch seine Heirat zu einem

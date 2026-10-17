@@ -3,17 +3,6 @@ title: "Wilder-Mann-Straße"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![wilder-mann-straße](wilder-mann-strasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseitetrachau.jpg)](../../../../nordwest/trachau/)
-
-* * *
-
-
 * * *
 
 

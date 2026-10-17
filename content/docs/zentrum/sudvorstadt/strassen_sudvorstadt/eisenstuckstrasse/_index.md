@@ -3,18 +3,6 @@ title: "Eisenstuckstraße"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![eisenstuckstraße](eisenstuckstrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseites_dvorstadt.jpg)](../../../../zentrum/sudvorstadt/)
-
-* * *
-
-
-
 ![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/eisenstuckstrasse/s_dveisenstuckstr.jpg)Die Eisenstuckstraße entstand im letzten Drittel des 19. Jahrhunderts und bildete
 viele Jahre die südliche Grenze der Südvorstadt. Ihren Namen erhielt sie 1887 nach dem Juristen und Dresdner Kommunalpolitiker Christian Gottlob Theophil
 Eisenstuck (1773-1853). Eisenstuck war an der Umsetzung der Staatsreformen von 1830/32 beteiligt und hatte zwischen 1832 und 1837 den Vorsitz der Kommunrepräsentanten, einem Vorläufer der Stadtverordneten-Versammlung,

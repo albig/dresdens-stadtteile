@@ -7,25 +7,6 @@ date: 2024-02-17T22:13:41+01:00
 
 * * *
 
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../sudost/gostritz/mutter_vogel/hauptseitegostritz.jpg)](../../../sudost/gostritz/)
-
-* * *
-
-
-
-
 ![](../../../sudost/gostritz/mutter_vogel/gostritzmuttervogel.jpg)Das früher stadtweit bekannte Lokal an der Rosentitzer Straße 16 entstand 1861 als
 Gasthof Gostritz. Ursprünglich befand es sich im Besitz des Schankwirts Max Sändig, der den Reiheschank des Dorfes erworben hatte.
 

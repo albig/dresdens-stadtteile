@@ -3,17 +3,6 @@ title: "Bortzschen"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-
-* * *
-
-
-
-[![](../../../nordwest/ubigau/hauptseite_bigau.jpg)](../../../nordwest/ubigau/)
-
-* * *
-
-
-
 Die heute nicht mehr existierende Siedlung Bortzschen lag einst zwischen den Orten Übigau und Mickten ungefähr im Bereich der heutigen Flutrinne. Über ihre Geschichte ist nur wenig bekannt. Vermutlich
 entstand der 1324 erstmals erwähnte Ort als slawische Gründung im 10./11. Jahrhundert. Der Name ist wahrscheinlich von einem sorbischen Personennamen Bores abgeleitet. Bortzschen unterstand wie auch das benachbarte
 Übigau der Gerichtsbarkeit des Meißner Bischofs und bestand nur aus wenigen Gebäuden, möglicherweise sogar nur aus einem Einzelgehöft.

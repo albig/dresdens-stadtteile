@@ -12,14 +12,6 @@ date: 2024-02-17T22:13:38+01:00
 
 **Gemeindesiegel von Sporbitz**
 
-
-[![](../../nachbarn.jpg)](../../ost/)
-
-* * *
-
-
-
-
 Sporbitz entstand als slawisches Platzdorf auf einer vermutlich durch Brandrodung
 entstandenen Fläche, da der Ortsname übersetzt ausgebrannte Stelle bedeutet. 1465 gehörte das Dorf der Familie von Korbitz, 1662 dem Adligen Johann
 Siegemund von Liebenau, Besitzer des Rittergutes Zehista bei Pirna. Noch bis ins 19. Jahrhundert blieb diese Zuordnung zur Grundherrschaft Zehista erhalten.

@@ -3,24 +3,6 @@ title: "Hochschule Fur Verkehrswesen"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![hochschule für verkehrswesen](hochschule_fur_verkehrswesen_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../../hauptseites_dvorstadt.jpg)](../../../../../zentrum/sudvorstadt/)
-
 * * *
 
 [![](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/friedrich-list-platz/hochschule_fur_verkehrswesen/htw.jpg)](http://www.htw-dresden.de)

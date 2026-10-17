@@ -1,15 +1,7 @@
 ---
-title: "Straßen Weissig"
+title: "Straßen und Plätze in Weißig"
 date: 2024-02-17T22:13:35+01:00
 ---
-
-![straßen und plätze in weißig](strassen_weissig_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../nordost/schonfeld-weissig/weissig/strassen_weissig/hauptseitewei_ig2.jpg)](../../../../nordost/schonfeld-weissig/weissig/)
 
 ![am hutberg](../../../../nordost/schonfeld-weissig/weissig/strassen_weissig/a_rectangle_1756.gif)
 

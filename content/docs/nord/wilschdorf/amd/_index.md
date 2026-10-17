@@ -3,19 +3,6 @@ title: "AMD-Werk Dresden"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../nord/hauptseitewilschdorf.jpg)](../../../nord/wilschdorf/)
-
-* * *
-
-
-
-
 Die Firma Advanced Micro Devices (AMD) wurde am 1. Mai 1969 in Sunnyvale/Kalifornien gegründet und gehört seit den 70er Jahren zu den international bedeutendsten Herstellern von Prozessoren und
 Speicherchips für die Computerindustrie. Nach 1990 entschloss sich das Unternehmen für eine Ansiedlung in Dresden, wo bereits seit 1961 eine Arbeitsstelle für Molekularelektronik bestand. Aus dieser entwickelte sich
 später die Firma ZMD als zentrale Technologieschmiede der DDR auf diesem Gebiet. Mit der Ansiedlung des Siemens-Chipwerkes in Klotzsche (heute Infineon) und der Produktionsstätten für AMD versuchte die Stadt, an diese

@@ -3,19 +3,6 @@ title: "Kleinzschachwitzer Ufer"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![kleinzschachwitzer ufer](kleinzschachwitzer_ufer_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../ost/hauptseitekleinzschachwitz.jpg)](../../../../ost/kleinzschachwitz/)
-
-* * *
-
-
-
-
 Als Kleinzschachwitzer Ufer wird die Verlängerung der Österreicher Straße von der früheren Ortsgrenze zu Laubegast bis zur Pillnitzer Elbfähre bezeichnet. Noch in der Mitte des 19. Jahrhunderts standen hier, abseits des Dorfkerns, lediglich das Kleinzschachwitzer Forsthaus sowie das benachbarte [Fährhaus](../../../../ost/leuben/strassen_leuben/berthold-haupt-strasse/) als Unterkunft der königlichen Fährleute. Erst nach 1860 begann die Bebauung der Uferstraße mit Villen und Landhäusern. Bei der ersten offiziellen Benennung von Straßen in Kleinzschachwitz erhielt dieser Weg am 12. Juni 1878 den Namen Elbstraße. Da es jedoch bereits in Gruna eine Elbstraße (heute Spohrstraße) gab, erfolgte im Zuge der Eingemeindung von Kleinzschachwitz am 1. Juni 1926 die Umbenennung in Kleinzschachwitzer Ufer.
 
 ![](../../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/kleinzschachwitzer_ufer/kleinzschufer70.jpg)![](../../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/kleinzschachwitzer_ufer/kleinzschufer78.jpg)![](../../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/kleinzschachwitzer_ufer/kleinzschufer84.jpg)

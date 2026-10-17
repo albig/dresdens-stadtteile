@@ -3,18 +3,6 @@ title: "Zellescher Weg"
 date: 2024-02-17T22:13:45+01:00
 ---
 
-![zellescher weg](zellescher_weg_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../sud/zschertnitz/hauptseitezschertnitz.jpg)](../../../../sud/zschertnitz/)
-
-* * *
-
-
-
 ![](../../../../sud/zschertnitz/strassen_zschertnitz/zellescher_weg/zschertnzellwegweichbild.jpg)Der Zellesche Weg gehört zu den ältesten Verkehrsverbindungen im Süden der Stadt und bestand bereits im 13. Jahrhundert. Ursprünglich verlief er von der [Löbtauer Brücke](../../../../sudwest/lobtau/strassen_lobtau/lobtauer_brucken/) über den Hahneberg und den Frankenberg bis zum [Klosterhof Leubnitz](../../../../sudost/leubnitz-neuostra/klosterhof/). Da dieser Weg vor allem als Transportweg zwischen Leubnitz und dem Klosters Altzella genutzt wurde, dem der Klosterhof unterstand, erhielt er den Namen Zellescher Weg. An dieser Straße lagen auch die zum Ausgang des Mittelalters untergegangenen Dresdner Vorwerke [Auswik](../../../../zentrum/sudvorstadt/auswik/) (Nähe Fritz-Foerster-Platz) und Boskau (am Beutlerpark).
 
 Im 16. Jahrhundert erlangte der Zellesche Weg neue Bedeutung, da hier die südliche Weichbildgrenze Dresdens verlief. An diese Grenze erinnert noch ein historischer Weichbildstein in der Nähe der TU-Mensa _(Foto)_. Der Stein mit der Nr. 63 stand einst an der Kreuzung des Zelleschen Weges mit der alten Dippoldiswalder Chaussee (Bergstraße) und wurde nach seiner Sanierung Mitte der 1990er Jahre an seinen heutigen Platz versetzt. Der Form des Wappens nach gehört er zu den ältesten Weichbildsteinen der Stadt, die sonst übliche Jahreszahl der Aufstellung fehlt.

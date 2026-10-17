@@ -3,16 +3,6 @@ title: "Reisewitz Scher Garten"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![reisewitz´scher garten](reisewitz_scher_garten_nurbanlegendbannerh.gif)
-
-* * *
-
-* * *
-
-
-
-[![](../../../../../hauptseitel_btau.jpg)](../../../../../sudwest/lobtau/)
-
 * * *
 
 ![](l_btreisewitzbrauerei.jpg)

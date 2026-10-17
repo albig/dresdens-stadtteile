@@ -3,27 +3,7 @@ title: "Schlacht bei Dresden"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-![schlacht bei dresden](schlacht_bei_dresden_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../hauptseiter_cknitz.jpg)](../../../sud/racknitz/)
-
-* * *
-
-
 
 ![](../../../sud/racknitz/schlacht_bei_dresden/r_cknitzschlacht.jpg)Auf den Feldern südlich von Dresden fand am 25. - 27. August 1813 die
 letzte bedeutende Schlacht der Napoleonischen Kriege vor der Völkerschlacht statt. Zugleich war sie letzter Sieg Napoleons auf deutschem Boden. Im Vorfeld der Ereignisse war Dresden zum wichtigen Stützpunkt der

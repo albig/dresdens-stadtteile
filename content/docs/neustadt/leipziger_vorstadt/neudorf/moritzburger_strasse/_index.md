@@ -3,19 +3,6 @@ title: "Moritzburger Straße"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![moritzburger straße](moritzburger_strasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../neustadt/leipziger_vorstadt/hauptseitelv.jpg)](../../../../neustadt/leipziger_vorstadt/)
-
-* * *
-
-
-
-
 ![](../../../../neustadt/leipziger_vorstadt/neudorf/moritzburger_strasse/neudorf3.jpg)Die Moritzburger Straße, bis 1866 Dorfgasse, Hauptgasse bzw. Hauptstraße
 bezeichnet, bildete einst den Kern von [Neudorf](../../../../neustadt/leipziger_vorstadt/neudorf/). Zu beiden Seiten lagen die ca.
 50 kleinen Anwesen des Ortes, die meist aus Wohnhaus, Scheune und weiteren Nebengebäuden bestanden _(Foto)_. In der zweiten Hälfte des 19. Jahrhunderts

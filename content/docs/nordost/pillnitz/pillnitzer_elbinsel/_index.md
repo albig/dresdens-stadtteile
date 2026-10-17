@@ -3,22 +3,7 @@ title: "Pillnitzer Elbinsel"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![pillnitzer elbinsel](pillnitzer_elbinsel_nurbanlegendbannerh.gif)
-
 * * *
-
-
-
-* * *
-
-
-
-[![](../../../nordost/hauptseitepillnitz.jpg)](../../../nordost/pillnitz/)
-
-* * *
-
-
-
 
 ![](../../../nordost/pillnitz/pillnitzer_elbinsel/pillnitzinsel2.jpg)Die Pillnitzer Elbinsel ist zusammen mit der Insel bei Gauernitz letzte von einst 18
 sächsischen Elbinseln und einzig verbliebene im Dresdner Stadtgebiet. Die Insel gegenüber dem Schloss umfasst ca. 10,5 Hektar und  ist ungefähr 970 m lang. Die

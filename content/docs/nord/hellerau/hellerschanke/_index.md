@@ -3,27 +3,7 @@ title: "Hellerschänke"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![hellerschänke](hellerschanke_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../nord/hellerau/hauptseitehellerau.jpg)](../../../nord/hellerau/)
-
-* * *
-
-
 
 ![](../../../nord/hellerau/hellerschanke/hellersch_nke2.jpg)Die Hellerschänke wurde 1688 unter dem Namen Zum grünen Baum in
 den Hellerbergen eröffnet. Neben dem Hellergut blieb sie lange Zeit einziges Gebäude in den Hellerbergen. Die Schänke ging auf ein 1673 vom Kammerjunker Hans Caspar Knoch gegründetes Weingut zurück,

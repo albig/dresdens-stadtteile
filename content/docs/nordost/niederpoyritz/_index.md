@@ -12,15 +12,6 @@ date: 2024-02-17T22:13:33+01:00
 
 **Gemeindesiegel von Niederpoyritz**
 
-
-[![](../../nachbarn.jpg)](../../nordost/)
-
-* * *
-
-
-
-
-
 ![](../../nordost/niederpoyritz/niederpoyritz.jpg)Niederpoyritz wurde vermutlich im 12. Jahrhundert von slawischen
 Siedlern am Ausgang des [Helfenberger Grundes](../../nordost/schonfeld-weissig/helfenberg/helfenberger_grund/) gegründet und 1378
 erstmals als Padegricz urkundlich erwähnt. Der Name bedeutet übersetzt Ort unter der Burg und nimmt Bezug auf die nahegelegene Burg Helfenberg, der Niederpoyritz einst unterstand. 1414 und 1476 ist

@@ -3,27 +3,7 @@ title: "Gasthof Weißig"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![gasthof weißig](gasthof_weissig_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../nordost/schonfeld-weissig/weissig/hauptseitewei_ig.jpg)](../../../../nordost/schonfeld-weissig/weissig/)
-
-* * *
-
-
 
 ![](../../../../nordost/schonfeld-weissig/weissig/gasthof_weissig/wei_iggasthof.jpg)Der heutige Gasthof Weißig entstand als Brauschänke und Ausspanne und wurde früher vor allem von Fuhrleuten gern besucht, die die unmittelbar am Haus vorbeiführende Fernstraße in die Oberlausitz nutzten. Schon im 16. Jahrhundert ist diese Schankwirtschaft als Erbschänke urkundlich verbürgt. Im Dreißigjährigen Krieg wurde sie zerstört, jedoch bald wieder aufgebaut. Ab 1792 gehörte sie dem Weißiger Hufenbesitzer Samuel Großmann, der 1795 die Konzession für einen Gasthof mit Herberge erhielt. 1806 wurde hier eine Station der königlichen Hofpost eingerichtet, für welche ständig sechs Pferde im Stall bereitgehalten werden mussten.
 

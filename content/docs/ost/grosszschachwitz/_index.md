@@ -12,11 +12,6 @@ date: 2024-02-17T22:13:37+01:00
 
 **Gemeindesiegel von Großzschachwitz**
 
-
-[![](../../nachbarn.jpg)](../../ost/)
-
-* * *
-
 **Schulen in Großzschachwitz:**
 
 [![](../../ost/grosszschachwitz/92gsddzschachw.jpg)](http://www.92gs.de.vu)

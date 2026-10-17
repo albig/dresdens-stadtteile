@@ -3,21 +3,7 @@ title: "Gärtnerei Engelhardt"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![gärtnerei engelhardt](gartnerei_engelhardt_nurbanlegendbannerh.gif)
-
 * * *
-
-* * *
-
-
-
-[![](../../../../ost/leuben/strassen_leuben/hauptseiteleuben.jpg)](../../../../ost/leuben/)
-
-* * *
-
-
-
-
 
 ![](../../../../ost/leuben/strassen_leuben/gartnerei_engelhardt/leubendahlienh1.jpg)Die 1914 in Leuben gegründete Gärtnerei Engelhardt gehört zu den bekanntesten Dresdner Gartenbauunternehmen. Die Geschichte des Leubener Gartenbaus begann jedoch bereits 1892, als die Firma [Münch & Haufe](../../../../ost/leuben/strassen_leuben/) ein ehemaliges Bauerngut erwarb und dieses zur Rosengärtnerei umwandelte. Begünstigt durch das milde Klima und die hier im Gegensatz zu Striesen und Blasewitz noch reichlich vorhandenen Freiflächen siedelten sich bald weitere Betriebe der Branche an. Zeitweise existierten über 20 Gärtnereien rund um den Ort. Zu den größten gehörten die auf Azaleenzucht spezialisierten Gärtnereien Ziegenbalg und Voigt. Neben Zierpflanzen wurden in Leuben auch Moorbeetkulturen und sogar Palmen angebaut.
 

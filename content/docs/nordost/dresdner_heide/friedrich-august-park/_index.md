@@ -3,20 +3,7 @@ title: "Friedrich-August-Park"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![friedrich-august-park](friedrich-august-park_nurbanlegendbannerh.gif)
-
 * * *
-
-* * *
-
-
-
-[![](../../../nordost/hauptseitedresdnerheide.jpg)](../../../nordost/dresdner_heide/)
-
-* * *
-
-
-
 
 Als Friedrich-August-Park wurde vor 1945 ein an der Stadtgrenze zu Radebeul gelegenes Waldstück südlich des [Heidefriedhofes](../../../nordost/dresdner_heide/heidefriedhof/) bezeichnet. 1881 entstand hier auf einer Fläche von rund 40 Hektar der Waldpark Junge Heide, welcher vom Sternweg, dem Diebsteig und der Meißner Straße in Radebeul begrenzt wurde.  In diesem Zusammenhang schuf man ein weitverzweigtes Wegenetz, pflanzte verschiedene Gehölze und richtete das noch heute vorhandene Parkcafé ein.
 

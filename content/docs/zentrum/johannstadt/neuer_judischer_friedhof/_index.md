@@ -3,18 +3,6 @@ title: "Neuer Jüdischer Friedhof"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![neuer jüdischer friedhof](neuer_judischer_friedhof_nurbanlegendbannerh.gif)
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../hauptseitejohannstadt.jpg)](../../../zentrum/johannstadt/)
-
 * * *
 
 ![neuer  jüdischer friedhof  fiedlerstr. 3 01307 dresden  tel. 0351/4593317](../../../zentrum/johannstadt/neuer_judischer_friedhof/a_rectangle_1520.gif)

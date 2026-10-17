@@ -3,24 +3,6 @@ title: "Schloss Pillnitz"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![schloss pillnitz](schloss_pillnitz_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../nordost/hauptseitepillnitz.jpg)](../../../nordost/pillnitz/)
-
 * * *
 
 ![kunstgewerbemuseum schloss pillnitz 01326 dresden  tel. 0351/26130](../../../nordost/pillnitz/schloss_pillnitz/a_rectangle_1125.gif)

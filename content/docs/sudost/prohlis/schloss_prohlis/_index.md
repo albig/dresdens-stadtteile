@@ -3,27 +3,7 @@ title: "Schloß Prohlis"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![schloß prohlis](schloss_prohlis_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../sudost/hauptseiteprohlis.jpg)](../../../sudost/prohlis/)
-
-* * *
-
-
 
 ![](../../../sudost/prohlis/schloss_prohlis/prohlisschloss.jpg)Bereits um 1200 existierte in Prohlis ein befestigter Herrenhof mit einer Wallanlage am Geberbach. Über diese Wasserburg ist nur wenig bekannt, da die einstigen Wallgräben später planiert und verfüllt wurden. Lediglich auf dem Areal des Schlossparks erinnern flache Böschungen an diese frühgeschichtliche Befestigungsanlage. In einer alten Rechnung des Dresdner Brückenamtes von 1463 ist als Besitzer dieses Hofes, urkundlich als Villa Proleß erwähnt, ein gewisser Hans Henchen genannt. Jahrhundertelang bewirtschaftete diese Familie das Anwesen, welches sich nur wenig von den übrigen Prohliser Bauerngütern unterschied. Allerdings errichteten die Besitzer im 18. Jahrhundert ein bescheidenes barockes Landhaus, welches bis Mitte des 19. Jahrhunderts Zentrum der Anlage blieb.
 

@@ -3,22 +3,15 @@ title: "Gostritzer Straße"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![gostritzer straße](gostritzer_strasse_n1_banner2.gif)
-
 * * *
 
 
 
 [![](../../../../sud/hauptseitestrehlen.jpg)](../../../../sudost/strehlen/)
 
-[![](../../../../hauptseiteleubnitz.jpg)](../../../../sudost/leubnitz-neuostra/)
-
 [![](../../../../sudost/gostritz/mutter_vogel/hauptseitegostritz.jpg)](../../../../sudost/gostritz/)
 
 [![](../../../../sud/hauptseitemockritz.jpg)](../../../../sud/mockritz/)
-
-* * *
-
 
 * * *
 
@@ -45,7 +38,7 @@ Ziegelwerk Gostritz (Nr. 61-63): Die Gostritzer Ziegelei wurde 1894 vom Baumeist
 
 In den 1960er Jahren wurde die Ziegelei nochmals modernisiert und 1961 auf Ölfeuerung umgestellt. Nach Erschöpfung der Lehmvorkommen und wegen Mangel an Brennöls endete 1978 die Ziegelproduktion. Zuletzt wurden die Gebäude als Baustützpunkt und Lager der Gebäudeverwaltung Dresden genutzt. 1993 entstand auf dem Gelände ein Technologiezentrum. Erhalten blieben die frühere Villa mit einigen Nebengebäuden sowie die hohe Esse, die als technisches Denkmal an die Ziegelherstellung im Dresdner Südraum erinnert. Die nach 1945 zum Großteil verfüllte Lehmgrube wurde 1996 als Naturdenkmal Alte Ziegelei Gostritz unter Schutz gestellt.
 
-![](../../../../sudost/leubnitz-neuostra/page14822/gostritzer_strasse/gostritzer 92.jpg)Nr. 95: Die unter Denkmalschutz stehenden Villa entstand 1895. Im Hintergebäude bezog 1977 der unter dem Namen A. R. Penck bekannt gewordene Maler, Grafiker und Musiker Ralf Winkler (1939-2017) sein Atelier. Zwei Jahre später veröffentlichte er die mit einigen Künstlerkollegen aufgenommen LP "Gostritzer 92", bevor er ein Jahr später in die Bundesrepublik übersiedelte _(Bild: Plattencover von A. R. Penck)_. 2010 wurde das Haus verkauft und bis 2014 saniert. Dabei konnten auch einige Zeichnungen Pencks geborgen werden.
+![](../../../../sudost/leubnitz-neuostra/page14822/gostritzer_strasse/gostritzer_92.jpg)Nr. 95: Die unter Denkmalschutz stehenden Villa entstand 1895. Im Hintergebäude bezog 1977 der unter dem Namen A. R. Penck bekannt gewordene Maler, Grafiker und Musiker Ralf Winkler (1939-2017) sein Atelier. Zwei Jahre später veröffentlichte er die mit einigen Künstlerkollegen aufgenommen LP "Gostritzer 92", bevor er ein Jahr später in die Bundesrepublik übersiedelte _(Bild: Plattencover von A. R. Penck)_. 2010 wurde das Haus verkauft und bis 2014 saniert. Dabei konnten auch einige Zeichnungen Pencks geborgen werden.
 
 
 

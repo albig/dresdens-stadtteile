@@ -3,24 +3,6 @@ title: "St.-Pauli-Kirche"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![st.-pauli-kirche](st_-pauli-kirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../neustadt/leipziger_vorstadt/hauptseitelv.jpg)](../../../../neustadt/leipziger_vorstadt/)
-
 * * *
 
 ![evang.-lutherische  st. pauli-kirche königsbrücker platz 01097 dresden  tel. 0351/8043838](../../../../neustadt/leipziger_vorstadt/hechtviertel/st_-pauli-kirche/a_rectangle_1239.gif)

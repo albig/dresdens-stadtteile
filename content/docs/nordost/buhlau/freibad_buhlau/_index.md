@@ -3,19 +3,7 @@ title: "Freibad Bühlau"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![freibad bühlau](freibad_buhlau_nurbanlegendbannerh.gif)
-
 * * *
-
-* * *
-
-
-
-[![](../../../nordost/hauptseiteb_hlau.jpg)](../../../nordost/buhlau/)
-
-* * *
-
-
 
 ![](../../../nordost/buhlau/freibad_buhlau/b_hlaubad2.jpg)Die Geschichte des Bühlauer Freibades begann bereits Ende des 19.
 Jahrhunderts, als der damalige Besitzer und Direktor der Sächsischen Elektrizitätsgesellschaft Paul Oswald Bachmann ein Grundstück im oberen Loschwitzgrund erwarb und hier verschiedene Sportgeräte und Hütten

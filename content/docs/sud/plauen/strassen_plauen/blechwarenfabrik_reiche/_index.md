@@ -3,16 +3,6 @@ title: "Blechwarenfabrik Reiche"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../hauptseiteplauen.jpg)](../../../../sud/plauen/)
-
-* * *
-
 ![](../../../../sud/plauen/strassen_plauen/blechwarenfabrik_reiche/antonreiche2.jpg)
 
 ![](../../../../sud/plauen/strassen_plauen/blechwarenfabrik_reiche/antonreiche3.jpg)

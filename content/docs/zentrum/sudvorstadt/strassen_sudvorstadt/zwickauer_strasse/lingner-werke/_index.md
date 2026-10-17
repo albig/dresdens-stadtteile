@@ -3,16 +3,6 @@ title: "Lingner-Werke"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../../hauptseites_dvorstadt.jpg)](../../../../../zentrum/sudvorstadt/)
-
-* * *
-
 ![](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/zwickauer_strasse/lingner-werke/lingner-b_ste.jpg)
 
 **Karl August Lingner**

@@ -3,15 +3,6 @@ title: "Wehlener Straße"
 date: 2024-02-17T22:13:39+01:00
 ---
 
-![wehlener straße](wehlener_strasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../ost/tolkewitz/hauptseitetolkewitz.jpg)](../../../../ost/tolkewitz/)
-
-
 ![](../../../../ost/tolkewitz/strassen_tolkewitz/wehlener_strasse/tolkewsteinkreuz.jpg)Die Wehlener Straße ist Teil der wichtigen in Richtung Osten führenden Verbindungsstraße zwischen dem Stadtzentrum und Kleinzschachwitz. Ihren Namen, den sie nur auf Tolkewitzer Flur trägt, erhielt sie nach der kleinen Stadt Wehlen in der Sächsischen Schweiz. Vor der Eingemeindung wurde sie Dresdner Straße genannt. Ältestes Zeugnis ist ein mittelalterliches Sühnekreuz in der Nähe der Brücke des [Niedersedlitzer Flutgrabens](../../../../ost/niedersedlitz/niedersedlitzer_flutgraben/) _(Foto)_.
 
 Noch um 1880 führte die Straße zwischen der Ortsgrenze zu Neugruna und dem Tolkewitzer Dorfkern weitgehend durch bewaldetes Gebiet. Erst nach Anlage des [Johannisfriedhofes](../../../../ost/tolkewitz/johannisfriedhof/), dem Bau des Straßenbahnhofes und des Tolkewitzer [Wasserwerkes](../../../../ost/tolkewitz/) entstanden hier Wohn- und Geschäftshäuser, Blumengeschäfte und Steinmetzwerkstätten, die für den Bedarf des Friedhofes produzierten. Hinzu kamen ausgedehnte Flächen für die ortsansässigen Gärtnereien. Bekannteste Unternehmen dieser Branche waren neben der Baumschule Hauber die um 1919 gegründete Gärtnerei Schleinitz sowie die Gärtnerei von Ludwig Richard Richter. Diese befand sich ursprünglich am Pohlandplatz und wurde erst 1900 ins Tännicht verlegt. Der Volksmund nannte den Betrieb wegen seiner abseitigen Lage vom Ort Sansibar. Der Abschnitt zwischen Wasserwerk und Alttolkewitz blieb hingegen bis heute unbebaut, da die Flächen als Überschwemmungsgebiet der Elbe in Hochwasserzeiten dienen.

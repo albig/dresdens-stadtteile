@@ -3,18 +3,6 @@ title: "Krieschendorf"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-
-* * *
-
-
-
-
-[![](../../../../nachbarn.jpg)](../../../../nordost/schonfeld-weissig/)
-
-* * *
-
-
-
 ![](../../../../nordost/schonfeld-weissig/malschendorf/krieschendorf/krieschendorf.jpg)Älteste Spuren menschlicher Besiedlung finden sich auf Krieschendorfer Flur oberhalb des [Keppgrundes](../../../../nordost/hosterwitz/keppgrund/) am Todhübel und einem Bergsporn nördlich des Vogelgrundes, wo Spuren einer bronzezeitlichen Wohnanlage nachgewiesen wurden. Metallfunde und
 Keramikscherben stammen aus einer zugehörigen größeren Siedlung dieser Zeit. Die Gründung des heutigen Dorfes liegt im Dunkel und könnte entweder durch slawische
 Siedler oder im Zuge der fränkischen Besiedlung im 11./12. Jahrhundert erfolgt sein. 1378 wurde Krieschendorf erstmals urkundlich erwähnt, wobei die ursprüngliche Schreibweise

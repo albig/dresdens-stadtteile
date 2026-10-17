@@ -12,15 +12,6 @@ date: 2024-02-17T22:13:35+01:00
 
 **Gemeindesiegel von Eschdorf**
 
-
-[![](../../../nachbarn.jpg)](../../../nordost/schonfeld-weissig/)
-
-* * *
-
-
-
-
-
 Eschdorf entstand im 11./12. Jahrhundert im Zuge der deutschen Ostexpansion und wurde 1317 als Eschwinsdorf erstmals erwähnt. Der Orstname deutet vermutlich auf einen fränkischen Lokator Eschwin hin. Zuvor
 lebten hier bereits slawische Siedler, die am Standort der heutigen [Kirche](../../../nordost/schonfeld-weissig/eschdorf/eschdorfer_kirche/) eine Kultstätte besaßen. 1350 gehörte das Dorf zum Distrikt Dresden. 1440 ist erstmals ein Freigut erwähnt, welches 1635 an seinen heutigen Platz im Ortskern verlegt wurde. Ab 1554 befand sich dieses Gut im Besitz des kurfürstlichen Kanzlers Hieronymus Kiesewetter. Einer seiner Nachkommen, Hanns Heinrich von Kiesewetter ließ 1664 den Einwohnern zusätzliche Fuhrdienste auferlegen, was zu einem Aufstand der Eschdorfer Bauern führte. Erst die Gefangennahme und Inhaftierung der Rädelsführer erzwangen 1665 das Ende der Auseinandersetzungen. Die Verwaltung des Freigutes erfolgte bis ins 17. Jahrhundert von [Rossendorf](../../../nordost/schonfeld-weissig/rossendorf/) aus, wo die Gutsherren ihren Wohnsitz besaßen.
 

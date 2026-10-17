@@ -3,27 +3,7 @@ title: "Klosterhof"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![klosterhof](klosterhof_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../hauptseiteleubnitz.jpg)](../../../sudost/leubnitz-neuostra/)
-
-* * *
-
-
 
 ![](../../../sudost/leubnitz-neuostra/klosterhof/leubnklosterhofalt.jpg)Der Klosterhof Leubnitz geht auf ein altes Herrengut zurück, welches
 ursprünglich der Familie von Schönburg gehörte. Um 1280 kam dieses Allodialgut gemeinsam mit dem benachbarten Dorf Goppeln  in den Besitz des Markgrafen Heinrich den Erlauchten. Seine Witwe Elisabeth von Maltitz

@@ -3,18 +3,6 @@ title: "Uthmannstraße"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![uthmannstraße](uthmannstrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../sudwest/hauptseitegorbitz.jpg)](../../../../sudwest/gorbitz/)
-
-* * *
-
-
-
 ![](../../../../sudwest/gorbitz/strassen_gorbitz/uthmannstrasse/gorbuthmannstr.jpg)Die Uthmannstraße bildet die alte Verbindungsstraße zwischen den Ortsteilen Ober-
 und Niedergorbitz und wurde früher Dorfstraße bzw. Brauereistraße genannt. 1921 erhielt sie ihren heutigen Namen nach dem Dirigenten und Komponisten Gustav Adolf
 Uthmann (1867-1920). Uthmann entstammte einer Handwerkerfamilie und war später Geschäftsführer der BARMER- Krankenkasse. Zugleich betätigte er sich als

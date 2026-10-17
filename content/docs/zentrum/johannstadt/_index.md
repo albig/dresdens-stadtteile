@@ -3,16 +3,6 @@ title: "Johannstadt"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-
-* * *
-
-
-
-
-[![](../../nachbarn.jpg)](../../zentrum/)
-
-* * *
-
 **Kulturstätten in der Johannstadt**
 
 [![](../../bibodd.jpg)](http://www.bibo-dresden.de)

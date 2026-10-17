@@ -3,24 +3,6 @@ title: "Musenhalle"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![musenhalle](musenhalle_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../../hauptseitel_btau.jpg)](../../../../../sudwest/lobtau/)
-
 * * *
 
 ![](../../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/musenhalle/l_btaumusenhallewerbung.jpg)

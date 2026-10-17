@@ -12,14 +12,6 @@ date: 2024-02-17T22:13:47+01:00
 
 **Gemeindesiegel von Friedrichstadt**
 
-
-[![](../../nachbarn.jpg)](../../zentrum/)
-
-* * *
-
-
-
-
 * * *
 
 **Kultureinrichtungen in der Friedrichstadt**

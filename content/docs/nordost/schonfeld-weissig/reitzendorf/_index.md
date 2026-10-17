@@ -3,20 +3,6 @@ title: "Reitzendorf"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-
-* * *
-
-
-
-
-[![](../../../nachbarn.jpg)](../../../nordost/schonfeld-weissig/)
-
-* * *
-
-
-
-
-
 Reitzendorf wurde vermutlich um 1200 von fränkischen Siedlern gegründet und 1378 erstmals als Richczendorf urkundlich erwähnt. Wie bei vielen Hochlandorten wurde auch hier der Ortsname vom vermutlichen
 Dorfgründer abgeleitet. Politisch unterstand der Ort ab 1486 der Grundherrschaft Schönfeld, dem Reitzendorf auch kirchlich zugeordnet war. An den einstigen Weg der Reitzendorfer und Zaschendorfer Einwohner zur Kirche
 erinnert noch der Meßweg am Ortsrand. Neben den bäuerlichen Anwesen gab es im Ort ein Vorwerk mit umfangreichem Grundbesitz, Wieden, Teichen und einer Schäferei. Bis ins 18. Jahrhundert verringerte sich der bäuerliche

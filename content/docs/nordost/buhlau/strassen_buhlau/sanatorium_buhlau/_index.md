@@ -3,27 +3,7 @@ title: "Sanatorium Bühlau"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![sanatorium bühlau](sanatorium_buhlau_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../nordost/hauptseiteb_hlau.jpg)](../../../../nordost/buhlau/)
-
-* * *
-
-
 
 ![](../../../../nordost/buhlau/strassen_buhlau/sanatorium_buhlau/b_hlausanator.jpg)Das Sanatorium an der Bautzner Landstraße 108 wurde 1904 vom früheren
 Direktor der Sächsischen Elektrizitätsgesellschaft Paul Oswald Bachmann gegründet und erhielt bei seiner Einweihung den offiziellen Namen Kaiser

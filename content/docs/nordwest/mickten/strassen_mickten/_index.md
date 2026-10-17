@@ -1,15 +1,7 @@
 ---
-title: "Straßen Mickten"
+title: "Straßen und Plätze in Mickten"
 date: 2024-02-17T22:13:36+01:00
 ---
-
-![straßen und plätze in mickten](strassen_mickten_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../nordwest/mickten/strassen_mickten/hauptseitemickten2.jpg)](../../../nordwest/mickten/)
 
 ![altmickten](../../../nordwest/mickten/strassen_mickten/a_rectangle_1341.gif)
 
@@ -135,7 +127,7 @@ Ursprünglich befand sich in diesem Bereich der Micktener Flur die Siedlung Klei
 
 Die Marie-Curie-Straße entstand Anfang der 1990er Jahre im Gewerbegebiet zwischen der Autobahn und der Washingtonstraße. Im November 1995 erhielt sie ihren Namen nach der französischen Physikerin Marie Sklodowska-Curie (1867-1934). 1903 erhielt sie für ihre Untersuchungen zur Radioaktivität den Nobelpreis für Physik, 1911 für die Isolierung des Radiums den Nobelpreis für Chemie.
 
-![naundorfer straße](../../../nordwest/mickten/strassen_mickten/naundorfer straße.jpg)
+![naundorfer straße](../../../nordwest/mickten/strassen_mickten/naundorfer_straße.jpg)
 
 ![](../../../nordwest/mickten/strassen_mickten/mickt_naundorferstr.jpg)Die Naundorfer Straße erhielt ihren ursprünglichen Namen Kaditzer Straße im Jahr 1901, da sie in Richtung Kaditz führte. Um Verwechslungen mit einer gleichnamigen Straße im Nachbarort Übigau zu vermeiden, erfolgte 1904 die Umbenennung nach dem Ort Naundorf, heute ein Ortsteil von Radebeul. Im Eckhaus zur Hauptmannstraße (Nr. 20) befand sich früher das schon vor dem Ersten Weltkrieg genannte Lokal "Zur Sängerburg".
 

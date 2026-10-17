@@ -3,14 +3,6 @@ title: "Straßen Kaitz"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../sud/kaitz/strassen_kaitz/hauptseitekaitz2.jpg)](../../../sud/kaitz/)
-
 [![altkaitz](../../../sud/kaitz/strassen_kaitz/altkaitz.jpg)](../../../Sud/Kaitz/Strassen_Kaitz/Altkaitz/altkaitz.html)
 
 

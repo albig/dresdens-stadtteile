@@ -3,27 +3,7 @@ title: "Ballhaus Watzke"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![ballhaus watzke](ballhaus_watzke_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../hauptseitemickten.jpg)](../../../nordwest/mickten/)
-
-* * *
-
-
 
 ![](../../../nordwest/mickten/ballhaus_watzke/micktwatzkealt.jpg)An Stelle des heutigen Ballhauses Watzke an der Kötzschenbroder Straße 1
 entstand um 1790 als erstes Gebäude außerhalb des Dorfkerns eine kleine Bauernschänke, welche 1804 aufgestockt und vergrößert wurde. Das Haus gehörte dem Häusler Johann Gottlob Dietzen, der hier eine Branntwein-

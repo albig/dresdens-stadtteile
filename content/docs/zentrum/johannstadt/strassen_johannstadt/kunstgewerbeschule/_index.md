@@ -3,27 +3,7 @@ title: "Kunstgewerbeschule"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![kunstgewerbeschule](kunstgewerbeschule_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../hauptseitejohannstadt.jpg)](../../../../zentrum/johannstadt/)
-
-* * *
-
-
 
 ![](../../../../zentrum/johannstadt/strassen_johannstadt/kunstgewerbeschule/johannstkunstgewerbeschule.jpg)Die offiziell als Staatliche Akademie für Kunstgewerbe bezeichnete Einrichtung wurde 1875 als Königlich-Sächsische Kunstgewerbeschule gegründet. Ziel der Ausbildungsstätte war es, Nachwuchshandwerker in bestimmten Berufen auch künstlerisch auszubilden und so auf eine geschmackvolle Gestaltung industriell gefertigter Produkte Einfluss zu nehmen. Neben einer Zeichenschule gab es Fachklassen für Raumkunst und Architektur, Malerei, Grafik, Textilkunst, Mode und wissenschaftliches Darstellen. Zum ersten Direktor wurde der Architekt Karl Graff (1844-1906) bestellt. Verbunden war die Kunstgewerbeschule mit dem 1876 gegründeten Kunstgewerbemuseum. Dieses Museum sollte vorrangig der Aus- und Weiterbildung der Studenten dienen und umfasste kunstgewerbliche Objekte aller Stilepochen.
 

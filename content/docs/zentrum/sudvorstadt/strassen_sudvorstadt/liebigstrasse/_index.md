@@ -3,18 +3,6 @@ title: "Liebigstraße"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![liebigstraße](liebigstrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseites_dvorstadt.jpg)](../../../../zentrum/sudvorstadt/)
-
-* * *
-
-
-
 * * *
 
 [![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/liebigstrasse/evstudentengem.jpg)](http://www.esg-dresden.de)

@@ -3,16 +3,6 @@ title: "Standseilbahn"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![standseilbahn](standseilbahn_nestimatebanner.gif)
-
-* * *
-
-
-
-[![](../../../nordost/page10246/hauptseitewhirsch.jpg)](../../../nordost/page10246/)
-
-* * *
-
 ![technische daten:  streckenlänge: 547 m davon brücke: 102 m oberer tunnel:  54 m unterer tunnel: 96 m spurweite: 1000 mm  länge des seils: 578 m seildurchmesser: 38 mm höhenunterschied: 96 m fahrzeit: ca. 5 min geschwindigkeit: 5 m/s  fahrzeuge: 2 wagen (waggonbau bautzen) platzkapazität: je 60](../../../nordost/page10246/standseilbahn/a_rectangle_966.gif)
 
 * * *

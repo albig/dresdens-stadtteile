@@ -3,23 +3,7 @@ title: "Beutlerpark"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![beutlerpark](beutlerpark_nurbanlegendbannerh.gif)
-
 * * *
-
-
-
-* * *
-
-
-
-[![](../../../hauptseites_dvorstadt.jpg)](../../../zentrum/sudvorstadt/)
-
-* * *
-
-
-
-
 
 ![](../../../zentrum/sudvorstadt/beutlerpark/s_dvbeutlerpark1.jpg)Der heutige Beutlerpark befindet sich auf dem Areal des Bornbergs, einer kleinen
 Erhebung im Süden der Stadt. In seiner Nähe lag im Mittelalter der Anfang des 15. Jahrhunderts untergegangene Ort [Boskau](../../../zentrum/sudvorstadt/auswik/). Im Preußisch-Österreichischen

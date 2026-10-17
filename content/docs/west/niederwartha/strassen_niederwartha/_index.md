@@ -1,15 +1,7 @@
 ---
-title: "Straßen Niederwartha"
+title: "Straßen und Plätze in Niederwartha"
 date: 2024-02-17T22:13:46+01:00
 ---
-
-![straßen und plätze in niederwartha](strassen_niederwartha_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../west/niederwartha/strassen_niederwartha/hauptseiteniederwartha2.jpg)](../../../west/niederwartha/)
 
 ![am burgberg](../../../west/niederwartha/strassen_niederwartha/a_rectangle_1866.gif)
 

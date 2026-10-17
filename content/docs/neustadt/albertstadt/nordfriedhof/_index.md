@@ -3,13 +3,6 @@ title: "Nordfriedhof"
 date: 2024-02-17T22:13:30+01:00
 ---
 
-![nordfriedhof](nordfriedhof_nurbanlegendbannerh.gif)
-
-
-[![](../../../neustadt/hauptseitealbertstadt.jpg)](../../../neustadt/albertstadt/)
-
-* * *
-
 ![nordfriedhof kannenhenkelweg 1 01099 dresden  tel. 0351/8 04 13 83  verwaltung: löbtauer str. 70 01159 dresden  tel. 0351/4 39 36 00](../../../neustadt/albertstadt/nordfriedhof/a_rectangle_1105.gif)
 
 ![](../../../neustadt/albertstadt/nordfriedhof/albnordfriedh.jpg)Der Nordfriedhof wurde auf Anregung des sächsischen Kriegsministers Paul von

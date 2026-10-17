@@ -1,15 +1,7 @@
 ---
-title: "Straßen Gruna"
+title: "Straßen und Plätze in Gruna"
 date: 2024-02-17T22:13:37+01:00
 ---
-
-![straßen und plätze in gruna](strassen_gruna_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../ost/gruna/strassen_gruna/hauptseitegruna2.jpg)](../../../ost/gruna/)
 
 ![altgruna](../../../ost/gruna/strassen_gruna/a_rectangle_1010.gif)
 
@@ -24,7 +16,7 @@ In Erinnerung an den früheren Dorfkern übernahm der dabei entstandene zentrale
 
 Nach 1945 wurde der Betrieb enteignet und bis 1990 als VEB Madix weitergeführt. Zu DDR-Zeiten spezialisierte man sich auf die Produktion von hydraulischen Hebegeräten. Nach der Wende wurde der Betrieb zunächst in die Madix-Hydraulik GmbH überführt, wenig später jedoch stillgelegt. Bis zur Insolvenz 2007 führte die Pirnaer Hydraulikfirma WEBER KG Name und Produktion noch weiter. Das Grunaer Betriebsgelände (heute Rosenbergstraße 13) wird jetzt von der Vonovia genutzt.
 
-![am anfang](../../../ost/gruna/strassen_gruna/am anfang.jpg)
+![am anfang](../../../ost/gruna/strassen_gruna/am_anfang.jpg)
 
 Die Straße Am Anfang entstand 1920 im Zusammenhang mit dem Bau der Grunaer Gartenheimsiedlung. Die kleine Straße bildet den Auftakt der Wohnanlage und findet ihr Gegenstück mit der zwei Jahre später benannten Straße Am Ende. Die Gebäude entstanden zwischen 1924 und 1928 nach Plänen des Architekten Paul Beck und des Stadtbaudirektors Max Oertel. Zwischen den Doppel- und Reihenhäusern geben Gärten und öffentliche Grünflächen der Siedlung ihr Bild. Als künstlerischer Schmuck wurde 1922 Am Anfang ein Steinblumenbrunnen aufgestellt. Seit 1969 steht die gesamte Siedlungsanlage unter Denkmalschutz und wurde 1996 saniert.
 
@@ -32,7 +24,7 @@ Die Straße Am Anfang entstand 1920 im Zusammenhang mit dem Bau der Grunaer Gart
 
 **_Fotos:_** _Die Grunaer Gartenheimsiedlung - in der Mitte ein Blick in die Straße An den Gärten_
 
-![am ende](../../../ost/gruna/strassen_gruna/am ende.jpg)
+![am ende](../../../ost/gruna/strassen_gruna/am_ende.jpg)
 
 Als südlicher Abschluss der Gartenheimsiedlung wurde 1922 unmittelbar am Landgraben die Straße Am Ende angelegt. Wie bei allen Häusern der Siedlung zeichneten auch hier Paul Beck und Max Oertel für die architektonische Gestaltung verantwortlich. In dieser Straße befanden sich früher mit einer Filiale des genossenschaftlichen "Waaren-Einkaufs-Vereins zu Görlitz", einer Bäckereifiliale, der Fleischerei Wiedenmann und einer Kolonialwarenhandlung die wenigen Einkaufsmöglichkeiten des Viertels. Im Haus Nr. 14 hatte der Bauverein Gartenheim seine Geschäftsstelle.
 
@@ -44,7 +36,7 @@ Die heute nicht mehr in den Stadtplänen verzeichnete Straße An der Mimosa ents
 
 Die Augustusbergstraße wurde beim Bau der Wohnanlage Rosenhof angelegt. Ihren Namen erhielt sie 1997, in Anlehnung an die Straßennamen der näheren Umgebung, nach dem Augustusberg im Osterzgebirge. Der Berg liegt nahe von Bad Gottleuba und ist ein beliebtes Wander- und Ausflugsziel.
 
-[![bärensteiner straße](../../../ost/striesen/strassen_striesen/bärensteiner strasse.jpg)](../../../ost/striesen/strassen_striesen/bärensteiner_strasse/)
+[![bärensteiner straße](../../../ost/striesen/strassen_striesen/bärensteiner_strasse.jpg)](../../../ost/striesen/strassen_striesen/bärensteiner_strasse/)
 
 ![baumzeile](../../../ost/gruna/strassen_gruna/baumzeile.jpg)
 
@@ -102,7 +94,7 @@ Die Gartenheimallee bildet die Mittelachse der ab 1925 entstandenen Gartenstadt 
 
 Der Gartenheimsteg wurde kurz nach dem Ersten Weltkrieg als Planstraße X in der Grunaer Gartenheimsiedlung angelegt und erhielt am 17. Juni 1920 seinen Namen.Wenig später entstanden hier die ersten Reihenhäuser. Zur künstlerischen Gestaltung wurde 1939 ein Brunnen "Die fleißigen Hausfrauen" aufgestellt. Um die Brunnensäule oberhalb des Beckens standen vier von Rudolf Born gestaltete Bronzefiguren, die Hausfrauen bei der Arbeit darstellten. Bereits 1940 baute man diese jedoch wieder ab und ließ sie zu Rüstungszwecken einschmelzen. Die Wohnhäuser am Gartenheimsteg brannten 1945 aus und wurden in den 1950er Jahren wieder hergestellt.
 
-![gerader steg](../../../ost/gruna/strassen_gruna/gerader steg.jpg)
+![gerader steg](../../../ost/gruna/strassen_gruna/gerader_steg.jpg)
 
 Die Straße entstand im Zusammenhang mit Erschließung der Wohnanlage des Dresdner Spar- und Bauvereins. Am 15. April erhielt die bisherige Planstraße VIII den Namen Gerader Steg. Neben Wohngebäuden befand sich hier in der Nr. 12 das Gemeinschaftshaus des Bauvereins, in dem verschiedene Veranstaltungen, Versammlungen und Ausstellungen stattfanden.
 
@@ -118,7 +110,7 @@ Am 1. Januar 1902 wurde der gesamte Straßenzug erneut umbenannt und heißt seit
 
 Das Straßenbild prägen bis zur Gegenwart vor allem Villen und Landhäuser _( **Foto:** Gustav-Freytag-Straße 6)_. Markantestes Gebäude ist die von Hans Erlwein errichtete [Neugrunaer Schule](../../../ost/gruna/) an der Ecke zur Hofmannstraße, die heute von der 32. Grund- und der 32. Oberschule "Sieben Schwaben" genutzt wird.
 
-![helfenberger straße](../../../ost/gruna/strassen_gruna/helfenberger straße.jpg)
+![helfenberger straße](../../../ost/gruna/strassen_gruna/helfenberger_straße.jpg)
 
 Die als Sackgasse zum Elbufer führende Helfenberger Straße in Neugruna erhielt ihren Namen am 19. September 1900 nach der rechtselbisch gelegenen Gemeinde Helfenberg, die seit 1999 zu Dresden gehört.
 
@@ -188,11 +180,11 @@ Die bisherigen Betriebsgebäude an der Junghansstraße wurden 1932 an die [Cigar
 
 Der Kleinhausweg wurde im Zusammenhang mit der Grunaer Gartenheimsiedlung angelegt und am 14. April 1921 benannt. Die von der Hepkestraße bis zur Uttewalder Straße führende Straße ist nur im westlichen Teil mit Reihenhäusern bebaut und endet an einer Fußgängerbrücke über den Landgraben, wo sie sich als Fußweg fortsetzt.
 
-![leitmeritzer straße](../../../ost/gruna/strassen_gruna/leitmeritzer straße.jpg)
+![leitmeritzer straße](../../../ost/gruna/strassen_gruna/leitmeritzer_straße.jpg)
 
 ![](../../../ost/gruna/strassen_gruna/grunaleitmeritzerstr.jpg)Die Leitmeritzer Straße entstand um 1900 als Verlängerung der Stübelallee in Richtung Grunaer Dorfkern und erhielt ihren Namen nach der nordböhmischen Stadt Leitmeritz (Litomerice). Wenig später wurden hier die ersten repräsentativen Mietshäuser gebaut. Ursprünglich sollte sie an einem neu anzulegenden Platz an Stelle des alten Dorfkerns enden. Kriegsbedingt wurden diese Planungen jedoch nicht realisiert. Sämtliche Gebäude wurden 1945 zerstört, die Straße um 1970 im Zusammenhang mit dem Neubaugebiet Altgruna überbaut. Nach 1990 entstand an ihrer Stelle das Wohn- und Geschäftshaus mit der Zwingli-Apotheke. Das Foto zeigt die Einmündung der Leitmeritzer in die Zwinglistraße vor dem Zweiten Weltkrieg.
 
-![liebstädter straße](../../../ost/gruna/strassen_gruna/liebstädter straße.jpg)
+![liebstädter straße](../../../ost/gruna/strassen_gruna/liebstädter_straße.jpg)
 
 Die Liebstädter Straße geht in Teilen auf einen alten Verbindungsweg zwischen Gruna und Reick zurück, der in alten Plänen als "Reick-Grunaer Verbindungsweg" verzeichnet ist. Ab 1893 wurde dieser Weg amtlich als Reicker Straße bezeichnet. Der Abschnitt südlich der Winterbergstraße wurde 1897 vom Grundstücks- und Steinbruchbesitzer Bruno Hietzig 1897 ausgebaut und ein Jahr später dem öffentlichen Verkehr übergeben. Im Zusammenhang mit der Eingemeindung Grunas erhielten beide Abschnitte am 11. November 1903 nach der Kleinstadt Liebstadt im Osterzgebirge den Namen Liebstädter Straße. Im Zuge des Baus eines neuen Wohngebietes nördlich der Bodenbacher Straße erfolgte 1974 eine bogenförmige Verlängerung.
 

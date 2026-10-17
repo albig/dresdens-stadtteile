@@ -3,24 +3,6 @@ title: "St. Petri-Kirche"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![st. petri-kirche](st__petri-kirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../neustadt/leipziger_vorstadt/hauptseitelv.jpg)](../../../neustadt/leipziger_vorstadt/)
-
 * * *
 
 [![selbständige ev.-luth. kirche (selk) großenhainer platz 2 01097 dresden  tel. 0351/8629380  www.selk-dresden.de](../../../neustadt/leipziger_vorstadt/st__petri-kirche/a_rectangle_1509.gif)](http://www.selk-dresden.de)

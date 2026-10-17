@@ -3,22 +3,6 @@ title: "Krankenhaus Friedrichstadt"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![krankenhaus friedrichstadt](krankenhaus_friedrichstadt_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-[![](../../../../../../hauptseitefriedrichstadt.jpg)](../../../../../../zentrum/friedrichstadt/)
-
 * * *
 
 [![krankenhaus friedrichstadt  friedrichstr. 41 01067 dresden  tel. 0351/4800  www.khdf.de](../../../../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/marcolinipalais/a_rectangle_1604.gif)](http://www.khdf.de)

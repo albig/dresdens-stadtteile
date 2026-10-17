@@ -3,19 +3,6 @@ title: "Fritz-Loffler-Straße"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![fritz-löffler-straße](fritz-loffler-strasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseites_dvorstadt.jpg)](../../../../zentrum/sudvorstadt/)
-
-* * *
-
-
-
-
 ![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/fritz-loffler-strasse/s_dvreichsstr.jpg)Die heutige Fritz-Löffler-Straße wurde 1868 als Verlängerung der Prager Straße angelegt und stellte die Verbindung zwischen Innenstadt und den sich entwickelnden südlichen Vorstädten her. 1871 erhielt sie den Namen Reichsstraße und blieb bis zur Zerstörung 1945 Hauptgeschäftsstraße der Südvorstadt. Das Straßenbild prägten mehrgeschossige Wohn- und Geschäftshäuser, Hotels und Verwaltungsgebäude _(Foto),_ im südlichen Teil auch Villen. Am Reichsplatz errichtete 1883/84 die amerikanische Gemeinde St. John die 1945 zerstörte [Amerikanische Kirche](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/bergstrasse/amerikanische_kirche/).
 
 Ab 1883 verkehrte die Pferdebahn über die Reichsstraße bis zur Reichenbachstraße, bevor 1896 auf elektrischen Betrieb umgestellt wurde. Eine Besonderheit war in den Anfangsjahren der Antrieb über eine

@@ -7,22 +7,6 @@ date: 2024-02-17T22:13:43+01:00
 
 * * *
 
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../hauptseiter_cknitz.jpg)](../../../sud/racknitz/)
-
-* * *
-
 **Öffnungszeiten:**
 
 **(ab 3. März):**

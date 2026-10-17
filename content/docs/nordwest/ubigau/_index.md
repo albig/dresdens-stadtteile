@@ -14,8 +14,6 @@ date: 2024-02-17T22:13:37+01:00
 
 ![](../../nordwest/plz_01139.jpg)
 
-[![](../../nachbarn.jpg)](../../nordwest/)
-
 **Sonntagsspaziergang zwischen**
 
 **Mickten und Übigau**
@@ -37,11 +35,6 @@ date: 2024-02-17T22:13:37+01:00
 **Vortragsreihe zur Geschichte Übigaus und seiner Umgebung**
 
 **Termine unter:** [**www.pressebuero-naumann.de**](http://www.pressebuero-naumann.de)
-
-* * *
-
-
-
 
 * * *
 

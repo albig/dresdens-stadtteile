@@ -3,24 +3,6 @@ title: "Putjatinhaus"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![putjatinhaus](putjatinhaus_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../ost/hauptseitekleinzschachwitz.jpg)](../../../../ost/kleinzschachwitz/)
-
 * * *
 
 ![soziokulturelles zentrum putjatinhaus e.v.  meußlitzer str. 83 01259 dresden tel. 0351/2011906 fax 0351/2025876](../../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/putjatinhaus/a_rectangle_1425.gif)

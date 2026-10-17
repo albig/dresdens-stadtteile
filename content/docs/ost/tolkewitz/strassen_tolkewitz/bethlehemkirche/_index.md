@@ -3,24 +3,6 @@ title: "Bethlehemkirche"
 date: 2024-02-17T22:13:39+01:00
 ---
 
-![bethlehemkirche](../../../../bethlehemkirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../ost/tolkewitz/hauptseitetolkewitz.jpg)](../../../../ost/tolkewitz/)
-
 * * *
 
 [![bethlehemkirche  dresden-tolkewitz  pfarramt: marienberger str. 65 01279 dresden  tel. 0351/2516539](../../../../a_rectangle_1653.gif)](http://www.bethlehemkirche-dresden.de)

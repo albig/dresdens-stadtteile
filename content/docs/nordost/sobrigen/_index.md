@@ -12,15 +12,6 @@ date: 2024-02-17T22:13:35+01:00
 
 **Gemeindesiegel von Söbrigen**
 
-
-[![](../../nachbarn.jpg)](../../nordost/)
-
-* * *
-
-
-
-
-
 ![](../../nordost/sobrigen/söbrigen1.jpg)Das kleine Elbdorf Söbrigen wurde vermutlich zwischen dem 6. und 7. Jahrhundert gegründet und 1378 erstmals als Cebegrin erwähnt. Der Name wurde vom slawischen Ortsgründer abgeleitet (Ort des Sebekury). Mehrfach wechselte die Schreibweise des Ortsnamens über Czebeberen und Sebiger, bevor sich ab 1759 der Name Söbrigen durchsetzte. Söbrigen gehört zu den kleinsten Dresdner Stadtteilen und besteht nur aus dem ehemaligen Rundweiler Altsöbrigen und einer kurzen Häuserzeile am Elbufer. Ursprünglich war das Dorf ein Wohnplatz von Elbfischern und -schiffern. An diesen Wirtschaftszweig erinnert noch eine Inschrift am Wohnhaus Altsöbrigen Nr. 31 von 1795. Später waren hier auch einige Kleinbauern und Häusler ansässig, die etwas Obst-, Garten- und Weinbau betrieben. Um sich ihren Lebensunterhalt zu verdienen, verdingten sich viele Frauen des Dorfes als Wäscherinnen. Noch um 1900 verkehrte regelmäßig ein Wäscheschiff zwischen Dresden und Söbrigen, mit welchem die Auftraggeber ihre Wäschepakete zum Reinigen schickten. Zur Söbrigener Flur gehört auch das Gebiet des vor 1438 wüst gefallenen Ortes Cloden.
 
 _O Gott, thu die bewahren, die auf dem Wasser fahren_

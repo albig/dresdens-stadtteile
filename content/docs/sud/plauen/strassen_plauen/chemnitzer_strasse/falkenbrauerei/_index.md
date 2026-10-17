@@ -3,16 +3,6 @@ title: "Falkenbrauerei"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../../hauptseiteplauen.jpg)](../../../../../sud/plauen/)
-
-* * *
-
 ![](../../../../../sud/plauen/strassen_plauen/chemnitzer_strasse/falkenbrauerei/falkenbrauerei1.jpg)
 
 ![](../../../../../sud/plauen/strassen_plauen/chemnitzer_strasse/falkenbrauerei/falkenbrauerei2.jpg)

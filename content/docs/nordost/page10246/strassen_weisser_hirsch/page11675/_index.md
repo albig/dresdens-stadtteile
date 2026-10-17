@@ -3,24 +3,6 @@ title: "Kurbad Weißer Hirsch"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![kurbad weißer hirsch](page11675_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../nordost/page10246/hauptseitewhirsch.jpg)](../../../../nordost/page10246/)
-
 * * *
 
 ![](../../../../nordost/page10246/strassen_weisser_hirsch/page11675/kurbad_wei_er_hirsch.jpg)

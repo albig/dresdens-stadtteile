@@ -1,15 +1,7 @@
 ---
-title: "Straßen Gittersee"
+title: "Straßen und Plätze in Gittersee"
 date: 2024-02-17T22:13:41+01:00
 ---
-
-![straßen und plätze in gittersee](strassen_gittersee_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../sud/gittersee/strassen_gittersee/hauptseitegittersee2.jpg)](../../../sud/gittersee/)
 
 ![](../../../sud/gittersee/strassen_gittersee/am_bahndamm.jpg)
 

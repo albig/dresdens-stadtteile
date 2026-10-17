@@ -3,19 +3,6 @@ title: "Döbelner Straße"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![döbelner straße](../../../../nordwest/trachenberge/strassen_trachenberge/döbelner_strasse/dobelner_strasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseitetrachenberge.jpg)](../../../../nordwest/trachenberge/)
-
-* * *
-
-
-
-
 ![](../../../../nordwest/trachenberge/strassen_trachenberge/döbelner_strasse/trachaud_belnerstr.jpg)Die Döbelner Straße geht auf einen alten Verbindungsweg am Fuße der Weinberge zurück, der nach seinem Ausbau zur Straße ab 1885 zunächst Hermannstraße genannt wurde. Namensgeber war der im Ort lebende Rentier Friedrich Hermann Müller (1819-1898), welcher ab 1863 Besitzer eines Weinbergschlösschens an dieser Straße war (Nr. 24). Müller unterstützte seinen Heimatort mit verschiedenen Stiftungen, u.a. zur Finanzierung des Schulhauses und für die Ausstattung der Pieschener Markuskirche. Nach der Eingemeindung Trachenberges wurde die Hermannstraße 1897 nach der Kleinstadt Döbeln bei Leipzig in Döbelner Straße umbenannt. 1904 folgte der verbleibende Restabschnitt auf Trachauer Flur.
 
 ![](../../../../nordwest/trachenberge/strassen_trachenberge/döbelner_strasse/trabgweingut.jpg)Die unterhalb der früheren Weinberge verlaufende Straße bildet die eigentliche Hauptstraße der bis 1897 selbständigen Gemeinde Trachenberge. Ursprünglich lagen hier einige seit dem 16. Jahrhundert entstandene Weingüter. Hier befand sich auch das Gemeindeamt mit dem Spritzenhaus (Nr. 9). Im Haus Döbelner Straße 8 wurde 1876 die erste [Schule](../../../../nordwest/trachenberge/) in Trachenberge eröffnet. Auf den Grundstücken Nr. 108-116 stand bis zum Abriss 1934 das frühere Gut [Wilder Mann](../../../../nordwest/trachenberge/wilder_mann/), welches dem Stadtviertel seinen Namen gab. Aus diesem ging auch das gleichnamige Gasthaus an der Döbelner Straße 130 hervor, das nach 1945 als Fernsehstudio genutzt wurde. Heute erinnert noch eine Gedenktafel am Wohnhaus Döbelner Straße 110 an den einstigen Standort. Das Grundstück Nr. 12 diente vor dem Ersten Weltkrieg als "Luftbad Demnitz".

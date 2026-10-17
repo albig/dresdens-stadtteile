@@ -3,20 +3,6 @@ title: "Lausa"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-
-* * *
-
-
-
-
-[![](../../../nachbarn.jpg)](../../../nord/weixdorf/)
-
-* * *
-
-
-
-
-
 ![](../../../nord/weixdorf/lausa/lausa.jpg)Lausa ist ältester Ortsteil von Weixdorf und wurde bereits 1273 erstmals urkundlich erwähnt. Der von slawischen Siedlern gegründete Ort erhielt seinen Namen (1378: Lusyn) nach den hier gelegenen sumpfigen Flächen, da das altsorbische Luza mit Sumpf, Pfütze übersetzt werden kann. Ursprünglich war Lausa von mehreren Teichen umgeben und wahrscheinlich Standort einer Wasserburg, von der jedoch keine Spuren erhalten blieben. Heute erinnert nur noch der Pfarrteich an diese Zeit. Weitere Teiche südlich des Dorfkerns werden vom Lausabach gespeist und bis heute zur Fischzucht genutzt. Größter ist der ehemals 50 Hektar große Großteich, welcher 1846 zur Hälfte abgelassen wurde und seit 1906 als [Weixdorfer Waldbad](../../../nord/weixdorf/lausa/waldbad_weixdorf/) genutzt wird.
 
 ![](lausa3.jpg)Früh besaß Lausa eine eigene [Kirche](../../../nord/weixdorf/lausa/lausaer_kirche/) mit Friedhof. Der heutige Bau stammt von 1650 und war Wirkungsort des volkstümlichen Pfarrers Roller, der mit der Familie Kügelgen befreundet war. 1349 gehörte der Ort den Brüdern Peter und Fritz von Rakenitz, um 1600 der Familie von Zschieren. Ab 1696 unterstanden Lausa und seine Nachbargemeinden der Grundherrschaft des Rittergutes Hermsdorf. Schwer betroffen wurde das Dorf im Dreißigjährigen Krieg, als 1637 schwedische Truppen die Pfarre und zahlreiche weitere Gebäude niederbrannten.

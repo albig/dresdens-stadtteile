@@ -1,15 +1,7 @@
 ---
-title: "Straßen Lockwitz"
+title: "Straßen und Plätze in Lockwitz"
 date: 2024-02-17T22:13:42+01:00
 ---
-
-![straßen und plätze in lockwitz](strassen_lockwitz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../sudost/lockwitz/strassen_lockwitz/hauptseitelockwitz2.jpg)](../../../sudost/lockwitz/)
 
 ![altlockwitz](../../../sudost/lockwitz/strassen_lockwitz/a_rectangle_1413.gif)
 
@@ -78,7 +70,7 @@ Kindergarten: Im Haus Nr. 21 befindet sich seit 1895 der Lockwitzer Kindergarten
 
 Die Straße An der Malte geht auf einen früheren Feldweg zurück, der von der Dohnaer Straße nach Borthen und zur Lehmgrube nach Luga führte. Beim Bau der Autobahn A 17 wurde dieser Hohlweg als Autobahnzubringer ausgebaut. Der Name Malte geht auf die altdeutsche Bezeichnung für hoch zurück und weist auf die Lage des auf der Höhe verlaufenden Weges hin. Bis zum Beginn des 19. Jahrhunderts gab es hier die Ziegelei Malte, deren Areal sich bis zur Dohnaer Straße erstreckte.
 
-![](../../../sudost/lockwitz/strassen_lockwitz/an der niedermühle.jpg)
+![](../../../sudost/lockwitz/strassen_lockwitz/an_der_niedermühle.jpg)
 
 Die Straße An der Niedermühle verbindet Lockwitz mit dem benachbarten Niedersedlitz und führt dabei zum Großteil unmittelbar am [Lockwitzbach](../../../sudost/lockwitz/lockwitzbach/) entlang. Ursprünglich wurde diese Straße Sedlitzer Weg genannt.
 
@@ -134,11 +126,11 @@ der Alten Kaserne angelegt. Der Name erinnert an den Gebergrund, ein vom Geberba
 
 Die Gerberstraße wurde nach dem Lockwitzer Pfarrer Christian Gottlob Gerber (1686-1764) benannt. Gerber war ab 1731 Pfarrer der Lockwitzer Schlosskirche und befasste sich als Verfasser der Ortschronik "Altes und Neues von Lockwitz und Nickern" auch mit der Geschichte seines Heimatdorfes. In den Zwanziger Jahren entstanden an der Gerberstraße die ersten Einfamilienhäuser.
 
-![](../../../sudost/lockwitz/strassen_lockwitz/gommernsche straße.jpg)
+![](../../../sudost/lockwitz/strassen_lockwitz/gommernsche_straße.jpg)
 
 Die Gommernsche Straße befindet sich im nördlich der Dohnaer Straße gelegenen Unterlockwitz und erhielt ihren Namen nach dem kleinen Ort Gommern, heute ein Ortsteil von Heidenau. Gommern liegt unmittelbar an der Dresdner Stadtgrenze und grenzt mit seinen Fluren an die Dresdner Stadtteile Sporbitz, Kleinluga und Großluga.
 
-![](../../../sudost/lockwitz/strassen_lockwitz/gorknitzer straße.jpg)
+![](../../../sudost/lockwitz/strassen_lockwitz/gorknitzer_straße.jpg)
 
 Die Gorknitzer Straße entstand im Zusammenhang mit dem Siedlungsbau am Lockwitzer Galgenberg. Benannt wurde sie nach dem Dorf Gorknitz oberhalb des Lockwitztales, welches später als Ortsteil zu Röhrsdorf kam und heute zu Dohna gehört.
 
@@ -158,7 +150,7 @@ Die Hermann-Conradi-Straße wurde nach dem Schriftsteller und Redakteur Hermann 
 
 **_Fotos:_** _Wohnhäuser an der Hermann-Conradi-Straße_
 
-![hohles tor](../../../sudost/lockwitz/strassen_lockwitz/hohles tor.jpg)
+![hohles tor](../../../sudost/lockwitz/strassen_lockwitz/hohles_tor.jpg)
 
 Die Straße Hohles Tor wurde im Zuge der Bebauung am Galgenberg Anfang des 20. Jahrhunderts angelegt und verläuft unterhalb des Trutzsch. Der Hohlweg war einst Zugang zu einer frühgeschichtlichen Slawenburg oberhalb des Lockwitztales. Später wurde dieser Burgberg auch Sorbenwarte oder Donath's Berg (nach den Besitzern der Kelterei Donath) genannt. Von der ehemaligen Burg sind heute keine Überreste mehr zu finden.
 

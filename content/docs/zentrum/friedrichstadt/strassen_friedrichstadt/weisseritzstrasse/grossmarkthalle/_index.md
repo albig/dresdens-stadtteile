@@ -7,25 +7,6 @@ date: 2024-02-17T22:13:47+01:00
 
 * * *
 
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../../hauptseitefriedrichstadt.jpg)](../../../../../zentrum/friedrichstadt/)
-
-* * *
-
-
-
-
 Die Großmarkthalle wurde als Hauptmarkthalle der Stadt Dresden zwischen 1893 und
 1895 auf dem ehemaligen Flussbett der Weißeritz errichtet. Die Entwürfe für das vom Städtischen Hochbauamt geplante Gebäude stammen von Stadtbaurat Edmund Bräter.
 Hauptgrund für ihre Errichtung waren Forderungen der Stadt, die bislang unter freiem Himmel stattfindenden Lebensmittelmärkte aus hygienischen Gründen in feste Bauten zu

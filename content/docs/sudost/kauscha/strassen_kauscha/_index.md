@@ -3,14 +3,6 @@ title: "Straßen Kauscha"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../sudost/kauscha/strassen_kauscha/hauptseitekauscha2.jpg)](../../../sudost/kauscha/)
-
 ![am hopfenfeld](../../../sudost/kauscha/strassen_kauscha/am hopfenfeld.jpg)
 
 Die Straße Am Hopfenfeld geht im westlichen Teil von Kauscha von der Fritz-Meinhardt-Straße in nördliche Richtung ab. Der Name bezieht sich auf den zu DDR-Zeiten hier betriebenen Hopfenanbau.

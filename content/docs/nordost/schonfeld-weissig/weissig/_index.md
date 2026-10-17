@@ -12,12 +12,6 @@ date: 2024-02-17T22:13:35+01:00
 
 **Gemeindesiegel von Weißig**
 
-
-[![](../../../nachbarn.jpg)](../../../nordost/schonfeld-weissig/)
-
-* * *
-
-
 [![airline-direct](http://ad.zanox.com/ppv/?10219639C1407666660)](http://ad.zanox.com/ppc/?10219639C1407666660T)
 
 

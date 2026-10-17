@@ -3,14 +3,6 @@ title: "Straßen Mockritz"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../sud/mockritz/strassen_mockritz/hauptseitemockritz2.jpg)](../../../sud/mockritz/)
-
 ![altmockritz](../../../sud/mockritz/strassen_mockritz/a_rectangle_673.gif)
 
 Altmockritz ist der alte Ortskern von Mockritz und wurde seit der Einführung von Straßennamen 1906 amtlich als Dorfplatz bezeichnet. Im Zuge der Eingemeindung erfolgte 1926 die Umbenennung in Altmockritz. Hier haben sich noch zahlreiche historische Gehöfte aus der Vergangenheit des Ortes erhalten. Bemerkenswert sind die Bauernhöfe Nr. 1, Nr. 8, Nr. 12 und Nr. 14, die zum Teil noch Fachwerk, Torbögen und Eingangspforten aufweisen. Am Gut Altmockritz 14 erinnern Schlussteine von 1783 und 1861 an frühere Umbauten. Seit 2003 befindet sich hier die historisch-rustikale Gaststätte Altmockritzer Bauernstube.

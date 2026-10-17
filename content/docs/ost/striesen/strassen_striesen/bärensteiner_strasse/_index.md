@@ -3,14 +3,6 @@ title: "Bärensteiner Straße"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![bärensteiner straße](../../../../ost/striesen/strassen_striesen/bärensteiner_strasse/barensteiner_strasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../ost/striesen/hauptseitestriesen.jpg)](../../../../ost/striesen/)
-
 [![](../../../../ost/hauptseitegruna.jpg)](../../../../ost/gruna/)
 
 * * *

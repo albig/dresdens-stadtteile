@@ -3,28 +3,7 @@ title: "König-Georg-Gymnasium"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![könig-georg-gymnasium](konig-georg-gymnasium_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../hauptseitejohannstadt.jpg)](../../../../zentrum/johannstadt/)
-
-* * *
-
-
-
 
 Das König-Georg-Gymnasium entstand als erste humanistische Reformschule Sachsens und wurde am 21. April 1903 eröffnet. Die nach dem damals regierenden König Georg benannte Bildungseinrichtung bezog zunächst
 einige Räume der [XII. Bürgerschule](../../../../zentrum/johannstadt/) am Fiedlerplatz, bevor 1905 mit der Errichtung eines Neubaus begonnen werden konnte. Ursprünglich hatte man dafür ein Grundstück am Dürerplatz ausgewählt, entschloss sich jedoch letztlich, das neue Gymnasium am Fiedlerplatz zu bauen.

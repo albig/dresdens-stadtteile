@@ -3,24 +3,6 @@ title: "Versöhnungskirche"
 date: 2024-02-17T22:13:39+01:00
 ---
 
-![versöhnungskirche](versohnungskirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../ost/striesen/hauptseitestriesen.jpg)](../../../ost/striesen/)
-
 * * *
 
 ![versöhnungskirche striesen wittenberger str.  96 01309 dresden  tel. 0351/3100670](../../../ost/striesen/versohnungskirche/a_rectangle_1135.gif)

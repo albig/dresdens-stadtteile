@@ -12,14 +12,6 @@ date: 2024-02-17T22:13:41+01:00
 
 **Gemeindesiegel von Gostritz**
 
-
-[![](../../nachbarn.jpg)](../../sudost/)
-
-* * *
-
-
-
-
 ![](../../sudost/gostritz/gostritz1.jpg)Das slawische Gassendorf Gostritz entstand am Hang des Nöthnitzbachtals und wurde 1378 erstmals erwähnt. Der altsorbische Ortsname Gosterticz bedeutet Leute des Gostirad und weist auf den Sippenältesten der Siedlung hin. Andere Deutungen gehen vom Wort gostryi = spitz aus, da das Dorf auf einer Anhöhe zwischen dem Tal des Schloitzbaches und des Heiligen Borns liegt. Bis 1402 gehörte Gostritz den Burggrafen von Dohna, später verschiedenen Adelsfamilien. Ab 1399 gelang es dem Kloster Altzella, schrittweise fast die gesamte Ortsflur in seinen Besitz zu bringen und Gostritz dem Leubnitzer Klosterhof zu unterstellen. Erst mit Auflösung des Klosterhofes endete diese kirchliche Vorherrschaft. Gostritz wurde nun ab 1550 als Teil des Leubnitzer Amtes vom Rat der Stadt Dresden verwaltet. 1813 wurden einige Gehöfte während der Kämpfe um Dresden beschädigt.
 
 ![](../../sudost/gostritz/gostritz2.jpg)Bis heute konnte der Ort am südlichen Stadtrand sein ländliches Bild weitgehend bewahren. Größere Bauerngüter mit beeindruckenden Hofeinfahrten befinden sich u.a. in Altgostritz _(Fotos)_, an der [Friebelstraße](../../sudost/gostritz/strassen_gostritz/) und der Rosentitzer Straße. Die Einfahrten zeigen zum Teil alte Hausmarken und Inschriften, die auf frühere Besitzer hinweisen. Sehenswert ist auch eine 1836 aufgestellte historische Wegsäule am Ortsausgang.

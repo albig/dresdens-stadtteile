@@ -12,11 +12,6 @@ date: 2024-02-17T22:13:35+01:00
 
 **Gemeindesiegel von Schönfeld**
 
-
-[![](../../../nachbarn.jpg)](../../../nordost/schonfeld-weissig/)
-
-* * *
-
 **Schulen in Schönfeld:**
 
 [![](../../../nordost/schonfeld-weissig/schonfeld/gssch_nfeld.jpg)](http://www.grundschule-schönfeld.de)

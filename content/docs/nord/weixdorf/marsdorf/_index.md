@@ -3,20 +3,6 @@ title: "Marsdorf"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-
-* * *
-
-
-
-
-[![](../../../nachbarn.jpg)](../../../nord/weixdorf/)
-
-* * *
-
-
-
-
-
 Marsdorf wurde im Jahr 1350 erstmals als Maroldisdorf im Lehnsbuch Friedrich des Strengen erwähnt. Der Name ist höchstwahrscheinlich vom Lokator (Ortsgründer) des Straßenangerdorfes abgeleitet. Der Ort war
 ursprünglich Lehen der Markgrafen von Meißen, kam jedoch 1357 zum Teil in den Besitz der Bürgermeister von Dresden und Pirna. Rechte in Marsdorf besaßen auch die Herren von Grünberg. 1791 fiel der kleine Ort an das Amt
 Dresden und gehörte seit dem 19. Jh. zum Amt Moritzburg. Kirchlich unterstand Marsdorf dem Bärnsdorfer Kirchspiel. Die Bewohner lebten vorrangig von der Landwirtschaft. Erst nach 1860 entstanden einige kleinere

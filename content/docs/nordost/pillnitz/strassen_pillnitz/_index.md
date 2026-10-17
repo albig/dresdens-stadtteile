@@ -1,15 +1,7 @@
 ---
-title: "Straßen Pillnitz"
+title: "Straßen und Plätze in Pillnitz"
 date: 2024-02-17T22:13:34+01:00
 ---
-
-![straßen und plätze in pillnitz](strassen_pillnitz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../nordost/pillnitz/strassen_pillnitz/hauptseitepillnitz2.jpg)](../../../nordost/pillnitz/)
 
 ![am rathaus](../../../nordost/pillnitz/strassen_pillnitz/a_rectangle_1800.gif)
 

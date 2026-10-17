@@ -3,19 +3,6 @@ title: "Veilchenweg"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![veilchenweg](veilchenweg_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../nordost/hauptseiteloschwitz.jpg)](../../../../nordost/loschwitz/)
-
-* * *
-
-
-
-
 Der Veilchenweg verbindet den Dorfkern von Loschwitz mit dem Ortsteil Oberloschwitz auf der Höhe. Der aus einem alten Weinbergssteig hervorgegangene Weg wechselte mehrfach seinen Namen. Um 1850 wurde er
 Blauveilchengasse genannt, später Bergstraße und dann bis 1920 nach einem Ausflugslokal Victoriastraße. Nach der Eingemeindung entstand der heutige Name Veilchenweg. Bis zur Gegenwart sind am Veilchenweg einige alte
 Winzerhäuser erhalten geblieben, die an die Weinbautradition des Ortes erinnern. Später siedelten sich auch hier wohlhabende Bürger und Künstler an. Erwähnt werden sollen nur Ludwig Richter (Nr. 1), Emanuel Hegenbarth

@@ -12,14 +12,6 @@ date: 2024-02-17T22:13:44+01:00
 
 **Gemeindesiegel von Naußlitz**
 
-[![](../../nachbarn.jpg)](../../sudwest/)
-
-* * *
-
-
-
-
-
 ![](../../sudwest/nausslitz/nau_litz1.jpg)Naußlitz entstand im 10. Jahrhundert als Gassendorf am Westhang des Elbtales
 und wurde 1144 als Nuendorf, 1311 als Nuzadelitz erwähnt. Beide Namen bedeuten übersetzt Neudorf. Die kleine Siedlung am Roßthaler Bach gehörte
 ursprünglich zu den Domherrengütern des Meißner Hochstifts und lebte von der Landwirtschaft sowie vom Obst- und Weinbau. Im 16. Jahrhundert wohnten hier

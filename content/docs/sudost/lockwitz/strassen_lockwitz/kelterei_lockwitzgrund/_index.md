@@ -3,36 +3,7 @@ title: "Kelterei Lockwitzgrund"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![kelterei lockwitzgrund](kelterei_lockwitzgrund_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../hauptseitelockwitz.jpg)](../../../../sudost/lockwitz/)
-
-* * *
-
-
-
-
-
-
-
-
-
-
-
 
 ![](../../../../sudost/lockwitz/strassen_lockwitz/kelterei_lockwitzgrund/lockwitzetik.jpg)Die Kelterei Lockwitzgrund wurde 1893 von Emil Donath (1868-1945) in Laubegast gegründet. Donath war Sohn des aus dem Erzgebirge stammenden Drechslers Christian Herrmann Donath und einer Posamentennäherin. Später besaßen seine Eltern den bekannten Tanzgasthof [Donaths Neue Welt](../../../../ost/tolkewitz/strassen_tolkewitz/alttolkewitz/donaths_neue_welt/) in Tolkewitz. Sein Onkel Rinaldo betrieb auf der Waisenhausstraße eine Konservenhandlung. Hier befasste sich Emil Donath mit der Herstellung haltbarer Fruchtsäfte. Im Ergebnis gelang ihm die erstmalige industrielle Anwendung des Kelterverfahrens, so dass Donaths Kelterei erste Fabrik zur Herstellung alkoholfreier Getränke in Deutschland war. Zunächst ließ er sich in der Nähe des elterlichen Gasthofs in Laubegast nieder. Für seinen keltertrüben Apfelsaft erhielt er 1896 eine Goldmedaille der Internationalen Gartenbauausstellung. 1906 wurde das Unternehmen aud das Areal eines stillgelegten Steinbruchs nach Lockwitz verlegt.
 

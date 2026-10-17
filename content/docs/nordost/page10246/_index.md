@@ -12,13 +12,6 @@ date: 2024-02-17T22:13:34+01:00
 
 **Gemeindesiegel von Weißer Hirsch**
 
-
-[![](../../nachbarn.jpg)](../../nordost/)
-
-* * *
-
-
-
 * * *
 
 ![](../../nordost/page10246/weihigemeindesiegel.jpg)

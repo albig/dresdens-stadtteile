@@ -3,27 +3,7 @@ title: "Vogelwiese"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![vogelwiese](vogelwiese_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../hauptseitejohannstadt.jpg)](../../../zentrum/johannstadt/)
-
-* * *
-
-
 
 Die Geschichte der Dresdner Vogelwiese reicht bis ins Mittelalter zurück. Damals war es Brauch, alljährlich zum Pfingstfest ein Zielschießen abzuhalten, um den Schützenkönig zu krönen und gleichzeitig die
 Wehrfähigkeit der Bürger zu überprüfen. Offiziell wurde dieser Wettstreit ab 1577 von der Schützengilde veranstaltet. Das Schießen fand auf einer Freifläche in der Wilsdruffer Vorstadt statt, woran heute noch der Name

@@ -3,24 +3,6 @@ title: "Unkersdorfer Kirche"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![unkersdorfer kirche](unkersdorfer_kirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../sudwest/gompitz/unkersdorf/hauptseiteunkersdorf.jpg)](../../../../sudwest/gompitz/unkersdorf/)
-
 * * *
 
 ![ev.-luth  kirchgemeinde  unkersdorf  pfarramt  tel. 0351-453 77 47](../../../../sudwest/gompitz/unkersdorf/unkersdorfer_kirche/a_rectangle_441.gif)

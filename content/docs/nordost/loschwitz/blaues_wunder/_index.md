@@ -3,16 +3,6 @@ title: "Blaues Wunder"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../nordost/hauptseiteloschwitz.jpg)](../../../nordost/loschwitz/)
-
-* * *
-
 ![](../../../nordost/loschwitz/blaues_wunder/br_ckenzoll.jpg)
 
 * * *

@@ -3,19 +3,6 @@ title: "Friedrich-List-Platz"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![friedrich-list-platz](friedrich-list-platz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseites_dvorstadt.jpg)](../../../../zentrum/sudvorstadt/)
-
-* * *
-
-
-
-
 ![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/friedrich-list-platz/svbismarckplatz.jpg)Der heutige Friedrich-List-Platz wurde in der zweiten Hälfte des 19. Jahrhunderts
 als Prager Platz angelegt und nach der Reichsgründung 1871 nach dem deutschen Reichskanzler Otto von Bismarck (1815-1898) in Bismarckplatz umbenannt. Ab 1870 entstanden hier Hotels und Pensionen _(im Bild links)_
 , an der Südseite zwischen Reichs- und Sedanstraße 1875 das neue Hauptgebäude der Technischen Hochschule _(ganz rechts)_. Die gesamte Nordseite nimmt der in

@@ -3,19 +3,6 @@ title: "Drescherhauser"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../hauptseitefriedrichstadt.jpg)](../../../../zentrum/friedrichstadt/)
-
-* * *
-
-
-
-
 Als Drescherhäuser wurde früher eine kleine Siedlung an der Flurgrenze zwischen der Friedrichstadt und Löbtau bezeichnet. Die einfachen Gebäude entstanden 1663 und dienten den auf dem Ostravorwerk beschäftigten böhmischen Tagelöhnern und deren Familien als Unterkunft. Ursprünglich bestand der kleine Ort, der 1688 als die 14 Häuser zu Treschersdorf, 1804 als Dreschersdorf bezeichnet wurde, aus 14 Wohngebäuden,
 von denen 12 dem Ostravorwerk gehörten. Anfang des 19. Jahrhunderts wurden vier weitere Häuser errichtet, die sich im Privatbesitz befanden.
 

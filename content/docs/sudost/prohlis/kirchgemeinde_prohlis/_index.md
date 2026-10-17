@@ -3,24 +3,6 @@ title: "Kirchgemeinde Prohlis"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![kirchgemeinde prohlis](kirchgemeinde_prohlis_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../sudost/hauptseiteprohlis.jpg)](../../../sudost/prohlis/)
-
 * * *
 
 [![ev.-luth. kirchgemeinde prohlis georg-palitzsch-str. 2 01239 dresden tel. 0351/2841149  www.kirche-prohlis.de](../../../sudost/prohlis/kirchgemeinde_prohlis/a_rectangle_817.gif)](http://www.kirche-prohlis.de)

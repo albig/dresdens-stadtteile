@@ -3,27 +3,7 @@ title: "Sowjetisches Ehrenmal"
 date: 2024-02-17T22:13:30+01:00
 ---
 
-![sowjetisches ehrenmal](sowjetisches_ehrenmal_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../neustadt/hauptseitealbertstadt.jpg)](../../../../neustadt/albertstadt/)
-
-* * *
-
-
 
 ![](../../../../neustadt/albertstadt/strassen_albertstadt/sowjetisches_ehrenmal/albsowjetehrenmal4.jpg)Das Sowjetische Ehrenmal befindet sich seit 1994 auf dem Vorplatz des
 Militärhistorischen Museums an [Olbrichtplatz](../../../../neustadt/albertstadt/strassen_albertstadt/), nachdem es zuvor seinen Standort am Platz der Einheit (heute Albertplatz) hatte

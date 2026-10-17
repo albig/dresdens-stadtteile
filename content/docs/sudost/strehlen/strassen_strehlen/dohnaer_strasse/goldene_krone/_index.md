@@ -3,28 +3,7 @@ title: "Goldene Krone"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![goldene krone](goldene_krone_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../../sud/hauptseitestrehlen.jpg)](../../../../../sudost/strehlen/)
-
-* * *
-
-
-
 
 ![](../../../../../sudost/strehlen/strassen_strehlen/dohnaer_strasse/goldene_krone/dohngoldkrone3.jpg) Das einstige Strehlener Ballhaus Zur Goldenen Krone entstand 1877 auf Initiative des Gastwirts Ernst Neumann nach Plänen des Baumeisters Otto Walter. Für den Bau mussten zwei Bauernhäuser abgebrochen werden. Ab 1882 endete unmittelbar vor dem Lokal die Pferdebahn, was diesem zusätzliche Gästeströme bescherte. Wegen des großen Zuspruchs ließ der neue Besitzer Heinrich Hebenstreit sein Restaurant 1888 und 1891 erweitern und in diesem Zusammenhang auch einen Ballsaal anbauen. Für den Um- und Ausbau wurde der in Strehlen ansässige Architekt Max Georg Poscharsky gewonnen, der ein repräsentatives Wirtshaus mit mehreren Gasträumen und Vereinszimmern schuf. Am 30. Oktober 1889 wurde der Neubau mit einer Versammlung des Gebirgsvereins für die Sächsische Schweiz - Sektion Strehlen und einer anschließenden Festkneipe eingeweiht. 1891 erfolgte unter Mitwirkung des Architekten Ernst Sommerschuh nochmals eine Erweiterung.
 

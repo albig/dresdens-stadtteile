@@ -3,19 +3,6 @@ title: "Laubegaster Ufer"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![laubegaster ufer](laubegaster_ufer_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../ost/laubegast/hauptseitelaubegast.jpg)](../../../../ost/laubegast/)
-
-* * *
-
-
-
-
 Die ehemalige Uferstraße wird seit 1926 offiziell als Laubegaster Ufer bezeichnet und ist Teil des Elberadweges. Neben den bereits vorhandenen Wohngebäuden des Dorfkerns und dem früheren [Gasthof Stadt Amsterdam](../../../../ost/laubegast/strassen_laubegast/laubegaster_ufer/volkshaus_laubegast/) entstanden hier gegen Ende des 19. Jahrhunderts auch einige repräsentative Villen im Stil des Historismus. Die nach 1990 zum Großteil sanierten Häuser unterschiedlichster Stilformen prägen bis heute das Ortsbild.
 
 Seit 2009 erinnert die von Wieland Förster geschaffene Bronzeplastik Die Elbe am Laubegaster Ufer an das Leben der Ortsbewohner vom und mit dem Fluss. Die Figur wurde 2002 von dem in Laubegast aufgewachsenen Künstler ursprünglich für Hamburg geschaffen, wo sich ein weiterer Abguss befindet. Finanziert wurde das Vorhaben von Laubegaster Einwohnern und vom Künstler selbst, der auf einen Großteil seines Honorars verzichtete. Das Kunstwerk stellt eine auf einer Welle schwebende weibliche Figur dar, die sich leicht aufrichtet und so das bedächtige Strömen als auch das Aufbäumen gegen die Naturgewalt deswassers symbolisiert.

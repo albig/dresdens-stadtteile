@@ -3,28 +3,7 @@ title: "Schusterhaus"
 date: 2024-02-17T22:13:45+01:00
 ---
 
-![schusterhaus](schusterhaus_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../../west/cotta/hauptseitecotta.jpg)](../../../../../west/cotta/)
-
-* * *
-
-
-
 
 ![](../../../../../west/cotta/strassen_cotta/hamburger_strasse/schusterhaus/cottaschusterh.jpg)Das Schusterhaus entstand um 1890 in der Nähe der neuen Weißeritzmündung an
 der [Hamburger Straße](../../../../../west/cotta/strassen_cotta/hamburger_strasse/) 65\. Beim Bau wurden dabei Spuren einer steinzeitlichen

@@ -3,16 +3,6 @@ title: "Innerer Neustädter Friedhof"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![innerer neustädter friedhof](innerer_neustadter_friedhof_nurbanlegendbannerh.gif)
-
-* * *
-
-* * *
-
-
-
-[![](../../../neustadt/leipziger_vorstadt/hauptseitelv.jpg)](../../../neustadt/leipziger_vorstadt/)
-
 * * *
 
 ![innerer neustädter friedhof  friedensstr. 2 01097 dresden tel. 0351/8043604](../../../neustadt/leipziger_vorstadt/innerer_neustadter_friedhof/a_rectangle_1522.gif)

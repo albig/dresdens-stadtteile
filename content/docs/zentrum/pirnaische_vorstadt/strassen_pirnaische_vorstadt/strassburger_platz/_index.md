@@ -3,14 +3,6 @@ title: "Straßburger Platz"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![straßburger platz](../../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/strassburger_platz/strassburger_platz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseitepv.jpg)](../../../../zentrum/pirnaische_vorstadt/)
-
 [![](../../../../hauptseitejohannstadt.jpg)](../../../../zentrum/johannstadt/)
 
 * * *

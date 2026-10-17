@@ -3,24 +3,6 @@ title: "Mormonentempel"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![mormonenzentrum](mormonentempel_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../../sud/hauptseitestrehlen.jpg)](../../../../../sudost/strehlen/)
-
 * * *
 
 ![kirche jesu christi der heiligen der letzten tage tiergartenstraße 42 01219 dresden tel. 0351/4718553](../../../../../sudost/strehlen/strassen_strehlen/tiergartenstrasse/mormonentempel/a_rectangle_778.gif)

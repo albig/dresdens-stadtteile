@@ -3,18 +3,6 @@ title: "Waldbad Klotzsche"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![waldbad klotzsche](waldbad_klotzsche_nurbanlegendbannerh.gif)
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../nord/klotzsche/hauptseiteklotzsche.jpg)](../../../../nord/klotzsche/)
-
 * * *
 
 [![](../../../../nord/klotzsche/strassen_klotzsche/waldbad_klotzsche/kletterwald_klotzsche.jpg)](http://www.kletterwald-dresdner-heide.de)

@@ -3,19 +3,6 @@ title: "Altstrehlen"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![altstrehlen](altstrehlen_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../sud/hauptseitestrehlen.jpg)](../../../../sudost/strehlen/)
-
-* * *
-
-
-
-
 ![](../../../../sudost/strehlen/strassen_strehlen/altstrehlen/strehlenalt3.jpg)Der Dorfplatz Altstrehlen, der sich zu beiden Seiten des Kaitzbaches erstreckt,
 gehört zu den größten Dorfplätzen im Stadtgebiet. Ursprünglich gehörten auch Teile der Kreischaer Straße und der [Dohnaer Straße](../../../../sudost/strehlen/strassen_strehlen/dohnaer_strasse/) dazu. Ihr heutiges Aussehen
 erhielten die Gebäude nach dem letzten großen Dorfbrand im Jahr 1855. Weitere Häuser entstanden um 1900, als sich Strehlen vom Bauerndorf zum Wohnvorort entwickelte. Oberhalb des Platzes steht seit 1905 die Strehlener [Christuskirche](../../../../sudost/strehlen/christuskirche/).

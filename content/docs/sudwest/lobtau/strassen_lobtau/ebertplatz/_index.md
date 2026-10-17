@@ -3,18 +3,6 @@ title: "Ebertplatz"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![ebertplatz](ebertplatz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseitel_btau.jpg)](../../../../sudwest/lobtau/)
-
-* * *
-
-
-
 ![](../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/l_btauebertpl3.jpg)Der heutige Ebertplatz wurde 1890 auf einer Freifläche in der Nähe der
 Weißeritz angelegt. Ursprünglich stand hier der Zirkusbau von August Schumann, der 1899 den Zirkus Renz in Berlin übernahm. Der neue Platz erhielt
 am 25. Februar 1891 den Namen Crispiplatz, benannt nach dem italienischen Staatsmann Francesco Crispi. Crispi (1819-1901) war ab 1887 Ministerpräsident des Königreiches Italien und enger Vertrauter Bismarcks.

@@ -3,19 +3,6 @@ title: "Gustav-Adolf-Straße"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![gustav-adolf-straße](../../../../sudost/strehlen/strassen_strehlen/gustav-adolf-strasse/gustav-adolf-strasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../sud/hauptseitestrehlen.jpg)](../../../../sudost/strehlen/)
-
-* * *
-
-
-
-
 ![](../../../../sudost/strehlen/strassen_strehlen/gustav-adolf-strasse/strehladolfstr.jpg)Die Gustav-Adolf-Straße wurde im Zusammenhang mit dem Ausbau des Villenviertels rund um den Wasaplatz angelegt und weist noch heute einige interessante Gebäude aus der Zeit um 1900 auf. Die Namensgebung nach dem schwedischen König Gustav Adolf II. Wasa (1594-1632) erfolgte 1888 als Referenz an Carola von Wasa, Gemahlin des sächsischen Königs Albert, die aus dieser Familie stammte. Gustav Adolf nahm als Feldherr am Dreißigjährigen Krieg teil und fiel 1632 bei Lützen.
 
 Das Straßenbild prägen bis zur Gegenwart vor allem Villen und Landhäuser, die zwischen 1888 und 1900 für wohlhabende Dresdner Bürger entstanden. Strehlen war zu dieser Zeit, nicht zuletzt wegen der Nähe zum königlichen Großen Garten und zur [Königlichen Villa](../../../../sudost/strehlen/konigliche_villa/) zum bevorzugten Wohnort des Dresdner Großbürgertums geworden. Die meisten Bauten der Gustav-Adolf-Straße überstanden den Luftangriff 1945 ohne größere Schäden und sind heute denkmalgerecht saniert. Die historische Aufnahme (links) zeigt die Villa Nr. 8. Heute hat hier die 2009 als erste studentische Damenverbindung Dresdens gegründete Akademische Damenverbindung Regina Maria-Josepha ihren Sitz.

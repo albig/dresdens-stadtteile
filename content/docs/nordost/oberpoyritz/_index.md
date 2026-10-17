@@ -12,14 +12,6 @@ date: 2024-02-17T22:13:34+01:00
 
 **Gemeindesiegel von Oberpoyritz**
 
-
-[![](../../nachbarn.jpg)](../../nordost/)
-
-* * *
-
-
-
-
 ![](../../nordost/oberpoyritz/oberpoyritz1.jpg)Die Fluren am Graupaer Bach waren bereits in frühgeschichtlicher Zeit besiedelt.
 1900 konnten bei Bauarbeiten Reste einer größeren bronzezeitlichen Siedlung freigelegt werden. U.a. entdeckten die Archäologen zahlreiche Vorratsgefäße,
 Keramik- und Tongegenstände und mehrere Herdstellen, was auf die Bedeutung dieses Platzes hinweist. Der am Fuße des Borsberges gelegene Ort Oberpoyritz

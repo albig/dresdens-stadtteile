@@ -3,28 +3,7 @@ title: "Heidemühle"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![heidemühle](heidemuhle_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../nordost/hauptseitedresdnerheide.jpg)](../../../nordost/dresdner_heide/)
-
-* * *
-
-
-
 
 ![](../../../nordost/dresdner_heide/heidemuhle/drheidem_hle2.jpg)Die spätere Ausflugsgaststätte Heidemühle ging aus einer alten Wassermühle im
 Prießnitzgrund hervor, welche bereits im 16. Jahrhundert entstand und sich in der Nähe der noch erhaltenen Mühlbrücke befand. 1540 wurde sie erstmals urkundlich erwähnt. 1641 erwarb der Ullersdorfer Revierförster Urban

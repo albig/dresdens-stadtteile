@@ -3,22 +3,6 @@ title: "Weißiger Kirche"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![weißiger kirche](weissiger_kirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-[![](../../../../nordost/schonfeld-weissig/weissig/hauptseitewei_ig.jpg)](../../../../nordost/schonfeld-weissig/weissig/)
-
 * * *
 
 ![evang.-lutherische kreuzkirche weißig hauptstr. 18 01328 dresden-weißig  tel. 0351/2683257](../../../../nordost/schonfeld-weissig/weissig/weissiger_kirche/a_rectangle_290.gif)

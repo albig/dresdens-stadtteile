@@ -1,15 +1,7 @@
 ---
-title: "Straßen Albertstadt"
+title: "Straßen und Plätze der Albertstadt"
 date: 2024-02-17T22:13:30+01:00
 ---
-
-![straßen und plätze der albertstadt](strassen_albertstadt_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../neustadt/albertstadt/strassen_albertstadt/hauptseitealbertstadt2.jpg)](../../../neustadt/albertstadt/)
 
 [![alaunplatz](../../../neustadt/albertstadt/strassen_albertstadt/a_rectangle_1562.gif)](../../../neustadt/albertstadt/strassen_albertstadt/alaunplatz/)
 
@@ -17,19 +9,19 @@ date: 2024-02-17T22:13:30+01:00
 
 Der Albert-Fromme-Weg wurde nach 1990 auf ehemaligem Militärgelände zwischen Stauffenbergallee und Fabricestraße angelegt. Der Name erinnert an den früheren Chefarzt der Chirurgischen Klinik Albert Fromme (1881-1966), der 1921 nach Dresden kam. Nach 1945 war er Direktor des Krankenhauses Friedrichstadt und später an der Gründung der Medizinischen Akademie beteiligt. Die hier befindlichen Wohnhäuser gehören zum sogenannten Carolapark, benannt nach der Gemahlin König Alberts.
 
-![am kohlenplatz](../../../neustadt/albertstadt/strassen_albertstadt/am kohlenplatz.jpg)
+![am kohlenplatz](../../../neustadt/albertstadt/strassen_albertstadt/am_kohlenplatz.jpg)
 
 Die Straße Am Kohlenplatz befindet sich im nördlichen Teil des Industriegeländes. Sie ihre Bezeichnung am 17. Juli 1961 mit örtlichem Bezug.
 
-![am lagerplatz](../../../neustadt/albertstadt/strassen_albertstadt/am lagerplatz.jpg)
+![am lagerplatz](../../../neustadt/albertstadt/strassen_albertstadt/am_lagerplatz.jpg)
 
 Die Straße Am Lagerplatz im südlichen Bereich des Industriegelände wurde am 17. Juli 1961 benannt. Damals erhielten die zuvor unbenannten Straßen des Gewerbegebietes eigene Namen zur besseren Orientierung. Hier befindet sich seit 2019 in der Nr. 8 das Bildungszentrum der Handwerkskammer Dresden mit Unterrichtsräumen und Werkstätten für die Lehrbereiche Gebäudetechnik, Metallbau und Schweißtechnik. Die Grundsteinlegung erfolgte am 12. Juni 2017.
 
-![an der eisenbahn](../../../neustadt/albertstadt/strassen_albertstadt/an der eisenbahn.jpg)
+![an der eisenbahn](../../../neustadt/albertstadt/strassen_albertstadt/an_der_eisenbahn.jpg)
 
 Die parallel zur Bahnstrecke [Dresden - Görlitz](../../../nord/klotzsche/dresden_-_gorlitz/) verlaufende Straße An der Eisenbahn wurde am 17. Juli 1961 benannt und gehört zu den damals erstmals benannten Erschließungsstraßen des Industriegeländes. In der Nähe zweigte einst die nach 1990 stillgelegte [Industriebahn Albertstadt](../../../neustadt/albertstadt/industriegelande/industriebahn_albertstadt/) ab, die an dieser Straße ein Anschlussgleis bediente. An der Eisenbahn Nr. 7 hatte zu DDR-Zeiten die Kreiserfassungsstelle für Eier, Geflügel und Honig des VEB Getreidewirtschaft Dresden ihren Sitz.
 
-![an der schleife](../../../neustadt/albertstadt/strassen_albertstadt/an der schleife.jpg)
+![an der schleife](../../../neustadt/albertstadt/strassen_albertstadt/an_der_schleife.jpg)
 
 Die Straße An der Schleife im nördlichen Teil des Industriegelände wurde gemeinsam mit ihren benachbarten Straßen am 17. Juli 1961 benannt. Die Namensgebung erfolgte wegen ihres bogenförmigen Verlaufs. Der südliche Teil war bis 1998 die Sandgrubenstraße, wurde dann jedoch in die Straße An der Schleife einbezogen.
 
@@ -182,7 +174,7 @@ Die an der Straße befindlichen Werkshallen wurden nach 1990 teilweise zum Konze
 
 Reithalle (Bunker): Das Gebäude entstand Ende des 19. Jahrhunderts als Reithalle der Königlich-Sächsischen Kavallerie. Später wurde es ein eine Rüstungsfabrik umgewandelt, in dem u.a. Munitionsteile gefertigt wurden. Während des Zweiten Weltkrieges legte man unter einem Anbau einen Luftschutzbunker für die hier beschäftigten Arbeiter an. Diese Räumlichkeiten sind heute unter dem Namen Bunker Veranstaltungsort für Dark-Wave-Konzerte. Auch die frühere Reithalle dient seit einigen Jahren als Konzertsaal.
 
-![zum reiterberg](../../../neustadt/albertstadt/strassen_albertstadt/zum reiterberg.jpg)
+![zum reiterberg](../../../neustadt/albertstadt/strassen_albertstadt/zum_reiterberg.jpg)
 
 Die Straße Zum Reiterberg entstand Mitte der 1990er Jahre im sogenannten "Carolapark", einem Wohngebiet zwischen Stauffenbergallee und Fabricestraße. Die Namensgebung erfolgte nach der früheren militärischen Nutzung des Gebietes und wurde am 2. November 1995 offiziell eingeführt.
 

@@ -3,14 +3,6 @@ title: "Leipziger Straße"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![leipziger straße](leipziger_strasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../neustadt/leipziger_vorstadt/hauptseitelv.jpg)](../../../neustadt/leipziger_vorstadt/)
-
 ![](../../../hauptseitepieschen.jpg)
 
 [![](../../../hauptseitemickten.jpg)](../../../nordwest/mickten/)
@@ -18,9 +10,6 @@ date: 2024-02-17T22:13:31+01:00
 [![](../../../hauptseitetrachau.jpg)](../../../nordwest/trachau/)
 
 [![](../../../hauptseitekaditz.jpg)](../../../nordwest/kaditz/)
-
-* * *
-
 
 * * *
 
@@ -32,13 +21,13 @@ _Edeka-Großhandel_
 
 _(Lagerhaus Leipziger Straße 31)_
 
-![](../../../neustadt/leipziger_vorstadt/leipziger_strasse/werbung stotz.jpg)
+![](../../../neustadt/leipziger_vorstadt/leipziger_strasse/werbung_stotz.jpg)
 
 _Visitenkarte des Ateliers für Photographie von_
 
 _E. G. Friedrich Stotz (Leipziger Straße 49)_
 
-![](../../../neustadt/leipziger_vorstadt/leipziger_strasse/werbung wendsche.jpg)
+![](../../../neustadt/leipziger_vorstadt/leipziger_strasse/werbung_wendsche.jpg)
 
 _Visitenkarte des Photographischen Ateliers von_
 
@@ -46,11 +35,11 @@ _Bruno Wendsche_
 
 _(Leipziger Straße 58)_
 
-![](../../../neustadt/leipziger_vorstadt/leipziger_strasse/werbung arnold.jpg)
+![](../../../neustadt/leipziger_vorstadt/leipziger_strasse/werbung_arnold.jpg)
 
 _Werbung der Metallwarenfabrik Ernst Julius Arnold Nachf. (Leipziger Straße 78)_
 
-![](../../../neustadt/leipziger_vorstadt/leipziger_strasse/werbung li-il.jpg)
+![](../../../neustadt/leipziger_vorstadt/leipziger_strasse/werbung_li-il.jpg)
 
 _Werbung der Firma Li-iL_
 
@@ -83,7 +72,7 @@ Eisenberger Hof (Nr. 28): Das Eckhaus an der Eisenberger Straße beherbergte ber
 
 RHEOSTAT (Nr. 31): Dass Unternehmen wurde im August 1911 von Edmund Kussi und den Brüdern Johann und Friedrich Cruse als Spezialfabrik elektrischer Apparate gegründet und hatte seinen Sitz zunächst auf der Freiberger Straße 75. Kussi stammte aus Böhmen und war ab 1906 als Generalvertreter für Staubsaugeapparate und Inhaber einer Entstaubungsmaschinenhandlung auf der Waisenhausstraße 24 tätig. Bereits zwei Jahre später, im September 1913 bezog die Firma neue Produktionsräume auf der Leipziger Straße 31. Zuvor hatte hier die Max Stahl GmbH, eine Fabrik für Jutewaren, Säcke und Planen, ihren Sitz.
 
-![](../../../neustadt/leipziger_vorstadt/leipziger_strasse/werbung rheostat.jpg)
+![](../../../neustadt/leipziger_vorstadt/leipziger_strasse/werbung_rheostat.jpg)
 
 1914 trennten sich die Geschäftspartner. Die Cruse-Brüder gründeten in der Friedrichstadt die "Spezialfabrik elektrischer Steuerapparate Gebr. Cruse & Co.", während Kussi seinen Betrieb unter dem bisherigen Namen "RHEOSTAT" weiterführte. 1919/20 verlegte er seinen Betrieb zur Großenhainer Straße 130/132. Hier wurden bis 1945 verschiedene elektrische Kleinteile und Zubehör gefertigt. Zur Blütezeit waren bei Rheostat Anfang der 1930er Jahre über 600 Angestellte beschzäftigt, womit die Firma zu den größten mittelständischen Firmen in Dresden gehörte. Nach dem Tod des Firmengründers übernahmen seine beiden Söhne, Victor und Werner Kussy (Kussi senior hatte den Familiennamen in Kussy geändert) das Unternehmen. Als Juden wurde die Familie nach Machtantritt der Nationalsozialisten drangsaliert und 1939 zum Verkauf des Werkes an den Düsseldorfer Unternehmer Hans Hitzbleck gezwungen. Beide Familien flohen daraufhin in die Niederlande, wurden dort im Sommer 1942 verhaftet und nach Auschwitz deportiert. Lediglich Werner Kussy überlebte diese Zeit und kehrte nach Ende des Krieges nach Dresden zurück.
 
@@ -106,7 +95,7 @@ Nr. 40: Das Gebäude an der Ecke zur Hartigstraße beherbergte früher das Posta
 
 Gaststätte Zur Einheit Deutschlands (Nr. 51): Die kleine Schankwirtschaft Zur Einheit war eines von zahlreichen Arbeiterlokalen der Leipziger Vorstadt. Gegründet wurde sie bereits vor dem Ersten Weltkrieg von Julius Missbach, der sie "Gaststätte zur Einheit" nannte. Unter diesem Namen blieb sie bis 1989 geöffnet. Für Aufsehen sorgte in den Wendemonaten 1989/90 die Umbenennung in Zur Einheit Deutschlands, mit der den zunehmenden Forderungen nach der deutschen Wiedervereinigung Rechnung getragen werden sollte. Seit 1993 befindet sich in den Räumen ein Küchenstudio.
 
-![](../../../neustadt/leipziger_vorstadt/leipziger_strasse/werbung stintz.jpg)Lackfabrik Gebrüder Stintz (Nr. 51): Das Unternehmen wurde 1883 von den Brüdern Traugott und Hermann Stintz gegründet und stellte zunächst hauptsächlich Öllacke und Spirituslacke für die Spielwarenindustrie her. Produktionstandorte waren das Hintergebäude der Leipziger Straße 51 und die Querallee 8 in der Nähe des Neustädter Bahnhofs. 1921 trat Traugotts Sohn Max, ein studierter Chemiker, in die Firma ein. Fortan konzentrierte man sich auf die Herstellung von Speziallacken, Appreturen und Steifen für die Hutindustrie. Diese Spezialisierung ermöglichte die Erweiterung des Absatzgebietes, so dass Stentz´ Produkte sogar nach Südamerika und Australien geliefert wurden.
+![](../../../neustadt/leipziger_vorstadt/leipziger_strasse/werbung_stintz.jpg)Lackfabrik Gebrüder Stintz (Nr. 51): Das Unternehmen wurde 1883 von den Brüdern Traugott und Hermann Stintz gegründet und stellte zunächst hauptsächlich Öllacke und Spirituslacke für die Spielwarenindustrie her. Produktionstandorte waren das Hintergebäude der Leipziger Straße 51 und die Querallee 8 in der Nähe des Neustädter Bahnhofs. 1921 trat Traugotts Sohn Max, ein studierter Chemiker, in die Firma ein. Fortan konzentrierte man sich auf die Herstellung von Speziallacken, Appreturen und Steifen für die Hutindustrie. Diese Spezialisierung ermöglichte die Erweiterung des Absatzgebietes, so dass Stentz´ Produkte sogar nach Südamerika und Australien geliefert wurden.
 
 1945 entstanden auch an den beiden Lackfabriken erhebliche Schäden. Dennoch konnte die Herstellung bald wieder aufgenommen werden. Im Zuge der Umstrukturierung der DDR-Wirtschaft wechselte Ende der 1950er Jahre das Produktprofil hin zu Lacken für das grafische Gewerbe. 1972 wurde die Firma Gebrüder Stintz verstaatlicht. Heute existiert das Unternehmen nicht mehr.
 
@@ -116,7 +105,7 @@ Galerie Nord (Nr. 56): Die in einem Ladenlokal untergebrachte Galerie für bilde
 
 ![](lvstadtbremen2.jpg)Das Filmtheater blieb auch nach dem Zweiten Weltkrieg zunächst bestehen und wurde ab 1966 Jahre als Programmkino und für Vorführungen des des Camera-Programms des Staatlichen Filmarchivs der DDR genutzt. 1970 wurde es geschlossen. Der Saal diente dann von 1978 bis 1993 als Probebühne des Staatsschauspiels. Nach mehrjährigem Leerstand und Verfall konnte das Haus 1993 verkauft und saniert werden. Eine hier eingerichtete Gaststätte schloss jedoch bereits kurze Zeit später wieder. Im Anschluss nutzte ein Party-Veranstalter das Haus unter dem Namen Der Nachtgarten für verschiedene Veranstaltungen. 1996 zog das lateinamerikanische Kulturzentrum Casa Latina in die Räume und organisierte im Saal Tanzkurse. Heute befindet sich hier das China-Restaurant Sonne.
 
-![](../../../neustadt/leipziger_vorstadt/leipziger_strasse/werbung seim.jpg)Waffelfabrik Seim (Nr. 70):Das Grundstück war ab 1923 Sitz der Süßwarenfabrik Seim. Das Unternehmen wurde 1890 vom Bonbonkocher Ernst Seim gegründet. Hauptsächlich wurden später jedoch Waffeln hergestellt. 1905 hatte die Waffel- und Oblatenfabrik Seim ihren Sitz auf der Windmühlenstraße 8. Wenig später verlegte Seim seine Fabrikation zur Hechtstraße 69. Drei Jahre vor Ausbruch des Ersten Weltkrieges bezog Nachfolger Richard Seim das zuvor von der Sächsischen Kofferfabrik "Stabilist" und dem Rohproduktenhändler Julius Gubisch genutzte Fabrikgebäude auf der Leipziger Straße 70. Eine Niederlassung gab es im böhmischen Bodenbach (heute Decin). Ein anderes Familienmitglied, Georg Seim, siedelte 1910 nach Nürnberg über und gründete dort gemeinsam mit seinem Bruider Otto die erste Waffelfabrik der Stadt.
+![](../../../neustadt/leipziger_vorstadt/leipziger_strasse/werbung_seim.jpg)Waffelfabrik Seim (Nr. 70):Das Grundstück war ab 1923 Sitz der Süßwarenfabrik Seim. Das Unternehmen wurde 1890 vom Bonbonkocher Ernst Seim gegründet. Hauptsächlich wurden später jedoch Waffeln hergestellt. 1905 hatte die Waffel- und Oblatenfabrik Seim ihren Sitz auf der Windmühlenstraße 8. Wenig später verlegte Seim seine Fabrikation zur Hechtstraße 69. Drei Jahre vor Ausbruch des Ersten Weltkrieges bezog Nachfolger Richard Seim das zuvor von der Sächsischen Kofferfabrik "Stabilist" und dem Rohproduktenhändler Julius Gubisch genutzte Fabrikgebäude auf der Leipziger Straße 70. Eine Niederlassung gab es im böhmischen Bodenbach (heute Decin). Ein anderes Familienmitglied, Georg Seim, siedelte 1910 nach Nürnberg über und gründete dort gemeinsam mit seinem Bruider Otto die erste Waffelfabrik der Stadt.
 
 Hauptprodukt des Betriebes waren Waffeln der Marke "Eisblume", die Seim sogar 1908 auf einer internationalen Ausstellung präsentierte. 1923 übernahm Ewald Wagner das Unternehmen. 1945 zerstörten Bomben das Vordergebäude. Die Produktionsräume im hinteren Teil des Grundstücks blieben jedoch erhalten. Auf dem Grundstück siedelte sich später eine Autowerkstatt an. Im Frühjahr 2019 wurde das Areal geräumt und die baulichen Reste der einstigen Waffelfabrik beseitigt. An ihrer Stelle entstand bis 2020 ein Mehrfamilienhaus.
 
@@ -126,7 +115,7 @@ Kleingartenverein Am Hafen (Nr. 75): Die Gartenanlage an der Leipziger Stra�
 
 ![](../../../neustadt/leipziger_vorstadt/leipziger_strasse/lvstadtleipzig.jpg)Faunpalast (Nr. 76): Das Gebäude Leipziger Straße 76 wurde Ende des 19. Jahrhunderts als Gasthof Stadt Leipzig eröffnet und war ein bekannter Treffpunkt Neustädter Arbeiter, die hier ihre politischen Versammlungen abhielten. Außerdem fanden im 1895 angebauten, ca. 1.000 Personen fassenden Saal regelmäßig Tanzveranstaltungen und andere Vergnügungen statt. Hinzu kamen eine Kegelbahn ("Neustädter Keglerhaus") sowie eine Stehbierhalle. Zu den Großereignissen im Stadt Leipzig gehörte im November 1908 eine Wahlrechtskundgebung gegen das herrschende Drei-Klassen-Wahlrecht sowie am 28. Juli 1914 eine Protestkundgebung der SPD gegen den drohenden Krieg.
 
-![](../../../neustadt/leipziger_vorstadt/leipziger_strasse/lv_stadt leipzig.jpg)Nach dem Ersten Weltkrieg sank die Nachfrage nach großen Ballsälen spürbar ab. Hinzu kam die Konkurrenz ähnlicher Etablissements in der näheren Umgebung. 1923 entschieden sich die Besitzer des Hauses deshalb, im Saal der Gaststätte die Original Bühnenschau Faun-Lichtspiele einzurichten. Nach einem großzügigen Umbau durch den bekannten "Kino-Architekten" Martin Pietzsch besaß das 1929 eröffnete Filmtheater ca. 600 Plätze und gehörte damit zu den größeren Dresdner Kinos. Durch die Zerstörung der Filmtheater der Innenstadt war der "Faunpalast" zeitweise nach der "Schauburg" zweitgrößtes Kino der Stadt. Pläne, den Saal auch für Varietévorstellungen zu nutzen, blieben unrealisiert.
+![](../../../neustadt/leipziger_vorstadt/leipziger_strasse/lv_stadt_leipzig.jpg)Nach dem Ersten Weltkrieg sank die Nachfrage nach großen Ballsälen spürbar ab. Hinzu kam die Konkurrenz ähnlicher Etablissements in der näheren Umgebung. 1923 entschieden sich die Besitzer des Hauses deshalb, im Saal der Gaststätte die Original Bühnenschau Faun-Lichtspiele einzurichten. Nach einem großzügigen Umbau durch den bekannten "Kino-Architekten" Martin Pietzsch besaß das 1929 eröffnete Filmtheater ca. 600 Plätze und gehörte damit zu den größeren Dresdner Kinos. Durch die Zerstörung der Filmtheater der Innenstadt war der "Faunpalast" zeitweise nach der "Schauburg" zweitgrößtes Kino der Stadt. Pläne, den Saal auch für Varietévorstellungen zu nutzen, blieben unrealisiert.
 
 ![](../../../neustadt/leipziger_vorstadt/leipziger_strasse/leipstrfaunpalast.jpg)1964 erhielt das Kino eine gekrümmte Leinwand, um hier Filme im neuartigen Totalvisions-Verfahren zu zeigen (Cinemascope). Zugleich erfolgte eine Erweiterung der Bühne und einiger Nebenräume. Mit dem Einbau einer modernen Kinomaschine vom Typ "Dresden 21" war der Faunpalast bis zur Eröffnung des Rundkinos an der Prager Straße 1972 das modernste Filmtheater Dresdens. Die Einweihung erfolgte kurz vor Ostern 1964 mit dem Film "Festung am Rhein". Nach einer umfassenden Sanierung des Zuschauerraums in 1982/82 Jahren blieb der "Faunpalast" noch bis 1991 Spielstätte und wurde dann aus baupolizeilichen Gründen geschlossen. Danach nutzten verschiedene Geschäfte das Haus als provisorische Verkaufsstätte bzw. als Lager. Mit Ausnahme des denkmalgeschützten Vorderhauses _(Foto links)_ wurde der ehemalige Ballsaal 2003 abgerissen. An gleicher Stelle entstand ein Supermarkt mit einer Ladenpassage im früheren Kinofoyer.
 
@@ -142,7 +131,7 @@ Video: Mit der Straßenbahn von der Oschatzer Straße bis Altpieschen (2009)
 
 ![](../../../neustadt/leipziger_vorstadt/leipziger_strasse/leipstr82.jpg)Nr. 80 - 88: Auftakt zur folgenden geschlossenen Bebauung bis zur Torgauer Straße bildet das Eckhaus zur Oschatzer Straße (Nr. 80). Der kleine Laden beherbergte einst eine Fleischerei und war dann viele Jahre Filiale der stadtweit bekannten Fischhandelskette Paschky. Zu DDR-Zeiten setzte das "Fisch-Eck Nord" die Tradition fort. Im gegenüberliegenden Eckhaus Nr. 82 _(Foto)_ war einst die Hirsch-Apotheke beheimatet. Nach 1990 gab es hier verschiedene Modegeschäfte. Zu den traditionsreichsten Läden im Stadtviertel gehörte die Firma "Farben-Hitzer", ein Fachhandelsgeschäft für Farben und Tapeten, das aus der 1921 gegründeten Lackfabrik Franz Hitzer & Co. hervorging (Nr. 84).
 
-![](../../../neustadt/leipziger_vorstadt/leipziger_strasse/werbung hitzer.jpg)
+![](../../../neustadt/leipziger_vorstadt/leipziger_strasse/werbung_hitzer.jpg)
 
 ![](../../../neustadt/leipziger_vorstadt/leipziger_strasse/leipstr85.jpg)Zur goldenen Quelle (Nr. 85): Das 1898 erstmals genannte Restaurant wurde von Christian Ludwig Trommer gegründet, wenig später jedoch an Ernst Bauer übergeben ("Ernst Bauer's Restaurant Zur goldnen Quelle"). Das bis Angang der 1990er Jahre ununterbrochen bewirtschaftete Lokal mit Biergarten zur Elbe diente zu DDR-Zeiten zeitweise als Broilerbar des Konsum. In den 1990er Jahren wurde das verfallende Gebäude abgetragen _(Foto rechts)_.
 

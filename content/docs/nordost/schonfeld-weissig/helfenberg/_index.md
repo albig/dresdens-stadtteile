@@ -3,21 +3,6 @@ title: "Helfenberg"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-
-* * *
-
-
-
-
-[![](../../../nachbarn.jpg)](../../../nordost/schonfeld-weissig/)
-
-* * *
-
-
-
-
-
-
 ![](../../../nordost/schonfeld-weissig/helfenberg/helfenbergschlo_2.jpg)Die kleine Siedlung Helfenberg oberhalb des [Helfenberger Grundes](../../../nordost/schonfeld-weissig/helfenberg/helfenberger_grund/) bestand vermutlich bereits zu slawischer Zeit, wurde jedoch erst 1349 urkundlich erwähnt.
 Einst war sie im Besitz der Burggrafen von Dohna. Im Helfenberger Grund befand sich seit ca. 1150 eine mittelalterliche Wehranlage, die seit dem 16. Jahrhundert
 verfiel und heute nur noch in wenigen Resten vorhanden ist. Nach Aufgabe dieser Burg wurde der Sitz des Rittergutes in den Ortskern verlegt. Bereits 1460 ist dort

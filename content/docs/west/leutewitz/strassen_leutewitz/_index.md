@@ -1,15 +1,7 @@
 ---
-title: "Straßen Leutewitz"
+title: "Straßen und Plätze in Leutewitz"
 date: 2024-02-17T22:13:46+01:00
 ---
-
-![straßen und plätze in leutewitz](strassen_leutewitz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../west/leutewitz/strassen_leutewitz/hauptseiteleutewitz2.jpg)](../../../west/leutewitz/)
 
 ![altleutewitz](../../../west/leutewitz/strassen_leutewitz/a_rectangle_368.gif)
 

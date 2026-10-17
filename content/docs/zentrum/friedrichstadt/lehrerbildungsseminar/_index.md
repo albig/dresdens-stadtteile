@@ -3,28 +3,7 @@ title: "Lehrerbildungsseminar"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![lehrerbildungsseminar](lehrerbildungsseminar_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../hauptseitefriedrichstadt.jpg)](../../../zentrum/friedrichstadt/)
-
-* * *
-
-
-
 
 ![](../../../zentrum/friedrichstadt/lehrerbildungsseminar/friedrichstlehrerseminar.jpg)Das Friedrichstädter Lehrerseminar entstand auf Befehl Kurfürst Friedrich August III. und
 wurde Ostern 1787 als erste Bildungseinrichtung für Lehrer in Sachsen eröffnet. Mit seiner Gründung sollte eine einheitliche Ausbildung von Volksschullehrern eingeführt und eine

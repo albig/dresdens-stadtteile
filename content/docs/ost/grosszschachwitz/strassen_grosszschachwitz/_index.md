@@ -1,15 +1,7 @@
 ---
-title: "Straßen Grosszschachwitz"
+title: "Straßen und Plätze in Großzschachwitz und Sporbitz"
 date: 2024-02-17T22:13:37+01:00
 ---
-
-![straßen und plätze in großzschachwitz und sporbitz](strassen_grosszschachwitz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../ost/grosszschachwitz/strassen_grosszschachwitz/hauptseitegro_zschachwitz2.jpg)](../../../ost/grosszschachwitz/)
 
 [![](../../../ost/grosszschachwitz/strassen_grosszschachwitz/hauptseitesporbitz2.jpg)](../../../ost/sporbitz/)
 
@@ -136,7 +128,7 @@ Der heute Grasweg genannte Weg bildet die Verlängerung der Großzschachwitzer S
 
 ![](../../../ost/grosszschachwitz/strassen_grosszschachwitz/gro_zschachwmühle.jpg)Großzschachwitzer Mühle: Die frühere Wassermühle wurde 1547 erstmals als "Mühle am Lockwitzbach" erwähnt und später als "Alte Mühle" bezeichnet. Um 1600 besaß sie ein oberschlächtiges Mühlrad und verfügte über zwei Mahlgänge und einen Schneidegang. Bis 1905 wurde sie noch als Getreidemühle genutzt. Drei Jahre später erfolgte im Zusammenhang mit dem Ausbau der Bahnhofstraße der Abbruch der meisten Nebengebäude und die Verfüllung des Mühlgrabens. Das erhaltene Hauptgebäude Bahnhofstraße 70 wird heute von der nach eigenen Angaben ältesten Dresdner Bäckerei, der "Dresdner Mühlenbäckerei" genutzt.
 
-![jonsdorfer straße](../../../ost/grosszschachwitz/strassen_grosszschachwitz/jonsdorfer straße.jpg)
+![jonsdorfer straße](../../../ost/grosszschachwitz/strassen_grosszschachwitz/jonsdorfer_straße.jpg)
 
 ![](../../../ost/grosszschachwitz/strassen_grosszschachwitz/gzjonsdorferstr.jpg)Die 1907 erstmals erwähnte heutige Jonsdorfer Straße erhielt zuerst nach der sächsischen Königin Carola den Namen Carolastraße _(Foto)_. 1922 erfolgte die Umbenennung in Reichsstraße. Da dieser Name nach dem Zweiten Weltkrieg als unzeitgemäß galt, beschloss man am 30. September 1953 die Umbenennung in Jonsdorfer Straße. Der Kurort Jonsdorf befindet sich in der Nähe von Zittau im Zittauer Gebirge.
 

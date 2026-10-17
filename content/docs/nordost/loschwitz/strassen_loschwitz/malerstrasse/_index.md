@@ -3,21 +3,6 @@ title: "Malerstraße"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![malerstraße](malerstrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseitelockwitz.jpg)](../../../../nordost/loschwitz/)
-
-* * *
-
-
-
-
-
-
 ![](../../../../nordost/loschwitz/strassen_loschwitz/malerstrasse/loschwmalerstr9.jpg)Die Malerstraße erhielt ihren Namen nach der einst hier ansässigen Malerkolonie. Ende des
 19\. Jahrhunderts waren Loschwitz und Wachwitz zu beliebten Wohnorten Dresdner Künstler geworden. Zu den Bewohnern der Malerstraße gehörte neben Ludwig Richter, der im Haus Nr.
 4, später in der Nr. 22 seinen Sommerwohnsitz hatte, auch der Ingenieur Alfred Bockemühl. Er entwarf 1929 den ersten deutschen Großraum-Straßenbahnwagen Großer Hecht und war in

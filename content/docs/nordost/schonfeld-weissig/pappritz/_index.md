@@ -12,13 +12,6 @@ date: 2024-02-17T22:13:35+01:00
 
 **Gemeindesiegel von Pappritz**
 
-
-[![](../../../nachbarn.jpg)](../../../nordost/schonfeld-weissig/)
-
-* * *
-
-
-
 Pappritz wurde 1278 erstmals urkundlich erwähnt. Der Name des von slawischen Siedlern gegründeten Ortes bedeutet die im Farn sitzenden. Möglicherweise wurde der Ortsname auch vom slawischen Wort paprzyca abgeleitet, welches einen Teil des Mühlsteins bezeichnet und auf eine Wassermühle hinweisen könnte. Bereits zu diesem Zeitpunkt ist im Ort ein Herrengut erwähnt. 1420 unterstand Pappritz dem Rittergut Helfenberg und gehörte ab 1572 zum Rittergut Pillnitz. Kirchlich war der Ort der Weißiger Kirche unterstellt, wo sich auch die Schule befand. Deutlich ist im Ortskern noch die ursprüngliche Form des Platzdorfes mit mehreren um einen Platz gruppierten Zwei- und Dreiseithöfen erkennbar. Bemerkenswert sind u.a. die Gebäude Straße des Friedens 34 aus der Zeit um 1800 und das Wohnstallhaus Am Dorfteich 4. Auch dieses Fachwerkhaus entstand Anfang des 19. Jahrhunderts. Aus jüngerer Zeit stammt der 2008 sanierte Froschbrunnen mit einer Bronzeplastik von Ludwig Godenschweg. Von Bedeutung war neben der Landwirtschaft früher der Obstanbau, woran drei Kirschen im alten Gemeindesiegel erinnern.
 
 Im nahen Wachwitzgrund bestand seit dem 16. Jahrhundert eine Wassermühle, die unter dem Namen [Pappritzmühle](../../../nordost/wachwitz/wachwitzgrund/) noch bis 1886 in Betrieb war und heute als Wohnhaus genutzt wird. Bis ins 20. Jahrhundert blieb der Ort ein unbedeutendes kleines Bauerndorf am Rande des Schönfelder Hochlandes über dem Elbtal. Erst durch den Bau der [Staffelsteinstraße](../../../nordost/niederpoyritz/strassen_niederpoyritz/) zwischen Pappritz und Niederpoyritz 1914 verbesserten sich die Verkehrsverbindungen, was zur Entstehung neuer Wohnsiedlungen führte. In der Folge entwickelte sich der Ort zur Arbeiterwohngemeinde für Dresden. Pappritz schloss sich 1994 der neu entstandenen Großgemeinde Schönfeld-Weißig an. Durch den Bau weiterer Wohnsiedlungen vergrößerte sich die Einwohnerzahl deutlich und wuchs auf ca. 2000 Personen. Gemeinsam mit den anderen Hochlandgemeinden wurde der Ort am 1. Januar 1999 Stadtteil von Dresden.

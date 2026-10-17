@@ -3,18 +3,6 @@ title: "Matthäusfriedhof"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![matthäusfriedhof](matthausfriedhof_nurbanlegendbannerh.gif)
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../../../hauptseitefriedrichstadt.jpg)](../../../../../../zentrum/friedrichstadt/)
-
 * * *
 
 ![innerer matthäusfriedhof  friedrichstr. 43 01067 dresden  tel. 0351/4 96 19 60](../../../../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/matthauskirche/a_rectangle_1616.gif)

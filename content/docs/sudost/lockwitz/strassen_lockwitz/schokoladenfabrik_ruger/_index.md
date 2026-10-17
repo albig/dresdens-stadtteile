@@ -3,24 +3,6 @@ title: "Schokoladenfabrik Rüger"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![schokoladenfabrik rüger](schokoladenfabrik_ruger_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../hauptseitelockwitz.jpg)](../../../../sudost/lockwitz/)
-
 * * *
 
 ![](../../../../sudost/lockwitz/strassen_lockwitz/schokoladenfabrik_ruger/lockwr_gerschoko2.jpg)

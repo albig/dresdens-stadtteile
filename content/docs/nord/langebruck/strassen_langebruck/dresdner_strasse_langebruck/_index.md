@@ -3,19 +3,6 @@ title: "Dresdner Straße Langebruck"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![dresdner straße](dresdner_strasse_langebruck_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../nord/langebruck/hauptseitelangebr_ck.jpg)](../../../../nord/langebruck/)
-
-* * *
-
-
-
-
 ![](../../../../nord/langebruck/strassen_langebruck/dresdner_strasse_langebruck/langebr_ckdresdnstr.jpg)Die Dresdner Straße geht auf einen alten Verbindungsweg zwischen Klotzsche und Liegau-Augustusbad zurück. Erst 1815 wurde dieser zur Straße ausgebaut. Bereits 1740 hatte Revierförster Johann Georg Bruhm der Ältere den Weg mit Lindenbäumen bepflanzen lassen, weshalb die Straße viele Jahre den Namen Lindenallee trug. Zu den ältesten Gebäuden gehörten die sogenannten Pikörhäuser (Nr. 5-7), die einst als Unterkunft für die Jagdknechte und
 ihre Hunde dienten. Auch ein Vorgängerbau des späteren Bahnhofshotels stand mit der Jagd in Verbindung, da hier der Vogelsteller wohnte. Historisch bedeutsam ist außerdem das Wohnhaus Dresdner Straße 30. Das frühere "Curbad Langebrück" ist heute unter dem Namen ["Lindenhof"](../../../../nord/langebruck/lindenhof/) eine beliebte Ausflugsgaststätte.
 

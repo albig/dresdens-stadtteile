@@ -1,15 +1,7 @@
 ---
-title: "Straßen Strehlen"
+title: "Straßen und Plätze in Strehlen"
 date: 2024-02-17T22:13:42+01:00
 ---
-
-![straßen und plätze in strehlen](strassen_strehlen_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../sudost/strehlen/strassen_strehlen/hauptseitestrehlen2.jpg)](../../../sudost/strehlen/)
 
 [![altstrehlen](../../../sudost/strehlen/strassen_strehlen/a_rectangle_733.gif)](../../../sudost/strehlen/strassen_strehlen/altstrehlen/)
 

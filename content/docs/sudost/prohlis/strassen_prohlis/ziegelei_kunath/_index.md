@@ -3,22 +3,7 @@ title: "Ziegelei Kunath"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![ziegelei kunath](ziegelei_kunath_nurbanlegendbannerh.gif)
-
 * * *
-
-
-
-* * *
-
-
-
-[![](../../../../sudost/hauptseiteprohlis.jpg)](../../../../sudost/prohlis/)
-
-* * *
-
-
-
 
 Die Ziegelei Kunath wurde um 1870 von Friedrich Kunath gegründet und nahm ursprünglich das gesamte Areal bis zur [Dohnaer Straße](../../../../sudost/strehlen/strassen_strehlen/dohnaer_strasse/) ein. Nach bescheidenen Anfängen entstand 1873 ein moderner Vierkammer-Brennofen, der vor allem zur Produktion hochwertiger Dachziegel genutzt wurde. 1887 stellte Kunath die Produktion von Hand- auf Dampfbetrieb um und erweiterte zehn Jahre seine Ziegelei um einen weiteren Brennofen. Später übernahmen die Söhne Ernst Richard und Karl Hugo Kunath den Betrieb, der bis Ende 1924 in der Ziegelherstellung tätig war. Anschließend wurde durch die Dresdner Baufirma K. F. Bretschneider in den Lehmgruben noch Kies abgebaut. Bei den Abbauarbeiten entdeckte man im Herbst 1929 ein gut erhaltenes Mammutskelett. Bereits 1924 hatten die Besitzer auf dem ehemaligen Ziegelofen einen kleinen Natur- und Blumengarten geschaffen, der als Prohliser Naturpark öffentlich zugänglich war.
 

@@ -3,28 +3,7 @@ title: "Theater Junge Generation"
 date: 2024-02-17T22:13:45+01:00
 ---
 
-![theater junge generation](theater_junge_generation_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../../west/cotta/hauptseitecotta.jpg)](../../../../../west/cotta/)
-
-* * *
-
-
-
 
 ![](../../../../../west/cotta/strassen_cotta/meissner_landstrasse/theater_junge_generation/cottaconstantia2.jpg)Das Gebäude des heutigen Theaters Junge Generation entstand 1895/96 nach Plänen von Hermann Sperk als Ballhaus Constantia an der [Meißner Landstraße](../../../../../west/cotta/strassen_cotta/meissner_landstrasse/) in Cotta. Wegen seines großen Gästegartens, von dem sich ein schöner Ausblick auf die Elbe bot, war das Lokal vor dem Zweiten Weltkrieg ein beliebtes Ausflugslokal und wurde von Gästen aus ganz Dresden gern besucht _(Foto)_. Im Saal, der fast 1000 Plätze bot,  fanden regelmäßig Konzerte und Tanzveranstaltungen statt. 1944/45 dienten die Räume zeitweise als Notunterkunft für Soldaten.
 

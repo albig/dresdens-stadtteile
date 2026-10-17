@@ -3,18 +3,6 @@ title: "Ullersdorfer Platz"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![ullersdorfer platz](ullersdorfer_platz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../nordost/hauptseiteb_hlau.jpg)](../../../../nordost/buhlau/)
-
-* * *
-
-
-
 ![](../../../../nordost/buhlau/strassen_buhlau/ullersdorfer_platz/b_hlauullersplatz2.jpg)Der Ullersdorfer Platz entwickelte sich an der Kreuzung der Landstraßen nach
 Weißig, Ullersdorf und Schönfeld und war bereits in der Vergangenheit ein wichtiger Verkehrsknotenpunkt, da sich hier die Verkehrsströme aus dem Elbtal
 in Richtung Oberlausitz vereinigten. Gleichzeitig lag hier ungefähr der Mittelpunkt der aus mehreren Teilen bestehenden Gemeinde Bühlau. Markantestes Gebäude ist das aus dem alten Bühlauer Gasthof hervorgegangene [Kurhaus](../../../../nordost/buhlau/kurhaus_buhlau/). Weitere Gebäude um den Ullersdorfer Platz beherbergen gastronomische und gewerbliche

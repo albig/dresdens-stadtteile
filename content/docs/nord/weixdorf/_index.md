@@ -17,13 +17,6 @@ date: 2024-02-17T22:13:35+01:00
 
 **Weixdorfer Ortsteile:**
 
-
-[![](../../nachbarn.jpg)](../../nord/)
-
- *** * ***
-
-
-
 * * *
 
  **Stadtteilseite Weixdorf:**

@@ -3,15 +3,6 @@ title: "Klavierbaufirma Rosenkranz"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../hauptseitejohannstadt.jpg)](../../../../zentrum/johannstadt/)
-
-
 Die Klavierbaufirma Rosenkranz wurde am 10. Juli 1797 von Ernst Rosenkranz als erstes Unternehmen seiner Art in Sachsen auf der Pfarrgasse 85 in der Dresdner Neustadt gegründet. Der aus dem anhaltischen
 Zerbst stammende Rosenkranz hatte zuvor während seiner Wanderjahre in Dresden Station gemacht und hier beim Orgelbauer Heinrich Mack das Instrumentenbauerhandwerk erlernt. Gegen den Widerstand der Tischlerinnung baute
 Rosenkranz sein Unternehmen schnell aus und stellte neben Clavichords auch Tafel- und Hammerklaviere sowie Flügel her. 1809 verlegte er die Firma zur Königstraße 85.

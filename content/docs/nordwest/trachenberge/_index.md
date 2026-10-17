@@ -12,14 +12,6 @@ date: 2024-02-17T22:13:36+01:00
 
 **Gemeindesiegel von Trachenberge**
 
-
-[![](../../nachbarn.jpg)](../../nordwest/)
-
-* * *
-
-
-
-
 **Sonntagsspaziergang rund um Trachenberge**
 
 **Stadtteilführungen jeden zweiten Sonntag im Monat**

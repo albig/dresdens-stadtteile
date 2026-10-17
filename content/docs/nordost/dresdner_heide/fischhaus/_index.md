@@ -3,26 +3,7 @@ title: "Fischhaus"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![fischhaus](fischhaus_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-[![](../../../nordost/hauptseitedresdnerheide.jpg)](../../../nordost/dresdner_heide/)
-
-* * *
-
-
-
 
 ![](../../../nordost/dresdner_heide/fischhaus/drheide_fischhaus.jpg)Das Fischhaus entstand im Zusammenhang mit der 1476 angelegten hölzernen
 Röhrfahrt aus der Dresdner Heide zur Wasserversorgung des Neustädter Augustinerklosters. Die durch Anstauen des Eisenbornbaches als Speicher angelegten Teiche dienten zugleich der Fischzucht für den Bedarf des

@@ -3,18 +3,6 @@ title: "Friedersdorf"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-
-* * *
-
-
-
-
-[![](../../../nachbarn.jpg)](../../../nord/weixdorf/)
-
-* * *
-
-
-
 Friedersdorf entstand als Waldhufendorf in einer Niederung mit mehreren Teichen und wurde 1378 erstmals urkundlich erwähnt. Der Ortsname (früher Fridrichstorf) weist auf den Namen des deutschen Ortsgründers
 hin. Im Jahr 1556 erwarb der Hermsdorfer Rittergutsbesitzer Christoph von Carlowitz ein Friedersdorfer Gut, nachdem dessen Besitzer Andrees dieses wegen Überschuldung verkaufen musste. Ab 1696 unterstand der gesamte Ort
 der Grundherrschaft dieses Rittergutes.

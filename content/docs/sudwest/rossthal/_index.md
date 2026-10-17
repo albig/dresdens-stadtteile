@@ -12,15 +12,6 @@ date: 2024-02-17T22:13:44+01:00
 
 **Gemeindesiegel von Roßthal**
 
-
-[![](../../nachbarn.jpg)](../../sudwest/)
-
-* * *
-
-
-
-
-
 ![](../../sudwest/rossthal/ro_thal1.jpg)Das Platzdorf Roßthal entstand im Mittelalter und wurde 1319 erstmals als
 Rosztyl urkundlich erwähnt. Die Herkunft des Namens könnte sowohl von einem slawischen Personennamen oder vom altsorbischen Wort Rozdel = Gabelung
 abgeleitet sein. Die kleine Siedlung mit ihren neun Bauernstellen unterstand ursprünglich dem Meißner Domkapitel. Auch nach der Reformation blieb Roßthal

@@ -3,26 +3,7 @@ title: "Carolahaus"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![carolahaus](carolahaus_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../hauptseitejohannstadt.jpg)](../../../zentrum/johannstadt/)
-
-* * *
-
 
 ![](../../../zentrum/johannstadt/carolahaus/johannstcarolahaus.jpg)Das Carolahaus entstand 1878 als erstes öffentliches Krankenhaus der
 Johannstadt und wurde von den Schwestern des Albertvereins betrieben. Dieser wohltätige Verein war 1867 als Frauenverein der sächsischen Rot-Kreuz-

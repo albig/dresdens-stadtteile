@@ -3,22 +3,6 @@ title: "Kapellknabeninstitut"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![kapellknabeninstitut](kapellknabeninstitut_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-[![](../../../../ost/striesen/hauptseitestriesen.jpg)](../../../../ost/striesen/)
-
 * * *
 
 ![kapellknabeninstitut wittenberger str. 88 01309 dresden tel. 0351/3100060](../../../../ost/striesen/herz-jesu-kirche/kapellknabeninstitut/a_rectangle_587.gif)

@@ -3,19 +3,6 @@ title: "Arzneimittelwerk Dresden"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../neustadt/leipziger_vorstadt/hauptseitelv.jpg)](../../../../neustadt/leipziger_vorstadt/)
-
-* * *
-
-
-
-
 ![](../../../../neustadt/leipziger_vorstadt/leipziger_strasse/arzneimittelwerk_dresden/lvarzneimittelwerk.jpg)Das Arzneimittelwerk Dresden (AWD) entstand 1951/61 durch den Zusammenschluss der beiden traditionsreichen Dresdner Arneimittelhersteller Gehe & Co. und Dr. Friedrich von Heyden mit dem Radebeuler Madaus-Werk. 1979 wurde dieses Unternehmen in das Kombinat GERMED eingegliedert. Der bis 1990 als VEB Arzneimittelwerk Dresden geführte Betrieb war einer der wichtigsten Hersteller für Medikamente in der DDR. Im Zuge der Wiedervereinigung erfolgte 1990 die Umwandlung in eine GmbH mit anschließender Privatisierung. 1991 übernahm die Asta Medica-Gruppe das Traditionsunternehmen, welches heute unter dem Namen AWD.pharma zum italienischen Menarini-Konzern gehört. Anfang 2007 wurde der Firmensitz von der Leipziger Straße 7 _(Foto)_ ins benachbarte Radebeul verlegt.
 
 Firma Gehe:

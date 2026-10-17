@@ -1,15 +1,7 @@
 ---
-title: "Straßen Kleinzschachwitz"
+title: "Straßen und Plätze in Kleinzschachwitz"
 date: 2024-02-17T22:13:37+01:00
 ---
-
-![straßen und plätze in kleinzschachwitz](strassen_kleinzschachwitz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/hauptseitekleinzschachwitz2.jpg)](../../../ost/kleinzschachwitz/)
 
 ![altkleinzschachwitz](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1433.gif)
 

@@ -3,28 +3,7 @@ title: "Burgberg"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![burgberg](burgberg_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../nordost/hauptseiteloschwitz.jpg)](../../../../nordost/loschwitz/)
-
-* * *
-
-
-
 
 Die Gaststätte Burgberg in Loschwitz verdankt ihren Namen einer ehemaligen slawischen Wallanlage, die vermutlich zwischen dem  7. und 11.  Jahrhundert auf einem Bergsporn über dem Elbtal
 entstand und 1296 und 1311 erwähnt wurde. Diese Burg besaß Wall und Graben und verschwand im Laufe der Zeit bis auf geringe Reste. Mitte des 19. Jahrhunderts entstanden innerhalb weniger Jahre zwei Gaststätten, die als

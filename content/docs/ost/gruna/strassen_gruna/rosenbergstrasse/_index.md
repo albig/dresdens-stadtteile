@@ -3,20 +3,6 @@ title: "Rosenbergstraße"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![rosenbergstraße](../../../../ost/gruna/strassen_gruna/rosenbergstrasse/rosenbergstrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../ost/hauptseitegruna.jpg)](../../../../ost/gruna/)
-
-* * *
-
-
-
-
-
 ![](../../../../ost/gruna/strassen_gruna/rosenbergstrasse/grunarosenbergstr.jpg)Die ursprünglich von der Rothermundt- bis zur Schlüterstraße führende Rosenbergstraße war einst die Hauptstraße des Dorfes Gruna. Zu beiden Seiten standen die Gehöfte und Bauernhäuser des Ortes, die teilweise auch kleine Läden und Handwerksbetriebe beherbergten. Geteilt wurde die Straße durch eine platzartige Anlage, die zunächst Hauptplatz, später [Altgruna](../../../../ost/gruna/strassen_gruna/) genannt wurde.
 Am 11. Februar 1882 beschloss der Grunaer Gemeinderat, diese Straße nach dem Besitzer der hier gelegenen Villa "Akazienhof" Rosenbergstraße zu benennen. Georg Otto Franz Baron von Rosenberg trat auch als Wohltäter in Erscheinung und stiftete der Gemeinde Mittel für die Armenfürsorge. Aus Anlass des "Lutherjahres" 1883 pflanzten Grunaer Kinder am 10. November des Jahres vor dem Haus Nr. 10 eine Lutherlinde.
 

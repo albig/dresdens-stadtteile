@@ -1,15 +1,7 @@
 ---
-title: "Straßen Kaditz"
+title: "Straßen und Plätze in Kaditz"
 date: 2024-02-17T22:13:36+01:00
 ---
-
-![straßen und plätze in kaditz](strassen_kaditz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../nordwest/kaditz/strassen_kaditz/hauptseitekaditz2.jpg)](../../../nordwest/kaditz/)
 
 ![](../../../nordwest/kaditz/strassen_kaditz/adolfstra_e.jpg)
 
@@ -164,7 +156,7 @@ Der Kleinsiedlerweg entstand Mitte der 1930er Jahre in der Kaditzer Siedlung zwi
 
 Die ab 1929 als Heinrich-Koch-Häuser bezeichneten acht Einfamilien-Doppelhäuser an der Kolbe- und Roscherstraße (Nr. 3-17) entstanden ab 1887 und waren eine der ersten genossenschaftlichen Arbeitersiedlungen in Dresden. Erbaut wurden diese nach Vorbildern aus dem norddeutschen Raum mit Fachwerk und Klinkerfassaden durch den Dresdner Bauverein für Arbeiterwohnungen. Nach dessen Liquidation 1898 übernahm der Dresdner Spar- und Bauvereins die Gebäude, welche sich heute in Privatbesitz befinden. Zum Komplex gehört auch das repräsentative sogenannte ["Friedrich-August-Haus"](../../../neustadt/leipziger_vorstadt/leipziger_strasse/) an der Leipziger Straße.
 
-![](../../../nordwest/kaditz/strassen_kaditz/kötitzer straße.jpg)
+![](../../../nordwest/kaditz/strassen_kaditz/kötitzer_straße.jpg)
 
 Die Kötitzer Straße wurde Mitte der 1930er Jahre in der Kaditzer Siedlung auf dem Gebiet des früheren Tännichts angelegt. Im Oktober 1937 erhielt sie nach dem Dorf Kötitz, heute ein Ortsteil von Coswig, ihren Namen.
 

@@ -3,17 +3,6 @@ title: "Rissweg"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![rißweg](../../../../nordost/page10246/strassen_weisser_hirsch/rissweg/rissweg_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../nordost/page10246/hauptseitewhirsch.jpg)](../../../../nordost/page10246/)
-
-* * *
-
-
 * * *
 
 ![](../../../../nordost/page10246/strassen_weisser_hirsch/rissweg/weihirissweg3.jpg)

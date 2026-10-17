@@ -3,17 +3,11 @@ title: "Lobtauer Straße"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![löbtauer straße](lobtauer_strasse_n1_banner2.gif)
-
 * * *
 
 
 
 [![](../../../../hauptseitefriedrichstadt.jpg)](../../../../zentrum/friedrichstadt/)
-
-[![](../../../../hauptseitel_btau.jpg)](../../../../sudwest/lobtau/)
-
-* * *
 
 [![](../../../../sudwest/lobtau/strassen_lobtau/lobtauer_strasse/fanprojektdd.jpg)](http://www.fanprojekt-dresden.de)
 

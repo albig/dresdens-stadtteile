@@ -3,18 +3,6 @@ title: "Munchner Platz"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![münchner platz](munchner_platz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseites_dvorstadt.jpg)](../../../../zentrum/sudvorstadt/)
-
-* * *
-
-
-
 ![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/munchner_platz/s_dvm_nchnerpl.jpg)Der Münchner Platz entstand 1899 im Zuge des weiteren Ausbaus der Südvorstadt und wurde wenig später mit mehrgeschossigen Wohn- und Geschäftshäusern bebaut. Zuvor hatte hier einige Jahre der private Zirkus Herzog sein Quartier. Ursprünglich sollte auf diesem Areal eine Kirche errichtet werden. Nachdem man sich jedoch für einen anderen Standort an der Ecke Nürnberger / Hohe Straße entschieden hatte, entstand an dieser Stelle 1902/07 der Bau des Dresdner [Landgerichts](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/munchner_platz/landgericht/). In den umliegenden Gebäuden befanden sich verschiedene Geschäfte und kleinere Gaststätten. Am bekanntesten war die sowohl von Juristen als auch Angeklagten und Zeugen besuchte Gaststätte "Am Münchner Platz (Nr. 1), welche im Volksmund Meineidschänke genannt wurde. Heute nutzt ein kleines Café die Räume _(Foto)_. Im Eckhaus Münchner Platz 16 wohnte zeitweise der Fußballer Helmut Schön, der mit dem Dresdner SC 1944 letzter deutscher
 Fußballmeister wurde und später das Amt des Bundestrainers übernahm.
 

@@ -14,14 +14,6 @@ date: 2024-02-17T22:13:46+01:00
 
 ![](../../../plz_01156.jpg)
 
-[![](../../../nachbarn.jpg)](../../../west/mobschatz/)
-
-* * *
-
-
-
-
-
 ![](../../../west/mobschatz/brabschutz/brabsch1.jpg)Brabschütz entstand im 11./12. Jahrhundert als slawischer Rundling und wurde
 1349 erstmals im Lehnsbuch Friedrich des Strengen erwähnt. Der Ortsname, der vermutlich vom Namen des Dorfgründers abgeleitet ist, wechselte mehrfach von
 Praczschicz über Bratschitz und Preczsch zu Prabschütz, bevor am 8. August 1905 die heute gültige Schreibweise für verbindlich erklärt wurde. Brabschütz

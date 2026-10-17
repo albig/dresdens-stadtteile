@@ -12,14 +12,6 @@ date: 2024-02-17T22:13:44+01:00
 
 **Gemeindesiegel von Wölfnitz**
 
-
-[![](../../nachbarn.jpg)](../../sudwest/)
-
-* * *
-
-
-
-
 ![](../../sudwest/wolfnitz/w_lfnitz1.jpg)Der Bauernweiler Wölfnitz wurde 1357 erstmals als Wolfticz urkundlich erwähnt. Der
 deutsch-slawisch zusammengesetzte Name bedeutet Leute eines Wolf und weist auf den Gründer des Ortes hin. Wölfnitz unterstand dem Vorwerk Gorbitz, für welches die
 Bewohner des Dorfes verschiedene Dienste und Abgaben leisten mussten. Lediglich das Erbgut Wölfnitz, ab 1647 im Besitz eines kurfürstlichen Leibarztes, war ab 1666 von

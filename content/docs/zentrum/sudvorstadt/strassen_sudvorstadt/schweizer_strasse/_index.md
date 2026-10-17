@@ -3,19 +3,6 @@ title: "Schweizer Straße"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![schweizer straße](schweizer_strasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseites_dvorstadt.jpg)](../../../../zentrum/sudvorstadt/)
-
-* * *
-
-
-
-
 Die Schweizer Straße im westlichen Teil der Südvorstadt wurde 1856 angelegt und nach der hier gelegenen Gastwirtschaft Zum Schweizerhäuschen benannt. Wenig später entstanden in deren Nachbarschaft die
 ersten Villen. Gasthaus und Straße waren später Namensgeber für das gesamte Wohngebiet, welches noch heute oft als Schweizer Viertel bezeichnet wird. Nach 1945 erfolgte der Abbruch der ausgebrannten Ruinen zugunsten
 moderner Wohnblocks für die Arbeiter-Wohnungsbaugenossenschaft Süd (heute WGS Glückauf Süd). Nach 1990 entstanden zudem einige neue Wohn- und Bürogebäude.

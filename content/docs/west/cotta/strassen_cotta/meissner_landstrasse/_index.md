@@ -3,14 +3,6 @@ title: "Meissner Landstraße"
 date: 2024-02-17T22:13:45+01:00
 ---
 
-![meißner landstraße](meissner_landstrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../west/cotta/hauptseitecotta.jpg)](../../../../west/cotta/)
-
 [![](../../../../west/hauptseitebriesnitz.jpg)](../../../../west/briesnitz/)
 
 [![](../../../../west/hauptseitekemnitz.jpg)](../../../../west/kemnitz/)

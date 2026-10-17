@@ -3,14 +3,6 @@ title: "Holbeinstraße"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![holbeinstraße](../../../../zentrum/johannstadt/strassen_johannstadt/holbeinstraße/holbeinstrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseitejohannstadt.jpg)](../../../../zentrum/johannstadt/)
-
 [![](../../../../ost/striesen/hauptseitestriesen.jpg)](../../../../ost/striesen/)
 
 * * *

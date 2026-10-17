@@ -3,16 +3,6 @@ title: "Heidenschanze"
 date: 2024-02-17T22:13:40+01:00
 ---
 
-![heidenschanze](heidenschanze_nurbanlegendbannerh.gif)
-
-* * *
-
-* * *
-
-
-
-[![](../../../sud/hauptseitecosch_tz.jpg)](../../../sud/coschutz/)
-
 * * *
 
 **Funde von der Heidenschanze**

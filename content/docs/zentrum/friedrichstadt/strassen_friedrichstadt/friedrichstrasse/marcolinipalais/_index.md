@@ -3,22 +3,6 @@ title: "Marcolinipalais"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![marcolinipalais](marcolinipalais_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-[![](../../../../../hauptseitefriedrichstadt.jpg)](../../../../../zentrum/friedrichstadt/)
-
 * * *
 
 [**MUSE IM FASANENGARTEN e.V.**](http://www.muse-fasanengarten.de)

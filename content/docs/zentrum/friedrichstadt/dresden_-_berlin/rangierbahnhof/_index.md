@@ -3,18 +3,6 @@ title: "Rangierbahnhof Friedrichstadt"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../hauptseitefriedrichstadt.jpg)](../../../../zentrum/friedrichstadt/)
-
-* * *
-
-
-
 ![](../../../../zentrum/friedrichstadt/dresden_-_berlin/rangierbahnhof/friedrichstrangierbhf.jpg)Erste Pläne für den Bau eines Dresdner Zentralbahnhofes kamen bereits in der
 Mitte des 19. Jahrhunderts auf. Der sächsische Vermessungsingenieur Karl Friedrich Preßler entwarf damals ein neues Verkehrskonzept für Dresden, welches die Zusammenlegung der einzelnen Bahnhöfe, die kreuzungsfreie
 Verlegung der Gleisanlagen auf einen Hochdamm sowie den Bau eines Elbhafens in der Friedrichstadt vorsah. Dieses Konzept wurde schließlich ab 1890 mit

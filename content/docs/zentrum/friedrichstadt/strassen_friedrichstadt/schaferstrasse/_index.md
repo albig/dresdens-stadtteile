@@ -3,19 +3,6 @@ title: "Schaferstraße"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![schäferstraße](schaferstrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseitefriedrichstadt.jpg)](../../../../zentrum/friedrichstadt/)
-
-* * *
-
-
-
-
 ![](../../../../zentrum/friedrichstadt/strassen_friedrichstadt/schaferstrasse/friedrichstsch_ferstra_e.jpg)Die Schäferstraße entstand im letzten Viertel des 17. Jahrhunderts und wurde zunächst Meißner Straße genannt, bevor sie im 18. Jahrhundert ihren heutigen Namen erhielt. Bereits 1614 war hier der Fronhof zur Unterbringung der auf dem Ostravorwerk beschäftigten Arbeitskräfte eingerichtet worden. Gleichzeitig befanden sich dort die Ställe für die benötigten Zugtiere sowie eine Schäferei. Dieser Name setzte sich später für den gesamten Gebäudekomplex durch. Zuletzt dienten die Gebäude als Hoffuttermagazin. 1903 wurde der an der Einmündung Schäferstraße / Löbtauer Straße gelegene alte Fronhof abgerissen, um Platz für neue Wohnhäuser zu machen. Außerdem entstand 1907 auf dem Grundstück das von Hans Erlwein entworfene [Stadthaus Friedrichstadt](../../../../sudwest/lobtau/strassen_lobtau/lobtauer_strasse/).
 
 Neben der Schäferei existierten an der Schäferstraße noch weitere gewerbliche Unternehmungen. 1692 ließ Kurfürst Johann Georg IV. eine Salpeterhütte errichten, der um 1770 die Brauerei Bayrisches Brauhaus folgte. Am westlichen Ende befanden sich bis 1875 die militärischen [Pulvermagazine](../../../../neustadt/albertstadt/strassen_albertstadt/), die dann dem Eisenbahnbau weichen mussten und an den

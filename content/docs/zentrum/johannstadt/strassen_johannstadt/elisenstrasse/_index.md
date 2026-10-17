@@ -3,18 +3,6 @@ title: "Elisenstraße"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![elisenstraße](elisenstrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseitejohannstadt.jpg)](../../../../zentrum/johannstadt/)
-
-* * *
-
-
-
 ![](../../../../zentrum/johannstadt/strassen_johannstadt/elisenstrasse/johannstelisenhof.jpg)Die Elisenstraße verdankt ihren Namen der früheren Schankwirtschaft Elisens
 Ruh. Diese ging aus dem Mitte des 18. Jahrhundert entstandenen [Vorwerk Hopfgartens](../../../../zentrum/johannstadt/strassen_johannstadt/hopfgartenstrasse/) hervor und wurde um 1800 zum Gartenlokal umgewandelt.
 Eigentümer war zunächst der Holzhändler Gottfried Peter, ab 1819 der Rentier Friedrich Waeber und seine Frau Elisabeth Karoline, geb. von Ueckermann.

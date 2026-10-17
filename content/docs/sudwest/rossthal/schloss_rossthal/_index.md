@@ -3,27 +3,7 @@ title: "Schloss Roßthal"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![schloss roßthal](schloss_rossthal_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../sudwest/rossthal/schloss_rossthal/hauptseitero_thal.jpg)](../../../sudwest/rossthal/)
-
-* * *
-
-
 
 ![](../../../sudwest/rossthal/schloss_rossthal/ro_thalschlo_3.jpg)Schloss Roßthal wurde 1657 als Herrenhaus für den Besitzer des Rittergutes Alexander
 von Krahe errichtet.  Seit 1736 besaß die Familie von Nimptsch dieses Gut. Unter der Regie des Direktors der Meißner Porzellanmanufaktur Carl Siegmund von Nimptsch

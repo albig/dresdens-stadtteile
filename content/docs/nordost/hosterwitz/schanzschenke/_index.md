@@ -3,27 +3,7 @@ title: "Schanzschenke"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![schanzschenke](schanzschenke_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../nordost/hauptseitehosterwitz.jpg)](../../../nordost/hosterwitz/)
-
-* * *
-
-
 
 ![](../../../nordost/hosterwitz/schanzschenke/hosterwschanzschenke1.jpg)Die Schanzschenke geht auf eine vermutlich um 1700 entstandene kleine
 Gastwirtschaft an der [Hosterwitz - Laubegaster Fähre](../../../nordost/hosterwitz/) zurück, welche zunächst Strohschenke genannt wurde. Zuvor hatte es in dieser Gegend bereits

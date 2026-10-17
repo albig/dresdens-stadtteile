@@ -3,27 +3,7 @@ title: "Hotel De Bücke Dich"
 date: 2024-02-17T22:13:46+01:00
 ---
 
-![hotel de bücke dich](hotel_de_bucke_dich_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../west/mobschatz/podemus/hauptseitepodemus.jpg)](../../../../west/mobschatz/podemus/)
-
-* * *
-
-
 
 Der Gasthof mit dem kuriosen Namen Hotel de bücke dich ging aus dem früheren Dorfgasthof des Ortes Podemus hervor. Ursprünglich gehörte das Haus einem Hufschmied, der den Bierausschank im Nebenerwerb
 betrieb. Am 6. August 1813 soll Napoleon mit seinem General Vandamme den kleinen Gasthof besucht haben, bevor er weiter zum Schlachtfeld auf der Räcknitzhöhe zog. Wegen der niedrigen Eingangstür der Schänke soll er in

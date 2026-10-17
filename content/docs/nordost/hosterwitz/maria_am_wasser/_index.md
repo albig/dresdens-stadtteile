@@ -3,24 +3,6 @@ title: "Maria am Wasser"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![maria am wasser](maria_am_wasser_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../nordost/hauptseitehosterwitz.jpg)](../../../nordost/hosterwitz/)
-
 * * *
 
 ![kirchgemeinde ](../../../nordost/hosterwitz/maria_am_wasser/a_rectangle_1086.gif)

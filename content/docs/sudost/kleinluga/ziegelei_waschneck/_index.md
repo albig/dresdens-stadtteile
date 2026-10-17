@@ -3,19 +3,6 @@ title: "Ziegelei Waschneck"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../sudost/kleinluga/ziegelei_waschneck/hauptseitekleinluga.jpg)](../../../sudost/kleinluga/)
-
-* * *
-
-
-
-
 Die Ziegelei Waschneck wurde als größte von einst drei Kleinlugaer Ziegeleien 1897 vom Gutsbesitzer Wilhelm August Heyde gegründet. Das Unternehmen bestand aus einem Ringofen, einem Trockenschuppen und mehreren Nebengebäuden. Hinzu kamen die notwendigen technischen Einrichtungen sowie eine zu deren Antrieb benötigte Dampfmaschine. Nach dem Eintritt des Gutsbesitzers Emil Waschneck firmierte das Unternehmen als Heyde & Waschneck Dachsteinfabrik und Dampfziegelei. Produziert wurden sowohl Ton- als auch Dachziegel sowie Hintermauer-und Hartbrandziegel, wobei meist Landarbeiter aus den umliegenden Dörfern Anstellung fanden.
 
 ![](../../../sudost/kleinluga/ziegelei_waschneck/kleinlugafeldbahn.jpg)Ab 1916 wurde das Unternehmen nur noch als Dampfziegelei Emil Waschneck bezeichnet. 1918 und 1921 zerstörten Brände einen Großteil des Betriebes, welcher jedoch wenig später seine Produktion wieder aufnehmen konnte. Erstmals kamen nun für den Lehmabbau moderne Bagger zum Einsatz. Der Transport erfolgte über eine bis zur Schließung 1991 in Betrieb befindliche Feldbahn _(Foto)_, die auf ihrem Weg von der Lehmgrube zur Ziegelei die Alte Landstraße unterquerte. Bedingt durch den Beginn des Zweiten Weltkrieges erfolgten auch in Kleinluga Betriebseinschränkungen und ab 1940 eine zeitweise Stilllegung der Ziegelei. Bis zum Ende des Krieges war hier ein Lager der Luftwaffe untergebracht. Am 13. Februar 1945 richtete eine Luftmine erhebliche Schäden an Anlagen und Gebäuden an.

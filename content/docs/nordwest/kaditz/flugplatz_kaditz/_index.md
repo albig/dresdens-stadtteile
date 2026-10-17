@@ -3,18 +3,6 @@ title: "Flugplatz Kaditz"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../hauptseitekaditz.jpg)](../../../nordwest/kaditz/)
-
-* * *
-
-
-
 Die Geschichte des Flugplatzes Kaditz begann im Jahr 1912. Zuvor waren bereits Freiflächen in Reick und am Heller für Ballonaufstiege und Flugversuche genutzt worden, u. a. vom sächsischen Flugpionier Hermann Reichelt. Nachdem mehrfach Luftschiffe die Residenzstadt besucht hatten und sich das Fehlen eines befestigten Start- und Landeplatzes negativ bemerkbar machte, entschloss sich der Rat zu Dresden am 29. Oktober 1912 zum Bau eines städtischen Luftschiffhafens. Als geeignet wurde schließlich das Gelände zwischen Kaditz und Übigau gewählt, da sich hier weder größere Erhebungen noch störende Bebauung befanden. Gleichzeitig stationierte man dort eine Kompanie des Königlich-Preußischen Luftschiffer-Bataillons Nr. 3 unter Leitung des sächsischen Hauptmanns Gaissert.
 
 ![](../../../nordwest/kaditz/flugplatz_kaditz/kaditzflugplatz.jpg)Im April 1913 wurde mit dem Bau der Luftschiffhalle am Elbufer begonnen _(Foto)_. Auftragnehmer war die in Berlin ansässige Zeppelin-Hallenbau Gesellschaft m.b.H Bereits vor der endgültiger Fertigstellung landete am 19. September 1913 der erste Zeppelin mit Namen Sachsen in Kaditz und wurde von den Zuschauern begeistert begrüßt. Nach einer Rundfahrt über die Stadt und die Sächsische Schweiz kehrte das Luftschiff noch am gleichen Tag mit seinen 15 Passagieren nach Leipzig zurück. Wenige Wochen später konnte am 25. Oktober die Halle übergeben werden. Diese war 191 Meter lang und 58 Meter breit und bot Platz für zwei Luftschiffe, die hier auch betankt werden konnten. Hinzu kamen ein Aufenthaltsraum für die Passagiere und ein Büro. Vor der Luftschiffhalle lag der eigentliche Flugplatz, der mit einem Bretterzaun umgeben war. Außerdem entstanden dort Kassenhäuschen und Tribünen, die bei den geplanten Flugschauen Besuchern einen besseren Überblick über das Geschehen verschaffen sollten. Die offizielle Einweihung des Kaditzer Flugplatzes, offiziell als Städtischer Land- und Wasser-Flugplatz Dresden bezeichnet, erfolgte im Beisein des Königs und Tausender Dresdner am 26. Oktober 1913. Zugleich wurde eine Elbfähre nach dem gegenüberliegenden Stadtteil Cotta in Betrieb genommen, welche bis nach dem Ersten Weltkrieg existierte. Erster Direktor des Kaditzer Flugplatzes war der sächsische Leutnant Albert Willy Meyer (1885-1977), der sein Amt jedoch nach Ausbruch des Ersten Weltkriegs bereits am 2. August 1914 wieder aufgeben musste. Meyer hatte 1911 den Flugschein gemacht und galt als einer der besten Flieger seiner Zeit.

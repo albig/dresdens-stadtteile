@@ -3,9 +3,6 @@ title: "Straßen und Plätze in Hellerau"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-
-[![](../../../nord/hellerau/strassen_und_plaetze/hauptseitehellerau2.jpg)](../../../nord/hellerau/)
-
 ![](../../../nord/hellerau/strassen_und_plaetze/am_biedersberg.jpg)
 
 Die Straße Am Biedersberg wurde 1927 nach einem alten Flurnamen, dem "Biedersberg", benannt. Die Anlage erfolgte im
@@ -90,7 +87,7 @@ _![](../../../nord/hellerau/strassen_und_plaetze/am_wasserturm.jpg)_
 
 **_Foto:_** _Wasserturm Hellerau (Wikipedia/Paulae)_
 
-![](../../../nord/hellerau/strassen_und_plaetze/an den teichwiesen.jpg)
+![](../../../nord/hellerau/strassen_und_plaetze/an_den_teichwiesen.jpg)
 
 Die Straße An den Teichwiesen verbindet den Brunnenweg mit dem Hohen Weg und wurde 1927 benannt. Der Straßenname erinnert an die einst hier gelegenen Fischteiche.
 
@@ -98,7 +95,7 @@ Die Straße An den Teichwiesen verbindet den Brunnenweg mit dem Hohen Weg und wu
 
 Die Straße An der Höhe entstand um 1930 und wurde zunächst An der Berglehne genannt. Da es am Weißen Hirsch bereits eine gleichnamige Straße gab, erfolgte im September 1953 die Umbenennung in An der Höhe.
 
-![](../../../nord/hellerau/strassen_und_plaetze/an der lehmkuhle.jpg)
+![](../../../nord/hellerau/strassen_und_plaetze/an_der_lehmkuhle.jpg)
 
 Die Straße An der Lehmkuhle in der Nähe des Festspielhauses ist erstmals 1935 im Adressbuch verzeichnet. Die Namensgebung bezieht sich vermutlich auf einen Flurnamen.
 
@@ -154,11 +151,11 @@ Finkensteig. In den 1990er Jahren erfolgte eine Verlängerung des Weges zur Ersc
 Der Friedersdorfer Weg entstand in den 1920er Jahren als Verbindung zwischen den Straßen An den Teichwiesen und Am
 Torfmoor. Wegen seiner Lage wurde er anfangs Im Grunde benannt. Im September 1953 erfolgte die Umbenennung nach dem kleinen Ort Friedersdorf, einem Ortsteil von Weixdorf.
 
-![](../../../nord/hellerau/strassen_und_plaetze/grüne aue.jpg)
+![](../../../nord/hellerau/strassen_und_plaetze/grüne_aue.jpg)
 
 Die am westlichen Ortsrand von Hellerau gelegene Straße Grüne Aue entstand Mitte der 1930er Jahre im Zusammenhang mit dem Bau einiger Doppelhäuser. Nach 1990 wurde der in südlicher Richtung zur Radeburger Straße führende Fußweg in die Straße einbezogen.
 
-![](../../../nord/hellerau/strassen_und_plaetze/grüne telle.jpg)
+![](../../../nord/hellerau/strassen_und_plaetze/grüne_telle.jpg)
 
 Die Straße Grüne Telle zweigt vom Moritzburger Weg ab und wurde 1927 angelegt. Der Name stammt von einer alten Flurbezeichnung. Als Fortsetzung des bebauten Abschnitts führt sie durch die Dresdner Heide bis zum Augustusweg.
 
@@ -195,7 +192,7 @@ Das Unternehmen stellte in den 1920er Jahren Feuerspritzen und ähnlichen Feuerw
 
 ![](../../../nord/hellerau/strassen_und_plaetze/hellerauhirtenweg.jpg)Der Hirtenweg war ursprünglich ein Teil des Ruscheweges. Ab 1940 wurde der Abschnitt zwischen Hellerauer Markt und Klotzscher Weg Marktweg genannt. Da es jedoch in Briesnitz bereits eine gleichnamige Straße gab, erfolgte nach der Eingemeindung im September 1953 die Umbenennung in Hirtenweg. Die meisten Gebäude entstanden bereits in der ersten Bauphase der Gartenstadt ab 1910 und wurden von Richard Riemerschmid entworfen.
 
-![](../../../nord/hellerau/strassen_und_plaetze/hoher weg.jpg)
+![](../../../nord/hellerau/strassen_und_plaetze/hoher_weg.jpg)
 
 Der Hohe Weg verbindet den Moritzburger mit dem Friedersdorfer Weg und wurde im November 1927 benannt. Die Namensgebung erfolgte wegen seiner Lage. Zu den Bewohnern gehörte der Lehrer und Ortschronist Kurt Gerlach, Vater der Schriftstellerin Tine Schulze-Gerlach und Großvater des unter dem Namen "Muck" bekannten Schlagersängers Hartmut Schulze-Gerlach (Nr. 10).
 
@@ -215,11 +212,11 @@ Der Kiefernweg im Westen des Ortsteils an der Grenze zu Rähnitz wurde Anfang de
 
 Der Kirchsteig ist Teil einer alten Wegeverbindung, die einst von Klotzsche über Trachenberge bis nach Dresden führte und von den Einwohnern bei ihrem langen Gang zur Frauenkirche genutzt wurde. Nach der Bildung einer eigenen Kirchgemeinde verlor er seine Bedeutung. Der verbliebene Abschnitt auf Hellerauer Flur erhielt 1914 den Namen Am Kirchsteig und wurde später auch als Kirchweg bzw. Kirchsteig bezeichnet, wobei letztere Namensgebung heute die amtliche ist. Nach 1990 entstand am Kirchsteig und den angrenzenden Straßen eine kleine Wohnanlage.
 
-![](../../../nord/hellerau/strassen_und_plaetze/klotzscher weg.jpg)
+![](../../../nord/hellerau/strassen_und_plaetze/klotzscher_weg.jpg)
 
 Der Klotzscher Weg bildet die östliche Flurgrenze von Hellerau zum Nachbarort Klotzsche und wurde früher als Dresden-Klotzscher Weg bezeichnet. Seinen heutigen Namen erhielt er erst um 1950.
 
-![](../../../nord/hellerau/strassen_und_plaetze/kurzer weg.jpg)
+![](../../../nord/hellerau/strassen_und_plaetze/kurzer_weg.jpg)
 
 Der Kurze Weg ist eine kleine Verbindungsstraße, die vom Hellerauer Markt zur Straße Am Hellerrand fahrt. Seinen Namen erhielt er 1910 beim Bau der Gartenstadt. Die meisten Wohnhäuser an der Straße entstanden nach Entwürfen von Richard Riemerschmid. 1931 folgte im Zusammenhang mit der Komplettierung des Marktes Haus Nr. 2 durch den Architekten Rudolf Kolbe.
 
@@ -229,7 +226,7 @@ _**Fotos:** Wohnhausgruppe von Richard Riemerschmid (links)_
 
 _und ein Blick zum Hellerauer Markt um 1915 (SLUB / Fotothek)_
 
-![](../../../nord/hellerau/strassen_und_plaetze/lausaer weg.jpg)
+![](../../../nord/hellerau/strassen_und_plaetze/lausaer_weg.jpg)
 
 Der Lausaer Weg bekam seinen Namen erst im Februar 1993, wobei der seit 1999 ebenfalls zu Dresden gehörende Weixdorfer Ortsteil Lausa Namenspate war. Mit dem Ausbau der Autobahn wurden einige alte Verbindungen, so auch die Mühlenstraße (Lausaer Straße) in Rähnitz unterbrochen, und die Straßen deshalb neu geordnet. Ein Abschnitt des Brunnenweges wurde dabei der Boltenhagener Straße zugeordnet, seine Verlängerung sowie der abgetrennte Abschnitt der früheren Mühlenstraße erhielten den Namen Lausaer Weg.
 

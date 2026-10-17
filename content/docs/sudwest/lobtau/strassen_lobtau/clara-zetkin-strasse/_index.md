@@ -3,19 +3,6 @@ title: "Clara-Zetkin-Straße"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![clara-zetkin-straße](clara-zetkin-strasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseitel_btau.jpg)](../../../../sudwest/lobtau/)
-
-* * *
-
-
-
-
 ![](l_btauwallwitzstr.jpg)Die Clara-Zetkin-Straße, früher nach dem Politiker und Dresdner Ehrenbürger
 Hermann von Nostitz-Wallwitz (1826-1906) Wallwitzstraße genannt, erhielt 1956 den Namen der sozialistischen Politikerin Clara Zetkin (1857-1933), die bis 1933
 Alterspräsidentin des Deutschen Reichstags war und zahlreiche sozialkritische Schriften veröffentlichte. Auf ihre Initiative wurde 1910 der Internationale Frauentag

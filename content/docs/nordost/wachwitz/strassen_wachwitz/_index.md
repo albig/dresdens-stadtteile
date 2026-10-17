@@ -1,15 +1,7 @@
 ---
-title: "Straßen Wachwitz"
+title: "Straßen und Plätze in Wachwitz"
 date: 2024-02-17T22:13:35+01:00
 ---
-
-![straßen und plätze in wachwitz](strassen_wachwitz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../nordost/wachwitz/strassen_wachwitz/hauptseitewachwitz2.jpg)](../../../nordost/wachwitz/)
 
 ![agneshöhe](../../../nordost/wachwitz/strassen_wachwitz/a_rectangle_231.gif)
 

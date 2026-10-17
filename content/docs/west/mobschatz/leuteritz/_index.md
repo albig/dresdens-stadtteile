@@ -14,10 +14,6 @@ date: 2024-02-17T22:13:46+01:00
 
 ![](../../../plz_01156.jpg)
 
-[![](../../../nachbarn.jpg)](../../../west/mobschatz/)
-
-* * *
-
 [![](../../../west/mobschatz/leuteritz/speidelsystem2.jpg)](http://www.trocknung.com)
 
 

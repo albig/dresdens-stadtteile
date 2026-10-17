@@ -3,8 +3,6 @@ title: "Konigsbrucker Straße"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![königsbrücker straße](konigsbrucker_strasse_n1_banner2.gif)
-
 * * *
 
 

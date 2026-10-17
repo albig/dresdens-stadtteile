@@ -3,27 +3,7 @@ title: "Teuschers Sanatorium"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![teuschers sanatorium](teuschers_sanatorium_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../nordost/page10246/hauptseitewhirsch.jpg)](../../../../nordost/page10246/)
-
-* * *
-
-
 
 Das Teuschersche Sanatorium wurde 1897/98 auf der damaligen Thielaustraße (heute Chopinstraße) vom Nervenarzt Dr. Heinrich Teuscher (1862-1946) gegründet. Zuvor hatte hier bis zur Vernichtung durch einen
 Großbrand 1873 der alte Gasthof Weißer Adler gestanden. Behandelt wurden vor allem Nerven-, Darm und Herzerkrankungen, wobei hier - dem Vorbild Lahmanns folgend - vorrangig Naturheilverfahren zur Anwendung kamen. Für

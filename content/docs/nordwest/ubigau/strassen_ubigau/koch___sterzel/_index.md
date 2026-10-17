@@ -3,18 +3,6 @@ title: "Firma Koch & Sterzel"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../nordwest/ubigau/hauptseite_bigau.jpg)](../../../../nordwest/ubigau/)
-
-* * *
-
-
-
 **Werbeprospekt der Firma aus den**
 
 **1930er Jahren**

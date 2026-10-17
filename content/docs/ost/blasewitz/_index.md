@@ -12,14 +12,6 @@ date: 2024-02-17T22:13:37+01:00
 
 **Gemeindesiegel von Blasewitz**
 
-
-[![](../../nachbarn.jpg)](../../ost/)
-
-* * *
-
-
-
-
 * * *
 
 **Blasewitzer Stadtteilseiten:**

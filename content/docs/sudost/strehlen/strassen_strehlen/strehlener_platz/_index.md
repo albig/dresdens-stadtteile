@@ -3,19 +3,6 @@ title: "Strehlener Platz"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![strehlener platz](strehlener_platz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../sud/hauptseitestrehlen.jpg)](../../../../sudost/strehlen/)
-
-* * *
-
-
-
-
 Der Strehlener Platz wurde Ende des 19. Jahrhunderts angelegt und gärtnerisch gestaltet. Zuvor befand sich hier eine Steuereinnahmestelle mit Akzisehaus, welches 1930 dem Neubau des Hotels Astoria weichen musste. 1933 erfolgte die Umbenennung in Horst-Wessel-Platz nach dem nationalsozialistischen Märtyrer Horst Wessel, der 1930 in Berlin von Kommunisten erschossen worden war.1945 wurde diese Namensgebung wieder aufgehoben und der Platz fortan bis 1990 Ernst-Thälmann-Platz genannt. In den Grünanlagen an der Teplitzer Straße fand 1986 aus Anlass des 100. Geburtstages des Arbeiterführers ein Thälmann-Denkmal Aufstellung. Schöpfer war der Bildhauer Johannes Peschel. Das bis heute erhaltene Denkmal zeigt eine Büste Thälmanns vor acht Betonsäulen. 1990 erhielt der Strehlener Platz seinen ursprünglichen Namen zurück.
 
 Hotel Astoria:

@@ -3,19 +3,6 @@ title: "Albertbrücke"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../hauptseitejohannstadt.jpg)](../../../zentrum/johannstadt/)
-
-* * *
-
-
-
-
 Erste Planungen für eine Elbbrücke an dieser Stelle kamen bereits 1839 auf. Damals erwog man den Bau einer Eisenbahnstrecke vom [Leipziger Bahnhof](../../../neustadt/leipziger_vorstadt/dresden_-_leipzig/leipziger_bahnhof/) über die Glacisstraße, am Großen Garten vorbei und von dort weiter in Richtung Böhmen. Spätestens mit Eröffnung der Marienbrücke 1852 wurden diese Pläne jedoch zu den Akten gelegt, da sie einen zu großen Eingriff in die gewachsene Bebauung auf Neustädter Seite gebracht hätten. Später versuchten der Bankier Kaskel und der Advokat Oskar Teucher, zumindest eine Straßenbrücke an dieser Stelle zu realisieren, allerdings ohne Erfolg. Stattdessen richtete man 1865 eine Fährverbindung zwischen Bohrwerk- und Glacisstraße ein. Betreiber war die Dresdner Fischerinnung, welche traditionell das Privileg für alle Fährstellen im Innenstadtbereich besaß und diese dampfbetriebene Wagenfähre bis 1877 unterhielt.
 
 

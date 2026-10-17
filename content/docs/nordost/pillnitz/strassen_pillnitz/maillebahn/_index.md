@@ -3,19 +3,6 @@ title: "Maillebahn"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../nordost/hauptseitepillnitz.jpg)](../../../../nordost/pillnitz/)
-
-* * *
-
-
-
-
 Die Maillebahn ist Teil der 1725 aus Anlass der Hochzeit von Auguste Constantine
 Reichsgräfin von Cosel, einer gemeinsamen Tochter August des Starken und der Gräfin Cosel, angelegten Allee. Ursprünglich sollte diese Allee eine Verbindung zwischen dem [Schloss Pillnitz](../../../../nordost/pillnitz/schloss_pillnitz/) und dem Residenzschloss herstellen, wurde jedoch
 nur auf einem ca. 750 Meter langen Abschnitt bis nach Hosterwitz realisiert. Im 18. Jahrhundert befand sich in diesem Bereich das Französische Dorf, eine kleine

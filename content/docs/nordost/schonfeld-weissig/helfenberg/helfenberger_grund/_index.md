@@ -3,22 +3,11 @@ title: "Helfenberger Grund"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![helfenberger grund](helfenberger_grund_nurbanlegendbannerh.gif)
-
-* * *
-
 * * *
 
 
 
 [![](../../../../nordost/hauptseiteniederpoyritz.jpg)](../../../../nordost/niederpoyritz/)
-
-[![](../../../../nordost/schonfeld-weissig/helfenberg/helfenberger_grund/hauptseitehelfenberg.jpg)](../../../../nordost/schonfeld-weissig/helfenberg/)
-
-* * *
-
-
-
 
 ![](../../../../nordost/niederpoyrbrauerei.jpg)Der Helfenberger Grund gehört zu den rechtselbischen Seitentälern im Loschwitz -
 Pillnitzer Raum und verbindet  Niederpoyritz mit dem kleinen Ort Helfenberg. Hier fließt der in der Nähe von Cunnersdorf entspringende Helfenberger Bach zu Tale,

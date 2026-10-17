@@ -3,14 +3,6 @@ title: "Karlsruher Straße"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![karlsruher straße](karlsruher_strasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../sud/hauptseitegittersee.jpg)](../../../../sud/gittersee/)
-
 [![](../../../../sud/hauptseitecosch_tz.jpg)](../../../../sud/coschutz/)
 
 * * *

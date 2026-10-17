@@ -3,21 +3,6 @@ title: "Neudorfer Werder"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![neudorfer werder](neudorfer_werder_nurbanlegendbannerh.gif)
-
-* * *
-
-* * *
-
-
-
-[![](../../../../neustadt/leipziger_vorstadt/hauptseitelv.jpg)](../../../../neustadt/leipziger_vorstadt/)
-
-* * *
-
-
-
-
 * * *
 
 **Homepage der TSV Rotation Dresden:**

@@ -3,16 +3,6 @@ title: "Striesener Zigarettenfabriken"
 date: 2024-02-17T22:13:39+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../ost/striesen/hauptseitestriesen.jpg)](../../../ost/striesen/)
-
-* * *
-
 ![](../../../ost/striesen/striesener_zigarettenfabriken/kosmos.jpg)
 
 
@@ -142,7 +132,7 @@ Firma Lande:
 
 Das Unternehmen wurde 1897 vom jüdischen Zigarettenproduzenten Wilhelm Lande in Halberstadt gegründet und war zunächst in einem Hinterhaus der Zöllnerstraße, ab 1913 auf der Laubestraße in Striesen ansässig. Zunächst noch ausschließlich in Handarbeit gefertigt, ermöglichte ab 1906 der Erwerb moderner Tabakschneide- und Zigarettenmaschinen eine Produktionssteigerung auf bis zu 72.000 Zigaretten am Tag.
 
-![](../../../ost/striesen/striesener_zigarettenfabriken/united zigarettenfabrik.jpg)1932 erwarb Lande die Gebäude der früheren Zigarettenmaschinenfabrik United Cigarette Machine Company auf der Junghansstraße 5 _(Bild)_, in dem zur Blütezeit über 600 Arbeiter beschäftigt waren. Mit Machtantritt der Nazis geriet der Inhaber unter Druck und wurde wegen seiner Herkunft boykottiert. Um weiteren Repressionen zu entgehen, verkaufte Wilhelm Lande seine Firma und emigrierte in die USA. Auch unter Regie des neuen Besitzers wurde der werbewirksame Firmenname, jetzt als Lande GmbH beibehalten. 1942 übernahm der NSSK-Führer Geißinger den Betrieb, dessen finanzielle Angelegenheiten jedoch vom Reemtsma-Konzern geregelt wurden. Nach der Zerstörung Dresdens lagerte man die Produktion in eine Wilsdruffer Möbelfabrik aus.
+![](../../../ost/striesen/striesener_zigarettenfabriken/united_zigarettenfabrik.jpg)1932 erwarb Lande die Gebäude der früheren Zigarettenmaschinenfabrik United Cigarette Machine Company auf der Junghansstraße 5 _(Bild)_, in dem zur Blütezeit über 600 Arbeiter beschäftigt waren. Mit Machtantritt der Nazis geriet der Inhaber unter Druck und wurde wegen seiner Herkunft boykottiert. Um weiteren Repressionen zu entgehen, verkaufte Wilhelm Lande seine Firma und emigrierte in die USA. Auch unter Regie des neuen Besitzers wurde der werbewirksame Firmenname, jetzt als Lande GmbH beibehalten. 1942 übernahm der NSSK-Führer Geißinger den Betrieb, dessen finanzielle Angelegenheiten jedoch vom Reemtsma-Konzern geregelt wurden. Nach der Zerstörung Dresdens lagerte man die Produktion in eine Wilsdruffer Möbelfabrik aus.
 
 Nach dem Zweiten Weltkrieg wurde der Betrieb von der Sowjetischen Militäradministration zu Reparationsleistungen herangezogen und produzierte zeitweise ausschließlich für den Bedarf der Roten Armee. Mit dem Volksentscheid von 1946 wurde Geissinger enteignet und sein Betrieb zum VEB Macedonia. Ab 1959 gehörte er als Werk II zum VEB Vereinigte Zigarettenfabriken Dresden.
 

@@ -3,17 +3,6 @@ title: "Marschallstraße"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../hauptseitepv.jpg)](../../../../zentrum/pirnaische_vorstadt/)
-
-* * *
-
-
 * * *
 
 **Werbeanzeigen von Geschäften vor 1945:**

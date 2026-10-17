@@ -3,19 +3,6 @@ title: "Loschwitzer Straße"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![loschwitzer straße](loschwitzer_strasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseiteblasewitz.jpg)](../../../../ost/blasewitz/)
-
-* * *
-
-
-
-
 ![](../../../../ost/blasewitz/strassen_blasewitz/loschwitzer_strasse/blasewloschwstr.jpg)Die Loschwitzer Straße bildete bereits vor ihrem Ausbau im 19. Jahrhundert die
 wichtigste Verbindung zwischen Blasewitz und der Innenstadt. Jedoch erst mit der Entdeckung des Dorfes als Sommerfrische und Wohnvorort erhielt sie eine größere
 Verkehrsbedeutung und wurde 1863 verbreitert und ausgebaut. In den Folgejahren entstanden hier repräsentative Villen unterschiedlichster Stilrichtungen, die zum Großteil

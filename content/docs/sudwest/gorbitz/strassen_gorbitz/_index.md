@@ -1,15 +1,7 @@
 ---
-title: "Straßen Gorbitz"
+title: "Straßen und Plätze in Gorbitz"
 date: 2024-02-17T22:13:44+01:00
 ---
-
-![straßen und plätze in gorbitz](strassen_gorbitz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../sudwest/gorbitz/strassen_gorbitz/hauptseitegorbitz2.jpg)](../../../sudwest/gorbitz/)
 
 ![altgorbitz](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_449.gif)
 
@@ -137,15 +129,15 @@ Zur Verbesserung der Einkaufsbedingungen besonders im vierten Gorbitzer Wohnkomp
 
 Die Straße Heimkehr befindet sich am Rande des alten Niedergorbitzer Dorfkerns und führt von der Neunimptscher Straße rechtwinklig zum Fliederberg. Erstmals ist sie im Adressbuch von 1920 erwähnt, als hier die ersten Wohnhäuser entstanden.
 
-![helbigsdorfer weg](../../../sudwest/gorbitz/strassen_gorbitz/helbigsdorfer weg.jpg)
+![helbigsdorfer weg](../../../sudwest/gorbitz/strassen_gorbitz/helbigsdorfer_weg.jpg)
 
 Im Zusammenhang mit dem zweiten Bauabschnitt des Neubaugebietes entstand 1979 der Helbigsdorfer Weg, gelegen in einem vom Leutewitzer Ring umschlossenen Plattenbauviertel. Die amtliche Benennung erfolgte am 15. März 1979 nach dem kleinen Ort Helbigsdorf in der Nähe von Wilsdruff.
 
-![herzogswalder straße](../../../sudwest/gorbitz/strassen_gorbitz/herzogswalder straße.jpg)
+![herzogswalder straße](../../../sudwest/gorbitz/strassen_gorbitz/herzogswalder_straße.jpg)
 
 Zeitgleich mit weiteren Straßen erhielt auch die Herzogswalder Straße am 15. März 1979 ihren Namen nach einem Ort der Wilsdruffer Gegend. Herzogswalde liegt am Fuße des Landberges und gehört heute als Ortsteil zu Wilsdruff.
 
-![hetzdorfer straße](../../../sudwest/gorbitz/strassen_gorbitz/hetzdorfer straße.jpg)
+![hetzdorfer straße](../../../sudwest/gorbitz/strassen_gorbitz/hetzdorfer_straße.jpg)
 
 Auch die Hetzdorfer Straße verdankt ihren Namen einem Dorf in der Nähe von Dresden. Hetzdorf liegt am Rande des Tharandter Waldes und ist heute vor allem durch seine Kurklinik von Bedeutung. Die Straße wurde am 15. März 1979 benannt und befindet sich im zweiten Bauabschnitt innerhalb des Leutewitzer Rings. Am 7. November 1983 eröffnete hier eine von mehreren Gorbitzer Kindertagesstätten als Kombination von Kindergarten und -krippe (Nr. 2/4).
 

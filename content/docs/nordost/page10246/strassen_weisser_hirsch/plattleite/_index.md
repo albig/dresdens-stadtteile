@@ -3,19 +3,6 @@ title: "Plattleite"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![plattleite](plattleite_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../nordost/page10246/hauptseitewhirsch.jpg)](../../../../nordost/page10246/)
-
-* * *
-
-
-
-
 Die frühere Loschwitzer Straße bildet die Verbindung zum Nachbarort Loschwitz. Nach einem Flurnamen wurde diese Straße auch als Plattleithenweg bezeichnet. Hier lag ursprünglich der Kern der Gutsgemeinde
 Weißer Hirsch, deren letzte Häusleranwesen erst 1972 einem Parkplatz an der Einmündung des Lahmannrings weichen mussten. Zu den ersten Landhäusern, die nach der Aufteilung der früheren Gutswirtschaft in Parzellen
 errichtet wurden, gehören die 1878/80 vom Architekten Schaeffer erbauten Villen Plattleite Nr. 43 und 45. Leider lassen diese Häuser durch spätere Umbauten ihr ursprüngliches Bild kaum noch erkennen. Um 1905 folgten im

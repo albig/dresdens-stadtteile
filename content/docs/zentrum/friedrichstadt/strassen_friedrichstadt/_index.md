@@ -1,15 +1,7 @@
 ---
-title: "Straßen Friedrichstadt"
+title: "Straßen und Plätze in der Friedrichstadt"
 date: 2024-02-17T22:13:47+01:00
 ---
-
-![straßen und plätze in der friedrichstadt](strassen_friedrichstadt_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../zentrum/friedrichstadt/strassen_friedrichstadt/hauptseitefriedrichstadt2.jpg)](../../../zentrum/friedrichstadt/)
 
 ![adlergasse](a_rectangle_1584.gif)
 
@@ -83,7 +75,7 @@ Königliche Lymphanstalt (Nr. 16): Die Einrichtung ging auf ein 1838 von Dr. C. 
 
 ![](../../../zentrum/friedrichstadt/strassen_friedrichstadt/lymphanstalt.jpg)Um die Bedingungen für die Impfstofferzeugung zu verbessern, entschloss sich die Stadt, einen Neubau an der Leipziger Straße 23 in der Nähe des [Alten Schlachthofes](../../../Neustadt/Leipziger_Vorstadt/Leipziger_Strasse/Alter_Schlachthof/alter_schalchthof.html) zu errichten. 1898 übernahm man zudem die Lymphanstalten Bautzen und Zwickau, womit die ganze Kreishauptmannschaft Dresden zum Zuständigkeitsbereich gehörte. Da man wegen der benötigten Kälber und Rinder auf die Nähe des Schlachthofes angewiesen war, plante man im Zusammenhang mit dessen Verlegung ins Ostragehege ursprünglich, die Lymphanstalt ebenfalls dorthin zu verlegen. Letztlich scheiterten diese Pläne an zu hohen Grundstückskosten, so dass man sich für das Grundstück Bremer Straße 16 entschied. Baubeginn war 1908, die Einweihung erfolgte zwei Jahre später. Neben dem villenartigen Verwaltungsgebäude gehörten im Hintergelände Ställe und medizinisch-pharmazeutische Labors zur Lymphanstalt. Heute wird das Grundstück von verschiedenen Unternehmen genutzt.
 
-![cottaer straße](../../../zentrum/friedrichstadt/strassen_friedrichstadt/cottaer straße.jpg)
+![cottaer straße](../../../zentrum/friedrichstadt/strassen_friedrichstadt/cottaer_straße.jpg)
 
 Die Cottaer Straße entstand 1861 und erhielt im gleichen Jahr ihren Namen, da sie in Richtung des damals noch selbständigen Dorfes Cotta führte. Bis zur Jahrhundertwende wurden hier überwiegend mehrgeschossige Mietshäuser in geschlossener Bauweise errichtet. Hinzu kamen einige Einzelgebäude sowie verschiedene Gewerbetriebe.
 Auch in diesem Teil der Friedrichstadt rissen die Bomben des Luftangriffs 1945 größere Lücken in den Baubestand. Diese wurden meist erst nach 1990 geschlossen. 2015 entstand auf dem Grundstück Cottaer Straße 17-21 die Wohnanlage "Weißeritz-Gärten".

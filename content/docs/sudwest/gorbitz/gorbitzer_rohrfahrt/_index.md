@@ -3,27 +3,7 @@ title: "Gorbitzer Röhrfahrt"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![gorbitzer röhrfahrt](gorbitzer_rohrfahrt_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../sudwest/hauptseitegorbitz.jpg)](../../../sudwest/gorbitz/)
-
-* * *
-
-
 
 ![](../../../sudwest/gorbitz/gorbitzer_rohrfahrt/gorbuthmannstr30.jpg)Die Gorbitzer Röhrfahrt entstand 1584 im Auftrag von Kurfürst August und sollte die
 Wasserversorgung des Dresdner Residenzschlosses sichern. Dafür wurde zwischen Gorbitz und dem Stadtzentrum eine hölzerne Wasserleitung verlegt und im Ort ein Brunnen angelegt.

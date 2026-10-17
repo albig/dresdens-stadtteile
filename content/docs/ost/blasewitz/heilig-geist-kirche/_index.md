@@ -3,22 +3,6 @@ title: "Heilig-Geist-Kirche"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![heilig-geist-kirche](heilig-geist-kirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-[![](../../../hauptseiteblasewitz.jpg)](../../../ost/blasewitz/)
-
 * * *
 
 ![ev.-lutherische heilig-geist-kirche sebastian-bach-str. 13 01309 dresden tel. 0351/3100041](../../../ost/blasewitz/heilig-geist-kirche/a_rectangle_1004.gif)

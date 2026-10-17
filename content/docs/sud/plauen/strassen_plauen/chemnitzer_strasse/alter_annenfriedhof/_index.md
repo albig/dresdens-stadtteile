@@ -3,12 +3,6 @@ title: "Alter Annenfriedhof"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-![alter annenfriedhof](alter_annenfriedhof_nurbanlegendbannerh.gif)
-
-* * *
-
-
-
 * * *
 
 

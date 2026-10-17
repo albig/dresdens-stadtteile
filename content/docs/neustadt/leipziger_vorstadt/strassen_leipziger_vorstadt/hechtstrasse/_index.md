@@ -3,18 +3,6 @@ title: "Hechtstraße"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![hechtstraße](hechtstrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../neustadt/leipziger_vorstadt/hauptseitelv.jpg)](../../../../neustadt/leipziger_vorstadt/)
-
-* * *
-
-
-
 * * *
 
 ![](../../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/hechtstrasse/julwalter.jpg)
@@ -26,7 +14,7 @@ _(Hechtstraße 47)_
 
 ![](../../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/hechtstrasse/lvhechtstr.jpg)Die Hechtstraße bildet die Hauptachse eines seit Mitte des 19. Jahrhunderts planmäßig angelegten Wohnviertels. Bereits 1836 hatte der Dresdner Polizeidirektor Hans Ludwig von Oppell hier Grundstücke für die Bebauung mit Wohnhäusern erworben. Die meisten Gebäude entstanden allerdings erst im letzten Drittel des 19. Jahrhunderts und machten die [Oppellvorstadt](../../../../neustadt/leipziger_vorstadt/hechtviertel/), die im Volksmund bis heute meist als Hechtviertel bekannt ist, zu einem der am dichtesten besiedelten Stadtteile Dresdens. 1862 wurde an der Hechtstraße der [St.-Pauli-Friedhof](../../../../neustadt/leipziger_vorstadt/hechtviertel/st_-pauli-friedhof/) angelegt. Unweit davon befindet sich der sogenannte Hechtpark, eine grüne Oase am Rande des Hechtviertels.
 
-![](../../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/hechtstrasse/lv_zum hecht.jpg)Ihren Namen verdankt die Hechtstraße dem früheren Neudorfer Revierförster Johann August Hecht, der 1715 ein Grundstück am Rande der Hellerberge erwarb und hier einen [Weinberg](../../../../neustadt/leipziger_vorstadt/hechtviertel/hechtsches_weingut/) anlegte. Neben ihrem Weingut betrieb die Familie Hecht eine kleine Schankwirtschaft für ihre Angestellten. Aus dieser ging später die Restauration Zum Blauen Hecht an der Radeburger Straße hervor, deren Name 1859 auf die hier einmündende Straße übertragen wurde _(Foto rechts)_. Der anschließende, bereits auf Trachenberger Flur liegende Straßenteil wurde ab 1887 Friedhofstraße genannt. 1927 ging auch dieser Abschnitt in der Hechtstraße auf. 1891 fuhr erstmals die Straßenbahn durch die Hechtstraße bis zum Endpunkt Buchenstraße, ab 1926 bis zum St.-Pauli-Friedhof. Nach kriegsbedingter Betriebseinstellung wurde der Verkehr nach 1945 nicht wieder aufgenommen und die Gleisanlagen in den 1950er Jahren demontiert.
+![](../../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/hechtstrasse/lv_zum_hecht.jpg)Ihren Namen verdankt die Hechtstraße dem früheren Neudorfer Revierförster Johann August Hecht, der 1715 ein Grundstück am Rande der Hellerberge erwarb und hier einen [Weinberg](../../../../neustadt/leipziger_vorstadt/hechtviertel/hechtsches_weingut/) anlegte. Neben ihrem Weingut betrieb die Familie Hecht eine kleine Schankwirtschaft für ihre Angestellten. Aus dieser ging später die Restauration Zum Blauen Hecht an der Radeburger Straße hervor, deren Name 1859 auf die hier einmündende Straße übertragen wurde _(Foto rechts)_. Der anschließende, bereits auf Trachenberger Flur liegende Straßenteil wurde ab 1887 Friedhofstraße genannt. 1927 ging auch dieser Abschnitt in der Hechtstraße auf. 1891 fuhr erstmals die Straßenbahn durch die Hechtstraße bis zum Endpunkt Buchenstraße, ab 1926 bis zum St.-Pauli-Friedhof. Nach kriegsbedingter Betriebseinstellung wurde der Verkehr nach 1945 nicht wieder aufgenommen und die Gleisanlagen in den 1950er Jahren demontiert.
 
 ![](../../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/hechtstrasse/lvhechtstr3.jpg)Zu DDR-Zeiten verfielen die meisten Altbauten in diesem Gebiet, nachdem es bereits 1945 durch den Luftangriff zu Verlusten an Bausubstanz gekommen war. Dafür entwickelte sich im Hechtviertel wie auch in der Äußeren Neustadt eine alternative Szene mit illegalen Treffs und Cafés. Einer der bekanntesten war das im Obergeschoss des Wohnhauses Hechtstraße 26 entstandene Café Stillos. Nach 1990 wurden die meisten Gebäude saniert. Trotzdem konnte die Hechtstraße mit ihren zahlreichen kleinen Läden, Bars und Gaststätten ihr Flair bis heute weitgehend bewahren. Im oberen Teil der Hechtstraße prägen hingegen Neubauten aus den 1950er und 60er Jahren das Straßenbild _(Foto)_, da hier zahlreiche Gebäude durch Bomben zerstört worden waren.
 

@@ -3,16 +3,6 @@ title: "Heiliger Born"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![heiliger born](heiliger_born_nurbanlegendbannerh.gif)
-
-* * *
-
-* * *
-
-
-
-[![](../../../sudost/hauptseiteleubnitz.jpg)](../../../sudost/leubnitz-neuostra/)
-
 * * *
 
 **_Die Sage vom_**

@@ -3,19 +3,6 @@ title: "Niederwarthaer Elbbrücken"
 date: 2024-02-17T22:13:46+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../west/hauptseiteniederwartha.jpg)](../../../west/niederwartha/)
-
-* * *
-
-
-
-
 Eisenbahnbrücke:
 
 Die erste Niederwarthaer Elbbrücke entstand 1873/74 im Zusammenhang mit dem Bau der [Eisenbahnstrecke Dresden - Berlin](../../../zentrum/friedrichstadt/dresden_-_berlin/) und diente vorrangig dem Eisenbahnverkehr. Außerdem gab es einen schmalen Fuß- und Fahrweg. Zwanzig Jahre später erfolgte eine Erweiterung des Bauwerks, um die Bahnstrecke zweigleisig ausbauen zu können. Kurz vor Kriegsende sprengten abziehende deutsche Truppen am 8. Mai 1945 das Bauwerk, welches wenig später am 31. Juli 1945 beim Versuch, es mit einem sowjetischen Militärtransport zu befahren, einstürzte. Zuvor hatten russische Soldaten die deutschen Eisenbahner gezwungen, das Bauwerk trotz bestehender Streckensperrung zu überqueren.

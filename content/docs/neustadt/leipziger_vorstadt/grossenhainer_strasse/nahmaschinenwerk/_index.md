@@ -3,16 +3,6 @@ title: "Nähmaschinenwerk Clemens Müller"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../neustadt/leipziger_vorstadt/hauptseitelv.jpg)](../../../../neustadt/leipziger_vorstadt/)
-
-* * *
-
 ![](../../../../neustadt/leipziger_vorstadt/grossenhainer_strasse/nahmaschinenwerk/lvclemensm_ller3.jpg)
 
 

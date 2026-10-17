@@ -3,18 +3,7 @@ title: "Waldpark Klotzsche"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![waldpark klotzsche](waldpark_klotzsche_nurbanlegendbannerh.gif)
-
 * * *
-
-* * *
-
-
-
-[![](../../../nord/klotzsche/hauptseiteklotzsche.jpg)](../../../nord/klotzsche/)
-
-* * *
-
 
 [![](../../../nord/klotzsche/waldpark_klotzsche/klotzschertennisv.jpg)](http://www.tv-klotzsche.de)
 

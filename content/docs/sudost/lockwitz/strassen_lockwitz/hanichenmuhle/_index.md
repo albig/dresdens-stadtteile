@@ -7,24 +7,6 @@ date: 2024-02-17T22:13:42+01:00
 
 * * *
 
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../hauptseitelockwitz.jpg)](../../../../sudost/lockwitz/)
-
-* * *
-
-
-
 Die auch Mittelmühle genannte Wassermühle wurde 1554 erstmals urkundlich erwähnt, ist jedoch vermutlich älter. Erster namentlich bekannter Müller war Alex Wirthgen, der das zu den größten Lockwitzer Anwesen gehörende Mühlengrundstück bewirtschaftete. Zum Antrieb des ursprünglich unterschlächtigen, später oberschlächtigen Wasserrades diente ein vom [Lockwitzbach](../../../../sudost/lockwitz/lockwitzbach/) abzweigender Mühlgraben, der zugleich auch die Niedermühle versorgte.
 
 Eigentümer der Mühle waren die Rittergutsbesitzer von Oberlockwitz, wobei der Betrieb wechselnden Pächtern oblag. 1622 beabsichtigte Johann Georg von Osterhausen, die Mühle aus Geldnot zu verkaufen, entschied sich jedoch nach heftiger Gegenwehr des Müllers zu einem Erbpachtvertrag, woraufhin Pächter Michael Dreßler die Mittelmühle drei Jahre später neu aufbauen und modernisieren ließ. In diesem Zusammenhang entstand auch ein neuer Mühlgraben mit Wehr sowie eine Holzbrücke über den Lockwitzbach. Zunächst ausschließlich als Mahlmühle genutzt, wurde sie 1651 zusätzlich zur Schneidemühle umgebaut.

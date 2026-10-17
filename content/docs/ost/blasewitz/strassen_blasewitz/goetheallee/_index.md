@@ -3,16 +3,6 @@ title: "Goetheallee"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![goetheallee](goetheallee_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseiteblasewitz.jpg)](../../../../ost/blasewitz/)
-
-* * *
-
 ![standesamt dresden -eheschließung-  goetheallee 55 01309 dresden  tel. 0351/4888817](../../../../ost/blasewitz/strassen_blasewitz/goetheallee/a_rectangle_1271.gif)
 
 [![sonnenstrahl e.v.  förderkreis für krebskranke kinder  goetheallee 13 01309 dresden  www.sonnenstrahl-ev.org](a_rectangle_1582.gif)](http://www.sonnenstrahl-ev.org)

@@ -3,18 +3,6 @@ title: "Kornerweg"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![körnerweg](kornerweg_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../nordost/hauptseiteloschwitz.jpg)](../../../../nordost/loschwitz/)
-
-* * *
-
-
-
 ![](../../../../nordost/loschwitz/strassen_loschwitz/kornerweg/loschwk_rnerh.jpg)Der Körnerweg entstand aus dem alten Treidelpfad am rechten Elbufer, der am Fuße der
 Weinberge entlang führte. Anfang des 19. Jahrhundert wurde dieser Weg erstmals gepflastert und 1908 auf die heutige Breite erweitert. Seinen Namen erhielt er 1895 nach der Familie
 Körner, die hier 1785 ein Weinberghaus erworben hatte. Das Haus (Nr. 6), erbaut um 1784 _(Fotos rechts)_, blieb bis 1826 im Familienbesitz und war Aufenthaltsort berühmter

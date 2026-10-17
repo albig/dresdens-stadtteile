@@ -3,19 +3,6 @@ title: "Kauscha"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-
-* * *
-
-
-
-
-[![](../../nachbarn.jpg)](../../sudost/)
-
-* * *
-
-
-
-
 Die Region um Kauscha war bereits in der frühen Bronzezeit besiedelt. 1997 wurden bei Ausgrabungen im Vorfeld des Autobahnbaus Gruben mit Keramikscherben und bemerkenswerten Schmuckstücken entdeckt, die der Aunjetitzer Kultur zugeordnet werden und ungefähr 4000 Jahre alt sind. Die genaue Bedeutung dieses Fundes wird noch untersucht. Sicher ist jedoch, das das Gebiet um Kauscha/Nickern zu den ältesten nachgewiesenen Siedelplätzen im Dresdner Raum gehörte. Weitere Funde stammen aus der Zeit um 1200 v. Chr., darunter Keramik, Steinwerkzeuge und das Tongewicht eines Webstuhls. Bereits 1906 hatte man südöstlich des Ortes spätbronzezeitliche Fußringe und eine Sichel geborgen. Nördlich von Kauscha liegt ein Gräberfeld aus der frühen Eisenzeit.
 
 ![](../../sudost/kauscha/kauscha1.jpg)Das 1288 erstmals als Cudeschowe urkundlich erwähnte Dorf Kauscha ist slawischen Ursprungs. Der Name des Rundlings leitet sich wahrscheinlich von einem Lokator ab (Ort des Chudosch). Später wechselte die Bezeichnung über Kudeschowee, Kudischaw und Kaudischow bis zum 1524 erstmals nachweisbaren Kauscha. Zeitweise finden sich auch die Namen Im Caudisch, Kauß, Kauschie und Kudischa in den Urkunden.

@@ -3,24 +3,6 @@ title: "Thomaskirche"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![thomaskirche](thomaskirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../ost/hauptseitegruna.jpg)](../../../ost/gruna/)
-
 * * *
 
 ![thomaskirche bodenbacher str. 24 01277 dresden  tel. 0351/2561065](../../../ost/gruna/thomaskirche/a_rectangle_1024.gif)

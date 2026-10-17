@@ -12,18 +12,9 @@ date: 2024-02-17T22:13:42+01:00
 
 **Gemeindesiegel von Prohlis**
 
-
-[![](../../nachbarn.jpg)](../../sudost/)
-
-* * *
-
 ![bürgerbüro prohlis prohliser allee 10 01239 dresden  tel. 0351/4888444](../../sudost/prohlis/a_rectangle_731.gif)
 
 ![stadtteilbüro prohlis prohliser allee 33  öffnungszeiten: mo. 10-13 uhr di. 13-17 uhr do. 10-16 uhr](../../sudost/prohlis/a_rectangle_1396.gif)
-
-* * *
-
-
 
 * * *
 

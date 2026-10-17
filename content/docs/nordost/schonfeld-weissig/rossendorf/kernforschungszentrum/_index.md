@@ -3,17 +3,6 @@ title: "Forschungszentrum Rossendorf"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../nordost/schonfeld-weissig/rossendorf/kernforschungszentrum/hauptseiterossendorf.jpg)](../../../../nordost/schonfeld-weissig/rossendorf/)
-
-* * *
-
-
 [![](../../../../nordost/schonfeld-weissig/rossendorf/kernforschungszentrum/rossendorf.jpg)](http://www.hzdr.de)
 
 

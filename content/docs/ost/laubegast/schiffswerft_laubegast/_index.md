@@ -3,19 +3,6 @@ title: "Schiffswerft Laubegast"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../ost/laubegast/hauptseitelaubegast.jpg)](../../../ost/laubegast/)
-
-* * *
-
-
-
-
 ![](../../../ost/laubegast/schiffswerft_laubegast/laubegwerft2.jpg)Die Geschichte der Laubegaster Werft begann im Jahr 1855, damals allerdings
 noch in Blasewitz. In diesem Jahr erwarb die Sächsische Dampfschifffahrtsgesellschaft das Stadtgut Blasewitz, um hier einen Schiffsbau- und Reparaturplatz anzulegen. Zuvor erfolgte die gesamte Wartung der Elbdampfer in
 Krippen, was sich wegen der abseitigen Lage vom Dresdner Firmensitz jedoch als nachteilig erwies. Bereits wenige Monate später begann auf einer Freifläche östlich

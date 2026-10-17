@@ -3,24 +3,6 @@ title: "Petzold & Aulhorn"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-![petzold & aulhorn](petzold___aulhorn_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../hauptseiteplauen.jpg)](../../../../sud/plauen/)
-
 * * *
 
 ![](plauenpetzaulhorn3.jpg)

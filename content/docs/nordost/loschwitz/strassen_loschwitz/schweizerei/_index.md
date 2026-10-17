@@ -3,27 +3,7 @@ title: "Schweizerei"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![schweizerei](schweizerei_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../nordost/hauptseiteloschwitz.jpg)](../../../../nordost/loschwitz/)
-
-* * *
-
-
 
 ![](../../../../nordost/loschwitz/strassen_loschwitz/schweizerei/loschwschweizerei1.jpg)Die Gaststätte Schweizerei wurde 1872 im ehemaligen Naakeschen
 Wirtschaftshof eröffnet, nachdem der Berliner Kaufmann Eugen Rosenstiel das Anwesen erworben hatte. Zur Erschließung ließ er auf eigene Kosten die Schweizer Straße (seit 1921 [Ulrichstraße](../../../../nordost/loschwitz/strassen_loschwitz/)) anlegen. Das zunächst als Sommerwirtschaft von verschiedenen Pächtern betriebene Lokal erfreute sich

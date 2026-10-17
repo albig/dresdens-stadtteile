@@ -3,16 +3,6 @@ title: "Straßenbahnmuseum"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![straßenbahnmuseum](strassenbahnmuseum_nestimatebanner.gif)
-
-* * *
-
-
-
-[![](../../../hauptseitetrachenberge.jpg)](../../../nordwest/trachenberge/)
-
-* * *
-
 **Straßenbahnmuseum Dresden e.V.**
 
 **Trachenberger Str. 38**

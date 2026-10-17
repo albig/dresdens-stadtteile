@@ -3,19 +3,6 @@ title: "Burgstädtel"
 date: 2024-02-17T22:13:46+01:00
 ---
 
-
-* * *
-
-
-
-[![](../../../west/omsewitz/hauptseiteomsewitz.jpg)](../../../west/omsewitz/)
-
-* * *
-
-
-
-
-
 ![](../../../west/omsewitz/burgstadtel/burgst_dtel.jpg)Burgstädtel entstand im Mittelalter als Vorwerk über dem Omsewitzer Grund
 und wurde 1317 erstmals als Herrengut Borchelage minor erwähnt. Zuvor befand sich hier bereits eine frühgeschichtliche Wehranlage, der der Ort seinen
 Namen verdankt. Im gleichen Jahr stiftete der Besitzer, der Archidiakon von Nisani, das Gut dem Meißner Dom. Eng verbunden war dieses Vorwerk mit dem benachbarten Bauerndorf [Omsewitz](../../../west/omsewitz/). Das Lehngut kam 1435 in den Besitz

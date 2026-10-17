@@ -7,22 +7,6 @@ date: 2024-02-17T22:13:47+01:00
 
 * * *
 
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../hauptseitefriedrichstadt.jpg)](../../../../zentrum/friedrichstadt/)
-
-* * *
-
 [![](../../../../zentrum/friedrichstadt/ostragehege/dsc/dsc.jpg)](http://www.dsc-fussball98.de)
 
 

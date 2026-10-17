@@ -3,20 +3,6 @@ title: "Haidebahn"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![haidebahn](haidebahn_nestimatebanner.gif)
-
-* * *
-
-
-
-[![](../../../nord/klotzsche/hauptseiteklotzsche.jpg)](../../../nord/klotzsche/)
-
-* * *
-
-
-
-
-
 * * *
 
 

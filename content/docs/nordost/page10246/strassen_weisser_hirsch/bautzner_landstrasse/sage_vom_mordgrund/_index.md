@@ -7,25 +7,6 @@ date: 2024-02-17T22:13:34+01:00
 
 * * *
 
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../../nordost/page10246/hauptseitewhirsch.jpg)](../../../../../nordost/page10246/)
-
-* * *
-
-
-
-
 **_Die Sage vom Mordgrund_**
 
 _Gegen Ende des 13. Jahrhunderts, als Markgraf Friedrich der Kleine_
@@ -78,10 +59,6 @@ _Wir werden noch verbunden in bessern Welten sein._
 Aus: Der Sagenschatz des Königreiches Sachsen, J. G. Th. Gräße, Dresden (1874)
 
 _\\*\\*\\*_
-
-* * *
-
-
 
 * * *
 

@@ -3,18 +3,6 @@ title: "Fichtepark"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-![fichtepark](fichtepark_nurbanlegendbannerh.gif)
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../hauptseiteplauen.jpg)](../../../sud/plauen/)
-
 * * *
 
 ![](../../../sud/plauen/fichtepark/fichteturm2.jpg)

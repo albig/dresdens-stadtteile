@@ -3,19 +3,6 @@ title: "Alttolkewitz"
 date: 2024-02-17T22:13:39+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../ost/tolkewitz/hauptseitetolkewitz.jpg)](../../../../ost/tolkewitz/)
-
-* * *
-
-
-
-
 ![](../../../../ost/tolkewitz/strassen_tolkewitz/alttolkewitz/tolkewitz2.jpg)Die Straße Alttolkewitz, eigentlich eine Verlängerung der Wehlener Straße, bildet den
 Kern des früheren Gassendorfes und wurde deshalb bis zur Eingemeindung des Ortes Hauptstraße genannt. Zu beiden Seiten standen einst die Gehöfte und Häusleranwesen des Dorfes. Größtes Tolkewitzer Gut war ursprünglich der Hof Alttolkewitz Nr. 5, der vermutlich mit dem Nachbargut Nr. 7 eine Einheit bildete und sich zeitweise im Besitz
 des Grafen Hoym befunden haben soll. In einem weiteren Bauerngut (Nr. 19) wohnte im 18. Jahrhundert der als Bauernastronom bekannt gewordene Zwirnhändler Christian Gärtner.

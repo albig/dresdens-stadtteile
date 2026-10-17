@@ -3,11 +3,6 @@ title: "Hofmuhlenstraße"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-![hofmühlenstraße](hofmuhlenstrasse_n1_banner2.gif)
-
-* * *
-
-
 * * *
 
 **Werbung ehemaliger Plauener Unternehmen**

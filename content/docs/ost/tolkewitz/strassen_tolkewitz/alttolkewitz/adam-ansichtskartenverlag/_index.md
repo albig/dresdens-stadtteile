@@ -3,19 +3,6 @@ title: "Adam-Ansichtskartenverlag"
 date: 2024-02-17T22:13:39+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../../ost/tolkewitz/hauptseitetolkewitz.jpg)](../../../../../ost/tolkewitz/)
-
-* * *
-
-
-
-
 ![](../../../../../ost/tolkewitz/strassen_tolkewitz/alttolkewitz/adam-ansichtskartenverlag/tolkewadam.jpg)Der Verlag A. & R. Adam wurde am 1. Juli 1912 von den Brüdern Arno und Rudolf
 Adam als Adam´s Kunstverlag gegründet und gehört bis heute zu den bedeutendsten Ansichtskartenverlagen in Sachsen. Erster Firmensitz war das Wohnhaus Am See 18, in
 welchem sich die Geschäfts- und Verkaufsräume befanden. 1919 verlegten die Inhaber ihren Verlag zur Annenstraße 26 und benannten ihn in A. & R. Adam um. Neben dem

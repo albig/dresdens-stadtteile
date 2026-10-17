@@ -7,24 +7,6 @@ date: 2024-02-17T22:13:32+01:00
 
 * * *
 
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../nordost/hauptseitehosterwitz.jpg)](../../../../nordost/hosterwitz/)
-
-* * *
-
-
-
 ![](../../../../nordost/hosterwitz/dresdner_strasse/sommervilla_/hosterwkglvilla1.jpg)Die Villa Dresdner Straße 149 entstand 1844 als Landhaus des Geheimen Rates Wolf
 Adolf August von Lüttichau, Generaldirektor der königlichen Kapelle und des Hoftheaters. 1864 erwarb Prinz Georg, Bruder des späteren Königs Albert, das
 Gebäude und nutzte es als Sommersitz seiner Familie. Neben der Königlichen Villa kamen im Laufe der Jahre noch mehrere Nebengebäude hinzu: ein Wirtschaftsgebäude,

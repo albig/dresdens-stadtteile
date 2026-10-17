@@ -3,19 +3,6 @@ title: "Tolkewitzer Straße"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![tolkewitzer straße](tolkewitzer_strasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseiteblasewitz.jpg)](../../../../ost/blasewitz/)
-
-* * *
-
-
-
-
 ![](../../../../ost/blasewitz/strassen_blasewitz/tolkewitzer_strasse/blasewtolkewstr.jpg)Die Tolkewitzer Straße verband den früheren Blasewitzer Dorfkern mit den östlich
 gelegenen Nachbargemeinden Tolkewitz und Laubegast. Auf Tolkewitzer Flur trug sie deshalb bis zur Eingemeindung des Ortes 1912 den Namen Blasewitzer Straße.
 Ab Mitte des 19. Jahrhunderts wurden auch hier repräsentative Villen, später Wohn- und Geschäftshäuser errichtet. So befand sich im Haus Tolkewitzer Straße 53 zeitweise der Sitz der renommierten [Pianofortefabrik Rosenkranz](../../../../zentrum/johannstadt/strassen_johannstadt/klavierbaufirma_rosenkranz/), bevor das

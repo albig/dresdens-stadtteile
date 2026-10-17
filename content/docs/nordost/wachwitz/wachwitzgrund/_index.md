@@ -3,23 +3,7 @@ title: "Wachwitzgrund"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![wachwitzgrund](wachwitzgrund_nurbanlegendbannerh.gif)
-
 * * *
-
-
-
-* * *
-
-
-
-[![](../../../nordost/hauptseitewachwitz.jpg)](../../../nordost/wachwitz/)
-
-* * *
-
-
-
-
 
 ![](../../../nordost/wachwitz/wachwitzgrund/wachwgrund.jpg)Der Wachwitzgrund gehört zu den romantischen rechten Seitentälern der Elbe und wird
 vom Gönnsdorfer Bach gebildet, der in der Nähe des Wachwitzer Dorfkerns in die Elbe mündet. Die Straße durch das Tal trug früher den Namen Rochwitzer Fußsteig bzw.

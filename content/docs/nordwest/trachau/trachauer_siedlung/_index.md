@@ -3,26 +3,7 @@ title: "Trachauer Siedlung"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![trachauer siedlung](trachauer_siedlung_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-[![](../../../hauptseitetrachau.jpg)](../../../nordwest/trachau/)
-
-* * *
-
-
-
 
 ![](../../../nordwest/trachau/trachaukopernikus2.jpg)Erste Planungen zum Bau einer genossenschaftlichen Wohnsiedlung auf Trachauer Flur kamen bereits kurz nach dem Ersten Weltkrieg auf. 1921 versuchte der Allgemeine Sächsische Siedlerverband (ASSV) Flächen an der Aachener und Schützenhofstraße zu erwerben, um hier Wohnungen für Kriegsheimkehrer zu errichten. Da die Stadt Dresden den Antrag jedoch ablehnte, musste man auf das Gelände an der dürren Heide ausweichen, wo schließlich die sogenannte [Kriegerheimsiedlung](../../../nordwest/trachau/strassen_trachau/schutzenhofstrasse/) gebaut werden konnte. 1923 entstand eine weitere Wohnanlage des Heimstättenvereins Damaschke-Siedlung zwischen Böttger- und Stephanstraße.
 

@@ -3,27 +3,7 @@ title: "Königliche Villa"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![königliche villa](konigliche_villa_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../sud/hauptseitestrehlen.jpg)](../../../sudost/strehlen/)
-
-* * *
-
-
 
 ![](../../../sudost/strehlen/konigliche_villa/strehlenroteshaus.jpg) Die Königliche Villa in Strehlen entstand im 19. Jahrhundert auf dem Gelände des früheren Roten Hauses, welches bis zur Neuordnung der königlichen Jagdbezirke 1850 Forsthaus und Sitz des Hegereiters war. Diesem Beamten oblag die Verwaltung und Betreuung des Rothhäuser Reviers, das einen Großteil des Dresdner Südraums einnahm. Gleichzeitig besaß der Hegereiter das Schankrecht und betrieb hier eine kleine Gastwirtschaft. Während der Schlacht bei Dresden im August 1813 hatte das Anwesen wegen seiner Lage strategische Bedeutung und wurde bei Kampfhandlungen schwer beschädigt. Nach Auflösung des Forstreviers verkaufte der Staat das Gebäude an einen Privatmann, der die Schankwirtschaft noch einige Jahre weiterführte _(Gemälde von 1867)_.
 

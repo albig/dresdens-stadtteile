@@ -3,24 +3,6 @@ title: "Lukaskirche"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![lukaskirche](lukaskirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../hauptseites_dvorstadt.jpg)](../../../../zentrum/sudvorstadt/)
-
 * * *
 
 ![lukaskirche  lukasplatz 01069 dresden tel. 0351/47698-0](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/lukaskirche/a_rectangle_1698.gif)

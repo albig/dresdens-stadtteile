@@ -3,24 +3,6 @@ title: "Lockwitzer Kirche"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![lockwitzer kirche](lockwitzer_kirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../hauptseitelockwitz.jpg)](../../../sudost/lockwitz/)
-
 * * *
 
 ![ev.-lutherische schlosskirchgemeinde dresden-lockwitz  tögelstr. 1 01257 dresden tel. 0351/2840302](../../../sudost/lockwitz/lockwitzer_kirche/a_rectangle_840.gif)

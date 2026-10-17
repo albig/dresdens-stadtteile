@@ -3,24 +3,6 @@ title: "Loschwitzer Kirche"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![loschwitzer kirche](loschwitzer_kirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../nordost/hauptseiteloschwitz.jpg)](../../../nordost/loschwitz/)
-
 * * *
 
 ![loschwitzer kirche pillnitzer landstr. 8 01326 dresden  tel. 0351/2150050](../../../nordost/loschwitz/loschwitzer_kirche/a_rectangle_271.gif)

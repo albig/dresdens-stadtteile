@@ -3,29 +3,7 @@ title: "Parkhotel"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![parkhotel](parkhotel_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../../nordost/page10246/hauptseitewhirsch.jpg)](../../../../../nordost/page10246/)
-
-* * *
-
-
-
-
 
 ![](../../../../../nordost/page10246/strassen_weisser_hirsch/bautzner_landstrasse/parkhotel/weihiparkh5.jpg)Vorgänger des Parkhotels war ein 1863 gegenüber dem Kurhaus entstandener neuer Gasthof, der den traditionsreichen Namen Weißer Hirsch übernahm und vom Pächter Ferdinand Gneuß bewirtschaftet wurde. Dieser war zuvor vom Besitzer des Gutes Weißer Hirsch zur Eröffnung ermutigt worden, da man sich so einen größeren Zustrom von Sommergästen erhoffte. Das Gebäude wurde von Theodor Lehnert entworfen und stieß wegen seiner architektonischen Gestaltung zunächst auf heftige Kritik. Um den neuen Gasthof entwickelten sich verschiedene Vergnügungseinrichtungen wie ein Hippodrom und ein Festplatz für verschiedene Veranstaltungen, aus dem später der heutige Kurpark hervorging. Ab 1883 befand sich dieser Gasthof im Besitz von Wilhelm Würffel. Da das Haus nach der Jahrhundertwende nicht mehr den Anforderungen genügten, wurde es um 1910 abgerissen.
 

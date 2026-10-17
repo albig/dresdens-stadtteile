@@ -3,27 +3,7 @@ title: "Heilstätte Loschwitz"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![heilstätte loschwitz](heilstatte_loschwitz_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../nordost/hauptseiteloschwitz.jpg)](../../../../nordost/loschwitz/)
-
-* * *
-
-
 
 ![](../../../../nordost/loschwitz/strassen_loschwitz/heilstatte_loschwitz/loschwheilst_tte2.jpg)Die Heilstätte Loschwitz entstand 1872 auf einem früheren Weinbergsgrundstück
 an der Wunderlichstraße 17. In diesem Jahr erwarb die Krankenpflegerin Marie Simon das Areal mit einem Winzerhaus von 1776 und ließ dieses zu einem Erholungsheim für Kriegsinvaliden umgestalten. Zuvor hatte sie als

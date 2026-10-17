@@ -1,15 +1,7 @@
 ---
-title: "Straßen Gompitz"
+title: "Straßen und Plätze in Gompitz"
 date: 2024-02-17T22:13:44+01:00
 ---
-
-![straßen und plätze in gompitz](strassen_gompitz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../sudwest/gompitz/pennrich/strassen_gompitz/hauptseitegompitz2.jpg)](../../../../sudwest/gompitz/)
 
 ![altgompitz](../../../../sudwest/gompitz/pennrich/strassen_gompitz/a_rectangle_426.gif)
 
@@ -125,7 +117,7 @@ Der bereits vor 1945 existierende Weg hieß früher Emil-Poldrack-Straße und wu
 
 Die als Holzmichelweg bezeichnete kurze Sackgasse führt vom Pennricher Feldrain als Zufahrtsstraße in ein kleines Wohngebiet, das nach 2000 südlich der Altnossener Straße entstand. Obwohl die Straße seit ca. 2013 in verschiedenen Stadtplänen verzeichnet ist und auch ein Straßenschild besitzt, ist sie im amtlichen Dresdner Straßenverzeichnis nicht enthalten.
 
-![hühndorfer weg](../../../../sudwest/gompitz/pennrich/strassen_gompitz/hühndorfer weg.jpg)
+![hühndorfer weg](../../../../sudwest/gompitz/pennrich/strassen_gompitz/hühndorfer_weg.jpg)
 
 Der Hühndorfer Weg im Norden des Ortsteils Unkersdorf verbindet diesen mit dem benachbarten Hühndorf, einem Ortsteil von Klipphausen. Die ursprünglich durchführende Verbindungsstraße wurde Mitte der 1990er Jahre durch den Bau der Autobahn A4 unterbrochen.
 

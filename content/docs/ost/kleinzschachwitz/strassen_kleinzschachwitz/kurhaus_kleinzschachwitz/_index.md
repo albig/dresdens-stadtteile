@@ -3,29 +3,7 @@ title: "Kurhaus Kleinzschachwitz"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![kurhaus kleinzschachwitz](kurhaus_kleinzschachwitz_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../ost/hauptseitekleinzschachwitz.jpg)](../../../../ost/kleinzschachwitz/)
-
-* * *
-
-
-
-
 
 ![](../../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/kurhaus_kleinzschachwitz/kleinzschkurhaus.jpg)Das Kurhaus Kleinzschachwitz entstand 1892 als Ausflugsgaststätte auf Neuzschierener Flur. Das im altdeutschen Fachwerkstil gestaltete Gebäude _(Fotos)_ soll der Überlieferung nach auf einer ehemaligen Schanze aus den Napoleonischen Kriegen errichtet worden sein, was jedoch historisch nicht belegbar ist. Erster Besitzer war der Gastwirt Oswald Hänsel, der die Innenräume mit Jagdgemälden und dazu passendem Inventar ausgestalten ließ. Im Obergeschoss des Hauptgebäudes waren einige Fremdenzimmer für Übernachtungsgäste untergebracht. Außerdem gab es einen Ballsaal für 300 Personen im Nebengebäude sowie einen großen Gästegarten.
 

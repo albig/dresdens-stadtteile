@@ -3,28 +3,7 @@ title: "Schillergarten"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![schillergarten](schillergarten_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../../hauptseiteblasewitz.jpg)](../../../../../ost/blasewitz/)
-
-* * *
-
-
-
 
 ![](../../../../../ost/blasewitz/strassen_blasewitz/schillerplatz/schillergarten/blasewgasthof.jpg)Der 1683 erstmals erwähnte Gasthof Blasewitz ging aus einem früheren Jagdhaus des sächsischen Kurfürsten hervor, welches im Vorwerk des Nikolaus Karasz eingerichtet wurde. Für wenige Jahre hatte hier der Hegereiter des Blasewitzer Reviers seinen Sitz. Doch bereits 1704 schenkte August der Starke das baufällige Gebäude seinem Stubenheizer Matthie und verlieh diesem die Schankgerechtigkeit. 1730 kam noch ein als Fähr- und Sommerschenke Blasewitz bezeichnetes Gartenlokal hinzu. Dieses befand sich ab 15. Juni 1764 im Besitz der Witwe Johanna Dorothea Segedin, die das Lokal aus einer Zwangsversteigerung erwarb und gemeinsam mit ihrem späteren Ehemann Carl Friedrich Fleischer als Fleischersches Schankgut bewirtschafte.
 

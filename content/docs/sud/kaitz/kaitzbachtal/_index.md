@@ -3,17 +3,7 @@ title: "Kaitzbachtal"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![kaitzbachtal](kaitzbachtal_nurbanlegendbannerh.gif)
-
 * * *
-
-
-
-* * *
-
-
-
-[![](../../../sud/kaitz/kaitzbachtal/hauptseitekaitz.jpg)](../../../sud/kaitz/)
 
 [![](../../../sud/kaitz/kaitzbachtal/hauptseitemockritz.jpg)](../../../sud/mockritz/)
 

@@ -1,15 +1,7 @@
 ---
-title: "Straßen Pieschen"
+title: "Straßen und Plätze in Pieschen"
 date: 2024-02-17T22:13:36+01:00
 ---
-
-![straßen und plätze in pieschen](strassen_pieschen_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../nordwest/pieschen/strassen_pieschen/hauptseitepieschen2.jpg)](../../../nordwest/pieschen/)
 
 [![altpieschen](../../../nordwest/pieschen/strassen_pieschen/a_rectangle_1329.gif)](../../../nordwest/pieschen/strassen_pieschen/altpieschen/)
 
@@ -83,7 +75,7 @@ Zwischen 1912 und 1914 errichtete an der Hans-Sachs- und der benachbarten [Marie
 
 ![heidestraße](a_rectangle_114.gif)
 
-![](../../../nordwest/pieschen/strassen_pieschen/piesch_heidestraße.jpg)![](../../../nordwest/pieschen/strassen_pieschen/werbung ebert.jpg)Die Heidestraße, Teil eines alten Verbindungsweges zwischen Pieschen und der Dresdner Heide, führt durch das Pieschener Fabrikviertel. 1879 hatte die damals noch selbstständige Gemeinde Pieschen das Areal zwischen Eisenbahn und Großenhainer Straße per Ortsgesetz als Industriegebiet ausgewiesen. Der in diesem Zusammenhang ausgebaute Weg erhielt 1886 den Namen Haidestraße. Seine westliche Verlängerung wurde zwischen 1892 und 1897 Moltkestraße genannt, bevor man den Abschnitt zwischen Riesaer und Großenhainer Straße ebenfals der Haidestraße zuordnete. 1906 wurde die Schreibweise in Heidestraße verändert.
+![](../../../nordwest/pieschen/strassen_pieschen/piesch_heidestraße.jpg)![](../../../nordwest/pieschen/strassen_pieschen/werbung_ebert.jpg)Die Heidestraße, Teil eines alten Verbindungsweges zwischen Pieschen und der Dresdner Heide, führt durch das Pieschener Fabrikviertel. 1879 hatte die damals noch selbstständige Gemeinde Pieschen das Areal zwischen Eisenbahn und Großenhainer Straße per Ortsgesetz als Industriegebiet ausgewiesen. Der in diesem Zusammenhang ausgebaute Weg erhielt 1886 den Namen Haidestraße. Seine westliche Verlängerung wurde zwischen 1892 und 1897 Moltkestraße genannt, bevor man den Abschnitt zwischen Riesaer und Großenhainer Straße ebenfals der Haidestraße zuordnete. 1906 wurde die Schreibweise in Heidestraße verändert.
 
 Ende des 19. Jahrhunderts begann in mehreren Abschnitten der Bau von Fabriken und anderen gewerblichen Unternehmungen. Zu diesen gehörte u.a. Königs Malzfabrik (Nr. 1-3), die Spezialfabrik elektrischer Maschinen vorm. Albert Ebert GmbH (Nr. 5 - _Bild rechts_) die Dresdner Wäschemanufaktur Grohmann und Senf (Nr. 36) und das "Goehle-Werk" der Zeiss-Ikon AG (Nr. 2-4 - _Foto links_). Im Eckhaus zur Großenhainer Straße (Nr. 15) befand sich um 1910 die Schankwirtschaft "Großenhainer Hof", später auch Kösters Gaststätte genannt. Ein Jahr später entstand die Kleingartensparte "Dorndorf e.V.", 1915 die Sparte "Heidegruß" mit Vereinsheim und 35 Gärten. Zu den jüngsten Gebäuden der Heidestraße gehören die städtische Kita "Haus der Kinder" (erbaut 2005) und eine weitere 2015 eröffnete Kindertagesstätte (Nr. 35).
 
@@ -101,7 +93,7 @@ Purotex (Nr. 36): Ursprünglich wurden die heute nicht mehr vorhandenen Gebäude
 
 Kleingartenverein Heidegruß: Die Gartensparte wurde 1915 auf private Initiative angelegt, um die Versorgung der Bevölkerung mit Lebensmitteln während des Ersten Weltkriegs zu verbessern. 1917 erhielten die Gärten Wasseranschluss. Nach Kriegsende schlossen sich die Pächter 1919 zu einem gemeinnützigen Verein zusammen, der den Namen Heidegruß erhielt. Das Spartenheim der Anlage entstand 1956.
 
-![hellerauer straße](../../../nordwest/pieschen/strassen_pieschen/hellerauer straße.jpg)
+![hellerauer straße](../../../nordwest/pieschen/strassen_pieschen/hellerauer_straße.jpg)
 
 Die Hellerauer Straße entstand Mitte der 1920er Jahre zur Erschließung eines Wohngebietes zwischen Boxdorfer und Hubertusstraße. Am 22. August 1929 erhielt sie nach dem im Norden der Stadt gelegenenen Ort Hellerau, seit 1950 Stadtteil von Dresden, ihren Namen. Die Wohnhäuser der Hellerauer Straße entstanden zwischen 1935 und 1936 nach Plänen von Paul Beck für den Dresdner Spar- und Bauverein.
 
@@ -145,7 +137,7 @@ Im Wohnhaus Konkordienplatz 1 gab es früher eine Gaststätte. In der Nr. 2 prod
 
 Die Bezeichnung erinnert an die 1577 von Kurfürst August verfasste kirchliche Concordienformel, die zur Eintracht in orthodoxer Rechtgläubigkeit aufrief und als Grundgesetz der lutherischen Lehre gilt. Mit dem Erlass sollte der nach Luthers Tod entstandene Konflikt zwischen streng lutherischen Gläubigen und den eher gemäßigten Anhängern Melanchtons beigelegt werden. Der Name wurde 1893 auch auf den angrenzenden Konkordienplatz sowie die 1875 errichtete, heute jedoch nicht mehr existierende Concordienbrücke über die Bahnanlagen übertragen.
 
-![](../../../nordwest/pieschen/strassen_pieschen/pieschenkonkordienstr30.jpg)![](../../../nordwest/pieschen/strassen_pieschen/werbung spörke.jpg)Im letzten Drittel des 19. Jahrhunderts begann die Bebauung der Konkordienstraße mit meist mehrgeschossigen Wohn- und Geschäftshäusern. In vielen dieser Gebäude und in den Hinterhöfen gab es kleine Läden, Handwerksbetriebe, Werkstätten, Kohlenhändler und Gaststätten. In der Nr. 48 befand sich im früheren Lokal Zum Turnergarten bis 1933 das Parteihaus der KPD im Dresdner Nordwesten, welches nach der nationalsozialistischen Machtübernahme als Braunes Haus Sitz der NSDAP-Ortsgruppe wurde. Um 1900 war die 1898 von Max Kirchhof gegründete Gaststätte als "Kirchhofs Restaurant zum Lindengarten" bekannt. Weitere Gaststätten gab es mit der Concordia auf der Konkordienstraße 4 und dem Lokal "Zum Freischütz" in der Nr. 38. Das Foto (links) zeigt das Haus Konkordienstraße 30, um 1910 Gartenrestauration von Oswald Schulze
+![](../../../nordwest/pieschen/strassen_pieschen/pieschenkonkordienstr30.jpg)![](../../../nordwest/pieschen/strassen_pieschen/werbung_spörke.jpg)Im letzten Drittel des 19. Jahrhunderts begann die Bebauung der Konkordienstraße mit meist mehrgeschossigen Wohn- und Geschäftshäusern. In vielen dieser Gebäude und in den Hinterhöfen gab es kleine Läden, Handwerksbetriebe, Werkstätten, Kohlenhändler und Gaststätten. In der Nr. 48 befand sich im früheren Lokal Zum Turnergarten bis 1933 das Parteihaus der KPD im Dresdner Nordwesten, welches nach der nationalsozialistischen Machtübernahme als Braunes Haus Sitz der NSDAP-Ortsgruppe wurde. Um 1900 war die 1898 von Max Kirchhof gegründete Gaststätte als "Kirchhofs Restaurant zum Lindengarten" bekannt. Weitere Gaststätten gab es mit der Concordia auf der Konkordienstraße 4 und dem Lokal "Zum Freischütz" in der Nr. 38. Das Foto (links) zeigt das Haus Konkordienstraße 30, um 1910 Gartenrestauration von Oswald Schulze
 
 ![](../../../nordwest/pieschen/strassen_pieschen/piesch_concordia.jpg)1880/81 entstand auf dem Grundstück Konkordienstraße 12 das Schulhaus der VIII. Bezirksschule (heute [8\. Grundschule)](../../../neustadt/leipziger_vorstadt/neudorf/). Ab 1894 befand sich auf der Konkordienstraße auch der erste Sitz der Dresdner Konsumgenossenschaft. Beim letzten Bombenangriff auf Dresden im April 1945 wurden mehrere Häuser der Konkordienstraße, darunter die Schulturnhalle, zerstört. In jüngerer Vergangenheit wurden diese Baulücken durch Neubauten ersetzt. In unmittelbarer Nachbarschaft der Kleingartensparte "Concordia" öffnete am 18. August 2014 eine gleichnamige Kita mit 114 Plätzen (Nr. 3 - _Foto_).
 
@@ -153,7 +145,7 @@ Kleingartenverein Concordia: Die Gartensparte wurde als eine der ersten in D
 
 [![leipziger straße](../../../a_rectangle_102.gif)](../../../neustadt/leipziger_vorstadt/leipziger_strasse/)
 
-![leisniger platz](../../../nordwest/pieschen/strassen_pieschen/leisniger platz.jpg)
+![leisniger platz](../../../nordwest/pieschen/strassen_pieschen/leisniger_platz.jpg)
 
 ![](../../../nordwest/pieschen/strassen_pieschen/piesch_moltkeeiche.jpg)Der Leisniger Platz entstand im Zuge des Ausbaus der Vorstadt Striesen und erhielt aus Anlass des 80. Geburtstag Helmuth Graf von Moltkes am 26. Oktober 1880 zunächst den Namen Moltkeplatz. Verbunden war die Namensweihe mit der Pflanzung einer "Moltke-Eiche" im Zentrum der dreieckigen Grünanlage _(Foto rechts)_. Helmuth Karl Bernhard Graf von Moltke (1800-1891) nahm als preußischer Generalfeldmarschall am Deutsch-Französischen Krieg teil und erwarb sich als strategischer Leiter militärische Verdienste. Bereits im Juli 1871 hatte er die Dresdner Ehrenbürgerwürde erhalten. Da es in Dresden jedoch bereits einen Moltkeplatz in der Südvorstadt gab, erfolgte nach der Eingemeindung Pieschens am 1. Juli 1897 die Umbennung in Leisniger Platz. Die benachbarte Ringstraße erhielt den Namen Leisniger Straße. Namensgeber ist die mittelsächsische Kleinstadt Leisnig an der Mulde.
 
@@ -179,7 +171,7 @@ Anfang der 1950er Jahre begannen die Turniertänzer Werner und Elfriede Graf, ih
 
 ![](../../../nordwest/pieschen/strassen_pieschen/mosaik_odorico.jpg)Baufirma Johann Odorico (Nr. 74): Das Unternehmen, das seinen Standort unmittelbar neben der Katholischen Volksschule hatte, wurde Ende des 19. Jahrhunderts gegründet. Firmengründer war der aus dem italienischen Friaul (andere Quellen nennen Österreich) stammende Mosaikgestalter Johann Odorico. Ab 1890 entstanden in verschiedenen Orten Zweigbetriebe, u.a. in Berlin, München und in Dresden, wo sich der Sitz zunächst auf der Kurfürstenstraße 28, ab 1894 auf der Bautzner Straße 9 befand. Eine besondere Spezialität von Odorico war das Verlegen von Mosaik- und Terrazzofußböden. Bedeutende Mosaikarbeiten haben sich bis heute in der Eingangshalle des Hauptbahnhofes Eisenach und aus dem "Minnesängersaal" des renommierten Berliner "Bayernhofes" in der Nähe des Potsdamer Platzes erhalten. Das 1975 aus der Ruine des Lokals geborgene Glasmosaik ist heute im U-Bahnhof Richard-Wagner-Straße zu sehen _(Foto links / Wikipedia - Axel Mauruszat)_. Beteiligt war Odorico auch bei der Ausgestaltung des Berliner Doms und der Münchner Maximilians-Universität.
 
-![](../../../nordwest/pieschen/strassen_pieschen/werbung odorico.jpg)Spätestens mit der Verlagerung zur Leisniger Straße 74 im Jahr 1900 befand sich die Dresdner Niederlassung im Besitz des Ingenieurs Hermann Richard Wortmann. Der auch weiterhin als Fabrik für Mosaik-, Terrazzo und Cementausführung firmierende Betrieb gehörte wenig spätern zu den Wegbereitern des modernen Eisenbetonbaus und war an zahlreichen Bauprojekten in ganz Deutschland beteiligt. U.a. errichtete man Brücken, Werkshallen, Hochbauten für den Eisenbahnbetrieb und ähnliche Bauwerke. Dabei wurden sowohl Hoch- als auch Tiefbauaufträge übernommen.
+![](../../../nordwest/pieschen/strassen_pieschen/werbung_odorico.jpg)Spätestens mit der Verlagerung zur Leisniger Straße 74 im Jahr 1900 befand sich die Dresdner Niederlassung im Besitz des Ingenieurs Hermann Richard Wortmann. Der auch weiterhin als Fabrik für Mosaik-, Terrazzo und Cementausführung firmierende Betrieb gehörte wenig spätern zu den Wegbereitern des modernen Eisenbetonbaus und war an zahlreichen Bauprojekten in ganz Deutschland beteiligt. U.a. errichtete man Brücken, Werkshallen, Hochbauten für den Eisenbahnbetrieb und ähnliche Bauwerke. Dabei wurden sowohl Hoch- als auch Tiefbauaufträge übernommen.
 
 Im Dresdner Raum war die nach dem Ersten Weltkrieg in eine GmbH umgewandelte Firma Johann Odorico u.a. am Bau des Wasserturms und des Hochbehälters Niederlößnitz und an den Hochbauten der Eisenbahnstrecke Bühlau - Dürrröhrsdorf beteiligt, für die man die Gesamtleitung übernahm. Auch das AOK-Gebäude am Sternplatz, die Hafenmühle, die Nesselgrundbrücke und mehrere Eisenbahnbrücken der Strecke Löbau-Zittau stammen vom Pieschener Unternehmen. Mit dem Tod Wortmanns um 1920/21 ging die Firma in den Besitz seiner Witwe über und stellte Anfang der 1930er Jahre ihre Tätigkeit ein. Der Aufriss (links) zeigt den Wasserturm im Radebeuler Ortsteil Niederlößnitz.
 
@@ -207,7 +199,7 @@ _und das Pfarrhaus der Markuskirche (rechts)_
 
 ![](../../../nordwest/pieschen/strassen_pieschen/piesch_mohnstr1.jpg)Mit ihren zahlreichen Mietshäusern der Gründerzeit gehört die Mohnstraße heute zu den typischen Beispielen der nach 1880 entstandenen Bebauung der Vorstadt _(Foto rechts: Nr. 35)_. Neben Arbeiterwohnungen und kleinen Werkstätten in den Hinterhöfen gab es hier einst verschiedene Lokale und Läden. So ist im Eckhaus Nr. 1 _(Foto links)_ bereits 1898 die Schankwirtschaft "Adolphs Restaurant" erwähnt, die später unter dem Namen "Pieschener Vereinshaus" Treffpunkt örtlicher Vereine war. Zu DDR-Zeiten setzte das "Klubhaus der Werktätigen" diese Tradition fort, bevor nach 1990 der Kinder- und Jugendtreff "M 1" einzog. Nach dessen Umzug zur Bürgerstraße 68 ("Emmers") dienten die einstigen Gasträume noch einige Jahre als Künstleratelier. Eine weitere Gaststätte gab es auf der Mohnstraße 15, die unter dem Namen "Mohnklause" bzw. als "Pilsner Bierbar" noch bis nach 1990 existierte. Ab 1996 war hier das Lokal "Zum Stallknecht"ansässig.
 
-![](../../../nordwest/pieschen/strassen_pieschen/werbung hess.jpg)
+![](../../../nordwest/pieschen/strassen_pieschen/werbung_hess.jpg)
 
 Von den einstigen Handwerksbetriebe soll hier die um 1900 erstmals genannte Böttcherei Eduard Stockmann erwähnt werden (Nr. 13). Zwischen 1910 und 1934 betrieb der Hauseigentümer Paul Richter im gleichen Gebäude einen Handwagenverleih. Nach dessen Verkauf an Böttchermeister Fritz Knippe firmierte das Unternehmen als "Pieschener Böttcherei" und existierte noch bis ca. 1960. Knippes Sohn Karlheinz Knippe wechselte nach der Schließung zur PGH "Sachsenfaß". Im Hintergebäude Mohnstraße 24-26 besaß Adolf Hess ab 1898 eine Fabrik für Gießereimodelle, die später als "Adolf Hess & Sohn Modellfabrik" firmierte und nach 1945 als Abteilung Modellbau Betriebsteil des [VEB Eisenhammerwerk Dölzschen](../../../sud/plauen/plauenscher_grund/eisenhammerwerk/) war. Architektonisch interessant ist das benachbarte frühere Wohnhaus des Diakons der Markuskirche mit Reliefbüsten von Martin Luther und Philipp Melanchthon an der Fassade (Nr. 28). Vor dem Ersten Weltkrieg gab es im Haus ein evangelisches Jungfrauenheim und im Erdgeschoss den Konfirmandensaal der Kirche.
 
@@ -254,7 +246,7 @@ Zweites größeres Unternehmen war die Malzfabrik Woldemar Schmidt AG an der Rie
 
 ![](../../../nordwest/pieschen/strassen_pieschen/werbung_malzfabrik2.jpg)
 
-![](../../../nordwest/pieschen/strassen_pieschen/werbung sachsenverlag.jpg)Neben den genannten Gewerbegebäuden gibt es an der Riesaer Straße auch eine Reihe von Wohnhäusern verschiedener Zeitepochen. 1913 entstand an der Einmündung der Zeithainer Straße eine von Theodor Richter entworfene Wohnanlage für den Kleinwohnungs-Bauverein (Nr. 26-30). Wenig später folgten die Wohnhäuser Nr. 54-56 für den Gemeinnützigen Bauverein Dresden. Im Eckhaus zur Barbarastraße (Nr. 58) gab es seit ca. 1900 die Gaststätte "Barbaraschänke" und auf dem Grundstück Nr. 62 befindet sich seit 1928 die Kleingartensparte "Schrebergruß" mit 41 Gärten.
+![](../../../nordwest/pieschen/strassen_pieschen/werbung_sachsenverlag.jpg)Neben den genannten Gewerbegebäuden gibt es an der Riesaer Straße auch eine Reihe von Wohnhäusern verschiedener Zeitepochen. 1913 entstand an der Einmündung der Zeithainer Straße eine von Theodor Richter entworfene Wohnanlage für den Kleinwohnungs-Bauverein (Nr. 26-30). Wenig später folgten die Wohnhäuser Nr. 54-56 für den Gemeinnützigen Bauverein Dresden. Im Eckhaus zur Barbarastraße (Nr. 58) gab es seit ca. 1900 die Gaststätte "Barbaraschänke" und auf dem Grundstück Nr. 62 befindet sich seit 1928 die Kleingartensparte "Schrebergruß" mit 41 Gärten.
 
 Sachsenverlag (Nr. 32): Die Sachsenverlag Druckerei- und Verlagsgesellschaft mbH wurde 1947 im Komplex des sogenannten "Goehle-Werkes" gegründet, in dem nach dem Zweiten Weltkrieg auch die "Sächsische Zeitung" beheimatet war. Der ausgedehnte Gebäudekomplex erstreckt sich zwischen Großenhainer, Heide- und Riesaer Straße und dient heute als Kulturzentrum "Zentralwerk e.V." und Gründerzentrum. Erstes Buch des neuen Verlags war die von Paul W. Eisold verfasste Dokumentation "Hitler wie er wirklich war" über den Aufstieg und die Verbrechen der Nationalsozialisten. Später konzentrierte man sich vor allem auf heimatkundliche Bücher und Kunstbände, von denen u.a. Fritz Löfflers "Das alte Dresden" bekannt geworden ist. Hinzu kamen belletristische Titel und Kinderbücher. 1962 wurde der Sachsenverlag aufgelöst.
 
@@ -296,7 +288,7 @@ Hier befand sich einst auch der alte Pieschener Dorfgasthof (Nr. 38), der Ende d
 
 1925 übernahm die 1894 gegründete Maschinenfabrik Richard Krautwald die Räume und nutzte diese für ihre Produktion. Das traditionsreiche Unternehmen stellte im früheren Ballsaal u. a. Verpackungsmaschinen für Papier und Kartonagen sowie für die Herstellung von Papptellern für den Imbißverkauf her. 1972 wurde der Betrieb verstaatlicht und als VEB Sondermaschinenbau KARTOPLAST weitergeführt. Erst 1990 erhielten die Alteigentümer ihre Firma zurück und übergaben diese 2004 an eine neue Geschäftsführung. Zwei Jahre später musste der Betrieb jedoch Insolvenz anmelden. Danach stand das Gebäude leer. 2011/12 nutzte es eine Pieschener Kulturinitiative als Ausstellungs- und Veranstaltungsort. Wenig später erfolgte gemeinsam mit dem benachbarten Haus Torgauer Straße 40 der Umbau des Hauptgebäudes zu Wohnungen. Der frühere Ballsaal wurde 2012 zugunsten einer kleinen Reihenhausanlage abgerissen.
 
-![trachauer heideweg](../../../nordwest/pieschen/strassen_pieschen/trachauer heideweg.jpg)
+![trachauer heideweg](../../../nordwest/pieschen/strassen_pieschen/trachauer_heideweg.jpg)
 
 Der Trachauer Heideweg ist bereits um 1900 als namenloser Weg in den Stadtplänen verzeichnet und verband den Trachauer Dorfkern mit der Dresdner Heide. Inoffiziell wurde er von den Anwohnern Haideweg genannt. 1904 erhielt der auf Trachauer und Pieschener Flur gelegene westliche Abschnitt bis zur Großenhainer Straße den Namen Boxdorfer Straße. Für den unbebauten Teil, der größtenteils durch eine Kleingartenanlage führt, entstand nach dem Ersten Weltkrieg die Bezeichnung Trachauer Heideweg.
 
@@ -326,7 +318,7 @@ Nach dem Ersten Weltkrieg wurde eine weitere Halle (Halle D) durch das Elbtal-Ei
 
 Trachenberger Hof (Nr. 51): Auch im nördlichen Abschnitt der Trachenberger Straße gab es früher verschiedene Geschäfte und kleine Lokale. So befand sich im Eckhaus zur Kleiststraße (Nr. 33) früher die Schankwirtschaft "Zum Straßenbahnhof". Das unter Denkmalschutz stehende Eckhaus zur Seumestraße (Nr. 51) beherbergte seit 1900 bis nach 1990 die Gaststätte "Trachenberger Hof". Später zog hier ein griechisches Restaurant ein.
 
-![volkersdorfer straße](../../../nordwest/pieschen/strassen_pieschen/volkersdorfer straße.jpg)
+![volkersdorfer straße](../../../nordwest/pieschen/strassen_pieschen/volkersdorfer_straße.jpg)
 
 ![](../../../nordwest/pieschen/strassen_pieschen/piesch_volkersdorferstr.jpg)Die Volkersdorfer Straße entstand Anfang des 20. Jahrhunderts am Nordrand des St.-Markus-Friedhofs und wurde am 19. Dezember 1907 nach dem heutigen Radeburger Ortsteil Volkersdorf benannt. Anfangs blieb sie jedoch unbebaut. Erst zwischen 1929 u 1931 ließ hier der Dresdner Spar- und Bauverein eine größere Wohnanlage errichten _(Foto)_. Ein Großteil dieser Gebäude (Nr. 12-27) wurde von Paul Beck entworfen. Die etwas später vollendeten Häuser an der östlichen Seite der Hellerauer Straße stammen von Willimartin Romberger.
 
@@ -350,7 +342,7 @@ _Ärztehaus genutzte ehemalige Bürgerschule (rechts)_
 
 ![](../../../nordwest/pieschen/strassen_pieschen/piesch_sportplatz.jpg)Sportplatz: Nach dem Ersten Weltkrieg legten Pieschener Arbeitersportler an der Wurzener Straße einen Turn- und Spielplatz an, auf dem bis 1933 Fußballspiele, Leichtathletik-Wettkämpfe sowie Massenturnübungen stattfanden. Hauptnutzer des Sportplatzes mit ca. 2000 Zuschauerplätzen war der Pieschener Arbeitersportverein 01. Nach 1945 hieß die Sportstätte nach einem kommunistischen Arbeiterfunktionär "Rudi-Pinkert-Stadion" und war Betriebssportplatz des Transformatoren- und Röntgenwerkes. Nach 1990 erfolgten einige Modernisierungen. Heute finden hier die Heimspiele der Frauen-Fußballmannschaft des FFC Fortuna Dresden-Rähnitz statt.
 
-![zeithainer straße](../../../nordwest/pieschen/strassen_pieschen/zeithainer straße.jpg)
+![zeithainer straße](../../../nordwest/pieschen/strassen_pieschen/zeithainer_straße.jpg)
 
 Die Zeithainer Straße wurde 1910 zur Erschließung des Gebietes zwischen Riesaer, Heide- und Großenhainer Straße als Planstraße J angelegt. Am 8. April 1913 erhielt sie ihren Namen nach dem Ort Zeithain bei Riesa. In den 1960er Jahren wurde sie bis zur Eschebachstraße verlängert. Die ersten Häuser an der Zeithainer Straße entstanden um 1913 für den Kleinwohnungs-Bauverein Dresden (Nr. 11).
 

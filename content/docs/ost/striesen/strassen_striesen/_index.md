@@ -1,15 +1,7 @@
 ---
-title: "Straßen Striesen"
+title: "Straßen und Plätze in Striesen"
 date: 2024-02-17T22:13:39+01:00
 ---
-
-![straßen und plätze in striesen](strassen_striesen_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../ost/striesen/strassen_striesen/hauptseitestriesen2.jpg)](../../../ost/striesen/)
 
 ![alemannenstraße](../../../ost/striesen/strassen_striesen/a_rectangle_1399.gif)
 
@@ -61,7 +53,7 @@ _Kontoristin, Funktionär der kommunistischen Kinder-, Jugend- und Frauenorganis
 
 ![](../../../ost/striesen/strassen_striesen/striesensachsenhof.jpg)Hotel Sachsenhof: Um 1900 gab es in einem der Gebäude das Hotel Sachsenhof(Barbarossaplatz 1). Das 1899 erbaute Haus befand sich im Eigentum der DREWAG, die nach dem Ersten Weltkrieg in den früheren Gasträumen im Erdgeschoss eine Gaswache einrichtete. Zwischen 1933 und 1945 hatte hier außerdem die Ortsgruppe Barbarossa der NSDAP ihren Sitz. Nach 1990 wurden diese Räumlichkeiten zeitweise vom Verein Lebenshilfe e.V. genutzt. Die oberen Etagen dienen seit Einstellung des Hotelbetriebes Wohnzwecken.
 
-[![bärensteiner straße](../../../ost/striesen/strassen_striesen/bärensteiner strasse.jpg)](../../../ost/striesen/strassen_striesen/bärensteiner_strasse/)
+[![bärensteiner straße](../../../ost/striesen/strassen_striesen/bärensteiner_strasse.jpg)](../../../ost/striesen/strassen_striesen/bärensteiner_strasse/)
 
 ![behrischstraße](a_rectangle_872.gif)
 
@@ -166,7 +158,7 @@ ICA-Werk: Der Gebäudekomplex an der Glashütter Straße 101/101a entstand 1936/
 
 Kleingartenverein Blumenau: Die Gartensparte wurde 1923 auf dem Gelände einer ehemaligen Kiesgrube an der Glashütter Straße angelegt. 1945 fielen fast alle Lauben dem Luftangriff zum Opfer. Das Gelände wurde in der Folgezeit als Trümmerkippe genutzt und war durch eine Feldbahn mit der Innenstadt verbunden. Erst Anfang der 1950er Jahre konnten die ersten Gärten wieder genutzt werden.
 
-![gottleubaer straße](../../../ost/striesen/strassen_striesen/gottleubaer straße.jpg)
+![gottleubaer straße](../../../ost/striesen/strassen_striesen/gottleubaer_straße.jpg)
 
 Die Gottleubaer Straße wurde 1903 nach der Stadt Bad Gottleuba benannt. Der Kurort im Osterzgebirge ist heute ein Ortsteil von Bad Gottleuba-Berggießhübel. An der Gottleubaer Straße liegt der [Striesener Friedhof](../../../ost/striesen/striesener_friedhof/).
 
@@ -330,7 +322,7 @@ gehörte seit 1911 zum Bestand des Stadtmuseums. 1993 wurde er in der Nähe sein
 
 
 
-![](../../../ost/striesen/strassen_striesen/mansfelder straße.jpg)
+![](../../../ost/striesen/strassen_striesen/mansfelder_straße.jpg)
 
 Die vor dem Ersten Weltkrieg angelegte Planstraße N1 erhielt auf Beschluss des Stadtrates vom 5. Juni 1912 zunächst den Namen Arnstaedtstraße. Namensgeber war der Bankier und königlich-sächsische Kommerzienrat Georg Wilhelm Arnstaedt (1844-1911), der viele Jahre Direktor der Dresdner Bank war. Zudem engagierte er sich auf sozialem Gebiet und war Initiator mehrerer gemeinnütziger Stiftungen. Ursprünglich erstreckte sich die Straße nur zwischen Stresemannplatz und Bertolt-Brecht-Allee, wurde jedoch in den 1930er Jahren bis zur Bergmannstraße verlängert. Allerdings kam es nicht zu einer durchgängigen Verkehrsführung, so dass die Arnstaedtstraße bis 2015 durch ein Gärtnereigelände unterbrochen war und aus zwei Abschnitten bestand.
 

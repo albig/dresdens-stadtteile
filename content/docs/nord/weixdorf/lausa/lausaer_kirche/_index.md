@@ -3,24 +3,6 @@ title: "Lausaer Kirche"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![lausaer kirche](lausaer_kirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../nord/weixdorf/lausa/hauptseiteweixdorf.jpg)](../../../../nord/weixdorf/)
-
 * * *
 
 ![](../../../../nord/weixdorf/lausa/lausaer_kirche/kirchgemeinde_weixdorf-lausa.jpg)

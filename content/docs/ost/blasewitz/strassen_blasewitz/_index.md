@@ -1,15 +1,7 @@
 ---
-title: "Straßen Blasewitz"
+title: "Straßen und Plätze in Blasewitz"
 date: 2024-02-17T22:13:37+01:00
 ---
-
-![straßen und plätze in blasewitz](strassen_blasewitz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../ost/blasewitz/strassen_blasewitz/hauptseiteblasewitz2.jpg)](../../../ost/blasewitz/)
 
 ![angelsteg](../../../ost/blasewitz/strassen_blasewitz/angelsteg.jpg)
 

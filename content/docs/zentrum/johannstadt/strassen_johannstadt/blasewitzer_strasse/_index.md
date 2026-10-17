@@ -3,18 +3,6 @@ title: "Blasewitzer Straße"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![blasewitzer straße](blasewitzer_strasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseitejohannstadt.jpg)](../../../../zentrum/johannstadt/)
-
-* * *
-
-
-
 Die Blasewitzer Straße gehört zu den ältesten Verkehrsverbindungen der Johannstadt und verband bereits im 18. Jahrhundert Dresden mit dem benachbarten Dorf Blasewitz. Ihren Ausgangspunkt nahm sie am
 Ziegelschlag in der Nähe des Eliasfriedhofes und durchquerte anschließend das Waldgebiet des heute fast völlig verschwundenen [Blasewitzer Tännichts](../../../../ost/). Eine Gabelung gab es am
 heutigen Trinitatisplatz, woraus die 1850 erstmals offiziell benannte Blasewitzer Straße sowie die heutige Fiedlerstraße (ab 1880 Trinitatisstraße) hervorgingen. Am 25. September 1872 fuhr hier die erste Dresdner

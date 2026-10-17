@@ -1,15 +1,7 @@
 ---
-title: "Straßen Mobschatz"
+title: "Straßen und Plätze in Mobschatz und den Ortsteilen"
 date: 2024-02-17T22:13:46+01:00
 ---
-
-![straßen und plätze in mobschatz und den ortsteilen](strassen_mobschatz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../west/mobschatz/leuteritz/strassen_mobschatz/hauptseitemobschatz2.jpg)](../../../../west/mobschatz/)
 
 ![altmobschatz](a_rectangle_306.gif)
 

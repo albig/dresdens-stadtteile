@@ -3,24 +3,6 @@ title: "Schloss Schönfeld"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![schloss schönfeld](schloss_schonfeld_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../nordost/schonfeld-weissig/schonfeld/hauptseitesch_nfeld.jpg)](../../../../nordost/schonfeld-weissig/schonfeld/)
-
 * * *
 
 [![](sachsens-schl_sser_klein.jpg)](http://www.sachsens-schlösser.de)

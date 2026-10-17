@@ -3,16 +3,6 @@ title: "Melitta"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../../hauptseitetrachau.jpg)](../../../../../nordwest/trachau/)
-
-* * *
-
 ![](../../../../../nordwest/trachau/strassen_trachau/wilder-mann-strasse/melitta/trachaumelitta3.jpg)
 
 **Melitta Bentz**

@@ -3,31 +3,13 @@ title: "Operettentheater"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![operettentheater](operettentheater_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../ost/leuben/hauptseiteleuben.jpg)](../../../ost/leuben/)
-
 * * *
 
 **Homepage der Staatsoperette:**
 
 [![](../../../ost/leuben/operettentheater/operette.jpg)](http://www.operettentheater-dresden.de)
 
-![](../../../ost/leuben/operettentheater/adresse operette.jpg)
+![](../../../ost/leuben/operettentheater/adresse_operette.jpg)
 
 * * *
 

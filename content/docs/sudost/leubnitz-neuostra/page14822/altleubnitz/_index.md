@@ -3,18 +3,6 @@ title: "Altleubnitz"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![altleubnitz](altleubnitz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseiteleubnitz.jpg)](../../../../sudost/leubnitz-neuostra/)
-
-* * *
-
-
-
 ![](../../../../sudost/leubnitz-neuostra/page14822/altleubnitz/altleubnitz1.jpg)Altleubnitz bildet den Dorfkern des früheren Bauerndorfes und besitzt zahlreiche historische Bauerngüter, die heute unter Denkmalschutz stehen. Bemerkenswert sind der frühere Pfarrhof (Nr. 1) aus dem 16. Jahrhundert sowie die Dreiseithöfe Altleubnitz Nr. 9, 11, 31 und 38 mit beeindruckenden Toranlagen. Neben diesen Bauernhöfen sind auch einige Häusleranwesen erhalten, die noch gut die ehemalige soziale Struktur des Dorfes verdeutlichen. Im Haus Nr. 2 befand sich früher die Dorfschmiede (erbaut 1717) und im Gebäude Nr. 14 die einstige Mühle. Wichtigstes historisches Gebäude ist jedoch das 1994 nach historischem Vorbild wiederaufgebaute Steinerne Haus des ehemaligen [Klosterhofes](../../../../sudost/leubnitz-neuostra/klosterhof/) (Nr. 12). Heute wird es als Hotel mit öffentlicher Gaststätte genutzt. Eine weitere historische Gaststätte mit über 100-jähriger Geschichte befindet sich mit der Leubnitzer Höhe in Altleubnitz Nr. 32.
 
 Ursprünglich wurde die im alten Ortskern verlaufende Straße Dorfstraße genannt. Nach dem Zusammenschluss von Leubnitz und Neuostra erfolgte 1898 die Umbenennung in Leubnitzer Straße. Seit 1926 ist die Straße unter dem heutigen Namen Altleubnitz in den Stadtplänen verzeichnet.

@@ -3,24 +3,6 @@ title: "Christuskirche"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![christuskirche](christuskirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../sud/hauptseitestrehlen.jpg)](../../../sudost/strehlen/)
-
 * * *
 
 ![christuskirche dresden-strehlen  elsa-brändström-str. 1 01219 dresden  tel. 0351/710330](../../../sudost/strehlen/christuskirche/a_rectangle_776.gif)

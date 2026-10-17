@@ -3,17 +3,6 @@ title: "Gleina"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-
-* * *
-
-
-
-[![](../../../hauptseitekaditz.jpg)](../../../nordwest/kaditz/)
-
-* * *
-
-
-
 ![](../../../nordwest/kaditz/gleina/gleina.jpg)Das Dorf Gleina lag einst zwischen Trachau und Serkowitz in der Nähe der heutigen
 Autobahnauffahrt Dresden-Neustadt. 1250 wurde der Ort erstmals urkundlich als Glina erwähnt. Der Name leitet sich vom slawischen Wort für Lehm her, was auf die
 hiesige Bodenbeschaffenheit hindeutet. Das kleine Dorf bestand nur aus wenigen Gehöften und besaß insgesamt sieben Hufen Land. Unterstellt war die Siedlung dem

@@ -3,18 +3,6 @@ title: "Schandauer Straße"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![schandauer straße](schandauer_strasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../ost/striesen/hauptseitestriesen.jpg)](../../../../ost/striesen/)
-
-* * *
-
-
-
 Die heutige Schandauer Straße geht auf einen alten Fahrweg zurück, der von der Dresdner Innenstadt durch Felder und Wiesen nach Pillnitz führte und dabei auch den alten Dorfkern von Striesen berührte. Erst 1765-68 erhielt er seinen heutigen Verlauf. Grund waren die engen und oft schmutzigen Straßen im Ort, die von den Wettinern auf ihren Reisen zum Pillnitzer Schloss gemieden werden sollten. Bis heute ist diese Straßenverlegung in einem Knick im Straßenverlauf erkennbar.
 
 Im 19. Jahrhundert erfolgte der Ausbau dieser Straße, an der nach 1880 zahlreiche Gewerbebetriebe, aber auch Wohnhäuser entstanden. 1884 fuhr zum ersten Mal eine Pferdestraßenbahn nach Striesen. Zum Unterstellen der Pferde entstand an der Ecke Geisinger Straße ein Straßenbahnhof mit Hallen und Stallgebäude. 1901 wurde die Straßenbahnlinie elektrifiziert, wodurch dieser Straßenbahnhof überflüssig wurde. Die Gebäude wurden nun in eine Reparaturwerkstatt für Automobile umgewandelt, deren Nachfolger heute ein Kfz-Handel ist.

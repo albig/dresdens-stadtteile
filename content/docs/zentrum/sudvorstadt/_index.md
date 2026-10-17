@@ -3,13 +3,6 @@ title: "Südvorstadt"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-
-* * *
-
-[![](../../nachbarn.jpg)](../../zentrum/)
-
-* * *
-
 ![](../../zentrum/sudvorstadt/s_dvfeldschl_sschen.jpg)Das Areal der späteren Südvorstadt war bis zur Mitte des 19. Jahrhundert
 kaum besiedelt und wurde vor allem landwirtschaftlich genutzt. Im Mittelalter gab es hier die beiden Dörfer [Auswik und Boskau](../../zentrum/sudvorstadt/auswik/), welche
 jedoch nach 1400 zu Wüstungen wurden. Von Bedeutung war der am Fuße des Anstiegs der südlichen Elbtalhänge verlaufende Zellesche Weg, der das Kloster Altzella mit dem Leubnitzer [Klosterhof](../../sudost/leubnitz-neuostra/klosterhof/) verband. Heute erinnern noch die Straßennamen [Zellescher Weg](../../sud/zschertnitz/strassen_zschertnitz/zellescher_weg/) und [Altenzeller Straße](../../zentrum/sudvorstadt/strassen_sudvorstadt/altenzeller_strasse/) an diese Zusammenhänge. Zu den wenigen vorhandenen Gebäuden gehörte neben einigen Mühlen am [Weißeritzmühlgraben](../../sudwest/lobtau/weisseritzmuhlgraben/) ein einzelnes Gehöft in der Nähe des Hahneberges, welches sich im 18. Jahrhundert zur Ausflugsgaststätte [Feldschlößchen](../../zentrum/sudvorstadt/strassen_sudvorstadt/feldschlosschenbrauerei/) entwickelte _(Bild)_.

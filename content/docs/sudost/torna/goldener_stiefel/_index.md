@@ -3,27 +3,7 @@ title: "Goldener Stiefel"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![goldener stiefel](goldener_stiefel_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../sudost/torna/goldener_stiefel/hauptseitetorna.jpg)](../../../sudost/torna/)
-
-* * *
-
-
 
 Die historische Gaststätte Goldener Stiefel wurde 1815 im Gehöft Torna Nr. 5 eröffnet und zunächst nur im Nebenerwerb betrieben. 1826 übernahm der Schuhmacher Johann Andreas Kotte das Lokal und erhielt
 für dieses im August 1848 das Große Schankrecht. Ihren Namen verdankt die Gastwirtschaft einer Anekdote aus den Gründerjahren. Stammgäste sollen dem Wirt zu seinem Geburtstag einen von ihm selbst gefertigten Stiefel,

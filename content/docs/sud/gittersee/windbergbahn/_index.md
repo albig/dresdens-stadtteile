@@ -3,16 +3,6 @@ title: "Windbergbahn"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../sud/hauptseitegittersee.jpg)](../../../sud/gittersee/)
-
-* * *
-
 [![](../../../sud/gittersee/windbergbahn/windbergbahn.jpg)](http://www.saechsische-semmeringbahn.de)
 
 

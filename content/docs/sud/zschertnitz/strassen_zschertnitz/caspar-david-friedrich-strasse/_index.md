@@ -3,15 +3,11 @@ title: "Caspar-David-Friedrich-Straße"
 date: 2024-02-17T22:13:45+01:00
 ---
 
-![caspar-david-friedrich-straße](caspar-david-friedrich-strasse_n1_banner2.gif)
-
 * * *
 
 
 
 [![](../../../../sud/hauptseitemockritz.jpg)](../../../../sud/mockritz/)
-
-[![](../../../../sud/zschertnitz/hauptseitezschertnitz.jpg)](../../../../sud/zschertnitz/)
 
 [![](../../../../sud/hauptseitestrehlen.jpg)](../../../../sudost/strehlen/)
 

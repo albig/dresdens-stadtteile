@@ -3,14 +3,10 @@ title: "Comeniusstraße"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![comeniusstraße](comeniusstrasse_n1_banner2.gif)
-
 * * *
 
 
 [![](../../../../hauptseitepv.jpg)](../../../../zentrum/pirnaische_vorstadt/)
-
-[![](../../../../hauptseitejohannstadt.jpg)](../../../../zentrum/johannstadt/)
 
 [![](../../../../ost/striesen/hauptseitestriesen.jpg)](../../../../ost/striesen/)
 

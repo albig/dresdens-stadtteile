@@ -3,24 +3,6 @@ title: "Wachberg"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![wachberg](wachberg_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../nordost/hauptseitewachwitz.jpg)](../../../../nordost/wachwitz/)
-
 * * *
 
 ![](../../../../nordost/wachwitz/wachwitzgrund/wachberg/wachberg1.jpg)

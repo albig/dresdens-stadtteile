@@ -3,17 +3,7 @@ title: "Eschebach-Werke"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../hauptseitepieschen.jpg)](../../../nordwest/pieschen/)
-
-* * *
-
-![](../../../nordwest/pieschen/eschebach-werke/werbung eschebach.jpg)
+![](../../../nordwest/pieschen/eschebach-werke/werbung_eschebach.jpg)
 
 
 ![](../../../nordwest/pieschen/eschebach-werke/piescheneschebach1.jpg)Die Geschichte der Firma Eschebach begann im Jahr 1872, als seine Ehefrau Bertha Emma am 10. Juli 1872 ein "Blechwaaren-Fabrikgeschäft" auf der Neuen Gasse 14 in der Pirnaischen Vorstadt erwarb. Gemeinsam mit drei Arbeitern fertigte der aus Wittenberg stammende Unternehmer Carl August Emil Eschebach (1842-1905) hier verschiedene hauswirtschaftliche Gegenstände. Zuvor hatte der gelernte Klempner u.a. in Könnern, Hannover, Berlin und Köthen gearbeitet und kam vermutlich um 1870 nach Dresden. Der schnelle wirtschaftliche Erfolg des jungen Unternehmens zwang bereits drei Jahre später zur Verlegung der Produktionsräume zum Pirnaischen Platz. Nach Aufnahme des Kaufmanns Julius Haussner wurde die Firma ab 1. Mai 1877 unter dem Namen Eschebach & Haussner geführt.

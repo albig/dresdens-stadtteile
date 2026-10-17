@@ -7,9 +7,6 @@ date: 2024-02-17T22:13:40+01:00
 * * *
 
 
-* * *
-
-
 
 ![](neucosch_tz1.jpg)Die Siedlung Neu-Coschütz entstand Ende des 18. Jahrhunderts abseits des alten Dorfkerns im Weißeritztal und entwickelte sich nach Eröffnung des [Eisenhammerwerkes](../../../sud/plauen/plauenscher_grund/eisenhammerwerk/) zur Arbeitersiedlung der dort Beschäftigten. Außerdem lebten zahlreiche Bergleute des Burgker Steinkohlenreviers in Neucoschütz. Zählte der Ortsteil 1834 nur 66 Bewohner, waren es sechs Jahre später bereits 156. Nach Bildung der Landgemeinde Coschütz 1839 gehörten auch jeweils zwei Neucoschützer Einwohner dem Gemeinderat an. Drei Jahre später erteilte dieser dem Bäckergesellen Neubert die erste Gewerbekonzession zur Gründung einer Bäckerei. Wenig später folgten weitere Läden und Handwerksbetriebe, vorrangig zur Eigenversorgung des Ortsteils. Außerdem gab es ab 1869 den Gasthof Zur frohen Schicht _(Foto_). Der Konzessionserteilung waren jahrelange erfolglose Bemühungen vorausgegangen, da der Coschützer Gemeinderat für die Einrichtung eines weiteren Lokals in der Gemeinde keinen Bedarf sah. Um 1880 ließen die Besitzer ihr Lokal um einen großen Ballsaal erweitern, der bis 1945 für verschiedene Veranstaltungen genutzt wurde. 1995 erfolgte der Abriss des Saalgebäudes.
 

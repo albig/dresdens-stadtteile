@@ -3,24 +3,6 @@ title: "Matthauskirche"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![matthäuskirche](matthauskirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../../hauptseitefriedrichstadt.jpg)](../../../../../zentrum/friedrichstadt/)
-
 * * *
 
 ![](../../../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/matthauskirche/friedrichstmatth_uskirche1.jpg)

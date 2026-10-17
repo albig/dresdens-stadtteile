@@ -12,15 +12,6 @@ date: 2024-02-17T22:13:42+01:00
 
 **Gemeindesiegel von Torna**
 
-
-[![](../../nachbarn.jpg)](../../sudost/)
-
-* * *
-
-
-
-
-
 Der kleine Bauernweiler Torna wurde 1347 erstmals urkundlich erwähnt. Der Ortsname ist vom altsorbischen Torn = Dornenstrauch abgeleitet und wurde ursprünglich Tornaw geschrieben. Das Dorf mit seinen
 wenigen Gehöften unterstand bis zur Reformation dem Klosterhof Leubnitz. Neben Frondiensten und Abgaben waren die Tornaer Bauern auch zum Besthaupt verpflichtet, was bedeutete, das beim Tod eines Bauern dessen bestes
 Pferd, beim Tod der Bäuerin die beste Kuh an die Grundherrschaft abgegeben werden musste.

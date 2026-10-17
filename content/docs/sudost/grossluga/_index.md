@@ -12,13 +12,6 @@ date: 2024-02-17T22:13:41+01:00
 
 **Gemeindesiegel von Großluga**
 
-
-[![](../../nachbarn.jpg)](../../sudost/)
-
-* * *
-
-
-
 ![](../../sudost/grossluga/gasthofwerbung.jpg)
 
 * * *

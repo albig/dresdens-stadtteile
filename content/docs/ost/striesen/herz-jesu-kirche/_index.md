@@ -3,24 +3,6 @@ title: "Herz-Jesu-Kirche"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![herz-jesu-kirche](herz-jesu-kirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../hauptseitestriesen.jpg)](../../../ost/striesen/)
-
 * * *
 
 [![kath. herz-jesu-kirche borsbergstr. 13 01309 dresden tel. 0351/449480  www.herz-jesu-dd.de](../../../ost/striesen/herz-jesu-kirche/a_rectangle_920.gif)](http://www.herz-jesu-dd.de)

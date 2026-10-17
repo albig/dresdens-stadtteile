@@ -3,11 +3,6 @@ title: "Altcoschutz"
 date: 2024-02-17T22:13:40+01:00
 ---
 
-![altcoschütz](altcoschutz_n1_banner2.gif)
-
-* * *
-
-
 * * *
 
 **Details an Altcoschützer Bauernhäusern**

@@ -3,27 +3,7 @@ title: "Edelweiß"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![edelweiß](../../../../edelweiss_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../sudost/hauptseiteleubnitz.jpg)](../../../../sudost/leubnitz-neuostra/)
-
-* * *
-
-
 
 ![](../../../../sudost/leubnitz-neuostra/strassen_leubnitz/edelweiss/leubnedelwei_.jpg)Die Gaststätte Edelweiß entstand 1882 an der damaligen Dresdner Straße (heute
 Wilhelm-Franke-Straße) und entwickelte sich schnell zum beliebten Treffpunkt der Leubnitzer, aber auch vieler Ausflugsgäste. Maßgeblich zum Aufschwung des Lokals trug

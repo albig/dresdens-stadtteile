@@ -1,15 +1,7 @@
 ---
-title: "Straßen Prohlis"
+title: "Straßen und Plätze in Prohlis"
 date: 2024-02-17T22:13:42+01:00
 ---
-
-![straßen und plätze in prohlis](strassen_prohlis_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../sudost/prohlis/strassen_prohlis/hauptseiteprohlis2.jpg)](../../../sudost/prohlis/)
 
 ![albert-wolf-platz](../../../sudost/prohlis/strassen_prohlis/a_rectangle_810.gif)
 
@@ -130,7 +122,7 @@ genannte Einkehrstätte 1945 den Bomben zum Opfer fiel, blieb die Schloßschänk
 
 Der Goldammerweg verbindet den Prohliser Meisenweg mit der bereits auf Reicker Flur gelegenen Hülßestraße. Ursprünglich war der 1937 erstmals im Adressbuch genannte Weg eine kurze Sackgasse, wurde später jedoch verlängert. Wie auch bei anderen Straßennamen in diesem Wohngebiet erfolgte die Namensgebung nach einer Vogelart.
 
-![gubener straße](../../../sudost/prohlis/strassen_prohlis/gubener straße.jpg)
+![gubener straße](../../../sudost/prohlis/strassen_prohlis/gubener_straße.jpg)
 
 Die Gubener Straße befindet sich im nordwestlichen Teil des Neubaugebietes Prohlis, das um 1980 entstand. Guben liegt in der Niederlausitz im Osten von Brandenburg an der Grenze zu Polen.
 
@@ -138,7 +130,7 @@ Die Gubener Straße befindet sich im nordwestlichen Teil des Neubaugebietes Proh
 
 Die Hauboldstraße bildet die südliche Verlängerung der Gamigstraße und entstand erst nach 1990 im Zuge der Bebauung dieses Gewerbegebietes. Mit der Namensgebung wird an den Mathematiker und Geographen Georg Gottlieb Haubold (1714-1772) erinnert. Zwischen 1751 und 1772 war er Oberinspektor des Mathematisch-Physikalischen Salons.
 
-![herzberger straße](../../../sudost/prohlis/strassen_prohlis/herzberger straße.jpg)
+![herzberger straße](../../../sudost/prohlis/strassen_prohlis/herzberger_straße.jpg)
 
 Die Herzberger Straße wurde im Zuge des Neubauviertels um 1980 in der Nähe des Jacob-Winter-Platzes angelegt. Wie auch viele benachbarte Straßen erhielt sie ihren Namen nach einem Ort in der Lausitz, der Stadt Herzberg in Südbrandenburg.
 
@@ -165,7 +157,7 @@ Die Prohliser Allee entstand im Zusammenhang mit dem Bau des Neubaugebietes und 
 
 ![](../../../sudost/prohlis/strassen_prohlis/prohlisstern.jpg)Wohngebietsgaststätte Stern: Das Lokal entstand 1977 im Zusammenhang mit dem Bau des Neubaugebietes und diente neben der gastronomischen Versorgung des Stadtteils zugleich auch als Wohngebietstreff. Regelmäßig fanden hier Vorträge, Tanz- und andere Veranstaltungen sowie Familienfeiern statt. Nach 1990 wurde die Gaststätte geschlossen und das Haus umgebaut. Heute befinden sich hier u.a. eine Spielothek und eine Bankfiliale. Teile des Gebäudes werden auch wieder gastronomisch genutzt. Im April 2007 erhielt die Gaststätte ihren ursprünglichen Namen Stern, mit dem an den Prohliser Bauernastronomen Johann Georg Palitzsch erinnert werden soll, zurück. Vor dem Haus steht die 1973 von Walter Howard geschaffene Bronzeplastik Sternengucker, welche Palitzsch und ein Kind beim Betrachten des Sternenhimmels zeigt.
 
-![trattendorfer straße](../../../sudost/prohlis/strassen_prohlis/trattendorfer straße.jpg)
+![trattendorfer straße](../../../sudost/prohlis/strassen_prohlis/trattendorfer_straße.jpg)
 
 Die Trattendorfer Straße wurde als eine der ersten neuen Straßen des Neubaugebietes Prohlis angelegt. Am 26. Februar 1976 erfolgte hier die Grundsteinlegung für den neuen Stadtteil. In der Folge entstanden an der Straße sechsgeschossige Plattenbauten sowie ein Schulhaus vom Typ "Dresden Atium", welches bis 1991 von der 120. POS "Wilhelm Koenen", heute von der 120. Grundschule "Am Geberbach" genutzt wird. Der Straßenname erinnert an den kleinen Ort Trattendorf im südlichen Brandenburg, heute ein Stadtteil von Spremberg.
 

@@ -3,22 +3,7 @@ title: "Schwärme"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![schwärme](schwarme_nurbanlegendbannerh.gif)
-
 * * *
-
-
-
-* * *
-
-
-
-[![](../../../../sudwest/gompitz/unkersdorf/hauptseiteunkersdorf.jpg)](../../../../sudwest/gompitz/unkersdorf/)
-
-* * *
-
-
-
 
 Als Schwärme wird die zwischen Unkersdorf, Rennersdorf, Brabschütz, Podemus und Roitzsch gelegene Hochfläche bezeichnet, die früher von den Bewohnern der angrenzenden Dörfer gemeinsam genutzt wurde. Der
 Name ist wahrscheinlich vom Wort Schwäre = Kuhweide abgeleitet, was auf die Nutzung als ungeteiltes Weideland der Orte hinweist. Andere Quellen vermuten die Herkunft vom schwärmen für Gott, da hier einst Gottesdienste

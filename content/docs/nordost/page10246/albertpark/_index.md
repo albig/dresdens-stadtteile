@@ -3,24 +3,11 @@ title: "Albertpark"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![albertpark](albertpark_nurbanlegendbannerh.gif)
-
-* * *
-
-
-
 * * *
 
 
 
 [![](../../../nord/hauptseitedresdnerheide.jpg)](../../../nordost/dresdner_heide/)
-
-[![](../../../nordost/page10246/hauptseitewhirsch.jpg)](../../../nordost/page10246/)
-
-* * *
-
-
-
 
 Als Albertpark wird ein ca. 118 Hektar großes Waldstück der Dresdner Heide zwischen Fischhaus- und Bautzner Landstraße bezeichnet. Das Areal wurde 1899 aus Mitteln der König-Albert-Stiftung von der Stadt
 Dresden erworben und als Naturschutzpark gestaltet. Am Moritzburg-Pillnitzer Weg entstand in diesem Zusammenhang ein Obelisk mit einem Porträtmedaillon König Alberts. Mit dem Kauf des Waldstücks konnten zugleich

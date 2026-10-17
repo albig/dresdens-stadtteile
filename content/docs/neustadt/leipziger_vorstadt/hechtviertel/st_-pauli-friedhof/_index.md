@@ -3,16 +3,6 @@ title: "St.-Pauli-Friedhof"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![st.-pauli-friedhof](st_-pauli-friedhof_nurbanlegendbannerh.gif)
-
-* * *
-
-* * *
-
-
-
-[![](../../../../neustadt/leipziger_vorstadt/hauptseitelv.jpg)](../../../../neustadt/leipziger_vorstadt/)
-
 * * *
 
 ![st.-pauli-friedhof  hechtstr. 78 01127 dresden tel. 0351/8045804](../../../../neustadt/leipziger_vorstadt/hechtviertel/st_-pauli-friedhof/a_rectangle_1491.gif)

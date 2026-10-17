@@ -1,15 +1,7 @@
 ---
-title: "Straßen Zschertnitz"
+title: "Straßen und Plätze in Zschertnitz"
 date: 2024-02-17T22:13:45+01:00
 ---
-
-![straßen und plätze in zschertnitz](strassen_zschertnitz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../sud/zschertnitz/strassen_zschertnitz/hauptseitezschertnitz2.jpg)](../../../sud/zschertnitz/)
 
 ![altzschertnitz](../../../sud/zschertnitz/strassen_zschertnitz/a_rectangle_684.gif)
 

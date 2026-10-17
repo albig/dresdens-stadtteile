@@ -3,11 +3,6 @@ title: "Kraftwerk"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-
-[![](../../../../hauptseitel_btau.jpg)](../../../../sudwest/lobtau/)
-
-* * *
-
 [![airline-direct 120x160 c](http://ad.zanox.com/ppv/?10219650C533760410)](http://ad.zanox.com/ppc/?10219650C533760410T)
 
 

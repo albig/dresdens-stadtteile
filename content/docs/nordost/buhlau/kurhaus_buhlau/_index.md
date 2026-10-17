@@ -3,23 +3,7 @@ title: "Kurhaus Bühlau"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![kurhaus bühlau](kurhaus_buhlau_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../nordost/hauptseiteb_hlau.jpg)](../../../nordost/buhlau/)
 
 Keiner, der sie erlebt hat, wird die oft unerträglich verzögerten, mit unregel- mäßig verkehrenden Straßenbahnen bewerk- stelligten Pilgerreisen
 in diesen Vorort vergessen,
@@ -28,9 +12,6 @@ an winterkalten Sonn- abendnachmittagen, da auf der Plattform sich die Besucher 
 eine halbe Stunde später den samtenen Klang eines Beethoven-Adagios entlocken sollten...
 
 **Aus Jahrbuch zur Pflege der Künste (1950)**
-
-* * *
-
 
 * * *
 

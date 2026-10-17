@@ -3,20 +3,6 @@ title: "Pirnaische Vorstadt"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-
-* * *
-
-
-
-
-[![](../../nachbarn.jpg)](../../zentrum/)
-
-* * *
-
-
-
-
-
 ![](../../zentrum/pirnaische_vorstadt/pv_pillnitzer_str.jpg)Die Pirnaische Vorstadt umfasst das östlich der inneren Altstadt gelegene Stadtgebiet zwischen Pirnaischem Platz, [St. Petersburger Straße](../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/St_Petersburger_Strasse/st_petersburger_strasse.html), [Bürgerwiese](../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/BurgerwieseS/burgerwieses.html), [Lennestraße](../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/), [Güntzstraße](../../zentrum/johannstadt/strassen_johannstadt/) und Elbe. Bis zum Abbruch der Stadtbefestigung nach 1820 lag es außerhalb der Festungsmauern. Der Name erinnert an das vor dem früheren Pirnaischen Tor gelegene, aus drei Vorstadtgemeinden bestehende Stadtviertel: die Rampischen Gemeinde (Ziegelstraße - Pillnitzer Straße), die Pirnaische Gemeinde (Grunaer, Pirnaische und Zinzendorfstraße) und die Borngassengemeinde (Borngasse am Georgplatz). Hinzu kam später die Halbeulengassengemeinde in der angrenzenden Seevorstadt, deren kurioser Name eine Zusammensetzung aus der nur einseitig bebauten Halben Gasse und der Eulengasse, beide in der Nähe der Bürgerwiese gelegen, war. Erst Ende des 18. Jahrhunderts wurden die mittlerweile deutlich angewachsenen Gemeinden zusammengefasst und ab 1835 amtlich als Pirnaische Vorstadt bezeichnet.
 
 ![](../../zentrum/pirnaische_vorstadt/pv_ziegelstraße.jpg)Ursprünglich war das Areal zwischen Bürgerwiese und Elbe von einem alten Elbarm und dem [Landgraben](../../ost/striesen/landgraben/) durchzogen, der sich von Striesen über die heutige Holbeinstraße erstreckte und erst 1875 trockengelegt wurde. Die Lehmablagerungen dieses Flusslaufs führten schon früh zur Ansiedlung mehrerer Ziegeleien, an die noch heute die Ziegelstraße erinnert _(Foto rechts)_. Die mittelalterliche Besiedlung der Vorstadt begann entlang zweier hier verlaufender Verkehrswege. So verband die Rampische Straße (später [Pillnitzer Straße](../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Pillnitzer_Strasse/pillnitzer_strasse.html)) das Stadtzentrum mit dem auf Johannstädter Flur gelegenen Rampischen Vorwerk, während die [Pirnaische Straße](../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Pirnaische_Strasse/pirnaische_strasse.html) vom Pirnaischen Tor aus in Richtung Osten führte. Hinzu kam eine kleine Siedlung rund um die alte Borngasse (Borngassengemeinde) sowie eine Fischersiedlung in der Nähe der Elbe. Mit dem Ausbau der Festungsanlagen der Stadt nach 1520 siedelten sich vor den Mauern weitere Ackerbürger, Gärtner und Elbfischer an.

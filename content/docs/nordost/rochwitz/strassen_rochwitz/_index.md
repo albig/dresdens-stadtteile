@@ -1,15 +1,7 @@
 ---
-title: "Straßen Rochwitz"
+title: "Straßen und Plätze in Rochwitz"
 date: 2024-02-17T22:13:34+01:00
 ---
-
-![straßen und plätze in rochwitz](strassen_rochwitz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../nordost/rochwitz/strassen_rochwitz/hauptseiterochwitz2.jpg)](../../../nordost/rochwitz/)
 
 ![altrochwitz](../../../nordost/rochwitz/strassen_rochwitz/a_rectangle_1367.gif)
 

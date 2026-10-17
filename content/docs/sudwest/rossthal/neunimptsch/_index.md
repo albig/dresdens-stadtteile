@@ -12,13 +12,6 @@ date: 2024-02-17T22:13:44+01:00
 
 **Gemeindesiegel von Neunimptsch**
 
-
-[![](../../../nachbarn.jpg)](../../../sudwest/)
-
-* * *
-
-
-
 ![](../../../sudwest/rossthal/neunimptsch/neunimptsch1.jpg)Die Tagelöhnersiedlung Neunimptsch entstand erst Ende des 18. Jahrhunderts auf
 Roßthaler Flur. Im Mittelalter existierte an dieser Stelle ein Dorf Beerhut, welches jedoch um 1430 aus unklaren Gründen zur Wüstung wurde. Der Name dieses
 Ortes lebt heute noch in der Straßenbezeichnung Beerenhut fort. 1785 begann der Roßthaler Rittergutsbesitzer Carl Albrecht von Nimptsch mit der Errichtung

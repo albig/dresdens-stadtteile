@@ -1,15 +1,7 @@
 ---
-title: "Straßen Oberwartha"
+title: "Straßen und Plätze in Oberwartha"
 date: 2024-02-17T22:13:46+01:00
 ---
-
-![straßen und plätze in oberwartha](strassen_oberwartha_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../west/oberwartha/strassen_oberwartha/hauptseiteoberwartha2.jpg)](../../../west/oberwartha/)
 
 ![bierallee](../../../west/oberwartha/strassen_oberwartha/a_rectangle_1887.gif)
 

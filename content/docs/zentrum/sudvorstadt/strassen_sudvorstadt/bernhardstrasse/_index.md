@@ -3,14 +3,6 @@ title: "Bernhardstraße"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![bernhardstraße](bernhardstrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseites_dvorstadt.jpg)](../../../../zentrum/sudvorstadt/)
-
 [![](../../../../hauptseiteplauen.jpg)](../../../../sud/plauen/)
 
 * * *

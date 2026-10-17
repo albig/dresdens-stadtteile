@@ -3,14 +3,6 @@ title: "Kesselsdorfer Straße"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![kesselsdorfer straße](kesselsdorfer_strasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseitel_btau.jpg)](../../../../sudwest/lobtau/)
-
 [![](../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/hauptseitenau_litz.jpg)](../../../../sudwest/nausslitz/)
 
 [![](../../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/hauptseitew_lfnitz.jpg)](../../../../sudwest/wolfnitz/)

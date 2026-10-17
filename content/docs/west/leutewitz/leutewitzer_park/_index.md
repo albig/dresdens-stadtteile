@@ -3,22 +3,7 @@ title: "Leutewitzer Park"
 date: 2024-02-17T22:13:46+01:00
 ---
 
-![leutewitzer park](leutewitzer_park_nurbanlegendbannerh.gif)
-
 * * *
-
-
-
-* * *
-
-
-
-[![](../../../west/leutewitz/leutewitzer_park/hauptseiteleutewitz.jpg)](../../../west/leutewitz/)
-
-* * *
-
-
-
 
 ![](../../../west/leutewitz/leutewitzer_park/leutewpark.jpg)Das Gelände des heutigen Leutewitzer Parks wurde noch um 1900 als
 Lehmgrube einer örtlichen Ziegelei genutzt, die ihren Betrieb jedoch mangels Rentabilität einstellen musste. Zu dieser Zeit entstanden die ersten Planungen für

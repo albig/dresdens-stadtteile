@@ -3,24 +3,6 @@ title: "Klenckescher Kurberg"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![klenckescher kurberg](klenckescher_kurberg_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../nordost/hauptseitewachwitz.jpg)](../../../../nordost/wachwitz/)
-
 * * *
 
 ![](../../../../nordost/wachwitz/strassen_wachwitz/klenckescher_kurberg/wachwbarfu_weg.jpg)

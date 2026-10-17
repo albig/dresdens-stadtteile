@@ -3,24 +3,6 @@ title: "Emmauskirche"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![emmauskirche](emmauskirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../hauptseitekaditz.jpg)](../../../nordwest/kaditz/)
-
 * * *
 
 ![](../../../nordwest/kaditz/emmauskirche/kaditzkirchesiegel.jpg)

@@ -3,18 +3,6 @@ title: "Weißeritzstraße"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![weißeritzstraße](weisseritzstrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseitefriedrichstadt.jpg)](../../../../zentrum/friedrichstadt/)
-
-* * *
-
-
-
 ![](../../../../zentrum/friedrichstadt/strassen_friedrichstadt/weisseritzstrasse/friedrichstwei_eritzstr.jpg)Die Weißeritzstraße wurde Ende des 17. Jahrhunderts am Ufer der Weißeritz
 angelegt und trug ursprünglich den Namen An der Wasserseite. Später bezeichnete man sie zeitweise auch als Wasserstraße bzw. An der Weißeritz, bevor sich
 schließlich der Name Weißeritzstraße durchsetzte. Wegen des Flussbettes konnte sie zunächst nur an der Westseite _(Foto vor 1945)_ bebaut werden. Die östliche

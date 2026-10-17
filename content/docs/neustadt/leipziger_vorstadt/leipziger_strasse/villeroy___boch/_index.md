@@ -3,19 +3,6 @@ title: "Villeroy & Boch"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../neustadt/leipziger_vorstadt/hauptseitelv.jpg)](../../../../neustadt/leipziger_vorstadt/)
-
-* * *
-
-
-
-
 Die Firma Villeroy & Boch geht auf eine bereits 1748 von Francois Boch in Lothringen gegründete Töpferei  zurück. 1766 eröffnete Bruder Peter Joseph Boch in Septfontain eine weitere Keramikfabrik,
 die später noch einen Betriebsteil im saarländischen Mettlach erhielt. Hier befindet sich bis heute das Stammhaus des Unternehmens. Der geschäftliche Erfolg ermöglichte schon bald die Einrichtung weiterer
 Niederlassungen. 1836 fusionierte der Familienbetrieb mit der Porzellanfabrik Villeroy zur bis heute existierenden Firma Villeroy & Boch.

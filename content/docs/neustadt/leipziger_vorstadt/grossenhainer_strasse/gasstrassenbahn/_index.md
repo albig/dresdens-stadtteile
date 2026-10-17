@@ -3,19 +3,6 @@ title: "Gasstraßenbahn"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![gasstraßenbahn](gasstrassenbahn_nestimatebanner.gif)
-
-* * *
-
-
-
-[![](../../../../neustadt/leipziger_vorstadt/hauptseitelv.jpg)](../../../../neustadt/leipziger_vorstadt/)
-
-* * *
-
-
-
-
 Nachdem bereits in verschiedenen Städten mit gasbetriebenen Schienenfahrzeugen experimentiert worden war, gründete sich 1893 auch in Dresden eine Gesellschaft, die unter dem Namen The Gas Traction Company
 Limited London and Dresden auf der Großenhainer Straße ihre Werkstatträume bezog. Unter Leitung der Ingenieure Oskar Schwab und Carl Lührig entstanden mehrere Gasmotorwagen, die nach verschiedenen Tests und einer
 erfolgreichen Probefahrt am 15. März 1894 nach London verbracht wurden. Wenig später kam es auch in Dresden zum regulären Einsatz der ersten Fahrzeuge. Die Gasmotoren lieferte die Motorenfabrik Deutz bei Köln, während

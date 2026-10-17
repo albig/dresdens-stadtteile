@@ -3,22 +3,7 @@ title: "Keppgrund"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![keppgrund](keppgrund_nurbanlegendbannerh.gif)
-
 * * *
-
-
-
-* * *
-
-
-
-[![](../../../nordost/hauptseitehosterwitz.jpg)](../../../nordost/hosterwitz/)
-
-* * *
-
-
-
 
 ![](../../../nordost/hosterwitz/keppgrund/hosterwkeppgrund.jpg)Der Keppgrund gehört zu den romantischen Seitentälern der Elbe zwischen
 Loschwitz und Pillnitz und ist Teil des Landschaftsschutzgebietes Elbhänge Dresden - Pirna. Der Grund wird vom Keppbach durchflossen, der im Schönfelder Hochland entspringt und nach ca. 5 km bei Hosterwitz in die Elbe

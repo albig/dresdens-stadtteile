@@ -1,15 +1,7 @@
 ---
-title: "Straßen Plauen"
+title: "Straßen und Plätze in Plauen"
 date: 2024-02-17T22:13:43+01:00
 ---
-
-![straßen und plätze in plauen](strassen_plauen_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../sud/plauen/strassen_plauen/hauptseiteplauen2.jpg)](../../../sud/plauen/)
 
 ![agnes-smedley-straße](a_rectangle_620.gif)
 
@@ -235,7 +227,7 @@ Gebäude besitzt zwei Wohnungen. Auf dem Nachbargrundstück wurde 1997 ein kirch
 
 
 
-![landsberger straße](../../../sud/plauen/strassen_plauen/landsberger straße.jpg)
+![landsberger straße](../../../sud/plauen/strassen_plauen/landsberger_straße.jpg)
 
 ![](../../../sud/plauen/strassen_plauen/plauenlandsbergerstr.jpg)Die Landsberger Straße, eine kleine Verbindungsstraße zwischen Münchner und Nöthnitzer Straße entstand Ende der 1930er Jahre und ist 1940 erstmals im Adressbuch verzeichnet. In Anlehnung an die benachbarten Straßen im "bayrischen Viertel" erhielt sie ihren Namen nach der Stadt Landsberg am Lech.
 

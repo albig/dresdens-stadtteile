@@ -1,15 +1,7 @@
 ---
-title: "Straßen Seidnitz"
+title: "Straßen und Plätze in Seidnitz"
 date: 2024-02-17T22:13:38+01:00
 ---
-
-![straßen und plätze in seidnitz](strassen_seidnitz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](hauptseiteseidnitz2.jpg)](../../../ost/seidnitz/)
 
 ![altenberger platz](../../../ost/seidnitz/strassen_seidnitz/altenberger_platz.jpg)
 
@@ -35,7 +27,7 @@ _![am torbogen](../../../ost/seidnitz/strassen_seidnitz/am_torbogen.jpg)_
 
 Die Straße Am Torbogen erhielt am 24. Juni 1920 offiziell ihren Namen. Zuvor war hier eine neue Wohnsiedlung der Heimstättengesellschaft errichtet worden. Da die Straße durch einen Torbogen in die Siedlung führt, entschied man sich für diese Namensgebung. Ursprünglich endete sie am Steinigtwiesenweg, wurde jedoch später durch Überbauung auf das noch heute vorhandene Teilstück verkürzt.
 
-![am winkelsprung](../../../ost/seidnitz/strassen_seidnitz/am winkelsprung.jpg)
+![am winkelsprung](../../../ost/seidnitz/strassen_seidnitz/am_winkelsprung.jpg)
 
 Die kleine Straße Am Winkelsprung entstand im Zusammenhang mit dem Bau der Siedlung der Heimstättengesellschaft und erhielt am 24. Juni 1920 ihren Namen. Ursprünglich war sie als Straße 4 im Bebauungsplan verzeichnet und führte von der Winterbergstraße zum Steinigtwiesenweg, wurde um 1930 jedoch auf das noch heute vorhandene Reststück zwischen Bergfelderweg und dem Steinigtwiesenweg verkürzt.
 
@@ -113,23 +105,23 @@ Da die zweigeteilte Straßenführung zu Problemen für ortsunkundige Besucher f�
 
 Die Hahnemannstraße wurde in den 1930er Jahren als Planstraße 18b angelegt und erhielt am 19. Dezember 1934 den Namen Wilhelm-Wolf-Straße. Wilhelm Wolf war beim Putschversuch am 9. November 1923 an der Feldherrenhalle in München gefallen und galt in der Nazizeit als "Vorkämpfer des Nationalsozialismus". Ursprünglich war geplant, diese Straße von der Paracelsusstraße bis zur Suttnerstraße durchzuführen. Letztlich blieb es jedoch bei der bis heute existierenden kurzen Sackgasse, die seit dem 24. Juli 1945 Hahnemannstraße heißt. Samuel Hahnemann (1755-1843) war Arzt und Naturheilkundler und gilt als Vater der Homöopathie.
 
-![hausdorfer straße](../../../ost/seidnitz/strassen_seidnitz/hausdorfer straße.jpg)
+![hausdorfer straße](../../../ost/seidnitz/strassen_seidnitz/hausdorfer_straße.jpg)
 
 Die Hausdorfer Straße in Neuseidnitz ist bereits in Bebauungsplänen von 1896 verzeichnet (Planstraße X),wurde jedoch erst nach dem Ersten Weltkrieg ausgebaut und am 5. Juli 1928 nach dem Ort Hausdorf in der Nähe von Reinhardtsgrimma benannt. 1974 entstand hier die [57\. POS "Olga Körner"](../../../ost/seidnitz/). An ihrer Stelle befindet sich seit 2013 der Neubau der Freien Evangelischen Schule.
 
-![hellendorfer straße](../../../ost/seidnitz/strassen_seidnitz/hellendorfer straße.jpg)
+![hellendorfer straße](../../../ost/seidnitz/strassen_seidnitz/hellendorfer_straße.jpg)
 
 Die Hellendorfer Straße entstand in den 1970er Jahren zur Erschließung des Neubaugebietes an der Marienberger Straße. Auf Beschluss des Stadtrates erhielt sie am 12. Januar 1977 nach dem Ort Hellendorf im Osterzgebirge ihren Namen. Das Dorf in der Nähe der tschechischen Grenze gehört heute zu Bad Gottleuba-Berggießhübel.
 
-![hirschbacher weg](../../../ost/seidnitz/strassen_seidnitz/hirschbacher weg.jpg)
+![hirschbacher weg](../../../ost/seidnitz/strassen_seidnitz/hirschbacher_weg.jpg)
 
 Der Hirschbacher Weg entstand in den 1970er Jahren mit der Bebauung des Neubaugebietes zwischen Bodenbacher Straße und Liebstädter Straße. Am 24. Juli 1975 wurde er nach dem Ort Hirschbach bei Dippoldiswalde im Osterzgebirge benannt.
 
-![im stillen winkel](../../../ost/seidnitz/strassen_seidnitz/im stillen winkel.jpg)
+![im stillen winkel](../../../ost/seidnitz/strassen_seidnitz/im_stillen_winkel.jpg)
 
 Die Straße Im Stillen Winkel entstand beim Bau der Wohnsiedlung der Heimstättengesellschaft Sachsen zwischen Winterberg- und Bodenbacher Straße und wurde 24. Juni 1920 benannt.
 
-![johnsbacher weg](../../../ost/seidnitz/strassen_seidnitz/johnsbacher weg.jpg)
+![johnsbacher weg](../../../ost/seidnitz/strassen_seidnitz/johnsbacher_weg.jpg)
 
 Ende der 1970er Jahre wurde zwischen Marienberger und Altenberger Straße ein weiteres Neubaugebiet abgelegt. In diesem Zusammenhang entstanden mehrere neue Straßen, darunter auch der Johnsbacher Weg. Auf Beschluss des Stadtrates erhielt er am 2. August 1979 seinen Namen nach dem Ort Johnsbach im Osterzgebirge, heute ein Stadtteil von Glashütte. 2012 wurden die Plattenbauten an der Straße (Nr. 1-11, 22-26) abgetragen, so dass der Johnsbacher Weg heute ohne Bebauung ist.
 

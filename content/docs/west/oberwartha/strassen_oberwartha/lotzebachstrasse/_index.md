@@ -3,19 +3,6 @@ title: "Lotzebachstraße"
 date: 2024-02-17T22:13:46+01:00
 ---
 
-![lotzebachstraße](lotzebachstrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../west/oberwartha/hauptseiteoberwartha.jpg)](../../../../west/oberwartha/)
-
-* * *
-
-
-
-
 Als Lotzebachstraße wird der auf Oberwarthaer Flur liegende Abschnitt der von Brabschütz nach Cossebaude führenden Verbindungsstraße bezeichnet. Im unteren Cossebauder Teil trägt diese den Namen
 Talstraße. Der namensgebende Lotzebach entspringt in einer Geländemulde in der Nähe von [Brabschütz](../../../../west/mobschatz/brabschutz/) und fließt von dort nach Cossebaude. Hier verläuft er seit dem Eisenbahnbau, teilweise verrohrt, parallel zur Bahntrasse und mündet westlich der Niederwarthaer Eisenbahnbrücke in die Elbe. Insgesamt legt der als Gewässer zweiter Ordnung eingestufte Bach dabei eine Strecke von 6,5 Kilometern zurück und nimmt dabei mehrere kleinere Gewässer, so den Rennersdorfer und den Brabschützer Dorfbach und den [Tännichtgrundbach](../../../../west/oberwartha/tannichtgrund/) auf.
 

@@ -3,22 +3,6 @@ title: "Himmelfahrtskirche"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![himmelfahrtskirche](himmelfahrtskirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-[![](../../../ost/hauptseiteleuben.jpg)](../../../ost/leuben/)
-
 * * *
 
 ![himmelfahrtskirche altleuben 13 01257 dresden tel. 0351/2031647](../../../ost/leuben/himmelfahrtskirche/a_rectangle_794.gif)

@@ -3,15 +3,6 @@ title: "O-Bus"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![o-bus](o-bus_nestimatebanner.gif)
-
-* * *
-
-
-
-[![willi-ermer-platz](../../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/o-bus/a_rectangle_1468.gif)](../../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/)
-
-
 [![nürnberger platz](../../../../../sudwest/lobtau/strassen_lobtau/ebertplatz/o-bus/a_rectangle_1469.gif)](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/)
 
 

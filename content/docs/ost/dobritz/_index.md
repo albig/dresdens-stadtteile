@@ -12,13 +12,6 @@ date: 2024-02-17T22:13:37+01:00
 
 **Gemeindesiegel von Dobritz**
 
-
-[![](../../nachbarn.jpg)](../../ost/)
-
-* * *
-
-
-
 * * *
 
 **Schulen in Dobritz:**

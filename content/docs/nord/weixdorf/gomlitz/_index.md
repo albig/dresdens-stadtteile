@@ -3,20 +3,6 @@ title: "Gomlitz"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-
-* * *
-
-
-
-
-[![](../../../nachbarn.jpg)](../../../nord/weixdorf/)
-
-* * *
-
-
-
-
-
 ![](gomlitz2.jpg)Gomlitz wurde 1378 erstmals als Komenicz urkundlich erwähnt. Der aus dem
 slawischen stammende Ortsname ist entweder von komon (= Pferd) oder aber von gomola (= Hügel) abgeleitet. Der Ort entstand als Gassendorf am Rande des Schelsbachtales und war eng mit dem benachbarten Weixdorf und
 mit Lausa verbunden. Älteste Besiedlungsspuren reichen bis zur Bronzezeit zurück. Reste eines Gräberfeldes wurden auf dem Grundstück Alte Moritzburger Straße 55 entdeckt.

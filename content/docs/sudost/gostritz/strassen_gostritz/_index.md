@@ -1,15 +1,7 @@
 ---
-title: "Straßen Gostritz"
+title: "Straßen und Plätze in Gostritz"
 date: 2024-02-17T22:13:41+01:00
 ---
-
-![straßen und plätze in gostritz](../../../sudost/gostritz/strassen_gostritz/gostritzer_strassen_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../sudost/gostritz/strassen_gostritz/hauptseitegostritz2.jpg)](../../../sudost/gostritz/)
 
 ![altgostritz](../../../sudost/gostritz/strassen_gostritz/altgostritz.jpg)
 
@@ -17,7 +9,7 @@ date: 2024-02-17T22:13:41+01:00
 
 ![](../../../sudost/gostritz/strassen_gostritz/altgostritz2.jpg)Nr. 8: Zu den noch gut erhaltenen historischen Bauerngütern gehört der Hof Altgostritz 8, ehemals im Besitz der Familie Kegel. Am 24. Juli 1817 wurde er vom aus Brabschütz stammenden Bauernsohn Johann Gottlieb Fehrmann erworben. Zur Wirtschaft gehörten neben dem Gehöft insgesamt ca. acht Hektar landwirtschaftliche Nutzfläche am Fuchsberg und an den Hängen des Heiligen Grundes. Am 22. Juli 1862 wurde das Gut, ebenso wie einige Nachbarhöfe, durch Brandstiftung zerstört. Als Brandstifter ermittelte man einen aus Kleinkarsdorf stammenden Knecht, der für seine Tat zu 25 Jahren Arbeitshaus verurteilt wurde. Kurz darauf erfolgte der Wiederaufbau in heutiger Form. Wie alle bäuerlichen Betriebe wurde auch dieses Gut 1961 Teil der LPG Typ III Kaitz und erst 1990 an seine Besitzer rückübertragen. Zuletzt wurde es noch im Nebenerwerb betrieben. Mit dessen Aufgabe endete 2009 die landwirtschaftliche Tätigkeit in Gostritz.
 
-![babisnauer straße](../../../sudost/gostritz/strassen_gostritz/babisnauer straße.jpg)
+![babisnauer straße](../../../sudost/gostritz/strassen_gostritz/babisnauer_straße.jpg)
 
 Die Babisnauer Straße geht auf einen alten Verbindungsweg zwischen
 [Mockritz](../../../sud/mockritz/strassen_mockritz/) und Gostritz zurück. Ab 1904 wurde dieser auf Mockritzer Flur Gostritzer Straße genannt, blieb in Gostritz jedoch namenlos. Da es mit der Eingemeindung mehrerer Orte im Süden Dresdens ab 1921 jedoch eine weitere Gostritzer Straße gab, entschied man sich 1926 für die Umbenennung in Babisnauer Straße. Namensgeber ist der heute zu Kreischa gehörende Ort Babisnau. Auch in Gostritz wurden die an diesem Weg liegenden Grundstücke der neuen Adresse zugeordnet. In den 1970er entstand hier eine Leichtbauhalle für Lagerzwecke, die 2015 zu einem originellen Einfamilienhaus umbebaut wurde (Nr. 30).
@@ -30,7 +22,7 @@ Die Babisnauer Straße geht auf einen alten Verbindungsweg zwischen
 
 [![gostritzer straße](../../../sud/a_rectangle_1533.gif)](../../../sudost/leubnitz-neuostra/page14822/gostritzer_strasse/)
 
-![rosentitzer straße](../../../sudost/gostritz/strassen_gostritz/rosentitzer straße.jpg)
+![rosentitzer straße](../../../sudost/gostritz/strassen_gostritz/rosentitzer_straße.jpg)
 
 Die Rosentitzer Straße liegt östlich des alten Dorfkerns von Gostritz. Der Name wurde 1926 eingeführt und erinnert an den kleinen Ort Rosentitz, heute ein Ortsteil von Bannewitz. Im Haus Rosentitzer Straße 16 befand sich bis 1965 die stadtweit bekannte Schankwirtschaft ["Mutter Vogel"](../../../Sudost/Gostritz/Mutter_Vogel/mutter_vogel.html.).
 

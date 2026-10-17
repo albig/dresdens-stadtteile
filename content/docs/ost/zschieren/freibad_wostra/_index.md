@@ -3,15 +3,6 @@ title: "Freibad Wostra"
 date: 2024-02-17T22:13:39+01:00
 ---
 
-
-[![](../../../ost/zschieren/freibad_wostra/hauptseitezschieren.jpg)](../../../ost/zschieren/)
-
-* * *
-
-
-
-
-
 Die Geschichte des Freibades Wostra begann im Jahr 1929, als die kurz zuvor gegründete Wochenend- und Strandbadgesellschaft (WOSTRA) Pläne zur Errichtung einer Wochenendhaussiedlung mit 200 Bungalows vorlegte. Außerdem sollten verschiedene Sport- und Freizeitanlagen, darunter ein Schwimmbecken mit Umkleidekabinen sowie ein Bootshafen am Elbufer entstehen. Die zuständigen Behörden der Amtshauptmannschaft Pirna lehnten dieses Vorhaben jedoch zunächst ab. Auch der Landesverein Sächsischer Heimatschutz stellte sich gegen die Pläne, da man eine dauerhafte Beschädigung der Elblandschaft in der Nähe der Pillnitzer Elbinsel befürchtete.
 
 ![](../../../ost/zschieren/freibad_wostra/zschierenwostra.jpg)Die Strandbadgesellschaft entschloss sich daraufhin, das Projekt zu überarbeiten und auf privatem Gelände dennoch zu realisieren. 1930 entstand auf dem Grundstück der früheren Ziegelei Neubert eine Laubensiedlung mit ca. 50 Gebäuden sowie ein kleines

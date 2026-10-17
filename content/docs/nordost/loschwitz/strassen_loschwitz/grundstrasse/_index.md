@@ -3,14 +3,6 @@ title: "Grundstraße"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![grundstraße](grundstrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../nordost/hauptseiteloschwitz.jpg)](../../../../nordost/loschwitz/)
-
 [![](../../../../nordost/hauptseiterochwitz.jpg)](../../../../nordost/rochwitz/)
 
 [![](../../../../nordost/hauptseiteb_hlau.jpg)](../../../../nordost/buhlau/)

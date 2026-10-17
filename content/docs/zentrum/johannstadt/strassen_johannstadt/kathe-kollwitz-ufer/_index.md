@@ -3,14 +3,6 @@ title: "Kathe-Kollwitz-Ufer"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![käthe-kollwitz-ufer](kathe-kollwitz-ufer_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseitejohannstadt.jpg)](../../../../zentrum/johannstadt/)
-
 [![](../../../../hauptseiteblasewitz.jpg)](../../../../ost/blasewitz/)
 
 * * *

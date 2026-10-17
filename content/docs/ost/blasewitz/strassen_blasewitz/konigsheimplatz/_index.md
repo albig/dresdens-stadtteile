@@ -3,18 +3,6 @@ title: "Konigsheimplatz"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![königsheimplatz](konigsheimplatz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseiteblasewitz.jpg)](../../../../ost/blasewitz/)
-
-* * *
-
-
-
 Der Königsheimplatz entstand im Zusammenhang mit der Entwicklung des Blasewitzer Villenviertels. Seinen Namen erhielt er am 5. Mai 1921 nach dem sächsischen Regierungsrat Arthur Willibald Königsheim (1816-1886), der 1867 den [Waldparkverein](../../../../ost/blasewitz/waldpark_blasewitz/) gründete und sich für den planmäßigen Ausbau der umgebenden Straßen einsetzte. Königsheim selbst besaß eine Villa auf der Goetheallee mit einem parkartigen Garten, dessen Gestaltung zum Vorbild für weitere Blasewitzer Villengrundstücke wurde. Auf ihn gehen auch die 1870 im Ort eingeführten Straßennamen nach Schauplätzen des Deutsch-französischen Krieges 1870/71 und der folgenden patriotischen Bewegung zurück.
 
 "Während hundert und aber hundert deutsche Gemeinden sich daran genügen lassen müssen, ihre patriotische Dankbarkeit und Freude über die große Errungenschaft des deutsch-französischen Krieges ganz im Allgemeinen durch ein vereinzeltes äußeres Zeichen, vielleicht nur durch die Namenswahl einer zufällig fertig gewordenen Straße oder durch einen eigens hierzu gepflanzten Baum Ausdruck zu geben, sind wir in der begünstigten Lage, durch die würdige Bezeichnung eines vollständigen Systems neuer Straßen und eines förmlichen Labyrinths von Baumgängen eine ganze Kette lebendiger Erinnerungszeichen an eine ganze Kette verneigungswürdiger Momente schaffen, oder beide, je in ihrer Gesammtwirkung aufgefaßt, der deutschen Großthat von 1870 in unserem Wald- und Villenpark auch ein Monument en groß gegenüber stellen zu können."

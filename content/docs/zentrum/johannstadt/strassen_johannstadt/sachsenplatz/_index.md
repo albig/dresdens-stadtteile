@@ -3,18 +3,6 @@ title: "Sachsenplatz"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![sachsenplatz](sachsenplatz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseitejohannstadt.jpg)](../../../../zentrum/johannstadt/)
-
-* * *
-
-
-
 ![](../../../../zentrum/johannstadt/strassen_johannstadt/sachsenplatz/johannstsachsenplatz.jpg)Der Sachsenplatz entstand ab 1875 im Zusammenhang mit dem Bau der [Albertbrücke](../../../../zentrum/johannstadt/albertbrucke/) am Altstädter Brückenkopf der neuen Elbquerung. Die Ostseite wurde von der 1880/81 errichteten Jägerkaserne eingenommen. Süd- und
 Westseite beherrschten repräsentative Wohn- und Geschäftshäuser im Stil der Neorenaissance _(Foto)_. Die Pläne für diese zu den beeindruckendsten Dresdner
 Platzanlagen der Gründerzeit gehörenden Gebäude stammten von Hermann August Richter und wurden vom Architektenbüro Oswald Haenel und Bruno Adam umgesetzt. Neben Wohnungen in den Obergeschossen gab es hier auch

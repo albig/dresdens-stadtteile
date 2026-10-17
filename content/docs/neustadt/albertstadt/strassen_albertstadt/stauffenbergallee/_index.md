@@ -3,16 +3,6 @@ title: "Stauffenbergallee"
 date: 2024-02-17T22:13:30+01:00
 ---
 
-![stauffenbergallee](stauffenbergallee_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../neustadt/hauptseitealbertstadt.jpg)](../../../../neustadt/albertstadt/)
-
-* * *
-
 [![landesdirektion sachsen dienststelle dresden  stauffenbergallee 2 01099 dresden  tel. 0351/825-0](../../../../neustadt/albertstadt/strassen_albertstadt/stauffenbergallee/a_rectangle_1102.gif)](http://www.ld-dresden.de)
 
 * * *

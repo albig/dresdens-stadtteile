@@ -3,24 +3,6 @@ title: "Deutsche Werkstätten"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![deutsche werkstätten](deutsche_werkstatten_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../nord/hellerau/hauptseitehellerau.jpg)](../../../nord/hellerau/)
-
 * * *
 
 ![](../../../nord/hellerau/deutsche_werkstatten/hellerau_aktie_dwh.jpg)

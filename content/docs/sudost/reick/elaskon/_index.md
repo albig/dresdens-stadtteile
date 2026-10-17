@@ -3,19 +3,6 @@ title: "Elaskon"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../hauptseitereick.jpg)](../../../sudost/reick/)
-
-* * *
-
-
-
-
 Die Firma Elaskon wurde 1928 als Handelsunternehmen für technische Öle und Schmierfette in Dresden-Laubegast gegründet und firmierte zunächst unter dem Namen Richter & Co. KG. Firmengründer war Artur
 Richter, der in den 1930er Jahren mit der Herstellung eigener Produkte unter dem Markennamen Ricol begann. Bis 1945 erweiterte der Betrieb seine Produktpalette um weitere Schmierstoffe  für den technischen
 Bereich.

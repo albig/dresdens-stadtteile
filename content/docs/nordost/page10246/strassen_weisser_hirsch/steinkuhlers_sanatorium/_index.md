@@ -3,27 +3,7 @@ title: "Steinkühlers Sanatorium"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![steinkühlers sanatorium](steinkuhlers_sanatorium_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../nordost/page10246/hauptseitewhirsch.jpg)](../../../../nordost/page10246/)
-
-* * *
-
-
 
 Das Sanatorium Steinkühler wurde 1914 im Haus Küntzelmannstraße Nr. 7 (Villa Bismarck) gegründet. Inhaber war der zuvor u.a. in Zittau und Abessinien (heutiges Äthiopien) tätige Augenarzt Dr. med. Max
 Steinkühler, der ab 1912 in Bühlau wohnte. Behandelt wurden hier vor allem Stoffwechsel-, Augen- und Ohrenkrankheiten sowie rheumatische Erkrankungen. Nach modernsten diätischen Forschungen besaß das Haus eine weltweit

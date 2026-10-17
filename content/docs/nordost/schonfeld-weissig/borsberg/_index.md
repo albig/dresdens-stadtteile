@@ -3,20 +3,6 @@ title: "Borsberg"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-
-* * *
-
-
-
-
-[![](../../../nachbarn.jpg)](../../../nordost/schonfeld-weissig/)
-
-* * *
-
-
-
-
-
 Borsberg wurde 1378 im Lehnsbuch Friedrich des Strengen erstmals urkundlich erwähnt Der vermutlich deutliche ältere Ort entstand als Platzdorf und wurde von slawischen Siedlern gegründet. Der Ortsname ist von einem Personennamen, möglicherweise einem Ortsgründer Bores, abgeleitet. Mehrfach wechselte die Schreibweise von Bornsberg über Bursenberge (1414) zu Borsperg (1465). Bis 1904 wurden Ort und Berg auch Porsberg genannt, bevor sich die heutige amtliche Schreibweise durchsetzte.
 
 Die kleine Ansiedlung liegt auf einer Hochfläche zwischen Meix- und Friedrichsgrund am Fuße des gleichnamigen Berges und gehörte einst den Markgrafen zu Meißen. Kirchlich unterstand Borsberg der Schönfelder Parochie, wo sich bis zur Einweihung des Reitzendorfer Schulhauses auch die zuständige Schule befand. 1702 erwarb Heinrich von Bünau mehrere Bauerngüter, um hier ein Vorwerk einzurichten. Das zu diesem gehörende Wohnhaus wurde 1883 an den Staatsforst Pillnitz verkauft und diente bis 1918 als königliche Jagdhütte der Wettiner. Nach dem Ersten Weltkrieg zog eine Revierförsterei ein.

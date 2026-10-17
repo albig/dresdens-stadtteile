@@ -3,27 +3,7 @@ title: "Dürerschule"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![dürerschule](durerschule_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../hauptseitejohannstadt.jpg)](../../../../zentrum/johannstadt/)
-
-* * *
-
-
 
 ![](../../../../zentrum/johannstadt/johannst51volksschule.jpg)Die meist als Dürerschule bezeichnete Staatliche Höhere Versuchsschule wurde
 mit Beginn des Schuljahres 1922 gegründet und bezog zunächst einige Räume in der 6. Volksschule auf der Ehrlichstraße. Ziel der reformpädagogischen Bildungsstätte

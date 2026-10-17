@@ -11,13 +11,6 @@ date: 2024-02-17T22:13:37+01:00
 
 [![](../../../../sudost/strehlen/hauptseitestrehlen.jpg)](../../../../sudost/strehlen/)
 
-[![](../../../../ost/hauptseitegruna.jpg)](../../../../ost/gruna/)
-
-* * *
-
-
-
-
 Die Karcherallee verbindet Strehlen mit dem Nachbarort Gruna und bildet zugleich die östliche Begrenzung des Großen Gartens. Ihren Namen erhielt sie 1893 nach dem Gartenarchitekten und sächsischen Oberlandbaumeister Johann Friedrich Karcher (1650-1726), der maßgeblich an der Gestaltung des Parks beteiligt war. Karcher übernahm 1699 das Amt des kurfürstlich-sächsich-polnischen Oberlandbaumeisters und entwickelte eine der ersten Bauordnungen in Dresden. Zuvor war die Straße ab 1891 zu Ehren König Alberts kurzzeitig Königsallee genannt worden. Ältester Abschnitt ist der Teil zwischen Tiergarten- und Winterbergstraße. 1906 wurde sie bis zum Grunaer Weg und 1907 bis zum damaligen Carlowitzplatz (heute Bertolt-Brecht-Platz) verlängert.
 
 Die Wohnhäuser im Landhausstil an der Ostseite entstanden meist Anfang des 20. Jahrhunderts. In einer diese Villen hat seit 1954 die [Palucca-Hochschule für Tanz](../../../../sudost/strehlen/) ihren Sitz. Die meisten anderen Gebäude werden heute als Bürohäuser bzw. zu Wohnzwecken genutzt. Auf der gegenüberliegenden Straßenseite befindet sich der [Große Garten](../../../../zentrum/grosser_garten/) mit der Station "Karcherallee" der Parkeisenbahn.

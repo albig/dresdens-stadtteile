@@ -3,15 +3,6 @@ title: "Hopfgartenstraße"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![hopfgartenstraße](hopfgartenstrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseitejohannstadt.jpg)](../../../../zentrum/johannstadt/)
-
-
 Die um 1880 angelegte Hopfgartenstraße entstand auf dem Areal des gleichnamigen Vorwerks und wurde wenig später mit Mietshäusern bebaut, von denen jedoch keines die Zerstörungen des Zweiten Weltkriegs überstand. Ihren Namen erhielt sie 1895. Nach 1970 wurde die Straße zur Erschließung des Neubaugebietes in ihrem Verlauf teilweise verändert. In diesem Zusammenhang bezog man die frühere Kamelienstraße und einen Teilabschnitt der Elisenstraße in die Hopfgartenstraße ein.
 
 Hopfgartens Vorwerk:

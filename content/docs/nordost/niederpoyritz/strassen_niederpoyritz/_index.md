@@ -1,15 +1,7 @@
 ---
-title: "Straßen Niederpoyritz"
+title: "Straßen und Plätze in Niederpoyritz"
 date: 2024-02-17T22:13:33+01:00
 ---
-
-![straßen und plätze in niederpoyritz](strassen_niederpoyritz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../nordost/niederpoyritz/strassen_niederpoyritz/hauptseiteniederpoyritz2.jpg)](../../../nordost/niederpoyritz/)
 
 ![am friedenshang](../../../nordost/niederpoyritz/strassen_niederpoyritz/a_rectangle_1788.gif)
 

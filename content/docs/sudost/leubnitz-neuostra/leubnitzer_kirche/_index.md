@@ -3,24 +3,6 @@ title: "Leubnitzer Kirche"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![leubnitzer kirche](leubnitzer_kirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../hauptseiteleubnitz.jpg)](../../../sudost/leubnitz-neuostra/)
-
 * * *
 
 ![ev.-lutherische kirchgemeinde leubnitz-neuostra  altleubnitz 1 01219 dresden tel. 0351/4370886](../../../sudost/leubnitz-neuostra/leubnitzer_kirche/a_rectangle_703.gif)

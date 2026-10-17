@@ -3,24 +3,6 @@ title: "Hubertuskirche"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![hubertuskirche](hubertuskirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../nordost/page10246/hauptseitewhirsch.jpg)](../../../nordost/page10246/)
-
 * * *
 
 ![kathol. kirche st. hubertus am hochwald 6-8 01324 dresden tel. 0351/2683308](../../../nordost/page10246/hubertuskirche/a_rectangle_1112.gif)

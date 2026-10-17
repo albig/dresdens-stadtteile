@@ -1,15 +1,7 @@
 ---
-title: "Straßen Trachau"
+title: "Straßen und Plätze in Trachau"
 date: 2024-02-17T22:13:36+01:00
 ---
-
-![straßen und plätze in trachau](strassen_trachau_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../nordwest/trachau/strassen_trachau/hauptseitetrachau2.jpg)](../../../nordwest/trachau/)
 
 ![aachener straße](../../../nordwest/trachau/strassen_trachau/a_rectangle_1377.gif)
 
@@ -263,7 +255,7 @@ Der Lichtenbergweg wurde im März 1935 nach dem deutschen Physiker Georg Christo
 
 Die Maria-Kirch-Straße entstand 2017 auf dem Gelände einer ehemaligen Gärtnerei an der Neuländer Straße im Zuge des Baus einer Einfamilienhaussiedlung. Benannt wurde sie nach der Astronomin Maria Margaretha Kirch (1670-1720), die 1702 als erste Frau einen Kometen entdeckte. Trotz dieser Leistung wurde ihr auf Grund ihres Geschlechts eine Stelle an der Akademie der Wissenschaften Berlin verwehrt.
 
-![micktner straße](../../../nordwest/trachau/strassen_trachau/micktner straße.jpg)
+![micktner straße](../../../nordwest/trachau/strassen_trachau/micktner_straße.jpg)
 
 Die Micktner Straße geht auf einen alten Kommunikationsweg zwischen den Dörfern Trachau und Mickten zurück. In den 1880er Jahren wurde dieser Weg zur Straße ausgebaut und im Anschluss Micktner Straße benannt. Markantestes Gebäude ist der 2014 eingeweihte Neubau der [144\. Grundschule](../../../nordwest/trachau/).
 
@@ -310,7 +302,7 @@ Nach 1945 wurden die Gebäude von einem Verpackungsmittelhersteller genutzt und 
 
 Zu den bemerkenswerten Gebäuden der Rahnstraße gehört das 1892/93 errichtete Wohnhaus Nr. 26 im englischen Landhausstil. Für den Bau verwendete man u. a. Steine, die beim Umbau der Wartburg in Eisenach übrig geblieben waren. Architekten des Gebäudes waren Julius Gäbler und sein Sohn Richard. Weitere Reihenhäuser entstanden in den Jahren nach dem Ersten Weltkrieg.
 
-![reichenberger straße](../../../nordwest/trachau/strassen_trachau/reichenberger straße.jpg)
+![reichenberger straße](../../../nordwest/trachau/strassen_trachau/reichenberger_straße.jpg)
 
 Die heutige Reichenberger Straße ist Teilabschnitt eines bereits im Mittelalter bestehenden Weges von Altendresden nach Reichenberg, jetzt ein Ortsteil von Moritzburg. Sie ist somit eine der ältesten Straßen der Gegend und wurde bereits 1495 als "Reicheberger steig" genannt. 1526 findet sich der Name "Reichenberger strasse" in alten Karten. 1898 erfolgte die amtliche Namensgebung.
 
@@ -397,7 +389,7 @@ Die Wohnhäuser Nr. 27 und 28 gehören zur zwischen 1926 und 1928 entstandenen S
 
 Die Wahnsdorfer Straße im Norden der Trachauer Flur wurde ab 1897 bis zur Eingemeindung des Ortes Kyffhäuserstraße genannt. Ihren jetzigen Namen erhielt sie 1904 nach dem Radebeuler Ortsteil Wahnsdorf.
 
-![weixdorfer straße](../../../nordwest/trachau/strassen_trachau/weixdorfer straße.jpg)
+![weixdorfer straße](../../../nordwest/trachau/strassen_trachau/weixdorfer_straße.jpg)
 
 Die Weixdorfer Straße entstand kurz vor dem Ersten Weltkrieg und wurde im August 1914 nach dem Ort Weixdorf benannt, der seit 19999 als Ortschaft zu Dresden gehört. Ursprünglich war ein durchgehender Straßenverlauf von der Boxdorfer Straße bis zur Großenhainer Straße vorgesehen, letztlich blieb jedoch ein Stück nur Fußweg, der durch die Kleingartenanlage Erdenglück e.V. führt. Ältestes Gebäude ist das bereits 1896/97 entstandene Mietshaus Nr. 17, welches dem Kaufmann Albert Rollhäuser gehörte und Auftakt zur Bebauung des Viertels um die Burgsdorffstraße war.
 

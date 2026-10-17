@@ -1,15 +1,7 @@
 ---
-title: "Straßen Dolzschen"
+title: "Straßen und Plätze in Dölzschen"
 date: 2024-02-17T22:13:43+01:00
 ---
-
-![straßen und plätze in dölzschen](strassen_dolzschen_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../sudwest/dolzschen/strassen_dolzschen/hauptseited_lzschen2.jpg)](../../../sudwest/dolzschen/)
 
 ![alfred-darre-weg](../../../sudwest/dolzschen/strassen_dolzschen/a_rectangle_1773.gif)
 
@@ -102,7 +94,7 @@ Im Haus Grenzallee 34 wohnte zeitweise der Direktor des Wissenschaftlich-Photogr
 
 **_Foto:_** _Siedlung des Dresdner Spar- und Bauvereins an der Grenzallee / Hultschiner Straße._
 
-![grüne hoffnung](../../../sudwest/dolzschen/strassen_dolzschen/grüne hoffnung.jpg)
+![grüne hoffnung](../../../sudwest/dolzschen/strassen_dolzschen/grüne_hoffnung.jpg)
 
 Die kleine Verbindungsstraße Grüne Hoffnung entstand Mitte der 1930er Jahre und verbindet die Hultschiner Straße mit der Straße Südwesthang. Ebenso wie viele Nachbarstraßen wurde sie in Bezug auf das ehemalige Grenzgebiet des Deutschen Reiches Bozener Straße benannt. Bozen ist die Landeshauptstadt der heute zu Italien gehörenden Region Südtirol. Bereits 1945 wurde diese Bezeichnung aufgehoben und die Straße fortan in Bezug auf einen Flurnamen Grüne Hoffnung genannt. Die fehlende Bebauung war schließlich der Grund, die Namensgebung in den 1950er Jahren ganz aufzuheben. Im Zusammenhang mit dem Bau einiger Einfamilienhäuser erfolgte am 14. März 1996 die Wiederbenennung.
 

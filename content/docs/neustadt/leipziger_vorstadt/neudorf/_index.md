@@ -12,15 +12,6 @@ date: 2024-02-17T22:13:31+01:00
 
 **Gemeindesiegel von Neudorf**
 
-
-[![](../../../neustadt/leipziger_vorstadt/hauptseitelv.jpg)](../../../neustadt/leipziger_vorstadt/)
-
-* * *
-
-
-
-
-
 Die Geschichte von Neudorf begann am 15. März 1546, als der sächsische Herzog Moritz eine Verfügung zur Umsiedlung von 29 Familien aus Altendresden erließ. Grund war die geplante Inanspruchnahme deren Grundstücke für den Ausbau der rechtselbischen Stadtbefestigung. Als Entschädigung erhielten die Betroffenen Flächen in der Nähe des Bischofsweges nordwestlich der Stadt sowie die Nutzungsrechte am [Neudorfer Werder](../../../neustadt/leipziger_vorstadt/neudorf/neudorfer_werder/), einer ehemaligen Elbinsel am Südende der Moritzburger Straße. Außerdem mussten die übrigen Bewohner
 Altendresdens beim Abriss und Wiederaufbau der Gebäude helfen. Auch das Baumaterial wurde kostenlos gestellt.
 

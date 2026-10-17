@@ -3,19 +3,6 @@ title: "Pfotenhauerstraße"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![pfotenhauerstraße](pfotenhauerstrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseitejohannstadt.jpg)](../../../../zentrum/johannstadt/)
-
-* * *
-
-
-
-
 ![](../../../../zentrum/johannstadt/strassen_johannstadt/pfotenhauerstrasse/johannstpfotenhauerstr.jpg)Die Pfotenhauerstraße wurde 1876 angelegt und bis 1895 durch die
 Aktiengesellschaft Germania mit mehrgeschossigen Mietshäusern bebaut. Hinzu kamen kleinere Gewerbebetriebe, wie z. B. die Zigarettenfabriken Arkadia (Nr.
 36) und Bendler (Nr. 48). Noch vor dem Ersten Weltkrieg erfolgte eine Ergänzung der Bebauung durch Atelierhäuser der Kunstakademie und Bauten des Johannstädter Krankenhauses. Hier besaß u.a. der Bildhauer Georg Wrba,

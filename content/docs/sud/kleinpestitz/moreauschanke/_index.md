@@ -3,26 +3,7 @@ title: "Moreauschänke"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![moreauschänke](moreauschanke_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-[![](../../../sud/kleinpestitz/moreauschanke/hauptseitekleinpestitz.jpg)](../../../sud/kleinpestitz/)
-
-* * *
-
-
-
 
 ![](../../../sud/kleinpestitz/moreauschanke/kleinpestitzmoreausch_nke2.jpg)Die Gaststätte Moreauschänke (Eigenheimstraße 1) geht auf den früheren
 Dorfgasthof von Kleinpestitz zurück. Ihren Namen erhielt die historische Schankwirtschaft in Erinnerung an die Schlacht bei Dresden 1813. Am 27. August 1813 zerschmetterte eine Kanonenkugel dem aus französischen

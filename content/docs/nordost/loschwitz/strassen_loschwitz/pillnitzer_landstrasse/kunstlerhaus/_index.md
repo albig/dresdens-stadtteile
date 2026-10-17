@@ -1,30 +1,9 @@
 ---
-title: "Kunstlerhaus"
+title: "Künstlerhaus Loschwitz"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![künstlerhaus loschwitz](kunstlerhaus_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../../nordost/hauptseiteloschwitz.jpg)](../../../../../nordost/loschwitz/)
-
-* * *
-
-
-
 
 ![](../../../../../nordost/loschwitz/strassen_loschwitz/pillnitzer_landstrasse/kunstlerhaus/loschwk_nsthaus.jpg)Das Loschwitzer Künstlerhaus entstand 1897/98 nach Plänen von Martin Pietzsch als Wohn-
 und Atelierhaus für bildende Künstler. Für den Bau hatte der junge Architekt zuvor das elterliche Grundstück seines Ateliernachbarn Hans Unger erworben. Pietzsch errichtete das

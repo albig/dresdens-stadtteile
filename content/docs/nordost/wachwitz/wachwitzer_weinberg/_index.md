@@ -3,24 +3,6 @@ title: "Wachwitzer Weinberg"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![wachwitzer weinberg](wachwitzer_weinberg_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../nordost/hauptseitewachwitz.jpg)](../../../nordost/wachwitz/)
-
 * * *
 
 _Es verkauft der Königlich-sächsische Hof- und Justiz-Rath Herr Ludwig Friedrich Ferdinand von Zedtwitz sein in Wachwitzer Flur gelegenes Weinberg-_

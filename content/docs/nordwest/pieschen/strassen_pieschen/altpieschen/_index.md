@@ -3,19 +3,6 @@ title: "Altpieschen"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![altpieschen](../../../../nordwest/pieschen/strassen_pieschen/altpieschen/altpieschen_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseitepieschen.jpg)](../../)
-
-* * *
-
-
-
-
 ![](../../../../nordwest/pieschen/strassen_pieschen/altpieschen/pieschen3.jpg)Die Anlage des ab 1882 bis 1906 Lindenplatz genannten Dorfplatzes geht auf das frühere Bauerndorf Pieschen zurück. Hier befanden sich die Wohnhäuser und Stallungen der Pieschener Bauern und Häusler. Mehrfach fielen die Gebäude kriegerischen Auseinandersetzungen oder Dorfbränden zum Opfer, wurden jedoch in der Regel schnell wiederaufgebaut. In der Mitte des Platzes stand noch bis 1897 das Spritzenhaus der Ortsfeuerwehr, der alle Männer des Dorfes angehörten. 1839 ließ der Lehrer Christian Gottlieb Mohn aus Anlass des 300. Jubiläums der Reformation auf dem Dorfplatz zwei Linden pflanzen, die noch bis 1896 den 1882 so benannten Lindenplatz zierten. In den umliegenden Gebäuden entstanden in der Mitte des 19. Jahrhunderts kleine Weinstuben und Gartenlokale, welche den Ort zum Ausflugsziel der Dresdner Bevölkerung machte. Bekannt war das 1899 eröffnete "Lindenschlößchen" im Erdgeschoss von Nr. 17. Im Haus Nr. 3 betrieb Friedrich Franze zeitweise eine Weinhandlung. Am 20. Juli 1906 wurde der Platz Altpieschen benannt.
 
 Die Gehöfte an der Westseite des Dorfplatzes wurden um die Jahrhundertwende zugunsten neuer Mietshäuser abgerissen. Dennoch sind hier und an der Robert-Matzke-Straße noch einige alte Bauernhäuser sowie ein historischer Brunnentrog erhalten geblieben. Unter Denkmalschutz stehen unter anderem die Güter Altpieschen Nr. 2 von 1710 sowie Nr. 4 mit einem Schlussstein von 1806. 2005 konnte die Platzanlage begrünt und neu gestaltet werden.

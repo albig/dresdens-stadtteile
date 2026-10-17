@@ -3,28 +3,7 @@ title: "Weißer Adler"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![weißer adler](weisser_adler_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../../nordost/page10246/hauptseitewhirsch.jpg)](../../../../../nordost/page10246/)
-
-* * *
-
-
-
 
 [![airline-direct](http://ad.zanox.com/ppv/?10219639C1407666660)](http://ad.zanox.com/ppc/?10219639C1407666660T)
 

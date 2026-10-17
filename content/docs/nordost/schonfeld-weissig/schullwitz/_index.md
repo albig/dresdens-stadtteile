@@ -12,12 +12,6 @@ date: 2024-02-17T22:13:35+01:00
 
 **Gemeindesiegel von Schullwitz**
 
-
-[![](../../../nachbarn.jpg)](../../../nordost/schonfeld-weissig/)
-
-* * *
-
-
 * * *
 
 [![](../../../nordost/schonfeld-weissig/schullwitz/schullwitz.jpg)](http://www.schullwitz.de)

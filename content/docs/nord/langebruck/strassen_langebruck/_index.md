@@ -1,15 +1,7 @@
 ---
-title: "Straßen Langebruck"
+title: "Straßen und Plätze in Langebrück"
 date: 2024-02-17T22:13:32+01:00
 ---
-
-![straßen und plätze in langebrück](strassen_langebruck_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../nord/langebruck/strassen_langebruck/hauptseitelangebr_ck2.jpg)](../../../nord/langebruck/)
 
 ![albert-richter-straße](../../../nord/langebruck/strassen_langebruck/albert-richter-stra_e.jpg)
 
@@ -19,7 +11,7 @@ date: 2024-02-17T22:13:32+01:00
 
 Die Straße Am Braugraben wurde 2012 zur Erschließung des Wohngebietes "An der Heide" angelegt. Ihren Namen erhielt sie im Januar 2013 nach einem kleinen Bach, der seine Quelle nördlich der Dresdner Straße hat und den Brauteich speist. An der Hauptstraße mündet er in den Roten Graben.
 
-![am heidehof](../../../nord/langebruck/strassen_langebruck/am heidehof.jpg)
+![am heidehof](../../../nord/langebruck/strassen_langebruck/am_heidehof.jpg)
 
 Die kleine Straße Am Heidehof wurde in den 1930er Jahren im westlichen Teil von Langebrück angelegt, als hier eine kleine Siedlung entstand. Ihren Namen erhielt sie nach einem hier befindlichen, 1933 bei einem Brand zerstörten Bauerngut mit diesem Namen. Zunächst hieß die gesamte Siedlung ab 1933 postalisch "Heidehof-Siedlungsgelände", bevor 1936 der heutige Name eingeführt wurde.
 
@@ -193,7 +185,7 @@ Die Klotzscher Straße ist Teil eines alten Verbindungsweges zwischen Dresden un
 
 Später siedelten sich an der als Zufahrt zum Werk geplanten Straße mehrere Gewerbebetriebe an. 1931 erfolgte die Umbenennung in Hindenburgstraße, bevor man nach 1945 den heutigen Namen vergab. Seit 1994 hat an der Lessingstraße die Freiwillige Feuerwehr Langebrück ihr Domizil.
 
-![liegauer straße](../../../nord/langebruck/strassen_langebruck/liegauer straße.jpg)
+![liegauer straße](../../../nord/langebruck/strassen_langebruck/liegauer_straße.jpg)
 
 Die Liegauer Straße verbindet Langebrück mit dem Nachbarort Liegau-Augustusbad und erhielt danach ihren Namen. Erstmals ist sie im Adressbuch von 1897 aufgeführt.
 
@@ -286,7 +278,7 @@ Lehnrichtergutes, dem die niedere Gerichtsbarkeit über Langebrück oblag und bl
 Nach 1990 wurde im Ortsteil Heidehof ein neues Wohngebiet angelegt. In diesem Zusammenhang entstand auch die Taegerstraße. Karl Hanns Taeger (1856-1937) war Lehrer für Landschaftsmalerei an der Dresdner Kunstakademie und
 wohnte ab 1894 in Langebrück auf der Bergerstraße. Hier schuf er verschiedene Gemälde, meist Motive aus der Dresdner Heide und dem Seifersdorfer Tal. Ein Teil davon war bis vor einigen Jahren in den Gasträumen der [Hofewiese](../../../nordost/dresdner_heide/hofewiese/) zu sehen.
 
-![weißiger straße](../../../nord/langebruck/strassen_langebruck/weißiger straße.jpg)
+![weißiger straße](../../../nord/langebruck/strassen_langebruck/weißiger_straße.jpg)
 
 Die Weißiger Straße ist erstmals im Adressbuch von 1897 erwähnt. Ursprünglich führte sie nur vom Schillerplatz bis zur Forststraße, wurde später jedoch mit zunehmender Bebauung in Richtung Süden verlängert. Ihren Namen erhielt sie nach dem Ort Weißig im Schönfelder Hochland, seit 1999 Stadtteil von Dresden.
 

@@ -14,11 +14,6 @@ date: 2024-02-17T22:13:32+01:00
 
 ![](../../../nord/langebruck/schonborn/plz_01465.jpg)
 
-[![](../../../nachbarn.jpg)](../../../nord/langebruck/)
-
-* * *
-
-
 [![](../../../bibodd.jpg)](http://www.bibo-dresden.de)[![bibliothek schönborn seifersdorfer str. 1 01465 dresden](../../../nord/langebruck/schonborn/a_rectangle_1455.gif)](http://www.bibo-dresden.de)
 
 

@@ -3,22 +3,7 @@ title: "Hermann-Seidel-Park"
 date: 2024-02-17T22:13:39+01:00
 ---
 
-![hermann-seidel-park](hermann-seidel-park_nurbanlegendbannerh.gif)
-
 * * *
-
-
-
-* * *
-
-
-
-[![](../../../../../ost/striesen/hauptseitestriesen.jpg)](../../../../../ost/striesen/)
-
-* * *
-
-
-
 
 ![](../../../../../ost/striesen/strassen_striesen/seidelsche_gartnerei/hermann-seidel-park/striesseidelpark.jpg)Der an der Ortsgrenze zwischen Striesen und Blasewitz gelegene Hermann-Seidel-Park geht auf die frühere [Seidelsche Gärtnerei](../../../../../ost/striesen/strassen_striesen/seidelsche_gartnerei/) zurück. Traugott Jacob Herrmann Seidel entstammte einer bekannten Gärtnerfamilie und hatte den väterlichen Betrieb 1865 nach Striesen verlegt und hier seine weltberühmte Rhododendrenzucht aufgebaut. 1877 erwarb er ein Grundstück an der Augsburger Straße, welches zuvor für die Anlage des Striesener Friedhofs vorgesehen war. Seidel pflanzte hier die von ihm gezüchteten winterharten Rhododendronsträucher an, für die er an diesem Standort ideale Bedingungen vorfand. Nachdem die zunehmende Bebauung dem Unternehmen Grenzen gesetzt hatte, verlegten seine Söhne die Gärtnerei nach Laubegast. Aus Dank überließ Seidel seinem ehemaligen Heimatort das Gelände zur Anlage eines Volksparkes. Zuvor hatte er sich hier 1895 die [Villa Sansibar](../../../../../ost/striesen/strassen_striesen/augsburger_strasse/) errichten lassen, die nach seinem Tod noch bis 1917 Wohnsitz seiner Witwe Minna blieb.
 

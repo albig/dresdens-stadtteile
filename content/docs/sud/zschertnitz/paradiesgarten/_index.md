@@ -3,24 +3,6 @@ title: "Paradiesgarten"
 date: 2024-02-17T22:13:45+01:00
 ---
 
-![paradiesgarten](paradiesgarten_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../sud/zschertnitz/hauptseitezschertnitz.jpg)](../../../sud/zschertnitz/)
-
 * * *
 
 ![](../../../sud/zschertnitz/paradiesgarten/zschertnparadiesga5.jpg)

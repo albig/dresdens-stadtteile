@@ -3,24 +3,6 @@ title: "Pfarrei"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![pfarrei ](pfarrei__heilige_familie__nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../ost/hauptseitekleinzschachwitz.jpg)](../../../ost/kleinzschachwitz/)
-
 * * *
 
 ![kath. pfarrei ](../../../ost/kleinzschachwitz/pfarrei__heilige_familie_/a_rectangle_1443.gif)

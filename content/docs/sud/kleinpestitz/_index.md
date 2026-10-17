@@ -12,14 +12,6 @@ date: 2024-02-17T22:13:41+01:00
 
 **Gemeindesiegel von Kleinpestitz**
 
-
-[![](../../nachbarn.jpg)](../../sud/)
-
-* * *
-
-
-
-
 ![](../../sud/kleinpestitz/kleinpestitz.jpg)Der Dorfkern von Kleinpestitz liegt oberhalb des Kaitzbachtales nur 400 Meter
 von Altmockritz entfernt und gehört zu den kleinsten im Dresdner Stadtgebiet. Erstmals erwähnt wurde der Weiler Pestewicz im Jahr 1370. Der Name ist von
 einem slawischen Ortsgründer Pest abgeleitet (= Leute des Pest). 1495 existierten bereits drei Bauerngüter, die später lediglich um einige Häusleranwesen

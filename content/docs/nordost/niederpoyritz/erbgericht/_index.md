@@ -3,27 +3,7 @@ title: "Erbgericht Niederpoyritz"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![erbgericht niederpoyritz](erbgericht_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../nordost/hauptseiteniederpoyritz.jpg)](../../../nordost/niederpoyritz/)
-
-* * *
-
-
 
 ![](../../../nordost/niederpoyritz/erbgericht/nieperbgericht.jpg)Das Erbgericht Niederpoyritz entstand als Schänke des Niederpoyritzer Rittergutes
 und erhielt im 18. Jahrhundert die Schankgerechtigkeit. Hier wurde das im Ort gebraute Braunbier ausgeschenkt, welches auch in die benachbarten Dörfer

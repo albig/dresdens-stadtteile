@@ -3,16 +3,6 @@ title: "Waldschlösschenbrücke"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../hauptseitejohannstadt.jpg)](../../../zentrum/johannstadt/)
-
-* * *
-
 **Technische Daten:**
 
 **Gesamtlänge:** 636 m

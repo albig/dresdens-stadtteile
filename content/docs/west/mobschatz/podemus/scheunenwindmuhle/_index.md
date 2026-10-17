@@ -7,22 +7,6 @@ date: 2024-02-17T22:13:46+01:00
 
 * * *
 
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../west/mobschatz/podemus/hauptseitepodemus.jpg)](../../../../west/mobschatz/podemus/)
-
-* * *
-
 [![](../../../../west/mobschatz/podemus/scheunenwindmuhle/scheunenwindm_hle.jpg)](http://www.scheunenwindmuehle.de)
 
 

@@ -3,18 +3,6 @@ title: "Cunnersdorf"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-
-* * *
-
-
-
-
-[![](../../../nachbarn.jpg)](../../../nordost/schonfeld-weissig/)
-
-* * *
-
-
-
 Cunnersdorf wurde vermutlich im 12. Jahrhundert als Zeilendorf mit Waldhufenflur durch fränkische Siedler gegründet und ist damit jünger als seine Nachbargemeinden. Der ursprüngliche Name Kunratsdorf ist
 von einem Lokator (Ortsgründer) Konrad  abgeleitet. Die erste nachweisbare urkundliche Erwähnung stammt von 1350. 1378 gehörte Kunstorf zum Amt Dresden und war den Markgrafen von Meißen zinspflichtig. Die
 Grundherrschaft sowie die obere und niedere Gerichtsbarkeit übte bis ins 19. Jahrhundert das Rittergut [Helfenberg](../../../nordost/schonfeld-weissig/helfenberg/) aus.

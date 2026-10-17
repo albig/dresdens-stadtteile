@@ -3,27 +3,7 @@ title: "Trinitatiskirche"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![trinitatiskirche](trinitatiskirche_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../hauptseitejohannstadt.jpg)](../../../zentrum/johannstadt/)
-
-* * *
-
-
 
 ![](../../../zentrum/johannstadt/trinitatiskirche/johannsttrinitatiskirche1.jpg)Ursprünglich besuchten die wenigen Bewohner der östlich vor den Toren Dresdens gelegenen Vorwerke die Kreuzkirche. Nachdem im 19. Jahrhundert bereits große Teile der Pirnaischen Vorstadt dicht bebaut worden waren und diese Entwicklung auch auf die 1877 gegründete Johannstadt übergriff, begann 1878 der Bau der Johanniskirche an der Pillnitzer Straße. Doch auch diese Kirche genügte schon bald nicht mehr den Anforderungen. Zählte die Gemeinde im Jahr ihrer Gründung zunächst 23.000 Mitglieder, wuchs sie innerhalb weniger Jahre auf über 40.000 Gläubige.
 

@@ -3,19 +3,6 @@ title: "August-Bebel-Straße"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![august-bebel-straße](august-bebel-strasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../sudost/strehlen/hauptseitestrehlen.jpg)](../../../../sudost/strehlen/)
-
-* * *
-
-
-
-
 Die August-Bebel-Straße wurde im Zusammenhang mit dem Ausbau des Villenviertels Strehlen als Residenzstraße angelegt. Auf einem angrenzenden Gartengrundstück entstand 1860 die [Königliche Villa](../../../../sudost/strehlen/konigliche_villa/), Landsitz der Wettiner in Strehlen. Nach dem Ersten Weltkrieg wurde die Residenzstraße in Gerhard-Hauptmann-Straße umbenannt. Mit der Namensgebung sollte ausdrücklich der eng mit Dresden verbundene Schriftsteller geehrt werden, weshalb auch das Prinzip durchbrochen wurde, Straßen nur nach bereits verstorbenen Persönlichkeiten zu benennen.
 
 In den Dreißiger Jahren entstand im früheren Park der Königlichen Villa der Militärkomplex des Luftgaukommandos der Wehrmacht. In diesem Zusammenhang erhielt der Straßenabschnitt zwischen Strehlener Platz und Wasaplatz den Namen General-Wever-Straße. Walther Wever war erster Stabschef der deutschen Luftwaffe und kam am 3. Juni 1936 bei einem Flugzeugabsturz in der Nähe von Klotzsche ums Leben. 1945 fielen mehrere Villen, vor allem im westlichen Bereich den Bomben zum Opfer. In einem dieser Gebäude (Residenzstraße Nr. 3b) hatte vor dem Ersten Weltkrieg der frühere sächsische Kriegsminister Max von Hausen (1846-1922) seinen Wohnsitz. Heute befindet sich auf dem Grundstück an der Gerhard-Hauptmann-Straße ein Seniorenheim.

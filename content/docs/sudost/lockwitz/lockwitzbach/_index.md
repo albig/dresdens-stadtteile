@@ -7,12 +7,6 @@ date: 2024-02-17T22:13:42+01:00
 
 * * *
 
-* * *
-
-
-
-[![](../../../hauptseitelockwitz.jpg)](../../../sudost/lockwitz/)
-
 [![](../../../hauptseiteniedersedlitz.jpg)](../../../ost/niedersedlitz/)
 
 

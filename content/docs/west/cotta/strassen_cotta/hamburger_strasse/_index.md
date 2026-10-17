@@ -3,19 +3,11 @@ title: "Hamburger Straße"
 date: 2024-02-17T22:13:45+01:00
 ---
 
-![hamburger straße](hamburger_strasse_n1_banner2.gif)
-
 * * *
 
 
 
 [![](../../../../hauptseitefriedrichstadt.jpg)](../../../../zentrum/friedrichstadt/)
-
-[![](../../../../west/cotta/hauptseitecotta.jpg)](../../../../west/cotta/)
-
-* * *
-
-
 
 ![](../../../../west/cotta/strassen_cotta/hamburger_strasse/cottahamburgerstr.jpg)Die Hamburger Straße nimmt ihren Anfang in der Friedrichstadt und führt von dort über Cottaer Flur bis zur Meißner Landstraße. Bereits 1437 wurde sie als Breßnitzer Straße (Briesnitzer Straße) erwähnt. Über lange Zeit blieb sie weitgehend unbebaut. Die wenigen Gebäude wurden unter der Bezeichnung "Vor dem Briesnitzer Schlage" zusammengefasst. Der Briesnitzer Schlag, eine Zollstelle an der Stadtgrenze befand sich am Ende der heutigen Schäferstraße.
 

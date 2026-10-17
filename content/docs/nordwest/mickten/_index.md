@@ -14,8 +14,6 @@ date: 2024-02-17T22:13:36+01:00
 
 ![](../../nordwest/plz_01139.jpg)
 
-[![](../../nachbarn.jpg)](../../nordwest/)
-
 **Sonntagsspaziergang zwischen**
 
 **Mickten und Übigau**
@@ -31,10 +29,6 @@ date: 2024-02-17T22:13:36+01:00
 **(inkl. Getränk und Brez´n)**
 
 **Tel. 0351/859 95 77**
-
-* * *
-
-
 
 * * *
 

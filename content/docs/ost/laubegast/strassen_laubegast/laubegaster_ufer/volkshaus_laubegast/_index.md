@@ -3,26 +3,7 @@ title: "Volkshaus Laubegast"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![volkshaus laubegast](volkshaus_laubegast_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-[![](../../../../../ost/laubegast/hauptseitelaubegast.jpg)](../../../../../ost/laubegast/)
-
-* * *
-
-
-
 
 ![](../../../../../ost/laubegast/strassen_laubegast/laubegaster_ufer/volkshaus_laubegast/laubegvolkshaus2.jpg)Das Volkshaus Laubegast entstand ursprünglich als Bauernhof der Familie Möhle und war später Gasthof des Dorfes. In einem heute nicht mehr erhaltenen Nebengebäude verbrachte die Neuberin ihre letzten Lebensmonate und verstarb hier am 29. oder 30. November 1760. Seit 1967 befindet sich dort eine Gedenktafel. Nach Diebstahl wurde diese im Jahr 2013 durch eine neue Sandsteintafel ersetzt.
 

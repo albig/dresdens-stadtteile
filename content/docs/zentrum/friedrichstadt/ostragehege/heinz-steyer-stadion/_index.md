@@ -7,24 +7,6 @@ date: 2024-02-17T22:13:47+01:00
 
 * * *
 
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../../hauptseitefriedrichstadt.jpg)](../../../../zentrum/friedrichstadt/)
-
-* * *
-
-
-
 Das heutige Heinz-Steyer-Stadion entstand nach dem Ersten Weltkrieg auf den
 Wiesen des früheren Ostravorwerks und wurde am 12. Oktober 1919 eingeweiht. Bereits nach seiner Gründung 1898 hatte der [Dresdner Sportclub](../../../../zentrum/friedrichstadt/ostragehege/dsc/)
 (DSC) hier sein Trainingsgelände, musste jedoch auf Weisung der sächsischen Regierung ab 1900 auf andere Flächen ausweichen. Erst nach Abschluss eines

@@ -1,15 +1,7 @@
 ---
-title: "Straßen Johannstadt"
+title: "Straßen und Plätze in der Johannstadt"
 date: 2024-02-17T22:13:47+01:00
 ---
-
-![straßen und plätze in der johannstadt](strassen_johannstadt_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../zentrum/johannstadt/strassen_johannstadt/hauptseitejohannstadt2.jpg)](../../../zentrum/johannstadt/)
 
 ![alfred-schrapel-straße](../../../zentrum/johannstadt/strassen_johannstadt/a_rectangle_901.gif)
 

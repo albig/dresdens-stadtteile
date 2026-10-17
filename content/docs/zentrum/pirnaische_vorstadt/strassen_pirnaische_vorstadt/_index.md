@@ -3,14 +3,6 @@ title: "Straßen Pirnaische Vorstadt"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/hauptseitepv2.jpg)](../../../zentrum/pirnaische_vorstadt/)
-
 ![amalienstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/amalienstraße.jpg)
 
 Die Amalienstraße wurde im 18. Jahrhundert angelegt und führte vom Pirnaischen Platz in Richtung Elbufer bis zum Amalienplatz (heute Rathenauplatz). Zunächst wurde sie Am Festungsgraben vor dem Pirnaischen Thore genannt und galt seit 1815 als Teil der inzwischen ausgebauten Johannisstraße. Zu Ehren von Königin Amalie (1801-1877, der Gemahlin von König Johann, erhielt sie 1840 den Namen Amalienstraße.Im Zuge des Wiederaufbaus nach 1945 und der Neugestaltung der Verkehrsachse vom Hauptbahnhof zur Carolabrücke wurde die Amalienstraße Teil der Leningrader Straße. Seit 1991 trägt dieser Straßenzug den Namen [St. Petersburger Straße](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/St_Petersburger_Strasse/st_petersburger_strasse.html).

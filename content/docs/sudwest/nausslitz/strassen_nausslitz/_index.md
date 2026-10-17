@@ -1,15 +1,7 @@
 ---
-title: "Straßen Nausslitz"
+title: "Straßen und Plätze in Naußlitz und Wölfnitz"
 date: 2024-02-17T22:13:44+01:00
 ---
-
-![straßen und plätze in naußlitz und wölfnitz](strassen_nausslitz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../sudwest/nausslitz/strassen_nausslitz/hauptseitenau_litz2.jpg)](../../../sudwest/nausslitz/)
 
 [![](../../../sudwest/nausslitz/strassen_nausslitz/hauptseitew_lfnitz2.jpg)](../../../sudwest/wolfnitz/)
 
@@ -99,11 +91,11 @@ Eine grundlegende Sanierung der nach 1990 an einen privaten Investor verkauften 
 
 Die kurze Gießener Straße, eine Seitenstraße der Kasseler Straße wurde Mitte der 1930er Jahre beim Bau eines neuen Wohnviertels angelegt und im November 1936 nach der hessischen Universitätsstadt Gießen benannt.
 
-![](../../../sudwest/nausslitz/strassen_nausslitz/hainichener straße.jpg)
+![](../../../sudwest/nausslitz/strassen_nausslitz/hainichener_straße.jpg)
 
 Die Hainichener Straße entstand 1933 als Fortsetzung der Rüdesheimer Straße und erhielt im Juli 1934 ihren Namen nach der mittelsächsischen Stadt Hainichen.
 
-![](../../../sudwest/nausslitz/strassen_nausslitz/hersfelder straße.jpg)
+![](../../../sudwest/nausslitz/strassen_nausslitz/hersfelder_straße.jpg)
 
 Die Hersfelder Straße wurde 1935 beim Ausbau eines kleinen Wohnviertels westlich der Kasseler Straße angelegt. Seit November 1936 ist sie nach der hessischen Stadt Hersfeld (seit 1949 Bad Hersfeld) benannt.
 

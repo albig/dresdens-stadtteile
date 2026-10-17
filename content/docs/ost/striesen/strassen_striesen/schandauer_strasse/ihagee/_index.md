@@ -3,19 +3,6 @@ title: "Ihagee"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../../ost/striesen/hauptseitestriesen.jpg)](../../../../../ost/striesen/)
-
-* * *
-
-
-
-
 ![](../../../../../ost/striesen/strassen_striesen/schandauer_strasse/ihagee/striesen_ihagee2.jpg)Die Firma Ihagee wurde vom holländischen Konstrukteur Johan Steenbergen gegründet, der
 seit 1908 bei Ernemann in dessen [Kamerawerk](../../../../../ost/striesen/strassen_striesen/schandauer_strasse/ernemann-werke/) tätig war. 1912 verließ Steenbergen die
 Firma und baute sich ein eigenes Unternehmen auf. Der erster Sitz dieses Betriebes befand sich in den Räumen einer früheren Tischlerei auf der Marcolinistraße 8 in der Friedrichstadt.

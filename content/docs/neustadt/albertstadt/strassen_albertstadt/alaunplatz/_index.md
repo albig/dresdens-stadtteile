@@ -3,14 +3,6 @@ title: "Alaunplatz"
 date: 2024-02-17T22:13:30+01:00
 ---
 
-![alaunplatz](alaunplatz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../neustadt/hauptseitealbertstadt.jpg)](../../../../neustadt/albertstadt/)
-
 _So ist unser Alaunplatz aus einer öden Sandfläche zu einem militärischen Festplatz von geschichtlicher Bedeutung geworden. Kaiser und Könige, Fürsten und_
 _Prinzen, berühmte Feldherren und Generäle, Offiziere aller Armeen und mehrere Generationen sächsischer Krieger hat er im Schmuck der Waffen gesehen, und immer bei Anlässen, die dem Wohle des_
 _Vaterlandes, der Ehre der Armee, der Hochachtung unseres Königshauses galten. Möge auch in Zukunft der Dresdner Alaunplatz der Schauplatz friedlich- freudiger Ereignisse der Dresdner Garnison und_

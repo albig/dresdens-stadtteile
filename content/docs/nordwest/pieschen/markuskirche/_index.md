@@ -3,24 +3,6 @@ title: "Markuskirche"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![markuskirche](markuskirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../hauptseitepieschen.jpg)](../../../nordwest/pieschen/)
-
 * * *
 
 ![evang.-lutherische  markuskirche hubertusstraße 1 01129 dresden  tel. 0351 / 848 92 74  markusfriedhof hubertusstr. 1 01129 dresden](../../../nordwest/pieschen/markuskirche/a_rectangle_1078.gif)

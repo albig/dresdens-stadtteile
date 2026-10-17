@@ -10,14 +10,6 @@ date: 2024-02-17T22:13:44+01:00
 
 ![](../../../plz_01156.jpg)
 
-[![](../../../nachbarn.jpg)](../../../sudwest/gompitz/)
-
-* * *
-
-
-
-
-
 Älteste Besiedlungsspuren auf Roitzscher Flur stammen von 5.000 v. Chr. und werden der Kultur der Bandkeramiker zugeordnet. 1922 wurde an der Ortsgrenze zu Unkersdorf ein Beil gefunden, welches sich heute
 in der Heimatsammlung Wilsdruff befindet. Der Ort selbst geht auf einen slawischen Rundweiler zurück, der bereits 1071 erstmals als Grodice urkundlich erwähnt ist und somit zu den ältesten Siedlungen im Stadtgebiet
 gehört. Roitzsch wird in dieser Urkunde des Bischofs Benno als zugehörig zum Burgward Woz genannt. Der Name weist auf eine frühgeschichtliche Burganlage hin. In neueren Quellen wird dieses Grodice jedoch mit dem zu

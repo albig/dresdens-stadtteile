@@ -3,19 +3,6 @@ title: "Hansastraße"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![hansastraße](hansastrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../neustadt/leipziger_vorstadt/hauptseitelv.jpg)](../../../../neustadt/leipziger_vorstadt/)
-
-* * *
-
-
-
-
 Die Hansastraße wurde 1898 als neue Verbindung zwischen der Inneren Neustadt und dem Dresdner Norden angelegt, blieb zunächst jedoch unbebaut. Ihren Namen erhielt sie nach der Hansa bzw. Hanse, dem mittelalterlichen Bund der norddeutschen Handelsstädte. Nach 1900 entstanden hier ausgedehnte Kleingartenanlagen, die nicht nur der Erholung der Arbeiter der angrenzenden dichtbesiedelten Wohnviertel dienten, sondern auch einen wichtigen Beitrag zur Versorgung mit frischem Obst und Gemüse leisteten. 1927-29 errichtete die Eisenbahner-Wohnungsbau-Genossenschaft den markanten Gebäudekomplex an der Hansastraße / Großenhainer Straße mit ca. 500 Wohnungen _(Fotos)_. Architekt der im expressionistischen Stil mit Klinkerelementen verzierten Häuser war Curt Herfurth. Die aus zwei Wohnanlagen mit über 50 Einzelhäusern bestehende Wohnsiedlung ist eine der größten in Dresden und steht unter Denkmalschutz.
 
 ![](../../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/hansastrasse/lvhansastr.jpg)Im Zusammenhang mit dem Bau der Autobahn Dresden - Chemnitz - Hof erfolgte ab 1940 der vierspurige Ausbau der Hansastraße und der anschließenden Radeburger Straße als Autobahnzubringer. Dabei verschwand auch das frühere Gasthaus zum Hecht, ein bereits 1735 erwähntes Lokal des Neudorfer Revierförster August Hecht. Im September 1942 erhielten beide Straßen nach dem Leiter des NS-Autobahnprojektes den Namen Dr.-Todt-Straße. Der Bauingenieur Fritz Todt (1891-1942) war Generalinspektor für das Straßenwesen in Deutschland und kam 1942 bei einem Flugzeugabsturz ums Leben. Am 27. September 1945 wurde diese Namensgebung wieder aufgehoben.

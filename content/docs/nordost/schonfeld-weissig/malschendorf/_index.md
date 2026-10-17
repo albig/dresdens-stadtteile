@@ -3,18 +3,6 @@ title: "Malschendorf"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-
-* * *
-
-
-
-
-[![](../../../nachbarn.jpg)](../../../nordost/schonfeld-weissig/)
-
-* * *
-
-
-
 ![](../../../nordost/schonfeld-weissig/malschendorf/malschendorf.jpg)Malschendorf entstand im 11./12. Jahrhundert als Ansiedlung fränkischer Bauern,
 die zu dieser Zeit das Schönfelder Hochland in Besitz nahmen. Angelegt wurde der Ort als typisches Platzdorf dieser Besiedlungsperiode mit Gewannstreifenflur. Die
 erste urkundliche Erwähnung als Marchschendorff stammt aus dem Jahr 1414. Der Name ist wahrscheinlich von einem Personennamen abgeleitet. Ursprünglich

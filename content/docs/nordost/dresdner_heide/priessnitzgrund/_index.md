@@ -3,16 +3,6 @@ title: "Prießnitzgrund"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![prießnitzgrund](priessnitzgrund_nurbanlegendbannerh.gif)
-
-* * *
-
-* * *
-
-
-
-[![](../../../nordost/hauptseitedresdnerheide.jpg)](../../../nordost/dresdner_heide/)
-
 * * *
 
 **Nebenflüsse der Prießnitz**

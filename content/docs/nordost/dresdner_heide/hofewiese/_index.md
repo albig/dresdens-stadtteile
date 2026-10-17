@@ -3,28 +3,7 @@ title: "Hofewiese"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![hofewiese](hofewiese_nlafleurbannerh.gif)
-
 * * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../nord/hauptseitedresdnerheide.jpg)](../../../nordost/dresdner_heide/)
-
-* * *
-
-
-
 
 ![](../../../nordost/dresdner_heide/hofewiese/drheidehofewiese3.jpg)Die Hofewiese, auf Langebrücker Flur inmitten der Heide gelegen, wurde 1547
 erstmals urkundlich erwähnt. Der Name leitet sich von einer Wiese im Heidegebiet ab, deren Heu zur Wildfütterung des kurfürstlichen Jagdreviers genutzt wurde. Solche

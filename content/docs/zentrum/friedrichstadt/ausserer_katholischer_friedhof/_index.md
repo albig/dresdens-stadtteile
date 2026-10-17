@@ -3,16 +3,6 @@ title: "Äußerer Katholischer Friedhof"
 date: 2024-02-17T22:13:46+01:00
 ---
 
-![äußerer katholischer friedhof](ausserer_katholischer_friedhof_nurbanlegendbannerh.gif)
-
-* * *
-
-* * *
-
-
-
-[![](../../../hauptseitefriedrichstadt.jpg)](../../../zentrum/friedrichstadt/)
-
 * * *
 
 ![äußerer  katholischer friedhof  bremer str. 20 01067 dresden  tel. 0351/4 96 30 82](../../../zentrum/friedrichstadt/ausserer_katholischer_friedhof/a_rectangle_1635.gif)

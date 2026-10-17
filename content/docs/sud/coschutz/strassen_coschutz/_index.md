@@ -1,15 +1,7 @@
 ---
-title: "Straßen Coschutz"
+title: "Straßen und Plätze in Coschütz"
 date: 2024-02-17T22:13:41+01:00
 ---
-
-![straßen und plätze in coschütz](strassen_coschutz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../sud/coschutz/strassen_coschutz/hauptseitecosch_tz2.jpg)](../../../sud/coschutz/)
 
 ![achtbeeteweg](../../../sud/coschutz/strassen_coschutz/a_rectangle_615.gif)
 
@@ -43,7 +35,7 @@ Die Birkigter Straße verläuft im Plauenschen Grund unmittelbar neben der Bahnt
 
 Nach der Erschließung entstanden hier auf ehemaligem Ziegeleigelände einige Siedlungshäuser. Weitere Einfamilienhäuser folgten nach 1990 _(Foto)_.
 
-![](../../../sud/coschutz/strassen_coschutz/bruchsaler weg.jpg)
+![](../../../sud/coschutz/strassen_coschutz/bruchsaler_weg.jpg)
 
 ![](../../../sud/coschutz/strassen_coschutz/coschsportplatz.jpg)Der heute nicht mehr vorhandene Bruchsaler Weg wurde um 1935 als Erschließungsstraße einer geplanten, aber nicht realisierten Erweiterung des Wohngebietes an der Coschützer Höhe angelegt. Ursprünglich sollte er die Cunnersdorfer Straße mit einer Verlängerung der Rastatter Straße verbinden. Letztlich erfolgte jedoch nur der Ausbau einer kurzen Sackgasse an der Cunnersdorfer Straße. Die Namensgebung erfolgte nach der Stadt Bruchsal im heutigen Bundesland Baden-Württemberg. In den Stadtplänen ist der Bruchsaler Weg noch bis Anfang der 1970er Jahre ausgewiesen. Heute befindet sich auf dem Areal der Sportplatz Stuttgarter Straße. Der 1999 eingeweihte Kunstrasenplatz _(Foto)_ wird vom FV Dresden Süd-West genutzt.
 
@@ -53,7 +45,7 @@ Die Straße in der Nähe des Coschützer Dorfkerns entstand 1892 als Verbindung 
 
 ![](../../../sud/coschutz/strassen_coschutz/cosch_tzer_h_he.jpg)
 
-![](../../../sud/coschutz/strassen_coschutz/coschützer höhe.jpg)Die Straße Coschützer Höhe wurde Anfang der 1920er Jahre südlich des Achtbeeteweges angelegt. Zu dieser Zeit ließ die "Siedlungsgesellschaft Dresden-Stadt und Land" hier eine neue Wohnsiedlung errichten. Deren Lage war Anlass, die bisherige Planstraße A ab März 1923 als Coschützer Höhe zu bezeichnen. Die Doppelhäuser entstanden zwischen 1924 und 1928 und fallen durch ihre ungewöhnlichen Dachkonstruktionen in Form eines Schiffskiels auf. Lediglich bei den Häusern Nr. 6/8, 10/12 und 14/16 wurden diese nach Bombenschäden in der Nachkriegszeit durch einfache Satteldächer ersetzt. Am 9. Juli 1925 erfolgte für die ersten Bauten der "Hebeschmaus (Richtfest), bezogen wurden sie ab 1926. Ursprünglich waren die Fassaden in verschiedenen Farben gestaltet.
+![](../../../sud/coschutz/strassen_coschutz/coschützer_höhe.jpg)Die Straße Coschützer Höhe wurde Anfang der 1920er Jahre südlich des Achtbeeteweges angelegt. Zu dieser Zeit ließ die "Siedlungsgesellschaft Dresden-Stadt und Land" hier eine neue Wohnsiedlung errichten. Deren Lage war Anlass, die bisherige Planstraße A ab März 1923 als Coschützer Höhe zu bezeichnen. Die Doppelhäuser entstanden zwischen 1924 und 1928 und fallen durch ihre ungewöhnlichen Dachkonstruktionen in Form eines Schiffskiels auf. Lediglich bei den Häusern Nr. 6/8, 10/12 und 14/16 wurden diese nach Bombenschäden in der Nachkriegszeit durch einfache Satteldächer ersetzt. Am 9. Juli 1925 erfolgte für die ersten Bauten der "Hebeschmaus (Richtfest), bezogen wurden sie ab 1926. Ursprünglich waren die Fassaden in verschiedenen Farben gestaltet.
 
 ![coselweg](../../../sud/coschutz/strassen_coschutz/a_rectangle_613.gif)
 
@@ -77,7 +69,7 @@ Um den Coselgrund ranken sich mehrere Sagen, welche mit der Gräfin Cosel in Ver
 
 ![](../../../sud/coschutz/strassen_coschutz/cunnersdorfer_stra_e.jpg)
 
-![](../../../sud/coschutz/strassen_coschutz/cunnersdorfer straße.jpg)Die heutige Cunnersdorfer Straße geht auf einen alten Verbindungsweg zwischen Coschütz und Cunnersdorf, einem Ortsteil der
+![](../../../sud/coschutz/strassen_coschutz/cunnersdorfer_straße.jpg)Die heutige Cunnersdorfer Straße geht auf einen alten Verbindungsweg zwischen Coschütz und Cunnersdorf, einem Ortsteil der
 Gemeinde Bannewitz zurück. Erstmals ist sie im Adressbuch von 1902 verzeichnet. Zu diesem Zeitpunkt gab es hier nur wenige Gebäude, jedoch zwei Ziegeleien. Außerdem hatte die Gemeinde diese Straße 1874 mit Obstbäumen bepflanzen lassen.
 
 Erst nach dem Ersten Weltkrieg wurde auch das Gebiet südlich des Achtbeetewegs erschlossen. 1920 planten mehrere Baugenossenschaften die Errichtung von Einzel- und Doppelhäusern auf dem Areal der Lichtenbergerschen Ziegelei zwischen Kohlenstraße und Achtbeeteweg. Diese Planungen konnten jedoch erst in den 1930er Jahren durch den Kriegerheimstättenverein Coschütz realisiert werden. Im Zuge des Baus der [Brauerei Coschütz](../../../Sud/Coschutz/Strassen_Coschutz/Brauerei Coschütz/brauerei.html) (1973-1981) wurde die Cunnersdorfer Straße nochmals verlängert. 1994/95 folgte an der Einmündung des Achtbeeteweges die Wohnanlage "Cityhöhe" mit 73 Eigentumswohnungen. Zuvor war das Grundstück von einer Kohlenhandlung genutzt worden. Außerdem gab es bis 1989 an der Cunnersdorfer Straße eine von zwei Dresdner Mülldeponien.
@@ -108,7 +100,7 @@ Um die Kreuzung Felsenkeller- / Karlsruher / Windbergstraße entwickelte sich um
 
 ![](../../../sud/coschutz/strassen_coschutz/straßenwalze.jpg)Walzenfabrik Gebrüder Bobe: Das Unternehmen wurde 1899 von Ernst Bobe und seinem Bruder in Dresden gegründet und besaß auf dem Grundstück Gitterseestraße 13/15 (später Nr. 11) seine Werkstätten und Lagerräume. Sitz des Unternehmens war bis ca. 1930 die Pestitzer Straße 14 in Plauen. Die Firma stellte verschiedene Dampf- und Straßenwalzen _(Foto)_ sowie Maschinen zum Aufreißen von Straßen her, die man überwiegend an kommunale Auftraggeber, u.a. die Stadt Dresden verlieh. Auch das Bedienpersonal wurde dafür gestellt. 1907 erfolgte die Umwandlung in eine GmbH. 1914 wies die Bilanz der Gebrüder Bobe G.m.b.H. ein Stammkapital von 75.000 Mark und neun Straßenbauwalzen aus. Hinzu kamen weitere Fahrzeuge und Maschinen. Später wurden von Ernst Bobe, der mehrere Patente auf technische Neuerungen besaß, auch benzin- bzw. benzolgetriebene Walzen hergestellt und verkauft. Als einer der ersten Hersteller machte man sich dabei Erfahrungen aus dem Kraftfahrzeug- und Landmaschinenbau zu nutze. Heute nutzt eine Firma für Blitzschutztechnik das Areal.
 
-![heidelberger straße](../../../sud/coschutz/strassen_coschutz/heidelberger straße.jpg)
+![heidelberger straße](../../../sud/coschutz/strassen_coschutz/heidelberger_straße.jpg)
 
 ![](../../../sud/coschutz/strassen_coschutz/heidelbergerstr.jpg)Die Heidelberger Straße befindet sich im Gewerbegebiet Coschütz/Gittersee und wurde Mitte der 1990er Jahre angelegt. In Anlehnung an die nahegelegene Karlsruher Straße erhielten die neuen Straßen am 14. März 1996 Namen nach Städten in Baden-Württemberg, hier nach der Stadt Heidelberg am Neckar.
 
@@ -126,9 +118,9 @@ Im oberen Teil prägen Kleingärten und einige Einfamilienhäuser das Bild. Am u
 
 1990 wurde die Ausbildungsstätte unter dem Namen Sprengschule Dresden umstrukturiert, gehörte zeitweise zur Verkehrsbau Union Berlin GmbH. Seit 1992 ist sie eine eigenständige GmbH. Ausgebildet werden Sprengtechniker, Pyrotechniker, Experten für den Transport gefährlicher Güter sowie Spezialisten für die Kampfmittelbeseitigung. Aus der früheren Kantine der Berufsschule ging das heutige Hotel Heidenschanze hervor _(Foto)_.
 
-![heilbronner straße](../../../sud/coschutz/strassen_coschutz/heilbronner straße.jpg)
+![heilbronner straße](../../../sud/coschutz/strassen_coschutz/heilbronner_straße.jpg)
 
-![](../../../sud/coschutz/strassen_coschutz/cosch_heilbronner straße.jpg)Wie die benachbarten Straßen wurde auch die Heilbronner Straße Mitte der 1990er Jahre zur Erschließung des Gewerbegebiets Coschütz/Gittersee angelegt (Planstraße 2) und am 14. März 1996 nach der Stadt Heilbronn in Baden-Württemberg benannt. Mit der Namensgebung setzte sich die Tradition fort, Straßen in Coschütz nach Orten in Südwestdeutschland zu benennen. In den Folgejahren errichteten hier verschiedene mittelständische Firmen und Handwerksbetriebe Verwaltungs- und Produktionsgebäude.
+![](../../../sud/coschutz/strassen_coschutz/cosch_heilbronner_straße.jpg)Wie die benachbarten Straßen wurde auch die Heilbronner Straße Mitte der 1990er Jahre zur Erschließung des Gewerbegebiets Coschütz/Gittersee angelegt (Planstraße 2) und am 14. März 1996 nach der Stadt Heilbronn in Baden-Württemberg benannt. Mit der Namensgebung setzte sich die Tradition fort, Straßen in Coschütz nach Orten in Südwestdeutschland zu benennen. In den Folgejahren errichteten hier verschiedene mittelständische Firmen und Handwerksbetriebe Verwaltungs- und Produktionsgebäude.
 
 Vor 1989 war das Areal Standort der Uran-Aufbereitungsanlage der Wismut, später des Reifenwerkes Pneumant. 2001 errichtete die aus dem ehemaligen Kombinat Robotron hervorgegangene Robotron Datenbank Software GmbH an der Ecke zur Stuttgarter Straße ein neues Bürohaus _(Foto)_.
 
@@ -162,11 +154,11 @@ Erst 1981 begann der Bau eines Neubaugebietes auf den zuvor landwirtschaftlich g
 
 _des Restaurants Dresdner Aussicht  über die Stadt (rechts)_
 
-![kreuznacher  straße](../../../sud/coschutz/strassen_coschutz/kreuznacher straße.jpg)
+![kreuznacher  straße](../../../sud/coschutz/strassen_coschutz/kreuznacher_straße.jpg)
 
 Die Kreuznacher Straße wurde 1927 als Verbindungsstraße zwischen Saarstraße und Saarbrückener Straße angelegt und im Anschluss mit zwei Wohnhäusern bebaut. Benannt ist sie nach dem Kurort Bad Kreuznach in Rheinland-Pfalz.
 
-![landauer straße](../../../sud/coschutz/strassen_coschutz/landauer straße.jpg)
+![landauer straße](../../../sud/coschutz/strassen_coschutz/landauer_straße.jpg)
 
 Die Landauer Straße wurde Ende der 1920er Jahre in Verbindung mit einer geplanten Wohnsiedlung angelegt und ist 1929 erstmals im Stadtplan verzeichnet. Ihren Namen erhielt sie in Anlehnung an benachbarte Straßen nach der Stadt Landau in der Pfalz. Ursprünglich sollte sie als durchgängige Verbindung vom Saarplatz bis zur Coschützer Straße führen und dort eine Verbindung zur Kaitzer Straße bilden. Allerdings entstanden bis zum Zweiten Weltkrieg lediglich die beiden Wohnhäuser Nr. 11 und 15, so dass die Straße bis heute eine kurze Sackgasse ist.
 
@@ -188,15 +180,15 @@ Seinen Namen erhielt der Weg nach dem auf Bannewitzer Flur gelegenen früheren M
 
 Der heute nur noch in Teilabschnitten vorhandene Nautelweg verband einst Gittersee, Coschütz, Kaitz und Mockritz und war ein beliebter Wanderweg an den südlichen Höhen des Elbtals. Bereits 1785 ist der Weg im Sächsischen Meilenblatt eingezeichnet. Seinen Anfang nahm er an der heutigen Karlsruher Straße in Höhe der Friedhofstraße und führte von dort über Coschützer Flur nach Kaitz. Westlich des Dorfkerns vereinigte er sich mit dem Achtbeeteweg und verlief von dort Richtung Mockritz durch das Kaitzbachtal _(siehe Karte)_.
 
-[![nautelweg](../../../sud/coschutz/strassen_coschutz/karte nautelweg.jpg)](../../../sud/gittersee/strassen_gittersee/karlsruher_strasse/)
+[![nautelweg](../../../sud/coschutz/strassen_coschutz/karte_nautelweg.jpg)](../../../sud/gittersee/strassen_gittersee/karlsruher_strasse/)
 
 Bereits vor dem Ersten Weltkrieg wurde der Abschnitt in Gittersee ausgebaut und Friedhofstraße genannt. 1908 erwarb der Coschützer Bauverein einige Grundstücke am Nautelweg für den Bau von Eigenheimen. 1921 entstand die noch heute existierende [Kleingartensparte Nautelweg e. V.](../../../sud/coschutz/) In den Jahren nach 1945 wurde der Nautelweg auf Coschützer Flur durch die Wismut-Uranaufbereitungsanlage überbaut und ist 1954 nur noch zwischen Cunnersdorfer Straße und Kaitz vorhanden. 1961 verschwanden auch die übrigen Abschnitte im Zusammenhang mit der Errichtung der Absetzanlage Nautelwegsenke, in der Abraum und Schlämme der Uranverarbeitung abgelagert wurden. Seinem früheren Verlauf folgt heute zum Teil die Stuttgarter Straße.
 
-![niederhäslicher weg](../../../sud/coschutz/strassen_coschutz/niederhäslicher weg.jpg)
+![niederhäslicher weg](../../../sud/coschutz/strassen_coschutz/niederhäslicher_weg.jpg)
 
 Der Niederhäslicher Weg ist erstmals im Adressbuch von 1930 aufgeführt. Benannt wurde er im Juli 1929 nach dem kleinen Dorf Niederhäslich, heute ein Stadtteil von Freital. Der vom Achtbeetweg südlich abzweigende Weg erschließt eine um 1930 angelegte Wohnsiedlung des "Reichsbundes Schwerbeschädigter Siedler".
 
-![ölsaer weg](../../../sud/coschutz/strassen_coschutz/ölsaer weg.jpg)
+![ölsaer weg](../../../sud/coschutz/strassen_coschutz/ölsaer_weg.jpg)
 
 Auch der Ölsaer Weg wurde Mitte der 1920er Jahre zur Erschließung einer kleinen Wohnsiedlung südlich des Achtbeeteweges angelegt. Seinen Namen erhielt er im Dezember 1925 nach dem Ort Oelsa, seit 1994 ein Ortsteil der Stadt Rabenau. Die Wohnhäuser entstanden ab 1928 für den Reichsbund - Schwerbeschädigten-Siedlergruppe Dresden-Coschütz im Allgemeinen Sächsischen Siedlerverband e.V.
 
@@ -204,13 +196,13 @@ Auch der Ölsaer Weg wurde Mitte der 1920er Jahre zur Erschließung einer kleine
 
 **_Fotos:_** _Blick in die Siedlung am Ölsaer Weg im Winter 1999_
 
-![offenburger straße](../../../sud/coschutz/strassen_coschutz/offenburger straße.jpg)
+![offenburger straße](../../../sud/coschutz/strassen_coschutz/offenburger_straße.jpg)
 
 Die Offenburger Straße wurde zur Erschließung des Gewerbegebietes Coschütz-Gittersee als Verbindung zwischen Karlsruher und Stuttgarter Straße angelegt (Planstraße 7) und auf Beschluss des Stadtrates vom 14. März 1996 benannt. Namensgeber war, einer Tradition des Stadtteils folgend, die Kreisstadt Offenburg im Westen Baden-Württembergs. Bebaut wurden die Flächen an der Offenburger Straße mit Büro- und Gewerbegebäuden verschiedener Unternehmen.
 
 ![](../../../sud/coschutz/strassen_coschutz/coschoffenburgerstr.jpg)Bekannteste Firma ist die Dr. Quendt Backwaren GmbH, die am 4. August 2000 ein ursprünglich für den Elektronikhersteller Robotron errichtetes Gebäude übernahm (Offenburger Straße 1). Die Geschichte des Betriebes reicht bis ins Jahr 1876 zurück, als die Dresdner Kaufleute Wenzel Hromadka und Heinrich Vollmann an der [Kaitzer Straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/kaitzer_strasse/) die "Original Wiener Waffel-, Hohlrippen-, Bisquit- etc. Special-Fabrik" gründeten. Das 1905 vom Konditor Richard Wiedner übernommene Unternehmen wurde als Hersteller von Russisch Brot ("BERBÖ", ab 1972 VEB Rubro") und anderen Dauerbackwaren bekannt und gehörte bis 1990 zum VEB Elite Dauerbackwaren. 1991 übernahm die neu gegründete Dr. Quendt Backwaren GmbH den Betrieb und nahm drei Jahre später auch die Produktion von Dresdner Christstollen sowie mit der Übernahme der insolventen Firma Herbert Wendler 1999 die von Dominosteinen auf. Platzgründe führten 2000 zur Verlegung des Werkes nach Coschütz, wo es seit 2008 auch einen Werksverkauf und ein Besucherzentrum gibt. Seit 2014 gehört die Firma zur Lambertz-Gruppe.
 
-![pforzheimer straße](../../../sud/coschutz/strassen_coschutz/pforzheimer straße.jpg)
+![pforzheimer straße](../../../sud/coschutz/strassen_coschutz/pforzheimer_straße.jpg)
 
 Die Pforzheimer Straße entstand beim Bau des zweiten Bauabschnittes des Coschützer Gewerbegebietes (Planstraße 6) und wurde 1996 ebenfalls nach einer Stadt in Baden-Württemberg benannt. Neben verschiedenen Unternehmen befindet sich hier seit dem 1. November 2006 ein kommunaler Wertstoffhof für die Abgabe von Sperrmüll und Elektrogroßgeräten. Zuvor befand sich auf dem Areal bis zum Abriss 1995 der VEB Reifenwerk Dresden.
 
@@ -218,15 +210,15 @@ Die Pforzheimer Straße entstand beim Bau des zweiten Bauabschnittes des Coschü
 
 Der Poisenweg wurde Ende der 1920er Jahre als Nebenstraße der Kohlenstraße angelegt und ab 1930 durch den Kriegerheimstättenverein Coschütz mit Einfamilienhäusern bebaut. Der im Dezember 1928 amtlich eingeführte Straßenname nimmt Bezug auf den zwischen Freital-Niederhäslich und Possendorf gelegenen Poisenwald und den durch diese Flur fließenden Poisenbach.
 
-![rastatter straße](../../../sud/coschutz/strassen_coschutz/rastatter straße.jpg)
+![rastatter straße](../../../sud/coschutz/strassen_coschutz/rastatter_straße.jpg)
 
 ![](../../../sud/coschutz/strassen_coschutz/coschrastatterstr.jpg)Die Rastatter Straße entstand Mitte der 1930er Jahre im Zusammenhang mit dem Bau einer kleinen Wohnsiedlung und ist 1935 erstmals im Adressbuch aufgeführt. Die offizielle Namensgebung erfolgte jedoch bereits im September 1924. Die ursprünglich nur kurze Seitenstraße der Mannheimer Straße wurde nach der Stadt Rastatt in Baden-Württemberg benannt. Bis zum Zweiten Weltkrieg entstanden hier vier Siedlungshäuser. 1983 folgte eine Kinderkrippe in der Nr. 15. Das Gebäude wurde 2001 saniert und wird bis heute als Kita genutzt. Bereits Anfang der 1990er Jahre erfolgte eine Verlängerung der Straße und 1996/98 der Bau der Reihenhausgruppe Nr. 9-13, die die ältere Bebauung ergänzt _(Foto)_.
 
-![reutlinger weg](../../../sud/coschutz/strassen_coschutz/reutlinger weg.jpg)
+![reutlinger weg](../../../sud/coschutz/strassen_coschutz/reutlinger_weg.jpg)
 
 Der Reutlinger Weg wurde 2000 angelegt und bildet die südöstliche Begrenzung des Gewerbegebietes Coschütz-Gittersee. Er verläuft oberhalb des Kaitzgrundes auf einer früheren Uranhalde und wurde nach der Stadt Reutlingen in Baden-Württemberg benannt.
 
-![saarbrückener straße](../../../sud/coschutz/strassen_coschutz/saarbrückener straße.jpg)
+![saarbrückener straße](../../../sud/coschutz/strassen_coschutz/saarbrückener_straße.jpg)
 
 Die Saarbrückener Straße entstand Mitte der 1930er Jahre in der Nähe des Saarplatzes und der angrenzenden Saarstraße und wurde im Dezember 1937 nach der Hauptstadt des Saarlandes benannt. Bis zum Beginn des Zweiten Weltkrieges wurden hier einige Doppelhäuser errichtet. Seit 1993 ergänzen drei Einfamilienhäuser die vorhandene Bebauung.
 

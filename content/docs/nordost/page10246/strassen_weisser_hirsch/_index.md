@@ -1,15 +1,7 @@
 ---
-title: "Straßen Weißer Hirsch"
+title: "Straßen und Plätze am Weißen Hirsch"
 date: 2024-02-17T22:13:34+01:00
 ---
-
-![straßen und plätze am weißen hirsch](strassen_weisser_hirsch_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../nordost/page10246/strassen_weisser_hirsch/hauptseitewhirsch2.jpg)](../../../nordost/page10246/)
 
 ![alojs-andricki-straße](a_rectangle_148.gif)
 

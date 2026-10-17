@@ -3,14 +3,6 @@ title: "Albertstadt"
 date: 2024-02-17T22:13:30+01:00
 ---
 
-
-* * *
-
-
-
-
-[![](../../nachbarn.jpg)](../../neustadt/)
-
 ![](../../neustadt/albertstadt/albertstadt.jpg)Die Albertstadt wurde ab 1873 auf dem bis dahin unbebauten Gelände der Hellerterrassen im Norden der Stadt planmäßig angelegt und als Garnison der sächsischen Armee ausgebaut. Bis 1945 bildete die Militärstadt mit ihren Kasernen, wirtschaftlichen und militärischen Einrichtungen einen selbstständigen Gutsbezirk und wurde erst nach Ende des Zweiten Weltkrieges nach Dresden eingemeindet. Namensgeber des Stadtteils war der ab 1873 regierende sächsische König Albert, der zugleich als Oberbefehlshaber aller sächsischen Truppen fungierte. Für die Anlage der Albertstadt wurden Teile des Fischhäuser und Neudorfer Staatsforstreviers sowie Flurstücke der Stadt Dresden und der Gemeinden Loschwitz, Klotzsche, Rähnitz und Wilschdorf einbezogen. 1883 wurde das Areal offiziell zum selbständigen Gutsbezirk erklärt.
 
 Als eigentlicher Gründungstag der Albertstadt gilt jedoch der 7. Februar 1873, als die sächsische Ständeversammlung die Pläne des Kriegsministeriums billigte. Mit einer politisch und wirtschaftlich selbstständigen Militärstadt sollten kurze Entscheidungswege erreicht und unerwünschter politischer Einfluss von den Militärangehörigen ferngehalten werden. Gleichzeitig gelang es jedoch, moderne Erkenntnisse der militärischen Ausbildung und der Militärhygiene umzusetzen und so die Lebensbedingungen der Soldaten spürbar zu verbessern. Zuvor waren die meisten Militärangehörigen in beengten Unterkünften in der Alt- und Neustadt, zum Teil sogar in Privathäusern untergebracht. Außerdem hemmte die enge Verflechtung zwischen militärisch genutzten und zivilen Objekten die weitere städtebauliche Entwicklung Dresdens.

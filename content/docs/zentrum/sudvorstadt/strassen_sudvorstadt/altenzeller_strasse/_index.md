@@ -3,20 +3,6 @@ title: "Altenzeller Straße"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![altenzeller straße](altenzeller_strasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseites_dvorstadt.jpg)](../../../../zentrum/sudvorstadt/)
-
-* * *
-
-
-
-
-
 ![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/altenzeller_strasse/s_dvaltenzellerstr37.jpg)Der Name Altenzeller Straße erinnert an einen bereits im Mittelalter vorhandenen
 Fahrweg am Fuße der südlichen Elbtalhänge. Da dieser Weg von den Mönchen des Klosters Altzella auf ihrem Weg zum Leubnitzer Klosterhof benutzt wurde, bürgerte sich der Name [Zellescher Weg](../../../../sud/zschertnitz/strassen_zschertnitz/zellescher_weg/) ein. Während der Straßenabschnitt zwischen
 Fritz-Förster-Platz und Teplitzer Straße noch heute diesen Namen trägt, benannte man den in der Südvorstadt gelegenen Straßenteil nach seinem Ausbau 1883 in

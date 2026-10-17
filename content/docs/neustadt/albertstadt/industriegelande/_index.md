@@ -3,12 +3,6 @@ title: "Industriegelände"
 date: 2024-02-17T22:13:30+01:00
 ---
 
-
-
-[![](../../../neustadt/hauptseitealbertstadt.jpg)](../../../neustadt/albertstadt/)
-
-* * *
-
 **Clubs im Industriegelände (Auswahl):**
 
 [**Washroom**](http://www.washroom.de) [**Strasse E**](http://www.strasse-e.de) [**Tante Ju**](http://www.liveclub-dresden.de)

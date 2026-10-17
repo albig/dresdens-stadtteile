@@ -3,24 +3,6 @@ title: "Weingut Wilder Mann"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![weingut wilder mann](wilder_mann_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../hauptseitetrachenberge.jpg)](../../../nordwest/trachenberge/)
-
 * * *
 
 ![](../../../nordwest/trachenberge/wilder_mann/wildermann3.jpg)

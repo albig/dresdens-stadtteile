@@ -3,16 +3,6 @@ title: "Technische Sammlungen"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../../../hauptseitestriesen.jpg)](../../../../../../ost/striesen/)
-
-* * *
-
 [![technische sammlungen der stadt dresden  junghansstr. 1-3 01277 dresden tel. 0351/3144110  internet: www.tsd.de](../../../../../../ost/striesen/strassen_striesen/schandauer_strasse/ernemann-werke/a_round_rectangle_93.gif)](http://www.tsd.de)
 
 **Öffnungszeiten Aussichtsturm:**

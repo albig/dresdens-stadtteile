@@ -1,15 +1,7 @@
 ---
-title: "Straßen Rossthal"
+title: "Straßen und Plätze in Roßthal-Neunimptsch"
 date: 2024-02-17T22:13:44+01:00
 ---
-
-![straßen und plätze in roßthal-neunimptsch](strassen_rossthal_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../sudwest/rossthal/strassen_rossthal/hauptseitero_thal2.jpg)](../../../sudwest/rossthal/)
 
 ![altroßthal](../../../sudwest/rossthal/strassen_rossthal/a_rectangle_559.gif)
 

@@ -3,18 +3,7 @@ title: "Chemnitzer Straße"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-![chemnitzer straße](chemnitzer_strasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseiteplauen.jpg)](../../../../sud/plauen/)
-
 [![](../../../../hauptseites_dvorstadt.jpg)](../../../../zentrum/sudvorstadt/)
-
-* * *
-
 
 * * *
 

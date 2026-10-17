@@ -3,20 +3,7 @@ title: "Meixgrund"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![meixgrund](meixgrund_nurbanlegendbannerh.gif)
-
 * * *
-
-* * *
-
-
-
-[![](../../../nordost/hauptseitepillnitz.jpg)](../../../nordost/pillnitz/)
-
-* * *
-
-
-
 
 ![](../../../nordost/pillnitz/meixgrund/pillnitzmeixgrund.jpg)Der Meixgrund, auch Friedrichsgrund genannt, gehört zu den romantischen rechtselbischen Seitentälern zwischen Pillnitz und Loschwitz und wurde 1403 im Zusammenhang mit der Schenkung von Pillnitz an Euphemia von Karas erstmals als Vallis Michcz urkundlich erwähnt. Zu diesem Zeitpunkt befand sich das Tal gemeinsam mit dem Ort Pillnitz im Besitz der Familie Karas. Die bereits existierende Mühle erhielt schon früh das Schankrecht und diente als Ausspanne der Fuhrleute des Schönfelder Hochlandes auf ihrem Weg ins Elbtal.Später war sie auch zeitweiliger Jagdaufenthalt der Wettiner. Oberhalb des Meixgrundes befindet sich auf einem Bergsporn das sogenannte Kanapee, eine aus der Bronzezeit (um 1200 v. Chr.) stammende frühgeschichtliche Befestigungsanlage, die noch bis ins 10. Jahrhundert von der slawischen Bevölkerung als Fluchtburg genutzt wurde. Deutlich zu erkennen sind Reste des einst bis zu 10 Meter hohen Burgwalls und eines Hohlweges, der zum Burgplateau führt.
 

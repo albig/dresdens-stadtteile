@@ -3,10 +3,6 @@ title: "Ostragehege"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-[![](../../../hauptseitefriedrichstadt.jpg)](../../../zentrum/friedrichstadt/)
-
-* * *
-
 ![](../../../zentrum/friedrichstadt/ostragehege/friedrichstostragut1.jpg)Bereits im 15. Jahrhundert existierte in der Nähe der alten Weißeritzmündung ein
 Vorwerk, welches sich 1535 im Besitz Herzog Georg des Bärtigen befand. Dieser veräußerte es noch im gleichen Jahr an den Freiberger Münzmeister und Rat Dr. Georg von Kommerstädt, der das Vorwerk unter Einbeziehung des
 sogenannten Kapellengutes der Alexiuskapelle ausbauen ließ. Nachdem Georg von Kommerstädt wegen Unregelmäßigkeiten in der Münzstätte in Ungnade gefallen war, musste er das Anwesen 1550 verkaufen. Den Baumgarten zu

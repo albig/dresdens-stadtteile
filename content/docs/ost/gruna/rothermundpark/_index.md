@@ -3,20 +3,7 @@ title: "Rothermundtpark"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![rothermundtpark](rothermundpark_nurbanlegendbannerh.gif)
-
 * * *
-
-* * *
-
-
-
-[![](../../../ost/hauptseitegruna.jpg)](../../../ost/gruna/)
-
-* * *
-
-
-
 
 ![](../../../ost/gruna/rothermundpark/grunarothermundvilla.jpg)Der Rothermundtpark geht auf das frühere Landhaus des russischen Kaufmannes Julius Ludwig Rothermundt zurück. Rothermundt, gebürtiger Russe und Inhaber mehrerer Fabriken, besaß im benachbarten Blasewitz eine repräsentative Villa und erwarb um 1875 die zuletzt als Gasthaus [Grüne Wiese](../../../ost/gruna/strassen_gruna/bodenbacher_strasse/grune_wiese/) genutzte Grunaer Schmiede. Nach Abriss dieses Gebäudes ließ er sich auf dem Grundstück ein auch als Parkhaus bezeichnetes schlossartiges Landhaus mit viereckigem Turm errichten _(Foto)_. Um das Haus entstand eine ausgedehnte Parkanlage, die ab 1914 auch der Öffentlichkeit zugänglich war. Rothermundts Landhaus gehörte zu den wenigen Villenbauten in Gruna und fiel am 13. Februar 1945 dem Luftangriff zum Opfer. Zuvor hatte die örtliche NSDAP-Ortsgruppe die Villa ab 1935 als Geschäftsstelle genutzt.
 

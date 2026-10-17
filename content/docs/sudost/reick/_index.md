@@ -12,14 +12,6 @@ date: 2024-02-17T22:13:42+01:00
 
 **Gemeindesiegel von Reick**
 
-
-[![](../../nachbarn.jpg)](../../sudost/)
-
-* * *
-
-
-
-
 * * *
 
 **Schulen in Reick**
@@ -105,7 +97,7 @@ Die Radrennbahn Reick wurde im Jahr 1909 vom Verein für Radwettfahrten nord
 
 ![](../../sudost/reick/reickradrennbahn.jpg)Dank der Unterstützung finanzkräftiger Sponsoren wie dem Odol-Fabrikanten Lingner, dem Direktor der Dresdner Filiale der Deutschen Bank Hermann und der Bankiersfamilie Arnhold entstand in Reick eine der damals modernsten Radrennbahnen Deutschlands. Die offizielle Einweihung erfolgte am 13. März 1910. Noch im gleichen Jahr wurde hier die Europameisterschaft im Radrennen ausgetragen. Die Bahn war jedoch nicht nur Schauplatz für große Sportveranstaltungen, sondern wurde auch für Kundgebungen genutzt. Bei einer der größten sprach am 19. Juli 1932 der KPD-Vorsitzende Ernst Thälmann vor 80.000 Dresdner Arbeitern _(Foto: SLUB/Fotothek)_.
 
-![](../../sudost/reick/ballontag 1914.jpg)Für Aufsehen hatte bereits am 27. März 1910 der Ballonaufstieg der Schwestern Große aus Meißen gesorgt, die mit ihrem Ballon von Reick aus bis in die Karpaten reisten. Die Ballonfahrt erfolgte im Rahmen eines Flugtages mit 26 Teilnehmern und unter Anwesenheit des sächsischen Königs sowie des Kriegsministers von Hausen. Ein weiterer Nationaler Ballonwettbewerb fand am Ostersonntag 1911 statt. 12 Mannschaften traten dabei zu einer Ziel- und Weitfahrt an. Während des Wettstreits ereignete sich ein tragisches Unglück, bei dem ein Ballon außer Kontrolle geriet und nach Kollission mit dem Kohlenvorratsbunker der Gasanstalt abstürzte. Der Ballonführer, ein Offizier aus Halle, kam beim Absturz ums Leben, seine vier Mitfahrer wurden schwer verletzt. _(Foto: Kurt Otto Burghardt (1914)- SLUB/Fotothek)_
+![](../../sudost/reick/ballontag_1914.jpg)Für Aufsehen hatte bereits am 27. März 1910 der Ballonaufstieg der Schwestern Große aus Meißen gesorgt, die mit ihrem Ballon von Reick aus bis in die Karpaten reisten. Die Ballonfahrt erfolgte im Rahmen eines Flugtages mit 26 Teilnehmern und unter Anwesenheit des sächsischen Königs sowie des Kriegsministers von Hausen. Ein weiterer Nationaler Ballonwettbewerb fand am Ostersonntag 1911 statt. 12 Mannschaften traten dabei zu einer Ziel- und Weitfahrt an. Während des Wettstreits ereignete sich ein tragisches Unglück, bei dem ein Ballon außer Kontrolle geriet und nach Kollission mit dem Kohlenvorratsbunker der Gasanstalt abstürzte. Der Ballonführer, ein Offizier aus Halle, kam beim Absturz ums Leben, seine vier Mitfahrer wurden schwer verletzt. _(Foto: Kurt Otto Burghardt (1914)- SLUB/Fotothek)_
 
 Trotz der optimalen Bedingungen geriet der Verein bereits wenige Jahre nach Eröffnung der Radrennbahn in finanzielle Schwierigkeiten. Um diese auszugleichen erfolgte 1913 eine Erweiterung der Nutzung für Fußball, Polo und Leichtathletik. Da jedoch trotz aller Bemühungen auch später nicht an die Erfolge der Anfangsjahre angeknüpft werden konnte, wurde die Radrennbahn Mitte der 1930er Jahre aufgegeben und 1939 offiziell geschlossen.
 

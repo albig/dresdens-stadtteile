@@ -1,15 +1,7 @@
 ---
-title: "Straßen Loschwitz"
+title: "Straßen und Plätze in Loschwitz"
 date: 2024-02-17T22:13:33+01:00
 ---
-
-![straßen und plätze in loschwitz](strassen_loschwitz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](hauptseiteloschwitz2.jpg)](../../../nordost/loschwitz/)
 
 ![albert-venus-weg](../../../nordost/loschwitz/strassen_loschwitz/a_rectangle_1827.gif)
 

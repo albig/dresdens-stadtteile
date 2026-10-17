@@ -3,14 +3,6 @@ title: "Straßen Ubigau"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../nordwest/ubigau/strassen_ubigau/hauptseite_bigau2.jpg)](../../../nordwest/ubigau/)
-
 ![altübigau](../../../nordwest/ubigau/strassen_ubigau/a_rectangle_88.gif)
 
 Der alte Dorfkern des Ortes hieß bis zur Eingemeindung 1903 die Tränke, da hier das Vieh zum Elbufer getrieben wurde.

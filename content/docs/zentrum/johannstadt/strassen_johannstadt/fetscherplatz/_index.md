@@ -3,18 +3,6 @@ title: "Fetscherplatz"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![fetscherplatz](fetscherplatz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseitejohannstadt.jpg)](../../../../zentrum/johannstadt/)
-
-* * *
-
-
-
 ![](../../../../zentrum/johannstadt/strassen_johannstadt/fetscherplatz/johannstfetscherplatz2.jpg)Der Fetscherplatz entstand als einer der zentralen Plätze der Johannstadt und
 wurde ab 1878 bis 1946 Fürstenplatz genannt. Seinen heutigen Namen erhielt er nach dem Dresdner Arzt Dr. Rainer Fetscher (1895-1945). Fetscher war in den
 Zwanziger Jahren als Mediziner auf dem Gebiet der Erbbiologie tätig und wurde 1923 an die Technische Hochschule berufen. Obwohl er sich zeitweise mit

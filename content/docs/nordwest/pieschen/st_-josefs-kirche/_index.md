@@ -3,24 +3,6 @@ title: "Kathol. St.-Josefs-Kirche"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![kathol. st.-josefs-kirche](st_-josefs-kirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../hauptseitepieschen.jpg)](../../../nordwest/pieschen/)
-
 * * *
 
 ![katholisches pfarramt st. josef rehefelder straße 61 01127 dresden   tel. 0351/8489330](../../../nordwest/pieschen/st_-josefs-kirche/a_rectangle_121.gif)

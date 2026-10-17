@@ -3,14 +3,6 @@ title: "Ziegelwerk Lockwitz"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../sudost/hauptseitelockwitz.jpg)](../../../../sudost/lockwitz/)
-
 Die erste Lockwitzer Ziegelei entstand wahrscheinlich schon Ende des 18. Jahrhunderts und gehörte zum Besitz des örtlichen Rittergutes. 1813 erwarb Johann Gottfried Preußer das Unternehmen im Rahmen einer
 Versteigerung, verkaufte es jedoch wenig später wieder an einen Nachfolger, der die Ziegelei abtragen ließ. Eine weitere Ziegelei befand sich 1829 in der Nähe des Krähenhügels. Diese existierte noch bis 1879 und besaß
 neben den notwendigen Anlagen zur Ziegelherstellung auch einen Kalkofen.

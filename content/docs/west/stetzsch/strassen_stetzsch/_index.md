@@ -1,15 +1,7 @@
 ---
-title: "Straßen Stetzsch"
+title: "Straßen und Plätze in Stetzsch"
 date: 2024-02-17T22:13:46+01:00
 ---
-
-![straßen und plätze in stetzsch](strassen_stetzsch_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../west/stetzsch/strassen_stetzsch/hauptseitestetzsch2.jpg)](../../../west/stetzsch/)
 
 ![alsenstraße](../../../west/stetzsch/strassen_stetzsch/a_rectangle_320.gif)
 

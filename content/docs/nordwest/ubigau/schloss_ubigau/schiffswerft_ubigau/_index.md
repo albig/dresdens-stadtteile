@@ -3,16 +3,6 @@ title: "Schiffswerft Übigau"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../nordwest/ubigau/hauptseite_bigau.jpg)](../../../../nordwest/ubigau/)
-
-* * *
-
 ![](../../../../nordwest/ubigau/schloss_ubigau/schiffswerft_ubigau/_bigauwerft4.jpg)
 
 

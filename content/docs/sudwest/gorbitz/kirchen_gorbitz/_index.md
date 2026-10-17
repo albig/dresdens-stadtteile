@@ -3,24 +3,6 @@ title: "Kirchen in Gorbitz"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![kirchen in gorbitz](kirchen_gorbitz_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../sudwest/hauptseitegorbitz.jpg)](../../../sudwest/gorbitz/)
-
 * * *
 
 ![st. philippus- gemeinde gorbitz  leutewitzer ring 75 01169 dresden tel. 0351/4112141](../../../sudwest/gorbitz/kirchen_gorbitz/a_rectangle_482.gif)

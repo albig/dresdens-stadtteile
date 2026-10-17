@@ -3,19 +3,6 @@ title: "Friedrichstraße"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![friedrichstraße](friedrichstrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../hauptseitefriedrichstadt.jpg)](../../../../zentrum/friedrichstadt/)
-
-* * *
-
-
-
-
 ![](../../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/friedrichstra_e.jpg)Die Friedrichstraße ist die älteste Straße der Friedrichstadt und entstand
 ursprünglich als Verbindungsweg zwischen der Innenstadt und dem [Ostravorwerk](../../../../zentrum/friedrichstadt/ostragehege/). Deshalb wurde sie zunächst Ostraer Gasse bzw.
 Ostrastraße genannt. Ab 1670 wurden die Grundstücke links und rechts dieses Weges zur Bebauung freigegeben. Eigentlich sollten durch die kostenlose Überlassung der Flächen und weitere Vergünstigungen

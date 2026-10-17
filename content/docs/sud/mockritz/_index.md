@@ -12,11 +12,6 @@ date: 2024-02-17T22:13:41+01:00
 
 **Gemeindesiegel von Mockritz**
 
-
-[![](../../nachbarn.jpg)](../../sud/)
-
-* * *
-
 **Schulen in Mockritz:**
 
 [![](../../sud/mockritz/70gsmockritz.jpg)](http://www.sn.schule.de/~gs70dd/)

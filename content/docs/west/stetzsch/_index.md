@@ -12,11 +12,6 @@ date: 2024-02-17T22:13:46+01:00
 
 **Gemeindesiegel von Stetzsch**
 
-
-[![](../../nachbarn.jpg)](../../west/)
-
-* * *
-
 **Schulen in Stetzsch:**
 
 [![](../../77grundschule.jpg)](http://www.77grundschule.de)

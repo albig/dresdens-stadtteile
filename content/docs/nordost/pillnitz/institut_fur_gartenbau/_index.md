@@ -3,24 +3,6 @@ title: "Institut für Gartenbau"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![institut für gartenbau](institut_fur_gartenbau_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../nordost/hauptseitepillnitz.jpg)](../../../nordost/pillnitz/)
-
 * * *
 
 ![](../../../nordost/pillnitz/institut_fur_gartenbau/pillnlehranstalt.jpg)Das Pillnitzer Institut für Obstforschung und Gartenbau geht auf die 1913 gegründete Königliche Hofgärtnerei zurück, für deren Betrieb die seinerzeit größte Gewächshausanlage Europas entstand. Bereits zuvor war Pillnitz ein Zentrum des wissenschaftlichen Gartenbaus gewesen, der sich bis ins 18. Jahrhundert zurückverfolgen lässt. Charakteristisch für die neue Anlage war das 1913-15 gebaute Pillnitzer Kreuz, ein zentraler Verbindungsbau, von dem aus alle Gewächshäuser erreicht werden konnten. Die Entwürfe für die Anlage stammen vom Dresdner Stadtbaurat Hans Erlwein. Wichtigste Aufgabe war die Aufzucht von Zierpflanzen für den Bedarf der königlichen Hofhaltung in Pillnitz.

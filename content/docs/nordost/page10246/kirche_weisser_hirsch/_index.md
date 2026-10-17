@@ -3,24 +3,6 @@ title: "Kirche Weißer Hirsch"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![kirche weißer hirsch](kirche_weisser_hirsch_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../nordost/page10246/hauptseitewhirsch.jpg)](../../../nordost/page10246/)
-
 * * *
 
 ![](../../../nordost/page10246/kirche_weisser_hirsch/siegelkirchewhirsch.jpg)

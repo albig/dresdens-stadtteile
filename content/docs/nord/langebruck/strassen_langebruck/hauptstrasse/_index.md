@@ -3,19 +3,6 @@ title: "Hauptstraße"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![hauptstraße](hauptstrasse_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../nord/langebruck/hauptseitelangebr_ck.jpg)](../../../../nord/langebruck/)
-
-* * *
-
-
-
-
 ![](../../../../nord/langebruck/strassen_langebruck/hauptstrasse/langebr_ckhauptstr2.jpg)![](../../../../nord/langebruck/strassen_langebruck/hauptstrasse/langebr_ckhauptstr.jpg)Entlang der parallel zum Dorfbach Roter Graben führenden Hauptstraße des Unterdorfes haben sich zahlreiche Dreiseithöfe aus der bäuerlichen Vergangenheit Langebrücks erhalten. Ihre Anordnung lässt noch deutlich die Form des früheren Waldhufendorfes erkennen, auch wenn die Gebäude selbst meist erst im 19. Jahrhundert entstanden. Einige Häuser weisen interessante Fachwerkkonstruktionen auf (u.a. Nr. 19 und Nr. 21) und wurden in den letzten Jahren saniert. Im Wohnhaus Hauptstraße 1 befand sich früher die Buchdruckerei von Kurt Imgrund (1878-1944), Herausgeber der Ortszeitung Heide-Bote. Die Zeitung erschien zum ersten Mal im Dezember 1913, wurde 1937 aus finanziellen Gründen eingestellt und 1990 wieder ins Leben gerufen. Zugleich war hier zwischen 1900 und 1917 das Gemeindeamt untergebracht. Nr. 12 beherbergte von 1907 bis 1935 die Schule des Privaten Schulvereins.
 
 In diesem ältesten Teil des Ortes wurde 1524 erstmals eine Dorfmühle erwähnt, die sich damals im Besitz des kurfürstlichen Försters Matthes Günther befand. Ihm gelang es auch, beim Kurfürsten die Aufhebung des Mahlzwanges für die Langebrücker Bauern zu erreichen. An die alte Mühle erinnert heute noch der Mühlteich. Hier stand ab 1568 auch die erste Dorfschule. Um 1900 diente der Mühlteich zeitweise als Gondelteich.

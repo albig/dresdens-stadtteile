@@ -3,19 +3,6 @@ title: "Mikromat"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../hauptseitereick.jpg)](../../../sudost/reick/)
-
-* * *
-
-
-
-
 ![](../../../sud/svgrossmann.jpg)Vorläufer des VEB Mikromat waren die beiden Dresdner Werkzeugmaschinenhersteller Hille und Großmann. 1869 hatte Moritz Hille in der Südvorstadt eine Werkstatt für mathematisch-physikalische Instrumente und Apparate gegründet, die sich ab 1885 vorrangig der Herstellung von
 Gasmotoren widmete. Später gehörten auch Kraftfahrzeuge und Werkzeugmaschinen zum Produktionsprogramm. Bereits vor dem Ersten Weltkrieg hatte sich die Firma mit einigen anderen Dresdner Betrieben vereinigt
 und firmierte ab 1918 als [Hille-Werke AG](../../../sud/plauen/strassen_plauen/chemnitzer_strasse/). Da das Betriebsgelände an der

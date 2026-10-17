@@ -3,19 +3,6 @@ title: "Auswik"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-
-* * *
-
-
-
-[![](../../../hauptseites_dvorstadt.jpg)](../../../zentrum/sudvorstadt/)
-
-* * *
-
-
-
-
-
 Auswik:
 
 Als Auswik wurde einst eine Siedlung in der Nähe des heutigen Fritz-Förster-Platzes bezeichnet. Das kleine Dorf taucht 1350 erstmals als Uzmik in den

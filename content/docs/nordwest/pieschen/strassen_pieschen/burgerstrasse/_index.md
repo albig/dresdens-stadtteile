@@ -3,18 +3,6 @@ title: "Burgerstraße"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../../hauptseitepieschen.jpg)](../../)
-
-* * *
-
-
-
 Die Bürgerstraße, ursprünglich Feld- bzw. Flurweg genannt, trug ab 1877 auf Pieschener Flur den Namen Schulstraße. Grund für diese Namensgebung war, dass hier seit 1805 das Pieschener [Schulhaus](../../../../nordwest/pieschen/) (Bürgerstraße 76) stand. Nachdem das alte Gebäude nicht mehr der gewachsenen Schülerzahl genügte, erfolgte 1861 auf dem heutigen Grundstück Bürgerstraße 68 ein Neubau. Heute wird dieser vom Kinder- und Jugendhaus "Emmers" genutzt.
 
 1886 erhielt zunächst der Abschnitt zwischen Oschatzer Straße und Moritzburger Platz seinen heutigen Namen im Zusammenhang mit der geplanten Bebauung in diesem Bereich. Anlass war die ein Jahr zuvor erstmals gewährte Verleihung des Bürgerrechts an die Bewohner der Gemeinde Pieschen. 1888 konnte das erste Mietshaus bezogen werden. Weitere Gebäude entstanden bis zum Ende des 19. Jahrhunderts in geschlossener Bauweise. Markanteste Bauwerke sind die 1888 geweihte neogotische [Markuskirche](../../../../nordwest/pieschen/markuskirche/) und das 1891 fertiggestellte Pieschener Rathaus. Mit der Eingemeindung Pieschens wurde der Straßenname Bürgerstraße 1897 auch auf die Schulstraße übertragen und beide Abschnitte zusammengefasst.

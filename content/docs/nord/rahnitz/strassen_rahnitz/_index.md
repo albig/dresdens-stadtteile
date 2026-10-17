@@ -1,15 +1,7 @@
 ---
-title: "Straßen Rahnitz"
+title: "Straßen und Plätze in Rähnitz"
 date: 2024-02-17T22:13:35+01:00
 ---
-
-![straßen und plätze in rähnitz](strassen_rahnitz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../nord/rahnitz/strassen_rahnitz/hauptseiter_hnitz2.jpg)](../../../nord/rahnitz/)
 
 ![](../../../nord/rahnitz/strassen_rahnitz/am_erlichberg.jpg)
 
@@ -37,15 +29,15 @@ Die Mitte der 1930er Jahre angelegte Straße wurde 1936 nach den in der Nähe be
 
 _**Bild links:** Werbung der Dresdner Spiralfedern-Fabrik aus den 1930er Jahren_
 
-![](../../../nord/rahnitz/strassen_rahnitz/an den ellerwiesen.jpg)
+![](../../../nord/rahnitz/strassen_rahnitz/an_den_ellerwiesen.jpg)
 
 Die Straße An den Ellerwiesen liegt im südlichen Teil des Gewerbegebietes Rähnitz und entstand im Zuge von dessen Erschließung Ende der 1990er Jahre. Benannt ist sie nach den im nahen Wilschdorf gelegenen Ellerwiesen.
 
-![](../../../nord/rahnitz/strassen_rahnitz/an der bartlake.jpg)
+![](../../../nord/rahnitz/strassen_rahnitz/an_der_bartlake.jpg)
 
 Auch die Straße An der Bartlake wurde im Zuge des Rähnitzer Gewerbegebietes angelegt und liegt ebenfalls in dessen südlichen Teil. Westlich der Straße fließt die Bartlake, ein mundartlich auch als Bromse bezeichneter kleiner Bach. Er entspringt im Süden von Wilschdorf, durchfließt den Ort in nördliche Richtung und mündet in der Nähe des Oberen Waldteichs in die Promnitz.
 
-![](../../../nord/rahnitz/strassen_rahnitz/an der südlehne.jpg)
+![](../../../nord/rahnitz/strassen_rahnitz/an_der_südlehne.jpg)
 
 Die südlich des alten Dorfkerns befindliche Straße An der Südlehne wurde 1937 zur Erschließung eines kleinen Wohngebietes angeleght. Die Namensgebung bezieht sich auf die örtlichen Verhältnisse.
 
@@ -92,7 +84,7 @@ der 1938 Name im Adressbuch zu finden. Die Namensgebung erfolgte nach einer Baum
 Die Feldstraße beginnt im alten Ortskern von Rähnitz und zweigt dort vom Bauernweg ab. Ursprünglich wurde sie nach einem Grundstücksbesitzer Menzels Gasse genannt, bevor der Name um 1930 in Feldstraße wechselte. Grund dieser Benennung war, dass sie in die nördlich gelegenen Felder des Dorfes bis zum Volkersdorfer Weg führte. Durch den Bau der Autobahn wurde die Feldstraße 1937 unterbrochen und unterquerte die Autobahntrasse nun in einer Unterführung. Beim
 Bau der neuen Anschlussstelle Dresden-Flughafen verschwand diese, so dass die Feldstraße heute aus zwei Teilabschnitten besteht: vom Bauernweg bis zur Rähnitzer Allee und von der Wilschdorfer Landstraße bis zum Volkersdorfer Weg.
 
-![](../../../nord/rahnitz/strassen_rahnitz/grüne aue.jpg)
+![](../../../nord/rahnitz/strassen_rahnitz/grüne_aue.jpg)
 
 Die Grüne Aue wurde Mitte der 1930er im Rahmen von Arbeitsbeschaffungsmaßnahmen angelegt und zeitgleich mit einigen Doppelhäusern bebaut. Allerdings erfolgte dieser Ausbau nur im bebauten Bereich, während der weitere Verlauf ein Fußweg blieb. Erst nach dem Jahr 2000 wurde die Straße bis zur Radeburger Straße verlängert.
 
@@ -114,11 +106,11 @@ Die Hohle Gasse, ein vom Bauernweg abzweigender Feldweg, erhielt ihren heutigen 
 
 Die Knappsdorfer Straße wurde erst Ende der 1990er Jahre im Zusammenhang mit der Erschließung eines neuen Gewerbegebietes nördlich des historischen Dorfkerns angelegt. Der Name erinnert an das frühere Vorwerk Knappsdorf, welches 1547 aufgelöst und an Rähnitzer Bauern aufgeteilt wurde. Die umliegenden Erschließungsstraßen erhielten ihre Bezeichnungen nach alten Flurnamen wie Kammerholz, Ellerwiesen und Ilschengraben.
 
-![kurze reihe](../../../nord/rahnitz/strassen_rahnitz/kurze reihe.jpg)
+![kurze reihe](../../../nord/rahnitz/strassen_rahnitz/kurze_reihe.jpg)
 
 Die Straße Kurze Reihe wurde um 1910 parallel zur Hellerstraße angelegt und bekam zunächst den Namen Tannenstraße. Nach der Eingemeindung 1950 erfolgte wegen der bereits vorhandenen Tannenstraße in der Leipziger Vorstadt die Umbenennung in Kurze Reihe.
 
-![lausaer straße](../../../nord/rahnitz/strassen_rahnitz/lausaer straße.jpg)
+![lausaer straße](../../../nord/rahnitz/strassen_rahnitz/lausaer_straße.jpg)
 
 Die Lausaer Straße ist Teil des alten Mühlenweges, der von Boxdorf über Wilschdorf und Rähnitz bis zur Hermsdorfer Mühle führte. Ab März 1900 trug der Rähnitzer Abschnitt offiziell den Namen Mühlenstraße, da hier auch die [Rähnitzer Windmühle](../../../nord/rahnitz/) stand. 1910 erfolgte eine Umbenennung in Weixdorfer Straße. Da es nach der Eingemeindung von Rähnitz-Hellerau diesen Straßennamen in Dresden bereits gab, wurde die Straße im September 1953 in Lausaer Straße umbenannt. Lausa ist ein Ortsteil der 1999 ebenfalls zu Dresden eingemeindeten Ortschaft Weixdorf. Der durch die Autobahn A4 abgetrennte östliche Abschnitt erhielt im Februar 1993 den Namen Lausaer Weg.
 

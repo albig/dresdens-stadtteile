@@ -3,24 +3,6 @@ title: "Kirchgemeinde Gittersee"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![kirchgemeinde gittersee](kirche_gittersee_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../sud/hauptseitegittersee.jpg)](../../../sud/gittersee/)
-
 * * *
 
 ![ev.-luth. paul-gerhard- kirchgemeinde coschütz/gittersee  windbergstr. 20 01189 dresden tel. 0351/4010369](../../../sud/gittersee/kirche_gittersee/a_rectangle_1201.gif)

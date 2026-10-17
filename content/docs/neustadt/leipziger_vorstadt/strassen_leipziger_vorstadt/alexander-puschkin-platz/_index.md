@@ -3,18 +3,6 @@ title: "Alexander-Puschkin-Platz"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![alexander-puschkin-platz](alexander-puschkin-platz_n1_banner2.gif)
-
-* * *
-
-
-
-[![](../../../../neustadt/leipziger_vorstadt/hauptseitelv.jpg)](../../../../neustadt/leipziger_vorstadt/)
-
-* * *
-
-
-
 Der heutige Alexander-Puschkin-Platz wurde 1895 angelegt und ab 1898 nach der Thüringer Stadt Erfurt als Erfurter Platz bezeichnet. Markantestes Gebäude ist die frühere Villa des Holzgroßhändlers Ernst Grumbt, die ab 1949 als Haus der Deutsch-Sowjetischen Freundschaft genutzt wurde. In diesem Zusammenhang erhielt der Platz am 6. Juni 1949 aus Anlass des 150. Geburtstages des russischen Dichters Alexander Sergejewitsch Puschkin (1799-1837) seinen jetzigen Namen. Puschkin gilt als bedeutendster Vertreter der russischen Literatur und schuf verschiedene Dramen, Erzählungen und Romane. 1953 entstand auf einer Brachfläche der Kleingartenverein Am Erfurter Platz, der mit seinen 13 Parzellen zu den kleinsten in Dresden gehört.
 
 Villa Grumbt (Puschkinhaus):

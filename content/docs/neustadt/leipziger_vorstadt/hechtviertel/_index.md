@@ -3,19 +3,6 @@ title: "Hechtviertel"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-
-* * *
-
-
-
-
-[![](../../../neustadt/leipziger_vorstadt/hauptseitelv.jpg)](../../../neustadt/leipziger_vorstadt/)
-
-* * *
-
-
-
-
 * * *
 
 **Stadtteilseiten:**

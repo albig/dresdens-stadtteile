@@ -3,24 +3,6 @@ title: "Weinbergskirche"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![weinbergskirche](weinbergskirche_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-* * *
-
-
-
-[![](../../../hauptseitetrachenberge.jpg)](../../../nordwest/trachenberge/)
-
 * * *
 
 ![weinbergskirche trachenberge albert-hensel-str. 3 01127 dresden  tel. 0351/8495414](a_rectangle_111.gif)

@@ -7,20 +7,6 @@ date: 2024-02-17T22:13:46+01:00
 
 * * *
 
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-[![](../../../../west/omsewitz/hauptseiteomsewitz.jpg)](../../../../west/omsewitz/)
-
-* * *
-
 [![](../../../../west/omsewitz/strassen_omsewitz/kummelschanke/omse-ev.jpg)](http://www.omse-ev.de)
 
 

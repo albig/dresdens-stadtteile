@@ -3,16 +3,6 @@ title: "Alberthafen"
 date: 2024-02-17T22:13:46+01:00
 ---
 
-
-
-* * *
-
-
-
-[![](../../../hauptseitefriedrichstadt.jpg)](../../../zentrum/friedrichstadt/)
-
-* * *
-
 ![technische daten (1895):  gesamtfläche: 440.000 m² hafenbecken: 147.000 m²  länge kaimauer: 2.200 m höhe kaimauer: 12 m  länge hafenbecken: 1.100 m breite hafenbecken: 150 m  gebäude und einrichtungen:  4 staatliche speicher 14 private speicher 4 dienstgebäude  16 mobile kräne (0,75-3 t) 1 feststehender kran (5 t) 1 greifkran mit waage 3 getreideelevatoren 1 sauganlage](../../../zentrum/friedrichstadt/alberthafen/a_rectangle_1415.gif)
 
 * * *

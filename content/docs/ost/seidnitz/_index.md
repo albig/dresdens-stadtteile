@@ -12,11 +12,6 @@ date: 2024-02-17T22:13:38+01:00
 
 **Gemeindesiegel von Seidnitz**
 
-
-[![](../../nachbarn.jpg)](../../ost/)
-
-* * *
-
 **Schulen in Seidnitz:**
 
 [![](../../ost/seidnitz/33gsseidnitz.jpg)](http://www.sn.schule.de/~gs33dd)

@@ -12,15 +12,6 @@ date: 2024-02-17T22:13:43+01:00
 
 **Gemeindesiegel von Räcknitz**
 
-
-[![](../../nachbarn.jpg)](../../sud/)
-
-* * *
-
-
-
-
-
 ![](../../sud/racknitz/r_cknitz1.jpg)Räcknitz entstand im Mittelalter als markgräfliches Herrengut und wurde 1305 erstmals
 als Rekenicz erwähnt. Der Ortsname stammt aus dem sorbischen und bedeutet Leute eines Rakon, vermutlich der Gründer der Siedlung. Besitzer dieses Gutes waren 1384
 zu gleichen Teilen die Dresdner Bürger Ziegler und Münzmeister. Das Erbgut Räcknitz wurde gemeinsam mit dem früheren Vorwerk Auswik am heutigen Fritz-Förster-Platz

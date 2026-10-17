@@ -3,22 +3,6 @@ title: "Weinbergkirche Pillnitz"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![weinbergkirche pillnitz](weinbergkirche_pillnitz_nlafleurbannerh.gif)
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-
-
-[![](../../../nordost/hauptseitepillnitz.jpg)](../../../nordost/pillnitz/)
-
 * * *
 
 ![weinbergkirche dresden-pillnitz bergweg 01326 dresden](../../../nordost/pillnitz/weinbergkirche_pillnitz/a_rectangle_1103.gif)
