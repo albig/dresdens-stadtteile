@@ -38,7 +38,7 @@ Nachdem dieses zu klein geworden war, entschloss man sich um 1910 für einen Neu
 moderner Bau mit zwei Klassenzimmern, Lehrerwohnung, Bibliothek und Wannenbad. Das neue Schulhaus wurde am 14. Oktober 1914 feierlich eingeweiht und wurde noch bis 1960 als
 Grundschule genutzt. 1936 erhielt es sein bis heute erhaltenes Uhrtürmchen. In den 1960er Jahren richtete die Gemeinde die Räume als Verwaltungssitz und Kindergarten des Ortes ein _(Foto)_.
 
-[![brabschützer straßen](../../../west/mobschatz/brabschutz/a_rectangle_248.gif)](../../../west/mobschatz/leuteritz/strassen_mobschatz/)
+## [Brabschützer Straßen](../../../west/mobschatz/leuteritz/strassen_mobschatz/)
 
 [_Weiterführende Literatur und Quellen_](../../../impressum/quellenverzeichnis/)
 

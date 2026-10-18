@@ -69,7 +69,7 @@ Der Tennisclub Kleinzschachwitz wurde kurz nach dem Ersten Weltkrieg als Netzbal
 
 Im Mai 1990 gründete sich der Verein als Tennisclub Kleinzschachwitz e.V. neu. Heute nutzt der Club mit seinen ca. 130 Mitgliedern die mehrfach modernisierten Anlagen für den Trainingsbetrieb und gelegentliche Turniere. Das in den 1970er Jahren errichtete neue Klubhaus wurde 1994 umfassend saniert.
 
-[![kleinzschachwitzer straßen](../../ost/kleinzschachwitz/a_rectangle_1365.gif)](../../ost/kleinzschachwitz/strassen_kleinzschachwitz/)
+## [Kleinzschachwitzer Straßen](../../ost/kleinzschachwitz/strassen_kleinzschachwitz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

@@ -5,11 +5,11 @@ date: 2024-02-17T22:13:37+01:00
 
 [![](../../../ost/grosszschachwitz/strassen_grosszschachwitz/hauptseitesporbitz2.jpg)](../../../ost/sporbitz/)
 
-![alte straße](../../../ost/grosszschachwitz/strassen_grosszschachwitz/a_rectangle_1407.gif)
+## Alte Straße
 
 Die Alte Straße befindet sich in Großzschachwitz an der Flurgrenze zu Leuben und zweigt als Nebenstraße von der Försterlingstraße ab. Vor der Eingemeindung hieß sie Leubener Straße. Um Verwechslungen mit der bereits vorhandenen Leubener Straße zu vermeiden, erfolgte am 30. September 1953 die Umbenennung in Alte Straße.
 
-![altsporbitz](../../../ost/grosszschachwitz/strassen_grosszschachwitz/a_rectangle_1402.gif)
+## Altsporbitz
 
 Als Altsporbitz wird seit 1956 die kurze Sackgasse im alten Sporbitzer Dorfkern bezeichnet. Zuvor war seit ca. 1900 die
 Bezeichnung Dorfplatz üblich. Hier sind noch vier Gehöfte des Ortes erhalten. Am Haus Nr. 5 erinnert eine Inschrift an den
@@ -32,7 +32,7 @@ _zum Leben auch wieder Rath zu schaffen._
 
 _Gabriel Otto_
 
-![](../../../ost/grosszschachwitz/strassen_grosszschachwitz/am_lockwitzbach.jpg)
+## Am Lockwitzbach
 
 Ursprünglich diente der damals noch namenlose Weg als Fußweg der Sporbitzer und Meußlitzer Einwohner zum Bahnhof
 Niedersedlitz. Von den Anwohnern wurde er auch Apothekerweg genannt. Ab 1902 nutzte die Niedersedlitzer Firma Kelle
@@ -45,17 +45,17 @@ und in östlicher Richtung entlang den Grenzen zu Meußlitz und Zschieren bis zu
 Gegen Ende des Zweiten Weltkriegs  wurden in diesem Gebiet einige Behelfsheime für Ausgebombte und Flüchtlinge errichtet. Damit wurde der Weg als Zugang zu den Häusern benötigt und erhielt am 8. Januar 1945 auf Beschluss des
 Gemeinderates den Namen Am Lockwitzbach. Die Namensgebung erfolgte wegen seiner Nähe zum Lockwitzbach.
 
-![](../../../ost/grosszschachwitz/strassen_grosszschachwitz/am_lugaer_graben.jpg)
+## Am Lugaer Graben
 
 Die erst in den 1990er Jahren angelegte Straße erhielt am 14. März 1996 ihren Namen Am Lugaer Graben. Sie wurde nach
 dem hier verlaufenden Lugaer Graben benannt, der in der Nähe in den [Lockwitzbach](../../../sudost/lockwitz/lockwitzbach/) mündet. Hauptsächlich dient die Straße der Erschließung eines geplanten Gewerbegebietes und zugleich als Zufahrt zum Abfallwirtschaftszentrum Dresden-Ost.
 
-![](../../../ost/grosszschachwitz/strassen_grosszschachwitz/am_werk.jpg)
+## Am Werk
 
 Die Straße Am Werkentstand als Zufahrt zur Dresdner Mühlenfabrik Gebr. Seck und ist 1924 erstmals im Adressbuch
 verzeichnet. Markantestes Gebäude ist das frühere Sporbitzer [Schulhaus](../../../ost/sporbitz/), welches bis vor wenigen Jahren als Außenstelle der Berufsschule für Agrarwirtschaft und Ernährung genutzt wurde und unter Denkmalschutz steht.
 
-![am wiesenrand](../../../ost/grosszschachwitz/strassen_grosszschachwitz/a_rectangle_1356.gif)
+## Am Wiesenrand
 
 Die kleine Straße Am Wiesenrand, an der früheren Flurgrenze zwischen Großzschachwitz und Sporbitz gelegen, wurde 1898
 angelegt und erhielt ein Jahr später zunächst den Namen Moltkestraße. Mit dieser Benennung sollte der preußische Generalfeldmarschall Helmuth Karl Bernhard Graf von Moltke (1800-1891) geehrt werden. 1917 wechselte der Name in
@@ -65,14 +65,14 @@ der Eingemeindung des Ortes eine erneute Umbenennung notwendig. Dabei erhielt di
 Nach dem Zweiten Weltkrieg entstanden hier die kleine Wohnsiedlung Am Lockwitzbach sowie ein zuletzt bis 2002 als Motel genutztes Arbeiterwohnheim des VEB Elektromaschinenbau. 2008 wurde dieses abgerissen und die Fläche aus
 Gründen des Hochwasserschutzes naturiert. Künftig ist die Anlage eines kleinen Parks geplant, welcher zugleich als Flutbecken bei Hochwasser dienen soll.
 
-![an der aue](../../../ost/grosszschachwitz/strassen_grosszschachwitz/a_rectangle_1357.gif)
+## An der Aue
 
 Die Straße An der Aue befindet sich am Rande des alten Großzschachwitzer Dorfkerns und verdankt ihren Namen einer
 auenartigen Erweiterung des Lockwitztales an dieser Stelle. Ursprünglich wurde sie ab 1895 K-Straße genannt, erhielt jedoch
 nach der Jahrhundertwende den 1908 erstmals nachweisbaren Namen Wiesenstraße. 1917 erfolgte die Umbenennung in Auenstraße, bevor im Zuge der Eingemeindung von Großzschachwitz am 30. September 1953 die heute gültige Bezeichnung
 eingeführt wurde. 1898 errichtete die Gemeinde zwischen Großzschachwitzer Straße und An der Aue das [Schulhaus](../../../ost/grosszschachwitz/) des Ortes, welches heute von der 92. Grundschule genutzt wird.
 
-![](../../../ost/grosszschachwitz/strassen_grosszschachwitz/an_der_schule.jpg)
+## An der Schule
 
 ![](../../../ost/grosszschachwitz/strassen_grosszschachwitz/sporbitzschule2.jpg)
 Die heutige Straße An der Schule geht auf einen  alten Fußweg von Sporbitz zur Großzschachwitzer Firma Kelle & Hildebrandt zurück, der in Gemeindeunterlagen von 1904 als
@@ -81,13 +81,13 @@ Die heutige Straße An der Schule geht auf einen  alten Fußweg von Sporbitz zu
 Mit der Vereinigung der Gemeinden Großzschachwitz und Luga 1922 erfolgte die Umbenennung in
 Lugaer Straße. Nach der Eingemeindung zu Dresden wurde sie am 30. September 1953 in An der Schule umbenannt.Das frühere [Schulhaus](../../../ost/sporbitz/) diente zuletzt als Außenstelle des Beruflichen Schulzentrums für Agrarwirtschaft und Ernährung und wurde Ende Juli 2009 geschlossen.
 
-![bierweg](../../../ost/grosszschachwitz/strassen_grosszschachwitz/a_rectangle_827.gif)
+## Bierweg
 
 Der Bierweg ist Teil eines alten Verbindungsweges zwischen Großzschachwitz und dem benachbarten Großluga. Wie fast alle
 Dörfer unterlag auch Großzschachwitz einst dem Bierzwang, wonach die Einwohner ihr Bier nur von bestimmten Brauereien
 der Umgebung beziehen durften. Von dort wurde das Bier dann in den örtlichen Gasthof bzw. in die Bauernhöfe gebracht, die sich am Reiheschank beteiligen durften.
 
-![](../../../ost/grosszschachwitz/strassen_grosszschachwitz/bosewitzer_stra_e.jpg)
+## Bosewitzer Straße
 
 Die heutige Bosewitzer Straße wurde um 1870 zur Erschließung eines neuen Industriegebietes angelegt. Zu den hier ansässigen Betrieben gehörte u.a. die Chemische Fabrik für Schamottewaren und Mosaikplatten des Unternehmers Otto Kauffmann sowie die Eisengießerei [Kelle & Hildebrandt](../../../Sudost/Grossluga/Kelle & Hildebrandt/kelle_hildebrandt.html). Ursprünglich wurde sie deshalb bis zur Einmündung der Werkstraße Otto-Kauffmann-Straße, im Restabschnitt Hildebrandtstraße genannt. Nach der Eingemeindung wechselte der Straßenname in Bosewitzer Straße. Namensgeber ist die kleine Siedlung Bosewitz, welche heute als Ortsteil zu Dohna gehört. Die Villa Bosewitzer Straße 11 steht, einschließlich der zugehörigen Gartenanlage, unter Denkmalschutz.
 
@@ -95,7 +95,7 @@ Die heutige Bosewitzer Straße wurde um 1870 zur Erschließung eines neuen Indus
 
 _**Foto:** Blick über das Areal der Firma Kelle & Hildebrandt_
 
-![försterlingstraße](../../../ost/grosszschachwitz/strassen_grosszschachwitz/a_rectangle_1359.gif)
+## Försterlingstraße
 
 Die Försterlingstraße entstand 1897 in der Nähe der Flurgrenze zu Niedersedlitz zur Erschließung eines hier gelegenen Industriegebietes. Initiator war der Kaufmann Louis Albin Simon (1843-1930), der sich als Mitglied des Großzschachwitzer Gemeinderates sehr für die Belange seines Heimatortes einsetzte. Ihm zu Ehren erfolgte zwei Jahre später die offizielle Namensgebung Simonstraße für die bisherige Planstraße F. In einem Schreiben vom 11. April 1899 begründet der Rat seine Entscheidung in Anbetracht der Beitragung großer Opfer, welche Sie der Gemeinde gebracht haben und somit das Aufblühen derselben zu fördern.
 
@@ -106,7 +106,7 @@ Zu den älteren Gebäuden der Försterlingstraße gehören einige Villen und Mie
 
 
 
-![fritz-schreiter-straße](../../../ost/grosszschachwitz/strassen_grosszschachwitz/a_rectangle_1403.gif)
+## Fritz-Schreiter-Straße
 
 ![](../../../ost/grosszschachwitz/strassen_grosszschachwitz/sporbitzschreitergedenkstein.jpg)Die Fritz-Schreiter-Straße verbindet den alten Sporbitzer Dorfkern mit dem S-Bahn-Haltepunkt Zschachwitz und entstand im Zusammenhang mit der Anlage des Industriegebietes Zschachwitz. Zugleich war sie Teil eines alten Kommunikationsweges nach Gommern (Heidenau) und wurde deshalb Gommernsche Straße genannt. Erstmals ist diese Bezeichnung im Adressbuch 1921 erwähnt. Auf Weisung des Innenministerius und des Bürgermeisters erfolgte am 7. Oktober 1936 die Umbenennung in Killingerstraße. Manfred von Killinger (1886-1944 ) gehörte seit 1919 verschiedenen rechtsradikalen Organisationen an und war ab 1929 Chef der sächsischen SA. 1933 wurde er zum Ministerpräsidenten Sachsen ernannt hatte dieses Amt bis zur Absetzung 1935 nach innerparteilichen Konflikten inne.
 
@@ -134,12 +134,12 @@ Der heute Grasweg genannte Weg bildet die Verlängerung der Großzschachwitzer S
 
 Am 4. Oktober 1983 wurde an der Jonsdorfer Straße 20 das "Feierabend- und Pflegeheim Zschachwitz" eröffnet. Insgesamt standen dort 557 Plätze, davon 300 Pflegeplätze zur Vefügung. Heute wird das Heim als AWO-Seniorenzentrum "Prof. Rainer Fetscher" betrieben.
 
-![kameradenweg](../../../ost/grosszschachwitz/strassen_grosszschachwitz/a_rectangle_1782.gif)
+## Kameradenweg
 
 Der Kameradenweg wurde als Erschließungsstraße im Zusammenhang mit dem Bau einer kleinen Wohnsiedlung für die
 Arbeiter der nahegelegenen Industriebetriebe angelegt. Auf Beschluss des Gemeinderates von Zschachwitz erhielt er im Oktober 1935 seinen Namen, um so das Gemeinschaftsgefühl der Arbeiter zu unterstreichen.
 
-![ludwig-kugelmann-straße](../../../ost/grosszschachwitz/strassen_grosszschachwitz/a_rectangle_1360.gif)
+## Ludwig-Kugelmann-Straße
 
 Die Straße befindet sich am alten Dorfkern von Großzschachwitz und wurde ab 1899 zunächst Bismarckstraße genannt. 1924 erfolgte die Umbenennung in Karl-Marx-Straße. Mit der Machtübernahme der Nationalsozialisten wurde diese Bezeichnung 1933 jedoch wieder rückgängig gemacht. Erst 1945 entschied man sich, die Bismarckstraße erneut in Karl-Marx-Straße umzubenennen. Da es jedoch bereits in der 1950 eingemeindeten Stadt Klotzsche eine Karl-Marx-Straße gab, erhielt sie 1953 ihren heutigen Namen nach dem Arzt Ludwig Kugelmann (1830-1902), der mit Karl Marx und Friedrich Engels befreundet war und sich unter deren Einfluss der kommunistischen Arbeiterbewegung anschloss. Bereits 1848 hatte er sich an der Bürgerlich-demokratischen Revolution beteiligt und war später Gründer eines sozialdemokratischen Turnvereins.
 
@@ -157,9 +157,9 @@ Obergruppenführer und Ministerpräsident von Sachsen. Im Zuge innerparteilicher
 Stellvertreter Hitlers zu den einflussreichsten Politikern seiner Zeit. Nachdem Heß 1941 mit einem Flugzeug nach England
 geflogen war, um dort hinter dem Rücken Hitlers Friedensverhandlungen zu führen, wurde der Name am 30. Mai 1941 erneut geändert und die Straße der bereits in Niedersedlitz so benannten [Bahnhofstraße](../../../ost/niedersedlitz/strassen_niedersedlitz/) zugeschlagen.
 
-[![pirnaer landstraße](../../../ost/a_rectangle_1195.gif)](../../../ost/dobritz/strassen_dobritz/pirnaer_landstrasse/)
+## [Pirnaer Landstraße](../../../ost/dobritz/strassen_dobritz/pirnaer_landstrasse/)
 
-![rosenthaler straße](../../../ost/grosszschachwitz/strassen_grosszschachwitz/a_rectangle_1361.gif)
+## Rosenthaler Straße
 
 Die heute nach einem kleinen Ort in der Sächsischen Schweiz Rosenthaler Straße genannte Straße im Ortskern von Großzschachwitz
 hieß bis 1990 nach einem Revolutionär und Lyriker Eugen-Leviné-Straße. Leviné (1883-1919) nahm 1905 an der russischen Revolution teil und lebte später in Deutschland, wo er sich der linken Arbeiterbewegung anschloss und
@@ -168,18 +168,18 @@ Mitglied des Spartakusbundes um Karl Liebknecht wurde. Als Vorsitzender des Exek
 Die Gebäude an der Rosenthaler Straße entstanden kurz vor Beginn des Ersten Weltkrieges im Auftrag der Baugenossenschaft Zschachwitz GmbH. Mit der kleinen Siedlung knüpften die Bauherren an den Gedanken der seinerzeit
 populären Gartenstadtbewegung an.
 
-![rubinsteinstraße](../../../ost/grosszschachwitz/strassen_grosszschachwitz/a_rectangle_1362.gif)
+## Rubinsteinstraße
 
 Die Rubinsteinstraße, eine kurze Seitenstraße der Försterlingstraße, verdankt ihren Namen dem russischen Psychologen
 Sergej Rubinstein (1889-1960). Rubinstein befasste sich u.a. mit der Psychologie des Denkens, der Sprache und des Gedächtnisses.
 
 
 
-![schweizstraße](../../../ost/grosszschachwitz/strassen_grosszschachwitz/a_rectangle_1363.gif)
+## Schweizstraße
 
 ![](../../../ost/grosszschachwitz/strassen_grosszschachwitz/gro_zschachwitzschweizstr.jpg)Die Schweizstraße wurde nach dem Ersten Weltkrieg im Zusammenhang mit dem Bau neuer Wohnhäuser angelegt. Die Namensgebung erinnert an die im 19. Jahrhundert aufgekommene Bezeichnung Sächsische Schweiz für das Elbsandsteingebirge. Der Begriff wurde von den romantischen Malern Anton Graff und Adrian Zingg geprägt, die sich in der Felsenwelt an ihre Schweizer Heimat erinnert fühlten. Einer Tradition folgend erhielten mehrere Großzschachwitzer Straßen später Namen nach Orten in diesem Gebiet. Im Haus Schweizstraße 8 befindet sich seit 1901 die Familiengaststätte Reichsapfel.
 
-![walter-peters-straße](a_rectangle_1783.gif)
+## Walter-Peters-Straße
 
 ![](sporbitzwpetersstr.jpg)Die kleine Straße in der Nähe der alten Sporbitzer Schule erhielt ihren Namen nach dem
 Maschinenführer und antifaschistischen Widerstandskämpfer Walter Peters, welcher 1944 von den Nationalsozialisten ermordet wurde. Die Wohnhäuser entstanden in den Zwanziger Jahren.

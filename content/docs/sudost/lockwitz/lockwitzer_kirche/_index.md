@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:42+01:00
 
 * * *
 
-![ev.-lutherische schlosskirchgemeinde dresden-lockwitz  tögelstr. 1 01257 dresden tel. 0351/2840302](../../../sudost/lockwitz/lockwitzer_kirche/a_rectangle_840.gif)
+Ev.-lutherische schlosskirchgemeinde dresden-lockwitz  tögelstr. 1 01257 dresden tel. 0351/2840302
 
 
 ![](../../../sudost/lockwitz/lockwitzer_kirche/lockwkirche2.jpg)Die Kirche von Lockwitz geht auf eine alte katholische Schlosskapelle zurück, die nach der Reformation wegen Pfarrermangels geschlossen wurde und über 80 Jahre lang leer stand. Erst 1622 richtete der Rittergutsbesitzer Johann Georg von Osterhausen an ihrer Stelle eine evangelische Kirche ein. 1623 wurden Ober- und Niederlockwitz sowie Nickern zur selbstständigen Kirchgemeinde erklärt, womit die bisherige Zuordnung zur Leubnitzer bzw. Röhrsdorfer Kirche erlosch. Die Weihe erfolgte noch nach alter Kalenderrechnung am 1. Oktober 1623. Mehrfach wurde das Gebäude umgebaut und erweitert, bevor zwischen 1699 und 1703 an Stelle der alten Kirche ein barocker Neubau entstand.

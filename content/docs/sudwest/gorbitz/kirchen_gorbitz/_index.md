@@ -5,11 +5,11 @@ date: 2024-02-17T22:13:44+01:00
 
 * * *
 
-![st. philippus- gemeinde gorbitz  leutewitzer ring 75 01169 dresden tel. 0351/4112141](../../../sudwest/gorbitz/kirchen_gorbitz/a_rectangle_482.gif)
+St. philippus- gemeinde gorbitz  leutewitzer ring 75 01169 dresden tel. 0351/4112141
 
 [![](kirchspiel_dd-west.jpg)](http://www.kirchspiel-dresden-west.de)
 
-![gorbitzer friedhof rädestraße 31 01169 dresden tel. 0351/4116936](../../../sudwest/gorbitz/kirchen_gorbitz/a_rectangle_483.gif)
+Gorbitzer friedhof rädestraße 31 01169 dresden tel. 0351/4116936
 
 * * *
 

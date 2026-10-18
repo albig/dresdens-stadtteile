@@ -7,7 +7,7 @@ date: 2024-02-17T22:13:37+01:00
 
 ![](../../../nord/wilschdorf/christophoruskirche/christophoruskirche.jpg)
 
-[![ev.-lutherische  christophorus- kirchgemeinde  dresden- wilschdorf- rähnitz](../../../nord/a_rectangle_919.gif)](http://www.christophorus-dresden.de)
+[Ev.-lutherische  christophorus- kirchgemeinde  dresden- wilschdorf- rähnitz](http://www.christophorus-dresden.de)
 
 * * *
 

@@ -132,7 +132,7 @@ die bestehende Straßenbahnlinie von Kleinzschachwitz bis nach Pillnitz zu verl�
 Loschwitz - Wachwitz - Pillnitz zu verbinden. Die Befürworter des Projektes rechneten dabei mit einer deutlichen
 Verbesserung der Verkehrsverhältnisse in diesem Gebiet und einem wirtschaftlichen Aufschwung für die Umgebung von Pillnitz. Letztlich führten Gründe des Landschaftsschutzes zur Aufgabe des Vorhabens.
 
-[![pillnitzer straßen](../../nordost/pillnitz/a_rectangle_1810.gif)](../../nordost/pillnitz/strassen_pillnitz/)
+## [Pillnitzer Straßen](../../nordost/pillnitz/strassen_pillnitz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

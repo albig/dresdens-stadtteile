@@ -51,7 +51,7 @@ Stöckel, die wenige Stunden vor Kriegsende unabhängig voneinander die Sprengdr
 Brückenkopf. Weitere Retter der Brücke, wie der aus Rochwitz stammende Max Mühle, der Blasewitzer Handelsvertreter Carl Bouché und der als
 Brückenkommandant eingesetzte Hauptmann Wirth, sind heute weniger bekannt, waren aber ebenfalls an der Verhinderung der Sprengung beteiligt.
 
-![unter einsatz ihres lebens bewahrten die dresdener bürger erich stöckel und paul zickler das blaue wunder im mai 1945 vor  der zerstörung durch die faschisten.  unabhängig voneinander zerschnitten die beiden bürger die zur sprengung der brücke vorgesehenen kabel und retteten so dieses einzigartige bauwerk.](../../../nordost/loschwitz/blaues_wunder/a_rectangle_1713.gif)
+Unter einsatz ihres lebens bewahrten die dresdener bürger erich stöckel und paul zickler das blaue wunder im mai 1945 vor  der zerstörung durch die faschisten.  unabhängig voneinander zerschnitten die beiden bürger die zur sprengung der brücke vorgesehenen kabel und retteten so dieses einzigartige bauwerk.
 
 _Inschrift am Blasewitzer Brückenkopf der Loschwitzer Brücke_
 

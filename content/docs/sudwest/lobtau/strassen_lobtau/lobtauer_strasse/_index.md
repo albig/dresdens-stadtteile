@@ -124,14 +124,14 @@ eröffnet. Hier können Dresdner Bands und Einzelmusiker Probenräume für ihre 
 Nr. 81  / 83: Das viergeschossige Doppelwohnhaus entstand Ende des 19. Jahrhunderts und blieb im Gegensatz zu
 zahlreichen Wohngebäuden der Umgebung bis Ende der 1980er Jahre erhalten. Im Zuge der Verlängerung der Nossener Brücke und dem Bau der Hochstraße wurde der Bau am 20. September 1992 gesprengt.
 
-![flußstraße](a_rectangle_553.gif)
+## Flußstraße
 
 Die Flußstraße wurde im Zusammenhang mit dem Ausbau des Industriegebietes zwischen Löbtauer und Freiberger Straße
 angelegt. 1871 erhielt sie ihren Namen nach der nahegelegenen Weißeritz, die 1893 ihr neues Bett in Richtung Cotta erhielt.
 Die ersten Wohngebäude an der Flußstraße wurden zwischen 1859 und 1862 durch den Cottaer Zimmermann Deckow für
 die Arbeiter der Vorstadt errichtet. Die Straße wird heute nicht mehr namentlich benannt, ist in ihrer Anlage jedoch noch erhalten.
 
-![hirschfelder straße](a_rectangle_554.gif)
+## Hirschfelder Straße
 
 Die Straße erhielt 1883 den Namen Siemensstraße, der an den Techniker und Unternehmer Friedrich August Siemens
 (1826-1904) erinnerte. Die Familie Siemens war Inhaber des im 19. Jahrhunderts entstandenen [Löbtauer Glaswerk](../../../../zentrum/wilsdruffer_vorstadt/freiberger_strasse/glaswerk_lobtau/) in

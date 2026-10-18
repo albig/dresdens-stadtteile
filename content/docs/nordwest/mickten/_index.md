@@ -42,7 +42,7 @@ date: 2024-02-17T22:13:36+01:00
 
 [![](../../nordwest/mickten/41gsdresden.jpg)](http://www.elbtalkinder.de)
 
-[![9. oberschule ](../../nordwest/mickten/a_rectangle_1981.gif)](http://9-oberschule-dresden.de/)
+## [9. Oberschule](http://9-oberschule-dresden.de/)
 
 [![144. grundschule am elbepark](../../nordwest/mickten/144_gs.jpg)](https://cms.sachsen.schule/144gsdd/start/)
 
@@ -77,7 +77,7 @@ Schulen in Mickten:
 
 144\. Grundschule: Um dem wachsenden Bedarf an Grundschulplätzen im Dresdner Nordwesten zu begegnen, entstand 2013/14 an der Micktener Straße 10 der Neubau einer Schule. Das Gebäude bietet Platz für bis zu drei Klassen pro Jahrgang und ca. 300 Schüler und war bei seiner Eröffnung erster komplett neuer Schulstandort in Dresden nach 1990. Zum Komplex gehören auch ein Schulgarten, eine Einfeld-Sporthalle sowie ein für Schul- und Vereinssport nutzbares Außengelände. Die Eröffnung des ca. 11 Millionen Euro teuren Neubaus erfolgte am 10. Oktober 2014.
 
-[![micktener straßen](../../nordwest/mickten/a_rectangle_450.gif)](../../nordwest/mickten/strassen_mickten/)
+## [Micktener Straßen](../../nordwest/mickten/strassen_mickten/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

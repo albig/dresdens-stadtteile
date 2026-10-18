@@ -63,7 +63,7 @@ Schlafzustandes brachten, verstummten diese Gerüchte nicht. Wenige Wochen spät
 anschließend. In einem Abschiedsbrief gab sie die von bösen Menschen in die Welt gesetzten Nachrichten über ihren
 Mann als Grund an. Die Geschichte des Eisenbahners erregte weit über Dresden hinaus großes Aufsehen und war später Gegenstand eines Theaterstückes der Marionettenbühne Apel.
 
-[![naußlitzer straßen](../../sudwest/nausslitz/a_rectangle_491.gif)](../../sudwest/nausslitz/strassen_nausslitz/)
+## [Naußlitzer Straßen](../../sudwest/nausslitz/strassen_nausslitz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

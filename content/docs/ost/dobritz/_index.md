@@ -37,7 +37,7 @@ Dobritz erhielt sein erstes Schulhaus 1883 an der Pirnaer Landstraße. Zuvor mus
 
 **_Fotos:_** _Die beiden Dobritzer Schulhäuser an der Pirnaer Landstraße_
 
-[![dobritzer straßen](../../ost/dobritz/a_rectangle_1219.gif)](../../ost/dobritz/strassen_dobritz/)
+## [Dobritzer Straßen](../../ost/dobritz/strassen_dobritz/)
 
 
 

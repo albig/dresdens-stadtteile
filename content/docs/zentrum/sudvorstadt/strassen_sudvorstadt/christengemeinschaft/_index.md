@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:48+01:00
 
 * * *
 
-![christengemeinschaft - johanneskirche -  reichenbachstr. 30 01069 dresden  tel. 0351/4702621](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/christengemeinschaft/a_rectangle_1700.gif)
+Christengemeinschaft - johanneskirche -  reichenbachstr. 30 01069 dresden  tel. 0351/4702621
 
 
 Die Christengemeinschaft wurde 1922 von Friedrich Rittelmeyer in Stuttgart gegründet und ist heute in zahlreichen Ländern Europas, Nord- und Südamerikas sowie in Australien und Neuseeland verbreitet. Die

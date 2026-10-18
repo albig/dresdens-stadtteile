@@ -57,7 +57,7 @@ Neustädter Hafen:
 
 ![](../../neustadt/leipziger_vorstadt/neust_dterhafen2.jpg)Seine letzte Blütezeit als Umschlagplatz erlebte der Neustädter Hafen in der Nachkriegszeit. 1950 wurde auf der Moritzburger Straße sogar ein 425 m langes Gleis der Straßenbahn bis zum Elbkai verlegt, welches jedoch nur dem innerbetrieblichen Transport von Kies und Sand für die Verkehrsbetriebe diente. Später nutzte man das Hafenbecken nur noch als Winterdomizil der Weißen Flotte. Die Hafenanlagen stehen seit 1993 unter Denkmalschutz und sollen künftig Teil einer Elbuferpromenade werden. Auch die Einrichtung eines Yachthafens wird erwogen. Außerdem liegen hier zwei ehemalige Ausflugsdampfer der Weißen Flotte _(Foto)_. Das 1963 in Roßlau gebaute dieselelektrische Seitenradschiff Karl Marx (ab 1991 Daniel Pöppelmann) dient seit 2000 als Touristenherberge Die Koje und wurde bis 2012 von der städtischen Gesellschaft QAD betrieben. Danach wurde es zeitweise als Unterkunft für Asylbewerber genutzt und befindet sich heute als Beherbergungsschiff D. Pöppelmann in Privatbesitz. Ein zweites baugleiches Schiff, bis 1992 als Friedrich Engels bzw. Johann Friedrich Böttcher im Einsatz, wird vom CVJM als Jugendbildungs- und Begegnungszentrum genutzt.
 
-[![straßen der leipziger vorstadt](../../neustadt/leipziger_vorstadt/a_rectangle_1104.gif)](../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/)
+## [Straßen der Leipziger Vorstadt](../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

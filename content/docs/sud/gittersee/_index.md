@@ -84,7 +84,7 @@ Zusammenhang entstand an der Ecke ein vorgesetzer Treppenzugang. Auch der einst 
 
 **_Fotos:_** _das ehemalige Rathaus von Gittersee um 1910, 1999 und 2014 (v. l. n. r.)_
 
-[![gitterseer straßen](../../sud/gittersee/a_rectangle_603.gif)](../../sud/gittersee/strassen_gittersee/)
+## [Gitterseer Straßen](../../sud/gittersee/strassen_gittersee/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

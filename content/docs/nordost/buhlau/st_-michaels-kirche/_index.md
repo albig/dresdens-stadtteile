@@ -5,9 +5,9 @@ date: 2024-02-17T22:13:32+01:00
 
 * * *
 
-![st.-michaels-kirche  quohrener str. 18 01324 dresden tel. 0351/2683028](../../../nordost/buhlau/st_-michaels-kirche/a_rectangle_193.gif)
+St.-michaels-kirche  quohrener str. 18 01324 dresden tel. 0351/2683028
 
-![friedhof bühlau  quohrener str. 18 01324 dresden  tel. 0351/2683028](../../../nordost/buhlau/st_-michaels-kirche/a_rectangle_1116.gif)
+Friedhof bühlau  quohrener str. 18 01324 dresden  tel. 0351/2683028
 
 * * *
 

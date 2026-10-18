@@ -3,7 +3,7 @@ title: "Straßen und Plätze in Prohlis"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![albert-wolf-platz](../../../sudost/prohlis/strassen_prohlis/a_rectangle_810.gif)
+## Albert-Wolf-Platz
 
 ![](../../../sudost/prohlis/strassen_prohlis/prohlisawolfplatz.jpg)Der Platz wurde im Zusammenhang mit dem Bau des Neubaugebietes angelegt und erhielt
 zunächst den Namen Wilhelm-Koenen-Platz. Der Sozialdemokrat Wilhelm Koenen (1886-1963) emigrierte 1933 nach Frankreich, später in die Tschechoslowakei und nach England und gehörte
@@ -34,7 +34,7 @@ Palitzsch befasste sich neben seiner bäuerlichen Arbeit mit Naturwissenschaften
 
 _**Bild:** Stich von Christian Gottfried Schulze (1782) nach einem Anton Graff-Gemälde von 1777 / Wikipedia._
 
-![am anger](../../../sudost/prohlis/strassen_prohlis/a_rectangle_811.gif)
+## Am Anger
 
 Die Straße Am Anger geht auf einen Verbindungsweg zwischen dem früheren Dorfkern und der Tornaer Straße zurück. Ende des 19. Jahrhunderts entstand hier die bis 1924 betriebene [Ziegelei Kunath](../../../sudost/prohlis/strassen_prohlis/ziegelei_kunath/), deren Areal heute als Naturpark Prohlis unter Schutz steht.
 Seit 1928 ist die Straße im Adressbuch verzeichnet.  Im Zuge der Neubebauung nach 1979 wurde sie ausgebaut und mit 16-geschossigen Wohnhochhäusern bebaut.
@@ -45,34 +45,34 @@ Hellerau bebaut. Die Entwürfe für die aus fünfzig Doppelhäusern bestehende S
 kinderreiche Familien verkauft. 1945 fiel die Siedlung mit Ausnahme eines einzigen Hauses den Bomben zum Opfer. Ab 1950 wurden die zerstörten Gebäude durch massive
 Eigenheime ersetzt. Das letzte erhaltene Holzhaus am Zeisigweg wurde nach 1990 denkmalgerecht saniert.
 
-![](berzdorfer_stra_e.jpg)
+## Berzdorfer Straße
 
 Die Berzdorfer Straße entstand in den 1980er Jahren im nördlichen Teil des Neubaugebietes Prohlis. Ihren Namen erhielt sie nach
 dem Dorf Berzdorf auf dem Eigen bei Görlitz. Der Ort, der bereits 1963 als Ortsteil zur Gemeinde Schönau-Berzdorf kam, fiel 1969 dem Braunkohleabbau zum Opfer. An seiner Stelle befindet sich heute der Berzdorfer See.
 
-![](../../../sudost/prohlis/strassen_prohlis/boxberger_stra_e.jpg)
+## Boxberger Straße
 
 Die Boxberger Straße wurde im Zuge des Aufbaus des Neubaugebietes Prohlis angelegt und zunächst Wilhelm-Koenen-Straße genannt. Der Politiker Wilhelm Koenen (1886-1963) gehörte zunächst der USPD, später der KPD an und war nach 1945 am Aufbau des politischen Lebens in der DDR beteiligt. Ab 1946 saß er für die SED im sächsischen Landtag, ab 1949 auch in der Volkskammer. Am 25. Februar 1993 erfolgte die Umbenennung der Straße nach dem Ort Boxberg bei Weißwasser. Zeitgleich erhielt der angrenzende Wilhelm-Koenen-Platz den Namen Albert-Wolf-Platz.
 
-![](../../../sudost/prohlis/strassen_prohlis/dohnaer_platz.jpg)
+## Dohnaer Platz
 
 Der Dohnaer Platz entstand als nördlicher Abschluss eines Wohngebiets an der Tornaer Straße, welches zwischen 1926 und 1930
 überwiegend mit Holzhäusern bebaut wurde. Die Gebäude um den Dohnaer Platz, der 1930 erstmals im Adressbuch geführt wird,
 wurden jedoch 1929 in massiver Bauweise errichtet. Die Namensgebung erfolgte in Anlehnung an die südlich des Platzes verlaufende Dohnaer Straße nach der Kleinstadt Dohna bei Pirna.
 
-[![dohnaer straße](../../../sudost/a_rectangle_705.gif)](../../../sudost/strehlen/strassen_strehlen/dohnaer_strasse/)
+## [Dohnaer Straße](../../../sudost/strehlen/strassen_strehlen/dohnaer_strasse/)
 
-![](../../../sudost/prohlis/strassen_prohlis/drosselweg.jpg)
+## Drosselweg
 
 Der 1927 nach einer Vogelart benannte Drosselweg liegt in einem kleinen Wohngebiet, welches zwischen 1926 und 1930 angelegt
 wurde. Ursprünglich gab es hier vorwiegend Holzhäuser der Niedersedlitzer Firma Höntsch & Co. und der Deutschen Werkstätten
 Hellerau. Mit Ausnahme eines Doppelhauses am Zeisigweg fielen alle Gebäude dem Luftangriff zum Opfer. Auf den Fundamenten entstanden ab 1950 neue Wohnhäuser, nun jedoch in Massivbauweise.
 
-![elsterwerdaer straße](a_rectangle_960.gif)
+## Elsterwerdaer Straße
 
 Die Elsterwerdaer Straße entstand Anfang der 1980er Jahre im Zusammenhang mit dem Prohliser Neubaugebiet und erhielt ihren Namen nach der brandenburgischen Kleinstadt Elsterwerda. Im Zusammenhang mit der städtebaulichen Neuordnung des Areals wurde der zehngeschossige Plattenbau Elsterwerdaer Straße 1-7 2005 zugunsten einer Grünfläche abgerissen. Ein am Giebel befindliches Wandbild Mutter und Kind des Dresdner Künstlers Siegfried Schade konnte geborgen und für eine Wiederverwendung an anderer Stelle eingelagert werden. Das Kunstwerk entstand zwischen 1975 und 1979 aus 30 einzelnen Platten und stellt ein bedeutendes Zeugnis der architekturbezogenen Kunst der DDR dar.
 
-![](../../../sudost/prohlis/strassen_prohlis/finkenweg.jpg)
+## Finkenweg
 
 Der nach einer Vogelart benannte Finkenweg befindet sich in einem Wohngebiet, welches zwischen 1926 und 1930 entstand. Die
 Siedlung, zu der auch einige benachbarte Straßen gehören, war ursprünglich mit Holzhäusern der Firma [Höntzsch & Co.](../../../ost/niedersedlitz/strassen_niedersedlitz/) und der [Deutschen Werkstätten](../../../nord/hellerau/deutsche_werkstatten/) Hellerau bebaut. Sämtliche Gebäude fielen, mit Ausnahme eines Doppelhauses am Zeisigweg, 1945 dem
@@ -83,7 +83,7 @@ Luftangriff zum Opfer. Nach 1950 entstanden auf den Grundmauern neue Einfamilien
 Die Finsterwalder  Straße entstand um 1980 im östlichen Teil des Neubaugebietes Prohlis und wurde, ebenso wie die meisten
 Nachbarstraße nach einer Stadt in Brandenburg benannt. Finsterwalde liegt im Süden des Bundeslandes und ist auch als Sängerstadt bekannt.
 
-![gamigstraße](../../../sudost/prohlis/strassen_prohlis/a_rectangle_812.gif)
+## Gamigstraße
 
 ![](../../../sudost/prohlis/strassen_prohlis/prohlisgamigstr.jpg)Die Gamigstraße verband ursprünglich den Prohliser Dorfkern mit den südlich des Ortes gelegenen Lehmgruben bei Torna. Im 19. Jahrhundert siedelten sich hier mehrere Ziegeleien an, die heute jedoch nicht mehr existieren. An der Gamigstraße bestand bis zum Abriss 1979 auch die alte Dorfschmiede, die 1710 erstmals erwähnt wurde. Seit 1832 befand sich diese im Besitz der Familie Enke, die ihr Unternehmen 1978 nach Großluga verlegte. Ihren Namen erhielt die Straße 1926 nach einer Geländeerhebung bei [Torna](../../../sudost/torna/). Zuvor wurde sie kurzzeitig Dorfstraße genannt.
 
@@ -108,7 +108,7 @@ Georg Palitzsch wurde die Anlage 1923 zu einem Denkmalbrunnen umgestaltet. Der B
 einen Kometen sowie zu beiden Seiten zwei Schrifttafeln. 1976 musste der stark verfallene Brunnen abgebaut werden und wurde 1980/81 restauriert. Seitdem befindet er sich auf dem Schulhof der 121./122. Oberschule. _( **Foto:**_
 _Paulae / Wikipedia)_
 
-![georg-palitzsch-straße](../../../sudost/prohlis/strassen_prohlis/a_rectangle_813.gif)
+## Georg-Palitzsch-Straße
 
 Die Georg-Palitzsch-Straße erinnert an den bekanntesten Prohliser Einwohner, den Bauernastronomen Johann Georg Palitzsch (1723-1788). Palitzsch besaß ein Gut im Dorf, welches später als Beigut zum Schloss gehörte und 1978 abgerissen wurde. Am 25. Dezember 1758 entdeckte er den Halleyschen Kometen wieder und wurde für seine wissenschaftliche Leistung vielfach geehrt. Weniger bekannt sind Palitzschs Verdienste auf dem Gebiet der Botanik (Anbau der ersten Kartoffeln im Dresdner Raum) und derPhysik (Installation des ersten Dresdner Blitzableiters auf dem Schlossturm). Zu den Gästen des Astronomen auf seinem Prohliser Gut gehörten u.a. Kurfürst Friedrich August III., Prinz Heinrich von Preußen und Prinz Leopold von Braunschweig.
 
@@ -126,7 +126,7 @@ Der Goldammerweg verbindet den Prohliser Meisenweg mit der bereits auf Reicker F
 
 Die Gubener Straße befindet sich im nordwestlichen Teil des Neubaugebietes Prohlis, das um 1980 entstand. Guben liegt in der Niederlausitz im Osten von Brandenburg an der Grenze zu Polen.
 
-![hauboldstraße](../../../sudost/prohlis/strassen_prohlis/a_rectangle_1165.gif)
+## Hauboldstraße
 
 Die Hauboldstraße bildet die südliche Verlängerung der Gamigstraße und entstand erst nach 1990 im Zuge der Bebauung dieses Gewerbegebietes. Mit der Namensgebung wird an den Mathematiker und Geographen Georg Gottlieb Haubold (1714-1772) erinnert. Zwischen 1751 und 1772 war er Oberinspektor des Mathematisch-Physikalischen Salons.
 
@@ -134,24 +134,24 @@ Die Hauboldstraße bildet die südliche Verlängerung der Gamigstraße und entst
 
 Die Herzberger Straße wurde im Zuge des Neubauviertels um 1980 in der Nähe des Jacob-Winter-Platzes angelegt. Wie auch viele benachbarte Straßen erhielt sie ihren Namen nach einem Ort in der Lausitz, der Stadt Herzberg in Südbrandenburg.
 
-![jacob-winter-platz](../../../sudost/prohlis/strassen_prohlis/a_rectangle_814.gif)
+## Jacob-Winter-Platz
 
 Der Jacob-Winter-Platz wurde Ende der 1970er Jahre angelegt und erhielt zunächst den Namen des früheren SPD-Politikers Otto Grotewohl (1894-1964). Grotewohl übernahm nach der Vereinigung der Arbeiterparteien zur SED 1946 gemeinsam mit Wilhelm Pieck den Vorsitz der Einheitspartei. Am Otto-Grotewohl-Platz war ursprünglich das Stadtteilzentrum für Prohlis mit Läden, Gaststätten und Verwaltungseinrichtungen geplant, welches jedoch bis 1989 nicht realisiert wurde. Lediglich ein Industriewaren-Kaufhaus öffnete unter dem Namen Magnet Prohlis am 1. Juli 1987 seine Türen. Erst am 25. Oktober 2001 konnte hier das neue Prohlis-Zentrum als künftiges Ortsteilzentrum übergeben werden.
 
 Seit dem 25. Februar 1993 trägt der Otto-Grotewohl-Platz den Namen Jacob Winters. Jacob Winter (1857-1940) war ab 1886 dritter Oberrabbiner der jüdischen Gemeinde in Dresden und wurde 1912 zum Professor der Literaturwissenschaften ernannt. Er verstarb 1940 in Berlin und wurde auf dem Neuen Jüdischen Friedhof in der Johannstadt beigesetzt.
 
-![köhlerstraße](../../../sudost/prohlis/strassen_prohlis/a_rectangle_1547.gif)
+## Köhlerstraße
 
 Die Köhlerstraße wurde nach 1990 im Zusammenhang mit der Erschließung von Gewerbeflächen an der Dohnaer Straße angelegt
 und nach Johann Gottfried Köhler (1745-1801) benannt. Köhler war zwischen 1785 und 1801 Oberinspektor des Mathematisch-Physikalischen Salons und der Kunstkammer.
 
-![langer weg](../../../sudost/prohlis/strassen_prohlis/a_rectangle_815.gif)
+## Langer Weg
 
 Der Lange Weg verbindet die Dohnaer Straße und die Mügelner Straße und bildet gleichzeitig die östliche Grenze von Prohlis. Da
 diese Straße beim Bau des Neubaugebietes als Hauptverkehrsverbindung geplant war, wurden hier keine Wohngebäude errichtet.
 1998 entstand am Langen Weg das erste Smart-Center Sachsens mit seinem charakteristischen Schaufensterturm zur Präsentation der Fahrzeuge.
 
-![prohliser allee](../../../sudost/prohlis/strassen_prohlis/a_rectangle_816.gif)
+## Prohliser Allee
 
 Die Prohliser Allee entstand im Zusammenhang mit dem Bau des Neubaugebietes und bildet dessen Hauptachse. In den Erdgeschosszonen der Wohnhäuser wurden Läden und Versorgungseinrichtungen für die Bewohner des Stadtteils eingerichtet. Zu diesen gehörte u.a. das heute als Stadtteilzentrum genutzte "Magnet"-Kaufhaus (eröffnet 1987), die Wohngebietsgaststätte "Stern" (1977), das Café "Spree" (1978) und das Eiscafé "Espresso" (1981). Außerdem gab es an der Prohliser Allee ein Ambulatorium und ein Altersheim. Gleichzeitig wurde eine neue Straßenbahntrasse angelegt. Zur künstlerischen Auflockerung der meist zehngeschossigen Wohnblocks dienten Keramikwandbilder an den Giebelflächen, welche von den Künstlern Klaus Dennhardt (Nähe Gaststätte Stern), Hernando Leon (Herzberger-/Gamigstraße) und Siegfried Schade (Ecke Elsterwerdaer Straße) gestaltet wurden. Leider gingen die beiden letzteren bei Abbrüchen und Sanierungen nach 1990 verloren.
 

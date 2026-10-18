@@ -3,7 +3,7 @@ title: "Straßen und Plätze in Leutewitz"
 date: 2024-02-17T22:13:46+01:00
 ---
 
-![altleutewitz](../../../west/leutewitz/strassen_leutewitz/a_rectangle_368.gif)
+## Altleutewitz
 
 Die Straße Altleutewitz wurde bis 1926 als Dorfstraße bezeichnet und bildet den Kern des slawischen Straßendorfes. Deutlich
 ist noch die alte Struktur des Ortes zu erkennen, der in seiner heutigen Form nach einem Großbrand 1827 entstand. Noch bis
@@ -30,20 +30,20 @@ die damalige Zeit typischen Industriearchitektur gestalten. Wenig später entsta
 Die Brauerei Leutewitz existierte bis 1925 und wurde dann von ihrem Besitzer vermutlich aus Altersgründen aufgegeben. Um 1930 wurden Brau- und Kesselhaus zu Wohnzwecken umgebaut. Ab 2003 entstand unter weitgehender Bewahrung der
 historischen Bausubstanz ein Wohnhof mit mehreren Wohneinheiten. Das Foto zeigt die ehemalige Brauerei kurz vor ihrer Sanierung.
 
-![](../../../west/leutewitz/strassen_leutewitz/am_leutewitzer_park.jpg)
+## Am Leutewitzer Park
 
 Die Straße Am Leutewitzer Park entstand im Zusammenhang mit der Anlage des [Leutewitzer Volksparks](../../../west/leutewitz/leutewitzer_park/) und wurde zunächst
 Parkstraße genannt. Nach der Eingemeindung von Leutewitz erfolgte am 19. Februar 1926 die Umbenennung in Am Leutewitzer Park.
 
 
 
-![droste-hülshoff-straße](a_rectangle_369.gif)
+## Droste-Hülshoff-Straße
 
 An der früheren Kemnitzer Straße entstanden um 1900 die ersten Häuser außerhalb des Leutewitzer Dorfkerns, die die
 Entwicklung zum Dresdner Wohnvorort einleiteten. Ihren Namen erhielt sie 1908 nach dem benachbarten Dorf Kemnitz. Am
 19\. Februar 1926 wurde sie nach der bekannten deutschen Dichterin Annette Freiin von Droste-Hülshoff (1797-1848) in Droste-Hülshoff-Straße umbenannt.
 
-![gorbitzer straße](a_rectangle_370.gif)
+## Gorbitzer Straße
 
 Die heutige Gorbitzer Straße wurde früher als Oberer Leichenweg bezeichnet, da die Bewohner des Ortes hier ihren Weg zum
 Briesnitzer Friedhof nahmen. 1904 ist sie jedoch bereits als Gorbitzer Straße im Leutewitzer Adressbuch verzeichnet. Auf
@@ -51,17 +51,17 @@ Gorbitzer Flur trug sie offiziell den Namen Leutewitzer Straße, wurde jedoch zu
 ebenfalls in Gorbitzer Straße umbenannt. Bereits 1893 ist in diesem Gebiet eine Ziegelei erwähnt. 1898 entstand an der Straße
 der Cottaer Friedhof. Ursprünglich führte die Gorbitzer Straße bis zur Kesselsdorfer Straße, wurde jedoch beim Bau des Neubauviertels Gorbitz auf die heutige Straßenführung gekürzt.
 
-![schaumbergerstraße](a_rectangle_371.gif)
+## Schaumbergerstraße
 
 Die Schaumbergerstraße erinnert an den Volksschriftsteller Heinrich Schaumberger (1843-1874), der durch seine
 Dorfgeschichten im 19. Jahrhundert beliebt war. 1875 erschien eine zweibändige Volksausgabe seiner gesammelten Werke. Die frühere Südstraße in Leutewitz erhielt diesen Namen am 19. Februar 1926.
 
-![weststraße](a_rectangle_372.gif)
+## Weststraße
 
 Die Weststraße trug bis zur Eingemeindung des Ortes den Namen Weinbergstraße, der an den noch um 1870 bedeutenden
 Weinbau im Ort erinnerte. Initiator war der Mühlen- und Gastwirtschaftsbesitzer Felgentreff, der für sein Lokal einige Weinberge anlegen ließ. Am 1. Oktober 1931 wurde die Straße nach ihrer geografischen Lage umbenannt.
 
-![wilhelm-müller-straße](a_rectangle_373.gif)
+## Wilhelm-Müller-Straße
 
 Die frühere Hohe Straße erhielt 1926 den neuen Namen Wilhelm-Müller-Straße. Wilhelm Müller (1794-1827) gehört zu den
 bedeutendsten Dichtern der deutschen Romantik und ist Verfasser so bekannter Volkslieder wie Das Wandern ist des Müllers

@@ -3,7 +3,7 @@ title: "Straßen und Plätze in Plauen"
 date: 2024-02-17T22:13:43+01:00
 ---
 
-![agnes-smedley-straße](a_rectangle_620.gif)
+## Agnes-Smedley-Straße
 
 ![](../../../sud/plauen/strassen_plauen/plauenasmedley.jpg)Die Agnes-Smedley-Straße
 hieß ursprünglich wegen ihres Verlaufs am Weißeritzufer Uferstraße. Nach der Eingemeindung Plauens erhielt sie 1904 den Namen Kielmannseggstraße, der an die Gräfin Auguste Charlotte von Kielmannsegge
@@ -14,7 +14,7 @@ Nach 1945 wurde die Straße in Agnes-Smedley-Straße umbenannt. Die amerikanisch
 Smedley (1894-1950) schloss sich in den Zwanziger Jahren der anarchistischen Bewegung an und nahm am Freiheitskampf in
 Indien und China teil. Zeitweise lebte sie in Berlin. Enge Kontakte unterhielt sie während des Zweiten Weltkrieges zum Agenten Dr. Richard Sorge, der in Japan für den sowjetischen Geheimdienst tätig war.
 
-![albert-schweitzer-straße](a_rectangle_621.gif)
+## Albert-Schweitzer-Straße
 
 ![](../../../sud/plauen/strassen_plauen/plauenalbschweitzerstr.jpg)Die Straße im südlichen Teil Plauens an der Ortsgrenze zu Coschütz wurde nach dem Ersten
 Weltkrieg im Zusammenhang mit dem Bau neuer Wohnhäuser angelegt und zunächst nach dem deutschen Philosophen Friedrich Wilhelm Nietzsche (1844-1900) Nietzschestraße
@@ -25,15 +25,15 @@ Da Nietzsche vor allem in der Nachkriegszeit als einer der geistigen Wegbereiter
 Ideologie des Nationalsozialismus betrachtet wurde, entschied man sich Ende der 1960er Jahre zur Umbenennung in Albert-Schweitzer-Straße. Der Arzt und Theologe Albert Schweitzer (1875-1965) setzte sich Zeit
 seines Lebens für humanistische Ideale ein und erhielt für seine Verdienste um Frieden und Völkerverständigung 1952 den Friedensnobelpreis.
 
-[![altplauen](../../../sud/plauen/strassen_plauen/a_rectangle_1890.gif)](../../../sud/plauen/strassen_plauen/altplauen/)
+## [Altplauen](../../../sud/plauen/strassen_plauen/altplauen/)
 
-![arltstraße](../../../sud/plauen/strassen_plauen/a_rectangle_1828.gif)
+## Arltstraße
 
 Die im Stadtviertel Hohenplauen gelegene Arltstraße erinnert seit 1936 an den Architekten Max Arlt (1876-1933), welcher
 viele Jahre als Stadtbaudirektor im städtischen Hochbauamt tätig war. Zu seinen wichtigsten Tätigkeiten gehörte die Planung der [Großsiedlung Dresden-Trachau](../../../nordwest/trachau/trachauer_siedlung/) 1928-1930. Die Gebäude der Straße, meist zweigeschossige Wohnhäuser, entstanden  Mitte
 der 1930er Jahre.
 
-![bamberger straße](../../../sud/plauen/strassen_plauen/a_rectangle_622.gif)
+## Bamberger Straße
 
 Die Bamberger Straße bildet die nördliche Flurgrenze Plauens und wurde deshalb von 1878 bis 1904 Grenzstraße genannt. An
 den einstigen Verlauf dieser Grenze erinnert noch ein alter, heute eingemauerter Weichbildstein an der Kreuzung Kaitzer /
@@ -48,9 +48,9 @@ Dieser Teil Plauens gehörte zu den am stärksten vom Luftangriff 1945 betroffen
 Zu den 1945 zerstörten Gebäuden gehörte auch das Wohnhaus Hohe Straße 22 / Ecke Bamberger Straße, in dem zwischen 1884 und 1890 der Sozialistenführer August Bebel lebte. Als erstes Haus
 der Südvorstadt konnte 1952 das Gebäude Bamberger Straße 43 in Privatinitiative wieder aufgebaut werden _(Foto)_.
 
-[![bernhardstraße](../../../a_rectangle_1577.gif)](../../../zentrum/sudvorstadt/strassen_sudvorstadt/bernhardstrasse/)
+## [Bernhardstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/bernhardstrasse/)
 
-![biedermannstraße](../../../sud/plauen/strassen_plauen/a_rectangle_1832.gif)
+## Biedermannstraße
 
 Die 1876 im Plauener Industrieviertel an der Grenze zur Südvorstadt gelegene Straße trug bis zur Eingemeindung den Namen
 Florastraße. Grund für diese Namensgebung waren mehrere Gärtnereien in diesem Gebiet. Um Verwechslungen mit einer gleichnamigen Straße in Dresden zu vermeiden, erfolgte 1904 die Umbenennung in Biedermannstraße. Woldemar von
@@ -72,7 +72,7 @@ von Freital). Nach dem Tod Oskar Vogels wurde die Firma 1920 in eine GmbH umgewa
 der DDR kam das Unternehmen 1952 als Betriebsteil zum VEB Kupplungswerk- und Triebwerksbau und gehörte ab 1982 zum VEB Kupplungswerk Dresden, dessen
 Nachfolgebetrieb noch heute als KWD Kupplungswerk Dresden GmbH existiert. Das frühere Plauener Betriebsgrundstück an der Biedermannstraße wird jetzt von verschiedenen Kleinunternehmen genutzt.
 
-![bienertstraße](../../../sud/plauen/strassen_plauen/a_rectangle_623.gif)
+## Bienertstraße
 
 Die 1871 angelegte Bienertstraße erhielt ihren Namen nach dem Plauener Mühlenbesitzer Gottlieb Traugott Bienert (1813-1894), der 1852 die frühere [Hofmühle](../../../sud/plauen/bienertmuhle/)
 übernommen hatte. Bienert war wichtigster Förderer der Gemeinde Plauen und trat als Stifter öffentlicher Einrichtungen wie Schule, Kindergarten und Rathaus in Erscheinung. Auch seine Söhne Erwin und
@@ -94,9 +94,9 @@ wieder zurück. Die beim Hochwasser 2002 schwer beschädigte denkmalgeschützte 
 
 _historische Weißeritzbrücke (Mitte) - Villa Bossecker um 1930 (Nr. 35 - rechts)_
 
-[![chemnitzer straße](../../../sud/plauen/strassen_plauen/a_rectangle_624.gif)](../../../sud/plauen/strassen_plauen/chemnitzer_strasse/)
+## [Chemnitzer Straße](../../../sud/plauen/strassen_plauen/chemnitzer_strasse/)
 
-![coschützer straße](../../../sud/plauen/strassen_plauen/a_rectangle_485.gif)
+## Coschützer Straße
 
 ![](../../../sud/plauen/strassen_plauen/plauencosch_tzerstr54.jpg)Die heutige Coschützer Straße wurde 1844 als Chaussee ausgebaut und ersetzte einen alten und wegen der starken Steigung schwer zu bewältigenden Fahrweg über die heutige Gitterseestraße. 1865 erhielt sie als eine der ersten Straßen Plauens ihren Namen nach dem benachbarten Dorf Coschütz. Noch bis Ende des 19. Jahrhunderts wurden die Flächen fast ausschließlich landwirtschaftlich genutzt. Zu den ersten Gebäuden gehörte die 1862 gegründete Schankwirtschaft am [Hohen Stein](../../../sud/plauen/hoher_stein/) mit ihrem Aussichtsturm. Wenig später begann die Bebauung der Straße mit Mietshäusern. Unter Denkmalschutz steht u.a. das vom Dresdner Spar- und Bauverein errichtete Wohnhaus Coschützer Straße 54-56 (Plaut-Haus - _Foto_). Das für die Bebauung weniger geeignete Areal an der Felskante des Plauenschen Grundes wurde ab 1906 vom Mühlenbesitzer Erwin Bienert erworben und als Parkanlage gestaltet.
 
@@ -108,7 +108,7 @@ Nr. 65: Das markante Gebäude mit seinen beiden Giebeln zur Straßenseite wurde 
 
 **_Fotos:_** _Das heute als Seniorenheim genutzte Mädchenheim (links und Mitte) und das Plauener Versorghaus (rechts)_
 
-![f.-c.-weiskopf-platz](../../../sud/plauen/strassen_plauen/a_rectangle_625.gif)
+## F.-C.-Weiskopf-Platz
 
 An Stelle des heutigen F.-C.-Weiskopf-Platzes befand sich ursprünglich der Dorfplatz des Plauener Oberdorfes. Um den hier
 gelegenen Dorfteich standen die meisten Gehöfte des Ortes, darunter das 1608 entstandene Freigut zwischen Chemnitzer und
@@ -133,7 +133,7 @@ Tharandter Straße. Die Häuser an der Westseite des Platzes mit dem Restaurant 
 
 Mitte der 1990er Jahre wurde mit der Schließung der Sanierung der Bausubstanz _(Foto links)_ und der vorhandenen Baulücken begonnen _(Foto rechts)_, so dass sich der Platz wieder zu einem Geschäftszentrum Plauens entwickelt hat. An der Südseite wurde 2006 der Neubau eines Altenpflegeheimes eingeweiht. Außerdem ist der F.-C.-Weiskopf- Platz als Verkehrsknoten und Haltepunkt mehrerer Buslinien von Bedeutung.
 
-![friedrich-hegel-straße](../../../sud/plauen/strassen_plauen/a_rectangle_626.gif)
+## Friedrich-Hegel-Straße
 
 Die im Jahr 1888 angelegte Friedrich-Hegel-Straße wurde ursprünglich als Daheim-Straße bezeichnet, da eine 1872 gegründete
 gleichnamige Baugenossenschaft hier die ersten Wohnhäuser errichtet hatte. 1946 erhielt sie ihren jetzigen Namen nach dem
@@ -145,7 +145,7 @@ geplant. Bedingt durch den Ersten Weltkrieg wurden diese jedoch nicht umgesetzt.
 Mehrfamilienhäuser. Zu den Bewohnern der Friedrich-Hegel- Straße gehörten einige Professoren der Technischen Hochschule, u.a. Heinrich Barkhausen (Nr. 10), Ewald
 Sachsenberg (Nr. 21), Hugo Eckardt (Nr. 27) und Helmut Heinrich (Nr. 31).
 
-![gitterseestraße](../../../sud/plauen/strassen_plauen/a_rectangle_627.gif)
+## Gitterseestraße
 
 Die heutige Gitterseestraße geht auf einen alten Reit- und Fahrweg zurück, der die Dörfer Plauen und Coschütz miteinander
 verband. Vor der Eingemeindung trug sie ab 1873 den Namen Gartenstraße, da sich hier der gemeindeeigene Obstgarten
@@ -158,11 +158,11 @@ Fertigstellung die 23. Polizei-Bezirkswache der Dresdner Polizei. Heute befinden
 
 
 
-![großmannstraße](../../../sud/plauen/strassen_plauen/a_rectangle_628.gif)
+## Großmannstraße
 
 Die Großmannstraße wurde im Zusammenhang mit der Schaffung des [Fichteparkes](../../../sud/plauen/fichtepark/) angelegt und 1901 benannt. Ihren Namen verdankt sie dem früheren Plauener Gemeindevorstand Karl Gustav Großmann (1843-1900), der sein Amt ab 1876 ausübte. Unter seiner Führung entwickelte sich Plauen zum wichtigen Industrie- und Wohnvorort Dresdens. Auf Großmann geht auch der angrenzende Park zurück. Sein Grab befindet sich auf dem Äußeren Plauenschen Friedhof. An der Großmannstraße blieben bis zur Gegenwart einige Villen aus der Zeit um 1900 erhalten. An der Ecke zur Bernhardstraße befand sich ab 1895 die Gaststätte Parkschänke. 1918 zum Wohnhaus umgebaut, fiel das Gebäude 1945 dem Luftangriff zum Opfer. Architektonisch interessant ist die Villa Nr. 5 an der Ecke zur Westendstraße (erbaut 1905).
 
-![halbkreisstraße](../../../sud/plauen/strassen_plauen/a_rectangle_629.gif)
+## Halbkreisstraße
 
 ![](../../../sud/plauen/strassen_plauen/plauenhalbkreis3.jpg)![](../../../sud/plauen/strassen_plauen/tochterschule.jpg)Die nach ihrer Straßenführung benannte Halbkreisstraße in Hohenplauen erinnert an die frühen Bebauungspläne der Dresdner Westend AG. Ursprünglich war die Anlage eines parallel-halbkreisförmigen Straßennetzes in diesem Bereich geplant, in dessen Zentrum der [Westendpark](../../../sud/plauen/fichtepark/) (heute Fichtepark) lag. Die Halbkreisstraße bildete in diesem Projekt den inneren, der Plauensche Ring sowie die Albert-Schweitzer-Straße den äußeren Kreis des Baugebietes. Bedingt durch den Ersten Weltkrieg konnte dieses Vorhaben jedoch nicht vollendet werden. Erst in den Zwanziger Jahren entstanden weitere Wohnhäuser, die sich jedoch nur teilweise an den ursprünglichen Absichten orientierten.
 
@@ -172,13 +172,13 @@ Architektonisch interessant sind die um 1900 entstandenen Wohnhäuser Halbkreiss
 
 **_Fotos:_** _Blick in die Halbkreisstraße um 1900 und 2003_
 
-![hantzschstraße](../../../sud/plauen/strassen_plauen/a_rectangle_643.gif)
+## Hantzschstraße
 
 Die Hantzschstraße wurde 1934 nach der Familie Hantzsch benannt. Bernhard Adolf Hantzsch (1875-1911) war Ornithologe und Polarforscher und zwischen 1898 und 1909 Lehrer an der XV. Bürgerschule in Plauen. Im Juni 1911 kam er bei einer Expedition in der Nähe der Baffin-Insel in Nordkanada ums Leben. Sein Vater Karl Adolf Hantzsch (1841-1920) gehörte zu den Mitbegründern des Vereins für Geschichte Dresdens. Er verfasste u.a. 1905 das "Namenbuch der Straßen und Plätze Dresdens" und war auch Autor einer Schrift "Hervorragende Persönlichkeiten in Dresden und ihre Wohnungen".
 
 Bis zum Beginn des Zweiten Weltkriegs wurden an der Hantzschstraße mehrere zweigeschossige Wohnhäuser erbaut. 1945 kam es auch in diesem Viertel zu einigen Schäden, so dass ein Teil der Gebäude in der Nachkriegszeit durch Neubauten ersetzt werden musste.
 
-![hegerstraße](../../../sud/plauen/strassen_plauen/a_rectangle_630.gif)
+## Hegerstraße
 
 Die Hegerstraße wurde 1888 nach der Plauener Gutsbesitzerwitwe Amalie Wilhelmine Heger (1800-1877) benannt. Bei ihrem Tod hinterließ sie der Gemeinde 56.000 Mark als Stiftung für eine Kinderbewahranstalt, Vorläufer der späteren Kindergärten. 1883 konnte die Kinderbewahr- und Beschäftigungsanstalt der Heger-Bienert-Stiftung an der Nöthnitzer Straße 4 eingeweiht werden.
 
@@ -186,35 +186,35 @@ Die Hegerstraße wurde 1888 nach der Plauener Gutsbesitzerwitwe Amalie Wilhelmin
 
 **_Foto:_** _Blick in die Hegerstraße_
 
-[![hofmühlenstraße](../../../sud/plauen/strassen_plauen/a_rectangle_631.gif)](../../../sud/plauen/strassen_plauen/hofmuhlenstrasse/)
+## [Hofmühlenstraße](../../../sud/plauen/strassen_plauen/hofmuhlenstrasse/)
 
 ![hohenplauen](../../../sud/plauen/strassen_plauen/hohenplauen.jpg)
 
 Die Straße Hohenplauen wurde Anfang der 1930er Jahre parallel zum Westendring im Zusammenhang mit einem kleinen Wohngebiet angelegt. Erstmals wird der Name 1936 im Adressbuch genannt. Die Benennung erfolgte nach einer Flurbezeichnung für den gesamten südlichen Teil Plauens, bedingt durch dessen geografische Lage am Rand des Elbtalkessels.
 
-[![hohe straße](../../../a_rectangle_1661.gif)](../../../zentrum/sudvorstadt/strassen_sudvorstadt/hohe_strasse/)
+## [Hohe Straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/hohe_strasse/)
 
-[![kaitzer straße](../../../a_rectangle_1704.gif)](../../../zentrum/sudvorstadt/strassen_sudvorstadt/kaitzer_strasse/)
+## [Kaitzer Straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/kaitzer_strasse/)
 
-![kantstraße](../../../sud/plauen/strassen_plauen/a_rectangle_632.gif)
+## Kantstraße
 
 Die heutige Kantstraße hieß bis 1904 Seminarstraße, da sich hier das 1896 eröffnete Königliche Lehrerseminar befand. Der
 Name erinnert an den bedeutenden deutschen Philosophen Immanuel Kant (1724-1804). Kant gilt als bedeutendster Vertreter
 der klassischen deutschen Philosophie und wurde vor allem durch seine Kritik der reinen Vernunft bekannt. Im ehemaligen Seminargebäude hat heute das Gymnasium Dresden-Plauen seinen Sitz.
 
-![klingenberger straße](../../../sud/plauen/strassen_plauen/a_rectangle_633.gif)
+## Klingenberger Straße
 
 Die Klingenberger Straße, benannt nach dem kleinen Ort Klingenberg im Weißeritzkreis, trug vor 1904 den Namen Poststraße,
 da sich hier das Postamt des Ortes befand. Zwischen Klingenberger und Chemnitzer Straße stand bis zum Abbruch 1895 das
 Freigut, welches sich zuletzt im Besitz der Familie Moses befand und größtes bäuerliches Anwesen Plauens war. Später wurden
 an seiner Stelle repräsentative Mietshäuser errichtet. Die Westseite der Straße erhielt ihr heutiges Bild nach dem Ersten Weltkrieg, als hier weitere Mehrfamilienhäuser entstanden.
 
-![kotteweg](../../../sud/plauen/strassen_plauen/a_rectangle_1891.gif)
+## Kotteweg
 
 Der Kotteweg im Wohngebiet Hohenplauen entstand in den Zwanziger Jahren und erhielt seinen Namen nach dem Dresdner
 Stadtverordneten Gustav Kotte (1844-1925). Kotte war zugleich Vorsitzender des Bürgervereins Dresden-Plauen.
 
-![krausestraße](../../../sud/plauen/strassen_plauen/a_rectangle_634.gif)
+## Krausestraße
 
 ![](../../../sud/plauen/strassen_plauen/plauenfeuerwache.jpg)Die Krausestraße oberhalb des Inneren Plauenschen Friedhofes wurde 1876 als
 Schulstraße angelegt, da sich hier das alte Plauener Schulhaus befand. Das historische Gebäude wurde 1903 wegen Baufälligkeit abgerissen. Ihren heutigen, nach der
@@ -233,7 +233,7 @@ Gebäude besitzt zwei Wohnungen. Auf dem Nachbargrundstück wurde 1997 ein kirch
 
 Die Bebauung erfolgte zunächst nur auf der südlichen Straßenseite mit Mehrfamilienhäusern. Besitzer dieser Baugruppe war 1944 die "Allianz und Stuttgarter Lebensversicherung Bank AG". In den 1950er Jahren wurden auch auf der gegenüberliegenden Straßenseite Wohnhäuser erbaut _(Foto)_. Eine Modernisierung der Gebäude erfolgte nach 1990.
 
-![leibnizstraße](../../../sud/plauen/strassen_plauen/a_rectangle_1744.gif)
+## Leibnizstraße
 
 ![](../../../sud/plauen/strassen_plauen/plauenleibnizstr.jpg)Die Leibnizstraße wurde im Zusammenhang mit der Erschließung des Villenviertels
 Hohenplauen angelegt, jedoch erst in den 1920er und 30er Jahren mit Mehrfamilienhäusern bebaut. Initiator der Siedlung zwischen Leibniz- und Nietzschestraße (heute
@@ -241,7 +241,7 @@ Albert-Schweitzer-Straße) war der genossenschaftlich organisierte Bauverein Gar
 (1646-1716), der zu den wichtigsten Vertretern der Frühaufklärung gehörte. Leibniz befasste sich mit philosophischen Fragen, aber auch mit mathematischen und physikalischen
 Fragen und begründete die Differential- und Integralrechnung.
 
-![lotzestraße](../../../sud/plauen/strassen_plauen/a_rectangle_1706.gif)
+## Lotzestraße
 
 Die Lotzestraße entstand in den Zwanziger Jahren in der Nähe des Plauenschen Rings und wurde nach dem Philosophen Rudolf
 Hermann Lotze (1817-1881) benannt. Der aus Bautzen stammende Gelehrte gilt als Vertreter der vor dem Ersten Weltkrieg populären Lehre der induktiven Metapysik, welche moderne wissenschaftliche Erkenntnisse mit religiösen
@@ -249,9 +249,9 @@ Glaubensvorstellungen in Einklang zu bringen versuchte. 2011 entstand auf dem Ar
 zwischen Lotzestraße und Passauer Straße ein kleines Wohngebiet mit Einfamilienhäusern und einer Kita. Architektonisch
 interessant ist das von Steffen Pape entworfene Haus Nr. 7, welches 2013 mit dem Baupreis Plauen prämiert wurde.
 
-[![nöthnitzer straße](../../../sud/plauen/strassen_plauen/a_rectangle_635.gif)](../../../sud/plauen/strassen_plauen/nothnitzer_strasse/)
+## [Nöthnitzer Straße](../../../sud/plauen/strassen_plauen/nothnitzer_strasse/)
 
-![pestitzer straße](../../../sud/plauen/strassen_plauen/a_rectangle_636.gif)
+## Pestitzer Straße
 
 ![](../../../sud/plauen/strassen_plauen/plauenpestitzerstr3.jpg)Die Pestitzer Straße im Ortsteil Hohenplauen erhielt ihren Namen nach dem Bauernweiler
 (Klein-) Pestitz zwischen Räcknitz und Mockritz. Seit Mitte des 19. Jahrhunderts waren die Flächen Standort der Ziegelei Bossecker. Die Firma gehörte zu den einst drei
@@ -259,7 +259,7 @@ Ziegeleibetrieben auf Plauener Flur. Nach Erschöpfung der Lehmvorkommen verlegt
 einem Fuhrunternehmen genutzt und 2005 zugunsten eines Wohnhauses abgebrochen. Erhalten blieb die Villa des einstigen Besitzers an der Bienertstraße 35. Nach Aufgabe des
 Ziegeleibetriebes entstanden an der Pestitzer Straße mehrgeschossige Mietshäuser.
 
-![plauenscher ring](../../../sud/plauen/strassen_plauen/a_rectangle_637.gif)
+## Plauenscher Ring
 
 Der bis 1904 Ringstraße genannte Plauensche Ring wurde 1873 als Auftakt für das geplante Villenviertel Hohenplauen durch
 die Baugesellschaft Dresdner Westend angelegt. Unter Ausnutzung des Geländes war ein teilweise bogenförmiges Straßennetz
@@ -283,7 +283,7 @@ _Nach 1945 befand sich auf dem Grundstück der Schulgarten der 55. Polytechnisch
 
 _Das Eckhaus zur Bernhardstraße mit der Kneipe Paul Rackwitz (rechts)._
 
-![reckestraße](../../../sud/plauen/strassen_plauen/a_rectangle_638.gif)
+## Reckestraße
 
 ![](../../../sud/plauen/strassen_plauen/plauenreckestr.jpg)Die Reckestraße, vor 1904 Elisenstraße genannt, wurde 1873 durch die Baugesellschaft Dresdner Westend angelegt und mit Wohnhäusern bebaut. Ihren Namen erhielt sie nach der Lyrikerin Elisa von der Recke (1756-1833), die im 19. Jahrhundert Mittelpunkt eines Künstlerkreises war, dem auch ihr Lebensgefährte Christoph August Tiedge und Carl Maria von Weber angehörten. Markantestes Gebäude an der Reckestraße ist neben der [Kirche](../../../sud/plauen/auferstehungskirche/) das 1912 von Hans Erlwein und Max Wrba entworfene Gemeindehaus der Auferstehungskirche _(Foto)_.
 
@@ -295,7 +295,7 @@ Im Wohnhaus Reckestraße 5 entstand 1998 die Restauration Kielmannsegge, deren N
 
 Der heute nicht mehr im Stadtplan verzeichnete Röhrweg verband einst die Wasserstraße (Hofmühlenstraße) mit der heutigen Zwickauer Straße. Der Name erinnerte an die 1542 abgelegte [Hochplauensche Röhrfahrt](../../../sud/plauen/), die noch bis zum Ersten Weltkrieg in Betrieb war und der Wasserversorgung Dresdens diente. Im Zuge der Industrialisierung in dieser Gegend lag der Weg inmitten des Industriegebietes im Norden des Ortes und wurde zudem von der Bahnverbindung nach Chemnitz überquert. Noch 1964 war der Röhrweg, der mitterweile zum Teil auf dem Gelände des [Bahnbetriebswerkes](../../../zentrum/sudvorstadt/strassen_sudvorstadt/zwickauer_strasse/) lag, in den Stadtplänen verzeichnet. Heute wird der verbliebene Teil zur Biedermannstraße gezählt.
 
-![schleiermacherstraße](../../../sud/plauen/strassen_plauen/a_rectangle_639.gif)
+## Schleiermacherstraße
 
 Die Schleiermacherstraße beginnt an der Plauener Kirche und endet in der Nähe des Naturdenkmals [Hoher Stein](../../../sud/plauen/hoher_stein/) im oberen
 Teil von Plauen. Bis 1904 wurde sie Lutherstraße genannt. Der heutige Name erinnert an den deutschen Theologen und Religionsphilosophen Friedrich Schleiermacher (1768-1834), der auch mit reformpädagogischen Gedanken für Aufsehen
@@ -303,7 +303,7 @@ sorgte. Bemerkenswertestes Gebäude ist das 1875/76 erbaute [Schulhaus](../../..
 Ein Erweiterungsbau entstand 1898. Oberhalb dieser Schule liegt der vom Sohn des Mühlenbesitzers gestiftete Bienertpark. Im
 Sommer 1913 wurde an der Schleiermacherstraße bei Kanalarbeiten eine Wohngrube der sogenannten Billendorfer Kultur (um 800 v. Chr.) entdeckt.
 
-![schopenhauerstraße](../../../sud/plauen/strassen_plauen/a_rectangle_664.gif)
+## Schopenhauerstraße
 
 Die um 1900 angelegte Gostritzer Straße im oberen Teil von Plauen erhielt nach der Eingemeindung des Ortes den Namen des
 deutschen Philosophen Arthur Schopenhauer (1788-1860). Schopenhauer vertrat eine die Welt als Vorstellung und ihre Kräfte
@@ -318,14 +318,14 @@ Nr. 5:
 Zwischen 1909 und 1914 wohnte im 1. Obergeschoss dieses Hauses der aus Dänemark stammende Schriftsteller Karl Gjellerup mit seiner Frau Nina. Gjellerup war nach seiner Hochzeit mit der aus Dresden stammenden und bereits zuvor
 verheirateten Eugenia Bendix 1892 in die sächsische Residenz übergesiedelt. Für sein in Dresden entstandenes Werk Der Pilger Kamanita (1906) erhielt er 1917 den Literaturnobelpreis. Vom Preisgeld erwarb er die Villa [Goethestraße 11](../../../nord/klotzsche/strassen_klotzsche/) in Klotzsche, wo er bis zu seinem Tod 1919 lebte.
 
-![steinadlerstraße](../../../sud/plauen/strassen_plauen/a_rectangle_1858.gif)
+## Steinadlerstraße
 
 Die Steinadlerstraße in der Nähe des Fichteparks wurde in Abweichung vom ursprünglichen Bebauungsplan für Hohenplauen
 um 1930 angelegt. Wenig später wurden hier Ein- und Mehrfamilienhäuser erbaut, welche bis zur Gegenwart weitgehend im Ursprungszustand erhalten blieben.
 
-[![tharandter straße](../../../a_rectangle_541.gif)](../../../sudwest/lobtau/strassen_lobtau/tharandter_strasse/)
+## [Tharandter Straße](../../../sudwest/lobtau/strassen_lobtau/tharandter_strasse/)
 
-![westendring](../../../sud/plauen/strassen_plauen/a_rectangle_1820.gif)
+## Westendring
 
 Der Westendring entstand 1874 in Verlängerung der Ringstraße (ab 1904 Plauenscher Ring) und bildete zugleich die östliche Begrenzung des Villenviertels der Baugesellschaft Dresdner Westend. Nach dem Ersten Weltkrieg wurden auch in diesem Bereich Hohenplauens, Wohnhäuser erbaut. Rund um den Fichtepark prägen bis heute vor allem Einfamilienhäuser das Stadtbild. Auf der gegenüberliegenden Seite entstand ab 1980 das Wohngebiet Cämmerswalder Straße.
 
@@ -338,7 +338,7 @@ Bienert-Stiftung entstand zugleich ein Promenadenweg parallel zum Westendring, d
 
 
 
-![westendstraße](../../../sud/plauen/strassen_plauen/a_rectangle_1614.gif)
+## Westendstraße
 
 Ebenso wie der benachbarte Westendring erhielt auch die Westendstraße ihren Namen nach dem 1872 gegründeten Bauverein Westend, der bis zum Ende des 19. Jahrhunderts die Freiflächen in diesem Bereich parzellierte und als Baugrundstücke zur Verfügung stellte. Hauptsächlich entstanden hier Villen und Landhäuser, zunächst an der Ost-, nach 1900 auch an der Westseite der Straße. Architektonisch interessant sind u.a. die Häuser Nr. 18 und 21. Beim Bau weiterer Wohnhäuser wurden 1921 hier einige Mammutknochen gefunden.
 
@@ -353,7 +353,7 @@ auch der Anbau mit Garage. 1945 wurde die Villa von der Roten Armee zeitweise ko
 später gewerblich genutzt, u.a. von einer Zahlstelle der SVK und ab 1951 vom Leihhaus Baldauf & Co. In den Obergeschossen entstanden Mietwohnungen und Büros. 1951 verkauften
 die Erben Graumüllers das Gebäude an die Familie Kahlert, die die Villa bis 1995 denkmalgerecht sanieren ließ. Heute befindet sich hier die Kunstgalerie Galerie K Westend.
 
-![würzburger straße](../../../sud/plauen/strassen_plauen/a_rectangle_657.gif)
+## Würzburger Straße
 
 Diese Straße im unteren Teil von Plauen wurde 1873/74 als Reisewitzer Straße (nach dem nahen Reisewitzschen Garten) angelegt und 1904 in Würzburger Straße umbenannt. In diesem Gebiet dominierten vor allem gewerbliche Unternehmen, östlich der Chemnitzer Straße lagen Villen und Mehrfamilienhäuser. In der Nähe der Weißeritz enstand ein Elektrizitätswerk, daneben die Großmolkerei DREMA. Das Eckgrundstück zur Chemnitzer Straße wurde von der Brauerei Plauenscher Lagerkeller (später [Falkenbrauerei](../../../sud/plauen/strassen_plauen/chemnitzer_strasse/falkenbrauerei/)) eingenommen.
 
@@ -373,14 +373,14 @@ Die im süddeutschen Stil gestaltete Villa wurde 1908 nach Plänen des Architekt
 Nr. 69:
 Auch dieses Haus gehört zu den architektonisch interessanten Villen und Mietshäusern der Würzburger Straße. Die malerische Villa mit zahlreichen Schmuckdetails entstand 1906.
 
-![zwickauer platz](a_rectangle_640.gif)
+## Zwickauer Platz
 
 ![](../../../sud/plauen/strassen_plauen/plauenzwickauerplatz.jpg)Der ursprünglich Wettiner Platz genannte Platz erhielt seinen Namen Zwickauer Platz
 erst nach der Eingemeindung Plauens 1904. Gleichzeitig wurde die benachbarte Falkenstraße in [Zwickauer Straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/zwickauer_strasse/) umbenannt. Angelegt wurde er 1895 im Zuge der
 Bebauung der Flächen zwischen Zwickauer und Klingenberger Straße. Der von mehrgeschossigen Wohnhäusern umgebene Platz erhielt dabei eine parkartige Gestaltung. Im Mittelpunkt stand ein heute nicht mehr vorhandenes Wettindenkmal,
 welches seinen Standort zuvor am alten Dorfplatz hatte. Heute befindet sich an seiner Stelle ein um 1995 angelegter Kinderspielplatz. Einige Gebäude der Ostseite fielen 1945 den Bomben zum Opfer.
 
-[![zwickauer straße](../../../sud/plauen/strassen_plauen/a_rectangle_252.gif)](../../../zentrum/sudvorstadt/strassen_sudvorstadt/zwickauer_strasse/)
+## [Zwickauer Straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/zwickauer_strasse/)
 
 
 

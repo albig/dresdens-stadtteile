@@ -22,7 +22,7 @@ date: 2024-02-17T22:13:42+01:00
 
 ![](../../bibodd.jpg)[![bibliothek strehlen im otto-dix-center 01219 dresden tel. 0351/2753665](../../sudost/strehlen/a_rectangle_803.gif)](http://www.bibo-dresden.de)
 
-[![homepage der 128. oberschule dresden-strehlen](../../sudost/strehlen/a_rectangle_805.gif)](http://www.dd.shuttle.de/128ms)
+[Homepage der 128. oberschule dresden-strehlen](http://www.dd.shuttle.de/128ms)
 
 
 ![](../../sudost/strehlen/strehlenalt2.jpg)Strehlen entstand im 11. Jahrhundert als slawisches Bauerndorf am Kaitzbach und wurde 1288 erstmals als Strowelin erwähnt. Der Name bedeutet Ort des Strovela und weist auf den Sippenältesten der Siedlung hin. Die Strehlener Flur erstreckte sich ursprünglich von der Bürgerwiese bis zum Koitzschgraben bei Reick und bestand aus zwei Teilen. Der am Frankenberg gelegene Teil (zwischen Lockwitzer und Teplitzer Straße) wurde als Vorwerksflur bezeichnet und gehörte zu einem Herrengut. Die bäuerlichen Felder lagen vor und hinter dem Steine, d. h. in der Nähe des Großen Gartens und an der heutigen Reicker Straße. Mit über 385 Hektar Land und 250 Einwohnern (1553) war Strehlen eines der größten Dörfer des Dresdner Umlandes.
@@ -94,7 +94,7 @@ Bestimmung übergeben.
 
 [![](../../sudost/strehlen/palucca.jpg)](http://www.palucca-schule-dresden.de)
 
-[![strehlener straßen](../../sudost/strehlen/a_rectangle_771.gif)](../../sudost/strehlen/strassen_strehlen/)
+## [Strehlener Straßen](../../sudost/strehlen/strassen_strehlen/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

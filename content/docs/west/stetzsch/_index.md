@@ -44,7 +44,7 @@ Nach dem Vorbild anderer Elbanlieger errichtete die Gemeinde Stetzsch 1914 unter
 mit zwei großen Gemeinschaftsbassins und hölzernen Umkleidekabinen. Das Elbebahnen-Bad Stetzsch war in den Sommermonaten zwischen Juni und September geöffnet und wurde auch von den Bewohnern aus Briesnitz und
 Kemnitz gern besucht. Trotz des guten Zuspruchs musste das Stetzscher Elbebad Ende der Zwanziger Jahre aus wirtschaftlichen Gründen geschlossen werden.
 
-[![stetzscher straßen](a_rectangle_274.gif)](../../west/stetzsch/strassen_stetzsch/)
+## [Stetzscher Straßen](../../west/stetzsch/strassen_stetzsch/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

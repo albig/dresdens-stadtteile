@@ -36,7 +36,7 @@ der beiden benachbarten Dörfer Mügeln (heute Stadtteil von Heidenau) und Zscha
 der Wilhelm-Weitling-Straße 66 ein eigenes Schulhaus. Das Gebäude besaß nur vier Klassenzimmer sowie ein kleines
 Nebengebäude, welches später ebenfalls als Unterrichtsraum genutzt wurde. 1923 wurde dem Bau ein zusätzliches Stockwerk aufgesetzt. Nach der Eingemeindung Zschierens schloss das Schulhaus wenig später seine Pforten.
 
-[![zschierener straßen](../../ost/zschieren/a_rectangle_774.gif)](../../ost/zschieren/strassen_zschieren/)
+## [Zschierener Straßen](../../ost/zschieren/strassen_zschieren/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

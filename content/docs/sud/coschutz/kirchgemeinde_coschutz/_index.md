@@ -5,11 +5,11 @@ date: 2024-02-17T22:13:40+01:00
 
 * * *
 
-![evangel.-lutherische paul-gerhard-kirchgemeinde dresden-coschütz/gittersee windbergstr. 20 01189 dresden  tel. 0351/4010369](../../../sud/coschutz/kirchgemeinde_coschutz/a_rectangle_617.gif)
+Evangel.-lutherische paul-gerhard-kirchgemeinde dresden-coschütz/gittersee windbergstr. 20 01189 dresden  tel. 0351/4010369
 
 [![](../../../sud/gitterseekirche.jpg)](http://www.kirche-dresden-gittersee.de)
 
-![friedhof coschütz karlsruher str. 1a 01189 dresden](../../../sud/coschutz/kirchgemeinde_coschutz/a_rectangle_1141.gif)
+Friedhof coschütz karlsruher str. 1a 01189 dresden
 
 
 ![](../../../sud/coschutz/kirchgemeinde_coschutz/bartholomäuskapelle.jpg)Coschütz unterstand gemeinsam mit zahlreichen weiteren Orten und Vorwerken ursprünglich der Bartholomäuskapelle, die sich in der Nähe des Freiberger Platzes in der Wilsdruffer Vorstadt befand _(Bild)_. Nach der Reformation wechselte die Zugehörigkeit 1578 zunächst zur Annen-, später zur Kreuzkirche und zur Frauenkirche. Für Beerdigungen blieb auch weiterhin die Annenkirche zuständig.

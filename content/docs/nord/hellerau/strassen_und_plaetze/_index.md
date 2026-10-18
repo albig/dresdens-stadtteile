@@ -3,12 +3,12 @@ title: "Straßen und Plätze in Hellerau"
 date: 2024-02-17T22:13:31+01:00
 ---
 
-![](../../../nord/hellerau/strassen_und_plaetze/am_biedersberg.jpg)
+## Am Biedersberg
 
 Die Straße Am Biedersberg wurde 1927 nach einem alten Flurnamen, dem "Biedersberg", benannt. Die Anlage erfolgte im
 Zusammenhang mit dem Bau einer Einfamilienhaussiedlung südlich des Moritzburger Wegs.
 
-![](../../../nord/hellerau/strassen_und_plaetze/am_dorffrieden.jpg)
+## Am Dorffrieden
 
 ![](../../../nord/hellerau/strassen_und_plaetze/helldorffrieden.jpg)Als sogenannter Dorffrieden wurde früher der am Rande des Klotzscher Dorfkerns
 verlaufende Fahrweg bezeichnet, dessen Breite auf acht Ellen festgelegt war, damit sich hier zwei Wagen begegnen konnten. 1911 erhielt die Straße offiziell ihren Namen.
@@ -16,13 +16,13 @@ verlaufende Fahrweg bezeichnet, dessen Breite auf acht Ellen festgelegt war, dam
 Die Gebäude der Straße Am Dorffrieden im Hellerauer Kleinhausviertel wurden 1910 von Hermann Muthesius entworfen. Typisch für diese Häuser aus der Anfangsphase Helleraus sind die Wechsel zwischen Traufe und Giebel, die der
 Reihenhauszeile einen abwechslungsreichen Charakter verleihen.
 
-![](../../../nord/hellerau/strassen_und_plaetze/am_festspielhaus.jpg)
+## Am Festspielhaus
 
 Der westlich des Festpielhauses gelegene Fußweg zur Boltenhagener Straße wurde Mitte der 1920er Jahre als Planstraße 23
 angelegt und 1927 zunächst mit Am Sorbenlager bezeichnet. Vermutlich sollte mit dieser Namensgebung an die slawische
 Besiedlung der Region erinnert werden. Mit der Begründung, dass hier ein konkreter historischer Bezug fehlt, beschloss der Hellerauer Gemeinderat 1938 die Umbenennung in Am Festspielhaus.
 
-![](../../../nord/hellerau/strassen_und_plaetze/am_gr_nen_zipfel.jpg)
+## Am grünen Zipfel
 
 ![](../../../nord/hellerau/strassen_und_plaetze/hell_grünerzipfel.jpg)Am 9. Juni 1909 erfolgte an dieser Straße der Baustart für die Gartenstadt. Ursprünglich befand sich auf dem Areal eine vom Klotzscher Dorfbach bewässerte Wiese, aufgeteilt in kleine, zipfelartige Flurstücke. Die Kleinhäuser entstanden nach Plänen von Richard Riemerschmid und stehen unter Denkmalschutz. Unter Einbeziehung der bereits vorhandenen [Waldschänke](../../../nord/hellerau/strassen_und_plaetze/waldschanke/) (Nr. 2) wurde hier das Konzept der Gartenstadt mit Fabrikanlage und modernen Arbeiterwohnhäusern erstmals in Dresden umgesetzt.
 
@@ -32,33 +32,33 @@ Zu den Bewohnern der Häuser gehörten u.a. der Schriftsteller Max Adler (Nr. 23
 
 **_Fotos:_** _Die Hellerauer Wohnzeile Am Grünen Zipfelum 1909 und 2010_
 
-![](../../../nord/hellerau/strassen_und_plaetze/am_pfarrlehn.jpg)
+## Am Pfarrlehn
 
 Die Straße Am Pfarrlehn erinnert an die Gründung der Klotzscher Kirche, als die Bauern zur Finanzierung des Baus einen Teil ihrer hier gelegenen Felder an die Kirche abgeben mußten. Die ersten Gebäude entstanden ab 1913 nach Entwürfen von Heinrich Tessenow (Nr. 2-16). 1937 wurden für die Baugenossenschaft Hellerau Reihenhäuser gebaut (Nr. 28-40), mit deren Fertigstellung der Aufbau der Gartenstadt vorerst abgeschlossen wurde. Zwischen 1997 und 1999 entstanden weitere Ein- und Zweifamilienhäuser nach Entwürfen des Radeberger Büros Baltin & Partner.
 
-![](../../../nord/hellerau/strassen_und_plaetze/am_pilz.jpg)
+## Am Pilz
 
 ![](../../../nord/hellerau/strassen_und_plaetze/hell_am_pilz.jpg)Die Straße Am Pilz wurde um 1910 angelegt und nach einem hier befindlichen Aussichtspunkt benannt. Der kleine Bau mit Rundbank und einem pilzartigen Schutzdach entstand nach einer Idee des Architekten Richard Riemerschmid und wurde im Volksmund "Pilz" genannt. Später musste er der weiteren Bebauung in diesem Gebiet weichen. Architektonisch interessant sind die Einzelhäuser Nr. 2 (Atelierhaus Gebhardt - _Foto_), welches 1921 durch Karl Bertsch entworfen wurde sowie das 1939 fertiggestellte Haus Asta Stargard (Nr. 5) von Adelbert Niemeyer. Rudolph Gebhardt (1894-1985) hatte sich nach einem Studium an der Zeichenschule in Dresden 1921 in Hellerau niedergelassen und schuf vor allem Natur- und Landschaftsbilder im Stil der Neuen Sachlichkeit.
 
-![](../../../nord/hellerau/strassen_und_plaetze/am_sch_nkenberg.jpg)
+## Am Schänkenberg
 
 ![](../../../nord/hellerau/strassen_und_plaetze/am_schänkenberg.jpg)Die Straße Am Schänkenberg entstand in der ersten Bauphase der Gartenstadt und wurde 1910/11 mit Reihen-, Doppel- und Einzelhäusern bebaut. Architekt der Wohnhäuser Nr. 1-15, 4-16 und 17-23 war Heinrich Tessenow, der hier am konsequentesten moderne städetbauliche und architektonische Reformkonzepte umsetzte. Die Wohnhäuser entstanden in einer besonderen Holzständerbauweise mit Ziegelausfachung und stellen deshalb auch technologisch eine Novität dar. Weitere Gebäude stammen von Hermann Muthesius (Nr. 2 - _Foto_ \- und 12) und Richard Riemerschmid (Nr. 25, 46-50).
 
 Im Wohnhaus Am Schänkenberg 24 lebte in den Zwanziger Jahren die Übersetzerin Grete Fantl. Sie war in erster Ehe mit dem Musikkritiker der "Dresdner Neuesten Nachrichten" Dr. Leo Fantl verheiratet und unterhielt in ihrem Wohnhaus einen literarischen Salon. 1924 gründete sie gemeinsam mit Alice Rühle-Gerstel die Dresdner Ortsgruppe des Internationalen Vereins für Individualpsychologie. Wegen ihrer jüdischen Herkunft musste sie nach 1933 emigrieren und lebte später in der USA.
 
-![](../../../nord/hellerau/strassen_und_plaetze/am_schulfeld.jpg)
+## Am Schulfeld
 
 Die Straße Am Schulfeld entstand nach 1990 im Zusammenhang mit dem Bau einer neuen Wohnsiedlung. Im März 1997 erhielt sie ihren in Bezug auf das am nördlichen Ende der Straße gelegene alte [Schulhaus](../../../nord/klotzsche/) von Klotzsche.
 
-![](../../../nord/hellerau/strassen_und_plaetze/am_sch_tzenfelde.jpg)
+## Am Schützenfelde
 
 ![](../../../nord/hellerau/strassen_und_plaetze/hellerausch_tzenfelde.jpg)Die Straße Am Schützenfelde wurde 1913 im Zusammenhang mit dem Bau der Gartenstadt angelegt. Die Häuser wurden vom jüngsten der Hellerauer Architekten, dem Muthesius-Schüler Kurt Frick entworfen und waren letztes geschlossenes Wohnviertel der Gründungszeit. Die architektonische Gestaltung vereint Elemente der Riemerschmid-Bauten am Markt mit den sachlichen Gebäuden Heinrich Tessenows. Entgegen dem ursprünglichen Konzept durften hier auch individuelle Grundriss- und Fassadengestaltungen aus einem Musterkatalog gewählt werden.
 
-![](../../../nord/hellerau/strassen_und_plaetze/am_seeh_gel.jpg)
+## Am Seehügel
 
 Die unmittelbar in der Nähe der Autobahn verlaufende Straße Am Seehügel entstand um 1935 und wurde zunächst Siedlerstraße genannt. Ihr Bau war durch die Anlage der Autobahn notwendig geworden, um drei hier gelegene Grundstücke erreichen zu können. 1940 wurde sie in Am Seehügel umbenannt. Namensgeber war ein kleiner Teich unmittelbar an der Straße.
 
-![](../../../nord/hellerau/strassen_und_plaetze/am_sonnenhang.jpg)
+## Am Sonnenhang
 
 An der Straße Am Sonnenhang entstand das erste Haus 1910 nach einem Entwurf von Mackay Hugh Baillie Scott. In den 1930er Jahren wurde die Bebauung durch eine Holzhaus-Mustersiedlung der Deutschen Werkstätten vervollständigt. Die 15 Typenbauten wurden z. T. von bekannten Architekten wie Wilhelm Kreis (Nr. 1 - "Flitterwochenhaus", Nr. 6 und Nr. 19), Oswin Hempel (Nr. 9, 11, 13 und 15), Eugen Schwemmle (Nr. 3, 4, 5 und 7) und Wilhelm Jost (Nr. 8) gestaltet und waren Beginn der Serienfertigung von Wohnhäusern in den Hellerauer Werkstätten. 1934 erfolgte die offizielle Benennung der Straße Am Sonnenhang. 2001 entstand ein moderner Ergänzungsbau des Architekten Peter Zirkel, der die Tradition der Holzhaussiedlung in zeitgenössischer Gestaltung fortsetzt.
 
@@ -68,7 +68,7 @@ An der Straße Am Sonnenhang entstand das erste Haus 1910 nach einem Entwurf von
 
 
 
-![](../../../nord/hellerau/strassen_und_plaetze/am_talkenberg.jpg)
+## Am Talkenberg
 
 Die Flurbezeichnung Talckenberg ist bereits auf alten Karten eingetragen und findet sich auch in den Klotzscher Dorfrügen, da sich hier eine der Viehtreiben des Dorfes befand. 1910 erhielt die Straße offiziell ihren Namen. Gleichzeitig errichtete Richard Riemerschmid die in einer leichten Biegung verlaufende Häuserzeile Nr. 2-14.
 
@@ -87,19 +87,19 @@ _![](../../../nord/hellerau/strassen_und_plaetze/am_wasserturm.jpg)_
 
 **_Foto:_** _Wasserturm Hellerau (Wikipedia/Paulae)_
 
-![](../../../nord/hellerau/strassen_und_plaetze/an_den_teichwiesen.jpg)
+## An den Teichwiesen
 
 Die Straße An den Teichwiesen verbindet den Brunnenweg mit dem Hohen Weg und wurde 1927 benannt. Der Straßenname erinnert an die einst hier gelegenen Fischteiche.
 
-![](../../../nord/hellerau/strassen_und_plaetze/an_der_h_he.jpg)
+## An der Höhe
 
 Die Straße An der Höhe entstand um 1930 und wurde zunächst An der Berglehne genannt. Da es am Weißen Hirsch bereits eine gleichnamige Straße gab, erfolgte im September 1953 die Umbenennung in An der Höhe.
 
-![](../../../nord/hellerau/strassen_und_plaetze/an_der_lehmkuhle.jpg)
+## An der Lehmkuhle
 
 Die Straße An der Lehmkuhle in der Nähe des Festspielhauses ist erstmals 1935 im Adressbuch verzeichnet. Die Namensgebung bezieht sich vermutlich auf einen Flurnamen.
 
-![](../../../nord/hellerau/strassen_und_plaetze/an_der_winkelwiese.jpg)
+## An der Winkelwiese
 
 ![](../../../nord/hellerau/strassen_und_plaetze/hell_winkelwiese.jpg)Die heutige Straße An der Winkelwiese geht auf einen alten Fußweg zurück, der beim Bau der Gartenstadt Hellerau 1910 zur Straße ausgebaut wurde. 1911 erhielt sie nach einer alten Flurbezeichnung ihren Namen. Die Reihenhäuser entstanden nach einem Entwurf von Hermann Muthesius und stehen unter Denkmalschutz.
 
@@ -109,7 +109,7 @@ Im Wohnhaus Nr. 4 lebte bis zu seinem Tod 1962 der Grafiker Wilhelm Schubert (\*
 
 **_Foto:_** _Doppelhäuser von Hermann Muthesius An der Winkelwiese_
 
-![](../../../nord/hellerau/strassen_und_plaetze/auf_dem_sand.jpg)
+## Auf dem Sand
 
 ![](../../../nord/hellerau/strassen_und_plaetze/hellerausand12.jpg) Die meisten Gebäude der 1910 angelegten Straße Auf dem Sand im Landhausviertel von Hellerau wurden von Hermann Muthesius entworfen. Außerdem wirkten die Architekten German Bestelmeyer (Nr. 1), Karl Bertsch (Nr. 3), Heinrich Tscharmann (Nr. 4), Kurt Frick (Nr. 5), Oswin Hempel (Nr. 6), Alexander Horath (Nr. 8), Heinrich Tessenow (Nr. 12 - _Foto rechts_ \- und 14), Theodor Fischer (Nr. 17) und Richard Riemerschmid (Nr. 19 und 21) mit. Im Gegensatz zum Kleinhausviertel entstanden hier individuell gestaltete Landhäuser für bürgerliche Besitzer, welche jedoch typische Hellerauer Architekturelemente aufnahmen.
 
@@ -124,7 +124,7 @@ Auf dem Sand Nr. 11, 1910 von Hermann Muthesius entworfen, wohnte in den Anfangs
 
 _Fotos: Auf dem Sand 10 und 17 (Wikipedia / Paulae)_
 
-![](../../../nord/hellerau/strassen_und_plaetze/beim_gr_bchen.jpg)
+## Beim Gräbchen
 
 Die Straße Beim Gräbchen (bis 1912 Am Gräbchen) wurde 1910 im sogenannten Kleinhausviertel angelegt, in dem neben Reihen- auch Einzelhäuser vorgesehen waren. Die Entwürfe für diese Siedlung stammen von Hermann Muthesius. Auffallend sind die beiden Wohnhäuser Beim Gräbchen Nr. 2 und 4, die mit ihrer aufwendigen Gestaltung und den in die Fassade integrierten Balkons den Werksmeistern der Deutschen Werkstätten vorbehalten waren.
 
@@ -132,30 +132,30 @@ Die Straße Beim Gräbchen (bis 1912 Am Gräbchen) wurde 1910 im sogenannten K
 
 _**Fotos:** Blick in die Straße Beim Gräbchen um 1915_
 
-![](../../../nord/hellerau/strassen_und_plaetze/blumenweg.jpg)
+## Blumenweg
 
 Der ab 1940 benannte ehemalige Gartenweg in Hellerau erhielt 1953 seinen heutigen Namen Blumenweg. Grund der Umbenennung war die Doppelung dieses Namens nach der Eingemeindung des Ortes nach Dresden.
 
-![](../../../brunnenweg.jpg)
+## Brunnenweg
 
 ![](../../../nord/hellerau/strassen_und_plaetze/helleraubrunnenweg18.jpg)Der Brunnenweg entstand Mitte der 1920er Jahre und erhielt 1927 seinen Namen nach einem hier gelegenen Brunnen, der damals der Wasserversorgung von Rähnitz und Hellerau diente. Teile des Brunnenweges wurden 1993 in die Boltenhagener Straße einbezogen. Der daran anschließende Abschnitt wird seitdem Lausaer Weg genannt. Im Haus Nr. 18/20 _(Bauzeichnung)_ hatte ab 1921 der Architekt Gustav Lüdecke (1890-1976) seine Wohnung und sein Büro. Neben seinem eigenen Wohnhaus entwarf Lüdecke 1923/24 auch die Gebäude Brunnenweg 2, 6 und 32, das Wohnhaus Heideweg 28 sowie weitere Gebäude in der Umgebung Helleraus. Die Entwürfe für die Häuser Brunnenweg 1 und 3 von 1934 stammen von Edgar Alfons Anders, der seine Wohnung im Haus Auf dem Sand 3 hatte. Architektonisch interessant ist das sogenannte "Schwartenhaus" (Nr. 4), eines der ersten Holzhäuser der Deutschen Werkstätten.
 
-![](../../../nord/hellerau/strassen_und_plaetze/finkensteig.jpg)
+## Finkensteig
 
 Der Finkensteig geht auf einen alten Verbindungsweg oberhalb des Klotzscher Dorfkerns zurück. Dieser blieb zunächst
 namenlos und wurde erst Ende der 1930er Jahre mit der Errichtung der ersten Häuser Langer Weg genannt. Da es mit der Eingemeindung Helleraus diesen Straßennamen zweimal in Dresden gab, erfolgte im September 1953 die Umbenennung in
 Finkensteig. In den 1990er Jahren erfolgte eine Verlängerung des Weges zur Erschließung des Neubaugebietes Am Pfarrlehn.
 
-![](../../../nord/hellerau/strassen_und_plaetze/friedersdorfer_weg.jpg)
+## Friedersdorfer Weg
 
 Der Friedersdorfer Weg entstand in den 1920er Jahren als Verbindung zwischen den Straßen An den Teichwiesen und Am
 Torfmoor. Wegen seiner Lage wurde er anfangs Im Grunde benannt. Im September 1953 erfolgte die Umbenennung nach dem kleinen Ort Friedersdorf, einem Ortsteil von Weixdorf.
 
-![](../../../nord/hellerau/strassen_und_plaetze/grüne_aue.jpg)
+## Grüne Aue
 
 Die am westlichen Ortsrand von Hellerau gelegene Straße Grüne Aue entstand Mitte der 1930er Jahre im Zusammenhang mit dem Bau einiger Doppelhäuser. Nach 1990 wurde der in südlicher Richtung zur Radeburger Straße führende Fußweg in die Straße einbezogen.
 
-![](../../../nord/hellerau/strassen_und_plaetze/grüne_telle.jpg)
+## Grüne Telle
 
 Die Straße Grüne Telle zweigt vom Moritzburger Weg ab und wurde 1927 angelegt. Der Name stammt von einer alten Flurbezeichnung. Als Fortsetzung des bebauten Abschnitts führt sie durch die Dresdner Heide bis zum Augustusweg.
 
@@ -163,7 +163,7 @@ Architektonisch interessant sind die Wohnhäuser Nr. 4 und Nr. 6. Das ältere (N
 
 Auf dem Nachbargrundstück befindet sich eines der für Hellerau typischen Holzhäuser. Das Gebäude (Nr. 4) wurde 1935 von der Firma Isartaler Holzhausbau aus München errichtet.
 
-![](../../../nord/hellerau/strassen_und_plaetze/heideweg.jpg)
+## Heideweg
 
 ![](../../../nord/hellerau/strassen_und_plaetze/hellheideweg.jpg)Der Heideweg verbindet die heutige Karl-Liebknecht-Straße mit dem Moritzburger Weg und erhielt wegen seiner Lage 1909 diesen Namen. Die Wohnhäuser wurden zum Großteil von Heinrich Tessenow entworfen. Für die Gestaltung der beiden Einfamilienhäuser Nr. 24 und 26 _(Foto links)_ stand Goethes Weimarer Gartenhaus Pate; die Figuren am Eingang stammen von der Bildhauerin Johanna Sattler-Dohrn. Tessenow wohnte selbst von 1919 bis 1924 im Haus Nr. 24.
 
@@ -175,7 +175,7 @@ In der Nachkriegszeit entstanden am Heideweg weitere Einfamilienhäuser, die vor
 
 
 
-![](../../../nord/hellerau/strassen_und_plaetze/heinrich-tessenow-weg.jpg)
+## Heinrich-Tessenow-Weg
 
 ![](../../../nord/hellerau/strassen_und_plaetze/hellerauschule.jpg)Der Heinrich-Tessenow-Weg wurde 1914 im Zusammenhang mit dem Bau der Hellerauer Volksschule _(Foto)_ angelegt und ab 1926 Schulweg genannt. 1948 erhielt er nach dem Juristen John Ulrich Schroeder (1876-1947) den Namen Schroederstraße. Schroeder war während des Ersten Weltkrieges Marinerichter in Hamburg und vermittelte beim Kieler Matrosenaufstandes zwischen den Streitparteien. Ab 1922 arbeitete er im sächsischen Justizministerium, wurde wegen seiner SPD-nahen Haltung jedoch 1933 abberufen. Nach dem Zweiten Weltkrieg war Schroeder erster Generalstaatsanwalt von Sachsen und wohnte im Haus Schulweg 27. Er verstarb 1947. Sein Grab befindet sich auf dem Rähnitzer Friedhof.
 
@@ -188,7 +188,7 @@ Das Unternehmen stellte in den 1920er Jahren Feuerspritzen und ähnlichen Feuerw
 
 **_Foto:_** _Blick zum von Heinrich Tessenow entworfenen Festspielhaus_
 
-![](../../../nord/hellerau/strassen_und_plaetze/hirtenweg.jpg)
+## Hirtenweg
 
 ![](../../../nord/hellerau/strassen_und_plaetze/hellerauhirtenweg.jpg)Der Hirtenweg war ursprünglich ein Teil des Ruscheweges. Ab 1940 wurde der Abschnitt zwischen Hellerauer Markt und Klotzscher Weg Marktweg genannt. Da es jedoch in Briesnitz bereits eine gleichnamige Straße gab, erfolgte nach der Eingemeindung im September 1953 die Umbenennung in Hirtenweg. Die meisten Gebäude entstanden bereits in der ersten Bauphase der Gartenstadt ab 1910 und wurden von Richard Riemerschmid entworfen.
 
@@ -198,21 +198,21 @@ Der Hohe Weg verbindet den Moritzburger mit dem Friedersdorfer Weg und wurde im 
 
 ![](../../../nord/hellerau/strassen_und_plaetze/hell_chrambach.jpg)Haus Chrambach (Nr. 11): Das architektonisch interessante Wohngebäude entstand 1928 im Bauhausstil und wurde vom Architekten H. Walter Reitz entworfen. Besitzer war der Rechtsanwalt Dr. Walter Hermann Chrambach (1887-1944), der zeitweise stellvertretender Amtshauptmann von Dresden und Regierungsrat war. Chrambach war künstlerisch interessiert und machte sein Haus Ende der 1920er Jahre zu einem Treffpunkt verschiedener Künstler. Wegen seiner jüdischen Herkunft und der Gegnerschaft zum NS-Staat wurde Chrambach am 15. September 1944 von der Gestapo verhaftet und kam wenige Wochen später in das Konzentrationslager Buchenwald, wo er 1944 verstarb.
 
-![](../../../nord/hellerau/strassen_und_plaetze/karl-liebknecht-stra_e.jpg)
+## Karl-Liebknecht-Straße
 
 ![](../../../nord/hellerau/strassen_und_plaetze/helleraubreiterweg.jpg)Die Karl-Liebknecht-Straße bildet die Hauptstraße Helleraus und verbindet den Ort mit dem benachbarten Rähnitz. Ihr Ausbau erfolgte im Zusammenhang mit der Anlage der Straßenbahntrasse 1913. Zunächst erhielt sie den Namen Breiter Weg. Ende 1945 erfolgte die Umbenennung nach dem deutschen Politiker Karl Liebknecht (1871-1919), der zu den wichtigsten Köpfen der Novemberrevolution 1918 gehörte. Liebknecht war ab 1912 Reichstagsabgeordneter und gemeinsam mit Rosa Luxemburg Führer der revolutionären Linken in der SPD. 1919 gehörte er zu den Mitbegründern der KPD. Bereits 1913 verkehrte erstmals eine Straßenbahn vom Abzweig Hellerau bis zur Hellerauer Post. Im Zusammenhang mit der Erweiterung der Gartenstadt wurde die Strecke 1935 bis zum Rathaus verlängert, 1938 bis zur heutigen Endhaltestelle in Rähnitz.
 
 ![](../../../nord/hellerau/strassen_und_plaetze/hellerauschülerheim.jpg)Von den Wohnhäusern der Karl-Liebknecht-Straße stehen die Gebäude Nr. 1 bis 17, die Nr. 79 und 81 sowie das ehemalige Schülerheim der Bildungsanstalt, später Heimfrauenschule der Mathilde-Zimmer-Stiftung _(Nr. 58 - Foto)_, unter Denkmalschutz. Architekt der Wohnhausgruppe 1-13 und 2-15 war Richard Riemerschmid. Das Eckhaus Nr. 16 / An der Winkelwiese stammt von Hermann Muthesius. Im Wohnhaus Nr. 14 wohnte viele Jahre Paul Rudolf Gärtner, der neben seiner Tätigkeit als Beamter im sächsischen Kriegsarchiv zahlreiche Erzählungen und Gedichte in Oberlausitzer Mundart verfasste. Weitere Wohnhäuser (Nr. 21-27) entstanden 1925 bei der Erweiterung der Gartenstadt durch die Baugenossenschaft Hellerau nach Plänen von Karl Baer.
 
-![](../../../nord/hellerau/strassen_und_plaetze/kiefernweg.jpg)
+## Kiefernweg
 
 Der Kiefernweg im Westen des Ortsteils an der Grenze zu Rähnitz wurde Anfang der 1930er Jahre angelegt und trägt seinen Namen seit 1935. Zunächst nur eine kurze Sackgasse bis zur Einmündung des Birkenweges wurde er später bis zur Straße Am Torfmoor verlängert. Ab 1935 befand sich hier die Endstelle der Straßenbahn, die 1938 schließlich die noch heute vorhandene Gleisschleife weiter westlich erhielt.
 
-![](../../../nord/hellerau/strassen_und_plaetze/kirchsteig.jpg)
+## Kirchsteig
 
 Der Kirchsteig ist Teil einer alten Wegeverbindung, die einst von Klotzsche über Trachenberge bis nach Dresden führte und von den Einwohnern bei ihrem langen Gang zur Frauenkirche genutzt wurde. Nach der Bildung einer eigenen Kirchgemeinde verlor er seine Bedeutung. Der verbliebene Abschnitt auf Hellerauer Flur erhielt 1914 den Namen Am Kirchsteig und wurde später auch als Kirchweg bzw. Kirchsteig bezeichnet, wobei letztere Namensgebung heute die amtliche ist. Nach 1990 entstand am Kirchsteig und den angrenzenden Straßen eine kleine Wohnanlage.
 
-![](../../../nord/hellerau/strassen_und_plaetze/klotzscher_weg.jpg)
+## Klotzscher Weg
 
 Der Klotzscher Weg bildet die östliche Flurgrenze von Hellerau zum Nachbarort Klotzsche und wurde früher als Dresden-Klotzscher Weg bezeichnet. Seinen heutigen Namen erhielt er erst um 1950.
 
@@ -226,7 +226,7 @@ _**Fotos:** Wohnhausgruppe von Richard Riemerschmid (links)_
 
 _und ein Blick zum Hellerauer Markt um 1915 (SLUB / Fotothek)_
 
-![](../../../nord/hellerau/strassen_und_plaetze/lausaer_weg.jpg)
+## Lausaer Weg
 
 Der Lausaer Weg bekam seinen Namen erst im Februar 1993, wobei der seit 1999 ebenfalls zu Dresden gehörende Weixdorfer Ortsteil Lausa Namenspate war. Mit dem Ausbau der Autobahn wurden einige alte Verbindungen, so auch die Mühlenstraße (Lausaer Straße) in Rähnitz unterbrochen, und die Straßen deshalb neu geordnet. Ein Abschnitt des Brunnenweges wurde dabei der Boltenhagener Straße zugeordnet, seine Verlängerung sowie der abgetrennte Abschnitt der früheren Mühlenstraße erhielten den Namen Lausaer Weg.
 
@@ -240,13 +240,13 @@ Architekten Rudolf Kolbe verändert fertig gestellt. Die unter Denkmalschutz ste
 
 **_Fotos:_** _Der Hellerauer Markt mit den Bauten Richard Riemerschmids (links) und Rudolf Kolbes (rechts)_
 
-![](../../../nord/hellerau/strassen_und_plaetze/moritzburger_weg.jpg)
+## Moritzburger Weg
 
 Der Moritzburger Weg ist Teil eines alten Verbindungsweges zwischen Schloss Pillnitz und dem Jagdschloss in Moritzburg, welcher vor allem im 17./18. Jahrhundert gern von den Jagdgesellschaften der Wettiner genutzt wurde. In der Nähe der Kreuzung des Weges mit der Königsbrücker Straße erinnert ein mittelalterliches Steinkreuz an den Tod des Reitknechtes Jonas Daniel, der hier 1402 während einer Fehde ums Leben kam. 2002 wurde ein erläuternde Gedenktafel aufgestellt.
 
 ![](../../../nord/hellerau/strassen_und_plaetze/hellmoritzbweg.jpg)Ältestes Gebäude auf Hellerauer Flur ist die ehemalige Ausflugsgaststätte [Waldschänke](../../../nord/hellerau/strassen_und_plaetze/waldschanke/), die als einziges Bauwerk bereits vor Gründung der Gartenstadt 1909 existierte. Unweit davon liegen die Hauptgebäude der [Deutschen Werkstätten](../../../nord/hellerau/deutsche_werkstatten/), deren Besitzer Karl Schmidt als eigentlicher Gründervater Helleraus gilt. Schmidt ließ sich in der Nähe seines Betriebes von Richard Riemerschmid ein Wohnhaus erbauen (Moritzburger Weg 69), in welchem er ab 1910 bis zu seinem Tod 1948 lebte. Auch das kunstvoll geschmiedete Gartentor, welches erstmals 1903 auf einer Kunstgewerbeschau gezeigt wurde, stammt von Riemerschmid. Dieser entwarf auch die Nachbarhäuser Nr. 71 und 73. Einige moderne Gebäude entstanden 2001/02 auf dem Grundstück der Deutschen Werkstätten nach einem Entwurf von Albrecht Quincke.
 
-![](../../../nord/hellerau/strassen_und_plaetze/ruscheweg.jpg)
+## Ruscheweg
 
 Die Bezeichnung Ruscheweg geht auf einen früheren Flurnamen zurück. Wie auch bei der Klotzscher Straße An den Ruschewiesen erinnert dieser Name vermutlich an eine frühere Signalanlage, bei der in Kriegszeiten mit Hilfe einfacher Klöppel und Schlagbretter die Bevölkerung gewarnt wurde. Die Wohnhäuser Ruscheweg 1-13 entstanden um 1910 und stammen von Richard Riemerschmid.
 
@@ -260,24 +260,24 @@ Im Wohnhaus Ruscheweg 15 lebte vor dem Ersten Weltkrieg der Architekt Kurt Frick
 
 
 
-![](../../../nord/hellerau/strassen_und_plaetze/t_nnichtweg.jpg)
+## Tännichtweg
 
 ![](../../../nord/hellerau/strassen_und_plaetze/hellhausdohrn.jpg)Auf dem Tännichtweg hatten einst zwei der Gründerväter der Gartenstadt ihren Wohnsitz. 1911 bezog Heinrich Tessenow das von ihm selbst entworfene schlichte Wohnhaus Tännichtweg 2. Unweit davon steht das Haus Dohrn _(Nr. 9a - Foto)_, welches 1909 von Theodor Fischer für den Gründer der Hellerauer Bildungsanstalt und Förderer der Gartenstadt Wolf Dohrn (1878-1914) erbaut wurde. Als erster Sekretär des Deutschen Werkbundes widmete er sich gemeinsam mit Karl Schmidt dem Ausbau Helleraus und gründete 1911 die Bildungsanstalt, für welche er den Schweizer Musikpädagogen Jaques-Dalcroze engagierte. In unmittelbarer Nähe befand sich ab 1925 das Tanzatelier von Mary Wigman (Nr. 5).
 
 ![](../../../nord/hellerau/strassen_und_plaetze/helleraumenzlerschule.jpg)Bemerkenswert sind auch die im Landhausstil gestalteten Wohngebäude Nr. 4, 9 und 11. Das Holzhaus Tännichtweg 4 entstand als erstes Gebäude des Landhausviertels 1909 und wurde von Hugh Mackay-Baillie Scott entworfen. Auf dem Tännichtweg 9 besaß der Arzt Dr. Günther Wohnsitz und Praxis. Die Planungen für dieses Gebäude stammen von Rudolph Lewicki, welcher ursprünglich weitere Wohngebäude gestalten sollte, welche jedoch nicht mehr zur Ausführung kamen. Ab 1933 hatte in diesem Haus die private Schule für Gymnastik, gestaltete Bewegung und Musikerziehung ihr Domizil. Die Einrichtung war 1908 von Dora Menzler in Leipzig gegründet worden und hatte ihren Sitz ab 1931 im Hellerauer Festspielhaus. Da Dora Menzler wegen ihrer jüdischer Vorfahren eine Enteignung befürchtete, übergab sie die Schule 1933 ihrer Schülerin Hildegard Marsmann, die sie noch bis 1951 am Tännichtweg weiterführte.
 
-![](../../../nord/hellerau/strassen_und_plaetze/urnenfeldweg.jpg)
+## Urnenfeldweg
 
 Die Wohnhäuser am Urnenfeldweg wurden 1922/24 nach einem Entwurf E. Lüdeckes gebaut. Der Architekt koppelte elf
 Reihenhäuser mit schmalen Zwischenbauten zu einer Wohnzeile zusammen, was dem Block den Namen D-Zug einbrachte.
 
-![valeria-kratina-weg](../../../nord/hellerau/strassen_und_plaetze/a_rectangle_1158.gif)
+## Valeria-Kratina-Weg
 
 Der Valeria-Kratina-Weg wurde 2005 in der Nähe des Festspielhauses zur Erschließung eines neuen Wohngebietes angelegt.
 Mit der Namensgebung wird an die Tänzerin, Regisseurin und Choreografin Valeria Kratina-Köhler (1892-1983) erinnert, welche zu den Wegbereiterinnen des modernen Ausdruckstanzes gehörte. Zeitweise arbeitete sie als Ausbilderin für
 Ästhetische Körperbildung an der Neuen Schule Hellerau.
 
-![](../../../nord/hellerau/strassen_und_plaetze/wilhelm-k_lz-stra_e.jpg)
+## Wilhelm-Külz-Straße
 
 Die Wilhelm-Külz-Straße, an der Ortsgrenze zu Rähnitz gelegen, erhielt ihren Namen Anfang der 50er Jahre nach dem
 liberalen Politiker Dr. Wilhelm Külz (1875-1948), der in den Zwanziger Jahren in verschiedenen Funktionen auf kommunaler und Landesebene tätig war. 1931 wurde er zum Dresdner Oberbürgermeister gewählt, musste sein Amt jedoch nach

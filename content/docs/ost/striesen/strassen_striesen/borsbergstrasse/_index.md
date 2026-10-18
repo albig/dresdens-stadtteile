@@ -44,7 +44,7 @@ Nr. 44: Das heute nur noch in Teilen erhaltene Gebäude gehört zu den ältesten
 
 Ausführliche Informationen zur Borsbergstraße (externe Seite)
 
-[![www.borsbergstrasse.de](../../../../ost/striesen/strassen_striesen/borsbergstrasse/a_rectangle_876.gif)](http://www.borsbergstrasse.de)
+## [Www.borsbergstrasse.de](http://www.borsbergstrasse.de)
 
 
 

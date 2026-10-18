@@ -17,7 +17,7 @@ date: 2024-02-17T22:13:31+01:00
 
 [![](../../../neustadt/leipziger_vorstadt/hechtviertel/30grundschule.jpg)](https://cms.sachsen.schule/30gsdd/home/)
 
-[![homepage der 30. oberschule am hechtpark](../../../neustadt/leipziger_vorstadt/hechtviertel/a_rectangle_1042.gif)](https://cms.sachsen.schule/os30dd/start/)
+## [Homepage der 30. Oberschule am Hechtpark](https://cms.sachsen.schule/os30dd/start/)
 
 
 Die Geschichte des Hechtviertels begann im Jahr 1836, als der damalige Dresdner Polizeidirektor Hans Ludwig von Oppell ein größeres Areal oberhalb des Bischofsweges erwarb. Zuvor war diese Fläche am Fuße der Hellerberge bis 1833 als Artillerieübungsplatz der sächsischen Armee genutzt worden. Durch Zukäufe konnte Oppell seine Besitzungen 1841 auf insgesamt 23 Hektar erweitern. Als einziges Gebäude existierte in diesem Bereich das [Weingut](../../../neustadt/leipziger_vorstadt/hechtviertel/hechtsches_weingut/) der Familie Hecht und ein Gasthaus, welche unter dem Namen Zum Blauen Hecht beliebtes Ausflugsziel der Dresdner war _(Foto)_.
@@ -46,6 +46,6 @@ Beim Luftangriff vom 16. Januar 1945 wurden auch die beiden Schulen des Hechtvie
 
 **_Foto:_** _Neubau der 30. Grundschule an der Hechtstraße_
 
-[![straßen und plätze im hechtviertel](a_rectangle_1181.gif)](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/)
+## [Straßen und Plätze im Hechtviertel](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/)
 
  \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../sud/)\] \[ [Südost](../../../sudost/)\] \[ [Ost](../../../ost/)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../impressum/)\]

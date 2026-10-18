@@ -8,9 +8,9 @@ date: 2024-02-17T22:13:32+01:00
 
 
 
-![ortschaft langebrück (mit schönborn) weißiger str. 5 01465 langebrück  tel. 035201/8160  ortschaft-langebrueck @dresden.de](../../nord/langebruck/a_rectangle_865.gif)
+Ortschaft langebrück (mit schönborn) weißiger str. 5 01465 langebrück  tel. 035201/8160  ortschaft-langebrueck @dresden.de
 
-[![](../../nord/langebruck/sch_nborn.jpg)](../../nord/langebruck/schonborn/)
+## [Schönborn](../../nord/langebruck/schonborn/)
 
 * * *
 
@@ -24,15 +24,15 @@ date: 2024-02-17T22:13:32+01:00
 
 [![](../../bibodd.jpg)](http://www.bibo-dresden.de)
 
-[![bibliothek  langebrück weißiger str. 5 01465 langebrück tel. 035201/70263](../../nord/langebruck/a_rectangle_590.gif)](http://www.bibo-dresden.de)
+[Bibliothek  langebrück weißiger str. 5 01465 langebrück tel. 035201/70263](http://www.bibo-dresden.de)
 
-[![friedrich-wolf- grundschule langebrück  zur homepage](a_rectangle_944.gif)](http://www.sn.schule.de/~fwg)
+[Friedrich-wolf- grundschule langebrück  zur homepage](http://www.sn.schule.de/~fwg)
 
 * * *
 
 **Vereine in Langebrück:**
 
-![turnverein langebrück e. v.  moritzstr. 7 01465 langebrück  telefon:  035201-71593](../../nord/langebruck/a_rectangle_1129.gif)
+Turnverein langebrück e. v.  moritzstr. 7 01465 langebrück  telefon:  035201-71593
 
 
 * * *
@@ -144,7 +144,7 @@ _Dem Andenken des am 25. Juni 1834 hier im Zweikampf gefallenen Artillerie-Lie
 
 _Otto Bernhard Julius Koehler setzte diesen Stein die tief trauernde Liebe der Seinen_
 
-[![langebrücker straßen](../../nord/langebruck/a_rectangle_1478.gif)](../../nord/langebruck/strassen_langebruck/)
+## [Langebrücker Straßen](../../nord/langebruck/strassen_langebruck/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

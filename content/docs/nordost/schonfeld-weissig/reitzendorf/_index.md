@@ -35,4 +35,4 @@ private Sammlung des Heimatforschers Eberhard Pabst sowie zahlreiche Spenden der
 Wirtschaftsweise der Kleinbauern im Schönfelder Hochland dokumentieren. Hinzu kommen landwirtschaftliche Geräte und Maschinen. Geleitet wird das kleine Museum vom Heimatverein Schönfelder Hochland
 e.V. Regelmäßig finden auch verschiedene Veranstaltungen und Sonderausstellungen statt.
 
-[![kleinbauernmuseum reitzendorf schullwitzer straße 3 01328 dresden - reitzendorf  tel. 0351/2641783 www.kleinbauernmuseum.de](a_rectangle_287.gif)](http://www.kleinbauernmuseum.de)
+[Kleinbauernmuseum reitzendorf schullwitzer straße 3 01328 dresden - reitzendorf  tel. 0351/2641783 www.kleinbauernmuseum.de](http://www.kleinbauernmuseum.de)

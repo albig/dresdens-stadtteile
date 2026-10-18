@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:47+01:00
 
 * * *
 
-![neuer  jüdischer friedhof  fiedlerstr. 3 01307 dresden  tel. 0351/4593317](../../../zentrum/johannstadt/neuer_judischer_friedhof/a_rectangle_1520.gif)
+Neuer  jüdischer friedhof  fiedlerstr. 3 01307 dresden  tel. 0351/4593317
 
 
 ![](../../../zentrum/johannstadt/neuer_judischer_friedhof/johannstj_dfriedhof.jpg)Der Neue Jüdische Friedhof wurde 1866 an der Fiedlerstraße unmittelbar angrenzend an den

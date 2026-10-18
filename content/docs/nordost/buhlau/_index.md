@@ -99,7 +99,7 @@ Bühlauer Waldgärten (Waldpark):
 
 [![](../../nordost/buhlau/kgv-b_hlauer-waldg_rten.jpg)](http://www.kgv-buehlauer-waldgaerten.de)
 
-[![bühlauer straßen](../../nordost/buhlau/a_rectangle_1059.gif)](../../nordost/buhlau/strassen_buhlau/)
+## [Bühlauer Straßen](../../nordost/buhlau/strassen_buhlau/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

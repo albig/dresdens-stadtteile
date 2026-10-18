@@ -7,7 +7,7 @@ date: 2024-02-17T22:13:32+01:00
 
 **Nebenflüsse der Prießnitz**
 
-![weißiger dorfbach dorfwasser schwarzwasser mit brillebach haarweidebach steingründchenwasser melzerquelle schwarzes bildwasser puschquelle sandschluchtbach](../../../nordost/dresdner_heide/priessnitzgrund/a_rectangle_958.gif)
+Weißiger dorfbach dorfwasser schwarzwasser mit brillebach haarweidebach steingründchenwasser melzerquelle schwarzes bildwasser puschquelle sandschluchtbach
 
 * * *
 

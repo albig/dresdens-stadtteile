@@ -20,7 +20,7 @@ Die Babisnauer Straße geht auf einen alten Verbindungsweg zwischen
 
 ![](../../../sudost/gostritz/strassen_gostritz/gostritzhohenluft.jpg)Im Ortskern von Gostritz sind noch einige historische Bauerngüter erhalten geblieben. Bemerkenswert ist der Hof Friebelstraße 80, der nach 1813 entstand. Unweit davon befindet sich am Abzweig Friebelstraße/ Altgostritz eine historische Wegsäule von 1836 _(Foto rechts)_. Im Wohnhaus Nr. 62 wohnte ab 1917 bis zu seinem Tod 1972 der Dresdner Maler Bernhard Kretzschmar, Träger des Andersen-Nexö-Kunstpreises der Stadt. Sein Grab befindet sich auf dem Leubnitzer Friedhof. Weitere Flächen wurden von Gärtnereien genutzt, so das Grundstück Friebelstraße 69. 1941 warb hier die Blumengroßmarkt-Dresden eGmbH von J. Schreuders für "Chrysanthemen, Hortensien und Begonien in den besten Sorten". 2005 erfolgte der Abbruch der Gewächshäuser. Im gegenüberliegenden Wohnhaus Nr. 72 gab es seit dem 19. Jahrhundert das Restaurant von August Anders, später Café "Höhenluft" genannt _(Foto links)_. Das noch nach dem Zweiten Weltkrieg geöffnete Lokal dient heute als Wohnhaus.
 
-[![gostritzer straße](../../../sud/a_rectangle_1533.gif)](../../../sudost/leubnitz-neuostra/page14822/gostritzer_strasse/)
+## [Gostritzer Straße](../../../sudost/leubnitz-neuostra/page14822/gostritzer_strasse/)
 
 ![rosentitzer straße](../../../sudost/gostritz/strassen_gostritz/rosentitzer_straße.jpg)
 

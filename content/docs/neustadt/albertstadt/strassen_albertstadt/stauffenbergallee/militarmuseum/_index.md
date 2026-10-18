@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:30+01:00
 
 * * *
 
-![militärhistorisches museum der bundeswehr  olbrichtplatz 2 01099 dresden tel. 0351/8232803](../../../../../neustadt/albertstadt/strassen_albertstadt/stauffenbergallee/militarmuseum/a_rectangle_1107.gif)
+Militärhistorisches museum der bundeswehr  olbrichtplatz 2 01099 dresden tel. 0351/8232803
 
 [![](../../../../../neustadt/albertstadt/strassen_albertstadt/stauffenbergallee/militarmuseum/milit_rmuseum.jpg)](http://www.mhmbw.de/)
 

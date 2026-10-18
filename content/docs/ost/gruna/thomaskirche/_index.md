@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:37+01:00
 
 * * *
 
-![thomaskirche bodenbacher str. 24 01277 dresden  tel. 0351/2561065](../../../ost/gruna/thomaskirche/a_rectangle_1024.gif)
+Thomaskirche bodenbacher str. 24 01277 dresden  tel. 0351/2561065
 
 [![](../../../ost/kirchgemeinde_gruna-seidnitz.jpg)](http://www.kirche-gruna-seidnitz.de)
 

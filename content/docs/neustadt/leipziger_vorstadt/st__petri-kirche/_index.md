@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:31+01:00
 
 * * *
 
-[![selbständige ev.-luth. kirche (selk) großenhainer platz 2 01097 dresden  tel. 0351/8629380  www.selk-dresden.de](../../../neustadt/leipziger_vorstadt/st__petri-kirche/a_rectangle_1509.gif)](http://www.selk-dresden.de)
+[Selbständige ev.-luth. kirche (selk) großenhainer platz 2 01097 dresden  tel. 0351/8629380  www.selk-dresden.de](http://www.selk-dresden.de)
 
 
 ![](../../../neustadt/leipziger_vorstadt/st__petri-kirche/lvstpetri2.jpg)Die St. Petri-Gemeinde entstand am 29. März 1881 als eigenständige Kirchgemeinde der Leipziger Vorstadt, nachdem die Bewohner der hier gelegenen Orte Neudorf und des Scheunenhofviertels zuvor der Dreikönigskirche zugeordnet waren. Als deren Mitgliederzahl um 1875 die Grenze von 64.000 überschritten hatte und damit zweitgrößte Kirchgemeinde Sachsens war, entschloss man sich zur Auspfarrung der Vororte. Neben der St. Petri-Kirchgemeinde entstanden so auch die Martin-Luther-Gemeinde in der Äußeren Neustadt und [St. Pauli](../../../neustadt/leipziger_vorstadt/hechtviertel/st_-pauli-kirche/) in der Oppellvorstadt.

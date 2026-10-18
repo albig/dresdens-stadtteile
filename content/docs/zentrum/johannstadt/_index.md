@@ -7,7 +7,7 @@ date: 2024-02-17T22:13:47+01:00
 
 [![](../../bibodd.jpg)](http://www.bibo-dresden.de)
 
-[![bibliothek  johannstadt fetscherstr. 23 01307 dresden](../../zentrum/johannstadt/a_rectangle_1525.gif)](http://www.bibo-dresden.de)
+[Bibliothek  johannstadt fetscherstr. 23 01307 dresden](http://www.bibo-dresden.de)
 
 [![](../../zentrum/johannstadt/johannstadthalle.jpg)](http://www.johannstadthalle.de)
 
@@ -92,7 +92,7 @@ Dazu trugen sowohl die am Elbufer gelegenen Ausflugslokale, aber auch die ab 187
 Gründe sowie die Auflösung der Fischerinnung zur Einstellung des Fährbetriebs an der Saloppe (1953) und bei Anton´s (1957). Erhalten blieb hingegen die in der
 Nachkriegszeit an ihren heutigen Standort am Fährgarten verlegte Elbfähre zur Drachenschänke am Diakonissenweg _(Foto)_.
 
-[![straßen in der johannstadt](a_rectangle_1303.gif)](../../zentrum/johannstadt/strassen_johannstadt/)
+## [Straßen in der Johannstadt](../../zentrum/johannstadt/strassen_johannstadt/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

@@ -5,11 +5,11 @@ date: 2024-02-17T22:13:35+01:00
 
 * * *
 
-![evang.-lutherische kreuzkirche weißig hauptstr. 18 01328 dresden-weißig  tel. 0351/2683257](../../../../nordost/schonfeld-weissig/weissig/weissiger_kirche/a_rectangle_290.gif)
+Evang.-lutherische kreuzkirche weißig hauptstr. 18 01328 dresden-weißig  tel. 0351/2683257
 
 **zur Homepage der Kirchgemeinde:**
 
-[![ev.-luth. kirchgemeinde schönfeld-weißig](../../../../nordost/schonfeld-weissig/a_rectangle_1745.gif)](http://www.kirchgemeinde-schoenfeld-weissig.de)
+## [Ev.-Luth. Kirchgemeinde Schönfeld-Weißig](http://www.kirchgemeinde-schoenfeld-weissig.de)
 
 
 ![](../../../../nordost/schonfeld-weissig/weissig/weissiger_kirche/weißigkirche1.jpg)Die Dorfkirche von Weißig entstand vermutlich um bereits um 1180 als Wehrkirche. 1235 wurde sie erstmals erwähnt und gehörte zum Kirchenbezirk Radeberg des Archidiakonats Nisani. Unterstellt waren ihr neben Weißig auch die Orte Ullersdorf, Gönnsdorf, Pappritz und Teile von Bühlau. Aus der Frühzeit der Kirche ist bis heute noch der aus Feldsteinen gemauerte Kirchturm erhalten. Erster evangelischer Pfarrer wurde 1540 Johannes Richter, nachdem sein Vorgänger die Stelle im Zuge der Reformation aufgeben musste. Im Dreißigjährigen Krieg wurden Kirche und Pfarrhaus 1631 schwer beschädigt, jedoch schon bald wieder aufgebaut. 1670 erhielt die Weißiger Kirche ihre erste Orgel, die vom Schulmeister Johann Christian Feller selbst entworfen und gebaut wurde.

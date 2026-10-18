@@ -96,7 +96,7 @@ Wasserwerk Trachau:
 
 Obwohl schon bald die meisten Häuser des Ortes sowie einige Gebäude im benachbarten Neukaditz angeschlossen werden konnten, erwies sich das Wasserwerk nach der Eingemeindung als unwirtschaftlich. Hinzu kamen hygienische Bedenken der Dresdner Behörden. Im Sommer 1909 wurde der Betrieb schließlich eingestellt. Die Gebäude auf dem Grundstück Aachener Straße 31 sind jedoch noch erhalten _(Foto links)_.
 
-[![trachauer straßen](a_rectangle_7.gif)](../../nordwest/trachau/strassen_trachau/)
+## [Trachauer Straßen](../../nordwest/trachau/strassen_trachau/)
 
 
 

@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:43+01:00
 
 * * *
 
-![dölzschener friedhof friedhofsweg 01187 dresden  tel. 0171/6434593](../../../sudwest/dolzschen/dolzschener_friedhof/a_rectangle_584.gif)
+Dölzschener friedhof friedhofsweg 01187 dresden  tel. 0171/6434593
 
 
 ![](../../../sudwest/dolzschen/dolzschener_friedhof/d_lzschenfriedhof.jpg)Der Dölzschener Friedhof entstand 1923 auf freiem Feld zwischen Dölzschen

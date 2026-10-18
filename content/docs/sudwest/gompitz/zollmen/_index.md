@@ -46,7 +46,7 @@ Siedlung erhielt 1902 eine Azetylangasanlage zur Beleuchtung der Häuser. Die K�
 
 **_Foto:_** _Die Kümmelschänke in den Dreißiger Jahren_
 
-[![zöllmener straßen](../../../sudwest/gompitz/zollmen/a_rectangle_1961.gif)](../../../sudwest/gompitz/pennrich/strassen_gompitz/)
+## [Zöllmener Straßen](../../../sudwest/gompitz/pennrich/strassen_gompitz/)
 
 [_Weiterführende Literatur und Quellen_](../../../impressum/quellenverzeichnis/)
 

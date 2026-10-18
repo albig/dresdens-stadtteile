@@ -3,7 +3,7 @@ title: "Straßen und Plätze der Südvorstadt"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![ackermannstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1728.gif)
+## Ackermannstraße
 
 Die Ende des 19. Jahrhunderts angelegte Ackermannstraße verbindet den Strehlener Platz mit dem Stadtteil Zschertnitz. Ab
 1902 verkehrte hier auch die Straßenbahn bis zur Räcknitzhöhe. Die meisten Gebäude entstanden noch vor dem Ersten Weltkrieg. Teile der Bebauung fielen jedoch 1945 dem Luftangriff zum Opfer und wurden später durch Neubauten ersetzt.
@@ -13,15 +13,15 @@ Ihren Namen erhielt die Ackermannstraße aus Anlass der Feier seines 50-jährige
 nach dem Politiker Karl Gustav Ackermann (1820-1901). Der studierte Jurist war ab 1849 beim sächsischen Finanzministerium
 als Finanzprokurator angestellt und gehörte ab 1853 dem Stadtverordneten-Kollegium an. Für seine Verdienste als langjähriger Stadtverordnetenvorsteher erhielt Ackermann 1878 die Ehrenbürgerwürde der Stadt Dresden verliehen.
 
-[![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/altenzeller_stra_e.jpg)](../../../zentrum/sudvorstadt/strassen_sudvorstadt/altenzeller_strasse/)
+## [Altenzeller Straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/altenzeller_strasse/)
 
-![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/am_beutlerpark.jpg)
+## Am Beutlerpark
 
 ![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/s_dvambeutlerpark.jpg)Die Straße Am Beutlerpark wurde 1913 im Zusammenhang mit der Anlage des [Beutlerparks](../../../zentrum/sudvorstadt/beutlerpark/) geschaffen und trug wie dieser bis 1926 die Bezeichnung Am Schanzenpark. In den Zwanziger Jahren entstanden hier Einfamilienhäuser, von denen
 einige 1945 jedoch zerstört wurden. Auf dem Ruinengrundstück Am Beutlerpark 6 wurde in den 1970er Jahren die Kinderkrippe der Technischen Universität errichtet. Im
 Eckhaus zur Patrice-Lumumba-Straße (Nr. 7) wohnte viele Jahre der frühere Dresdner Oberbürgermeister Walter Weidauer. Nicht mehr vorhanden ist das frühere Wohnhaus des Architekten Max Kühne (1874-1942), Teilhaber des Architektenbüros Lossow & Kühne (Nr. 8).
 
-![](an_der_falkenbr_cke.jpg)
+## An der Falkenbrücke
 
 Die heute nicht mehr vorhandene Straße An der Falkenbrücke verband einst die die Bahngleise überspannende Falkenbrücke
 mit der Chemnitzer Straße. Zu den wenigen Gebäuden gehörte das Wohnhaus Nr. 2a mit dem Restaurant 3 Falken. Alle
@@ -41,7 +41,7 @@ Schweizer Viertel. Bis 1945 nutzte auch die aus der Annenstraße kommende Straß
 Bauwerk wurde beim Luftangriff 1945 beschädigt und in den 1960er Jahren abgetragen. Als Ersatz entstand die neue Brücke im
 als Teil des Verkehrszuges Budapester Straße. An die Falkenbrücke erinnern jedoch noch die erhaltenen Brückenwiderlager und eine hier über die Gleise führende Rohrleitung.
 
-![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/andreas-schubert-stra_e.jpg)
+## Andreas-Schubert-Straße
 
 ![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/svwerderstr44.jpg)Die 1873 angelegte und nach dem preußischen General August von Werder (1808-1887) Werderstraße genannte heutige Andreas-Schubert-Straße erhielt ihren Namen 1946 nach dem Techniker und Hochschullehrer Johann Andreas Schubert (1808-1870). Schubert war ab 1828 Lehrer an der Technischen Bildungsanstalt und von 1836 bis 1839 Technischer Direktor der [Maschinenbauanstalt Übigau](../../../nordwest/ubigau/schloss_ubigau/schiffswerft_ubigau/). Bekannt wurde er als Konstrukteur des ersten Elbdampfers Königin Maria (1836) und der ersten deutschen Lokomotive Saxonia (1837). Außerdem entwarf Schubert 1845 die Gölzschtalbrücke, bis heute größte Ziegelsteinbrücke der Welt.
 
@@ -50,7 +50,7 @@ als Teil des Verkehrszuges Budapester Straße. An die Falkenbrücke erinnern jed
 Nach vollständiger Zerstörung der vorhandenen Bebauung vom Ende des 19. Jahrhunderts entstanden 1954 bis 1960 an der Andreas-Schubert-Straße Neubauten für die [Hochschule für Verkehrswesen](../../../zentrum/sudvorstadt/strassen_sudvorstadt/friedrich-list-platz/hochschule_fur_verkehrswesen/) _(Foto rechts)_. Heute wird der Gebäudekomplex von der Fachhochschule für Technik und Wirtschaft (HTW) genutzt. Weitere Baulücken konnten
 nach 1990 geschlossen werden. 2006 wurde ein moderner Bibliotheksneubau der Hochschule eingeweiht.
 
-![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/bayreuther_stra_e.jpg)
+## Bayreuther Straße
 
 ![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/svbayreutherstr.jpg)
 Die Bayreuther Straße entstand um 1900 bei der Erweiterung der Südvorstadt in Richtung Plauen und wurde nach der durch Richard Wagner bekannten Festspielstadt
@@ -72,7 +72,7 @@ Von 1927 bis zu seiner Suspendierung vom Hochschuldienst 1933 besaß der Maler O
 
 
 
-![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/bayrische_stra_e.jpg)
+## Bayrische Straße
 
 Die Bayrische Straße wurde als Bismarckstraße parallel zur 1848 eröffneten Strecke der Sächsisch-Böhmischen Eisenbahn angelegt und war auch Standort des zunächst nur aus einer einfachen Halle bestehenden
 Böhmischen Bahnhofes. Nachdem dieser bereits wenige Jahre später nicht mehr den Anforderungen genügte, entstand 1864 ein größerer Neubau im
@@ -103,11 +103,11 @@ zum Verwaltungsgebäude um. Gleichzeitig hatte hier die Dresdner Außenstelle de
 Menschen wurden in dem Gebäude während der Nazizeit bei Verhören mißhandelt und ermordet. Auch die Deportation der jüdischen Einwohner Dresdens bereitete man in diesem Haus vor. Unter Leitung des SS-Untersturmführers Henry Schmidt
 organisierte das Gestapo-Referat IV B 4 die Zwangsmaßnahmen gegen Dresdner Juden und deren Transport in die Vernichtunglager. 1945 wurde das Gebäude zerstört. An seiner Stelle befindet sich heute ein Geschäfts- und Bürohaus.
 
-[![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/bergstra_e.jpg)](../../../zentrum/sudvorstadt/strassen_sudvorstadt/bergstrasse/)
+## [Bergstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/bergstrasse/)
 
-[![bernhardstraße](../../../a_rectangle_1577.gif)](../../../zentrum/sudvorstadt/strassen_sudvorstadt/bernhardstrasse/)
+## [Bernhardstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/bernhardstrasse/)
 
-![budapester straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1578.gif)
+## Budapester Straße
 
 Die Budapester Straße entstand in ihrer heutigen Form als Hauptverkehrsmagistrale erst nach dem Zweiten Weltkrieg. In ihrem
 Verlauf folgt sie im wesentlichen der alten Plauenschen Chaussee, welche Mitte des 19. Jahrhunderts ausgebaut und nach der
@@ -124,13 +124,11 @@ Auguste Seifert. An dieser Stelle stand einst das Wohnhaus ihrer Eltern (Nr. 69)
 Seifert musste sich 1928 wegen einer psychischen Erkrankung in ärztliche Behandlung begeben und lebte ab 1930 in der Heil-
 und Pflegeanstalt Arnsdorf. 1940 wurde sie in Pirna-Sonnenstein Opfer des nationalsozialistischen Euthanasieprogramms.
 
-[![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/arbeitsagentur.jpg)](http://www.arbeitsagentur.de)
+Margon-Haus: Zu den markantesten Gebäuden gehört das 1960 für den damaligen Wirtschaftsrat des Bezirkes Dresden errichtete Bürohochhaus Budapester Straße 5, welches wegen seiner Leuchtwerbung auch als Margon-Haus bekannt ist. Architekten des Gebäudes waren Gerhard Müller und Hans-Georg-Bedrich, die städtebauliche Leitung oblag Hans Konrad. Die Leuchtreklame befand sich ursprünglich am Hotel Excelsior auf der Prager Straße und wurde nach dessen Abriss 1967 umgesetzt. Nach 1990 hatte hier zeitweise das sächsische Wirtschaftsministerium seinen Sitz. 1999 erfolgte eine umfassende Sanierung des Gebäudes, wobei auch die unter Denkmalschutz stehende Margon- Werbung erneuert wurde. Im Haus haben heute verschiedene Firmen ihre Büros.
 
-Margon-Haus: Zu den markantesten Gebäuden gehört das 1960 für den damaligen Wirtschaftsrat des Bezirkes Dresden errichtete Bürohochhaus Budapester Straße 5, welches wegen seiner Leuchtwerbung auch als Margon-Haus bekannt ist. Architekten des Gebäudes waren Gerhard Müller und Hans-Georg-Bedrich, die städtebauliche Leitung oblag Hans Konrad. Die Leuchtreklame befand sich ursprünglich am Hotel Excelsior auf der Prager Straße und wurde nach dessen Abriss 1967 umgesetzt. Nach 1990 hatte hier zeitweise das sächsische Wirtschaftsministerium seinen Sitz. 1999 erfolgte eine umfassende Sanierung des Gebäudes, wobei auch die unter Denkmalschutz stehende Margon- Werbung erneuert wurde. Im Haus haben heute verschiedene Firmen ihre Büros.
+## [Chemnitzer Straße](../../../sud/plauen/strassen_plauen/chemnitzer_strasse/)
 
-[![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/chemnitzer_stra_e.jpg)](../../../sud/plauen/strassen_plauen/chemnitzer_strasse/)
-
-![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/diesterwegstra_e.jpg)
+## Diesterwegstraße
 
 Die heute nicht mehr vorhandene Diesterwegstraße entstand 1910 und führte südlich des Lehrerbildungsseminars am damaligen
 Reichenbachplatz (heute Weberplatz) zur Teplitzer Straße. Wie auch die benachbarte Wigardstraße wurde sie nach einem Pädagogen benannt.
@@ -139,14 +137,14 @@ Ursprünglich war diese Straße Teil eines Bebauungsplanes für das Viertel zwis
 jedoch nicht realisiert wurde. Die Diesterwegstraße blieb somit unbebaut und ist letztmals im Adressbuch von 1930 verzeichnet.
 Wenig später wurde sie im Zusammenhang mit einer Erweiterung des Pädagogischen Institutes eingezogen und überbaut.
 
-![egon-erwin-kisch-straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1579.gif)
+## Egon-Erwin-Kisch-Straße
 
 Die Egon-Erwin-Kisch-Straße entstand 1922 im Wohnviertel zwischen Beutlerpark und Lukasplatz und wurde bis Mitte der
 Dreißiger Jahre mit Einfamilienhäusern bebaut. Ursprünglich war sie nach dem deutschen Großkaufmann Adolph Woermann (1947-1911)
 benannt, der um 1890 an der Kolonialisierung Deutsch-Südwestafrikas (heute Namibia) beteiligt war. Nach 1945 erhielt die Woermannstraße ihren heutigen Namen. Der Journalist Egon Erwin Kisch (1885-1948) gilt als Begründer der
 literarischen Reportage und wurde als rasender Reporter international bekannt.
 
-![einsteinstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1580.gif)
+## Einsteinstraße
 
 Die Einsteinstraße im südöstlichen Teil der Südvorstadt wurde kurz nach Beginn des 20. Jahrhunderts als zunächst namenloser
 Weg angelegt und hieß zwischen 1913 und 1945 Radetzkystraße. Joseph Graf von Radetzky (1766-1858) stand als Feldmarschall in den Diensten des österreichischen Kaisers und war u. a. an der Niederschlagung der Revolution von 1848/49
@@ -162,9 +160,9 @@ Nachkriegszeit notdürftig nutzbar gemacht und 2007 nach historischem Vorbild wi
 
 **_Fotos:_** _Gemeindehaus der Lukaskirchgemeinde (links) - Villa Einsteinstraße 3 (rechts)_
 
-[![eisenstuckstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1583.gif)](../../../zentrum/sudvorstadt/strassen_sudvorstadt/eisenstuckstrasse/)
+## [Eisenstuckstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/eisenstuckstrasse/)
 
-![erlweinstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1602.gif)
+## Erlweinstraße
 
 Die Erlweinstraße entstand nach dem Ersten Weltkrieg im Zusammenhang mit dem Bau von Siedlungshäusern zwischen Reichenbachstraße und Zelleschem Weg. Der 1929 erstmals im Adressbuch aufgeführte Name erinnert an den Dresdner
 Stadtbaurat Hans Erlwein (1872-1914). Neben Schulen und anderen öffentlichen Gebäuden entwarf Erlwein auch das [Gasometer](../../../sudost/reick/gaswerk_reick/) in Reick sowie das Italienische Dörfchen. Noch heute sind zahlreiche Bauwerke seiner Hand in verschiedenen
@@ -176,7 +174,7 @@ Stadteilen erhalten geblieben.
 
 
 
-![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/fabrikstra_e.jpg)
+## Fabrikstraße
 
 Als Fabrikstraße wird die Verlängerung der Plauener Hofmühlenstraße bezeichnet, die parallel zum früheren Weißeritzmühlgraben durch ein vorwiegend gewerblich genutztes Gebiet im äußersten Westen der Südvorstadt führt. 1862
 erhielt sie mit Bezugnahme auf die hier befindlichen Fabriken ihren Namen. Im Haus Nr. 6 in der Nähe der Einmündung der
@@ -187,7 +185,7 @@ Hygienevorsorge.
 
 1930 errichtete Karl Schmidt die zugehörige Großgarage mit Stellplätzen und Wartungshalle für die Fahrzeuge des Betriebes. Die Garage war durch einen unterirdischen Tunnel mit dem Hauptgebäude verbunden. Trotz einiger Kriegsschäden wurde der 1978 unter Denkmalschutz gestellte Industriebau noch bis 1991 von der Konsum-Genossenschaft genutzt und steht seitdem leer. Die frühere Wagenhalle wird heute als Go-Kart-Bahn genutzt.
 
-![feldschlößchenstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1597.gif)
+## Feldschlößchenstraße
 
 ![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/svposthalterei.jpg)Die 1866 angelegte und zunächst Kurze Straße genannte Feldschlößchenstraße erhielt
 1874 ihren heutigen Namen nach der nahegelegenen [Feldschlößchenbrauerei](../../../zentrum/sudvorstadt/strassen_sudvorstadt/feldschlosschenbrauerei/). In
@@ -197,7 +195,7 @@ Besitz der Reichspost und wurde zur Unterstellung von Pferden und Lastwagen, als
 Motorwagen Gesellschaft m.b.H. von Georg Oswald Hofmann ihren Sitz. Unter dem Namen  Hofmanns Rund- und Vergnügungsfahrten war sie einer der ersten Anbieter von Stadtrundfahrten in Dresden. Als
 einziger Bau der Vorkriegszeit überstand die frühere Posthalterei die Zerstörungen des Zweiten Weltkriegs und wird bis heute gewerblich genutzt.
 
-![franklinstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1600.gif)
+## Franklinstraße
 
 ![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/svfranklinstr.jpg)Die 1873 nach dem amerikanischen Politiker und Schriftsteller Benjamin Franklin
 (1706-1790) benannte Franklinstraße wurde Ende des 19. Jahrhunderts angelegt und bis 1900 mit Mehrfamilienhäusern bebaut. Zugleich bildete sie den östlichen Abschluss des
@@ -216,9 +214,9 @@ erhaltenen Eckhaus zur Reichenbachstraße (Nr. 25), welches heute unter Denkmals
 Ruinengrundstücke wurden in den 1970er und 1980er Jahren mit Bürohäusern und Gewerbeanlagen überbaut. 2013 wurde an der Einmündung der Schnorrstraße mit dem
 Bau eines Wohnparkes begonnen. Außerdem entstand 2012/13 auf dem Eckgrundstück Franklin- /Strehlener Straße die neue Feuerwache Dresden-Altstadt.
 
-[![friedrich-list-platz](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1697.gif)](../../../zentrum/sudvorstadt/strassen_sudvorstadt/friedrich-list-platz/)
+## [Friedrich-List-Platz](../../../zentrum/sudvorstadt/strassen_sudvorstadt/friedrich-list-platz/)
 
-![fritz-foerster-platz](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1601.gif)
+## Fritz-Foerster-Platz
 
 ![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/svffoersterplatz.jpg)Der von 1894 bis 1946 Sedanplatz genannte Verkehrsknotenpunkt an der Kreuzung
 Bergstraße / Zellescher Weg erhielt seinen heutigen Namen Fritz-Foerster-Platz nach einem an der Technischen Hochschule tätigen Professor. Fritz Foerster (1866-1932)
@@ -248,7 +246,7 @@ Bauliche Mängel und Brandschutzforderungen führten ab August 2014 zu einer sch
 in einen Interimsbau an der Nürnberger Straße verlegt. Zeitweise war aus Kostengründen sogar ein Abriss des Mensagebäudes geplant, bevor man sich nach heftigen Protesten für eine Sanierung entschied. Der Baubeginn steht jedoch noch
 nicht fest.
 
-![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/fritz-l_ffler-platz.jpg)
+## Fritz-Löffler-Platz
 
 ![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/svreichsplatz.jpg)
 Der heutige Fritz-Löffler-Platz an der Kreuzung Münchner Straße - Bergstraße - Reichsstraße (Fritz-Löffler-Straße) entstand um 1890 und wurde ab 1891 Reichsplatz genannt. Hier stand bis zur Zerstörung 1945 die [Amerikanische Kirche](../../../zentrum/sudvorstadt/strassen_sudvorstadt/bergstrasse/amerikanische_kirche/). An der Ecke zur [Bergstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/bergstrasse/) gab es das bekannte Lokal Bergkeller mit großer Aussichtsterrasse, welches jedoch bereits 1914 zugunsten von Wohnhäusern abgerissen wurde. 1945
@@ -256,16 +254,16 @@ fielen sämtliche Gebäude am Reichsplatz den Bomben zum Opfer. Nachdem die Stad
 Straße beschlossen hatten, erhielt auch der Reichsplatz den Namen des sowjetischen Kosmonauten Juri Alexejewitsch Gagarin, der am 12. April 1961 als erster Mensch ins
 Weltall geflogen war. Eine erneute Umbenennung von Platz und Straße erfolgte 1993 zur Erinnerung an den Kunsthistoriker und Denkmalpfleger Fritz Löffler.
 
-[![fritz-löffler-straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1611.gif)](../../../zentrum/sudvorstadt/strassen_sudvorstadt/fritz-loffler-strasse/)
+## [Fritz-Löffler-Straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/fritz-loffler-strasse/)
 
-![gartenstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1634.gif)
+## Gartenstraße
 
 Die im Zusammenhang mit dem Bau des Schweizer Viertels 1856 angelegte Gartenstraße verlief bis 1945 parallel zur
 Bergstraße und verband Kaitzer und Bernhardstraße. Ihren Namen erhielt sie nach dem hier gelegenen Sommerlokal Meinertscher Milchgarten. Die nach 1945 in Offenbachstraße umbenannte Straße wurde nach dem Abbruch der Ruinen
 überbaut und ist heute nicht mehr vorhanden. Seit 1940 befand sich in der Gartenstraße 4 das Gemeindehaus der Reformierten Kirche mit einer Hausorgel der Firma Jehmlich. Das Grundstück blieb auch nach 1945 zunächst im Besitz der
 Religionsgemeinschaft und wurde erst 1960 gegen das noch heute genutzte Hofgärtnerhaus an der Brühlschen Terrasse getauscht.
 
-![geinitzstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1638.gif)
+## Geinitzstraße
 
 Die um 1900 angelegte und nach dem Ersten Weltkrieg verlängerte Geinitzstraße verdankt ihren Namen dem Geologen Hans Bruno Geinitz (1814-1900). Geinitz verfasste zahlreiche Schriften zur Mineralogie und Geologie und war ab 1857 Leiter des Mineralogischen Museums. Zuletzt wohnte er auf der Lindenaustraße in der Südvorstadt. Sein Grab befindet sich auf dem Alten Annenfriedhof.
 
@@ -275,7 +273,7 @@ Als erstes Gebäude der Geinitzstraße entstand 1904 die Villa Nr. 5 im Jugendst
 
 Nr. 10: Im Wohnhaus Geinitzstraße 10 wohnte viele Jahre der Chemiker und Universitätsprofessor Kurt Schwabe (1905-1983). Ab 1949 als Direktor des Institutes für Elektrochemie und Physikalische Chemie an der Technischen Hochschule tätig, leitete er zwischen 1959 und 1969 auch das Institut für Radiochemie im [Kernforschungszentrum Rossendorf](../../../nordost/schonfeld-weissig/rossendorf/kernforschungszentrum/). 1961 bis 1965 war zudem Rektor der TU.
 
-![george-bähr-straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1654.gif)
+## George-Bähr-Straße
 
 ![](svgeorgeb_hrstr.jpg)Die George-Bähr-Straße entstand kurz nach 1900 und verbindet den Münchner Platz
 mit dem Fritz-Förster-Platz. Ihren Namen erhielt sie nach dem Dresdner Ratszimmermeister und Erbauer der Frauenkirche George Bähr (1666-1738).  Neben dem 1902-07 errichteten [Landgericht](../../../zentrum/sudvorstadt/strassen_sudvorstadt/munchner_platz/landgericht/) prägen vor allem Lehrgebäude der TU das
@@ -284,7 +282,7 @@ Sommerschuh & Rumpel, mit historisierender Jugendstilfassade. Auch die Wohnhäus
 den Bomben zum Opfer. Im Haus George-Bähr-Straße 4 wohnte in den Zwanziger Jahren der deutsch-jüdische Politiker Peter Blachstein. Blachstein gehörte nach 1945 der SPD-Bundestagsfraktion an und war
 zeitweise deutscher Botschafter in Jugoslawien. Eine enge Freundschaft verband ihn mit Willy Brandt.
 
-![](georg-schumann-stra_e.jpg)
+## Georg-Schumann-Straße
 
 ![](svgeorgschumannstr.jpg)
 Die Georg-Schumann-Straße entstand Ende des 19. Jahrhunderts, blieb jedoch zunächst namenlos und unbebaut. Als erstes Gebäude entstand zwischen 1902 und 1907 der Monumentalbau des [Landgerichts am Münchner Platz](../../../zentrum/sudvorstadt/strassen_sudvorstadt/munchner_platz/landgericht/), welches heute als Georg-Schumann-Bau von der Technischen Universität genutzt wird. Aus der gleichen Zeit stammt der ursprüngliche Name Abekenstraße, der 1907 erstmals
@@ -296,16 +294,16 @@ In der Nachkriegszeit erfolgte die Umbenennung der Abekenstraße in Georg-Schuma
 gehörte zunächst dem Spartakusbund, später der KPD an und war bis 1933 Abgeordneter der Partei im Reichstag. Während der NS-Zeit baute er eine der größten Widerstandsgruppen im sächsischen Raum auf, wurde 1944 verhaftet, zum Tode
 verurteilt und am 11. Januar 1945 im Innenhof des nahegelegenen Landgerichts mit dem Fallbeil hingerichtet. Nach ihm ist auch der Georg-Schuhmann-Bau der TU im ehemaligen Landgerichtsgebäude benannt.
 
-![georg-wrba-straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1687.gif)
+## Georg-Wrba-Straße
 
 Als Georg-Wrba-Straße wird seit 1994 der östliche Teil der Schnorrstraße bezeichnet, der in den 1950er Jahren beim Bau
 eines Studentenwohnheims vom übrigen Straßenabschnitt getrennt worden war. Georg Wrba (1872-1939), Bildhauer und Professor der Kunstakademie, schuf u. a. den Rathausesel am Ratskellereingang, den [Aphroditebrunnen](../../../zentrum/sudvorstadt/strassen_sudvorstadt/friedrich-list-platz/) am Friedrich-List-Platz und den [Europabrunnen](../../../ost/blasewitz/strassen_blasewitz/konigsheimplatz/) in Blasewitz.
 
-![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/glauchauer_stra_e.jpg)
+## Glauchauer Straße
 
 Die Glauchauer Straße erhielt ihren Namen erst nach 1990 nach der westsächsischen Stadt Glauchau. Ursprünglich gehörte dieser Straßenzug zur [Eisenstuckstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/eisenstuckstrasse/). Da die durchgängige Straßenführung jedoch um 1970 mit Anlage der Budapester Straße und einer Wohnzeile unterbrochen worden war, entschied man sich zur besseren Orientierung für eine eigene Namensgebung des kurzen Abschnitts.
 
-![gutzkowstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1655.gif)
+## Gutzkowstraße
 
 ![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/s_dvgutzkowstr3.jpg)Die Gutzkowstraße im Amerikanischen Viertel wurde Ende des 19. Jahrhunderts angelegt und 1881 nach dem deutschen Schriftsteller und Journalisten Karl Gutzkow (1811-1878) benannt. Gutzkow lebte zwischen 1847 und 1861 in Dresden und gehörte der Montagsgesellschaft, einem Freundeskreis von Künstlern und Intellektuellen, an. Neben seiner Tätigkeit als Dramaturg des Hoftheaters verfasste er zahlreiche Dramen und Romane und war ab 1852 Herausgeber der Zeitschrift Unterhaltungen am häuslichen Herd.
 
@@ -315,15 +313,15 @@ Die Glauchauer Straße erhielt ihren Namen erst nach 1990 nach der westsächsisc
 
 
 
-![hahnebergstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1656.gif)
+## Hahnebergstraße
 
 Die Bezeichnung Hahnebergstraße erinnert an eine heute kaum noch wahrnehmbare Erhebung in der Nähe der Kreuzung Schweizer/ Budapester Straße. Der Name dieses Höhenzuges hat nichts mit dem Geflügel zu tun, sondern ist von Hayn (Hainberg) abgeleitet. Hier entwickelte sich bereits um 1450 ein kleines Gewerbegebiet, zu dem u.a. eine 1491 erwähnte Gießerei gehörte. Unweit davon befand sich eine Windmühle, welche jedoch bereits 1571 demontiert und per Schiff nach Torgau verbracht wurde. Nach dem Eisenbahnbau siedelten sich an der Hahnebergstraße verschiedene Unternehmen an. Ihren amtlichen Namen erhielt sie 1876.
 
-![hauffstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1657.gif)
+## Hauffstraße
 
 Die Hauffstraße, eine kleine Nebenstraße der Reichenbachstraße in der Nähe der Lukaskirche, wurde in den 1930er Jahren im Zusammenhang mit dem Bau einer Eigenheimsiedlung angelegt. Ihren Namen erhielt sie 1938 nach dem Märchendichter Wilhelm Hauff (1802-1827).
 
-![helmholtzstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1658.gif)
+## Helmholtzstraße
 
 ![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/svhelmholtzstr2.jpg)Die Helmholtzstraße im Universitätsviertel am Münchner Platz entstand 1899. Mit der Namensgebung soll an den Physiker Hermann von Helmholtz (1821-1894) erinnert werden, der u. a. das Gesetz von der Erhaltung der Energie entdeckte. Helmholtz befasste sich auch mit Fragen der Optik und Akustik und erfand den Augenspiegel. In den Jahren bis zum Ersten Weltkrieg entstanden hier zunächst einige Mietshäuser. Die Pläne stammten von bekannten Dresdner Architekten, u.a. vom Büro Sommerschuh & Rumpel. Im Eckhaus zur Münchner Straße (Nr. 2) befand sich vor dem Zweiten Weltkrieg das Lokal "Versöhnungsheim", später "Münchner Hof" genannt.
 
@@ -331,11 +329,11 @@ Die Hauffstraße, eine kleine Nebenstraße der Reichenbachstraße in der Nähe d
 
 Nr. 3b: In diesem Gründerzeitwohnhaus an der Ecke zur George-Bähr-Straße wohnte bis 1940 der ehemalige Musikdirektor des Dresdner Schauspielhauses Dr. Arthur Chitz. Chitz, der 1908 nach Dresden gekommen war und hier 1911 Dipl-Ingenieur der Chemie wurde, übernahm nach dem Ersten Weltkrieg das Amt des Musikalischen Leiters und wurde 1920 zum Musikdirektor berufen. Als Komponist und Dirigent wirkte er bis 1933 an zahlreichen Aufführungen mit, wurde dann jedoch wegen seiner jüdischen Herkunft entlassen. 1940 musste er mit seiner Familie seine Wohnung verlassen und in das Judenhaus Lothringer Weg 2 umziehen. 1942 deportierte man das Ehepaar in das Ghetto Riga, wo Chitz vermutlich 1944 verstarb. Vor dem Haus erinnert heute ein Stolperstein an den Musikwissenschaftler.
 
-![henriette-heber-straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1705.gif)
+## Henriette-Heber-Straße
 
 Die Henriette-Heber-Straße am Neubau des Dresdner Arbeitsamtes wurde erst 1998 angelegt. Mit der Namensgebung wird an die frühere Leiterin der Armen-Arbeits-Anstalt Henriette Heber (1795-1869) erinnert. Sie gründete 1840 den Verein für Arbeit und Arbeiternachweisung und führte damit die erste öffentliche Arbeitsvermittlung in Dresden ein.
 
-![hettnerstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1659.gif)
+## Hettnerstraße
 
 ![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/svhettnerstr3.jpg)Auch die Hettnerstraße wurde kurz nach 1900 beim Ausbau der Südvorstadt und des neuen Hochschulviertels angelegt und verbindet den Nürnberger Platz mit der George-Bähr-Straße. Ihren Namen erhielt sie nach dem Kunsthistoriker Hermann Hettner (1821-1882), der ab 1854 als Direktor der Antikensammlung in Dresden tätig war. 1868 übernahm er zugleich die Leitung der Rüstkammer und war ab 1869 Inhaber des Lehrstuhls für Kunstgeschichte am Polytechnikum. Hettners Grab auf dem Alten Annenfriedhof blieb bis heute erhalten und wurde 1983 zu einer Gedenkstätte für bedeutende Wissenschaftler der TH umgestaltet.
 
@@ -343,7 +341,7 @@ Die Henriette-Heber-Straße am Neubau des Dresdner Arbeitsamtes wurde erst 1998 
 
 Während die Wohnhäuser Nr. 4 und 6 den Bombenangriff 1945 überstanden, fiel die gesamte Bebauung der gegenüberliegenden Straßenseite in Trümmer. Nach Abbruch der Ruinen errichtete man hier nach einem Plan des Architekten Walter Henn einen Neubaukomplex für die geplante [Fakultät Verkehrswissenschaften](../../../zentrum/sudvorstadt/strassen_sudvorstadt/friedrich-list-platz/hochschule_fur_verkehrswesen/) der TH. Die Grundsteinlegung erfolgte am 20. April 1951, die Übergabe ab 1952. 1955 wurde im Treppenhaus des Audimax am Fritz-Foerster-Platz ein Fresko von Alfred Hesse und Erich Gerlach enthüllt, das den Besuch des Staatspräsidenten Wilhelm Pieck in Dresden zeigt. In den Gebäuden befinden sich ein großer Hörsaal mit 500 Plätzen, Seminar- und Büroräume. Bis 2010 war hier auch die Bibliothek der Fakultät untergebracht. Seit 1993 trägt der Bau nach einem Professor für Betriebstechnik der Verkehrsmittel den Namen Gerhart-Potthoff-Bau.
 
-![hochschulstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1660.gif)
+## Hochschulstraße
 
 ![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/svsedanstr17.jpg)Die heutige Hochschulstraße entstand 1871 im Zusammenhang mit dem Bau des Amerikanischen Viertels und erhielt in Erinnerung an die Schlacht von Sedan im Deutsch-Französischen Krieg 1870/71 den Namen Sedanstraße. Ursprünglich verlief in diesem Gebiet die alte Landstraße nach Dippoldiswalde, die nach dem Bau der [Bergstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/bergstrasse/) 1840 und der [Reichsstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/fritz-loffler-strasse/) ihre Verkehrsbedeutung verlor. An der Kreuzung Hochschul- / Schnorrstraße befand sich noch bis 1870 Schreibers Gärtnerei mit ihrem Rosengarten. Diese musste ebenso wie der einst in diesem Bereich verlaufende Landgraben der Neubebauung weichen.
 
@@ -361,9 +359,9 @@ allerersten Ranges geführt.
 Mit Ausbruch des Ersten Weltkrieges wurde der Hotelbetrieb eingestellt und das Haus zum Lazarett umgewandelt. Im Genesungsheim des Roten Kreuzes Savoy-Hotel Kurbad Albertshof fanden nun bis zum Kriegsende verwundete Soldaten
 Aufnahme. 1919 versuchte man, an die Tradition der Vorkriegszeit anzuknüpfen, allerdings ohne Erfolg. Deshalb wurden die Hotelzimmer wenig später in Büroräume umgewandelt. Das Restaurant im Erdgeschoss existierte noch bis Mitte der Dreißiger Jahre und war mit seiner Tanz-Diele ein beliebtes Vergnügungslokal. 1945 fiel das frühere Savoy-Hotel den Bomben zum Opfer.
 
-[![hohe straße](../../../a_rectangle_1661.gif)](../../../zentrum/sudvorstadt/strassen_sudvorstadt/hohe_strasse/)
+## [Hohe Straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/hohe_strasse/)
 
-![hübnerstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1662.gif)
+## Hübnerstraße
 
 Die 1883 entstandene Hübnerstraße im Schweizer Viertels verdankt ihren Namen dem Historien- und Porträtmaler Julius Hübner (1806-1882), der ab 1839 an der Dresdner Kunstakademie tätig war. 1871 übernahm er auch das Amt des Direktors der Gemäldegalerie. Nach dem Beschluss zum weiteren Ausbau der Südvorstadt in Richtung Plauen und Räcknitz wurde die Hübnerstraße um 1900 bis zum Münchner Platz verlängert.
 
@@ -379,20 +377,20 @@ Auch die Villa Hübnerstraße 12 überstand die Zerstörung ohne größere Schä
 
 ![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/s_dvh_bnerstr22.jpg)Erst nach 1900 erfolgte eine Verlängerung der Hübnerstraße über die Nürnberger Straße hinweg bis zum Münchner Platz. Im Gegensatz zum unteren Abschnitt entstanden hier repräsentative Mietshäuser mit aufwendigen Sandsteinfassaden, plastischem Schmuck und Erkern. In einem dieser Gebäude (Nr. 18) befand sich bis in die 1930er Jahre der Sitz des Israelitischen Frauenvereins. Leiterin war die im gleichen Haus lebende Elli Lesser. Ihr Ehemann Max fungierte ab 1932 als geschäftsführender Vorsitzender der jüdischen Gemeinde. Keines dieser Häuser überstand den Zweiten Weltkrieg. Teilweise wurden die Ruinengrundstücke in den 1960er Jahren mit Wohnblocks überbaut. Das gegenüber liegende Areal zwischen Hübner-, Nürnberger und Bayreuther Straße blieb jedoch bis heute Brachfläche. Eine Neubebauung ist geplant.
 
-[![kaitzer straße](../../../a_rectangle_1704.gif)](../../../zentrum/sudvorstadt/strassen_sudvorstadt/kaitzer_strasse/)
+## [Kaitzer Straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/kaitzer_strasse/)
 
-![kellstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1703.gif)
+## Kellstraße
 
 Die Kellstraße wurde 1896 im Zusammenhang mit dem Bau des Zentralgüterbahnhof Altstadt angelegt und nach dem Geheimen
 Finanzrat Karl Hermann Kell (1820-1888) benannt. Kell war als leitender Ingenieur beim Bau der Elstertal- und der Gölzschtalbrücke beteiligt und gehörte ab 1885 dem sächsischen Finanzministerium an.
 
-![kunadstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1702.gif)
+## Kunadstraße
 
 Die Kunadstraße, eine kurze Querstraße zwischen Zwickauer Straße und Bahnanlagen, erinnert an die früher hier gelegene Kunadmühle. Diese wurde vom [Weißeritzmühlgraben](../../../sudwest/lobtau/weisseritzmuhlgraben/) angetrieben und um 1570 als Lorentz Kunadts Müll, später als Kunatin
 Mühl bezeichnet. Ab 1569 befand sie sich im Besitz von Kurfürst August. Später wechselte die Kunadmühle mehrfach ihre
 Besitzer und verfiel 1894 dem Abbruch. An ihrer Stelle errichtete man Verwaltungsgebäude der Staatsbahn sowie die Posthalterei, das spätere Dresdner Bahnpostamt.
 
-![leonhard-frank-straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1543.gif)
+## Leonhard-Frank-Straße
 
 Die Leonhard-Frank-Straße wurde Ende der Zwanziger Jahre angelegt und bis zum Kriegsbeginn mit Ein- und Zweifamilienhäusern bebaut. In einem dieser Häuser wohnte der als Dokumentarist des alten Dresdens bekannt gewordene
 Fotograf Walter Hahn. Beim letzten Angriff auf die Stadt am 17. April 1945 wurde sein Haus von einer Brandbombe getroffen.
@@ -401,13 +399,13 @@ Hahn konnte sich jedoch retten und später auch Teile seiner wertvollen Negativs
 Bis in die Nachkriegszeit trug die Straße den Namen Godeffroystraße. Benannt wurde sie nach dem Hamburger Großkaufmann Godeffroy, der Ende des 19. Jahrhunderts an der deutschen Kolonialisierung im Pazifikraum beteiligt war.
 1962 erhielt sie den Namen des Schriftstellers Leonhard Frank (1882-1961), welcher verschiedene Novellen und Romane schrieb.
 
-[![leubnitzer straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1663.gif)](../../../zentrum/sudvorstadt/strassen_sudvorstadt/leubnitzer_strasse/)
+## [Leubnitzer Straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/leubnitzer_strasse/)
 
 
 
-[![liebigstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1665.gif)](../../../zentrum/sudvorstadt/strassen_sudvorstadt/liebigstrasse/)
+## [Liebigstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/liebigstrasse/)
 
-![lindenauplatz](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1701.gif)
+## Lindenauplatz
 
 Der nach dem Reformpolitiker und früheren sächsischen Minister Bernhard von Lindenau (1779-1854) benannte Lindenauplatz
 entstand nach Verabschiedung eines Bebauungsplanes für das Areal südlich der Bahnlinie und sollte das dichtbebaute Wohnviertel auflockern. Um den Platz
@@ -419,7 +417,7 @@ Gostritz bzw. Prohlis verbrachten. Der Lindenauplatz selbst wurde 1974/76 mit de
 
 **_Foto:_** _Wohnhäuser am Lindenauplatz um 1910_
 
-![lindenaustraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1666.gif)
+## Lindenaustraße
 
 Auch die Lindenaustraße, welche vor dem Zweiten Weltkrieg bis zur Uhlandstraße führte, erhielt ihren Namen nach Bernhard
 von Lindenau (1779-1854). Der an der Erarbeitung der ersten liberalen Verfassung Sachsens beteiligte Politiker übernahm
@@ -427,14 +425,14 @@ von Lindenau (1779-1854). Der an der Erarbeitung der ersten liberalen Verfassung
 tätig. 1848 gehörte er der Deutschen Nationalversammlung an. Ende des 19. Jahrhunderts entstanden an der Lindenaustraße
 Villen und Mietshäuser, die sämtlich im Zweiten Weltkrieg zerstört wurden. Im Haus Lindenaustraße 23 wohnte zeitweise der Maler Ernst Ludwig Kirchner, Mitglied der Künstlergruppe Brücke.
 
-![ludwig-ermold-straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_715.gif)
+## Ludwig-Ermold-Straße
 
 Die Ende der Zwanziger Jahre angelegte Ludwig-Ermold-Straße, eine kurze Verbindung zwischen Zelleschem Weg und
 Beutlerpark, trug vor 1945 den Namen Wißmannstraße. Herrmann von Wißmann war als Reichskommissar und Gouverneur von Deutsch-Ostafrika (Tansania) an der Kolonialisierung der Region beteiligt und ließ 1888/89 einen Aufstand gewaltsam
 niederschlagen. In der Nachkriegszeit wurde die Straße nach dem Opernsänger Ludwig Ermold (1883-1949) benannt. Ermold
 gehörte einige Jahre dem Ensemble der Hofoper an und wirkte 1911 als Baron Ochs auf Lerchenau in der Uraufführung des Rosenkavaliers mit.
 
-![lukasstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1667.gif)
+## Lukasstraße
 
 Die Lukasstraße sowie der angrenzende Lukasplatz wurden kurz vor 1900 im Zusammenhang mit dem Bau der [Lukaskirche](../../../zentrum/sudvorstadt/strassen_sudvorstadt/lukaskirche/) angelegt und entsprechend benannt. Hier befand sich auch das zur Kirche gehörende Gemeindehaus mit Pfarramt, welches nach dem Bombenangriff von 1945 nur noch als Ruine erhalten blieb. In den letzten Jahren erfolgte der Wiederaufbau zu einem Seniorenheim. Weitere Grundstücke wurden mit modernen Wohnhäusern und einem Ärztehaus bebaut. An der östlichen Seite
 der Lukaskirche ist ein mittelalterliches Sühnekreuz zu sehen. Dieses befand sich bis 1880 an der alten Landstraße nach Dippoldiswalde und wurde nach seiner Bergung aus einer Baugrube 1904 an die Kirche umgesetzt. Eine denkmalgerechte Restaurierung erfolgte 2011/12.
@@ -443,7 +441,7 @@ Nr. 3: In diesem Gebäude wohnte und praktizierte bis 1933 der Zahnarzt Dr. Frie
 
 ![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/s_dvlukasstr.jpg)Landeskirchenamt (Nr. 6): Bemerkenswert ist der 1897 nach Entwürfen von Ludwig Wilhelm Lippold entstandene Bau Lukasstraße 6, welcher einst die Kaiserlich-Russische Gesandtschaft in Sachsen beherbergte. Das ursprünglich als Mietshaus konzipierte Gebäude _(Foto)_ besitzt eine aufwendig gestaltete Sandsteinfassade im Neobarockstil und gehört zu den repräsentativsten Bauwerken der Südvorstadt. 1926 erwarb das Landeskonsistorium Sachsen der evangelischen Kirche das Gebäude und nutzte es ab 1933 als Landeskirchenamt. Als einer der wenigen Bauten in diesem Stadtviertel überstand das Haus den Zweiten Weltkrieg und konnte bereits kurz nach Kriegsende wieder ausgebaut und nutzbar gemacht werden. An Stelle des 1945 zerstörten Daches erhielt das Gebäude 1999 ein modern gestaltetes zusätzliches Obergeschoss sowie einen Anbau auf der Gartenseite. Die Planungen für den Umbau stammen von Ulf Zimmermann. Im Inneren befinden sich Diensträume der Landeskirche.
 
-![max-liebermann-straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1668.gif)
+## Max-Liebermann-Straße
 
 Die Max-Liebermann-Straße in der Nähe des Beutlerparks erinnert an den deutschen Maler und Grafiker Max Liebermann
 (1847-1935), der durch seine vom Impressionismus beeinflussten Bilder mit Alltagsszenen und Darstellungen des Arbeitslebens bekannt wurde. Zwischen 1920 und 1933 war er Präsident der Preußischen Akademie der Künste.
@@ -451,9 +449,9 @@ Die Max-Liebermann-Straße in der Nähe des Beutlerparks erinnert an den deutsch
 Vor 1945 wurde die Straße Lüderitzstraße genannt. Der Bremer Kaufmann Adolf Lüderitz hatte 1883 an der Küste Südwestafrikas einen Landstreifen erworben, der ab 1884 unter dem Namen Deutsch-Südwestafrika erste Kolonie des
 Deutschen Reiches wurde. Das Gebiet um die nach ihm benannte Stadt Lüderitz (heute Namibia) ist vor allem als Diamantenfundort von Bedeutung.
 
-[![münchner platz](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1669.gif)](../../../zentrum/sudvorstadt/strassen_sudvorstadt/munchner_platz/)
+## [Münchner Platz](../../../zentrum/sudvorstadt/strassen_sudvorstadt/munchner_platz/)
 
-![münchner straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1670.gif)
+## Münchner Straße
 
 ![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/svm_nchnerstr27.jpg)Die Münchner Straße entstand 1899 als zweite große Hauptachse der Südvorstadt. Entgegen ursprünglichen Planungen entschloss man sich zu einem großzügen Ausbau mit geteilten Fahrbahnen, separater Gleistrasse der Straßenbahn und einem gärtnerisch gestaltenen Mittelstreifen. Zu beiden Seiten errichtete die Dresdner Baugesellschaft Wohn- und Geschäftshäuser, zum Teil in geschlossener Bebauung, teilweise auch als Gruppenhäuser _(Foto)_. Nach dem Ersten Weltkrieg wurden bis 1930 die noch verbliebenen Freiflächen bis zur Nöthnitzer Straße mit einer genossenschaftlichen Siedlung des Bauvereins Gartenheim bebaut. Architekt dieser Wohnanlage zwischen Münchner-, Georg-Schumann- und Regensburger Straße war Paul Beck.
 
@@ -463,7 +461,7 @@ Obwohl zahlreiche Gebäude, vor allem im unteren Teil der Münchner Straße, im 
 
 ![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/svm_nchnerkrug.jpg)Am südlichen Ende öffnet sich die Münchner Straße in einer platzartigen Anlage, umgeben von Wohnhäusern aus der Gründerzeit. Hier zweigen die Nöthnitzer und die Bienertstraße in Richtung Plauen ab. Im Eckhaus zur Bienertstraße befand sich viele Jahre die Gaststätte Münchner Krug. Nach 1990 bezog ein griechisches Lokal die Räume. Unmittelbar vor der Einmündung der Bernhardstraße lag ab 1900 der Endpunkt der Straßenbahn, bevor neun Jahre später eine Verlängerung bis zum Plauener Rathaus erfolgte. Die Zerstörungen des Zweiten Weltkriegs führten 1945 zur Einstellung dieser Strecke. 1953 wurde stattdessen die noch heute vorhandene Gleisschleife angelegt. Seit 1999 verkehren die Bahnen über eine neu angelegte Direktverbindung bis nach Coschütz.
 
-![nossener straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1671.gif)
+## Nossener Straße
 
 Die Nossener Straße wurde in Verlängerung der Nürnberger Straße angelegt und stellte über die 1889 errichtete
 Hohenzollernbrücke die Verbindung in Richtung Löbtau her. Beiderseits der Straße befanden sich bis 1945 gewerbliche Anlagen, darunter auch die Gebäude der [Lingner-Werke](../../../zentrum/sudvorstadt/strassen_sudvorstadt/zwickauer_strasse/lingner-werke/). 1960/64 wurde die Straße deutlich verbreitert und in die neue
@@ -474,7 +472,7 @@ Hohenzollernbrücke die Verbindung in Richtung Löbtau her. Beiderseits der Stra
 
 _Foto: Das Drei-Brücken-Haus an der Nossener / Ecke Chemnitzer Straße_
 
-![nürnberger platz](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1672.gif)
+## Nürnberger Platz
 
 Der Nürnberger Platz wurde 1899 als Zentrum eines neuen Stadtviertels angelegt und in Reverenz an die fränkische Metropole
 Nürnberg benannt. Um den kreisförmigen Platz entstanden repräsentative Wohn- und Geschäftshäuser, welche oft
@@ -487,7 +485,7 @@ die Helmholtz-Apotheke sowie die Buchhandlung der Technischen Universität.
 
 **_Fotos:_** _Der Nürnberger Platz vor 1945 - beide Eckhäuser wurden zerstört._
 
-![nürnberger straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1673.gif)
+## Nürnberger Straße
 
 ![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/s_dvn_rnbergerstr.jpg)Zeitgleich mit dem Nürnberger Platz entstand die Nürnberger Straße, welche zwischen
 1900 und 1905 durch die Dresdner Baugesellschaft mit großbürgerlichen Wohnhäusern bebaut wurde. Ursprünglich war hier auch der Bau einer Kirche vorgesehen, weshalb die
@@ -507,7 +505,7 @@ Grundriss des eingeschossigen Baus entschieden. Das Lokal öffnete am 1. Oktober
 Platzes den Namen Nürnberger Ei. 1992 wurde die bis zuletzt gut besuchte Gaststätte geschlossen und abgerissen. 1994 errichtete man an ihrer Stelle ein modernes Büro- und Geschäftshauses _(Foto)_
 . Originell ist die gewählte Grundrissform dieses Gebäudes in Form eines Eis. Der Entwurf stammt von den Architekten Rauert & Porsch und Dähne & Burggraf. Im Erd- und 1. Obergeschoss befinden sich verschiedene Geschäfte.
 
-![ostbahnstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1674.gif)
+## Ostbahnstraße
 
 ![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/s_dvostbahnstr.jpg)
 Die heute nicht mehr in den Stadtplänen verzeichnete Ostbahnstraße _(Foto)_ führte bis 1945 parallel zum Hochgleisdamm der Eisenbahn und war an ihrer Südseite mit mehrgeschossigen Mietshäusern
@@ -515,7 +513,7 @@ bebaut. Hier lebten zahlreiche Künstler, die der Straße einen besonderen Chara
 Ostbahnstraße. Außerdem gab es mehrere Gaststätten, darunter die Sängerhalle an der Ecke zur Uhlandstraße sowie die als Künstlerkneipe beliebte Schankwirtschaft von Max Balke. Sämtliche
 Bauten fielen 1945 den Bomben zum Opfer. Die Straße selbst bezog man in der Nachkriegszeit in das Betriebsgelände des Betonwerkes Strehlener Straße ein.
 
-![patrice-lumumba-straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1678.gif)
+## Patrice-Lumumba-Straße
 
 Die Straße wurde in den Zwanziger Jahren als Nachtigalstraße angelegt und mit Ein- und Mehrfamilienhäusern bebaut. Mit der Namensgebung sollte der deutsche Militärarzt und Reichskommissar
 im Kolonialamt Gustav Nachtigal geehrt werden, der 1884 die Inbesitznahme Deutsch-Südwestafrikas (heute Namibia), Kameruns und Togos vertraglich besiegelte und damit den Grundstein für den deutschen Kolonialbesitz in Afrika legte.
@@ -526,7 +524,7 @@ Vertreter der afrikanischen Unabhängigkeitsbewegung und wird bis heute als Held
 
 
 
-![rabenerstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1679.gif)
+## Rabenerstraße
 
 ![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/s_dvfinanzamt.jpg)
 Die in vielen Stadtplänen oft fälschlich als Rabener Straße bezeichnete Straße wurde Ende des 19. Jahrhunderts angelegt und mit Mehrfamilienhäusern bebaut. Ihren Namen erhielt sie 1881
@@ -538,9 +536,9 @@ gesprengt. Heute hat in dem erst kurz vor der Wende fertiggestellten Gebäude da
 2011/12 erfolgte eine umfassende Sanierung. In diesem Zusammenhang wurde an der Fassade das überdimensionale Wandbild
 Barcode des Chemnitzer Künstlers Jörg Steinbach angebracht. Weitere Neubauten werden von der Hochschule für Technik und Wirtschaft genutzt.
 
-![finanzamt dresden  nord, rabener str. 1, 01069 dresden, tel. 0351/4691-0 finanzamt dresden süd,  rabener str. 1, 01069 dresden, tel. 0351/4691-0](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1696.gif)
+Finanzamt dresden  nord, rabener str. 1, 01069 dresden, tel. 0351/4691-0 finanzamt dresden süd,  rabener str. 1, 01069 dresden, tel. 0351/4691-0
 
-![reichenbachstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1680.gif)
+## Reichenbachstraße
 
 ![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/s_dvreichenbachstr.jpg)Die Reichenbachstraße bildet den südlichen Abschluss des sogenannten Amerikanischen
 Viertels und war bis um 1930 zugleich Bebauungsgrenze dieses geschlossenen Viertels mit rechtwinkligen Straßen. An der Nordseite _(Foto)_ befanden sich bis zur Zerstörung 1945
@@ -560,7 +558,7 @@ vorrangig von ambulant tätigen Ärzten belegt wurden, um kleinere Operationen v
 die Einrichtung als Ausbildungsstätte für sein Pflegepersonal. Während des Zweiten Weltkrieges war in der Klinik ein Lazarett
 untergebracht. Beim Luftangriff 1945 wurde das Haus schwer beschädigt. In der Nachkriegszeit erfolgte der Wiederaufbau als Sitz des Hygiene-Institutes.
 
-![renkstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1714.gif)
+## Renkstraße
 
 Die vom Lukasplatz in östlicher Richtung abgehende Renkstraße entstand in den Dreißiger Jahren und verdankt ihren Namen
 dem Chemiker Friedrich Georg Renk (1850-1928), der viele Jahre an der Technischen Hochschule als Professor tätig war. Architektonisch interessant ist das Wohnhaus an der Ecke zur Erlweinstraße (Renkstraße 1), auch 
@@ -570,11 +568,11 @@ Haus Garten genannt. Das unter Denkmalschutz stehende Gebäude wurde 1929 von 
 
 **_Fotos:_** _Blick in die Renkstraße zur Lukaskirche (links) und die Rohlfsstraße (rechts)_
 
-![rohlfsstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1684.gif)
+## Rohlfsstraße
 
 Die kurz vor Beginn des Zweiten Weltkriegs angelegte Rohlfsstraße in der Nähe der Lukaskirche erhielt ihren Namen nach dem Afrikaforscher Gerhard Rohlfs (1831-1896). Rohlfs hatte nach seinem Medizinstudium viele Jahre beim Militär, u.a. in der Fremdenlegion in Europa und Nordafrika gedient und nahm ab 1865 an mehreren Afrika-Expeditionen teil. Als einem der ersten Europäer gelang ihm die Durchquerung der Sahara. 1879 gelang es ihm als ersten, die Kufra-Oasen im Südosten von Libyen zu erreichen. Seine Erlebnisse präsentierte er später in zahlreichen Büchern und Vorträgen. Erstmals ist die Rohlfsstraße im Adressbuch von 1941 aufgeführt.
 
-![rugestraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1685.gif)
+## Rugestraße
 
 Die heutige Rugestraße entstand Ende des 19. Jahrhunderts und wurde vor 1945 Bendemannstraße genannt. Eduard Bendemann (1811-1889) war ab 1839 Professor der Dresdner Kunstakademie und schuf neben Wandmalereien und Porträts
 auch zahlreiche Buchillustrationen. Außerdem war er an der Ausgestaltung des Residenzschlosses beteiligt.
@@ -587,7 +585,7 @@ Von den ursprünglich vorhandenen Villenbauten der Rugestraße sind heute nur no
 gebäude entstand 1965 ein modernes Wohnhochhaus (Nr. 13). Im Erdgeschoss befindet sich die 1947 aus der früheren
 Hofapotheke hervorgegangene Helmholtzapotheke, die zuvor provisorisch in den Räumen einer ehemaligen Gaststätte auf der Helmholtzstraße 2 untergebracht war.
 
-![schnorrstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1686.gif)
+## Schnorrstraße
 
 Die Schnorrstraße wurde um 1875 als eine der Hauptstraßen des neuen Amerikanischen Viertels angelegt und verlief als
 schnurgerade Verbindung zwischen Winckelmann- und Ackermannstraße. Ihren Namen verdankt sie dem Kunstmaler Julius
@@ -602,9 +600,9 @@ Wiederaufbau. In diesem Zusammenhang wurde die Schnorrstraße teilweise überbau
 Namen trägt, erfolgte 1994 die Umbenennung des östlich der Semperstraße gelegenen Straßenteils in Georg-Wrba-Straße. Heute befinden sich hier verschiedene Gebäude der
 Hochschule für Technik und Wirtschaft sowie Bürohäuser. Außerdem entstanden in den letzten Jahren moderne Wohnhäuser _(Foto)_.
 
-[![schweizer straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1688.gif)](../../../zentrum/sudvorstadt/strassen_sudvorstadt/schweizer_strasse/)
+## [Schweizer Straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/schweizer_strasse/)
 
-![semperstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1689.gif)
+## Semperstraße
 
 ![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/s_dvsemperstr4.jpg)Die Semperstraße entstand Ende des 19. Jahrhunderts und wurde nach dem bedeutenden
 Architekten Gottfried Semper (1803-1879) benannt, der in Dresden u. a. das Galeriegebäude am Zwinger und das Opernhaus entwarf. Die meisten der  ab 1890 an der Straße entstandenen Villen
@@ -616,7 +614,7 @@ Häuser wurde 2008 Deutschlands größtes Luftbild angebracht. Das nur aus einem
 zeigt die ersten Takte von Vivaldis Komposition Die Vier Jahreszeiten und wurde vom Dresdner Künstler Siegfried Haas
 geschaffen. 2008 entstand auf einer Brachfläche an der Semperstraße eine kleine Reihenhaussiedlung. Weitere Grundstücke wurden nach dem Abbruch von Gewerbehallen wenig später ebenfalls mit Wohnhäusern bebaut.
 
-![strehlener straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1690.gif)
+## Strehlener Straße
 
 Die heutige Strehlener Straße gehört zu den ältesten Verkehrswegen auf dem Gebiet der heutigen Südvorstadt. Da man diesen
 Weg einst als Viehtreibe nutzte, wurde er bis zum 19. Jahrhundert Kälberweg genannt. Hier mündeten auch die von Süden
@@ -631,7 +629,7 @@ Stellplätzen für Feuerwehr und Rettungsdienst. Der 150 Meter lange und im klas
 
 
 
-![uhlandstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1691.gif)
+## Uhlandstraße
 
 ![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/s_dvuhlandstr30.jpg)Die Uhlandstraße wurde als eine der ersten Straßenzüge im Zuge des Ausbaus des Wohnviertels hinter
 dem Hauptbahnhof angelegt und folgt in ihrem Verlauf teilweise dem alten Räcknitzer Marktweg, über den die Bauern einst ihre Ware zum Dresdner Markt transportierten. Die Flurstücke zu beiden Seiten der
@@ -644,7 +642,7 @@ inhaftiert und verstarb am 25. Februar 1945 in einem Außenlager des KZ Mauthaus
 An Stelle der 1945 zerstörten Bebauung entstanden 1973 Wohnblocks sowie 2010 eine moderne Fahrzeughalle für die Versuchsfahrzeuge der Hochschule für Technik und Wirtschaft. Außerdem wurde an der Uhlandstraße 34 eine neue Kita
 erbaut.
 
-![wielandstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1692.gif)
+## Wielandstraße
 
 ![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/s_dvwielandstr4.jpg)
 Die Wielandstraße entstand 1851 als eine der ersten Straßen des Schweizer Viertels und wurde in der Folgezeit mit Villen bebaut. Da sie direkt zur 1836 gegründeten [Blindenanstalt](../../../sud/plauen/strassen_plauen/chemnitzer_strasse/) führte, nannte man sie zunächst Blindenstraße. Wenig später erfolgte die Umbenennung nach dem deutschen
@@ -658,14 +656,14 @@ Staatsanstalt für Krankengymnastik: Die Einrichtung auf der Wielandstraße 2 wu
 Wegbereiter der Physiotherapie. Die Staatsanstalt für Krankengymnastik und Massage behandelte auf wissenschaftlich-
 medizinischer Grundlage Patienten mit unterschiedlichen Krankheitsbildern und bildete zugleich Krankengymnasten aus. Nach dem Tod Smitts wurde sie 1922 ins Taschenbergpalais verlegt und 1941 aufgelöst.
 
-![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/wigardstra_e.jpg)
+## Wigardstraße
 
 Die erstmals im Adressbuch von 1910 verzeichnete Wigardstraße erhielt ihren Namen nach dem sächsischen Politiker Franz
 Jacob Wigard (1807-1885). Wigard gehörte 1848/49 der Nationalversammlung an und war später auch Mitglied des sächsischen Landtags und des deutschen Reichstags. Bekannt wurde er jedoch vor allem als Förderer der Stenographie und
 Gründer des Sächsischen Stenographischen Institutes. Die heute nicht mehr vorhandene Straße zweigte am Südrand des Weberplatzes ab und war Teil eines hier geplanten Straßennetzes zur Verbindung mit dem Zelleschen Weg. Da sie jedoch
 unbebaut blieb, erfolgte im Zusammenhang mit einem Erweiterungsbau des Pädagogischen Institutes um 1930 die Einziehung.
 
-![winckelmannstraße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1693.gif)
+## Winckelmannstraße
 
 ![](../../../zentrum/sudvorstadt/strassen_sudvorstadt/s_dvhotelkipping.jpg)
 Die um 1850 angelegte Winckelmannstraße erinnert an den bedeutenden Altertumsforscher und Bibliothekar Johann Joachim Winckelmann (1717-1768), der als Begründer der modernen
@@ -679,9 +677,9 @@ Zu den 1945 zerstörten Gebäuden gehört auch das Wohnhaus Winckelmannstraße 3
 des Rechtsanwaltes Dr. Bernhard Eibes (1886-1942), welcher sein Büro auf der Prager Straße 10 hatte. Eibes, 1911 zum Justizrat ernannt, war am Landgericht tätig und vertrat nach 1918 die Wettiner im Rechtsstreit um die Regelung der
 Vermögensfragen mit dem Freistaat Sachsen. Er erarbeitete dabei den 1924 unterzeichneten Auseinandersetzungsvertrag zur Abfindung der Königsfamilie und ihrer Nachkommen.
 
-[![zellescher weg](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1694.gif)](../../../sud/zschertnitz/strassen_zschertnitz/zellescher_weg/)
+## [Zellescher Weg](../../../sud/zschertnitz/strassen_zschertnitz/zellescher_weg/)
 
-[![zwickauer straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/a_rectangle_1695.gif)](../../../zentrum/sudvorstadt/strassen_sudvorstadt/zwickauer_strasse/)
+## [Zwickauer Straße](../../../zentrum/sudvorstadt/strassen_sudvorstadt/zwickauer_strasse/)
 
 
 

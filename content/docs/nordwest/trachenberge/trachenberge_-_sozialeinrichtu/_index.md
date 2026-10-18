@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:36+01:00
 
 * * *
 
-[![förderzentrum  für hörgeschädigte ](../../../nordwest/trachenberge/trachenberge_-_sozialeinrichtu/a_rectangle_1174.gif)](http://www.johannf.de/)
+## [Förderzentrum für Hörgeschädigte](http://www.johannf.de/)
 
 
 ![](../../../nordwest/trachenberge/trachenberge_-_sozialeinrichtu/trabgmarienh.jpg)Nach Einstellung des Weinbaus an den Hängen der Hellerberge, bedingt durch

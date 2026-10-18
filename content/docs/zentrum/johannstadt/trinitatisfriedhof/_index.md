@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:47+01:00
 
 * * *
 
-![trinitatisfriedhof  fiedlerstr. 1 01307 dresden  tel. 0351/4593617](../../../zentrum/johannstadt/trinitatisfriedhof/a_rectangle_1524.gif)
+Trinitatisfriedhof  fiedlerstr. 1 01307 dresden  tel. 0351/4593617
 
 [![](../../../zentrum/johannstadt/trinitatisfriedhof/trinitatisfriedhof.jpg)](http://www.johannisfriedhof-dresden.de)
 

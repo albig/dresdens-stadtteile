@@ -142,7 +142,7 @@ schweren Nachkriegsjahren dienen. Erst später erhielten die Gärten Strom- und 
 der Autobahnauffahrt weichen. Als Ersatz konnten benachbarte Flächen an der Kalkreuther Straße erworben werden.
 Seit 1994 befindet sich das gesamte Grundstück im Besitz der Spartenmitglieder, um einer künftigen Bebauung des Areals an der Autobahn vorzubeugen.
 
-[![trachenberger straßen](a_rectangle_104.gif)](../../nordwest/trachenberge/strassen_trachenberge/)
+## [Trachenberger Straßen](../../nordwest/trachenberge/strassen_trachenberge/)
 
 [_Weiterführende Literatur und Quellen:_](../../impressum/quellenverzeichnis/)
 

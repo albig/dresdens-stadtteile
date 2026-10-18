@@ -3,13 +3,13 @@ title: "Straßen und Plätze in Leubnitz-Neuostra"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![alfred-reucker-straße](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_1133.gif)
+## Alfred-Reucker-Straße
 
 Die Alfred-Reucker-Straße, eine kurze Nebenstraße im Neubaugebiet südlich der Dohnaer Straße, wurde 1994 angelegt und
 nach dem früheren Generalintendanten der Sächsischen Staatsoper Prof. Dr. Alfred Reucker (1868-1958) benannt. Reucker hatte das Amt 1921 übernommen und wurde 1933 im Zusammenhang mit dem Skandal um Fritz Busch von den Nazis aus dem
 Amt vertrieben. Bis zu seinem Tod wohnte er in Leubnitz-Neuostra auf der Spitzwegstraße 60.
 
-![altleubnitz](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_704.gif)
+## Altleubnitz
 
 Altleubnitz bildet den Dorfkern des früheren Bauerndorfes und besitzt zahlreiche historische Bauerngüter, die heute unter
 Denkmalschutz stehen. Bemerkenswert sind der frühere Pfarrhof (Nr. 1) aus dem 16. Jh. sowie die Dreiseithöfe Altleubnitz Nr.
@@ -23,40 +23,40 @@ noch gut die ehemalige soziale Struktur des Dorfes verdeutlichen. Im Haus Nr. 2 
 
 
 
-![am fuchsberg](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_701.gif)
+## Am Fuchsberg
 
 Das Gebiet am Leubnitzer Fuchsberg war bereits im 11. Jh. besiedelt und ist der vermutete Standort einer slawischen
 Wallanlage, von der bislang jedoch keine Spuren gefunden wurden. Diese Burg war Ausgangspunkt der Besiedlung der
 Leubnitzer Flur. Um 1930 entstand an der Straße Am Fuchsberg eine einheitlich gestaltete Kleinhaussiedlung zwischen Heiligem
 Grund und Friebelstraße. Bauherr war die Siedlungsgemeinschaft Festbesoldeter, der vorrangig Beamte und Lehrer angehörten.
 
-![am pfaffenberg](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_892.gif)
+## Am Pfaffenberg
 
 Die Straße Am Pfaffenberg, benannt nach einem Leubnitzer Flurnamen, wurde im Zusammenhang mit dem Bau einer neuen
 Wohnsiedlung auf der Leubnitzer Höhe angelegt. Zwischen 1999 und 2007 entstanden hier insgesamt 55 Reihen- und Doppelhäuser sowie 15 Einfamilienhäuser.
 
-![clausen-dahl-straße](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_727.gif)
+## Clausen-Dahl-Straße
 
 Die in den Zwanziger Jahren angelegte Clausen-Dahl-Straße erinnert an den norwegischen Maler Johann Christian Clausen Dahl
 (1788-1857), der ab 1818 in Dresden lebte und zum Freundeskreis um Caspar David Friedrich gehörte. Dahl, ab 1824
 Professor an der Kunstakademie, schuf neben zahlreichen Naturdarstellungen auch einige Stadtansichten von Dresden. 1976/80
 wurde das zuvor gärtnerisch genutzte Gelände an der Clausen-Dahl-Straße mit Neubaublocks bebaut und die ursprünglich ringförmige Straße dadurch unterbrochen.
 
-![corinthstraße](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_719.gif)
+## Corinthstraße
 
 Die in den Zwanziger Jahren angelegte und heute zweigeteilte Straße erhielt ihren Namen nach dem impressionistischen
 deutschen Maler und Graphiker Lovis Corinth (1858-1925). Die ersten Wohnhäuser entstanden 1928/29 im Bereich Tepltzer Straße. 1976-1980 wurden die verbliebenen Freiflächen mit Neubaublocks bebaut.
 
 [![Die schönsten Reiseziele der Welt - nur einen Klick entfernt!](http://ad.zanox.com/ppv/?9803299C1568906865)](http://ad.zanox.com/ppc/?9803299C1568906865T)
 
-[![dohnaer straße](../../../sudost/a_rectangle_705.gif)](../../../sudost/strehlen/strassen_strehlen/dohnaer_strasse/)
+## [Dohnaer Straße](../../../sudost/strehlen/strassen_strehlen/dohnaer_strasse/)
 
-![feuerbachstraße](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_720.gif)
+## Feuerbachstraße
 
 Die Feuerbachstraße wurde Anfang der 30er Jahre im Zuge des Wohngebietes Teplitzer Straße angelegt. 1935 wurde sie nach
 dem Maler Anselm Feuerbach (1829-1880) Feuerbachstraße genannt. Feuerbach schuf vor allem antike Szenen und Porträts im neoklassizistischen Stil.
 
-![friebelstraße](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_706.gif)
+## Friebelstraße
 
 ![](gostritzwegs_ule.jpg)Die Friebelstraße verbindet Leubnitz mit dem Nachbarort Gostritz. Noch bis zum Ersten Weltkrieg war
 dieses Gebiet kaum bebaut und Standort einer von insgesamt vier Leubnitzer Ziegeleien. 1817 war hier der erste artesische Brunnen Sachsens abgeteuft worden, dessen Wasser für die Ziegelherstellung verwendet
@@ -65,7 +65,7 @@ wurde. 1919 wurde auf dem Gelände ein Sportplatz angelegt. Teile des ehemaligen
 Im Ortskern von Gostritz sind noch einige historische Bauerngüter erhalten geblieben. Bemerkenswert ist der Hof Friebelstraße 80, der nach 1813 entstand. Unweit davon befindet sich am Abzweig Friebelstraße/
 Altgostritz eine historische Wegsäule von 1836 _(Foto)_. Im Wohnhaus Nr. 62 wohnte ab 1917 bis zu seinem Tod 1972 der Dresdner Maler Bernhard Kretzschmar, Träger des Andersen-Nexö-Kunstpreises der Stadt.
 
-![goppelner straße](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_707.gif)
+## Goppelner Straße
 
 Die Goppelner Straße verbindet in Verlängerung der Wilhelm-Franke-Straße Leubnitz mit dem zu Bannewitz gehörenden
 Ortsteil Goppeln. Als erstes Wohnhaus entstand 1909 die Villa Goppelner Straße 2, die dem Baumeister Merzdorf gehörte. Merzdorf plante um 1910 sogar die Anlage eines Flugplatzes auf der Leubnitzer Höhe, was jedoch auf Ablehnung der
@@ -84,7 +84,7 @@ die wirtschaftliche Entwicklung sowie ein Brand 1916, der einen Großteil der te
 
 
 
-![gostritzer straße](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_552.gif)
+## Gostritzer Straße
 
 Die Gostritzer Straße verbindet Leubnitz mit seinem Nachbarort Goppeln und nimmt ihren Ausgangspunkt an der Teplitzer
 Straße. Im unteren Straßenteil dominieren Villen und Landhäuser, die meist nach der Jahrhundertwende 1900 entstanden. An
@@ -116,7 +116,7 @@ Lehmvorkommen und wegen Mangel an Brennöls endete 1978 die Ziegelproduktion. Zu
 Erhalten blieben die frühere Villa mit einigen Nebengebäuden sowie die hohe Esse, die als technisches Denkmal an die Ziegelherstellung im Dresdner Südraum erinnert. Die nach 1945 zum Großteil verfüllte Lehmgrube wurde 1996 als
 Naturdenkmal Alte Ziegelei Gostritz unter Schutz gestellt.
 
-![heiligenbornstraße](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_708.gif)
+## Heiligenbornstraße
 
 ![](../../../sudost/leubnitz-neuostra/strassen_leubnitz/leubnheiligenbornstr.jpg)Die Heiligenbornstraße verdankt ihren Namen, ebenso wie die benachbarte Brunnenstraße,
 dem sagenumwobenen [Heiligen Born](../../../sudost/leubnitz-neuostra/heiliger_born/), der bereits im Mittelalter als Wasserquelle genutzt wurde. Da an dieser Straße 1907 das neue Leubnitzer [Schulhaus](../../../sudost/leubnitz-neuostra/) errichtet worden war, wurde die Straße bis zur Eingemeindung Schulstraße genannt. Seit 1902 befand sich hier
@@ -126,33 +126,33 @@ Von 1911 bis zu seinem Tod am 5. März 1945 bewohnte der Kunstmaler und Graphike
 Elßner schuf neben zahlreichen Postkartenmotiven verschiedene Illustrationen für den Dresdner Verlag Meinhold & Söhne.
 Außerdem stammen von ihm einige Bilder in der Leubnitzer Kirche. Zum Freundeskreis der Familie gehörte der Maler Otto Griebel, der 1918 als Kriegsheimkehrer für einige Wochen im Hause Elßners wohnte.
 
-![heinrich-heine-straße](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_1513.gif)
+## Heinrich-Heine-Straße
 
 Die heutige Heinrich-Heine-Straße entstand in den Zwanziger Jahren im Zusammenhang mt dem Bau einer neuen Wohnsiedlung oberhalb des
 Dorfkerns. Zunächst wurde sie Gorch-Fock-Straße genannt, wobei der durch seine Seefahrergeschichten bekannt gewordene norddeutsche Schriftsteller Gorch Fock (eigentlich Johann Wilhelm Kinau; 1880-1916) für die Benennung Pate
 stand. Wegen seiner Nähe zur nationalsozialistischen und kriegsverherrlichenden Ideologie entschloss man sich nach 1945 zur
 Umbenennung der Straße. Heinrich Heine (1797-1856) gehört zu den bekanntesten deutschen Dichtern der Romantik, war aber auch als kritischer Satiriker und Journalist tätig.
 
-![hoher rand](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_959.gif)
+## Hoher Rand
 
 Die Siedlung am Hohen Rand an der Kante des Elbtalhangs wurde nach dem Ersten Weltkrieg angelegt. Seit 1927 befindet sich
 hier das Höhencafé, welches heute den Namen Kästners Restaurant trägt. Als Besonderheit in der Dresdner Gastronomie werden
 Gerichte der sogenannten Crossover-Küche angeboten, z.B. Fleisch in Kombination mit Krustentieren.
 
-![johannes-paul-thilman-str.](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_1028.gif)
+## Johannes-Paul-Thilman-Str.
 
 Die Johannes-Paul-Thilman-Straße entstand in den 80er Jahren im Zusammenhang mit der Bebauung der Freiflächen südlich der
 Dohnaer Straße. Benannt wurde die Straße nach dem Komponisten und Musikwissenschaftler Johannes Paul Thilman (gest.
 1973). Thilmann wirkte ab 1946 als Dozent an der Palucca-Schule und war ab 1956 Professor der Dresdner Musikhochschule.
 Für seine Verdienst beim Wiederaufbau des Musiklebens der Stadt erhielt er 1960 den Martin-Andersen-Nexö-Kunstpreis.
 
-![karl-laux-straße](a_rectangle_1147.gif)
+## Karl-Laux-Straße
 
 Die Karl-Laux-Straße wurde Mitte der 80er Jahre im Zuge des Neubaugebietes Leubnitz südlich der Dohnaer Straße angelegt
 und nach dem Musikkritiker Karl Laux (1896-1978) benannt. Ab 1934 arbeitete Laux als Kritiker für die Dresdner Neuesten Nachrichten, nach 1945 für die Tägliche Rundschau. Zwischen 1951 und 1962 war er Rektor der Musikhochschule.
 
 
-![kauschaer straße](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_709.gif)
+## Kauschaer Straße
 
 An der nach dem Leubnitzer Nachbarort [Kauscha](../../../sudost/kauscha/) führenden Kauschaer Straße befand sich noch bis ins 19. Jahrhundert der
 Standort des Leubnitzer Galgens. Die ursprünglich zum Klostergut gehörige Richtstätte wurde nach dessen Auflösung vom Leubnitzer Ratsamt übernommen und 1619 erneuert. Noch 1821 wurde der Platz am Abzweig Kauschaer/ Goppelner Straße
@@ -162,7 +162,7 @@ Unweit dieser Stelle erinnert ein Steinkreuz an eine Bluttat aus dem Jahre 1525.
 seinen Nachbarn und musste zur Sühne neben einer Geldstrafe von 23 Schock 8 Groschen dieses Steinkreuz setzen lassen. Kreuz und Richtstätte gaben Anlass zur Sage vom gespenstigen Hund zu Leubnitz, der hier um Mitternacht den
 Wanderer verfolgt und nur durch Bekreuzigung in die Flucht geschlagen werden kann.
 
-![klosterteichplatz](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_710.gif)
+## Klosterteichplatz
 
 ![](../../../sudost/leubnitz-neuostra/strassen_leubnitz/leubnklosterteichplatz.jpg)
 Der Klosterteichplatz erhielt seinen Namen nach dem einst hier gelegenen Teich, der zum Besitz des Klosterhofes gehörte und als Fischteich genutzt wurde. Nach dessen Verfüllung entstand ein kleiner
@@ -172,7 +172,7 @@ Platz, der sich zum Zentrum des Ortes entwickelte und vor dem Zweiten Weltkr
 Verwaltungsräumen auch die Wohnung des Gemeindevorstandes beherbergte. Heute haben in dem Gebäude verschiedene öffentliche Einrichtungen ihren Sitz. Auf dem Platz wurde 1936 von
 Leubnitzer Schülern eine Olympia-Gedenkeiche in Erinnerung an die im gleichen Jahr in Berlin veranstalteten Olympischen Spiele gepflanzt.
 
-![koloniestraße](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_721.gif)
+## Koloniestraße
 
 Die Koloniestraße entstand 1934 auf der Leubnitzer Höhe. Für den Bau der Reihenhausanlage war der Bund der
 Tabakgegner verantwortlich. Bewohner waren meist junge kinderreiche Familien, die hier ihre Vorstellungen von gesunder
@@ -182,25 +182,25 @@ den Bauverein Gartenheim errichtet.
 
 
 
-![leiblstraße](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_722.gif)
+## Leiblstraße
 
 Die kurze Leiblstraße an der Ecke Teplitzer/ Gostritzer Straße entstand 1925 im Zusammenhang mit dem Bau einiger neuer
 Wohnhäuser. Ihren Namen verdankt sie dem Maler Wilhelm Leibl (1844-1900), der zu den Hauptvertretern des bürgerlichen Realismus gehört und zahlreiche Darstellungen des Arbeitslebens der Bauern schuf.
 
-![max-klinger-straße](a_rectangle_940.gif)
+## Max-Klinger-Straße
 
 Die bereits 1925 angelegte Wohngebietsstraße östlich der Gostritzer Straße wurde zwischen 1926 und 1927 mit einer
 genossenschaftlichen Wohnsiedlung bebaut und ab 1929 Max-Klinger-Straße genannt. Max Klinger (1857-1920) gehört zu
 den bedeutendsten deutschen Malern, Grafikern und Bildhauern seiner Zeit und schuf zahlreiche Gemälde und Plastiken. Einige seiner Werke befinden sich auch in der Dresdner Gemäldegalerie Neue Meister.
 
-![menzelgasse](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_723.gif)
+## Menzelgasse
 
 Die Menzelgasse gehört zu den Straßen im alten Dorfkern und führt unmittelbar an der [Leubnitzer Kirche](../../../sudost/leubnitz-neuostra/leubnitzer_kirche/)
 vorbei. Ursprünglich befand sich hier die Kantorei, an deren Stelle 1868 das Schulhaus des Dorfes entstand. Dieses Gebäude wurde bis zum
 Schulneubau 1907 genutzt und beherbergt heute den Versammlungssaal der Kirchgemeinde. Die Straße erhielt ihren Namen nach dem früheren Kantor und Schullehrer Menzel. Unweit der Menzelgasse steht auch der nach Beschädigungen 1813
 wiederaufgebaute alte Pfarrhof von Leubnitz.
 
-![neuostra](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_711.gif)
+## Neuostra
 
 ![](../../../sudost/leubnitz-neuostra/strassen_leubnitz/leubnneuostra1.jpg)
 Die Straße Neuostra wurde 1569 auf Leubnitzer Flur für die nach hier umgesiedelten Bauern des ehemaligen Dorfes Ostra angelegt. Nachdem diese ihre Höfe für die Anlage des Ostravorwerkes
@@ -216,29 +216,29 @@ einrichteten, die zuvor aus Villen und Schlössern der Umgebung beschlagnahmt wo
 
 
 
-![ricarda-huch-straße](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_1154.gif)
+## Ricarda-Huch-Straße
 
 Die Ricarda-Huch-Straße wurde nach 1990 im Zusammenhang mit dem Bau einer kleinen Wohnsiedlung südlich des Leubnitzer
 Dorfkerns angelegt. Mit der Namensgebung wird an die deutsche Erzählerin und Kunsthistorikerin Ricarda Huch (1864-1947) erinnert, die zahlreiche historische Romana, Essays und Erzählungen verfasste.
 
-![robert-sterl-straße](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_712.gif)
+## Robert-Sterl-Straße
 
 Die Mehrfamilienhäuser an der Robert-Sterl-Straße entstanden ab 1935 für die Eisenbahner-Wohnungsbaugenossenschaft. Drei
 Gebäude fielen 1945 den Bomben zum Opfer, konnten jedoch bis 1955 wieder aufgebaut werden. 1977-79 wurden die
 verbliebenen Freiflächen zwischen Robert-Sterl- und Zschertnitzer Straße mit Plattenbaublocks bebaut. Ihren Namen erhielt die
 Straße nach dem Maler Robert Sterl (1867-1932), der zu den bekanntesten deutschen Impressionisten gehört und viele Jahre an der Dresdner Kunstakademie wirkte.
 
-![schilfteichstraße](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_713.gif)
+## Schilfteichstraße
 
 Der Name Schilfteichstraße erinnert an einen heute verschwundenen Teich, der zu den Besitzungen des Klosterhofes diente und
 zur Fischzucht genutzt wurde. Bis zur Eingemeindung wurde die Straße nach den hier gelegenen Gärtnereien Gartenstraße genannt.
 
-![schmalwiesenstraße](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_1730.gif)
+## Schmalwiesenstraße
 
 Die Schmalwiesenstraße, benannt nach einer Flurbezeichnung, wurde 1928 beim Bau einer kleinen Wohnanlage der
 Heimstätten-Genossenschaft Dresden-Reick angelegt. In diesem Zusammenhang entstand auch das Wohn- und Geschäftshaus Wilhelm-Franke-Straße 29/29a mit einer Verkaufsstelle des Konsum-Vereins Vorwärts.
 
-![spitzwegstraße](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_714.gif)
+## Spitzwegstraße
 
 Die heutige Spitzwegstraße trug ursprünglich den Namen Mockritzer Straße und wurde nach dem Ersten Weltkrieg nach dem
 Maler der Romantik Carl Spitzweg (1808-1885) benannt. Die ersten Wohnhäuser entstanden kurz vor dem Ersten Weltkrieg.
@@ -246,26 +246,26 @@ Bauherr der landhausartigen Villen war die Architektengemeinschaft Rose & Röhle
 errichtete hier auch sein eigenes Wohnhaus. 1935-37 folgte eine kleine Wohnanlage des Bauvereins Gartenheim mit 104 Wohnungen, mit welcher die 1917 gegründete Genossenschaft ihre Bautätigkeit in Dresden abschloss. Im Wohnhaus
 Spitzwegstraße 60 lebte viele Jahre der Generalintendant der Staatsoper Alfred Reucker, an den ein Gedenkstein im Garten der Villa erinnert. Später war das Haus beliebter Treffpunkt Dresdner Theaterleute.
 
-![thomas-mann-straße](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_1675.gif)
+## Thomas-Mann-Straße
 
 Die Thomas-Mann-Straße geht auf einen alten Fußweg nach Torna zurück. Ende der 20er Jahre entstanden hier die ersten Siedlungshäuser.
 Bis 1955 wurde die Straße Dietrich-Eckart-Straße genannt. Dietrich Eckart (1868-1923) gehörte als Verleger, Schriftsteller und Publizist zu den Mitbegründern der NSDAP und gilt als einer der geistigen Wegbereiter des
 Nationalsozialismus. Ihren jetzigen Namen erhielt die Straße nach dem bekannten Schriftsteller Thomas Mann (1875-1955), der zu den wichtigsten Vertretern des kritischen Realismus in der Literatur gehört.
 
-![uhdestraße](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_716.gif)
+## Uhdestraße
 
 Die Uhdestraße wurde als Lindenstraße kurz vor dem Ersten Weltkrieg angelegt und mit Mehrfamilienhäusern bebaut.. Ihren
 jetzigen Namen erhielt sie nach dem Maler Fritz von Uhde (1848-1911), der vor allem sozialkritisch-religiöse Gemälde schuf.
 
 
 
-![wilhelm-busch-straße](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_725.gif)
+## Wilhelm-Busch-Straße
 
 Die an der Ortsgrenze zwischen Leubnitz und Mockritz verlaufende Wilhelm-Busch-Straße hieß früher Carolastraße und war ab
 1922 Standort der Gärtnerei Dube, die noch bis 1969 in Betrieb war. 1926 wurde die Straße nach dem Zeichner Wilhelm
 Busch (1832-1908) benannt, der durch seine satirischen Bildgeschichten (Max und Moritz, Fips, der Affe) bekannt wurde. 1976 entstanden an der Wilhelm-Busch-Straße einige Neubauten.
 
-![wilhelm-franke-straße](../../../sudost/leubnitz-neuostra/strassen_leubnitz/a_rectangle_717.gif)
+## Wilhelm-Franke-Straße
 
 Die heutige Wilhelm-Franke-Straße war einst Teil der wichtigen Fernverbindung nach Böhmen, die über Strehlen und Leubnitz
 verlief und in der Nähe der Spitzwegstraße ostwärts abbog. Da sie zugleich als Weg der Leubnitzer Bauern nach Dresden
@@ -287,12 +287,12 @@ Nach 1945 wurde die Finckenfangstraße in Wilhelm-Franke-Straße umbenannt. Wilh
 Edelweiß entstand 1995/97 das moderne Einkaufszentrum Leubnitz-Passagen. Unweit davon erinnert die mit historischen
 Militärrequisiten ausgestattete Gaststätte Zum General von Finck an den früheren Namenspatron dieser Straße (Nr. 16).
 
-![wittenstraße](../../../a_rectangle_718.gif)
+## Wittenstraße
 
 Die Wittenstraße entstand 1936 im Zusammenhang mit einer Mehrfamilienhaus-Wohnanlage der Eisenbahner-
 Wohnungsbaugenossenschaft. Der Name erinnert an den Bildhauer Hans Witten, der u. a. die berühmte Tulpenkanzel im Freiberger Dom schuf.
 
-![zschertnitzer straße](../../../a_rectangle_726.gif)
+## Zschertnitzer Straße
 
 Die Zschertnitzer Straße verbindet die Stadtteile Leubnitz und Zschertnitz und überquert dabei den Kaitzbach auf einer mehrfach
 erneuerten Brücke. Neben Wohnhäusern aus der Zeit nach 1900 befanden sich hier noch bis 1974 die beiden Gärtnereien Schleinitz und Schönert. 1975 wurden diese Grundstücke mit Neubaublocks des Gebietes Clausen-Dahl-Straße bebaut.

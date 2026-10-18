@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:48+01:00
 
 * * *
 
-![russisch-orthodoxe kirche ](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/fritz-loffler-strasse/russische_kirche/a_rectangle_1182.gif)
+## Russisch-Orthodoxe Kirche
 
 
 ![](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/fritz-loffler-strasse/russische_kirche/s_dvrusskirche1.jpg)Die Russisch-Orthodoxe Kirche entstand als eine von mehreren Ausländerkirchen der

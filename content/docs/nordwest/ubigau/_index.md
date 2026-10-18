@@ -75,7 +75,7 @@ Elbfähre:
 
 ![](../../nordwest/ubigau/_bigauf_hre.jpg)Die Geschichte der Übigauer Elbfähre reicht bis ins Jahr 1698 zurück. Die zunächst vermutlich nur bei Bedarf verkehrende Kahnfähre wurde Mitte des 18. Jahrhunderts in ein gewerbliches Unternehmen umgewandelt und befand sich damals im Besitz der Schlossherrschaft. Nutzer waren vor allem die Besucher der im Schloß befindlichen Gastwirtschaft. 1783 wurde die Fährgerechtigkeit an einen Übigauer Grundstücksbesitzer weiter verkauft. Im 19. Jahrhundert teilten sich vier Einwohner die Einnahmen, bevor der von Andreas Schubert gegründete Aktien- und Maschinenbau-Verein die Fähre erwarb. 1866 ging sie schließlich in den Besitz der Gemeinde über und wurde an wechselnde Betreiber verpachtet. Wirtschaftliche Gründe führten 1930 zur Einstellung des Betriebes. Das Foto zeigt die frühere Fähre auf ihrer Fahrt in Richtung [Ostragehege](../../zentrum/friedrichstadt/ostragehege/), im Hintergrund die Hafenmühle.
 
-[![übigauer straßen](a_rectangle_87.gif)](../../nordwest/ubigau/strassen_ubigau/)
+## [Übigauer Straßen](../../nordwest/ubigau/strassen_ubigau/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

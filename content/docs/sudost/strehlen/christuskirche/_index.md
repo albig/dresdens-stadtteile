@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:42+01:00
 
 * * *
 
-![christuskirche dresden-strehlen  elsa-brändström-str. 1 01219 dresden  tel. 0351/710330](../../../sudost/strehlen/christuskirche/a_rectangle_776.gif)
+Christuskirche dresden-strehlen  elsa-brändström-str. 1 01219 dresden  tel. 0351/710330
 
 [![](../../../sudost/strehlen/christuskirche/christuskirche.jpg)](http://www.christuskirche-dresden.de)
 

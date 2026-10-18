@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:39+01:00
 
 * * *
 
-![striesener friedhof gottleubaer str. 2 01277 dresden  tel. 0351/31100511](../../../ost/striesen/striesener_friedhof/a_rectangle_58.gif)
+Striesener friedhof gottleubaer str. 2 01277 dresden  tel. 0351/31100511
 
 
 ![](../../../ost/striesen/striesener_friedhof/striesfriedhof1.jpg)Der Striesener Friedhof wurde im Zuge des weiteren Ausbaus der Vorstadt nach 1880 an der Gottleubaer Straße angelegt und am 17. Juli 1883 eröffnet. Zuvor mussten die Verstorbenen zum Trinitatisfriedhof in der Johannstadt verbracht werden. Ursprünglich war für die Anlage das Grundstück des heutigen Hermann-Seidel-Parkes vorgesehen, welches jedoch 1877 vom Gärtnereibesitzer für seine Rhododendrenzucht erworben wurde. Anwohner hatten durch den Bau eines Friedhofes an dieser Stelle negative Folgen für die weitere Entwicklung des Ortes befürchtet. Der Striesener Friedhof, der sich zu seiner Entstehungszeit noch weit außerhalb der Bebauung befand, nahm ursprünglich eine Fläche von ca. 3,5 Hektar ein. Um 1900 erfolgte eine erste Erweiterung, in den 1950er Jahren eine zweite auf nun über 5,6 Hektar. Bemerkenswert ist die naturnahe und parkartige Gestaltung des Areals.

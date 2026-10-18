@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:47+01:00
 
 * * *
 
-![innerer matthäusfriedhof  friedrichstr. 43 01067 dresden  tel. 0351/4 96 19 60](../../../../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/matthauskirche/a_rectangle_1616.gif)
+Innerer matthäusfriedhof  friedrichstr. 43 01067 dresden  tel. 0351/4 96 19 60
 
 **Übersichtsplan**
 
@@ -15,7 +15,7 @@ date: 2024-02-17T22:13:47+01:00
 
 * * *
 
-![äußerer matthäusfriedhof  bremer str. 18 01067 dresden  tel. 0351/4 96 19 60](../../../../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/matthauskirche/a_rectangle_1617.gif)
+Äußerer matthäusfriedhof  bremer str. 18 01067 dresden  tel. 0351/4 96 19 60
 
 * * *
 

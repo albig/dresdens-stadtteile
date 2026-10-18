@@ -3,7 +3,7 @@ title: "Straßen Ubigau"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![altübigau](../../../nordwest/ubigau/strassen_ubigau/a_rectangle_88.gif)
+## Altübigau
 
 Der alte Dorfkern des Ortes hieß bis zur Eingemeindung 1903 die Tränke, da hier das Vieh zum Elbufer getrieben wurde.
 Angelegt wurde der Ort auf einer acht Meter über der Elbe gelegenen hochwasserfreien Erhebung. Zusätzlich entstand eine
@@ -17,14 +17,14 @@ zum Naturdenkmal erklärt. In unmittelbarer Nachbarschaft erinnert eine Gedenks�
 
 **_Fotos:_** _Dorfkern Altübigau mit Hochwassersäule._
 
-![carrierastraße](a_rectangle_89.gif)
+## Carrierastraße
 
 Die Carrierastraße wurde 1997 im Zusammenhang mit dem Neubau des Stadtteilzentrums Elbarkaden angelegt. Ihren
 Namen erhielt sie nach der italienischen Kunstmalerin Rosalba Carriera (1675-1757). Nach Eröffnung des Wohn- und Geschäftskomplexes befindet sich hier heute das eigentliche Zentrum Übigaus _(Foto)_.
 
 ![](../../../nordwest/ubigau/strassen_ubigau/_bigaucarrierastr.jpg)
 
-![klingerstraße](../../../nordwest/ubigau/strassen_ubigau/a_rectangle_1476.gif)
+## Klingerstraße
 
 ![](../../../nordwest/ubigau/strassen_ubigau/_bigaukaserne4.jpg)Die Klingerstraße erinnert an den Maler und Bildhauer Max Klinger (1857-1920),
 einen der wichtigsten Vertreter des kritischen Realismus in Deutschland. Bis 1945 hieß sie nach einem bekannten sächsischen Kampfflieger Immelmannstraße. Max
@@ -38,12 +38,12 @@ hier Nachrichtentruppen der Reichswehr und der Wehrmacht, nach 1945 Einheiten de
 
 [![drk-kreisverband dresden e. v. - klingerstr. 20, 01139 dresden tel. 0351/8500220 - fax 0351/8500221 www.drk-dresden.de](../../../nordwest/ubigau/strassen_ubigau/a_round_rectangle_55.gif)](http://www.drk-dresden.de)
 
-![marie-curie-straße](../../../nordwest/ubigau/strassen_ubigau/a_rectangle_928.gif)
+## Marie-Curie-Straße
 
 Die Marie-Curie-Straße im Übigauer Gewerbegebiet an der Scharfenberger Straße Straße erhielt ihren Namen 1995 nach der polnisch-französischen Chemikerin und Physikerin Marie Sklodowska-Curie (1867-1934). Marie Curie
 gilt als eine der Begründerinnen der Radiochemie und entdeckte gemeinsam mit ihrem Mann Pierre das Element Polonium. Für ihre Forschungen erhielt sie 1911 den Nobelpreis.
 
-![mengsstraße](../../../nordwest/ubigau/strassen_ubigau/a_rectangle_1475.gif)
+## Mengsstraße
 
 Von 1899 bis zur Eingemeindung Übigaus 1903 wurde diese Straße nach dem
 damals regierenden sächsischen König Albertstraße genannt. Da es diesen Namen jedoch in Dresden mehrfach gab, machte sich eine Umbenennung erforderlich. Ihren
@@ -61,12 +61,12 @@ bezeichnet wird. Neue Wohnhäuser folgten 1964/65 in Ergänzung der vorhandenen 
 
 __
 
-![rauchstraße](../../../nordwest/ubigau/strassen_ubigau/a_rectangle_1337.gif)
+## Rauchstraße
 
 Die Rauchstraße bildete früher die Ortsgrenze zwischen Mickten und Übigau und hieß deshalb bis 1903 Grenzstraße. Ihr
 jetziger Name erinnert an den bekannten Bildhauer des Klassizismus Christian Daniel Rauch (1777-1857, der vor allem in Berlin tätig war und 1857 in Dresden verstarb.
 
-![rethelstraße](../../../nordwest/ubigau/strassen_ubigau/a_rectangle_1336.gif)
+## Rethelstraße
 
 Die Rethelstraße bildet neben Altübigau den alten Kern des Dorfes Übigau. Früher wurde die Straße Triebe genannt, da
 hier der Weg des Viehs auf die Weiden entlangführte. Bis 1899 hieß sie Dorf-, danach Hauptstraße. Alfred Rethel (1816-1859) war ein wichtiger Vertreter der Historienmalerei des 19. Jahrhunderts und schuf u.a. die Fresken des
@@ -88,24 +88,24 @@ entstand an seiner Stelle durch Ausbau der Ruine die Kreuzkapelle Übigau als Ge
 Haupteingang angebrachtes Kreuz, welches sich ursprünglich auf dem Kaditzer Schulhaus befand. Nach deutlichem Rückgang der Zahl der Gemeindemitglieder wurde die Kreuzkapelle
 1999 entwidmet und aufgegeben. Ihre Ausstattung befindet sich heute im [Micktener Gemeindehaus](../../../nordwest/mickten/kapelle_mickten/).
 
-![schwindstraße](../../../nordwest/ubigau/strassen_ubigau/a_rectangle_1335.gif)
+## Schwindstraße
 
 Die Schwindstraße wurde 1900 als Gartenstraße angelegt und 1903 nach dem romantischen Maler und Zeichner Moritz von
 Schwind (1804-1871) benannt. Schwind schuf zahlreiche Zeichnungen und Gemälde mit Motiven aus der Märchen- und Sagenwelt. Auf ihn geht auch die Figur des Weihnachtsmannes mit weißem Bart, Rute und Geschenkesack zurück.
 
-![tauberthstraße](../../../nordwest/ubigau/strassen_ubigau/a_rectangle_1334.gif)
+## Tauberthstraße
 
 Die Tauberthstraße wurde 1996 im neuen Gewerbegebiet Übigau angelegt. Otto Volkmar Tauberth (1816-1871) war als Eisenbahn-Maschinenbauingenieur einer der engsten Mitarbeiter Andreas Schuberts und wirkte an der Übigauer
 Maschinenbauanstalt. Tauberth wurde später Maschinenmeister der ersten deutschen Fernbahn und war zeitweise auch Vorsitzender des Dresdner Gewerbevereins.
 
-![thäterstraße](../../../nordwest/ubigau/strassen_ubigau/a_rectangle_1333.gif)
+## Thäterstraße
 
 Die Thäterstraße erhielt ihren Namen 1904 nach dem früheren Zeichenlehrer an der Dresdner Kunstakademie Julius Thäter
 (1804-1870), der seine letzten Lebensjahre in München verbrachte. Zuvor hieß die Straße Schulstraße, da sich hier seit 1897 das Übigauer [Schulhaus](../../../nordwest/ubigau/) befand.
 
-[![washingtonstraße](../../../nordwest/ubigau/strassen_ubigau/a_rectangle_1330.gif)](../../../nordwest/ubigau/strassen_ubigau/washingtonstrasse/)
+## [Washingtonstraße](../../../nordwest/ubigau/strassen_ubigau/washingtonstrasse/)
 
-![werftstraße](../../../nordwest/ubigau/strassen_ubigau/a_rectangle_1332.gif)
+## Werftstraße
 
 ![](../../../nordwest/ubigau/strassen_ubigau/_bigauwerftstr.jpg)Die Werftstraße verdankt ihren Namen der 1877 hier gegründeten Übigauer [Schiffswerft](../../../nordwest/ubigau/schloss_ubigau/schiffswerft_ubigau/). Das Werftgelände nahm einen Teil des ehemaligen Schlossparks in
 Anspruch und wurde zuletzt vom Dampfkesselbau Übigau und einigen kleineren Handwerksbetrieben genutzt. Vor der Eingemeindung wurde die Straße Schloßstraße (1899-1903) bzw. Eosanderstraße (nach dem Erbauer des
@@ -118,7 +118,7 @@ Röntgenwerk betriebener Kindergarten. Zuvor diente das Gebäude bis um 1950 als
 
 
 
-![zinggstraße](../../../nordwest/ubigau/strassen_ubigau/a_rectangle_1331.gif)
+## Zinggstraße
 
 Die Zinggstraße hieß vor der Eingemeindung bis 1903 Briesnitzer Straße. Ihren heutigen Namen erhielt sie 1903 nach dem
 romantischen Maler Adrian Zingg (1734-1816), der von 1766 bis zu seinem Tod Zeichenlehrer an der Kunstakademie war. Gemeinsam mit seinem Künstlerfreund Anton Graff gilt Zingg als künstlerischer Entdecker der Sächsischen Schweiz.

@@ -3,7 +3,7 @@ title: "Straßen und Plätze in Bühlau"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![am bauernbusch](../../../nordost/buhlau/strassen_buhlau/a_rectangle_1115.gif)
+## Am Bauernbusch
 
 ![](../../../nordost/buhlau/strassen_buhlau/b_hlauambauernbusch8.jpg) Die direkt zur Dresdner Heide führende Straße Am Bauernbusch erinnert an eine frühere Flurbezeichnung. Traditionell besaßen die Einwohner des Ortes das Recht, Teile des hiesigen Heidewaldes zum Holzeinschlag und zur Gewinnung von Heu zu nutzen. Ab 1870 entstanden auf dem Areal repräsentative Villen für wohlhabende Zuzügler, weshalb der Volksmund dem Weg den Namen "Millionengässchen" gab. Offiziell wurde die Straße ab 1901 bis zum 1. Juni 1926 Forststraße genannt.
 
@@ -19,40 +19,40 @@ Nr. 19: Hier lebte bis zu ihrem Tod 1984 die Malerin und Scherenschnittkünstler
 
 Die Straße Am Kurhaus Bühlau entstand Ende der 1990er Jahre als Zufahrt zu einem P+R-Parkplatz und erhielt ihren Namen 2000 nach dem angrenzenden [Kurhaus Bühlau](../../../nordost/buhlau/kurhaus_buhlau/). Das heute als Einkaufszentrum genutzte Gebäude am Ullersdorfer Platz geht auf den früheren Dorfgasthof des Ortes zurück. Im hinteren Teil entstanden einige moderne Reihenhäuser.
 
-![bachmannstraße](../../../nordost/buhlau/strassen_buhlau/a_rectangle_1054.gif)
+## Bachmannstraße
 
 ![](../../../nordost/buhlau/strassen_buhlau/b_hlaubachmannstr2.jpg)![](../../../nordost/buhlau/strassen_buhlau/b_hlaubachmannstr.jpg)Die Bachmannstraße wurde 1905 als Seitenstraße der Bautzner Landstraße angelegt. Hier befand sich bis 1928 das von Paul Oswald Bachmann (1871-1923) gegründete [Sanatorium Bühlau](../../../nordost/buhlau/strassen_buhlau/sanatorium_buhlau/), nach dem die Privatstraße auf eigenen Wunsch hin ihren Namen erhielt. Am 7. Februar 1910 wurde sie gegen den Willen des Bühlauer Gemeinderates auf Beschluss der Kreishauptmannschaft Dresden als öffentliche Straße anerkannt, 1913 jedoch wieder eingezogen. Grund für diese Entscheidung war, dass Bachmann an der Einfahrt einen Torbogen errichten ließ, der den öffentlichen Verkehr behinderte. Nach dem Konkurs des Sanatoriums 1928 wurde der Bogen wieder abgetragen und die Straße unter Beihaltung ihres Namens wieder zum öffentlichen Verkehrsweg. Zugleich diente sie als oberer Zugang des [Bühlauer Freibades](../../../nordost/buhlau/freibad_buhlau/) (heute Waldseilpark).
 
-[![bautzner landstraße](../../../a_rectangle_177.gif)](../../../nordost/page10246/strassen_weisser_hirsch/bautzner_landstrasse/)
+## [Bautzner Landstraße](../../../nordost/page10246/strassen_weisser_hirsch/bautzner_landstrasse/)
 
-![](../../../nordost/buhlau/strassen_buhlau/b_hlauer_sch_tzensteig.jpg)
+## Bühlauer Schützensteig
 
 Der Straßenname Bühlauer Schützensteig erinnert an den früheren Bühlauer Schützenverein, der nach dem Ersten Weltkrieg hier ein Grundstück erworben hatte und als Schießplatz nutzte. Als Vereinshaus diente die [Gaststätte Zum Grünen Tal](../../../nordost/loschwitz/strassen_loschwitz/grundstrasse/) (Grundstraße 148), ab 1928 als Bühlauer Schützenhaus bezeichnet. Am 13. September 1938 wurde der Weg offiziell Bühlauer Schützensteig benannt. Seit der Auflösung des Vereins 1945 dient das Gebäude als Wohnhaus.
 
-![](../../../nordost/buhlau/strassen_buhlau/crostauer_weg.jpg)
+## Crostauer Weg
 
 Der Crostauer Weg verbindet die Wilthener Straße mit dem Gründelsteig und wurde erst am 2. November 1995 offiziell benannt. Mit der Benennung nach dem kleinen Ort Crostau, heute Ortsteil der Stadt Schirgiswalde-Kirschau, knüpfte man an die 1967 begonnene Tradition an, Bühlauer Straßen bevorzugt nach Orten in der Oberlausitz zu benennen.
 
-![](../../../nordost/buhlau/strassen_buhlau/cunewalder_stra_e.jpg)
+## Cunewalder Straße
 
 Die heutige Cunewalder Straße entstand als Planstraße Q und wurde am 7. März 1935 nach einem ostpreußischen Ort Marienwerder Straße genannt. Marienwerder war Hauptstadt des gleichnamigen Regierungsbezirkes in der Provinz Westpreußen und ist historisch eng mit dem Deutschen Orden verbunden. Da die deutschen Ostgebiete nach 1945 zu Polen gekommen waren, entschloss sich die Stadt Dresden, alle entsprechenden Straßennamen in Bühlau entsprechend zu ändern. In diesem Rahmen erhielt auch die Marienwerder Straße am 20. Januar 1967 ihren neuen Namen nach der Gemeinde Cunewalde in der Oberlausitz (Infos zu den Umbenennungen siehe Königsberger Straße).
 
 Im Wohnhaus Marienwerder Straße 11 lebte ab 1950 die Schriftstellerin Annemarie Reinhard, die zahlreiche Romane und Kinderbücher verfasste. 1956 wurde sie Mitglied des Vorstandes des DDR-Schriftstellerverbandes und war zeitweise Vorsitzende des Bezirksverbandes Dresden. Verheiratet war sie mit dem Schriftsteller Georg Reinhard-Fleischhauer, der unter dem Pseudonym Götz Gode mehrere historische Jugendbücher schrieb und von 1949-1953 als Lektor im Sachsenverlag arbeitete.
 
-![eibauer straße](../../../nordost/buhlau/strassen_buhlau/a_rectangle_1055.gif)
+## Eibauer Straße
 
 ![](../../../nordost/buhlau/strassen_buhlau/b_hlautrompeter2.jpg)Die heutige Eibauer Straße wurde 1893 als Trompeterstraße angelegt und verdankte ihren ursprünglichen Namen der gegenüberliegenden und noch bis heute existierenden Gaststätte [Trompeter](../../../nordost/page10246/strassen_weisser_hirsch/bautzner_landstrasse/) _(Foto)_. Zunächst führte sie nur bis zur Elisabethstraße, wurde 1898 jedoch verlängert. Da es im Stadtzentrum bereits eine Trompeterstraße gab, erfolgte nach der Eingemeindung Bühlaus 1926 die Umbenennung in Bromberger Straße. Bromberg war bis 1945 Hauptstadt eines Regierungsbezirks in der preußischen Provinz Posen und kam nach dem Zweiten Weltkrieg zu Polen. Seit dem 20. Januar 1967 heißt die frühere Bromberger Straße nach einer Gemeinde in der Oberlausitz Eibauer Straße.
 
 Nr. 17: Architektonisch interessant ist das 1963-1965 erbaute Einfamilienhaus Eibauer Straße 17. Der moderne Bau im kubischen Stil wurde von Kurt Nowotny entworfen und steht als Zeugnis der Nachkriegsmoderne unter Denkmalschutz. Bauherr war der Obermedizinalrat Dr. Werner Ludwig, Präsident des DRK in der DDR. Das in Hanglage errichtete Gebäude oberhalb der Grundstraße ist in modernem Stil, jedoch mit traditionellen Baumaterialien errichtet. Farbige Akzente setzen rote Klinkerwände. Einige Details wie Türen, Fenster und die Holzverkleidung im Obergeschoss sind heute verändert.
 
-![elisabethstraße](a_rectangle_1124.gif)
+## Elisabethstraße
 
 ![](../../../nordost/buhlau/strassen_buhlau/b_hlauelisabethstr.jpg)
 Die Elisabethstraße, welche im Westen Bühlaus die Bautzner Landstraße mit der Grundstraße verbindet, erhielt ihren Namen um 1870 nach der Unternehmersgattin Elisabeth Klemm. Deren Ehemann, der Kaufmann Alfred Klemm hatte die kleine Sackgasse Ende des 19. Jahrhunderts ausbauen und nach seiner Ehefrau benennen lassen. 1903 entstand ausgehend von der Grundstraße eine weitere Stichstraße, die nach ihrer Lage ab 1908 zunächst Bergstraße genannt wurde _(Foto)_. Noch vor dem Ersten Weltkrieg erfolgte eine Verbindung beider Abschnitte durch einen Fußweg, später durch eine ausgebaute Straße. Im Zusammenhang mit der Eingemeindung von Bühlau und Loschwitz erhielt diese am 1. Juni 1926 den einheitlichen Namen Elisabethstraße.
 
 Das Straßenbild der Elisabethstraße prägen bis heute überwiegend Villen und Landhäuser, welche meist in der Zeit kurz vor dem Ersten Weltkrieg entstanden. Dazu gehören das Landhaus Helgoland an der Einmündung in die Grundstraße (Nr. 2) und die Villen "Anna" und "Talblick" (Nr. 4 und 8). In der Elisabethstraße 3 betrieb bis zu seinem Tod 1942 der Heilpraktiker Alfred Hermann Richter sein Naturheilinstitut und Kurbad. In der 1915 als "Villa Minna" bezeichneten Nr. 14 lebte in den 1930er Jahren der Textilingenieur Alois Herzog (1872-1956), der ab 1920 Leiter der Biologischen Abteilung des Forschungsinstitutes für Textilindustrie war. Zudem lehrte er zwischen 1925 und 1939 und ab 1948 an der Technischen Hochschule als ordentlicher Professor für Papier- und Textiltechnologie. Bemerkenswert ist auch das Eckhaus zur Bautzner Landstraße (Nr. 19), in dem sich einst die Fleischerei Hering befand und das unter Denkmalschutz steht.
 
-![](../../../nordost/buhlau/strassen_buhlau/erkmannsdorfer_stra_e.jpg)
+## Erkmannsdorfer Straße
 
 Die Erkmannsdorfer Straße befindet sich im oberen Teil des Bühlauer Ortsteils Quohren und wurde am 26. September 1929 benannt. Erkmannsdorf ist ein kleiner Ort südlich von Radeberg, wird jedoch bereits seit 1560 zur besseren Unterscheidung in Groß- und Kleinerkmannsdorf aufgeteilt. Seit 1999 gehört die zuvor selbständige Gemeinde zu Radeberg.
 
@@ -60,23 +60,23 @@ Die Erkmannsdorfer Straße befindet sich im oberen Teil des Bühlauer Ortsteils 
 
 **_Foto:_** _Blick in die Erkmannsdorfer Straße im Winter 2021_
 
-![](../../../nordost/buhlau/strassen_buhlau/eschdorfer_stra_e.jpg)
+## Eschdorfer Straße
 
 Die Eschdorfer Straße zweigt im südlichen Teil des Bühlauer Ortsteils Quohren von der Quohrener Straße ab und entstand Ende der 1930er Jahre beim Bau einer neuen Wohnsiedlung. Seit dem 28. Januar 1939 trägt sie ihren Namen nach der Gemeinde [Eschdorf](../../../nordost/schonfeld-weissig/eschdorf/) im Schönfelder Hochland, welche seit 1999 ebenfalls ein Stadtteil von Dresden ist.
 
-![](../../../nordost/buhlau/strassen_buhlau/eschdorfer_weg.jpg)
+## Eschdorfer Weg
 
 Der nicht öffentlich gewidmete Eschdorfer Weg verbindet den von der Quohrener Straße abzweigenden Querweg mit dem Landsteig und wurde früher als Kirchweg bezeichnet. In der Nähe befindet sich der sogenannte "Bühlauer Blick", ein als Aussichtspunkt gestaltete Erhebung, die zugleich höchster Punkt des Stadtteils ist.
 
-![](../../../nordost/buhlau/strassen_buhlau/gartenstraße.jpg)
+## Gartenstraße
 
 Die heute nicht mehr benannte Gartenstraße zweigt vom früheren Grenzweg (heute Neugersdorfer Straße) in der Nähe Einmündung in die Bautzner Landstraße ab und ist erstmals im Bühlauer Adressbuch von 1903 erwähnt. Im Zuge der Eingemeindung Bühlaus wurde sie 1926 der Danziger Straße zugeordnet. Heute gehören die Gebäude zur Neugersdorfer Straße (Nr. 18-24).
 
-![](../../../nordost/buhlau/strassen_buhlau/gnaschwitzer_stra_e.jpg)
+## Gnaschwitzer Straße
 
 ![](../../../nordost/buhlau/strassen_buhlau/bühlaugnaschwitzerstr.jpg)Die Gnaschwitzer Straße entstand 1938 und wurde am 13. September offiziell Dirschauer Straße benannt. Die Stadt Dirschau liegt im ehemaligen preußischen Regierungsbezirk Danzig an der Weichsel und gehört seit 1945 zu Polen (Tczew). Da die Erinnerung an die früheren deutschen Ostgebiete in der DDR nicht erwünscht war, entschloss man sich, die entsprechenden Straßennamen zu verändern _(siehe dazu Königsberger Straße)_. In diesem Zusammenhang erhielt auch die Dirschauer Straße am 20. Januar 1967 einen neuen Namen. Gnaschwitz liegt in der Nähe von Bautzen und gehört heute als Ortsteil zu Doberschau-Gaußig.
 
-![großschönauer straße](../../../nordost/buhlau/strassen_buhlau/a_rectangle_1056.gif)
+## Großschönauer Straße
 
 ![](../../../nordost/buhlau/strassen_buhlau/b_hlau_großschönauer.jpg)Die frühere Neidenburger Straße entstand 1903 und erhielt am 9. April 1903 auf Beschluss des Bühlauer Gemeinderates den Namen Körnerstraße. Um Verwechslungen mit der Körnerstraße in der Inneren Neustadt zu vermeiden, erfolgte am 1. Juni 1926 die Umbenennung nach der Stadt Neidenburg in der Nähe von Königsberg. Da man zu DDR-Zeiten die Benennung von Straßen nach Orten in den ehemaligen deutschen Ostgebieten für ungeeignet erhielt, erfolgte 1967 eine größere Umbenennungsaktion, von der mehrere Bühlauer Straßen betroffen waren _(siehe dazu Königsberger Straße)_. In diesen Zusammenhang erhielt die Neidenburger Straße am 20. Januar 1967 ihren heutigen Namen nach der Webergemeinde Großschönau in der Oberlausitz.
 
@@ -92,7 +92,7 @@ _und Ludwig Renn (Nr. 30 - rechts)_
 
 Als Gründelsteig wird der von der Grundstraße aus ansteigende Fußweg zum Crostauer Weg bezeichnet. Am 6. Juni 1937 erhielt er nach seiner geografischen Lage in einem kleinen Taleinschnitt seinen heutigen Namen. Im Wohnhaus Nr. 8 wohnte viele Jahre der Verkehrswissenschaftler und Rektor der Hochschule für Verkehrswesen Prof. Dr. Gerhard Rehbein.
 
-[![grundstraße](../../../nordost/buhlau/strassen_buhlau/a_rectangle_203.gif)](../../../nordost/loschwitz/strassen_loschwitz/grundstrasse/)
+## [Grundstraße](../../../nordost/loschwitz/strassen_loschwitz/grundstrasse/)
 
 ![hainewalder straße](../../../nordost/buhlau/strassen_buhlau/hainewalder_straße.jpg)
 
@@ -100,7 +100,7 @@ Als Gründelsteig wird der von der Grundstraße aus ansteigende Fußweg zum Cros
 
 Weil man die Namensgebung vieler Bühlauer Straßen nach Orten in den ehemaligen deutschen Ostgebieten als nicht mehr zeitgemäß betrachtete, gab es 1967 eine große Umbenennungsaktion _(siehe Königsberger Straße)_. In diesem Zusammenhang erhielt die Tilsiter Straße am 20. Januar 1967 nach der Gemeinde Hainewalde bei Zittau den Namen Hainewalder Straße.
 
-![hegereiterstraße](../../../nordost/buhlau/strassen_buhlau/a_rectangle_1044.gif)
+## Hegereiterstraße
 
 Die Straße wurde Ende des 19. Jahrhunderts als Waldparkstraße angelegt und ist 1897 erstmals im Adressbuch zu finden. Nach der Eingemeindung Bühlaus erhielt sie am 1. Juni 1926 den Namen Hegereiterstraße. Ein solcher war in Bühlau bereits ab 1720 eingesetzt. Im Auftrag des Kurfürsten oblag dem Hegereiter die Hege und Pflege des zugewiesenen Forstreviers und der hier lebenden Wildbestände. Sein Amtssitz befand sich im Bühlauer Forsthaus, dessen Geschichte sich bis 1596 zurückverfolgen lässt. Bekanntester Bühlauer Hegereiter war der Forstmeister Beckmann, der sich auch als Schriftsteller betätigte. Sein Sohn legte um 1800 eine forstkundliche Sammlung mit ausgestopften Tieren und verschiedenen Holzproben an.
 
@@ -136,13 +136,13 @@ Nach 1990 wurden die kleinen Siedlungshäuser saniert und dabei modernen Ansprü
 
 Der Juliusweg am Rand der Dresdner Heide entstand bereits vor dem Zweiten Weltkrieg und wurde nach dem sächsischen Hofbuchdrucker Julius Walter Meinhold damals Walter-Meinhold-Weg genannt. Meinhold war ab 1877 Mitinhaber der bekannten [Druckerei Meinhold & Söhne](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Zinzendorfstrasse/Meinhold_Sohne/meinhold_sohne.html), die bis 1945 ihren Sitz auf der Zinzendorfstraße in der Pirnaischen Vorstadt hatte. Nach dem Krieg erfolgte aus unbekannten Gründen die Umbenennung in Juliusweg.
 
-![kirschauer straße](../../../nordost/buhlau/strassen_buhlau/a_rectangle_1046.gif)
+## Kirschauer Straße
 
 Die in der Nähe des Bühlauer Rathauses gelegene Kirschauer Straße entstand um 1908 als Planstraße N und erhielt im Anschluss den Namen Wiesenstraße, wobei wohl die damals noch weitgehend fehlende Bebauung den Ausschlag gab. Um eine Namensdoppelung zu vermeiden, erfolgte fünf Jahre nach der Eingemeindung am 1. Juni 1926 die Umbenennung in Lötzener Straße. Dabei wählte man wie bei den anderen zeitgleich erfolgten Neubenennungen den Namen einer ostpreußischen Stadt im früheren Regierungsbezirk Gumbinnen. Am 20. Januar 1967 erhielt die Straße ihren heutigen Namen nach dem Erholungsort Kirschau in der Oberlausitz.
 
 Von 1966 bis zu seinem Tod 1982 wohnte im Haus Kirschauer Straße 8 der Maler und Graphiker Wilhelm Rudolph, der durch seine Federzeichnungen des zerstörten Dresden bekannt wurde. Rudolph erhielt für seine Verdienste 1979 die Ehrenbürgerwürde der Stadt verliehen.
 
-![königsberger straße](../../../nordost/buhlau/strassen_buhlau/a_rectangle_1053.gif)
+## Königsberger Straße
 
 ![](../../../nordost/buhlau/strassen_buhlau/b_hlauk_nigsbergerstr.jpg)
 Die heutige Königsberger Straße wurde 1903 als Planstraße C angelegt und erhielt noch im gleichen Jahr den Namen Bismarckstraße. Zunächst bezog sich dieser Name nur auf den Abschnitt zwischen Milkeler und Bautzner Landstraße, während der westliche Abschnitt kurzzeitig Reinholdstraße genannt wurde. Wenig später übertrug man den Namen des früheren Reichskanzlers Otto von Bismarck auf den gesamten Straßenzug. Um Verwechslungen mit gleichnamigen Straßen zu vermeiden, erfolgte mit Wirkung vom 1. Juni 1926 eine umfassende Neubenennung fast aller Bühlauer Straßen. Dabei entschied man sich für Ortsnamen aus dem ostpreußischen Gebiet. In diesem Zusammenhang wurde die Bismarckstraße nach der Hauptstadt der Provinz in Königsberger Straße umbenannt.
@@ -351,7 +351,7 @@ Das Gebäude Königsberger Straße 8 diente vor dem Ersten Weltkrieg als Pension
 
 Der Landsteig befindet sich im Bühlauer Ortsteil Quohren und geht auf einen alten Feldweg zurück, der früher in Richtung Rochwitz führte. Ihren Namen trägt die Straße seit dem 28. Januar 1939.
 
-![langenauer weg](../../../nordost/buhlau/strassen_buhlau/a_rectangle_891.gif)
+## Langenauer Weg
 
 ![](../../../nordost/buhlau/strassen_buhlau/b_hlau_langenauerweg.jpg)Der Langenauer Weg wurde im Zusammenhang mit der Bebauung zuvor landwirtschaftlich genutzter Flächen am östlichen Bühlauer Ortsrand angelegt und am 3. November 1933 offiziell benannt. Namensgeber war, einer Bühlauer Tradition folgend, eine Ortschaft in Ostpreußen (heute Leganow) in der Nähe von Deutsch-Eylau (Ilawa). An dem als reine Anliegerstraße geplanten Weg entstanden in der Folge Einfamilienhäuser. Zeitweise gab es hier auch einen kleinen Lebensmittelladen (Nr. 10) und eine Kohlenhandlung (Nr. 11). Einige kriegsbedingt verbliebene Baulücken konnten in den 1980er und 1990er Jahren durch moderne Doppelhäuser geschlossen werden. Als einzige Bühlauer Straße blieb der Langenauer Weg bei der großen Umbenennungsaktion 1967 unberücksichtigt, wohl weil es in der Nähe von Freiberg ebenfalls einen Ort Langenau gibt.
 
@@ -383,7 +383,7 @@ Die Lotzdorfer Straße wurde Mitte der 1930er Jahre am östlichen Rand von Bühl
 
 Auch die Memeler Straße gehörte zu den Bühlauer Straßen, die bei der großen Umbenennungsaktion von Straßen, die nach Orten in den ehemaligen Ostgebieten benannt waren, einen neuen Namen _(siehe Königsberger Straße)_. Seit dem 20. Januar 1967 wird sie Milkeler Straße genannt. Der Ort Milkel liegt in der Nähe von Bautzen und gehört heute zu Radibor. Das Foto zeigt die Häusergruppe Milkeler Straße 29 und 31 aus den 1920er Jahren.
 
-![nachtflügelweg](../../../nordost/buhlau/strassen_buhlau/a_rectangle_1051.gif)
+## Nachtflügelweg
 
 ![](../../../nordost/buhlau/strassen_buhlau/b_hlauwaldpark.jpg)
 Der Name geht auf eine alte Flurbezeichnung der Dresdner Heide zurück. Ursprünglich wurde dieser Weg Nachtflügel genannt und führte bis zur Bautzner Landstraße. 1898 ist er als Nachtflügelweg erstmals in einer Akte erwähnt und bildet den nördlichen Abschluss des ab 1894 entstandenen Villenviertels Neubühlau. 1906 wurde dieser Weg zusammen mit der heutigen Milkeler Straße ausgebaut. Wenig später entstanden die ersten Wohnhäuser (Nr. 8 und 10) im zeittypischen Villenstil mit verschiedenen Schmuckelementen. Beide Gebäude stehen heute unter Denkmalschutz.
@@ -397,7 +397,7 @@ Nr. 12 diente einst wie viele Gebäude in Neubühlau als Fremdenheim (Pension Te
 
 Im Zuge der Umbenennung der als unzeitgemäß betrachteten Namensgebung nach Orten in den früheren Ostgebieten erhielt die Gilgenburger Straße am 20. Januar 1967 den Namen Neschwitzer Straße nach der Gemeinde Neschwitz in der Nähe von Bautzen. Das um 1930 errichtete Einfamilienhaus Neschwitzer Straße 4 steht als typisches Beispiel eines villenartigen Einfamilienhauses aus dieser Zeit unter Denkmalschutz _(Foto)_.
 
-![neubühlauer straße](../../../nordost/buhlau/strassen_buhlau/a_rectangle_1045.gif)
+## Neubühlauer Straße
 
 ![](../../../nordost/buhlau/strassen_buhlau/b_hlauneubstr.jpg)![](../../../nordost/buhlau/strassen_buhlau/b_hlauneub_hlauer5.jpg)Die Neubühlauer Straße wurde 1895 als König-Albert-Allee angelegt und in den folgenden Jahren mit villenartigen Wohnhäusern bebaut. Initiator des neuen Stadtviertels war Reinhold Ulbricht, der 1894 das Gelände erworben hatte und durch ein Straßennetz erschließen ließ. Ursprünglich führte sie nur bis zur Hegereiterstraße, wurde jedoch bis zum Zweiten Weltkrieg abschnittsweise verlängert. Mit Abschaffung der Monarchie veränderte man den Straßennamen 1921 zunächst in Albertstraße, bevor am 1. Juni 1926 der bis heute gültige Name eingeführt wurde.
 
@@ -413,7 +413,7 @@ Weitere historisch bemerkenswerte Bauten sind die Villen Nr. 1, Nr. 5 (Villa Cla
 
 Die Neudecker Straße erhielt ihren Namen am 3. November 1933 nach der Ortschaft Neudeck (heute Ogrodzieniec) in der Region Gebiet Ermland-Masuren, die seit 1945 zu Polen gehört. Als eine der wenigen nach Orten in den früheren Ostgebieten benannte Straße behielt sie auch bei der Umbenennungsaktion 1967 ihren Namen.
 
-![neukircher straße](../../../nordost/buhlau/strassen_buhlau/a_rectangle_1047.gif)
+## Neukircher Straße
 
 ![](../../../nordost/buhlau/strassen_buhlau/b_hlauneukircher3.jpg)
 Ebenso wie viele Bühlauer Straßen wechselte auch die am Rathaus von der Bautzner Landstraße abzweigende Neukircher Straße mehrfach ihren Namen. 1897 angelegt, wurde sie ab 1903 zunächst Südstraße genannt. Am 1. Juni 1926 erhielt sie im Zusammenhang mit der Eingemeindung des Ortes den Namen Darkehmer Straße. Darkehmen ist eine Kleinstadt im früheren Regierungsbezirk Gumbinnen und gehört heute zum russischen Oblast Kaliningrad (Königsberg). Der im Ersten Weltkrieg schwer zerstörte Ort war in den 1920 im Rahmen einer Patenschaft zum Wiederaufbau mit Dresden verbunden. 1938 erfolgte eine Umbenennung des Ortes in Angerapp nach dem Fluß, der durch diese Stadt fließt. Wenig später wurde deshalb auch die Darkehmer Straße in Angerapper Straße umbenannt. Beide Bezeichnungen knüpften an die Bühlauer Tradition an, Straßen nach Orten in West- und Ostpreußen zu benennen.
@@ -448,9 +448,9 @@ Die Oybiner Straße entstand um 1900 und wurde später mehrfach verlängert. Äl
 
 Das Foto zeigt das Wohnhaus Oybiner Straße 25 in den 1930er Jahren. Architektonisch bemerkenswert ist auch die um 1900 erbaute Mietvilla Nr. 26, ein unter Denkmalschutz stehender zeittypischer Putzbau mit aufwendigen Holzbalkons.
 
-[![quohrener straße](../../../nordost/buhlau/strassen_buhlau/a_rectangle_1048.gif)](../../../nordost/buhlau/strassen_buhlau/quohrener_strasse/)
+## [Quohrener Straße](../../../nordost/buhlau/strassen_buhlau/quohrener_strasse/)
 
-![reitzendorfer straße](../../../nordost/buhlau/strassen_buhlau/a_rectangle_948.gif)
+## Reitzendorfer Straße
 
 ![](../../../nordost/buhlau/strassen_buhlau/b_hlaureitzendstr2.jpg)![](../../../nordost/buhlau/strassen_buhlau/b_hlaureitzendstr.jpg)Das Areal südlich des Taubenberges wurde noch bis nach dem Ersten Weltkrieg landwirtschaftlich genutzt. Erst 1932 bildete sich der Verein "Siedler-Selbsthilfe Bühlau e.V.", der hier - ohne regulären Bebauungsplan - mit der Errichtung einer kleinen Wohnsiedlung begann. Die Häuser entstanden in einfachster Ausführung und befanden sich meist im Besitz gering verdienender Arbeiter und Angestellter _(Foto rechts)_. Am 12. Januar 1933 erhielt die zur Erschließung der Siedlung angelegte Straße nach dem benachbarten Ort Reitzendorf den Namen Reitzendorfer Straße. Bis zur Eingemeindung Schönfeld-Weißigs war das Areal höchster Punkt im Stadtgebiet.
 
@@ -460,7 +460,7 @@ Nach 1990 wurde die Reitzendorfer Straße in nördlicher und westlicher Richtung
 
 Die Rochwitzer Straße verbindet Bühlau mit dem benachbarten Oberrochwitz und existierte bereits im 19. Jahrhundert als Rochwitzer Weg. Im Volksmund wurde dieser auch Leichenweg genannt, da er einst dem Transport Verstorbener zum Schönfelder Friedhof diente. Amtlich trug die Straße ab 1901 auf Rochwitzer Flur den Namen Friedensstraße, in Bühlau Rochwitzer Weg. Im Zuge der Neubenennung der Bühlauer Straßen 1926 wurden beide Abschnitte unter dem Namen Rochwitzer Straße vereinigt. In der Nr. 1 gab es früher die Hunde-Dressur-Anstalt von Alfred Kretschmar. Zuvor hatte diese wohl mit einer heutigen Hundeschule vergleichbare Einrichtung ihren Sitz an den Teichen an der Ullersdorfer Straße.
 
-![rossendorfer straße](../../../nordost/buhlau/strassen_buhlau/a_rectangle_1052.gif)
+## Rossendorfer Straße
 
 Die nach dem kleinen Ort [Rossendorf](../../../nordost/schonfeld-weissig/rossendorf/), seit 1999 ebenfalls ein Stadtteil von Dresden, benannte Rossendorfer Straße entstand 1929 im Zusammenhang mit der Wohnanlage am Taubenberg. Vom 26. September 1929 bis zum 20. Januar 1967 war sie als Kolberger Straße in den Stadtplänen verzeichnet. Namensgeber war die heute zu Polen gehörende Stadt Kolberg in Pommern.
 
@@ -474,9 +474,9 @@ Hier errichtete der Spar- und Bauverein Bühlau und Umgebung um 1930 mehrere Woh
 
 Die nur wenige Meter lange Sohlander Straße zweigt von der Grundstraße ab und war ursprünglich nur als Platzanlage geplant. Am 14. Februar 1938 erhielt sie nach der Festung Graudenz an der Weichsel den Namen Graudenzer Straße und bestand 1943 nur aus einem einzigen Gebäude. Eine geplante Verlängerung über die Neukircher Straße bis zur Bautzner Landstraße kam nicht zustande. Im Zuge der Umbenennungsaktion von 1967 _(siehe Königsberger Straße)_ erhielt sie am 20. Januar 1967 den Namen Sohlander Straße. Namensgeber ist die Gemeinde Sohland an der Spree südlich von Bautzen.
 
-[![ullersdorfer platz](../../../nordost/buhlau/strassen_buhlau/a_rectangle_1049.gif)](../../../nordost/buhlau/strassen_buhlau/ullersdorfer_platz/)
+## [Ullersdorfer Platz](../../../nordost/buhlau/strassen_buhlau/ullersdorfer_platz/)
 
-![ullersdorfer straße](../../../nordost/buhlau/strassen_buhlau/a_rectangle_1050.gif)
+## Ullersdorfer Straße
 
 ![](../../../nordost/buhlau/strassen_buhlau/b_hlauerholung.jpg)Die Ullersdorfer Straße verbindet Bühlau mit dem benachbarten Dorf Ullersdorf, welches heute als Ortsteil zu Radeberg gehört. Ursprünglich wurden die hier gelegenen Häuser als Amtsgemeinde Bühlau bezeichnet, da sie direkt dem Dresdner Amt unterstanden. Im 16. Jahrhundert kam im nördlichen Teil noch die Waldarbeitersiedlung Dürr-Bühlau hinzu.
 
@@ -506,7 +506,7 @@ Die Wachauer Straße entstand Anfang der 1930er Jahre im Zusammenhang mit dem Au
 
 ![](../../../nordost/buhlau/strassen_buhlau/b_hlauwehrsdorfer10.jpg)Die heutige Wehrsdorfer Straße wurde erstmals in einem Bebauungsplan von 1906 als Planstraße G verzeichnet, blieb jedoch bis nach dem Ersten Weltkrieg unbebaut. Erst am 11. Februar 1925 erhielt sie den Namen Allensteiner Straße, benannt nach der Stadt Allenstein (heute Olsztyn) in Ostpreußen. Wie fast alle Bühlauer Straßen, deren Namen aus den einstigen deutschen Ostgebieten stammten, wurde auch die Allensteiner Straße zu DDR-Zeiten umbenannt. Seit dem 20. Januar 1967 wird sie nach der Oberlausitzer Gemeinde Wehrsdorf südlich von Bautzen als Wehrsdorfer Straße bezeichnet.
 
-![weißenberger straße](../../../nordost/buhlau/strassen_buhlau/a_rectangle_1563.gif)
+## Weißenberger Straße
 
 ![](../../../nordost/buhlau/strassen_buhlau/b_hlau_weißenberger.jpg)Die Weißenberger Straße entstand 1903 und wurde zunächst als Loschwitzer Straße bezeichnet. Drei Jahre später wechselte der Name in Schillerstraße. Geehrt werden sollte mit dieser Namensgebung der deutsche Dichter Friedrich Schiller, der einige Jahre im benachbarten Loschwitz gelebt hatte. Allerdings gab es auch in Loschwitz eine Schillerstraße, weshalb sich nach der Eingemeindung beider Orte nach Dresden 1921 eine Unbenennung erforderlich machte. Dabei entschied man sich für den Namen Tannenbergstraße, der am 1. Juni 1926 amtlich wurde. Der kleine Ort in der Nähe von Allenstein (heute Polen) wurde durch die Schlacht bei Tannenberg 1410 bekannt, in der der deutsche Ritterorden eine Niederlage gegen Polen und Litauer erlitt. Am 26. August 1914 kam es hier zu einer weiteren großen Schlacht, in der deutsche Truppen die nach Ostpreußen eingedrungene russische Armee bezwang. Als "Mythos von Tannenberg" wurde das Ereignis vor allem in der Nazizeit politisch missbraucht.
 

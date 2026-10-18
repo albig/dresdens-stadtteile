@@ -3,7 +3,7 @@ title: "Straßen und Plätze in Kleinzschachwitz"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![altkleinzschachwitz](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1433.gif)
+## Altkleinzschachwitz
 
 ![](klzaltkleinzschachw.jpg)Die frühere Hauptstraße von Kleinzschachwitz erhielt in Anlehnung an eine für fast alle
 Dresdner Stadtteile angewandte Tradition nach der Eingemeindung am 1. Juli 1926 den Namen Altkleinzschachwitz. Zuvor war sie ab 1878 der Augustinstraße zugeordnet und wurde 1902
@@ -12,13 +12,13 @@ Bauerngüter. Rund um die Straße haben sich noch einige Wohngebäude aus dem 18
 zwischen 1870 und 1910 und beherbergen bis zur Gegenwart Läden und Kleinunternehmen. Zwischen 1906 und 1932 verkehrte die [Dresdner Vorortbahn](../../../ost/niedersedlitz/dresdner_vorortbahn/) durch Altkleinzschachwitz.
 
 
-![am putjatinpark](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_481.gif)
+## Am Putjatinpark
 
 Die kleine Straße wurde 1994 im Zusammenhang mit dem Bau eines Wohnparks angelegt und ab 12. Mai 1995 Am Putjatinpark
 genannt. Ursprünglich befand sich auf dem Areal der parkartige Garten von Putjatins Villa Chaumière. Der Fürst hatte diesen im
 Stil der Romantik mit verschiedenen Kleinbauten, künstlichen Ruinen, Wasserläufen und einer Riesenschaukel ausstatten lassen. Leider sind von der einstigen Gestaltung kaum noch Reste erkennbar.
 
-![am sandberg](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1779.gif)
+## Am Sandberg
 
 ![](klzam_sandberg.jpg)
 Die heute Am Sandberg genannte Straße im Norden der Kleinzschachwitzer Flur entstand nach 1890 abzweigend von der Meußlitzer Straße und wurde anschließend mit Villen und
@@ -26,13 +26,13 @@ Landhäusern bebaut. Zunächst wurde sie Gartenstraße genannt. Am 25. Februar 1
 Johannstraße zu nennen. Die benachbarte Wiesenstraße erhielt zeitgleich nach dessen Gemahlin den Namen Amalienstraße. Nach der Eingemeindung von Kleinzschachwitz wurde die
 Johannstraße  am  1. Juni 1926 in Am Sandberg umbenannt.
 
-![](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/an_der_schiffswerft.jpg)
+## An der Schiffswerft
 
 Die aus zwei rechtwinklig verlaufenden Straßenteilen bestehende Straße an der Schiffswerft entstand 2013 zur Erschließung eines neuen Wohngebietes. Die Häuser
 wurden auf dem Grundstück des früheren Sägewerkes Spalteholz zwischen Meußlitzer Straße,
 Lockwitzbachgweg und Lockwitz errichtet. Ihren Namen erhielt sie nach der nahegelegenen [Laubegaster Werft](../../../ost/laubegast/schiffswerft_laubegast/).
 
-![augustinstraße](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_23.gif)
+## Augustinstraße
 
 Die Augustinstraße im Zentrum des Ortsteiles wurde Ende des 19. Jahrhunderts angelegt und 1878 nach Karl Gottlob Augustin
 (1800-1870) benannt. Augustin war ab 1854 Sparkassenkassierer bei der Dresdner Sparkasse und verfügte 1870 in seinem
@@ -44,7 +44,7 @@ Nr. 1:
 Das Gebäude entstand 1871 aus Mitteln der Augustin-Stiftung als Gemeindearmenhaus und wurde bis zum Bau eines
 größeren Gebäudes 1896 zur Unterbringung hilfsbedürftiger Familien genutzt. An der Fassade befindet sich eine Erinnerungstafel mit der Inschrift _Gestiftet von Karl Augustin MDCCCLXXI_.
 
-![august-röckel-straße](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1434.gif)
+## August-Röckel-Straße
 
 ![](klzbaldamusstr.jpg)
 Die August-Röckel-Straße im Villenviertel von Kleinzschachwitz verdankt ihren Namen dem Musikdirektor und Revolutionär August Röckel (1814-1876). Röckel wirkte ab 1843 in Dresden und gehörte gemeinsam mit Richard Wagner zu den
@@ -52,9 +52,9 @@ Führern des Maiaufstandes 1849. Später zu lebenslanger Haft verurteilt, wurde 
 1935 im Zusammenhang mit dem Bau einer neuen Wohnsiedlung angelegt und trug bis zum 2. Februar 1946 den Namen Baldamusstraße. Namensgeber war der deutsche
 Kampfflieger Hartmuth Baldamus (1893-1917). Baldamus stammte aus Dresden, ließ sich 1914 zum Piloten ausbilden und starb am 14. April 1917 bei einem Zusammenstoß mit einer gegnerischen Maschine in Frankreich.
 
-[![](berthold-haupt-stra_e.jpg)](../../../ost/leuben/strassen_leuben/berthold-haupt-strasse/)
+## [Berthold-Haupt-Straße](../../../ost/leuben/strassen_leuben/berthold-haupt-strasse/)
 
-![carl-borisch-straße](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1776.gif)
+## Carl-Borisch-Straße
 
 ![](klzcarl-borsch-str.jpg)Die Carl-Borisch-Straße im Kleinzschachwitzer Ortskern wurde 1894 von Carl Friedrich
 August Borisch (1826-1906) angelegt, der hier einige Grundstücke besaß und diese mit Wohnhäusern bebauen ließ. Borisch war viele Jahre im Gemeinderat des Ortes tätig. Nach
@@ -66,7 +66,7 @@ u.a. als Bibliothek, für soziale Zwecke und als Mietwohnhaus genutzt. Ein weite
 
 
 
-![c.-maria-v.-weber-straße](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1435.gif)
+## C.-Maria-V.-Weber-Straße
 
 Die 1898 angelegte Carl-Maria-von-Weber-Straße, im nördlichen Teil von Kleinzschachwitz gelegen, verdankt ihren Namen dem
 bekannten deutschen Komponisten Carl Maria von Weber (1786-1826), der viele Jahre seines Lebens in Dresden verbrachte
@@ -78,21 +78,21 @@ diesem sollte der deutsche Kampfflieger Manfred Freiherr von Richthofen (1892-19
 Militärfliegern des Ersten Weltkriegs gehörte. Da diese Bezeichnung jedoch als militaristisch galt, erfolgte bereits kurz nach
 Kriegsende am 27. September 1945 die Umbenennung in Karl-Maria-von-Weber-Straße. Auch einige weitere Straßen in diesem Stadtviertel erhielten neue Namen mit Bezug zu diesem Komponisten.
 
-![eichbergstraße](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1431.gif)
+## Eichbergstraße
 
 Die Eichbergstraße wurde Ende des 19. Jahrhunderts im Norden der Kleinzschachwitzer Flur angelegt. Ursprünglich trug sie den Namen Wiesenstraße.
 Am 25. Februar 1902 beschloss der Gemeinderat, die Wiesenstraße künftig nach der Gemahlin König Johanns, Königin Amalie (1801-1877) Amalienstraße zu benennen. Die benachbarte Gartenstraße wurde zugleich in Johannstraße
 umbenannt. Um Verwechslungen mit einer gleichnamigen Straße im Stadtzentrum zu vermeiden, erhielt die Amalienstraße am 1.
 Juni 1926 den Namen Eichbergstraße, wofür eine alte Flurbezeichnung Pate stand. 1899 wurden hier bei einem Hausbau Überreste acht bronzezeitlicher Urnengräber entdeckt, welche die frühere Besiedlung der Region nachweisen.
 
-![euryantheweg](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1438.gif)
+## Euryantheweg
 
 Der Euryantheweg entstand erst nach 1990 im Zusammenhang mit dem Bau einer kleinen Wohnsiedlung an der Oberonstraße. Die offizielle Benennung erfolgte am 24. Juni 1994.
 In Anlehnung an die Namen Oberon- sowie Freischützstraße soll mit dieser Namensgebung der dritten zu großen Teilen in Dresden entstandenen Weber-Oper gedacht werden. Euryanthe wurde am 25.
 Oktober 1823 in Wien uraufgeführt und ein halbes Jahr später zum ersten Mal in Dresden gespielt. Bereits 1943 ist an dieser
 Stelle ein namenloser Weg als Verbindung zwischen Hosterwitzer Straße und Oberonstraße im Stadtplan verzeichnet. Kriegsbedingt kam der hier vorgesehene Bau von Wohnhäusern jedoch nicht mehr zustande.
 
-![freischützstraße](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1437.gif)
+## Freischützstraße
 
 ![](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/kzwfreisch_tzstr.jpg)Mit der Namensgebung Freischützstraße soll an die wohl bekannteste Nationaloper Carl Maria von Webers Der Freischütz erinnert werden. Das Werk entstand zu großen Teilen in Hosterwitz und wurde am 8. Juni 1821 in Berlin uraufgeführt. Verfasser des Librettos war Friedrich Kind, dem in der Nachbarschaft ebenfalls mit einem Straßennamen gedacht wird. Bis zur Eingemeindung von Kleinzschachwitz nach Dresden wurde die Straße Kaiser-Wilhelm-Straße genannt. Danach trug sie ab 1. Juni 1926 bis 1946 den Namen Boelckestraße. Oswald Boelcke (1891-1916) war ein deutscher Jagdflieger und begründete die Grundlagen des modernen Luftkriegs, indem er als erster gezielte Angriffe gegen gegnerische Flugzeuge flog. 1916 kam er bei einem Einsatz in Frankreich ums Leben. Da diese Namensgebung als militaristisch galt, erfolgte am 16. Februar 1946 die Umbenennung in Freischützstraße.
 
@@ -102,7 +102,7 @@ Das Straßenbild prägen vorrangig Villen, von denen die ältesten kurz nach Anl
 
 _**Foto:** Der beschädigte Dampfer "Leipzig" unterhalb der Freischützstraße im Sommer 1945_
 
-![freystraße](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_24.gif)
+## Freystraße
 
 ![](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/kzwfreystr.jpg)Die Freystraße im Kleinzschachwitzer Villenviertel entstand
 1895 und verdankt ihren Namen dem früheren Revierförster Carl Friedrich August Frey (1816-1883). Frey hatte sich für den Erhalt des reichen Baumbestandes des Tännichts eingesetzt und gilt als Gründes des
@@ -111,7 +111,7 @@ Kleinzschachwitzer Waldparks. Zur Finanzierung des Vorhabens hinterließ er der 
 Zu den früheren Bewohnern der Straße gehörte der deutsch-jüdische Kaufmann Fritz Aron Meinhardt (1899-1943), der sich in der KPD engagierte und nach 1933 im Widerstand gegen
 das NS- Regime aktiv war. Am 23. April 1943 wurde er in Dresden hingerichtet. Meinhardt lebte 1828/29 im Haus Freystraße 1, später in Nickern, wo noch heute die [Fritz-Meinhardt-Straß](../../../sudost/nickern/strassen_nickern/) e an ihn erinnert.
 
-![friedrich-kind-straße](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1436.gif)
+## Friedrich-Kind-Straße
 
 Die Friedrich-Kind-Straße enstand 1898 und wurde zunächst nach dem sächsischen Fürstenhaus Wettiner Straße genannt. Nachdem Kleinzschachwitz 1921 Stadtteil von Dresden geworden war, erfolgte am 1. Juni 1926 die Umbenennung in Weddigenstraße. Kapitänleutnant Otto von Weddigen (1882-1915) war im Ersten Weltkrieg Kommandant des Unterseebootes
 U9 und versenkte im Herbst 1914 vor der niederländischen Küste vier englische Panzerkreuzer.
@@ -120,22 +120,22 @@ Am 16. Februar 1946 erhielt die Straße in Anlehnung an die in der Nachbarschaft
 Freischützstraße ihren neuen Namen zu Ehren des Dichters und Dramatikers Friedrich Kind (1768-1843). Kind wurde vor allem
 als Textdichter für Weber bekannt und verfasste das Libretto des Freischütz. Außerdem gehörte er dem romantischen Dresdner Liederkreis an und war Mitherausgeber der Abendzeitung.
 
-![goetzplatz](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1777.gif)
+## Goetzplatz
 
 ![](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/kzwgoetzplatz.jpg)Der Goetzplatz im Kleinzschachwitzer Zentrum wurde 1897 im Zuge der planmäßigen Umgestaltung des Ortes angelegt, wobei das dafür erforderliche Grundstück von einem
 Bauunternehmer kostenlos zur Verfügung gestellt wurde. Konzipiert wurde er als kleine Parkanlage, die von der Parkstraße (Storchenneststraße), der Friedrich-August-Straße (Zschierener Straße) und der Hosterwitzer Straße begrenzt ist. Bis zur Eingemeindung des Ortes trug er zu Ehren des deutschen Reichskanzlers Otto von Bismarck den Namen Bismarckplatz.
 
 Die am 1. Juni 1926 amtlich eingeführte heutige Namensgebung erinnert an den deutschen Arzt Ferdinand Goetz (1826-1915). Goetz betätigte sich auch als Politiker und gehörte einige Jahre dem Deutschen Reichstag an. Außerdem war er Geschäftsführer der Deutschen Turnerschaft.
 
-![gondelweg](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_453.gif)
+## Gondelweg
 
 Der Straßenname Gondelweg steht im Zusammenhang mit der nahegelegenen [Pillnitzer Elbfähre](../../../nordost/pillnitz/). Neben der großen Wagenfähre standen einst für den Transport der Mitglieder des Hofstaates drei Gondeln zur Verfügung, welche von in Kleinzschachwitz stationierten Soldaten bewegt wurden. Die letzte erhaltene Gondel ist noch heute im [Pillnitzer Schloßpark](../../../nordost/pillnitz/schloss_pillnitz/) zu sehen. Offiziell ist der Name Gondelweg seit 1901 in den Adressbüchern zu finden.
 
-![hartungstraße](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1144.gif)
+## Hartungstraße
 
 Die Hartungstraße im Kleinzschachwitzer Ortszentrum erhielt ihren heutigen Namen am 1. Juni 1926 und hieß zuvor ab 1895 Margarethenstraße. Dr. med. Ernst Leberecht Hartung (1851-1914) wohnte ab 1880 als erster Arzt im Ort und wurde als engagierter Bezirksanstalts-, Polizei- und Schularzt 1909 mit dem Titel Sanitätsrat geehrt. Außerdem gehörte er dem Gemeinderat an und hatte zeitweise das Amt des Gemeindeältesten inne. Nach dem Ausbau des Verbindungsstücks zwischen Kleinzschachwitz und Meußlitz wurde der Name Hartungstraße auch auf die Kirchstraße im benachbarten Meußlitz übertragen.
 
-![hosterwitzer straße](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1221.gif)
+## Hosterwitzer Straße
 
 ![](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/kleinzschhosterwitzerstr.jpg)Die Hosterwitzer Straße verläuft vom Waldpark Kleinzschachwitz ausgehend bis zum Elbufer und erhielt ihren Namen 1899 nach dem auf der anderen Elbseite gelegenen einstigen Fischerdorf [Hosterwitz](../../../nordost/hosterwitz/). Ende des 19. Jahrhunderts entstanden hier einige Villenbauten sowie das 1902 eingeweihte Kleinzschachwitzer [Rathaus](../../../ost/kleinzschachwitz/) mit Postamt (Nr. 2). Von 1998 bis 2018 nutzte ein Zentrum für ganzheitliche Medizin das auch als Kleines Kurhaus bezeichnete Gebäude.
 
@@ -145,7 +145,7 @@ Architektonisch interessant ist das 1935 vom Architekten Oswin Hempel für den A
 
 Die Inselstraße wurde um 1900 angelegt und ist ab 1902 als Planstraße mit dem Namen Sachsenallee in den Unterlagen verzeichnet. 1908 wird sie dann erstmals im Adressbuch genannt. Mit der Eingemeindung von Kleinzschachwitz wurde diese Namensgebung zur Vermeidung von Dopplungen ab 1. Juni 1926 in Inselstraße geändert. Der neue Name nimmt Bezug auf die Pillnitzer Elbinsel.
 
-![keppgrundstraße](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1432.gif)
+## Keppgrundstraße
 
 ![](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/kleinzschachwwasserturm.jpg)Die im Zusammenhang mit der Bebauung des Kleinzschachwitzer Villenviertels 1898 angelegte Keppgrundstraße erhielt ihren Namen am 1. Juni 1926 nach dem gegenüberliegenden romantischen [Keppgrund](../../../nordost/hosterwitz/keppgrund/) auf der anderen Elbseite. Zuvor trug sie zu Ehren des preußischen Generalfeldmarschalls Helmuth Karl Bernhard Graf von Moltke (1800-1891) den Namen Moltkestraße. Die Umbenennung war erforderlich, da es damals bereits in Pieschen eine Moltkestraße gab.
 
@@ -159,13 +159,13 @@ Am 15. August 1962 wurde sie in Max-Kayser-Straße umbenannt. Max Kayser (1853-1
 
 _Die Bilder in der Mitte und rechts zeigen die unter Denkmalschutz stehenden Villen Keppgrundstraße 17 und 18._
 
-[![kleinzschachwitzer ufer](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1422.gif)](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/kleinzschachwitzer_ufer/)
+## [Kleinzschachwitzer Ufer](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/kleinzschachwitzer_ufer/)
 
-![könig-albert-platz](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1778.gif)
+## König-Albert-Platz
 
 Der König-Albert-Platz wurde 1902 im Zusammenhang mit dem Ausbau des Villenviertels an der Kreuzung der Königs-Allee (heute Berthold-Haupt-Straße) mit der Kurhaus- bzw. der Freystraße angelegt und nach dem sächsischen König Albert (1828-1902) benannt. Zwischen 1906 und 1925 befand sich hier die Endstelle der [Dresdner Vorortbahn](../../../ost/niedersedlitz/dresdner_vorortbahn/). 1936 legte man an Stelle des König-Albert-Platzes die noch heute vorhandene Gleisschleife an. Der Platz selbst wurde daraufhin als Grünanlage neu gestaltet und die Bezeichnung aufgehoben.
 
-![](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/kurhausstra_e.jpg)
+## Kurhausstraße
 
 ![](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/kleinzschkurhaus.jpg)Die seit 1. Juni 1926 nach dem Kleinzschachwitzer [Kurhaus](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/kurhaus_kleinzschachwitz/) _(Foto rechts)_ benannte Straße trug ursprünglich den Namen Albertstraße. Mit der Namensgebung für die 1895 angelegte Straße sollte an den sächsischen König Albert (1828-1902), der bis 1902 regierte, erinnert werden. Ursprünglich begann sie am heute nicht mehr benannten König-Albert-Platz (Gleisschleife) und führte von dort in Richtung Ortskern. 1899 wurde sie bis zum Georgplatz (Altkleinzschachwitz) verlängert.
 
@@ -177,9 +177,9 @@ Ab 1906 verkehrte die [Dresdner Vorortbahn](../../../ost/niedersedlitz/dresdner_
 
 _Foto: Blick in die damalige Albertstraße um 1920_
 
-[![kyawstraße](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1423.gif)](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/kyawstrasse/)
+## [Kyawstraße](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/kyawstrasse/)
 
-![lockwitzbachweg](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1440.gif)
+## Lockwitzbachweg
 
 Der Lockwitzbachweg beginnt am Kleinzschachwitzer Ufer und führt von dort in Richtung Laubegast / Großzschachwitz. Seinen
 Namen erhielt er nach dem Lockwitzbach, welcher unweit dieses Weges in die Elbe mündet. Um 1900 wurde der nördliche Abschnitt des Weges Spalteholzstraße genannt. Namensgeber war der Kleinzschachwitzer Unternehmer Oswald Spalteholz.
@@ -187,7 +187,7 @@ Dieser hatte um 1875 eine ehemalige Ziegelei erworben und zum [Dampfsägewerk](.
 bedeutendsten Sägewerken in Sachsen und blieb bis 1906 in seinem Besitz. Noch bis in die 1960er Jahre wurde das Gelände
 zwischen Lockwitzbachweg, Kleinzschachwitzer Ufer und dem Wohngebiet an der Eichbergstraße von einem holzverarbeitenden Betrieb genutzt. 2013 entstand hier ein Wohnpark mit der neu angelegten Straße An der Schiffswerft.
 
-![meußlitzer straße](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1424.gif)
+## Meußlitzer Straße
 
 ![](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/kzwmeu_litzerstr.jpg)
 Die Meußlitzer Straße verläuft über Meußlitzer und Kleinzschachwitzer Flur und ist heute eigentliche Hauptstraße des Ortes. Bis zur Eingemeindung wurde sie Laubegaster Straße
@@ -205,19 +205,19 @@ Großzschachwitz, Sporbitz und Niedersedlitz sowie beim Bau des Kleinzschachwitz
 dem heute von der katholischen Kirche genutzten Grundstück Meußlitzer Straße 108, wo Noack um 1903 auch sein neues
 Wohnhaus bezog. Nach seinem Tod wurde der Betrieb von Alfred Jährig fortgeführt, welcher das Areal 1925 an die kurz zuvor entstandene katholische Kirchgemeinde verkaufte.
 
-![oberonstraße](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1428.gif)
+## Oberonstraße
 
 Die Oberonstraße wurde als kurze Seitenstraße des Kleinzschachwitzer Ufers angelegt und erhielt ihren Namen nach der 1826 in
 London uraufgeführten Oper Oberon von Carl Maria von Weber. 1993 entstand auf einer Freifläche zwischen Oberon- und
 Carl-Maria-von-Weber-Straße eine kleine Wohnsiedlung mit Reihen- und Doppelhäusern. In diesem Zusammenhang wurde die Straße verlängert.
 
-![peter-schmoll-straße](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1249.gif)
+## Peter-Schmoll-Straße
 
 Die Straße im Kleinzschachwitzer Opernviertel erhielt ihren Namen nach der komischen Oper Peter Schmoll und seine Nachbarn von Carl Maria von Weber. Das zu den unbekannteren Weber-Opern gehörende Werk um einen verarmten Bankier wurde 1803 in Augsburg uraufgeführt und 1944 auch in der Semperoper gespielt. Bis 1926 trug die Straße nach der sächsischen Königin den Namen Carolastraße. Danach wurde sie bis 1945 Pionierstraße genannt.
 
 Historisch und architektonisch interessant ist das Landhaus Nr. 9. Das Gebäude entstand 1906 im Jugendstil für den Tier- und Landschaftsmaler Franz Hochmann (1861-1935) und steht unter Denkmalschutz. Blickfang ist eine barocke Haustür von 1711, die Hochmann beim Abbruch eines Hauses in Lüdingworth in der Nähe von Cuxhaven erworben hatte und nach Dresden verbringen ließ. Der Architekt des Hauses C. G. Schramm ließ sich deshalb von norddeutschen Stilelementen leiten, die in die Gestaltung der Villa einflossen. Das Gebäude befindet sich bis heute in Familienbesitz. An Hochmann erinnert der [Hochmannweg](../../../sudost/leubnitz-neuostra/page14822/) im Dresdner Stadtteil Leubnitz-Neuostra.
 
-![putjatinstraße](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1429.gif)
+## Putjatinstraße
 
 ![](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/kleinzschachwputjatinstr.jpg)
 Die Putjatinstraße sowie der angrenzende Putjatinplatz im Kleinzschachwitzer Ortskern verdanken ihren Namen dem russischen Fürsten und Stifter Nikolaus Abramowitsch
@@ -237,7 +237,7 @@ Stelle älterer Vorgängerbauten errichten und beherbergen bis zur Gegenwart Lä
 
 Nach dem Ersten Weltkrieg gingen die Gästezahlen zunächst zurück, erlebten jedoch in den Dreißiger Jahren und kurz nach dem Zweiten Weltkrieg noch einmal einen Aufschwung. Zwischen Juli 1945 und 1947 diente die Goldene Krone als Quartier des Dresdner Operettentheaters, bevor die Bühne nach Leuben verlegt wurde. 1955 wurde der Saal geschlossen und an einen Tischlermeister verkauft, der hier Lagerräume und seine Werkstatt einrichtete. 1967 endete auch der Schankbetrieb. Heute werden die Räume gewerblich genutzt. Reste der einstigen Ausstattung sind noch erhalten.
 
-![storchenneststraße](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1780.gif)
+## Storchenneststraße
 
 ![](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/kzwstorchenneststr5.jpg)Der kuriose Name Storchenneststraße hat nichts mit Störchen zu tun, sondern erinnert an die
 frühere volkstümliche Bezeichnung der [Putjatin-Villa Chaumiére](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/putjatinhaus/). Das Haus besaß zu dessen
@@ -247,7 +247,7 @@ Ab 1873 besaß der Kunstmaler Otto Försterling (1843-1904) sein Wohn- und Ateli
 Illustrationen zum Liederzyklus Die schöne Müllerin von Wilhelm Müller (Das Wandern ist des Müllers Lust...). Das Gebäude wurde nach 1990 für den Bau einer Neubausiedlung
 abgerissen. Zu den erhaltenen älteren Gebäuden gehört das unter Denkmalschutz stehende Haus Storchenneststraße 5 _(Foto)_.
 
-![thömelstraße](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/a_rectangle_1430.gif)
+## Thömelstraße
 
 Die Thömelstraße entstand 1995 im Zusammenhang mit dem Bau einiger neuer Wohngebäude am Sportplatz. Ihren Namen erhielt
 sie nach dem ersten hauptberuflichen Kleinzschachwitzer Gemeindevorstand Emil Bernhard Thömel (1858-1941). Dieser hatte

@@ -5,13 +5,13 @@ date: 2024-02-17T22:13:39+01:00
 
 * * *
 
-![versöhnungskirche striesen wittenberger str.  96 01309 dresden  tel. 0351/3100670](../../../ost/striesen/versohnungskirche/a_rectangle_1135.gif)
+Versöhnungskirche striesen wittenberger str.  96 01309 dresden  tel. 0351/3100670
 
 **Öffnungszeiten für Besichtigungen:**
 
 **Mittwoch 17-19 Uhr**
 
-[![zur homepage der kirchgemeinde](../../../ost/striesen/versohnungskirche/a_rectangle_648.gif)](http://www.kirchgemeinde-dresden-blasewitz.de)
+## [Zur Homepage der Kirchgemeinde](http://www.kirchgemeinde-dresden-blasewitz.de)
 
 
 ![](../../../ost/striesen/versohnungskirche/striesvers_hnki.jpg)Die Versöhnungskirche an der Schandauer Straße entstand 1905/09 als zweites evangelisches Gotteshaus in Striesen, nachdem die bisher genutzte [Erlöserkirche](../../../ost/striesen/erloserkirche/) zu klein für die gewachsene Gemeinde geworden war. Die Pläne für den architektonisch interessanten Bau lieferten die Architekten Gustav Rumpel und Arthur Krutzsch. Beide waren Sieger eines Wettbewerbes, an dem sich zahlreiche Architekten und Professoren der Dresdner Kunstakademie beteiligt hatten. Die Grundsteinlegung erfolgte am 14. September 1905, die endgültige Fertigstellung am 20. Juni 1909.

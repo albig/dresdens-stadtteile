@@ -5,9 +5,9 @@ date: 2024-02-17T22:13:34+01:00
 
 * * *
 
-![kathol. kirche st. hubertus am hochwald 6-8 01324 dresden tel. 0351/2683308](../../../nordost/page10246/hubertuskirche/a_rectangle_1112.gif)
+Kathol. kirche st. hubertus am hochwald 6-8 01324 dresden tel. 0351/2683308
 
-[![homepage der katholischen pfarrei st. hubertus](../../../nordost/page10246/hubertuskirche/a_rectangle_1113.gif)](https://st-martin-dresden.de/st-martin/gemeinde-hirsch/)
+[Homepage der katholischen pfarrei st. hubertus](https://st-martin-dresden.de/st-martin/gemeinde-hirsch/)
 
 
 ![](../../../nordost/page10246/hubertuskirche/weihihubertusk.jpg)Die katholische Kirche St. Hubertus entstand 1936 für die Betreuung der katholischen Kurgäste und Bewohner des Ortes. Zuvor hatten gelegentliche Gottesdienste im Saal des Gasthofes Weißer Adler bzw. im Bühlauer Rathaus stattgefunden. 1928 erwarb Vikariatsrat Karl Rothe das Grundstück Am Hochwald 6-8, um hier ein Gotteshaus zu errichten. Für den Bau wählte man einen Entwurf des Architekten Robert Witte, welcher jedoch aus Kostengründen mehrfach überarbeitet wurde. Die Grundsteinlegung erfolgte am 20. September 1936. Nach knapp fünfmonatiger Bauzeit konnte die zunächst als Kapelle Weißer Hirsch bezeichnete Kirche am 31. Januar 1937 eingeweiht werden. Gestühl, Kanzel und eine Pieta wurden aus dem kurz zuvor von den Nazis geschlossenen St.-Benno-Gymnasium übernommen.

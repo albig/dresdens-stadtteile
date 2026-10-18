@@ -3,7 +3,7 @@ title: "Klärwerk Kaditz"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![stadtentwässerung dresden -eigenbetrieb-  marie-curie-str. 7 01139 dresden tel. 0351/8223344 (kundenservice)  störungshotline:  0351/8400866](../../../nordwest/kaditz/klarwerk/a_rectangle_1093.gif)
+Stadtentwässerung dresden -eigenbetrieb-  marie-curie-str. 7 01139 dresden tel. 0351/8223344 (kundenservice)  störungshotline:  0351/8400866
 
 [**Zur Homepage**](http://www.stadtentwaesserung-dresden.de)
 

@@ -54,7 +54,7 @@ Proschhübel:
 
 Nach dem Zweiten Weltkrieg dienten Teile des Proschhübels als Sandgrube und Mülldeponie. Am westlichen Ende entstand in der Nachkriegszeit einer der Dresdner Trümmerberge zur Ablagerung der Überreste der zerstörten Stadt. Mit Aufgabe der Militäranlagen erfolgte nach 1990 eine teilweise Renaturierung des Gebietes und Einbeziehung in den Grünzug "Carolapark". Dafür entstanden hier einige Wanderwege und ein Aussichtspunkt, von dem sich ein weiter Blick ins Elbtal bietet. Im Winter nutzen vor allem Kinder den Proschhübel als Rodelberg.
 
-[![straßen der albertstadt](../../neustadt/albertstadt/a_rectangle_486.gif)](../../neustadt/albertstadt/strassen_albertstadt/)
+## [Straßen der Albertstadt](../../neustadt/albertstadt/strassen_albertstadt/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

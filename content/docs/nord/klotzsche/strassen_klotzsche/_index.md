@@ -3,7 +3,7 @@ title: "Straßen und Plätze in Klotzsche"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![](../../../nord/klotzsche/strassen_klotzsche/ahlbecker_stra_e.jpg)
+## Ahlbecker Straße
 
 Die Ahlbecker Straße wurde in den 1970er Jahren im Zusammenhang mit dem Neubaugebiet an der Karl-Marx-Straße angelegt.
 Einer Klotzscher Tradition folgend, neue Straßen nach Orten im Ostseeraum zu benennen, erhielt sie 1974 den Namen Ahlbecker Straße.
@@ -18,14 +18,14 @@ Im Haus Alexander-Herzen-Straße 1 hatte früher die Klotzscher Ortskrankenkasse
 
 **_Fotos:_** _Das Haus Alexander-Herzen-Straße 1 (Villa Bismarck) um 1911 und 2011_
 
-[![](../../../nord/klotzsche/strassen_klotzsche/altklotzsche.jpg)](../../../nord/klotzsche/strassen_klotzsche/altklotzsche/)
+## [Altklotzsche](../../../nord/klotzsche/strassen_klotzsche/altklotzsche/)
 
-![](../../../nord/klotzsche/strassen_klotzsche/am_feldgeh_lz.jpg)
+## Am Feldgehölz
 
 Die Gebäude entstanden am Ende des Zweiten Weltkrieges als Notquartiere für Flüchtlinge und Ausgebombte. Für den Bau wurden u. a. Teile der Umkleidekabinen des [Waldbades Klotzsche](../../../nord/klotzsche/strassen_klotzsche/waldbad_klotzsche/) sowie der früheren Wandelhalle des Waldparks verwendet. Zunächst
 Behelfsheimsiedlung genannt, erhielt die Straße 1956 den Namen Am Feldgehölz. Nach 1990 wurde die kleine Siedlung durch moderne Einfamilienhäuser komplettiert.
 
-![](../../../nord/klotzsche/strassen_klotzsche/am_forsthaus.jpg)
+## Am Forsthaus
 
 Der auf der Grenze von Klotzsche zur Dresdner Heide führende Weg wurde wegen seiner Lage ursprünglich Grenzweg genannt.
 Einziges Gebäude war lange Zeit das Klotzscher Forsthaus mit dem Sitz der Königlichen Oberförsterei. Mit der Eingemeindung
@@ -35,30 +35,30 @@ Klotzsches gab es den Namen Grenzweg zweimal in Dresden, so dass man die Straße
 
 _Foto: Das Forsthaus Klotzsche um 1910_
 
-![](../../../nord/klotzsche/strassen_klotzsche/am_friedhof.jpg)
+## Am Friedhof
 
 Die Straße Am Friedhof entstand 1932 als Zufahrt zum [Neuen Friedhof Klotzsche](../../../nord/klotzsche/klotzscher_kirchen/) und wurde deshalb Friedhofstraße genannt. Eine
 Namensdoppelung nach der Eingemeindung führte 1953 zur Umbenennung in Am Friedhof.
 
-![](../../../nord/klotzsche/strassen_klotzsche/am_gr_nen_grund.jpg)
+## Am Grünen Grund
 
 Die in der zweiten Hälfte des 19. Jahrhunderts  angelegte Verbindung zwischen der heutigen Max-Hünig- und William-
 Shakespeare-Straße erhielt zunächst den Namen Hellerstraße. Der südliche Abschnitt bis zum Heller wurde hingegen um 1900 als
 Langer Weg bezeichnet. Dieser ist eines alten Botenweges, welcher auch unter der Bezeichnung Rennsteig bekannt war. 1905 ging
 der Name Hellerweg auch auf diesen Straßenteil über. Im Zusammenhang mit der Eingemeindung von Hellerau und Klotzsche erfolgte im September 1953 die Umbenennung in Am Grünen Grund.
 
-![](../../../nord/klotzsche/strassen_klotzsche/am_hellerrand.jpg)
+## Am Hellerrand
 
 ![](../../../nord/klotzsche/strassen_klotzsche/klotzhellerrand.jpg)Die Straße Am Hellerrand führt vom [Alten Friedhof Klotzsche](../../../nord/klotzsche/klotzscher_kirchen/) zur Klotzscher Hauptstraße. Da diese einst Teil des Fußweges nach Dresden war, ist sie in alten Karten als Dresdnischer Weg bezeichnet. Ende des 19. Jahrhunderts wurde sie dann Dresdner Straße genannt _(Foto um 1910)_. Um doppelte Straßennamen zu vermeiden, erfolgte nach der Eingemeindung Klotzsches 1953 die Umbenennung in Am Hellerrand. Abschnittsweise bildet sie zugleich die Flurgrenze zwischen Klotzsche und Hellerau.
 
 Bemerkenswert sind einige im Zusammenhang mit dem Bau der Gartenstadt Hellerau errichtete Wohngebäude. Die ersten Reihenhäuser entstanden 1910 nach Plänen von Richard Riemerschmid (Nr. 1 - 13). Die anschließende Wohnzeile Nr. 17 - 27 und das Haus Nr. 29 wurden von Hermann Muthesius entworfen, die Häuser Nr. 31 und 33 - 41 von Curt Frick.
 
-![](../../../nord/klotzsche/strassen_klotzsche/am_rasen.jpg)
+## Am Rasen
 
 Die kurze Sackgasse entstand Ende der 1920er Jahre als Nebenstraße des Schänkenwegs. 1930 ist sie unter dem Namen
 Wiesenstraße im Adressbuch verzeichnet. Nach der Eingemeindung Klotzsches erfolgte im September 1953 die Umbenennung in Am Rasen.
 
-![](../../../nord/klotzsche/strassen_klotzsche/am_steinacker.jpg)
+## Am Steinacker
 
 ![](../../../nord/klotzsche/strassen_klotzsche/klotzsche_am_steinacker.jpg)Der Straßenname Am Steinacker nördlich des Dorfkerns geht auf eine alte Klotzscher
 Flurbezeichnung zurück. Die hier abgelagerten Steine stammen aus der letzten Eiszeit.
@@ -66,48 +66,48 @@ Flurbezeichnung zurück. Die hier abgelagerten Steine stammen aus der letzten Ei
 Die Häuser wurden zwischen 1920 und 1934 durch die Siedlervereinigung Am Steinacker e. V.
 erbaut. Vorstandsvorsitzender war Kurt Wachtveitl, der 1945 erster Bürgermeister der Nachkriegszeit in Klotzsche wurde. 1943/44 entstand an der Straße ein nach Kriegsende gesprengter ziviler Luftschutzbunker.
 
-![](../../../nord/klotzsche/strassen_klotzsche/am_steinborn.jpg)
+## Am Steinborn
 
 Die Quelle am Steinborn war möglicherweise Ausgangspunkt der Gründung Klotzsches. Im Mittelalter galt deren Wasser als wohltätig
 und wurde deshalb in einer nahen Kapelle als Weihwasser verwendet. 1583 entstand in der Nähe ein kurfürstliches Jagdhaus mit Stallgebäude, woraufhin die Quelle den Namen Fürstenborn
 erhielt. Das Wasser wurde in hölzernen Röhren in die Pferdeställe geleitet und diente zur Versorgung des Anwesens. Im Dreißigjährigen Krieg wurde dieses Jagdhaus 1637 zerstört. Die zuvor Am Fürstenborn
 genannte Straße trägt seit 1945 den Namen Am Steinborn. Reste der Brunnenanlage blieben in einem Privatgrundstück erhalten und sind dort durch ein kleines Sandsteingewölbe vor Verunreinigung geschützt.
 
-![](../../../nord/klotzsche/strassen_klotzsche/am_trobischberg.jpg)
+## Am Trobischberg
 
 Die Bezeichnung Trobischberg geht auf einen alten Flurnamen zurück Einst besaßen Angehörige einer im Klotzscher Raum weit
 verzweigten Bauernfamilie Trobisch hier ihre Felder. Die Siedlung Am Trobischberg entstand zwischen 1927 und 1931 auf Initiative
 des Pharmazeuten Max Glausch, der das benötigte Grundstück der Gemeinde kostenlos zur Verfügung stellte. Die modern
 ausgestatteten Doppelhäuser wurden anfangs bevorzugt an Kriegsversehrte des Ersten Weltkriegs vergeben und von Professor Oswin Hempel entworfen.
 
-![](../../../nord/klotzsche/strassen_klotzsche/am_waldblick.jpg)
+## Am Waldblick
 
 Die heutige Straße wurde erstmals 1897 im Klotzscher Adressbuch aufgeführt und trug damals den Namen Forststraße. Grund war
 die Lage der Straße am Rande der Dresdner Heide. Im September 1953 erfolgte die Umbenennung in Am Waldblick.
 
-![](am_wasserwerk.jpg)
+## Am Wasserwerk
 
 Die Straße Am Wasserwerk wurde 2005 im Zusamenhang mit dem Bau einer neuen Wohnsiedlung angelegt. Der Name erinnert an das frühere Klotzscher [Wasserwerk](../../../nord/klotzsche/), welches 1899 von Baurat Salbach an der Königsbrücker Landstraße errichtet worden war. In
 der Nachkriegszeit wurde der Betrieb stillgelegt. Bis 2009 entstanden hier insgesamt 24 Einfamilien- und Doppelhäuser der Siedlung Wohnerlebnis am Königswald.
 
-![](../../../nord/klotzsche/strassen_klotzsche/an_den_ruschewiesen.jpg)
+## An den Ruschewiesen
 
 ![](../../../nord/klotzsche/strassen_klotzsche/klotzruschewiesen.jpg)Die Bezeichnung An den Ruschewiesen geht vermutlich auf einen früheren Klotzscher Flurnamen zurück. Als Rusche wurden einst einfache Alarmanlagen bezeichnet, bei denen in Kriegszeiten von besonders hohen Bäumen Wachposten auf Bretter schlugen, um die Bewohner des Dorfes zu warnen. Da in unmittelbarer Nähe der Klotzscher Ruschewiesen einst wichtige Handelswege entlangführten, sicherte man diesen Platz mit Wassergräben und ähnlichen einfachen Hilfsmitteln.
 
 Der Name Rusche tauchte früher auch in der Bezeichnung Ruscheborn und Ruscheweg auf, wie die heutige Greifswalder Straße noch bis zum Ersten Weltkrieg genannt wurde. Das Bild zeigt die Wohnsiedlung An den Ruschewiesen um 1950. Die Häuser wurden Mitte der Dreißiger Jahre für Angestellte des Flughafens erbaut. Seinen Namen hatte der zuvor unbenannte Weg bereits 1929 erhalten. Im gleichen Jahr eröffnete im Haus Nr. 4 ein Kindergarten.
 
-![](../../../nord/klotzsche/strassen_klotzsche/an_der_nordsiedlung.jpg)
+## An der Nordsiedlung
 
 Die Straße wurde 1935 unter dem Namen Siedlerstraße angelegt. Die hier entstandenen Häuser dienten vorrangig der Unterbringung
 der Angestellten des Klotzscher Flughafens und der Luftkriegsschule. Im September 1953 erfolgte die Umbenennung in An der Nordsiedlung.
 
-![](../../../nord/klotzsche/strassen_klotzsche/arkonastra_e.jpg)
+## Arkonastraße
 
 Die Arkonastraße wurde Ende der Zwanziger Jahre angelegt und ist 1930 erstmals unter dem Namen Gabelsbergerstraße im
 Adressbuch verzeichnet. Diese Namensgebung erfolgte nach dem Begründer der Stenographie Franz Xaver Gabelsberger
 (1789-1849). Im September 1953 erhielt sie ihren heutigen Namen Arkonastraße. Da es in der Umgebung bereits mehrere nach Orten im Ostseeraum benannte Straßen gab, wählte man das Kap Arkona auf Rügen als Namensgeber.
 
-![](../../../nord/klotzsche/strassen_klotzsche/binzer_weg.jpg)
+## Binzer Weg
 
 Der Binzer Weg entstand nach 1980 beim Bau des Neubaugebietes am der Grenzstraße. 1985 erhielt er seinen Namen nach dem Ostseebad Binz.
 
@@ -117,7 +117,7 @@ Der Boltenhagener Platz wurde als Vorplatz der [Christuskirche](../../../nord/kl
 
 Zu den Bewohnern der umliegenden Villen gehörte zeitweise der sächsische Oberkirchenrat und Superintendent Armin Oskar Colditz (Nr. 9). Nach 1945 war hier die sowjetische Ortskommandantur untergebracht.
 
-![](../../../nord/klotzsche/strassen_klotzsche/boltenhagener_stra_e.jpg)
+## Boltenhagener Straße
 
 ![](../../../nord/klotzsche/strassen_klotzsche/klotzboltenhagenerstr.jpg)![](../../../nord/klotzsche/strassen_klotzsche/klotzquerallee.jpg) Die Boltenhagener Straße bildet die Hauptverbindungsstraße zwischen [Dorfkern](../../../nord/klotzsche/strassen_klotzsche/altklotzsche/) und der Ende des 19. Jahrhunderts entstandenen Villenkolonie Königswald. Bereits zuvor war sie eine der wichtigsten Fahrstraßen des Dorfes. Ursprünglich Querweg genannt, wechselte die Boltenhagener Straße mehrfach ihren Namen: Querallee, ab 1933 Adolf-Hitler-Straße, ab 1945 Marschall-Stalin-Straße. Ihren heutigen Namen erhielt sie 1950 nach dem Seebad Boltenhagen, womit an die Tradition angeknüpft wurde, Klotzscher Straßen nach Orten im Ostseegebiet zu benennen.
 
@@ -140,17 +140,17 @@ Erinnerung an die beiden einstigen Klotzscher Dorfschmieden in Schmiedeschänk
 Konzertgarten erweitern. In einem Seitengebäude befand sich bis in die 1930er Jahre eine Mosterei. Die beliebte Gaststätte schloss in den 1960er Jahren ihre Pforten. Das Gebäude diente fortan als Schulhort der
 83\. POS. 1997 wurde hier nach kompletter Renovierung wieder eine Gaststätte mit Pension eröffnet _(Foto)_.
 
-![brueghelstraße](../../../nord/klotzsche/strassen_klotzsche/a_rectangle_904.gif)
+## Brueghelstraße
 
 Die Brueghelstraße wurde Mitte der 1930er Jahre im Zuge des Ausbaus der Nordsiedlung angelegt und zunächst nach einer
 Flurbezeichnung An den Teichwiesen genannt.  Ihren heutigen Namen erhielt sie im Februar 1956 nach dem niederländischen Maler
 und Zeichner Pieter Brueghel d. Ä. (um 1525-1569). Brueghel schuf vor allem Darstellungen des ländlichen Lebens in seiner Heimat, was ihm den Beinamen Bauern-Brueghel einbrachte.
 
-![](../../../nord/klotzsche/strassen_klotzsche/darwinstra_e.jpg)
+## Darwinstraße
 
 ![](../../../nord/klotzsche/strassen_klotzsche/klotzvillaodin.jpg)Die Ende des 19. Jahrhunderts im Ortsteil Königswald angelegte und 1901 nach dem Komponisten und Hofkapellmeister Richard Wagner (1818-1883) benannte frühere Richard-Wagner-Straße erhielt nach der Eingemeindung Klotzsches 1953 ihren heutigen Namen Darwinstraße. Charles Darwin (1809-1982) gehört zu den bedeutendsten Naturforschern des 19. Jahrhunderts und begründete die Abstammungstheorie der Arten. Die frühere Villa Odin (Darwinstraße 19 - _Foto_) diente seit 1927 als Ordensniederlassung der Klarissen-Kapuzinerinnen und wird heute als katholische [Heilig-Kreuz-Kapelle](../../../nord/klotzsche/klotzscher_kirchen/) genutzt. Im Haus Nr. 11 begand sich einst die Familien- und Kurpension Tristan, welche mit Diätkuren streng nach ärztlicher Vorschrift, Bädern im Haus und komfortabel eingerichteten Zimmern warb. In der Nr. 2 lebte ab 1927 der als Dokumentarfilmer bekannt gewordene Ingenieur Wolfgang Filzinger.
 
-![](../../../nord/klotzsche/strassen_klotzsche/d_rnichtweg.jpg)
+## Dörnichtweg
 
 Die Straßenbezeichnung Dörnichtweg geht auf einen früheren Klotzscher Flurnamen zurück. Anlass für diese Namensgebung war der karge Bewuchs in diesem Gebiet. Der Weg gehört zu den ältesten Verkehrsverbindungen des Ortes und führte vom alten Ortskern in nordöstliche Richtung zu den Weideflächen der Bauern. 1897 ist er erstmals als Dörnigtweg in Ortsplänen verzeichnet. Später erfolgte eine Änderung der Schreibweise und eine Verlängerung bis zur Grenzstraße.
 
@@ -158,39 +158,39 @@ In den 1960er Jahren entstanden zwischen Dörnichtweg und Karl-Marx-Straße mehr
 
 ![](../../../nord/klotzsche/strassen_klotzsche/klotzdörnichtweg.jpg)Nr. 32 (Haus Glausch): Das Haus entstand 1922 nach Plänen des Architekten Oswin Hempel für den Apotheker Maximilian Glausch. Glausch gehörte zu Beginn des 20. Jahrhunderts zu den Honoratioren Klotzsches und setzte sich für gemeinnützige Belange ein. Nach dem Ersten Weltkrieg stellte er das Land für den Bau der Trobischberg-Siedlung zur Verfügung, um hier Häuser für ehemalige Soldaten bauen zu lassen. Zudem spendete er Geld für den Bau des Kindergartens "An den Ruschwiesen". Sein früheres Wohnhaus am Dörnichtweg wird heute ebenfalls als Kita genutzt ("Fröbelzentrum").
 
-![fichtestraße](../../../nord/klotzsche/strassen_klotzsche/a_rectangle_1846.gif)
+## Fichtestraße
 
 Die Fichtestraße, zwischen Zinnowitzer und Tichystraße gelegen, trug ursprünglich den Namen Ebertstraße. Namensgeber war der
 Sozialdemokrat Friedrich Ebert (1871-1925), erster Reichspräsident der Weimarer Republik. Nach der Machtübernahme der
 Nationalsozialisten wurde sie 1933 nach dem deutschen Philosophen Johann Gottlieb Fichte (17621814) umbenannt. Fichte wurde in
 Rammenau bei Bischofswerda geboren und gilt als wichtigster Vertreter des deutschen Idealismus.
 
-![](../../../nord/klotzsche/strassen_klotzsche/florianstra_e.jpg)
+## Florianstraße
 
 ![](../../../nord/klotzsche/strassen_klotzsche/klotzflorianstr1.jpg)Die Florianstraße beginnt am Boltenhagener Platz und enstand 1913. Zunächst wurde sie bis 1945 nach dem preußischen Generalfeldmarschall Helmuth Karl Bernhard von Moltke (18001891) Moltkestraße genannt. Wegen dieses militärischen Bezugs erfolgte bereits im Mai 1945 die Umbenennung in Friedensstraße. Da es jedoch in Dresden bereits eine Friedensstraße gab, entschied
 man sich nach der Eingemeindung Klotzsches im September 1953 zu einer erneuten Namensänderung in Florianstraße.
 
 In der von Woldemar Kandler errichteten Villa Nr. 1 befand sich einst die Pension Villa Columbia _(Foto)_.
 
-![](../../../nord/klotzsche/strassen_klotzsche/flughafenstra_e.jpg)
+## Flughafenstraße
 
 Die Flughafenstraße wurde 1935 als Zufahrt zum [Flughafen Klotzsche](../../../nord/klotzsche/flughafen/) angelegt und mündete dort in den heute nicht mehr benannten
 Immelmannplatz. 1945 erfolgte die Umbenennung in Karl-Marx-Straße. Mit diesem Namen sollte der deutsche Philosoph und
 Ökonom Karl Marx (1818-1883) geehrt werden, der als wichtigster Theoretiker des Sozialismus und Kommunismus gilt. Im Februar
 1993 beschloss der Dresdner Stadtrat, ein Teilstück der Karl-Marx-Straße zwischen Boltenhagener Straße und Flughafen wieder in Flughafenstraße rückzubenennen.
 
-![](../../../nord/klotzsche/strassen_klotzsche/flurstra_e.jpg)
+## Flurstraße
 
 Die Flurstraße entstand 1902 und hieß zunächst Hainstraße. Um Verwechslungen mit einer gleichnamigen Straße in der Inneren
 Neustadt zu vermeiden, erfolgte nach der Eingemeindung Klotzsches im September 1953 die Umbenennung in Flurstraße.
 
-![](../../../nord/klotzsche/strassen_klotzsche/georg-estler-stra_e.jpg)
+## Georg-Estler-Straße
 
 ![](../../../nord/klotzsche/strassen_klotzsche/klotzg-estler-str.jpg)Die frühere Carolastraße in der Nähe des Klotzscher Bahnhofes wurde nach der Eingemeindung des Ortes in Siegfried-Rädel-Straße umbenannt. Rädel (1893-1943) gehörte der KPD an und war einige Jahre Mitglied des Reichstages. 1993 erhielt sie den Namen Georg-Estler-Straße. Georg Estler (1860-1954) war als Landschaftsmaler tätig und wohnte viele Jahre in Klotzsche auf der Carolastraße 3. Sein Grab befindet sich auf dem Alten Klotzscher Friedhof. Das Straßenbild prägen vor allem Villen, die früher teilweise auch als Pensionen genutzt wurden. So gab es in der Nr. 5 einst die Pension "Quisisana", die in Prospekten als "vornehme Familien- und Kurpension" mit ihrer Nähe zum Bahnhof, zum Waldpark und zum Prießnitzgrund warb.
 
 Nr. 8: Zu den bemerkenswerten Gebäuden gehört die Villa Georg-Estler-Straße 8 _(Foto)_, welche 1887 nach Plänen des Architekten Ernst Friedrich Giese errichtet wurde. Bauherr des einst Villa Burgfrieden genannten Hauses war der Stukkateur Carl Hauer, der als einer der ersten Künstler überhaupt Kunstmarmor verwendete und u.a. den Altar der Klotzscher Christuskirche schuf. 1940 verkauften seine Nachkommen das Haus an eine Kaufmannsfamilie. Nach deren Wegzug in den Westen kam es 1958 in den Besitz der Stadt, welche hier Mietwohnungen einrichtete. Nach erfolgreicher Restitution 1995 wurde die Villa denkmalgerecht saniert und dient heute Wohnzwecken.
 
-![](../../../nord/klotzsche/strassen_klotzsche/gertrud-caspari-stra_e.jpg)
+## Gertrud-Caspari-Straße
 
 Die Gertrud-Caspari-Straße wurde 1859 im Zusammenhang mit dem Ausbau des Villenviertels Königswald angelegt und hieß ursprünglich Auenstraße. Als wichtige öffentliche Gebäude entstanden hier 1896 die [Grundschule](../../../nord/klotzsche/) Klotzsche-Königswald (Nr. 9) und 1936 das neue Klotzscher [Postamt](../../../nord/klotzsche/) (Nr. 10), welches seit 2017 als Gemeindehaus der evangelischen Kirchgemeinde genutzt wird. Im Haus Nr. 12 befindet sich das Pfarramt der Christuskirche. Nach Eingemeindung des Ortes wurde die Straße 1954 nach der Kinderbuchillustratorin Gertrud Caspari (1873-1948) benannt, die viele Jahre in Klotzsche lebte.
 
@@ -198,7 +198,7 @@ Die Gertrud-Caspari-Straße wurde 1859 im Zusammenhang mit dem Ausbau des Villen
 
 **_Foto:_** _Blick in die Auenstraße zur Christuskirche_
 
-![](../../../nord/klotzsche/strassen_klotzsche/geschwister-scholl-stra_e.jpg)
+## Geschwister-Scholl-Straße
 
 ![](../../../nord/klotzsche/strassen_klotzsche/klotzgschollstr.jpg)Die ersten Häuser an dieser Straße entstanden 1928/29 durch die Arbeitsgemeinschaft Eigenwerk e. V.. Das Bauland hatte der Verein von der Klotzscher Familie Hüttig günstig erworben. Die Siedlung sollte Auftakt für weitere Wohnviertel in diesem Gebiet sein. Der Bau des Flughafens verhindert jedoch alle weiteren Pläne. Stattdessen mussten sogar sechs Wohnhäuser der Ödlandsiedlung am Ende der Straße 1934 wieder abgerissen werden.
 
@@ -235,17 +235,17 @@ Nr. 11: Auch die benachbarte Villa Baldur, um 1900 nach Plänen von Richard Otto
 
 ![](../../../nord/klotzsche/strassen_klotzsche/klotzgoethe18_2.jpg)![](../../../nord/klotzsche/strassen_klotzsche/klotzvillagesundbrunnen.jpg)Institut für Wirbeltuberkulose: Zu den wichtigen medizinischen Einrichtungen Klotzsches gehörte das 1926 auf der Goethestraße im früheren Fremdenheim Doehn gegründete Institut für Wirbeltuberkulose. Leiter war der aus Livland stammende und 1918 emigrierte Arzt Prof. Dr. med. Julius von Finck. Für die Heilstätte nutzte dieser zunächst die Villa Gesundbrunnen (Nr. 18), ab 1943 auch die benachbarte Villa Harzer (Nr. 17). Behandelt wurden vor allem Kinder und Jugendliche, die an der bislang als unheilbar geltenden Buckelkrankheit litten. Julius von Finck führte sein Institut auch nach 1945 bis zu seinem Tod im April 1951 weiter. Wenig später wurde die Privatklinik in die Medizinische Akademie eingegliedert. Das Gebäude in Klotzsche nutzte ab 1972 die Poliklinik Dresden-Mickten als Außenstelle. Heute dient die Villa Gesundbrunnen als Ärztehaus.
 
-![](../../../nord/klotzsche/strassen_klotzsche/g_hrener_weg.jpg)
+## Göhrener Weg
 
 Der Göhrener Weg entstand in den 1980er Jahren beim Bau des Neubaugebiet an der Selliner Straße. Wie zahlreiche weitere Straßen
 in diesem Viertel erhielt er seinen Namen 1985 nach einem Ort im Ostseeraum, dem Ostseebad Göhren auf der Insel Rügen.
 
-![](../../../nord/klotzsche/strassen_klotzsche/granitzer_weg.jpg)
+## Granitzer Weg
 
 Ebenso wie andere Straßen in Klotzsche verdankt auch der Granitzer Weg seinen Namen einem Ort an der Ostsee. Granitz auf der
 Insel Rügen ist vor allem durch sein gleichnamiges Jagdschloss bekannt. Am Granitzer Weg entstanden Mitte der 1980er zahlreiche Eigenheime.
 
-![](../../../nord/klotzsche/strassen_klotzsche/greifswalder_stra_e.jpg)
+## Greifswalder Straße
 
 ![](../../../nord/klotzsche/strassen_klotzsche/klotzgreifswstr.jpg)Die heutige Greifswalder Straße hieß ursprünglich Parkstraße, bevor sie, ebenso wie zahlreiche weitere
 Straßen in Klotzsche, nach einer Stadt an der Ostsee benannt wurde. Vor dem Ausbau um 1900 wurde sie Ruscheweg genannt. Bereits Mitte des 17. Jahrhunderts führte dieser Weg an den sogenannten Ruschewiesen vorbei. Als Rusche wurden einfache Alarmanlagen aus Brettern bezeichnet, bei denen in
@@ -259,7 +259,7 @@ erhalten ist. Architekt der Villa war Woldemar Kandler, der auch die Christuskir
 seinem Tod auf dem Alten Friedhof Klotzsche beigesetzt. Nach 1945 war das Haus zeitweise Sitz des sowjetischen Geheimdienstes. Architektonisch interessant sind auch die benachbarten Häuser
 Nr. 8 und 14. Letzteres stammt ebenfalls von Woldemar Kandler. Das Wohnhaus Parkstraße 8 ( _Foto rechts_) wurde 1927 für den Apotheker Ernst Halle als Apotheke und Labor errichtet. Architekt war Oswin Hempel.
 
-![](grenzstra_e.jpg)
+## Grenzstraße
 
 Die Grenzstraße, Teil des ehemaligen Fürstenweges zwischen Volkersdorf und [Hofewiese](../../../nordost/dresdner_heide/hofewiese/), erhielt ihren Namen 1945, da sie an der
 Ortsgrenze Klotzsches verläuft. 1935 entstand auf dem Areal zwischen Grenzstraße und Weixdorf die Luftnachrichtenschule mit
@@ -268,19 +268,19 @@ anlegte. Außerdem wurde zwischen 1986 und 1990 ein Wohngebiet mit ca. 700 Wohnu
 entstand auf dem Gelände des ehemaligen Zentrums für Mikroelektronik ein moderner Büropark, der in den kommenden Jahren noch
 erweitert werden soll. Die Bahnstrecke wurde 2000/01 als Flughafenzubringer ausgebaut und verlängert.
 
-![](../../../nord/klotzsche/strassen_klotzsche/grüner_weg.jpg)
+## Grüner Weg
 
 Der Grüne Weg wurde um 1930 als eine von der Querallee (heute Boltenhagener Straße) abgehende Sackgasse angelegt und erhielt zunächst den Namen Grüne Straße. Noch vor dem Zweiten Weltkrieg wechselte der Name in Am Querweg. Da es im Stadtteil Leubnitz-Neuostra jedoch ebenfalls eine Straße mit diesem Namen gab, machte sich nach der Eingemeindung von Klotzsche eine erneute Umbenennung erforderlich. Diese erfolgte im September 1953 in Grüner Weg. Im Zusammenhang mit dem Bau des Neubauviertels an der Karl-Marx-Straße wurde der Grüne Weg in den 1960er Jahren verlängert.
 
-![](../../../nord/klotzsche/strassen_klotzsche/hauerstra_e.jpg)
+## Hauerstraße
 
 Die Hauerstraße entstand mit Anlage der Wohnsiedlung nördlich der Christuskirche und verdankt ihren Namen dem königlich-preußischen Hofstuckateur Carl Borromäus Hauer. Hauer ist Schöpfer des Altars der Kirche und gestaltete auch das heute nicht mehr vorhandene König-Albert-Denkmal im Waldpark. Amtlich benannt wurde sie 1936.
 
-![](../../../nord/klotzsche/strassen_klotzsche/heiderandweg.jpg)
+## Heiderandweg
 
 Der Heiderandweg verbindet die Königsbrücker Landstraße mit dem Klotzscher Weg und erhielt seinen Namen, da er südlich des Ortsteils Alberthöhe am Rand zur Dresdner Heide verläuft. Verwendet wird die Bezeichnung seit ca. 1940.
 
-![](../../../nord/klotzsche/strassen_klotzsche/hendrichstra_e.jpg)
+## Hendrichstraße
 
 Die Hendrichstraße befindet sich im alten Dorfkern und bildet zugleich die Flurgrenze zwischen Klotzsche und Hellerau. Ursprünglich war sie Teil eines um das ganze Dorf herumführenden Weges und wurde als Dorffrieden bezeichnet. Seit dem Ausbau zur Straße um 1900 erinnert der heutige Name an den früheren Gemeindevorstand Friedrich Gottlob Theodor Hendrich (1834-1900). Hendrich erwarb sich große Verdienste bei der Wandlung des Ortes vom Bauerndorf zum Villenvorort und wohnte im Haus Hendrichstraße 1. Unter seiner Regie erhielt Klotzsche u. a. seine erste Straßenbeleuchtung und ein gemeindeeigenes Wasserwerk. 1933 wurde die Hendrichstraße kurzzeitig Horst-Wessel-Straße genannt, bis dieser Name auf die heutige Tichystraße übertragen wurde. Die Wohnhäuser Nr. 2-8 und 9-27 gehören bereits zur Gartenstadt Hellerau und wurden 1911/13 von Curt Frick entworfen. Weitere Gebäude (Nr. 3-7) stammen von Hermann Muthesius. Das 1895 errichtete Pfarrhaus der Klotzscher Kirche entstand 1895 nach Plänen von Woldemar Kandler.
 
@@ -290,11 +290,11 @@ Ein besonderes Kuriosum ist unmittelbar am Durchgang zur Alten Klotzscher Kirche
 
 **_Fotos:_** _Hendrichstraße mit der Literaturzelle am Durchgang zum Kirchhof_
 
-![](../../../nord/klotzsche/strassen_klotzsche/hermann-reichelt-stra_e.jpg)
+## Hermann-Reichelt-Straße
 
 Die Hermann-Reichelt-Straße auf dem Gelände des Flughafens erinnert an den deutschen Flugpionier Hermann Reichelt (1878-1914), der 1909 erste Versuche mit selbstgebauten Fluggeräten unternahm. 1912 gründete er in Dresden-Kaditz eine Flugschule und war auch als Konstrukteur tätig. 1914 kam er bei einer Schauvorführung ums Leben. Ursprünglich war sie als Werkstraße 11 lediglich für den internen Verkehr gedacht, wurde Mitte der 1990er Jahre jedoch öffentlich gewidmet und bis zur Grenzstraße verlängert. Die amtliche Namensgebung erfolgte im April 1995. Von Bedeutung ist sie als Hauptzufahrt zum Terminal und als Verbindung zur Autobahnabfahrt "Dresden-Flughafen".
 
-![hugo-junkers-ring](../../../nord/klotzsche/strassen_klotzsche/a_rectangle_1853.gif)
+## Hugo-Junkers-Ring
 
 Der Hugo-Junkers-Ring befindet sich auf dem Gelände der früheren Flugzeugwerft und erhielt seinen Namen nach dem deutschen Techniker und Unternehmer Hugo Junkers (18591935). Junkers war Gründer und Eigentümer der Junkers Flugzeugwerke AG und gilt als einer der bedeutendsten Flugzeugkonstrukteure überhaupt.
 
@@ -306,11 +306,11 @@ Der Ikarusweg befindet sich auf dem Gelände der ehemaligen [Flugzeugwerft](../.
 
 Der Immelmannplatz entstand als Vorplatz des Flughafens mit dem "Hansa-Haus" und wurde 1935 nach dem deutschen Jagdpiloten des Ersten Weltkriegs Max Immelmann (1890-1916) Immelmannplatz benannt. Da diese Bezeichnung als militaristisch galt, erfolgte 1945 die Umbenennung in Roter Platz. Wenig später wurde diese Benennung aufgehoben, so dass der Platz heute namenlos ist. Seit einige Jahren gibt es jedoch Bestrebungen, dem Vorplatz wieder einen Namen zu geben.
 
-![karl-gjellerup-straße](../../../nord/klotzsche/strassen_klotzsche/a_rectangle_1156.gif)
+## Karl-Gjellerup-Straße
 
 Die 2004 im Zusammenhang mit einem Neubaugebiet am Dörnichtweg angelegte Karl-Gjellerup-Straße erhielt ihren Namen nach dem dänischen Schriftsteller und Literaturnobelpreisträger Karl Adolph Gjellerup (1857-1919), der seine letzten Lebensjahre in Klotzsche (Gartenstraße 28, heute Kieler Straße) verbrachte und auf dem Alten Klotzscher Friedhof begraben liegt.
 
-![](../../../nord/klotzsche/strassen_klotzsche/karl-marx-stra_e.jpg)
+## Karl-Marx-Straße
 
 Die Karl-Marx-Straße verbindet die Königsbrücker Landstraße mit dem Flughafen. Ursprünglich gab es hier nur einen kurzen Verbindungsweg bis zur Kieler Straße, den man Blumenstraße nannte, der jedoch unbebaut war. Ausgebaut wurde die Straße erst im Zusammenhang mit dem Bau des Flughafens 1935. Ursprünglich sollte hier eine neue Hauptachse mit Straßenbahntrasse entstehen. Zu beiden Seiten waren repräsentative Gebäude für die junge Stadt, u. a. ein Stadion, eine Stadthalle und ein Aufmarschplatz für nationalsozialistische Weihestunden vorgesehen. Kriegsbedingt wurden diese Pläne des Stadtbaumeisters Dutschke nicht mehr realisiert, so dass heute nur einige Wohnhäuser aus dieser Zeit an das Projekt erinnern. Bereits Ende 1945 erfolgte eine Umbenennung der Flughafenstraße nach dem deutschen Philosophen und geistigen Urvater der kommunistischen Bewegung Karl Marx (18181883) in Karl-Marx- Straße. Der hintere Straßenteil erhielt im Februar 1993 seinen früheren Namen Flughafenstraße wieder zurück.
 
@@ -320,13 +320,13 @@ In den 1960er Jahren wurden an der Karl-Marx-Straße Wohnblöcke für die Angest
 
 Der Karlshagener Weg wurde in den 1970er Jahren als Zugang zu zwei damals neu errichteten Kindereinrichtungen angelegt. Ähnlich wie bei einigen Nachbarstraßen erfolgte die Namensgebung nach einem Ort an der Ostseeküste, dem Ostseebad Karlshagen
 
-![käthe-kollwitz-platz](../../../nord/klotzsche/strassen_klotzsche/a_rectangle_457.gif)
+## Käthe-Kollwitz-Platz
 
 ![](../../../nord/klotzsche/strassen_klotzsche/klotzalbertplatz.jpg)Der heutige Käthe-Kollwitz-Platz wurde Ende des 19. Jahrhunderts an der Kreuzung Königsbrücker Landstraße / Langebrücker Straße angelegt. Um den Platz entstanden wenig später Villen des Kurortes Königswald. Außerdem befand sich hier ab 1898 die aus einer alten Kutscherschänke hervorgegangene Gaststätte [Deutsche Eiche](../../../nord/klotzsche/strassen_klotzsche/konigsbrucker_landstrasse/). Der Platz wurde ab 1903 bis 1945 König-Albert-Platz bzw. Albertplatz genannt und war zwischen 1903-1905 Endpunkt der gleislosen [Haidebahn](../../../nord/klotzsche/haidebahn/).
 
 Im Juni 1945 erfolgte zunächst nach dem deutschen Arbeiterführer August Bebel (1840-1913) die Umbenennung in August-Bebel-Platz. Da es diesen Straßennamen in Dresden bereits gab, musste der Platz nach der Eingemeindung Klotzsches bereits im September 1953 erneut seinen Namen wechseln. Die Malerin und Bildhauerin Käthe Kollwitz (1867-1945) wurde mit ihren Anti-Kriegs-Darstellungen international bekannt und verbrachte ihre letzten Lebensmonate in Moritzburg, wo eine Gedenkstätte an sie erinnert. Heute hat der Käthe-Kollwitz-Platz vor allem als Verkehrsknotenpunkt für den öffentlichen Nahverkehr Bedeutung.
 
-![](../../../nord/klotzsche/strassen_klotzsche/kieler_stra_e.jpg)
+## Kieler Straße
 
 ![](../../../nord/klotzsche/strassen_klotzsche/klotzgartenstr.jpg)Die Kieler Straße verbindet parallel zur Königsbrücker Landstraße den alten Ortskern mit dem Villenviertel Königswald. Die ersten Gebäude entstanden Ende des 19. Jahrhunderts. 1907 folgte auf damals noch unbebautem Gebiet das Klotzscher [Rathaus](../../../nord/klotzsche/). Die übrigen Häuser wurden bis zum Beginn des Zweiten Weltkrieges für Offiziere der Klotzscher Luftkriegsschule errichtet. Zunächst ab 1897 Gartenstraße genannt, erfolgte 1933 die Umbenennung in Bismarckstraße, bevor 1945 der Straßenname August-Bebel-Straße
 eingeführt wurde. Auch hier war die Namensgleichheit mit einer Dresdner Straße Anlass für eine erneute Umbennung nach der Hafenstadt Kiel im September 1953.
@@ -344,7 +344,7 @@ Die Straße Klotzscher Berglehne liegt in einem Neubaugebiet zwischen Oderstraß
 
 Die Gebäude an der Klotzscher Hauptstraße entstanden ab Ende des 19. Jahrhunderts, als rund um den Schänkhübel ein neues Wohnviertel angelegt wurde, welches auch als Ortsteil Alberthöhe bezeichnet wird. Im Haus Nr. 1 befand sich von 1873 bis 1899 das erste Klotzscher Postamt _(Foto)_. 1880 wurde auf dem Grundstück Nr. 24 ein Lufthüttenbad angelegt, welches jedoch nur wenige Jahre existierte. Außerdem finden sich hier die Gebäude der früheren [Volksschule](../../../nord/klotzsche/) (Nr. 26) und der 1914 erbauten Neuen Schule.
 
-[![königsbrücker landstraße](../../../nord/klotzsche/strassen_klotzsche/a_rectangle_64.gif)](../../../nord/klotzsche/strassen_klotzsche/konigsbrucker_landstrasse/)
+## [Königsbrücker Landstraße](../../../nord/klotzsche/strassen_klotzsche/konigsbrucker_landstrasse/)
 
 
 
@@ -403,7 +403,7 @@ Die Marsdorfer Straße entstand ursprünglich als Marsdorfer Weg und ist seit 18
 
 Nr. 10: In diesem Haus wohnte zwischen 1937/38 und 1945 der Schriftstellers Richard Blasius (1885-1968). Er verfasste in den 1920er und 1930er Jahren zahlreiche Abenteuerromane, die in verschiedenen Heftreihen veröffentlicht wurden und sich zeitweise großer Popularität erfreuten. Außerdem sind von ihm einige Erzählungen und Gedichte in Oberlausitzer Mundart bekannt.
 
-![](../../../nord/klotzsche/strassen_klotzsche/max-h_nig-stra_e.jpg)
+## Max-Hünig-Straße
 
 Die Max-Hünig-Straße wurde 1953 nach dem Gründer der Kindererholungsstätte am Oberen Waldteich, Max Hünig (1851-1935),
 benannt, der sich als Mitglied der SPD (später der KPD) auch politisch engagierte. Bis zur Eingemeindung Klotzsches trug sie den
@@ -430,7 +430,7 @@ zerstörten Dresden keine geeigneten Produktionsräume mehr gab, erwarb Wendler 
 Lukaschek und richtete hier seine Fabrik ein. Die Firma wurde 1972 verstaatlicht und 1990 privatisiert. 1998 übernahm die Dr.
 Quendt Backwaren GmbH das Unternehmen und verlegte es zwei Jahre später nach Coschütz/Gittersee.
 
-![](../../../nord/klotzsche/strassen_klotzsche/oderstra_e.jpg)
+## Oderstraße
 
 ![](../../../nord/klotzsche/strassen_klotzsche/klotzoderstr.jpg)Die Oderstraße, früher Nordstraße genannt, gehört zu den Straßen um alten Dorfkern. Bis ins 19.
 Jahrhundert lagen nördlich dieser Straße die Bauernweinberge des Ortes. Noch 1955 existierte im Grundstück Nr. 5 eine alte Weinpresse, die zur Weinhandlung und Probierstube Zum Winzer der
@@ -447,7 +447,7 @@ an diesem Institut tätig. Seit 2009 erinnert eine Gedenktafel im Klotzscher Rat
 
 
 
-![](../../../nord/klotzsche/strassen_klotzsche/quosdorfstra_e.jpg)
+## Quosdorfstraße
 
 Die Quosdorfstraße wurde im Zusammenbau mit der Anlage weiterer Siedlungen zwischen Klotzsche und dem Ortsteil Königswald
 angelegt und nach dem früheren Bezirksfeldwebel (Landrat) Friedrich August Quosdorf (1840-1889) benannt. Quosdorf gilt als eigentlicher Gründer des Ortsteils Königswald und ließ hier 1884 das [Bahnhofshotel](../../../nord/klotzsche/strassen_klotzsche/bahnhofshotel/) als Sommerfrische Quosdorf erbauen. An ihn erinnert seit 1896
@@ -457,20 +457,20 @@ ein Gedenkstein gegenüber vom Bahnhof.
 
 Die Richard-Riemerschmid-Straße wurde 2017 als Erschließungsstraße für das Gewerbegebiet Rähnitzsteig angelegt. Ihren Namen erhielt sie nach dem Architekten Richard Riemerschmid (1868-1957), Mitbegründer des Deutschen Werkbunds und maßgeblich am Bau der Gartenstadt Hellerau beteiligt.
 
-![](../../../nord/klotzsche/strassen_klotzsche/rostocker_stra_e.jpg)
+## Rostocker Straße
 
 ![](../../../nord/klotzsche/strassen_klotzsche/klotzrostockerstr15.jpg)
 Die Rostocker Straße im Stadtteil Königswald (früher Mozartstraße) erhielt ihren Namen nach der Hafenstadt Rostock, wobei dabei an eine nach der Eingemeindung entstandene Klotzscher
 Tradition angeknüpft wurde, Straßen den Namen von Orten im Ostseegebiet zu geben. Im Wohnhaus Rostocker Straße 17 lebte bis zu seinem Tod 1983 der Kunstmaler und Graphiker
 Rudolf Nehmer, der zu den Mitbegründern der Künstlergruppe Das Ufer - Gruppe 1947 gehörte. Bemerkenswert ist auch die Villa an der Ecke zur Goethestraße   (Nr. 15) mit Jugendstilelementen an der Fassade _(Foto)_.
 
-![](../../../nord/klotzsche/strassen_klotzsche/rudolf-nehmer-stra_e.jpg)
+## Rudolf-Nehmer-Straße
 
 Die Rudolf-Nehmer-Straße wurde als Querstraße der Geschwister-Scholl-Straße 2002 angelegt und im Anschluss mit einer neuen
 Doppelhaussiedlung bebaut. Der Name erinnert an den Kunstmaler Rudolf Nehmer (1912-1983), der seit 1936 in Dresden lebte und
 in den 60er Jahren ein Wohnhaus in Klotzsche besaß. Nehmer gehörte der Künstlergruppe Das Ufer - Gruppe 1947 an und erhielt für seine Arbeiten 1962 den Martin-Andersen-Nexö-Kunstpreis der Stadt Dresden.
 
-![selliner straße](../../../nord/klotzsche/strassen_klotzsche/a_rectangle_1159.gif)
+## Selliner Straße
 
 Die heutige Selliner Straße entstand um 1905 und war bis 1953 nach dem Reformator Philipp Melanchton benannt. Zur Vermeidung von Verwechslungen mit der gleichnamigen Melanchtonstraße in der Äußeren Neustadt wurde sie im September 1953, einer Klotzscher Nachkriegstradition entsprechend, nach einem Ostseebad in Selliner Straße umbenannt.
 
@@ -487,7 +487,7 @@ Nach Weggang der Ordensschwestern und erfolgter Modernisierung und Erweiterung w
 
 [![](../../../nord/klotzsche/strassen_klotzsche/stmarienkrankenhaus.jpg)](http://www.stmarienkh-dd.de)
 
-![](../../../nord/klotzsche/strassen_klotzsche/tichystra_e.jpg)
+## Tichystraße
 
 Die heutige Tichystraße wurde im Zusammenhang mit der Bebauung des Areals nach dem Ersten Weltkrieg angelegt. Nach
 Machtübernahme der Nationalsozialisten erhielt sie den Namen des Märtyrers der Bewegung Horst Wessel, der bei politischen
@@ -498,12 +498,12 @@ Namensänderung in Leo-Jogiches-Straße. Leo Jogiches-Tyszka (1867-1919) leitete
 revolutionären Arbeiter und war ein Kampfgefährte Karl Liebknechts. 1919 wurde er im Gefängnis in Berlin-Moabit erschossen. 1993
 erhielt die Tichystraße ihren heutigen Namen. Professor Dr. Hans Tichy (1888-1970) war Begründer des Institutes für Rheumatologie in Klotzsche.
 
-![traute-richter-straße](../../../nord/klotzsche/strassen_klotzsche/a_rectangle_1157.gif)
+## Traute-Richter-Straße
 
 Die Traute-Richter-Straße entstand 2004 im Zusammenhang mit dem Bau eines neuen Wohngebietes am Dörnichtweg. Ihren Namen
 verdankt sie der Schauspielerin Edeltraud Antonia (Traute) Richter (1924-1986), welche zwischen 1949 und 1986 zum Ensemble des Dresdner Staatsschauspiels gehörte und ab 1984 dessen Ehrenmitglied war.
 
-![travemünder straße](../../../nord/klotzsche/strassen_klotzsche/a_rectangle_1457.gif)
+## Travemünder Straße
 
 Die aus einem früheren Feldweg hervorgegangene Travemünder Straße erhielt  ihren Namen nach dem Ostseebad Travemünde,
 welches heute als Stadtteil zu Lübeck gehört. Ursprünglich befand sich auf diesem Gelände eine Kiesgrube, welche später als
@@ -513,23 +513,23 @@ Hausmülldeponie genutzt wurde. Nach deren Rekultivierung begann hier 2009 der B
 
 Der Vogelstellerweg wurde 2016 zur Erschließung eines neuen Wohnviertels an der Travemünder Straße angelegt. Benannt ist er nach der einst in Klotzsche verbreiteten Vogelstellerei zum Fang von Goldammern, Finken und Lerchen für den kurfürstlichen Hof. Das Ende des Weges war einst Standort einer Fanganlage, an der die Vogelsteller mit Lockpfeifen die Tiere anlockten und dann in Netzen einfingen. 1613 ist diese als "Jansen Strygers Vogelherd" erwähnt. Letzte Reste davon verschwanden 1931. Das frühere Wohnhaus des Vogelstellers ist jedoch noch erhalten (Altklotzsche 44).
 
-![](../../../nord/klotzsche/strassen_klotzsche/wilhelmine-reichard-ring.jpg)
+## Wilhelmine-Reichard-Ring
 
 Als Wilhelmine-Reichard-Ring wird seit März 1996 der Vorplatz des Klotzscher Flughafens bezeichnet. Mit dem Namen soll an die
 deutsche Luftfahrtpionierin Johanne Wilhelmine Siegmundine Reichard (1788-1848) erinnert werden, die 1811 als erste Frau überhaupt eine Reise im Ballon unternahm. Gemeinsam mit ihrem Ehemann verdiente sie sich
 später ihren Lebensunterhalt mit Ballonfahrten und erwarb sich so internationales Ansehen.
 
-![](../../../nord/klotzsche/strassen_klotzsche/william-shakespeare-stra_e.jpg)
+## William-Shakespeare-Straße
 
 Die William-Shakespeare-Straße im Klotzscher Stadtteil Alberthöhe wurde Ende des 19. Jahrhunderts als Albertstraße angelegt.
 Nach 1945 kurzzeitig Rennerstraße genannt, erhielt sie 1953 ihren heutigen Namen nach dem berühmten englischen Schriftsteller William Shakespeare (1564-1616).
 
-![](../../../nord/klotzsche/strassen_klotzsche/windm_hlenweg.jpg)
+## Windmühlenweg
 
 Die Siedlungshäuser am Windmühlenweg entstanden ab 1914 durch die Heimhüttengesellschaft Sachsen gGmbH. Seinen Namen verdankt der Weg der ehemaligen [Rähnitzer Windmühle](../../../nord/rahnitz/), die 1955 dem Ausbau des Flughafens weichen musste.
 
 
-![](../../../nord/klotzsche/strassen_klotzsche/wolgaster_stra_e.jpg)
+## Wolgaster Straße
 
 ![](../../../nord/klotzsche/strassen_klotzsche/klotzwolgasterstr3.jpg)Die Wolgaster Straße wurde 1875 als Verbindungsstraße zwischen Königsbrücker Landstraße
 und dem neu eröffneten Eisenbahnhaltepunkt Klotzsche angelegt und erhielt zunächst den Namen Bahnhofstraße. Später wurde sie Graf-Spee-Straße bzw. ab 1945 Schnellerstraße genannt. Nach
@@ -550,7 +550,7 @@ Die Straße entstand 1875 als Zufahrt zum neu eingerichteten Klotzscher Eisenbah
 Königstraße. Ihre heutige Bezeichnung verdankt sie dem nahegelegenen Nesselgrundviadukt der Bahnstrecke Dresden - Görlitz. Markanteste Gebäude sind neben dem 1907 entstandenen Empfangsgebäude das ehemalige [Bahnhofshotel](../../../nord/klotzsche/strassen_klotzsche/bahnhofshotel/) und einige Villen aus der
 Gründerzeit von Klotzsche-Königswald. Ein Gedenkstein in der Nähe des Bahnhofsvorplatzes erinnert an Friedrich August Quosdorf, Gründer des Ortsteils.
 
-![zur wetterwarte](../../../nord/klotzsche/strassen_klotzsche/a_rectangle_1781.gif)
+## Zur Wetterwarte
 
 Die nach der hier gelegenen Wetterwarte Dresden-Klotzsche benannte Straße befindet sich auf dem Gelände der früheren Flugzeugwerft. Ursprünglich waren diese Werksstraßen, welche nicht dem öffentlichen Verkehr dienten, nur mit Nummern bezeichnet (41 und 68). Im November 1995 entschied sich der Stadtrat zur Vergabe von Straßennamen. Mit der Namensgebung "Zur Wetterwarte", "Zum Windkanal" und "Ikarusweg" wird die Erinnerung an die Geschichte des Areals wachgehalten.
 

@@ -183,7 +183,7 @@ Straßenbeleuchtung der Gemeinde. Schon 1875 waren die ersten Straßenlaternen a
 bis zur Fertigstellung des Gaswerkes mit Ligroin, einem petroleumähnlichen Leichtbenzin, betrieben werden. Mit dem
 Anschluss des Ortes an das Dresdner Gasnetz wurde die Produktion des Gaswerks noch vor dem Ersten Weltkrieg eingestellt.
 
-[![Löbtauer Straßen](../../sudwest/lobtau/a_rectangle_543.gif)](../../sudwest/lobtau/strassen_lobtau/)
+## [Löbtauer Straßen](../../sudwest/lobtau/strassen_lobtau/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

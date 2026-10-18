@@ -79,7 +79,7 @@ Elektrizitätswerk Coschütz:
 
 ![](../../sud/coschutz/maschinenhalle.jpg)Nach seiner Fertigstellung versorgte es ab 1. Oktober 1900 neben Coschütz auch die Dresdner Vorstadt [Naußlitz](../../sudwest/nausslitz/), die Orte Birkigt, Boderitz, Cunnersdorf, [Dölzschen](../../sudwest/dolzschen/), Gittersee, Groß- und Kleinburgk, Kleinnaundorf, Zschiedge sowie die Rittergüter in Burgk und Cunnersdorf mit Strom. Die elf Gemeinden hatten zuvor 1898 eigens einen Zweckverband gegründet. Zeitgleich erhielt Coschütz eine elektrische Straßenbeleuchtung. 1919 erfolgte ein Zusammenschluss mit den Gemeindeelektrizitätsverbänden Cossebaude, Niederlößnitz und Deuben zum Zweckverband "Vorortsammelschiene", um über eine 15 Kilometer lange Drehstromleitung einen Leistungsaustausch zu ermöglichen. 1937 wurde die Stromerzeugung im Coschützer Kraftwerk eingestellt. Die später gewerblich genutzten Gebäude sind jedoch noch erhalten.
 
-[![coschützer straßen](a_rectangle_618.gif)](../../sud/coschutz/strassen_coschutz/)
+## [Coschützer Straßen](../../sud/coschutz/strassen_coschutz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

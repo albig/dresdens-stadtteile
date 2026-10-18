@@ -3,7 +3,7 @@ title: "Fernsehturm"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-[![förderverein fernsehturm dresden c/o eberhard mittag  freiberger str. 8 01067 dresden tel. 0351/4954223](../../../nordost/wachwitz/fernsehturm/a_rectangle_1463.gif)](http://www.VereinFernsehturmDresden.de)
+[Förderverein fernsehturm dresden c/o eberhard mittag  freiberger str. 8 01067 dresden tel. 0351/4954223](http://www.VereinFernsehturmDresden.de)
 
 
 ![](../../../nordost/wachwitz/fernsehturm/wachwfersehturm.jpg)Der Dresdner Fernsehturm entstand zwischen 1964 und 1969 auf Wachwitzer Flur in 121 m Höhe über dem Elbtal (230 m NN). Architekt des Stahlbetonbaus war Kurt Nowotny, die Statik wurde von Dr. Hermann Rühle berechnet. Architektonisch orientierte sich der Turm an der Form eines Sektglases. 1963 begann mit Legung des Fundamentes der Bau. Auf einem Stahlbetonring von 21 Metern Durchmessern wurde zunächst der Turmschaft errichtet und in einem damals neuartigen Verfahren mit einer ballonartigen Dederonhülle versehen, um auch im Winter die Arbeiten fortsetzen zu können. Mit Erreichen der geplanten Höhe des Betonschafts von 167,15 Meter feierten die Bauleute am 15. Dezember 1965 das Richtfest. Anschließend wurde die Stahlkonstruktion für die Antenne aufgesetzt und der Innenausbau vorgenommen. Nach über fünfjähriger Bauzeit konnte der Turm am 7. Oktober 1969 offiziell eröffnet werden. Der eigentliche Sendebeginn hatte bereits am 18. September stattgefunden. Mit 252 m Höhe ist der Fernsehturm höchstes Bauwerk in Dresden. Im Inneren des Kelches befinden sich acht Etagen, in denen die technischen Anlagen des Turmes untergebracht sind. Zwei Schnellaufzüge führen zur Aussichtsplattform und dem ehemaligen Turmcafé _(Postkarte um 1970)_.

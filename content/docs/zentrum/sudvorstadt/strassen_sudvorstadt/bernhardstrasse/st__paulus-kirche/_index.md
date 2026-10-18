@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:48+01:00
 
 * * *
 
-![katholische kirche st. paulus  bernhardstr. 42 01187 dresden](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/bernhardstrasse/st__paulus-kirche/a_rectangle_1506.gif)
+Katholische kirche st. paulus  bernhardstr. 42 01187 dresden
 
 
 * * *

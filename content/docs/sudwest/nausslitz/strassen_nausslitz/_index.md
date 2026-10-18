@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:44+01:00
 
 [![](../../../sudwest/nausslitz/strassen_nausslitz/hauptseitew_lfnitz2.jpg)](../../../sudwest/wolfnitz/)
 
-![alfred-thiele-straße](../../../sudwest/nausslitz/strassen_nausslitz/a_rectangle_492.gif)
+## Alfred-Thiele-Straße
 
 Die Straße trug ab 1923 zunächst den Namen Jochhöhstraße, benannt nach einem kleinen Weinbergshaus auf Freitaler Flur. Um 1930 wurde hier durch die in Niesky ansässige Firma Christoph & Unmack Einfamilien- und Doppel-Holzhäuser einer Heimstätten-Genossenschaft errichtet. 1946 erfolgte die Umbenennung der Jochhöhstraße in Alfred-Thiele-Straße. Alfred Thiele (1904-1934) war ab 1926 Mitglied der KPD und später im illegalen Widerstandskampf gegen die Nazidiktatur aktiv. 1934 verstarb er an den Folgen erlittener Misshandlungen im Löbtauer Krankenhaus.
 
@@ -13,7 +13,7 @@ Die Straße trug ab 1923 zunächst den Namen Jochhöhstraße, benannt nach einem
 
 **_Fotos:_** _Holzhäuser auf der Alfred-Thiele-Straße_
 
-![altnaußlitz](../../../sudwest/nausslitz/strassen_nausslitz/a_rectangle_493.gif)
+## Altnaußlitz
 
 Als Altnaußlitz wird seit 1871 der frühere Dorfkern von [Naußlitz](../../../sudwest/nausslitz/) bezeichnet. Bis 1903 findet sich die Schreibweise Alt-Naußlitz in den Adressbüchern. Trotz Abbrüchen nach 1945 und 1990 sind hier noch einige Bauerngüter erhalten geblieben, die jedoch heute ausschließlich Wohnzwecken dienen und in den letzten Jahren saniert wurden. Bedeutendstes und größtes Gehöft ist der nach seinem früheren Besitzer benannte Kaiserhof (Nr. 10). Mitte der 1990er Jahre wurde er zu einer Wohnanlage umgebaut.
 
@@ -29,7 +29,7 @@ Der Dresdner Betrieb kam zunächst in treuhänderische Verwaltung und gehörte a
 
 Video: Rundgang im ehemaligen Baumann-Gut 2015
 
-![altwölfnitz](../../../sudwest/nausslitz/strassen_nausslitz/a_rectangle_494.gif)
+## Altwölfnitz
 
 Der frühere Wölfnitzer Dorfplatz wurde nach Eingemeindung des Ortes 1903 in Altwölfnitz umbenannt. Von den
 historischen Gehöften sind bis heute u. a. das ehemalige Freigut (Nr. 3) und das bis 1945 zum Kammergut Gorbitz gehörende Beigut (Nr. 2-4) erhalten geblieben. Beide Gebäude dienen heute nur noch Wohnzwecken.
@@ -38,7 +38,7 @@ historischen Gehöften sind bis heute u. a. das ehemalige Freigut (Nr. 3) und da
 
 **_Foto:_** _Das zur Wohnanlage umgebaute frühere Beigut Altwölfnitz Nr. 2-4_
 
-![am roßthaler bach](../../../sudwest/nausslitz/strassen_nausslitz/a_rectangle_22.gif)
+## Am Roßthaler Bach
 
 Die Wohnsiedlung zwischen Clara-Zetkin-Straße und dem Naußlitzer Ortskern wurde ab 2003 auf dem Gelände einer
 früheren Gärtnerei errichtet. Im Oktober 2004 erhielt der zur Erschließung der Siedlung angelegte Weg die Bezeichnung Am Roßthaler Bach.
@@ -47,61 +47,61 @@ früheren Gärtnerei errichtet. Im Oktober 2004 erhielt der zur Erschließung de
 
 **_Foto:_** _Wohnsiedlung Am Roßthaler Bach_
 
-![am stieglitzgrund](../../../sudwest/nausslitz/strassen_nausslitz/a_rectangle_495.gif)
+## Am Stieglitzgrund
 
 Die Straße Am Stieglitzgrund wurde 1925 am Rande des Wölfnitzer Dorfkerns angelegt und erhielt ihren Namen nach einer Flurbezeichnung. Die Doppelhäuser wurden von zwei Siedlungsgesellschaften in den Jahren 1925/26
 errichtet. Eigentümer war der Siedelungsverein Dresden-Löbtau e.V., der die Grundstücke in Erbbaupacht an die künftigen Nutzer vergab. 1946 wurde der Verein aufgelöst und die Häuser an die Bewohner übereignet.
 
-![](../../../sudwest/nausslitz/strassen_nausslitz/annaberger_stra_e.jpg)
+## Annaberger Straße
 
 Die heutige Annaberger Straße wurde um 1900 angelegt und nach den geografischen Gegebenheiten zunächst Bergstraße genannt. Nach der Eingemeinung von Naußlitz erhielt sie 1904 ihren jetzigen Namen nach der Stadt Annaberg im Erzgebirge.
 
-![](../../../sudwest/nausslitz/strassen_nausslitz/binger_stra_e.jpg)
+## Binger Straße
 
 Die Binger Straße entstand nach dem Ersten Weltkrieg beim Ausbau der Naußlitzer Siedlung und wurde im November
 1926 nach der Stadt Bingen in Rheinland-Pfalz benannt. Das Straßenbild prägen zahlreiche unter Denkmalschutz stehende Holzhäuser der Christoph & Unmack AG aus Niesky.
 
-![](../../../sudwest/nausslitz/strassen_nausslitz/bonner_stra_e.jpg)
+## Bonner Straße
 
 Die Bonner Straße entstand nach dem Ersten Weltkrieg am Rande der Naußlitzer Flur und wurde am 26. Oktober 1927 nach der Stadt Bonn benannt. Bis Mitte der 1930er Jahre entstanden hier Einfamilien- und Doppelhäuser.
 
-![burgwartstraße](../../../sudwest/nausslitz/strassen_nausslitz/a_rectangle_496.gif)
+## Burgwartstraße
 
 Der Name Burgwartstraße weist auf den ehemaligen Burgwart Pesterwitz hin, der bereits 1068 erstmals erwähnt wurde und einst politisch - militärisches Zentrum der Region war. Von hier aus begann die deutsche Besiedlung und Christianisierung der Dörfer rund um Pesterwitz, zu denen auch Naußlitz zählte. Die Straße erhielt ihren Namen 1923.
 
 
 
-![dessauerstraße](../../../sudwest/nausslitz/strassen_nausslitz/a_rectangle_497.gif)
+## Dessauerstraße
 
 1904 wurde die frühere Wölfnitzer Dorfstraße in Dessauerstraße umbenannt. Der Name erinnert an Fürst Leopold I. von Anhalt-Dessau (16761747)
 , der auf Seiten Preußens an der Schlacht von Kesselsdorf 1745 teilnahm und dort einen Sieg über Sachsen und Österreicher errang. Wegen seiner strategischen Fähigkeiten wurde er auch als der alte Dessauer
 berühmt. Die später zum Teil auftretende Bezeichnung Dessauer Straße wird mit der Stadt Dessau in Sachsen-Anhalt in Verbindung gebracht, ist jedoch historisch falsch.
 
-![düsseldorfer straße](../../../sudwest/nausslitz/strassen_nausslitz/a_rectangle_498.gif)
+## Düsseldorfer Straße
 
 ![](../../../sudwest/nausslitz/strassen_nausslitz/naußlitzdüsseldorferstr.jpg)Die Düsseldorfer Straße wurde Ende der Zwanziger Jahre angelegt und erhielt ihren Namen im August 1928 nach der Stadt Düsseldorf am Rhein. Auch die umliegenden Straßen auf Naußlitzer Flur, die zeitgleich entstanden, wurden nach Städten des Rheinlandes benannt. Hier errichtete hier der Verein Siedlungsheim Dresden-Naußlitz mehrere Ein- und Zweifamilienhäuser. Bauherren der genossenschaftlichen Wohnanlage waren meist Arbeiter, Beamte und Kriegsversehrte des Ersten Weltkriegs.
 
-![](../../../sudwest/nausslitz/strassen_nausslitz/eifelweg.jpg)
+## Eifelweg
 
 Der Eifelweg verbindet Lange Straße und Mülheimer Straße und erhielt im Mai 1929 seinen Namen nach dem Gebirgszug
 der Eifel in Nordrhein-Westfalen. Um 1930 entstanden hier und in den benachbarten Straßen dreigeschossige Wohnblocks.
 Eine grundlegende Sanierung der nach 1990 an einen privaten Investor verkauften Wohnanlage erfolgte zwischen 1993 und 1997.
 
-![](../../../sudwest/nausslitz/strassen_nausslitz/gie_ener_stra_e.jpg)
+## Gießener Straße
 
 Die kurze Gießener Straße, eine Seitenstraße der Kasseler Straße wurde Mitte der 1930er Jahre beim Bau eines neuen Wohnviertels angelegt und im November 1936 nach der hessischen Universitätsstadt Gießen benannt.
 
-![](../../../sudwest/nausslitz/strassen_nausslitz/hainichener_straße.jpg)
+## Hainichener Straße
 
 Die Hainichener Straße entstand 1933 als Fortsetzung der Rüdesheimer Straße und erhielt im Juli 1934 ihren Namen nach der mittelsächsischen Stadt Hainichen.
 
-![](../../../sudwest/nausslitz/strassen_nausslitz/hersfelder_straße.jpg)
+## Hersfelder Straße
 
 Die Hersfelder Straße wurde 1935 beim Ausbau eines kleinen Wohnviertels westlich der Kasseler Straße angelegt. Seit November 1936 ist sie nach der hessischen Stadt Hersfeld (seit 1949 Bad Hersfeld) benannt.
 
-[![kesselsdorfer straße](../../../sudwest/a_rectangle_472.gif)](../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/)
+## [Kesselsdorfer Straße](../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/)
 
-![koblenzer straße](../../../sudwest/nausslitz/strassen_nausslitz/a_rectangle_499.gif)
+## Koblenzer Straße
 
 Ursprünglich trug diese Straße nach einem hier wohnenden Gutsbesitzer den Namen Merbitzstraße. Julius Merbitz war ab
 1879 Mitglied des Naußlitzer Gemeinderates und bis zur Eingemeindung des Ortes Gemeindeältester. Er unternahm um 1860 auch erfolglose Versuche, in Naußlitz ein Steinkohlebergwerk aufzuschließen. 1926 wurde die Merbitzstraße in
@@ -109,7 +109,7 @@ Koblenzer Straße umbenannt. Mit dieser Namensgebung wurde an die Tradition ange
 
 
 
-![mülheimer straße](../../../sudwest/nausslitz/strassen_nausslitz/a_rectangle_500.gif)
+## Mülheimer Straße
 
 An der 1929 nach der Stadt Mülheim an der Ruhr benannten Mülheimer Straße entstand nach 1930 eine größere
 Wohnsiedlung. Auch die angrenzenden Straßen Rhönweg und Eifelweg wurden zum gleichen Zeitpunkt von verschiedenen Baugenossenschaften mit Wohnhäusern bebaut.
@@ -118,7 +118,7 @@ Wohnsiedlung. Auch die angrenzenden Straßen Rhönweg und Eifelweg wurden zum gl
 
 **_Fotos:_** _Wohnanlage an der Mülheimer Straße / Eifelweg_
 
-![olbernhauer straße](../../../sudwest/nausslitz/strassen_nausslitz/a_rectangle_501.gif)
+## Olbernhauer Straße
 
 ![](../../../sudwest/nausslitz/strassen_nausslitz/w_lfnitzolbernhauerstr2.jpg)
 Ursprünglich trug diese Straße im Wölfnitzer Dorfkern den Namen des sächsischen Königs  Albert. 1904 wurde sie, um Verwechslungen mit anderen Albertstraßen in Dresden zu
@@ -133,7 +133,7 @@ Zeugnissen des ländlichen Barocks in der Umgebung gehört. Das benachbarte Eckg
 erbaut und sollte ursprünglich Sitz der Gemeindeverwaltung werden. Aus diesem Grund erhielt der Bau eine repräsentative
 Fassade mit einigen Jugendstilelementen. Da Wölfnitz jedoch bereits 1903 nach Dresden eingemeindet wurde, wurde das Rathaus als solches nicht mehr benötigt, sondern diente ausschließlich Wohnzwecken. Eine Sanierung erfolgte 1995.
 
-![oskar-mai-straße](../../../sudwest/nausslitz/strassen_nausslitz/a_rectangle_502.gif)
+## Oskar-Mai-Straße
 
 Die frühere Naußlitzer Kaiserstraße wurde 1899 nach Georg von Frundsberg in Frundsbergstraße umbenannt. Frundsberg (1473-1528) war
 unter Kaiser Maximilian I. Führer der Landsknechte im Bauernkrieg und wurde 1502 zum Ritter geschlagen. Die Gebäude in diesem Bereich entstanden in den 20er und 30er Jahren durch den Verein Siedlungsheim
@@ -144,19 +144,19 @@ Widerstandstätigkeit mehrmals verhaftet. 1945 kam er kurz vor Kriegsende im KZ 
 
 **_Foto:_** _Siedlungshäuser an der Oskar-Mai-Straße (links) und der Pietzschstraße (rechts)_
 
-![pietzschstraße](../../../sudwest/nausslitz/strassen_nausslitz/a_rectangle_503.gif)
+## Pietzschstraße
 
 Da die Straße 1888 auf dem Grund und Boden des Naußlitzer Gutsbesitzers Julius Pietzsch angelegt wurde, erhielt sie den
 Namen Pietzschstraße. Pietzsch, der selbst in Altnaußlitz wohnte, gehörte viele Jahre dem Gemeinderat des Dorfes an. 1879 entstand an der Pietzschstraße/Ecke Wendel-Hipler-Straße das erste [Naußlitzer Schulhaus](../../../sudwest/nausslitz/), welches später bis zu seinem Abriss als Gemeindeamt diente.
 
-![rüdesheimer straße](../../../sudwest/nausslitz/strassen_nausslitz/a_rectangle_504.gif)
+## Rüdesheimer Straße
 
 An der nach der Stadt Rüdesheim am Rhein benannten Rüdesheimer Straße und ihren Nebenstraßen wurden Mitte der
 Zwanziger Jahre 140 Holzhäuser errichtet. Die architektonisch interessanten Gebäude brachten der kleinen Siedlung den Beinamen Holzhausen ein.
 
 
 
-![saalhausener straße](../../../sudwest/nausslitz/strassen_nausslitz/a_rectangle_505.gif)
+## Saalhausener Straße
 
 Die heutige Saalhausener Straße entstand bereits im Mittelalter und war Teil der wichtigen Verbindungsstraße zwischen
 Dresden und Freiberg. Erst durch den Ausbau der Kesselsdorfer Straße nach 1810 verlor dieser Weg an Bedeutung und
@@ -171,7 +171,7 @@ verschiedene Bauvereine. Zur Versorgung der Anwohner wurden auch einige Ladenlok
 Les Mademoiselles. Auf der rechten Straßenseite gegenüber befindet sich ein Sportplatz sowie angrenzend die Kleingartensparte Frohe Stunde mit Gartenlokal. Architektonisch interessant ist die 1959 erbaute Kindertagesstätte
 Pusteblume (Nr. 44), welche in zwischen 2009 und 2011 eine grundlegende Sanierung erfuhr _(Foto)._
 
-![wendel-hipler-straße](../../../sudwest/nausslitz/strassen_nausslitz/a_rectangle_506.gif)
+## Wendel-Hipler-Straße
 
 ![](../../../sudwest/nausslitz/strassen_nausslitz/nau_litzwhiplerstr.jpg)Die Wendel-Hipler-Straße bildete einst die Grenze zwischen Naußlitz und Wölfnitz
 und wurde deshalb Grenzstraße genannt. In den Zwanziger Jahren wurden hier Siedlungshäuser für Kriegsversehrte und deren Hinterbliebene errichtet. Erst 1953 erhielt die Straße ihren heutigen Namen, der an den bedeutenden Führer des
@@ -181,7 +181,7 @@ Bauernkrieges Wendel Hipler erinnert. Hipler versuchte, Ritterschaft und Städte
 
 [![airline-direct 728x90 e](http://ad.zanox.com/ppv/?10219618C220738136)](http://ad.zanox.com/ppc/?10219618C220738136T)
 
-![wiesbadener straße](../../../sudwest/nausslitz/strassen_nausslitz/a_rectangle_607.gif)
+## Wiesbadener Straße
 
 ![](../../../sudwest/nausslitz/strassen_nausslitz/nau_lwiesbadenerstr.jpg)Die
 Wiesbadener Straße verbindet Löbtau und Naußlitz mit dem benachbarten Oberpesterwitz und wurde deshalb nach ihrem Ausbau 1896 zunächst Pesterwitzer Straße genannt. Um Verwechslungen mit einer gleichnamigen Straße in Gorbitz zu
@@ -192,7 +192,7 @@ Naußlitzer Postamt an der Ecke zur Alfred-Thiele-Straße, welches heute als Woh
 Zwischen 1892 und 1960 existierte an der Wiesbadener Straße eine Ziegelei. Diese befand sich zunächst im Besitz der
 Brüder Otto und Luis Küchler, ab 1937 von Rudolf Olbrich. 1960 wurde die Ziegelei geschlossen. Das Areal dient heute zum Teil als Kleingartenanlage.
 
-![williamstraße](../../../sudwest/nausslitz/strassen_nausslitz/a_rectangle_507.gif)
+## Williamstraße
 
 Die Williamstraße wurde 1872 durch den Baumeister Ferdinand Fichtner angelegt und nach seinem Sohn William benannt.
 Fichtner besaß mit seinen beiden Söhnen ein Architektur- und Baubüro in Dresden-Plauen und schuf u. a. den Fichteturm im

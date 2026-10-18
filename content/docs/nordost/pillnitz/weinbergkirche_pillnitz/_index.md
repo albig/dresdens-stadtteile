@@ -5,9 +5,9 @@ date: 2024-02-17T22:13:34+01:00
 
 * * *
 
-![weinbergkirche dresden-pillnitz bergweg 01326 dresden](../../../nordost/pillnitz/weinbergkirche_pillnitz/a_rectangle_1103.gif)
+Weinbergkirche dresden-pillnitz bergweg 01326 dresden
 
-[![homepage der weinbergkirche dresden-pillnitz](../../../nordost/pillnitz/weinbergkirche_pillnitz/a_rectangle_143.gif)](http://www.weinbergkirche.de)
+[Homepage der weinbergkirche dresden-pillnitz](http://www.weinbergkirche.de)
 
 
 ![](../../../nordost/pillnitz/weinbergkirche_pillnitz/pillnitzschlosskirche.jpg)Pillnitz gehörte bis 1539 zur Kirchfahrt Dohna und unterstand dann der [Kirche](../../../nordost/hosterwitz/maria_am_wasser/) des Nachbarortes Hosterwitz. 1593/96 wurde auf dem Gelände des alten Schlosses eine eigene Kirche eingerichtet, die bis 1722 dem protestantischen Gottesdienst diente. Stifter war der Pillnitzer Rittergutsbesitzer Christoph von Loß. 1648 erhielt sie einen vom Bildhauer Johann Georg Kretschmar geschaffenen Sandsteinaltar.

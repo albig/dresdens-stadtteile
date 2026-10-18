@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:36+01:00
 
 * * *
 
-![weinbergskirche trachenberge albert-hensel-str. 3 01127 dresden  tel. 0351/8495414](a_rectangle_111.gif)
+Weinbergskirche trachenberge albert-hensel-str. 3 01127 dresden  tel. 0351/8495414
 
 
 ![](../../../nordwest/trachenberge/weinbergskirche/trabgweinkirche.jpg)Die erst im 19. Jahrhundert entstandene Gemeinde Trachenberge gehörte kirchlich ursprünglich zu Kaditz und war ab 1884 nach Pieschen gepfarrt. Nachdem dort 1888 die neugotische [Markuskirche](../../../nordwest/pieschen/markuskirche/) eingeweiht worden war, besuchten auch die Gläubigen aus Trachenberge dieses Gotteshaus. Allerdings entschlossen sich diese bereits 1891 für die Nutzung einer Schulturnhalle auf der Döbelner Straße 8 als Notkirche. Ab 1903 stand für diesen provisorischen Betsaal ein eigener Pfarrer zur Verfügung, um die stark angewachsene Bevölkerung vor Ort betreuen zu können.

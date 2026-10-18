@@ -3,17 +3,17 @@ title: "Straßen und Plätze in Niederwartha"
 date: 2024-02-17T22:13:46+01:00
 ---
 
-![am burgberg](../../../west/niederwartha/strassen_niederwartha/a_rectangle_1866.gif)
+## Am Burgberg
 
 Der Straßenname Am Burgberg erinnert an den einst hier gelegenen Burgward Gwosdez bzw. Woz, welchem
 Niederwartha seine Existenz und auch seinen Namen verdankt. Die Anlage entstand vermutlich im 7./8. Jahrhundert und
 diente der slawischen Bevölkerung als Zufluchtsort in Kriegszeiten. Heute sind von der Anlage nur geringe Reste sichtbar.
 
-![am fährhaus](../../../west/niederwartha/strassen_niederwartha/a_rectangle_1867.gif)
+## Am Fährhaus
 
 ![](../../../west/niederwartha/strassen_niederwartha/niederwbahnschlösschen.jpg)Markantestes Bauwerk der kleinen Straße Am Fährhaus sind die Gebäude des [Pumpspeicherwerkes](../../../west/niederwartha/pumpspeicherwerk/), das hier 1927/28 errichtet wurde. Ihren Namen verdankt sie dem alten Niederwarthaer [Fährhaus](../../../west/niederwartha/) von 1765, welches heute als Gaststätte am Elberadweg dient. Der Fährbetrieb selbst wurde bereits 1877 nach Einweihung der Elbbrücke bzw. nach seiner Wiederaufnahme in der Nachkriegszeit 1973 eingestellt. Kurz nach Eröffnung der Brücke entstand auf dem Grundstück Am Fährhaus 2 das Gasthaus "Bahnschlösschen". Heute dient das nach 1945 geschlossene Lokal als Wohnhaus _(Foto)_. Noch bis 1954 gehörte das Areal am Fährhaus zur Stadt Radebeul am gegenüberliegenden Elbufer, da sich hier einst die Kötzschenbrodaer [Weiherwiesen](../../../west/niederwartha/weiherwiesen/) befanden.
 
-![friedrich-august-straße](../../../west/niederwartha/strassen_niederwartha/a_rectangle_1868.gif)
+## Friedrich-August-Straße
 
 Die Friedrich-August-Straße wurde Ende des 19. Jahrhunderts zur Erschließung eines neuen Wohngebietes oberhalb der
 Meißner Straße angelegt. Das Straßenbild prägen bis heute Villen und Landhäuser aus der Zeit vor dem Ersten Weltkrieg. Zahlreiche Gebäude stehen unter Denkmalschutz. Ihren Namen erhielt die Straße nach dem letzten sächsischen König
@@ -23,19 +23,19 @@ Friedrich August III (1865-1932), der bis zur Revolution von 1918 das Land regie
 
 Auch nach 1945 wurde der Gastronomiebetrieb noch bis 1999 weitergeführt, zeitweise unter dem unpolitischen Namen HO-Gaststätte Am Stausee. 2007 übernahmen neue Besitzer das Haus und eröffneten das Lokal wieder unter seinem ursprünglichen Namen Wilhelmsburg. 2012 wurde das Hotel jedoch geschlossen und soll künftig als Kinderheim genutzt werden.
 
-![grunaweg](../../../west/niederwartha/strassen_niederwartha/a_rectangle_1869.gif)
+## Grunaweg
 
 Der Straßenname Grunaweg erinnert an das einst selbständige Dorf Gruna, welches im 14. Jahrhundert in den Besitz der
 Herren von Saalhausen kam und dadurch mit Niederwartha vereinigt wurde. Am Grunaweg haben sich noch zwei Gehöfte aus der dörflichen Vergangenheit des Ortes erhalten. Beide Höfe (Grunaweg 1 und 3) stehen unter Denkmalschutz.
 
-![hermann-große-straße](../../../west/niederwartha/strassen_niederwartha/a_rectangle_1870.gif)
+## Hermann-Große-Straße
 
 Die Hermann-Große-Straße im alten Dorfkern Niederwarthas verdankt ihren Namen dem früheren Gemeindevorstand des
 Ortes Hermann Große (1848-1928), der sich sehr für die Belange seines Heimatortes engagierte.
 
 
 
-![meißner straße](../../../west/niederwartha/strassen_niederwartha/a_rectangle_1871.gif)
+## Meißner Straße
 
 Als Meißner Straße wird der auf Cossebauder und Niederwarthaer Flur verlaufende Straßenabschnitt der Bundesstraße 6
 nach Meißen zwischen Hauptstraße und Stadtgrenze bezeichnet. Im Zusammenhang mit dem Bau der neuen Straßenbrücke nach Radebeul erfolgten zwischen 2006 und 2012 umfangreiche Ausbauarbeiten an dieser Straße. Um die Ortsdurchfahrt
@@ -44,12 +44,12 @@ zu entlasten, ist jedoch künftig eine Verlegung der Straße parallel zur Eisenb
 Zu den bemerkenswerten Gebäuden an der Meißner Straße gehören
 die unter Denkmalschutz stehenden Wohnhäuser Nr. 2, 18, 20 sowie das Doppelhaus Nr. 43/45. Im Haus Meißner Straße 35 hatte einst die Ortsbehörde Niederwarthas ihren Sitz.
 
-![oberwarthaer straße](../../../west/niederwartha/strassen_niederwartha/a_rectangle_1872.gif)
+## Oberwarthaer Straße
 
 Die Oberwarthaer Straße verbindet das im Elbtal gelegene Niederwartha mit dem Nachbarort Oberwartha und führt in
 steilen Serpentinen den Elbhang hinauf. Bemerkenswertestes Gebäude ist das sogenannte russische Landhaus (Oberwarthaer Str. 4).
 
-![tännichtgrundstraße](../../../west/niederwartha/strassen_niederwartha/a_rectangle_1873.gif)
+## Tännichtgrundstraße
 
 Die Tännichtgrundstraße führt vom Ortszentrum zum Eingang in das Tal des [Tännichtgrundbaches](../../../west/oberwartha/tannichtgrund/), dem sie auch Ihren
 Namen verdankt. An der Einmündung zur Weistropper Straße weist eine historische Wegsäule auf bestehende alte Verkehrsverbindungen nach Weistropp und Oberwartha hin.
@@ -62,7 +62,7 @@ Während der Mahl- und Backbetrieb bereits im 19. Jahrhundert wieder eingestellt
 die Sägemühle bis zur Gegenwart in Betrieb, wird heute jedoch nur noch gelegentlich und elektrisch betrieben zur Brennholherstellung genutzt. Das Hauptgebäude dient
 Wohnzwecken. Am Damm des Mühlteiches im Tännichtgrund erinnert ein Mühlenmodell an das einstige Aussehen der Tännichtgrundmühle.
 
-![weistropper straße](../../../west/niederwartha/strassen_niederwartha/a_rectangle_1874.gif)
+## Weistropper Straße
 
 Die Weistropper Straße wurde um 1900 als Staatsstraße zwischen Wilsdruff und der Fährstelle Niederwartha angelegt und
 erhielt ihren Namen nach dem benachbarten Ort Weistropp, heute ein Ortsteil der Gemeinde Klipphausen. Historische Baudenkmale sind der Gasthof Niederwartha an der Einmündung in die Meißner Straße, die frühere Reibigmühle (Nr. 1/3)

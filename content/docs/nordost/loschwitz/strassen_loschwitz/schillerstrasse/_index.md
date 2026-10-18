@@ -3,7 +3,7 @@ title: "Schillerstraße"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![schillerhäuschen  schillerstraße 19 01326 dresden  tel. 0351/498660 (stadtmuseum dresden)](../../../../nordost/loschwitz/strassen_loschwitz/schillerstrasse/a_rectangle_421.gif)
+Schillerhäuschen  schillerstraße 19 01326 dresden  tel. 0351/498660 (stadtmuseum dresden)
 
 * * *
 

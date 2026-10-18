@@ -52,6 +52,6 @@ der Familie Probst. Diese erhielt ihr Eigentum 1991 zurück und ließ die stark 
 Podemuser Ring 1 unter dem Namen  Vorwerk Podemus als Mustergut für ökologischen Landbau mit eigenem Getreide- und Feldfruchtanbau,
 Viehwirtschaft und Fleischerei. Im Hofladen können neben eigenen auch die Bio-Produkte weiterer sächsischer Anbieter erworben werden. Außerdem finden für Interessenten regelmäßige Führungen statt.
 
-[![podemuser straßen](../../../west/mobschatz/podemus/a_rectangle_1950.gif)](../../../west/mobschatz/leuteritz/strassen_mobschatz/)
+## [Podemuser Straßen](../../../west/mobschatz/leuteritz/strassen_mobschatz/)
 
 [_Weiterführende Literatur und Quellen_](../../../impressum/quellenverzeichnis/)

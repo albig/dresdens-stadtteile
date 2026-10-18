@@ -54,7 +54,7 @@ Gemeindebibliothek für Altfranken. Die feierliche Einweihung der Schule fand am
 mit Festumzug am Geburtstag Klemms, bei denen neben Kaffee und Kuchen auch kleine Gaben an die Kinder des Ortes verteilt wurden. Das Schulhaus wird heute
 nicht mehr genutzt und dient seit seiner Renovierung 1998 als Wohnhaus.
 
-[![altfrankener straßen](../../sudwest/altfranken/a_rectangle_1966.gif)](../../sudwest/altfranken/strassen_altfranken/)
+## [Altfrankener Straßen](../../sudwest/altfranken/strassen_altfranken/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

@@ -3,14 +3,14 @@ title: "Straßen und Plätze in Gorbitz"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-![altgorbitz](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_449.gif)
+## Altgorbitz
 
 Seit 1921 wird der frühere Dorfplatz der Gemeinde Niedergorbitz als Altgorbitz bezeichnet. Um den Platz befinden sich einige
 ehemalige Tagelöhnerwohnhäuser, wie sie für diesen Ort typisch waren. Erst 1895 wurde das letzte strohgedeckte Gebäude
 abgerissen. Größere Bauerngüter befanden sich nur in Obergorbitz an der Uthmannstraße. 1914 gründete der damalige
 Fechtverein in Altgorbitz die heute als Kindertagesstätte Wirbelwind bezeichnete Einrichtung. Seit 2002 wird sie vom Verein Biotop Kümmelschänke e.V. aus dem benachbarten Omsewitz betrieben.
 
-![amalie-dietrich-platz](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_458.gif)
+## Amalie-Dietrich-Platz
 
 ![](../../../sudwest/gorbitz/strassen_gorbitz/gorbamdietrichpl.jpg)Der Amalie-Dietrich-Platz wurde im Zusammenhang mit dem Bau des ersten Gorbitzer Wohnkomplexes angelegt und 1979 Platz der Bauarbeiter genannt. Seit 1993 trägt er den Namen der bedeutenden Naturforscherin Amalie Dietrich (1821-1891), die als Botanikerin und Forschungsreisende über 10 Jahre in Australien lebte und als eine der ersten Frauen auf diesem Gebiet internationalen Ruf erwerben konnte. Neben drei Wohnhochhäusern entstanden hier nach 1990 die beiden Einkaufszentren Gorbitz-Hof und Kess-Zentrum. 2010 folgte an der Mittelachse der Kräutergarten der Bauarbeiter, mit welchem an die Geschichte des Neubaugebietes erinnert werden soll.
 
@@ -20,29 +20,29 @@ Fechtverein in Altgorbitz die heute als Kindertagesstätte Wirbelwind bezeic
 
 ![](../../../sudwest/gorbitz/strassen_gorbitz/gorbitzbrunnen.jpg)Plastiken und Brunnenanlagen: In der Nähe der Straßenbahnhaltestelle befindet sich der originelle Brunnen Nasses Haus der Dresdner Künstlerin Heidemarie Dreßel. Das Wasser fällt auf ein Hausdach und bahnt sich dann seinen Weg durch die Etagen bis ins Brunnenbecken. Die aus gebrannter Keramik bestehende Anlage entstand bereits 1984, wurde jedoch erst 1993 vor der 135. Grundschule aufgestellt. In unmittelbarer Nachbarschaft steht der Gorbitzer Märchenbrunnen _(Foto)_. Schöpfer dieser Keramikplastik, welche verschiedene Tiere und Märchenfiguren zeigt, war Karl Schönherr. Nach dessen Tod 1987 wurde der Brunnen von Dieter Graupner und Egmar Ponndorf vollendet und später am Amalie-Dietrich-Platz aufgestellt. Eine weitere Großplastik Bauarbeiter, welche Bezug auf den früheren Namen des Platzes, stammt vom Bildhauer Miroslav Klimes und wurde 1986 übergeben. Nach 1990 wurde sie entfernt und war viele Jahre im Lapidarium der Stadt eingelagert, soll jedoch wieder aufgestellt werden.
 
-![am altfrankener park](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_459.gif)
+## Am Altfrankener Park
 
 Die Straße, ursprünglich Wilhelmstraße genannt, erhielt 1926 den Namen Am Lucknerpark. Der ursprüngliche Namensgeber,
 wahrscheinlich eine Privatperson, ist unbekannt. Im Zusammenhang mit der Eingemeindung von Gorbitz erfolgte die Umbenennung nach dem angrenzenden Schloßpark des [Luckner-Schlosses](../../../sudwest/altfranken/schloss_altfranken/) in Altfranken. In den 1930er Jahren wurden hier
 einige Siedlungshäuser errichtet. Seit 1950 heißt diese Straße Am Altfrankener Park.
 
-![am brunnen](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_460.gif)
+## Am Brunnen
 
 Die ehemalige Niedergorbitzer Talstraße wurde 1921 in Am Brunnen umbenannt. Der Name erinnert an die 1584 zur Wasserversorgung des Dresdner Schlosses angelegte [Gorbitzer Röhrfahrt](../../../sudwest/gorbitz/gorbitzer_rohrfahrt/).
 
-![am ziegenberg](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_461.gif)
+## Am Ziegenberg
 
 Die ehemalige Quergasse wurde nach der Eingemeindung am 21. Oktober 1921 nach einem Flurnamen in Am Ziegenberg
 umbenannt. In diesem Teil von Niedergorbitz wurden beim Luftangriff auf Dresden 1945 einige Wohngebäude zerstört.
 
 
 
-![](../../../sudwest/gorbitz/strassen_gorbitz/birkenstra_e.jpg)
+## Birkenstraße
 
 Die im Zuge des zweiten Bauabschnitts des Neubaugebietes Gorbitz angelegte Birkenstraße erhielt am 18. Mai 1983 ihren
 Namen. Ebenso wie die benachbarte Hainbuchen-  und die Kirschenstraße wurde auch diese nach einer Baumart benannt, weshalb das Wohnviertel umgangssprachlich auch als Baumviertel bekannt ist.
 
-![braugässchen](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_462.gif)
+## Braugässchen
 
 Das Braugässchen erhielt seinen Namen nach der früheren Gorbitzer Brauerei, die zum Kammergut gehörte. Bis 1921 war für
 diesen Weg der Name Brauereistraße gebräuchlich. Die Brauerei wurde 1648 gegründet und befand sich auf dem Eckgrundstück zur Uthmannstraße. Wegen des guten Quellwassers genoß das hier gebraute Bier einen hervorragenden Ruf
@@ -51,7 +51,7 @@ Gorbitzbaches genutzt, welches im Winter angestaut und in Eisblöcken in Gewölb
 wurde. Nach dem Ersten Weltkrieg wurde der Braubetrieb eingestellt und das Areal als Fabrik zur Herstellung von Essenzen und Aromen genutzt. 1980 entstand nach Abbruch der Gebäude an gleicher Stelle ein Verwaltungsgebäude der
 Eisenbahner-Wohnungsbaugenossenschaft.
 
-![coventrystraße](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_463.gif)
+## Coventrystraße
 
 ![](../../../sudwest/gorbitz/strassen_gorbitz/gorbitzcoventrystr.jpg)
 Die Coventrystraße wurde 1979 angelegt und trug zunächst den Namen Hermann- Matern-Straße. Hermann Matern (1893-1971) war nach 1945 als Funktionär der KPD und der SED in Dresden tätig und wurde 1946 zum Ehrenbürger ernannt.
@@ -66,12 +66,12 @@ Straßenbahnhof. Die Grundsteinlegung erfolgte am 8. Dezember 1993, die Eröffnu
 heute die zentrale Betriebswerkstatt der DVB sowie Abstellhallen für bis zu 120 Stadtbahnwagen. Die Gleislänge beträgt insgesamt ca. 11 km. Der Betriebshof war wegen der Umstellung des Fuhrparks auf die längeren Stadtwahnwagenzüge
 notwendig geworden und ersetzt zugleich mehrere kleinere Straßenbahnhöfe.
 
-![](dahlienweg.jpg)
+## Dahlienweg
 
 Der Dahlienweg entstand im Zusammenhang mit dem ersten Bauabschnitt des Neubauviertes Gorbitz und wurde am 15. März
 1979 benannt. Wie auch bei den benachbarten Straßen Asternweg und Sonnenblumenweg erfolgte die Namensgebung nach einer Zierpflanzenart.
 
-![ebereschenstraße](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_1027.gif)
+## Ebereschenstraße
 
 Die Ebereschenstraße wurde Anfang der 1980er Jahre im Zuge des zweiten Bauabschnittes des Neubaugebietes Gorbitz
 angelegt und am 18. Mai 1983 offiziell benannt. Mit der Benennung nach einer Baumart knüpfte man an eine entsprechende
@@ -79,7 +79,7 @@ Tradition in diesem Stadtteil an. Die zuletzt zur Eisenbahner-Wohnungsbaugenosse
 an dieser Straße wurden 2005 abgerissen. An ihrer Stelle befindet sich heute der sogenannte Stadtblickpark mit einem
 kleinen Teich und verschiedenen Sport- und Spielanlagen. Von einer künstlich geschaffenen Erhebung bietet sich ein schöner Blick ins Elbtal.
 
-![](../../../sudwest/gorbitz/strassen_gorbitz/espenstra_e.jpg)
+## Espenstraße
 
 Die Espenstraße entstand im Zusammenhang mit dem Bau des zweiten Bauabschnitts des Neubaugebietes Gorbitz und wurde
 am 18. Mai 1983 benannt. Die Namensgebung erfolgte wie auch bei den benachbarten Straßen des Baumviertels nach einer
@@ -87,7 +87,7 @@ Laubbaumart. 1984 entstand ein Schulgebäude (Espenstraße 5), welches bis 1990 
 Felix Edmundowitsch Dzierzynski genutzt wurde. Später befand sich hier die 137. Mittelschule. Seit deren Auflösung nutzen heute die Freie Laborschule Dresden des Omse e.V. und die Freie Fachschule für Sozialwesen die Räume.
 
 
-![fliederberg](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_464.gif)
+## Fliederberg
 
 Die Straße trug bis zur Eingemeindung den Namen Bergstraße und wurde am 21. Oktober 1921 in Fliederberg umbenannt.
 Zu den historischen Gebäuden gehört das um 1755 errichtete Fachwerkhaus Nr. 2 an der Ecke zum Kuntzschberg. Seit Ende
@@ -100,18 +100,18 @@ weiteres Lokal gab es mit Hoffmanns Restaurant einst im Haus Fliederberg 18.
 
 **_Fotos:_** _die ehemalige Gorbitzer Beerenweinschänke am Fliederberg um 1910 und heute_
 
-![](../../../sudwest/gorbitz/strassen_gorbitz/forsythienstra_e.jpg)
+## Forsythienstraße
 
 Die Forsythienstraße entstand zur Erschließung des dritten Gorbitzer Bauabschnitts südlich der Coventrystraße und wurde am
 29\. August 1986 nach der Zierpflanzenart Forsythie benannt. Da sich hier mehrere nach Sträuchern und Krätern benannte
 Straßen befinden, wird das Wohngebiet im Volksmund Kräutersiedlung genannt. Im Zuge der Stadtsanierung nach 1990 erfolgten umfassende Umbauten an den bestehenden Plattenbauten. Diese wurden dabei um mehrere Geschosse reduziert,
 teilweise abgetragen und mit Balkons, Terrassen und Mietergärten ergänzt.
 
-![](../../../sudwest/gorbitz/strassen_gorbitz/georginenweg.jpg)
+## Georginenweg
 
 Der Georginenweg entstand Anfang der 1930er Jahre bei der Anlage eines kleinen Wohngebietes südlich der Kesselsdorfer Straße. In Erinnerung an die einstigen deutschen Gebiete Eupen und Malmedy, welche nach dem Versailler Vertrag 1920 an Belgien abgetreten werden mussten, erhielten die neu angelegten Straßen 1933 die Namen Eupener Straße und Malmedystraße. Am 15. März 1967 wurden beide umbenannt. Die frühere Malmedystraße trägt seitdem nach einer zur Familie der Dahlien gehörenden Pflanzenart den Namen Georginenweg.
 
-![geyersgraben](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_465.gif)
+## Geyersgraben
 
 Die frühere Straße Am Graben wurde ab 1921 Geyersgraben genannt. Die hier befindlichen Wohnhäuser gehören zum ehemaligen Niedergorbitzer Grabenviertel, welches seit dem 18. Jahrhundert nach seiner Lage diesen Namen trug. Das Wohnhaus Geyersgraben Nr. 15 steht als Baudenkmal unter Schutz.
 
@@ -119,7 +119,7 @@ Die frühere Straße Am Graben wurde ab 1921 Geyersgraben genannt. Die hier befi
 
 Die Hainbuchenstraße entstand beim Bau des zweiten Bauabschnitts im Neubaugebiet Gorbitz und wurde am 18. Mai 1983 benannt. Mehrere Straßen dieses Viertels erhielten ihre Namen nach Baumarten, hier nach der Hainbuche.
 
-![harry-dember-straße](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_466.gif)
+## Harry-Dember-Straße
 
 Die Straße wurde am 29. August 1986 nach einem Physiker und Hochschullehrer Harry-Dember-Straße benannt. Harry Dember (18821943) war zwischen 1909 und 1933 Professor an der Technischen Hochschule in Dresden und entwickelte u. a. die Grundlagen der Transistortechnik. Wegen seiner jüdischen Herkunft wurde er von den Nazis aus seinem Amt vertrieben und emigrierte in die USA.
 
@@ -141,11 +141,11 @@ Zeitgleich mit weiteren Straßen erhielt auch die Herzogswalder Straße am 15. M
 
 Auch die Hetzdorfer Straße verdankt ihren Namen einem Dorf in der Nähe von Dresden. Hetzdorf liegt am Rande des Tharandter Waldes und ist heute vor allem durch seine Kurklinik von Bedeutung. Die Straße wurde am 15. März 1979 benannt und befindet sich im zweiten Bauabschnitt innerhalb des Leutewitzer Rings. Am 7. November 1983 eröffnete hier eine von mehreren Gorbitzer Kindertagesstätten als Kombination von Kindergarten und -krippe (Nr. 2/4).
 
-![hilbertstraße](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_467.gif)
+## Hilbertstraße
 
 Die Hilbertstraße verdankt ihren Namen dem früheren Gemeindeältesten von Niedergorbitz Carl Hilbert (1848-1923). Hilbert war ab 1887 Vorsteher des Haus- und Grundbesitzervereins und viele Jahre Mitglied des Gemeindevorstands. 1912 erfolgte ihm zu Ehren die Benennung dieser Straße, die zunächst nur zwischen Hofwiesen- und Uthmannstraße verlief. Ende der 1920er Jahre wurde sie bis zur Kesselsdorfer Straße verlängert.
 
-![hirtenstraße](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_468.gif)
+## Hirtenstraße
 
 Die heutige Hirtenstraße trug bis 1926 den Namen Pietzschstraße nach dem Gutsbesitzer und Gemeinderat Julius Pietzsch. Der Name Hirtenstraße erinnert an die ehemalige Viehtreibe des Kammergutes in diesem Bereich. In den 1930er Jahren entstand hier eine Siedlung mit Einfamilienhäusern.
 
@@ -153,13 +153,13 @@ Die heutige Hirtenstraße trug bis 1926 den Namen Pietzschstraße nach dem Gutsb
 
 **_Fotos:_** _Siedlung Hirtenstraße (links) - Hexenhaus an der Hofwiesenstraße (rechts)_
 
-![hofwiesenstraße](a_rectangle_469.gif)
+## Hofwiesenstraße
 
 Ursprünglich trug diese Straße in Niedergorbitz den Namen Dammweg, der auf das ehemalige Dammviertel des Ortes hinwies. Am 21. Oktober 1921 wurde der Dammweg in Hofwiesenstraße umbenannt, da hier einst die Wiesen des in kurfürstlichem Besitz befindlichen Kammergutes lagen. Zu den romantischsten Gebäuden im alten Gorbitz zählt das nach 1990 liebevoll sanierte Hexenhaus auf der Hofwiesenstraße 28, welches heute als historisches Gasthaus dient. Erbaut wurde dieses Fachwerkhaus im Jahr 1802.
 
 
 
-![höhenpromenade](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_470.gif)
+## Höhenpromenade
 
 ![](../../../sudwest/gorbitz/strassen_gorbitz/gorbhöhenpromenade.jpg)Die Höhenpromenade wurde im Zusammenhang mit dem Gorbitzer Neubaugebiet angelegt und bildet die zentrale Achse des Stadtteils. Ihren Namen erhielt sie am 15. März 1979. Neben der Straßenbahntrasse sollte dieser Bereich als Fußgängerzone gestaltet werden. Geplant war der Bau individuell gestalteter Pavillons mit Geschäften, Gaststätten und Büros. Obwohl man 1984 mit der Realisierung begann, mussten die Arbeiten auf Weisung der DDR-Staatsführung eingestellt werden, da die benötigten Baumaterialien in Berlin benötigt wurden. Erst 1988 konnte die stark vereinfachte Höhenpromenade übergeben werden. Das Straßenbild prägen sechsgeschossige Punkthäuser, die ebenso wie die ursprünglich vier Pavillons mit individuell gestalteten farbigen Keramiktafeln verziert sind. Zwischen 2012 und 2015 erfolgte eine Neugestaltung der Höhenpromenade mit geschwungenen Wegen, Ruheplätzen und Bepflanzungen. 2012 wurde aus Anlass des 30. Geburtstages des Neubauviertels die Plastik Blumenwesen des Bildhauers Dietmar Gubsch eingeweiht.
 
@@ -171,22 +171,22 @@ Auch die Fassade des zweiten Pavillons ist mit Keramikelementen verziert, die in
 
 [![](../../../plattenblatt_lang.jpg)](http://www.plattenblatt.wg.am)
 
-![julius-vahlteich-straße](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_471.gif)
+## Julius-Vahlteich-Straße
 
 Die Julius-Vahlteich-Straße wurde 1979 nach einem Dresdner Arbeiterfunktionär benannt. Vahlteich (1839-1915) war
 Mitbegründer der SPD und ab 1867 Vorsitzender des Dresdner Arbeiterbildungsvereins. Östlich der Straße begann 1981der Aufbau des ersten Bauabschnittes des Neubaugebietes Gorbitz. Die Flächen zwischen Julius-Vahlteich-Straße und
 Merianplatz wurden 1982/83 mit dem zweiten Baubschnitt bebaut.
 
-[![kesselsdorfer straße](../../../sudwest/a_rectangle_472.gif)](../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/)
+## [Kesselsdorfer Straße](../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/)
 
-![leßkestraße](a_rectangle_473.gif)
+## Leßkestraße
 
 ![](../../../sudwest/gorbitz/strassen_gorbitz/gorbitzle_kestra_e.jpg)Die frühere Schulstraße verdankt ihren Namen dem Heimatforscher und Lehrer
 Friedrich August Leßke, der bis zu seinem Tod 1904 Direktor der Niedergorbitzer Schule war. Das Schulhaus Leßkestraße 1 entstand 1890 an Stelle eines abgerissenen
 Vorgängerbaus. Hier erinnert eine Gedenktafel an Leßke. Auch das Gebäude Leßkestraße 10, erbaut um 1800 als typisches Tagelöhnerwohnhaus, gehört zu den
 Sachzeugen der Niedergorbitzer Vergangenheit und wurde in den letzten Jahren saniert _(Foto)_. Im Haus Nr. 13 befand sich einst die Niedergorbitzer Dorfschänke. Unter Denkmalschutz steht auch der Dreiseithof Leßkestraße 6.
 
-![leutewitzer ring](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_474.gif)
+## Leutewitzer Ring
 
 ![](../../../sudwest/gorbitz/strassen_gorbitz/gorbleutewring.jpg)
 Der Leutewitzer Ring wurde im Zusammenhang mit dem Aufbau des Neubaugebietes Gorbitz angelegt und nach dem benachbarten Stadtteil Leutewitz benannt. Mit der
@@ -197,9 +197,9 @@ Im Innenhof des Wohnblocks Leutewitzer Ring gibt es seit Ende 2011 eine sogenann
 Leseecke mit überdachten Sitzgelegenheiten. Hier fand auch die Sandsteinplastik Die Lesende von Horst Weise ihren neuen Platz. Das im Zuge der baukünstlerischen Gestaltung des Neubauviertels 1986 geschaffene Kunstwerk stand
 ursprünglich vor dem Gebäude Leutewitzer Ring 9, wo von 1986 bis 1997 die Gorbitzer Stadtteilbibliothek ihr Domizil hatte.
 
-[![club passage leutewitzer ring 5, 01169 dresden, tel. 0351/4112665 internet: www.club-passage.de](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_475.gif)](http://www.club-passage.de)
+[Club passage leutewitzer ring 5, 01169 dresden, tel. 0351/4112665 internet: www.club-passage.de](http://www.club-passage.de)
 
-![merianplatz](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_476.gif)
+## Merianplatz
 
 ![](../../../sudwest/gorbitz/strassen_gorbitz/gorbsachsenforum.jpg)Der heutige Merianplatz wurde 1979
 als Platz der Eisenbahner angelegt, da die hier errichteten Neubauten teilweise von der Eisenbahner-Wohnungsbaugenossenschaft (EWG) vermietet wurden. Der Platz war von Anfang an als Stadtteilzentrum der neuen
@@ -210,25 +210,25 @@ geschaffen. 1996 wurde am Merianplatz das Erlebnisbad Elbamare eröffnet.
 Der Name des Platzes erinnert an die Malerin, Kupferstecherin und Naturforscherin Maria Sibylla Merian (1647-1717), die
 vor allem durch ihre naturgetreuen Pflanzenzeichnungen berühmt wurde. Außerdem widmete sie sich als eine der ersten Frauen der Insekten- und Schmetterlingskunde und veröffentlichte mehrere naturkundliche Bücher.
 
-![rädestraße](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_477.gif)
+## Rädestraße
 
 Die Rädestraße, vor 1926 Heinrichstraße genannt, erhielt ihren Namen nach dem ehemaligen Obergorbitzer
 Gemeindevorstand Friedrich Gottlieb Räde. Die Familie war über mehrere Generationen im Ort ansässig und stiftete Geld für gemeinnützige Zwecke. 1905 wurde an der Rädestraße der [Gorbitzer Friedhof](../../../sudwest/gorbitz/kirchen_gorbitz/) angelegt.
 
-![schreberstraße](a_rectangle_478.gif)
+## Schreberstraße
 
 Die Schreberstraße wurde 1933 nach dem Leipziger Arzt Daniel Moritz Schreber (1808-1861) benannt, der als Begründer der Kleingartenbewegung gilt (Schrebergärten). An
 dieser Straße entstand im gleichen Jahr eine auch als Schweinesiedlung bezeichnete kleine Wohnanlage in Nachbarschaft der sogenannten Schweinesenke der Kammergutes.
 Die bescheidenen Häuschen mit Wohn- und Stallräumen wurden von Arbeitslosen auf einem von der Stadt kostenlos zur
 Verfügung gestellten Stück Land errichtet und mit zinsgünstigen Krediten finanziert. Offiziell hieß diese neue Gorbitzer Siedlung Wetterscheide.
 
-![silberfund](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_479.gif)
+## Silberfund
 
 Die Straße, vor der Eingemeindung 1921 Mittelstraße genannt, erhielt ihren heutigen Namen Silberfund nach einem hier gemachten Fund von historischen Silbermünzen aus der Napoleonzeit. Der Fund geht vermutlich auf die Jahre der französischen Besatzung zurück, als Gorbitzer Bauern ihren Besitz zum Schutz vor Plünderungen vergruben.
 
-[![uthmannstraße](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_480.gif)](../../../sudwest/gorbitz/strassen_gorbitz/uthmannstrasse/)
+## [Uthmannstraße](../../../sudwest/gorbitz/strassen_gorbitz/uthmannstrasse/)
 
-![wilsdruffer ring](../../../sudwest/gorbitz/strassen_gorbitz/a_rectangle_1151.gif)
+## Wilsdruffer Ring
 
 Der Wilsdruffer Ring wurde 1983 angelegt und so wie weitere Straßen im Neubaugebiet nach einem Ort der Umgebung
 benannt. Die Kleinstadt Wilsdruff liegt zwischen Dresden und Meißen und ist Verwaltungszentrum für mehrere Dörfer der

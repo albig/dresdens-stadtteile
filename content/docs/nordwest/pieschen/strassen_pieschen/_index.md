@@ -3,15 +3,15 @@ title: "Straßen und Plätze in Pieschen"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-[![altpieschen](../../../nordwest/pieschen/strassen_pieschen/a_rectangle_1329.gif)](../../../nordwest/pieschen/strassen_pieschen/altpieschen/)
+## [Altpieschen](../../../nordwest/pieschen/strassen_pieschen/altpieschen/)
 
-![arno-lade-straße](../../../nordwest/pieschen/strassen_pieschen/a_rectangle_1450.gif)
+## Arno-Lade-Straße
 
 ![](../../../nordwest/pieschen/strassen_pieschen/pieschenarnoladestr.jpg)Die heutige Arno-Lade-Straße am östlichen Rand des Pieschener Dorfkerns trug ursprünglich den Namen Dorffrieden, wurde jedoch ab 1904 Yorckstraße genannt. Als Dorffrieden bezeichnete man früher den meist von einem Zaun umgebenen Kernbereich des Ortes, in dem besondere Rechtsverhältnisse galten. Johann David Ludwig Graf Yorck von Wartenburg (1759-1830) schloss als preußischer Generalmajor 1812 die Konvention von Tauroggen, die als Auslöser der antinapoleonischen Befreiungsbewegungen in Deutschland gilt. Mitte der 1920er Jahre entstanden zwischen Yorck- und Rehefelder Straße einige Wohnbauten der GEWOBAG (Nr. 10-22), die von Hans Richter entworfen wurden _(Foto)_. Hier gab es auch ein der Wärmeversorgung der Gebäude dienendes kleines Heizwerk, eine Zentralwäscherei und mehrere Läden. Richter ist vor allem als Architekt der Trachauer Siedlung bekannt. An der Grundstücksmauer des Hauses Arno-Lade-Straße 9 erinnert eine Sandsteintafel an die Zerstörung des Vorgängerbaus durch einen Brand am 24. Juni 1875.
 
 Am 28. Mai 1946 wurde die Yorckstraße in Arno-Lade-Straße umbenannt. Arno Lade (1892-1944), der in Pieschen auf der Wurzener Straße 12 wohnte, gehörte seit 1920 der KPD an und war ab 1924 Stadtrat in Dresden. Außerdem war er Mitglied des Betriebsrates der Dresdner Straßenbahn. Nach 1933 engagierte er sich im antifaschistischen Widerstand und wurde mehrfach verhaftet. 1944 verstarb Arno Lade an den Folgen eines Gestapo-Verhörs im Dresdner Polizeigefängnis.
 
-![barbarastraße](../../../nordwest/pieschen/strassen_pieschen/a_rectangle_1444.gif)
+## Barbarastraße
 
 Die Barbarastraße entstand Ende des 19. Jahrhunderts im Zusammenhang mit der Bebauung der Freiflächen nördlich der Bahnlinie. Am 5. Februar 1878 hatte die Gemeinde Pieschen ein Ortsgesetz erlassen, wonach neue Fabrikbauten in dem Gebiet zwischen Eisenbahn und Großenhainer Straße konzentriert werden sollten. Daraufhin siedelten sich hier bis zur Jahrhundertwende eine Reihe von Unternehmen an, darunter die Nähmaschinenteile-Fabrik Würker und die Filz- und Strohhutfabrik Gebr. Köckritz. Ihre Namen erhielt die Straße 1898 wegen ihrer Nähe zu den einstigen Artillerie-Übungsplätzen nach der Schutzpatronin der Artilleristen und der Berg- und Hüttenleute. Ursprünglich war ihre Verlängerung bis in die Hellerberge geplant.
 
@@ -25,7 +25,7 @@ Das Unternehmen existierte bis Anfang der 1930er Jahre. Nach der Produktionseins
 
 1918 vereinigten sich beide Unternehmen zur Nähmaschinen-Teile-Aktien-Gesellschaft (Nähmatag) und entwickelten sich mit zu 1000 Angestellten zu einem der wichtigsten Betriebe der Branche. 1945 unter sowjetische Zwangsverwaltung gestellt und 1946 als VEB Nähmaschinenteilewerke Dresden verstaatlicht, entstanden in dem ausgedehnten Gebäudekomplex noch bis 1990 Schiffchen und andere Kleinteile für den Nähmaschinenbau, bevor der Traditionsbetrieb, zuletzt ein Teil der westdeutschen Firma Pfaff, Konkurs anmelden und seine Produktion einstellen musste. 2015 begann der Umbau der ehemaligen Betriebsgebäude zur Wohnanlage Barbarahof.
 
-![](../../../nordwest/pieschen/strassen_pieschen/braunschweiger_stra_e.jpg)
+## Braunschweiger Straße
 
 Die kurz vor dem Ersten Weltkrieg angelegte Braunschweiger Straße erhielt ihren Namen am 3. Februar 1911. Namensgeber ist die niedersächsische Stadt Braunschweig. Im Eckhaus zur Moltkestraße (heute Robert-Matzke-Straße 38) gab es noch bis in jüngere Vergangenheit die Gaststätte "Pieschener Hof", an die noch alte Inschriften an der Fassade erinnern.
 
@@ -35,19 +35,19 @@ Die kurz vor dem Ersten Weltkrieg angelegte Braunschweiger Straße erhielt ihren
 
 _rechts das Wohnhaus Braunschweiger Straße 2_
 
-[![](../../../nordwest/pieschen/strassen_pieschen/b_rgerstra_e.jpg)](../../../nordwest/pieschen/strassen_pieschen/burgerstrasse/)
+## [Bürgerstraße](../../../nordwest/pieschen/strassen_pieschen/burgerstrasse/)
 
-![](../../../nordwest/pieschen/strassen_pieschen/coswiger_stra_e.jpg)
+## Coswiger Straße
 
 ![](../../../nordwest/pieschen/strassen_pieschen/piesch_coswigerstr.jpg)![](../../../nordwest/pieschen/strassen_pieschen/piesch_coswigerstr2.jpg)Die heutige Coswiger Straße wurde 1883 zur Erschließung des Pieschener Industriegebietes angelegt und zunächst Kleine Maschinenhausstraße genannt. Nachdem die nahegelegene Große Maschinenhausstraße drei Jahre später in Fabrikstraße umbenannt worden war (heute Riesaer Straße), änderte sich der Name in Maschinenhausstraße. Nach der Eingemeindung Pieschens erfolgte 1897 die Umbenennung nach der Stadt Coswig.
 
 Im Eckhaus zur Riesaer Straße (Nr. 17 - _Foto links_) befand sich einst Oswin Rietschel´s Restaurant, später Hotel "Coswiger Hof" genannt. Heute dienen die Räume Wohnzwecken.
 
-![eschebachstraße](../../../nordwest/pieschen/strassen_pieschen/a_rectangle_1453.gif)
+## Eschebachstraße
 
 Die Eschebachstraße, 1911 im Nordteil der Pieschener Flur angelegt, verdankt ihren Namen dem Industriellen Carl Eschebach (1842-1905). Eschebach begann seine berufliche Laufbahn als Klempner und war gründete 1872 die [Eschebach-Werke](../../../nordwest/pieschen/eschebach-werke/). Das Unternehmen wurde vor allem als Hersteller von Küchenmöbeln und Haushaltwaren bekannt und hatte seinen Stammsitz seit 1900 auf der Riesaer Straße in Pieschen.
 
-![](../../../nordwest/pieschen/strassen_pieschen/friedewalder_stra_e.jpg)
+## Friedewalder Straße
 
 Die Friedewalder Straße entstand erst in den 1990er Jahren und führt von der Hubertusstraße in ein Wohngebiet. Zur Erschließung der kleinen Siedlung wurde außerdem der Friedewalder Weg angelegt. Beide Straßen erhielten ihre Namen im Juni 1994 nach dem Luftkurort Friedewald, heute ein Ortsteil von Moritzburg.
 
@@ -57,7 +57,7 @@ Die Friedewalder Straße entstand erst in den 1990er Jahren und führt von der H
 
 Restaurant Trachenberge (Nr. 2): Das Eckhaus zur Döbelner Straße _(Fotos)_ entstand Ende des 19. Jahrhunderts. Im Erdgeschoss gab es ab 1897 das Restaurant "Trachenberge", welches sich ab 1913 viele Jahrzehnte im Besitz der Familie Sauer befand und noch bis nach dem Zweiten Weltkrieg existierte. Seit 2012 dienen die einstigen Gaststättenräume als Atelier einer Künstlergemeinschaft, zu der die Künstlerinnen Alexandra Wegbahn, Steffi Köhler und Claudia Bieberstein, die Bildhauerin Martina Beyer und die Fotografin Anja Schneider gehören.
 
-[![großenhainer straße](../../../a_rectangle_110.gif)](../../../neustadt/leipziger_vorstadt/grossenhainer_strasse/)
+## [Großenhainer Straße](../../../neustadt/leipziger_vorstadt/grossenhainer_strasse/)
 
 ![hans-fromm-straße](../../../nordwest/pieschen/strassen_pieschen/hans-fromm-straße.jpg)
 
@@ -67,13 +67,13 @@ Die Hans-Fromm-Straße wurde 2016 im Zusammenhang mit dem Neubauviertel "Markusp
 
 **_Fotos:_** _Blick in die Hans-Fromm-Straße im Frühjahr 2020_
 
-![](../../../nordwest/pieschen/strassen_pieschen/hans-sachs-stra_e.jpg)
+## Hans-Sachs-Straße
 
 ![](../../../nordwest/pieschen/strassen_pieschen/pieschenpalmieh_user.jpg)Die Hans-Sachs-Straße wurde im Zusammenhang mit dem Bau einer kleinen Wohnsiedlung um 1895 angelegt. Ihren Namen erhielt sie 1896 nach dem Dichter Hans Sachs (1494-1576), der durch seine volkstümlich-kritischen Stücke bekannt wurde. Die ersten Wohnhäuser entstanden Ende des 19. Jahrhunderts für Pieschener Arbeiterfamilien. In den Eckhäusern zur Kleiststraße (Nr. 14) und zur Seumestraße (Nr. 23) gab es mit der "Kleistschänke" und dem "Köpenicker Hof" zwei für die Vorstadt typischen Eckkneipen.
 
 Zwischen 1912 und 1914 errichtete an der Hans-Sachs- und der benachbarten [Marienhofstraße](../../../nordwest/trachenberge/strassen_trachenberge/) der Dresdner Spar- und Bauverein die sogenannten Palmié-Häuser _(Foto)_. Architekt der kleinen Wohnanlage (Nr. 33-35) war Heinrich Koch. In den Zwanziger Jahren wurden am Straßenrand zahlreiche Gingko-Bäume angepflanzt. Die ursprünglich aus China stammenden Bäume bilden eine der in Sachsen äußerst seltenen Gingko-Alleen und stehen seit 2004 unter Naturschutz.
 
-![heidestraße](a_rectangle_114.gif)
+## Heidestraße
 
 ![](../../../nordwest/pieschen/strassen_pieschen/piesch_heidestraße.jpg)![](../../../nordwest/pieschen/strassen_pieschen/werbung_ebert.jpg)Die Heidestraße, Teil eines alten Verbindungsweges zwischen Pieschen und der Dresdner Heide, führt durch das Pieschener Fabrikviertel. 1879 hatte die damals noch selbstständige Gemeinde Pieschen das Areal zwischen Eisenbahn und Großenhainer Straße per Ortsgesetz als Industriegebiet ausgewiesen. Der in diesem Zusammenhang ausgebaute Weg erhielt 1886 den Namen Haidestraße. Seine westliche Verlängerung wurde zwischen 1892 und 1897 Moltkestraße genannt, bevor man den Abschnitt zwischen Riesaer und Großenhainer Straße ebenfals der Haidestraße zuordnete. 1906 wurde die Schreibweise in Heidestraße verändert.
 
@@ -109,13 +109,13 @@ Der Hubertusplatz befindet sich an der als Verkehrsknotenpunkt wichtigen Kreuzun
 
 **_Fotos:_** _Hubertusplatz mit Seniorenresidenz "Alexa"_
 
-![hubertusstraße](../../../nordwest/pieschen/strassen_pieschen/a_rectangle_1454.gif)
+## Hubertusstraße
 
 ![](../../../nordwest/pieschen/strassen_pieschen/piesch_hubertusstr.jpg)Die Hubertusstraße geht auf einen alten Verbindungsweg zurück, der vom Pieschener Ortskern in nördlicher Richtung nach Trachenberge führte, wo einst auch Pieschener Bauern Weinberge besaßen. Der seit 1897 verwendete Name erinnert an den Schutzpatron der Jäger, den 743 heilig gesprochenen Bischof Hubertus von Lüttich, und entstand vermutlich wegen der Nachbarschaft der Straße zum Heidewald. 1884 wurde im südlichen Teil unmittelbar an der Bahnbrücke der [Markusfriedhof](../../../nordwest/pieschen/markuskirche/) angelegt. Aus diesem Grund wurde die vorbeiführende Straße von 1895 bis 1897 Friedensstraße genannt.
 
 ![](../../../nordwest/pieschen/strassen_pieschen/piesch_hubertusstr6.jpg)Das Straßenbild zwischen Großenhainer und Riesaer Straße prägen in den Jahren nach dem Ersten Weltkrieg entstandene Wohnblocks _(Foto links)_. Jenseits der Großenhainer Straße dominieren hingegen Einzelhäuser aus der Gründerzeit. In den Hausnummern 10 (Ecke Riesaer Straße) und 30 (Ecke Marienhofstraße) gab es früher kleine Lokale, in letzterem später eine Filiale der Sparkasse. In der Nr. 51 hatte die Maschinenfabrik E. Kohl ihren Sitz, die u.a. Turbinen, Ventilatoren, Lüftungs- und Heizungsanlagen herstellte. Nach 1990 entstand gegenüber dem Markusfriedhof ein modernes Wohn- und Geschäftshaus (Nr. 8) mit Klinkerfassade und mehreren Läden und einer Tagespflegeeinrichtung _(Foto rechts)_.
 
-![kleiststraße](../../../nordwest/pieschen/strassen_pieschen/a_rectangle_752.gif)
+## Kleiststraße
 
 Die Kleiststraße entstand Ende des 19. Jahrhunderts beim Bau einer Arbeiterwohnsiedlung im Norden der Pieschener Flur. Mit der Namensgebung wird seit 1899 an den deutschen Dramatiker Heinrich von Kleist (1777-1811) erinnert. Kleist gehört zu den bedeutendsten Vertretern der Spätklassik und verfasste zahlreiche Dramen und Lustspiele. Im Haus Nr. 10 hatte früher die Firma G. Heyde KG - Werkstätten für Feinmechanik und Optik ihren Sitz.
 
@@ -131,7 +131,7 @@ Die Kleiststraße entstand Ende des 19. Jahrhunderts beim Bau einer Arbeiterwohn
 
 Im Wohnhaus Konkordienplatz 1 gab es früher eine Gaststätte. In der Nr. 2 produzierte bis 1918 die Zigarettenfabrik Isaak Leon Sulkin. Der ehemalige Zigarettenarbeiter hatte sich 1907 selbständig gemacht und besaß ein Ladengeschäft auf der Oschatzer Straße 7. Wenig später nutzte die Firma Geschäftsräume im Erdgeschoss der Oschatzer Straße 8 und am Konkordienplatz 2. Nach dem Tod Sulkins wurde die Firma bis Anfang der 1930er Jahre von seiner Witwe Sofie weitergeführt. Die Geschäftsräume befanden sich auf der Leipziger Straße 129.
 
-![konkordienstraße](../../../nordwest/pieschen/strassen_pieschen/a_rectangle_1445.gif)
+## Konkordienstraße
 
 ![](../../../nordwest/pieschen/strassen_pieschen/piesch_konkordienstr.jpg)Die Konkordienstraße, die sowohl über Pieschener als auch Neudorfer Flur führt, ist Teil des bereits im Mittelalter existierenden Bischofsweges, der von den Bischöfen bis 1559 auf ihrem Weg von Meißen über Briesnitz nach Stolpen genutzt wurde. Zeitweise wurde der Abschnitt zwischen Moritzburger und der heutigen Gehestraße als Neudörfer Mittelweg bezeichnet. 1866 erhielt dieser Weg auf Neudorfer Flur den Namen Concordienstraße, während der Pieschener Teil noch bis zur Eingemeindung 1897 Elbstraße genannt wurde. Erst 1906 setzte sich die heutige Schreibweise Konkordienstraße für den gesamten Straßenzug durch.
 
@@ -143,7 +143,7 @@ Die Bezeichnung erinnert an die 1577 von Kurfürst August verfasste kirchliche �
 
 Kleingartenverein Concordia: Die Gartensparte wurde als eine der ersten in Dresden im Jahr 1900 unmittelbar am damaligen Concordienplatz angelegt. Auch nach dem Wechsel der Schreibweise des Straßennamens vom C zum K behielt der Verein seinen Namen aus Traditionsgründen bei. Nutzer der ca. 25 Parzellen waren zumeist Arbeiter, Handwerker und Kleinunternehmer der benachbarten Wohnviertel, die sich hier der Eigenversorgung mit Obst und Gemüse widmeten. Außerdem war der Verein bis in die 1950er Jahre Veranstalter eines alljährlichen Festumzugs durch die Pieschener Straßen.
 
-[![leipziger straße](../../../a_rectangle_102.gif)](../../../neustadt/leipziger_vorstadt/leipziger_strasse/)
+## [Leipziger Straße](../../../neustadt/leipziger_vorstadt/leipziger_strasse/)
 
 ![leisniger platz](../../../nordwest/pieschen/strassen_pieschen/leisniger_platz.jpg)
 
@@ -153,7 +153,7 @@ Kleingartenverein Concordia: Die Gartensparte wurde als eine der ersten in D
 
 Pieschener Windmühle: Am Rande des heutigen Leisniger Platzes befand sich einst die Pieschener Windmühle. Diese war 1867 vom Windmüller Karl Friedrich Trentzsch (1822-1887), der bereits im benachbarten Trachau eine [Windmühle](../../../nordwest/trachau/) besaß, gebaut worden. Die Mühle blieb jedoch nur zehn Jahre in Betrieb und musste dann der wachsenden Konkurrenz dampfbetriebener Großmühlen weichen. Ihr Abbruch erfolgte fünf Jahre später.
 
-![leisniger straße](../../../nordwest/pieschen/strassen_pieschen/a_rectangle_1447.gif)
+## Leisniger Straße
 
 ![](../../../nordwest/pieschen/strassen_pieschen/piesch_leisnigerstr1.jpg)Die ab 1889 wegen ihres bogenförmigen Verlaufs als Ringstraße bezeichnete Straße entstand im Zusammenhang mit der zunehmenden Bebauung der Pieschener Flur und bildet den nördlichen Abschluss des Ortskerns in Richtung Bahnlinie. Nach der Eingemeindung wurde sie 1897 nach der Kleinstadt Leisnig bei Döbeln in Leisniger Straße umbenannt.
 
@@ -193,7 +193,7 @@ Die Markusstraße verdankt ihren Namen, ebenso wie der angrenzende Markusplatz d
 
 _und das Pfarrhaus der Markuskirche (rechts)_
 
-![mohnstraße](a_rectangle_115.gif)
+## Mohnstraße
 
 ![](../../../nordwest/pieschen/strassen_pieschen/piesch_mohnstr35.jpg)Die Mohnstraße verdankt ihren Namen dem früheren Pieschener Lehrer Gottlieb Mohn (1811-1881), der 48 Jahre an der Pieschener Schule tätig war. Ihren Namen erhielt sie 1889. Hier befand sich an der Ecke Mohnstraße/Altpieschen einst das größte Bauerngut Pieschens (Nr. 46), welches auch als Bischofsgut bekannt war. Ursprünglich gehörte es als Herrengut zum Besitz der Meißner Bischöfe, die es als Raststätte auf dem Weg von Meißen nach Stolpen nutzten. 1899 wurde das Gut abgerissen. Wenig später entstanden hier Wohnhäuser und die von Hans Erlwein entworfene Wohnanlage [Altpieschen 5-15](../../../nordwest/pieschen/strassen_pieschen/altpieschen/). Da sie in ihrem Verlauf teilweise dem alten Kirchweg von Pieschen nach Kaditz folgt, war ein Teil der Mohnstraße ab 1886 als Kirchstraße benannt und wurde erst 1897 ebenfalls der Mohnstraße zugeordnet.
 
@@ -203,9 +203,9 @@ _und das Pfarrhaus der Markuskirche (rechts)_
 
 Von den einstigen Handwerksbetriebe soll hier die um 1900 erstmals genannte Böttcherei Eduard Stockmann erwähnt werden (Nr. 13). Zwischen 1910 und 1934 betrieb der Hauseigentümer Paul Richter im gleichen Gebäude einen Handwagenverleih. Nach dessen Verkauf an Böttchermeister Fritz Knippe firmierte das Unternehmen als "Pieschener Böttcherei" und existierte noch bis ca. 1960. Knippes Sohn Karlheinz Knippe wechselte nach der Schließung zur PGH "Sachsenfaß". Im Hintergebäude Mohnstraße 24-26 besaß Adolf Hess ab 1898 eine Fabrik für Gießereimodelle, die später als "Adolf Hess & Sohn Modellfabrik" firmierte und nach 1945 als Abteilung Modellbau Betriebsteil des [VEB Eisenhammerwerk Dölzschen](../../../sud/plauen/plauenscher_grund/eisenhammerwerk/) war. Architektonisch interessant ist das benachbarte frühere Wohnhaus des Diakons der Markuskirche mit Reliefbüsten von Martin Luther und Philipp Melanchthon an der Fassade (Nr. 28). Vor dem Ersten Weltkrieg gab es im Haus ein evangelisches Jungfrauenheim und im Erdgeschoss den Konfirmandensaal der Kirche.
 
-[![oschatzer straße](../../../nordwest/pieschen/strassen_pieschen/a_rectangle_1409.gif)](../../../nordwest/pieschen/strassen_pieschen/oschatzer_strasse/)
+## [Oschatzer Straße](../../../nordwest/pieschen/strassen_pieschen/oschatzer_strasse/)
 
-![osterbergstraße](a_rectangle_116.gif)
+## Osterbergstraße
 
 Die Osterbergstraße, bis zur Eingemeindung Pieschens 1897 Bergstraße genannt, wurde 1877 angelegt und führte zum Zeitpunkt ihrer Entstehung noch durch Weinberge der Pieschener Bauern. Namensgeber war der Osterberg in der Nähe von Niederwartha.
 Nach der Jahrhundertwende entstanden auch hier mehrstöckige Mietshäuser. 1879 wurde das heute von der [26\. Grundschule](../../../nordwest/pieschen/) genutzte Schulhaus gebaut. Das Eckhaus zur Bürgerstraße (Nr. 24/26) wurde um 1910 errichtet und beherbergte im Erdgeschoss in den 1930er Jahren eine Haushaltwaren-Verkaufsstelle des Konsumsvereins "Vorwärts". Ab 1941 nutzte die Post diese Räume. Das zweite Ladenlokal diente ab 1938 als Sparkassenfiliale. Zuvor war diese ab 1886 im Erdgeschoss des gegenüberliegenden Rathauses untergebracht. 1994 verzog sie ins Elbcenter. Die einstigen Schalterräume nutzt seitdem das DRK als Kleiderkammer.
@@ -222,7 +222,7 @@ _\- links ein Blick in die Schalterhalle der Sparkasse um 1938 (SLUB / Fotothek)
 
 Die Promnitztalstraße wurde Ende der 1990er Jahre in der Nähe des Hubertusplatzes angelegt und entstand zur Erschließung eines kleinen Wohngebietes. Benannt ist sie nach der Gemeinde Promnitztal, die heute zur Stadt Radeburg gehört.
 
-![rehefelder straße](../../../nordwest/pieschen/strassen_pieschen/a_rectangle_1449.gif)
+## Rehefelder Straße
 
 Die heutige Rehefelder Straße, einst Triebe genannt und für den Viehauftrieb der Pieschener Bauern genutzt, erhielt nach ihrem Ausbau Ende des 19. Jahrhunderts 1889 den Namen Wasastraße. Mit dieser Namensgebung sollte das schwedische Königshaus, insbesondere die aus dieser Familie stammende sächsische Königin Carola geehrt werden. Um Verwechslungen mit einer gleichnamigen Straße in Strehlen zu verhindern, erfolgte im Zusammenhang mit der Eingemeindung Pieschens 1897 die Umbenennung in Rehefelder Straße. Der kleine Ort im Osterzgebirge in der Nähe von Altenberg ist Standort eines Jagdschlosses der Wettiner und bot sich wegen seinem Bezug zur Jagd als Namensgeber der Straße an. Neben Wohnhäusern entstand hier 1910 die katholische [St.-Josephs-Kirche](../../../nordwest/pieschen/st_-josefs-kirche/).
 
@@ -236,7 +236,7 @@ Außerdem gibt es auf der Rehefelder Straße zwei Kindertagesstätten. Eine befi
 
 Während des Luftangriffs 1945 gab es auch im Bereich der Gartenanlage einige Schäden. In der Nachkriegszeit wurden die Gärten jedoch bald wieder für die Versorgung mit Obst und Gemüse genutzt. Das alte Vereinsheim wurde rekonstruiert und umgebaut 1964 erfolgte die Grundsteinlegung für den Neubau eines Kulturheims, welches am 25. Oktober 1969 eingeweiht werden konnte und heute als öffentliche Gaststätte dient. Zur Anlage gehören derzeit 280 Gärten.
 
-![riesaer straße](a_rectangle_117.gif)
+## Riesaer Straße
 
 Die Riesaer Straße wurde Ende des 19. Jahrhunderts parallel zum Bahndamm angelegt und führt an zahlreichen Industriebetrieben vorbei. Von 1883 bis 1886 trug sie zunächst den Namen Große Maschinenhausstraße, bevor dann der Name Fabrikstraße eingeführt wurde. Nach der Eingemeindung von Pieschen 1897 erfolgte die Umbenennung nach der Industriestadt Riesa.
 
@@ -250,7 +250,7 @@ Zweites größeres Unternehmen war die Malzfabrik Woldemar Schmidt AG an der Rie
 
 Sachsenverlag (Nr. 32): Die Sachsenverlag Druckerei- und Verlagsgesellschaft mbH wurde 1947 im Komplex des sogenannten "Goehle-Werkes" gegründet, in dem nach dem Zweiten Weltkrieg auch die "Sächsische Zeitung" beheimatet war. Der ausgedehnte Gebäudekomplex erstreckt sich zwischen Großenhainer, Heide- und Riesaer Straße und dient heute als Kulturzentrum "Zentralwerk e.V." und Gründerzentrum. Erstes Buch des neuen Verlags war die von Paul W. Eisold verfasste Dokumentation "Hitler wie er wirklich war" über den Aufstieg und die Verbrechen der Nationalsozialisten. Später konzentrierte man sich vor allem auf heimatkundliche Bücher und Kunstbände, von denen u.a. Fritz Löfflers "Das alte Dresden" bekannt geworden ist. Hinzu kamen belletristische Titel und Kinderbücher. 1962 wurde der Sachsenverlag aufgelöst.
 
-![robert-matzke-straße](a_rectangle_118.gif)
+## Robert-Matzke-Straße
 
 ![](../../../nordwest/pieschen/strassen_pieschen/pieschrmatzke34.jpg)Die heutige Robert-Matzke-Straße war ursprünglich Teil eines Verbindungsweges, welcher von Pieschener Ortskern zum St.-Pauli-Friedhof und weiter in die Dresdner Heide führte und deshalb ab 1886 Haidestraße genannt wurde. 1892 erhielt der westliche Abschnitt dieses Weges bis zur Großenhainer Straße die Benennung Moltkestraße. 1897 wurde der östlich der Bahnlinie gelegene Teil wieder der Heidestraße zugeordnet, die Moltkestraße dafür zwei Jahre später bis zur Leipziger Straße verlängert. Helmuth Graf von Moltke (1800-1891) war Generalfeldmarschall in der preußischen Armee und gilt als einer der bedeutendsten Militärführer des 19. Jahrhunderts. 1871 ernannte ihn die Stadt Dresden zum Ehrenbürger.
 
@@ -262,21 +262,21 @@ Am 1. Juli 1946 wurde die Moltkestraße wegen ihres militärischen Bezugs in Rob
 
 
 
-![](../../../nordwest/pieschen/strassen_pieschen/r_ckertstra_e.jpg)
+## Rückertstraße
 
 ![](../../../nordwest/pieschen/strassen_pieschen/pieschenr_ckertstr.jpg)![](../../../nordwest/pieschen/strassen_pieschen/piesch_rückertstr.jpg)Die Rückertstraße entstand um 1900 im Nordteil der Pieschener Flur, als hier eine kleine Arbeitersiedlung errichtet wurde. Ihren Namen erhielt sie 1901 nach dem spätromantischen Dichter Friedrich Rückert (1788-1866). Rückert verfasste vor allem lyrische Werke, die als Hauspoesie seinerzeit sehr beliebt waren.
 
 Die noch erhaltenen Wohnhäuser wurden in den letzten Jahren saniert. Bemerkenswert sind die zwischen 1913 und 1920 entstandenen Palmié-Häuser des Dresdner Spar- und Bauvereins zwischen Rückert-, Maxim-Gorki- und Hans-Sachs-Straße _(Foto rechts)_. Architekt der Wohnanlage (Nr. 22-30) war Heinrich Koch.
 
-![schiffsstraße](../../../nordwest/pieschen/strassen_pieschen/a_rectangle_1452.gif)
+## Schiffsstraße
 
 Die schmale Schiffsstraße verlief einst zwischen Leipziger und Mohnstraße in der Nähe des alten Dorfkerns. Ihren Namen verdankte sie den hier ansässigen Elbschiffern. Von 1886 bis 1897 wurde sie Elbgasse genannt. Bereits kurz nach 1900 begann der Abriss der ersten Gebäude, da diese nicht mehr den Anforderungen genügten. Weitere Häuser folgten 1930. 1994/95 wurde die Fläche mit dem neuen Pieschener Stadtteilzentrum Elbcenter bebaut und die Benennung zum 31. August 1996 aufgehoben.
 
-![](../../../nordwest/pieschen/strassen_pieschen/seumestra_e.jpg)
+## Seumestraße
 
 Die Seumestraße in der Nähe des Trachenberger Platzes wurde nach 1890 angelegt, als hier eine kleine Wohnsiedlung entstand. Die Straßen der nach einheitlicher Konzeption errichteten Anlage erhielten ihre Namen 1899 nach bekannten deutschen Dichtern: Heinrich von Kleist, Hans Sachs, Friedrich Rückert und Johann Gottfried Seume. Seume lebte von 1763 bis 1810 und wurde vor allem durch seinen Spaziergang nach Syrakus bekannt. Die Doppelmietshäuser Nr. 26 bis 32 und Nr. 29 bis 33 stehen unter Demkmalschutz.
 
-![torgauer straße](../../../nordwest/pieschen/strassen_pieschen/a_rectangle_1448.gif)
+## Torgauer Straße
 
 ![](../../../nordwest/pieschen/strassen_pieschen/pieschentorgauerstr.jpg)Die heutige Torgauer Straße trug ursprünglich ab 1877 den Namen Hafenstraße, da sie am 1856-59 angelegten Pieschener Elbhafen endete. Erst nach der Eingemeindung Pieschens erfolgte 1897 die Umbenennung in Torgauer Straße nach der Stadt Torgau an der Elbe.
 
@@ -292,7 +292,7 @@ Hier befand sich einst auch der alte Pieschener Dorfgasthof (Nr. 38), der Ende d
 
 Der Trachauer Heideweg ist bereits um 1900 als namenloser Weg in den Stadtplänen verzeichnet und verband den Trachauer Dorfkern mit der Dresdner Heide. Inoffiziell wurde er von den Anwohnern Haideweg genannt. 1904 erhielt der auf Trachauer und Pieschener Flur gelegene westliche Abschnitt bis zur Großenhainer Straße den Namen Boxdorfer Straße. Für den unbebauten Teil, der größtenteils durch eine Kleingartenanlage führt, entstand nach dem Ersten Weltkrieg die Bezeichnung Trachauer Heideweg.
 
-![](../../../nordwest/pieschen/strassen_pieschen/trachenberger_platz.jpg)
+## Trachenberger Platz
 
 ![](../../../nordwest/pieschen/strassen_pieschen/piesch_trachenbergerpl.jpg)Der Trachenberger Platz sowie die angrenzende Trachenberger Straße wurden im letzten Drittel des 19. Jahrhunderts auf zuvor gartenbaulich genutztem Gelände angelegt. Bis zur Jahrhundertwende entstanden hier mehrgeschossige Wohn- und Geschäftshäuser. Ab 1891 verkehrte die Straßenbahn über den Trachenberger Platz zum nahegelegenen Betriebshof Trachenberge, in dem heute auch das Dresdner [Straßenbahnmuseum](../../../nordwest/trachenberge/strassenbahnmuseum/) sein Domizil hat. Offiziell wurde die Namensgebung jedoch erst im Dezember 1925 eingeführt.
 
@@ -302,7 +302,7 @@ In den 1920er Jahren wurde in unmittelbarer Nähe des Trachenberger Platzes ein 
 
 1965 entstand im Umfeld des Trachenberger Platzes (Nr. 2) in einem eingeschossigen Flachbau eine Kindertagesstätte. Bis 1990 wurde diese als Betriebskindergarten des VEB Purotex mit Hauptsitz auf der Heidestraße genutzt. Bauliche Mängel führten zur Entscheidung, das Haus im Frühjahr 2017 abzureißen und durch einen Neubau zu ersetzen. Für ca. 3,3 Millionen Euro entstand die moderne zweigeschossige Kinderkrippe "Haus der Kinder" mit 60 Plätzen. Die Eröffnung erfolgte am 8. August 2019.
 
-![trachenberger straße](../../../nordwest/pieschen/strassen_pieschen/a_rectangle_779.gif)
+## Trachenberger Straße
 
 ![](../../../nordwest/pieschen/strassen_pieschen/pieschtrachenbstr.jpg)Ebenso wie der angrenzende Trachenberger Platz wurde auch die Trachenberger Straße Mitte der 1870er Jahre angelegt und mit mehrgeschossigen Wohnhäusern bebaut. Ab 1889 wurde sie zunächst Steinstaße genannt, drei Jahre später jedoch in Trachenberger Straße umbenannt. 1892 entstand hier der Straßenbahnhof Trachenberge, zunächst als Depot der am 11. Oktober 1891 eröffneten Pferdebahn zum St.-Pauli-Friedhof. Die mehrfach erweiterte und modernisierte Anlage dient bis heute ihrem Zweck und ist zugleich Verwaltungssitz der Dresdner Verkehrsbetriebe und Domizil des Straßenbahnmuseums.
 
@@ -328,7 +328,7 @@ Ab 1930 wohnte der aus Trachau stammende Arbeiter Albert Hensel mit seiner Ehefr
 
 Die Waldstraße wurde 1899 angelegt und erhielt 1902 ihren Namen, da sie damals noch entlang des Heidewalds führte. Ursprünglich war eine durchgehende Straßenführung von der Hans-Sachs- bis zur Hubertusstraße geplant, die jedoch nicht zustande kam. Zwischen 1912 und 1914 wurde hier nach Plänen von Heinrich Koch eine kleine Wohnanlage des Dresdner Spar- und Bauvereins gebaut (Nr. 1-7).
 
-![wurzener straße](a_rectangle_119.gif)
+## Wurzener Straße
 
 Die Wurzener Straße wurde bereits 1866 als Nordstraße angelegt und nach der Eingemeindung Pieschens 1898 nach der Kleinstadt Wurzen bei Leipzig benannt. In diesem damals noch weitgehend unbebautem Gebiet lagen neben Kleingärten auch die Sportplätze des Pieschener Arbeiterturnvereins. Außerdem gab es im Abschmitt zwischen Leisniger und Rehefelder Straße einige Wohnhäuser. In einem dieser Häuser (Nr. 12) wohnte ab 1927 der kommunistische Arbeiterfunktionär und Dresdner Stadtrat Arno Lade. Lade wurde 1944 wegen seiner Mitarbeit in einer Widerstandsgruppe verhaftet und starb im Polizeigefängnis. An ihn erinnert die in der Nähe gelegene Arno-Lade-Straße.
 

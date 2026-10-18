@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:48+01:00
 
 * * *
 
-![lukaskirche  lukasplatz 01069 dresden tel. 0351/47698-0](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/lukaskirche/a_rectangle_1698.gif)
+Lukaskirche  lukasplatz 01069 dresden tel. 0351/47698-0
 
 [![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/lukaskirche/lukaskirche.jpg)](http://www.lukaskirche.elydia.de)
 

@@ -108,7 +108,7 @@ Königin Carola stand und junge Mädchen in Handarbeiten unterrichtete. Während
 bezahlen mussten, existierten auch 24 Freistellen für ärmere Kinder. Nach dem Tod der Königin wurde die Einrichtung
 von der Königin-Carola-Gedächtnis-Stiftung finanziert. Seit 1907 gehörte die Nähschule zur Leubnitzer Volksschule und wurde erst 1921 aufgelöst.
 
-[![leubnitzer straßen](../../sudost/leubnitz-neuostra/a_rectangle_424.gif)](../../sudost/leubnitz-neuostra/page14822/)
+## [Leubnitzer Straßen](../../sudost/leubnitz-neuostra/page14822/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:32+01:00
 
 * * *
 
-![gemeindezentrum  der friedenskirche  neubühlauer str. 3 01324 dresden tel. 0351/2686522](../../../nordost/buhlau/ev_-methodistische_friedenskir/a_rectangle_1117.gif)
+Gemeindezentrum  der friedenskirche  neubühlauer str. 3 01324 dresden tel. 0351/2686522
 
 
 ![](../../../nordost/buhlau/ev_-methodistische_friedenskir/b_hlaumethodkirche.jpg)Neben der [St.-Michaels-Kirche](../../../nordost/buhlau/st_-michaels-kirche/) besitzt Bühlau noch ein weiteres Gotteshaus, welches heute

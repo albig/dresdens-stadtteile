@@ -39,7 +39,7 @@ zunächst selbstständig. Im Zusammenhang mit einer Gemeindereform in der DDR wu
 Brabschütz kam. Im Zuge der Eingemeindungen im Dresdner Umland wurden beide Gemeindeteile 1997 bzw. 1999 Ortsteile der Landeshauptstadt. Im Dorfkern, der noch deutlich die Züge eines slawischen Rundlings erkennen
 lässt, sind einige Bauernhöfe erhalten.
 
-[![leuteritzer straßen](../../../west/mobschatz/leuteritz/a_rectangle_1947.gif)](../../../west/mobschatz/leuteritz/strassen_mobschatz/)
+## [Leuteritzer Straßen](../../../west/mobschatz/leuteritz/strassen_mobschatz/)
 
 [_Weiterführende Literatur und Quellen_](../../../impressum/quellenverzeichnis/)
 

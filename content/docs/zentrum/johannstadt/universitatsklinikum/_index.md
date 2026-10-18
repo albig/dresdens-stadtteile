@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:47+01:00
 
 * * *
 
-[![universitätsklinikum ](a_rectangle_1514.gif)](http://www.uniklinikum-dresden.de)
+## [Universitätsklinikum](http://www.uniklinikum-dresden.de)
 
 ![](../../../zentrum/johannstadt/universitatsklinikum/johannstuniklinik_carusdkm.jpg)
 

@@ -5,9 +5,9 @@ date: 2024-02-17T22:13:33+01:00
 
 * * *
 
-![loschwitzer kirche pillnitzer landstr. 8 01326 dresden  tel. 0351/2150050](../../../nordost/loschwitz/loschwitzer_kirche/a_rectangle_271.gif)
+Loschwitzer kirche pillnitzer landstr. 8 01326 dresden  tel. 0351/2150050
 
-[![zur homepage der kirchgemeinde](../../../nordost/loschwitz/loschwitzer_kirche/a_rectangle_1033.gif)](http://www.loschwitzer-kirche.de)
+## [Zur Homepage der Kirchgemeinde](http://www.loschwitzer-kirche.de)
 
 
 ![](../../../nordost/loschwitz/loschwitzer_kirche/loschwkirche.jpg)Loschwitz gehörte bis zum Beginn des 18. Jahrhunderts gemeinsam mit 25 weiteren Dörfern

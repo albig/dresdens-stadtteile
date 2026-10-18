@@ -33,7 +33,7 @@ date: 2024-02-17T22:13:31+01:00
 
 **Schulen in Hellerau:**
 
-[![homepage der 84. grundschule](../../nord/hellerau/a_rectangle_836.gif)](http://www.84-grundschule.de/)
+## [Homepage der 84. Grundschule](http://www.84-grundschule.de/)
 
 
 ![](../../nord/hellerau/hellerau3.jpg)Hellerau wurde auf Initiative des Besitzers der Deutschen Werkstätten, Karl

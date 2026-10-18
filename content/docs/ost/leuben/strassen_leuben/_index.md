@@ -8,7 +8,7 @@ date: 2024-02-17T22:13:38+01:00
 
  l
 
-![altleuben](../../../ost/leuben/strassen_leuben/a_rectangle_1613.gif)
+## Altleuben
 
 ![](../../../ost/leuben/strassen_leuben/leubenalt12.jpg)Als Altleuben wird der frühere Dorfplatz an der [Leubener Kirche](../../../ost/leuben/himmelfahrtskirche/) bezeichnet. Ursprünglich befanden sich hier zwei Teiche, die erst im Zusammenhang mit dem Kirchenneubau um 1900 zugeschüttet wurden. Nach der Neugestaltung der entstandenen Fläche erhielt der Dorfplatz zunächst den Namen Marktplatz. Am 1. Juni 1926 erfolgte die Umbenennung in Altleuben.
 
@@ -28,7 +28,7 @@ Nach 1945 wurde die Anstalt zunächst als Heim für schwererziehbare Jugendliche
 
 
 
-![am dahlienheim](a_rectangle_1244.gif)
+## Am Dahlienheim
 
 Die kurze Straße am Südrand des ehemaligen Dorfkerns verdankt ihren Namen der bis 1969 hier beheimateten [Dahlienzucht Engelhardt](../../../ost/leuben/strassen_leuben/gartnerei_engelhardt/). Das 1914 gegründete und auf die Züchtung dieser Zierpflanzen spezialisierte Unternehmen gehörte zu den
 bekanntesten Leubener Gärtnereien, musste jedoch später dem Neubaugebiet weichen. Heute führt die Familie ihre Gärtnerei in Heidenau weiter. Am Dahlienheim entstanden zwischen 1970 und 1974 Neubauten.
@@ -39,7 +39,7 @@ AWG des Sachsenwerkes Mitte der 1950er Jahre, wurde die Klettestraße jedoch unt
 
 [![berthold-haupt-straße](../../../ost/leuben/strassen_leuben/berthold-haupt-straße.jpg)](../../../ost/leuben/strassen_leuben/berthold-haupt-strasse/)
 
-![dieselstraße](../../../ost/leuben/strassen_leuben/a_rectangle_1636.gif)
+## Dieselstraße
 
 ![](../../../ost/leuben/strassen_leuben/leubendieselstr.jpg)Die Dieselstraße verbindet Leuben mit seinen Nachbarorten Niedersedlitz und Laubegast und wurde bereits Ende des 19. Jahrhunderts durch einen privaten Grundstücksbesitzer ausgebaut. Auf Beschluss des Gemeinderates vom 20. Mai 1896 erhielt sie zunächst den Namen Schulstraße. Grund war, das hier 1894 das bis heute noch genutzte Leubener [Schulhaus](../../../ost/leuben/) entstanden war.
 
@@ -47,7 +47,7 @@ AWG des Sachsenwerkes Mitte der 1950er Jahre, wurde die Klettestraße jedoch unt
 
 ![](../../../ost/leuben/strassen_leuben/leubengärtnereivogt.jpg)Das Straßenbild der Dieselstraße prägen bis zur Gegenwart überwiegend Wohnhäuser aus dem ersten Drittel des 20. Jahrhunderts. Im Eckhaus Nr. 7 zur Fabrikstraße (Sachsenwerkstraße) befand sich ab 1909 das Kino "Leubener Lichtspiele-Volkstheater" mit 200 Plätzen von Ernst Schicktansky. In der Nr. 9/11 hatte die 1922 gegründete Dresdner Keramische Industrie AG ihren Sitz. Das Unternehmen produzierte hauptsächlich Kachelöfen und Küchenherde. Das Grundstück Schulstraße 46 (heute Nr. 52) wurde von der Kunst- und Handelsgärtnerei Arthur Voigt genutzt. Voigt (18671940) gründete 1895 eine Azaleengärtnerei und wurde durch zahlreiche Neuzüchtungen, u.a. die Azaleensorten Schneewittchen und Schneeweißchen, bekannt _(Foto)_. 1973 erfolgte die Verstaatlichung des Unternehmens, welches noch bis ca. 1990 existierte.
 
-![franz-latzel-straße](../../../ost/leuben/strassen_leuben/a_rectangle_1848.gif)
+## Franz-Latzel-Straße
 
 Die heutige Franz-Latzel-Straße im östlichen Teil Leubens wurde 1897 angelegt und bis 1926 Lindenstraße genannt. Zuvor hatte der Baumeister L. A. Schreiber zahlreiche Grundstücke in diesem Gebiet erworben und die Namensgebung angeregt. Um Verwechslungen zu vermeiden, erhielt die Lindenstraße nach der Eingemeindung von Leuben 1926 den Namen Akazienstraße. Am 17. Juli 1936 wurde sie jedoch erneut umbenannt in Dürrstraße. Dr. Ludwig Dürr (1878-1956) war als Konstrukteur maßgeblich am Bau der Zeppelin-Luftschiffe in Friedrichshafen beteiligt. Zunächst hatte man den Rosenschulweg für eine Neubenennung vorgesehen, entschied sich jedoch schon einen Monat später für die bedeutendere Akazienstraße.
 
@@ -61,7 +61,7 @@ Der Großsedlitzer Weg, eine Seitenstraße der Zamenhofstraße, entstand beim Ba
 
 ![](../../../ost/leuben/strassen_leuben/gzschulstr.jpg)Die Großzschachwitzer Straße entstand 1899 als Planstraße M und verbindet seitdem Leuben mit seinem Nachbarort Großzschachwitz. Auf Leubener Flur wurde sie am 1. November 1899 offiziell benannt, während der Großzschachwitzer Abschnitt zunächst den Namen Schulstraße erhielt. Wenig später begann die Bebauung mit Wohnhäusern. 1933 erfolgte im damals noch selbständigen Großzschachwitz die Umbenennung der Schulstraße in Mutschmannstraße. Namensgeber war der NSDAP-Gauleiter von Sachsen, Martin Mutschmann. Bereits kurz nach Kriegsende machte man am 16. Mai 1945 diese Benennung rückgängig. Nachdem Großzschachwitz nach Dresden eingemeindet worden war, beschloss der Stadtrat zum 30. September 1953 die durchgängige Namensgebung Großzschachwitzer Straße. Markantestes Gebäude ist das unter Denkmalschutz stehende Großzschachwitzer [Schulhaus](../../../ost/grosszschachwitz/), das heute Sitz der 92. Grundschule "An der Aue" ist _(Foto)_.
 
-![guerickestraße](../../../ost/leuben/strassen_leuben/a_rectangle_1250.gif)
+## Guerickestraße
 
 Die Guerickestraße wurde im Zusammenhang mit dem Bau neuer Mietshäuser um die Jahrhundertwende angelegt und erhielt auf Beschluss des Leubener Gemeinderats am 20. Juli 1898 nach Helmuth Karl Bernhard Graf von Moltke den Namen Moltkestraße. Schon damals war eine Verlängerung bis zur heutigen Robert-Berndt-Straße geplant, die jedoch erst 1927 erfolgte. Stattdessen nutzte man die Flächen als Gartenland sowie ab 1919 im Rahmen sogenannter "Notstandsarbeiten" für den Kartoffel- und Gemüseanbau der örtlichen Bevölkerung.
 
@@ -71,7 +71,7 @@ Da es in Dresden bereits weitere Moltkestraßen gab, machte sich nach der Eingem
 
 Der Heckenweg entstand 1929 im Zusammenhang mit der Bebauung im östlichen Teil Leubens und erhielt auf Beschluss des Stadtrats am 28. März 1929 seinen Namen. Zunächst verlief er nur zwischen der Königs-Allee (heute Berthold-Haupt-Straße) und der Kleinzschachwitzer Straße, wurde jedoch bereits 1930 bis zur Weißdornstraße verlängert. Im Haus Nr. 15 hatte bis in die 1940er Jahre der Verlag von Edwin Schreyer für Foto-, Kunst- und Lichtdruck seinen Sitz, der u.a. zahlreiche Ansichtskarten herausgab.
 
-![hertzstraße](../../../ost/leuben/strassen_leuben/a_rectangle_1710.gif)
+## Hertzstraße
 
 ![](../../../ost/leuben/strassen_leuben/leubenrathaus.jpg)Die Ende des 19. Jahrhunderts angelegte Hertzstraße ist Teil einer geplanten Entlastungsstraße, die ursprünglich von Dobritz aus in Verlängerung der Winterbergstraße bis zur Stephensonstraße führen und dann wieder in die Pirnaer Landstraße einmünden sollte. Diese Planungen von 1897 wurden jedoch nicht vollständig realisiert. Lediglich in Leuben begann 1898 der Bau des Abschnitts zwischen Diesel- und Zamenhofstraße, der am 20. Juli 1898 auf Beschluss des Gemeinderates die Benennung Residenzstraße bekam. Wenig später wurde diese bis zur Stephensonstraße verlängert. 1900/01 errichtete die damals noch selbstständige Gemeinde an der Residenzstraße/Ecke Lilienthalstraße ihr [Rathaus](../../../ost/leuben/), welches heute als Ortsamt dient _(Foto)_.
 
@@ -83,7 +83,7 @@ Zwischen 1939 und 1945 trug die Hertzstraße den Namen Knirschstraße. Hans Knir
 
 Die eigentlich noch auf Dobritzer Flur gelegene Jessener Straße entstand in den 1970er Jahren im Zuge des Neubaugebietes Leuben und bildet zugleich dessen westlichen Abschluss. Ihren Namen erhielt sie nach dem kleinen Ort Jessen, einem Stadtteil von Pirna.
 
-![kastanienstraße](../../../ost/leuben/strassen_leuben/a_rectangle_1248.gif)
+## Kastanienstraße
 
 Die kurze Kastanienstraße verbindet die Pirnaer Landstraße mit der Berthold-Haupt-Straße und wurde 1899 angelegt. Am 1. November 1899 erhielt sie ihren Namen und wurde entsprechend mit Kastanienbäumen bepflanzt. Allerdings blieb sie lange Zeit unbebaut. 1934 entstanden auf einer zuvor landwirtschaftlich genutzten Fläche erste Kleingärten. Nach 1945 nutzten vor allem Kleintierzüchter die Parzellen, die sich 1990 zum Kleingartenverein Sonnenblume zusammenschlossen. Mit 21 Gärten gehört dieser zu den kleinsten in Dresden.
 
@@ -91,7 +91,7 @@ Die kurze Kastanienstraße verbindet die Pirnaer Landstraße mit der Berthold-Ha
 
 Die Kleinzschachwitzer Straße entstand 1899 als Planstraße L und erhielt auf Beschluss des Gemeinderates am 1. November 1899 nach dem Leubener Nachbarort ihren Namen. Lange Zeit blieb sie jedoch unbebaut. Erst kurz nach dem Ersten Weltkrieg entstanden hier ab 1920 einige Wohnhäuser für die Baugenossenschaft zu Leuben e.G.m.b.H., die heute unter Denkmalschutz stehen. Im Haus Nr. 2 gab es damals eine kleine Verkaufsstelle. 1974 folgte an der Ecke zur Ulmenstraße eine 2009 abgerissene Konsum-Kaufhalle (Nr. 28).
 
-![klettestraße](../../../ost/leuben/strassen_leuben/a_rectangle_1560.gif)
+## Klettestraße
 
 Die Klettestraße entstand 1898 als kurze Stichstraße zwischen Stephenson- und Dieselstraße und wurde auf Beschluss des Gemeinderates vom 20. Juli 1898 zunächst Bismarckstraße genannt. Erst 1919 erfolgte im Rahmen von sogenannten Notstandsarbeiten der Ausbau bis zur Reisstraße. Eine geplante durchgehende Straßenführung bis zur Lilienthalstraße kam jedoch nicht zustande. Der bis 1962 ebenfalls als Klettestraße bezeichnte kurze Abschnitt westlich dieser Straße trägt heute den Namen Am Dahlienheim.
 
@@ -103,7 +103,7 @@ Zu den Bewohnern der Klettestraße (Nr. 51) gehörte in den 1930er Jahren der Mo
 
 Der Köttewitzer Weg entstand Anfang der 1970er Jahre mit der Bebauung südlich der Zamenhofstraße. Zwischen 1970 und 1974 entstanden hier auf ehemaligem Gärtnereigelände fünfgeschossige Plattenbauten. Seinen Namen erhielt der Weg nach der kleinen Ortschaft Köttewitz, die heute zu Dohna gehört.
 
-![lilienthalstraße](../../../ost/leuben/strassen_leuben/a_rectangle_1251.gif)
+## Lilienthalstraße
 
 Die Lilienthalstraße erhielt ihren Namen zu Ehren des deutschen Flugpioniers Otto Lilienthal (1848-1896). Lilienthal, der
 zeitweise in Döhlen (heute Stadtteil von Freital) lebte und als Ingenieur im Zauckeroder Bergbau tätig war, unternahm 1891 bei
@@ -118,9 +118,9 @@ werden.
 
 
 
-[![pirnaer landstraße](../../../ost/a_rectangle_1195.gif)](../../../ost/dobritz/strassen_dobritz/pirnaer_landstrasse/)
+## [Pirnaer Landstraße](../../../ost/dobritz/strassen_dobritz/pirnaer_landstrasse/)
 
-![reisstraße](../../../ost/leuben/strassen_leuben/a_rectangle_1252.gif)
+## Reisstraße
 
 Die Reisstraße wurde nach 1900 am Rande des Dorfkerns angelegt und ist wie auch zahlreiche weitere Leubener Straßen nach einem bedeutenden Physiker benannt. Johann Philipp Reis (1834-1874) erfand 1861 das Telefon. Die Wohngebäude entstanden in den Jahren bis zum Ersten Weltkrieg bzw. in den 1950er und 60er Jahren des 20. Jahrhunderts.
 
@@ -137,7 +137,7 @@ Kerb-Konus Wälzlager und andere Normteile für den Maschinenbau. Der Sitz des U
 
 
 
-![rosenschulweg](../../../ost/leuben/strassen_leuben/a_rectangle_1442.gif)
+## Rosenschulweg
 
 Der Rosenschulweg, in Verlängerung der Stephensonstraße an der Pirnaer Landstraße gelegen, erinnert an die einstige Gartenbautradition Leubens. Zu den ersten Gärtnereien gehörte die Firma Münch & Haufe, die 1892 einige Hektar Land in Leuben erwarb und hier mit dem Anbau von Rosen begann.
 
@@ -147,13 +147,13 @@ Auf dem Gelände der nach 1990 stillgelegten Gärtnerei wurde 2010 mit dem Bau e
 
 ![](../../../ost/leuben/strassen_leuben/münch_haufe1926.jpg)Die von den Inhabern 1912 erstmals vorgestellte Rosenzüchtung Heinrich Münch erhielt im gleichen Jahr auf einer internationalen Ausstellung in London eine Silbermedaille. Zu den mit der Gärtnerei verbundenen Rosensorten gehörten auch "Frau Elisabeth Münch" und "Frau Ida Münch". Nach dem Ersten Weltkrieg widmete man sich stärker dem Vertrieb und hatte zeitweise ein Sortiment von über 1000 Sorten im Angebot. Zur Jubiläums-Gartenschau 1926 in Dresden gestaltete die Großgärtnerei einen Rosen-Sondergarten mit Teehaus, der zu den Höhepunkten der Schau gehörte _(Foto rechts)_. Die Gärtnerei blieb auch nach dem Zweiten Weltkrieg in Betrieb und existierte bis 1990.
 
-![rottwerndorfer straße](a_rectangle_555.gif)
+## Rottwerndorfer Straße
 
 Die Rottwerndorfer Straße wurde im Zusammenhang mit dem Bau des Neubauviertels Leuben im westlichen Teil der Ortsflur
 angelegt. Ihren Namen erhielt sie nach dem heutigen Pirnaer Stadtteil Rottwerndorf. Mitte der 1970er Jahre entstanden hier
 fünfgeschossige Wohnblocks in Plattenbauweise. Zur künstlerischen Aufwertung wurde im Wohngebiet die Bronzeplastik Ballspielerin aufgestellt. Schöpfer war der Dresdner Bildhauer Wilhelm Landgraf.
 
-![stephensonstraße](../../../ost/leuben/strassen_leuben/a_rectangle_1505.gif)
+## Stephensonstraße
 
 Die Stephensonstraße im Osten der Leubener Flur, bis zur Eingemeindung Bahnhofstraße genannt, erhielt ihren Namen nach
 dem englischen Ingenieur George Stephenson (1781-1848), der 1814 seine erste Lokomotive vorstellte und als Pionier der Eisenbahn gilt. 1895 entstanden hier die ersten Mietshäuser, wenig später die [Straßenbahnstrecke](../../../ost/niedersedlitz/dresdner_vorortbahn/) zum Niedersedlitzer
@@ -171,7 +171,7 @@ Das kleine Leubener Kino wurde bereits 1909 vom Ladenbesitzer Armin Schicktansky
 welcher jedoch in den wirtschaftlich schwierigen Jahren nach dem Ersten Weltkrieg nicht zustande kam. Nach dem Tod des
 Besitzers 1927 verlegte man das Kino zur Stephensonstraße 46, wo es als Stephenson-Lichtspiele noch bis 1990 in Betrieb war. Heute werden die Räume von einer Videothek genutzt.
 
-![zamenhofstraße](../../../ost/leuben/strassen_leuben/a_rectangle_1126.gif)
+## Zamenhofstraße
 
 Die Zamenhofstraße geht auf einen alten Verbindungsweg zwischen Leuben und Dobritz zurück. Nach der Eingemeindung des
 Ortes erhielt sie den Namen des polnischen Augenarztes Ludwig Zamenhof (1859-1917). Zamenhof wurde als Erfinder der

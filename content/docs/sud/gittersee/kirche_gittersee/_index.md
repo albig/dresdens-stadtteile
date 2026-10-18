@@ -5,11 +5,11 @@ date: 2024-02-17T22:13:41+01:00
 
 * * *
 
-![ev.-luth. paul-gerhard- kirchgemeinde coschütz/gittersee  windbergstr. 20 01189 dresden tel. 0351/4010369](../../../sud/gittersee/kirche_gittersee/a_rectangle_1201.gif)
+Ev.-luth. paul-gerhard- kirchgemeinde coschütz/gittersee  windbergstr. 20 01189 dresden tel. 0351/4010369
 
 [![](../../../sud/gitterseekirche.jpg)](http://www.kirche-dresden-gittersee.de)
 
-![friedhof gittersee friedhofstraße 10 01189 dresden](../../../sud/gittersee/kirche_gittersee/a_rectangle_1142.gif)
+Friedhof gittersee friedhofstraße 10 01189 dresden
 
 
 ![](../../../sud/gittersee/kirche_gittersee/gitterseekirche.jpg)Gittersee gehörte kirchlich ursprünglich zu Döhlen, wo bereits im 15. Jahrhundert

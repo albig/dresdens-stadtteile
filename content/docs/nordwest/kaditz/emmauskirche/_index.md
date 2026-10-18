@@ -24,7 +24,7 @@ _\\*\\*\\*_
 
 * * *
 
-![friedhofsverwaltung dresden-kaditz  altkaditz 29 01139 dresden  tel. 0351/8361964](../../../nordwest/kaditz/emmauskirche/a_rectangle_86.gif)
+Friedhofsverwaltung dresden-kaditz  altkaditz 29 01139 dresden  tel. 0351/8361964
 
  _* * *_
 

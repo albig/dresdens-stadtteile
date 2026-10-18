@@ -3,7 +3,7 @@ title: "Straßen und Plätze in Nickern"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![alnpeckstraße](../../../sudost/nickern/strassen_nickern/a_rectangle_847.gif)
+## Alnpeckstraße
 
 Die nördlich des Dorfkerns gelegene Alnpeckstraße verdankt ihren Namen der Familie von Alnpeck, die zwischen 1512 und 1620 Besitzer der Rittergüter Oberlockwitz und Nickern war. Georg Alnpeck war Bürgermeister der reichen Bergstadt Freiberg und hatte 1512 die Gutsherrschaft erworben. Neben den Schlössern Lockwitz und Nickern erinnern auch einige historische Grabdenkmale in der [Leubnitzer Kirche](../../../sudost/leubnitz-neuostra/leubnitzer_kirche/) und ein Glasfenster mit Familienwappen in der [Kirche von Leuben](../../../ost/leuben/himmelfahrtskirche/) an diese Familie. Benannt wurde die Alnpeckstraße im Jahr 1933.
 
@@ -19,7 +19,7 @@ Die heute Alter Postweg genannte Straße ist Teil eines früheren historischen P
 
 **_Fotos:_** _Neubauten am Alten Postweg - alte Wegsäule am "Hohlen Tor"_
 
-![altnickern](../../../sudost/nickern/strassen_nickern/a_rectangle_842.gif)
+## Altnickern
 
 ![](../../../sudost/nickern/strassen_nickern/nickerngasthof.jpg)Als Altnickern wird seit der Eingemeindung des Ortes der frühere Dorfplatz bezeichnet. Ursprünglich bestand dieser aus fünf Bauerngütern und einigen Häusleranwesen. Bauliche Veränderungen erfolgten nach 1622 bei der Umgestaltung des Rittergutskomplexes. Das Straßenbild prägten ursprünglich mehrere Drei- und Vierseithöfe. Außerdem gab es hier den Dorfgasthof (Nr. 9) mit Tanzsaal und Gästegarten _(Foto)_ sowie die Schlossmühle (Nr. 2). Heute ist nur noch ein Gehöft erhalten geblieben (Nr. 16). Weitere Gebäude, darunter der alte Gasthof, fielen 1945 einem Luftangriff zum Opfer bzw. wurden in den Nachkriegsjahren bei einem Brand zerstört. Unter Denkmalschutz stehen auch die Wohnhäuser Nr. 10 und 11 sowie Nr. 15.
 
@@ -51,49 +51,49 @@ Gedenkstein 13. Februar 1945: Der Obelisk am Nickerner Dorfplatz wurde 1920 ursp
 
 
 
-![am geberbach](../../../sudost/nickern/strassen_nickern/a_rectangle_843.gif)
+## Am Geberbach
 
 ![](../../../sudost/nickern/strassen_nickern/nickerngeberbach7.jpg)Die Straße schließt den alten Nickerner Dorfkern nach Süden ab und trägt ihren Namen nach dem Geberbach, der oberhalb von Kauscha entspringt und im Anschluss den reizvollen Gebergrund durchfließt. Ursprünglich wurde die hier gelegene Häuslersiedlung Auf dem Hahne (Hahne = Hain) genannt. Seit 1931 werden die Gebäude postalisch unter Am Geberbach geführt.
 
 Historisch interessant ist das Wohnstallhaus Nr. 1, Überrest eines spätmittelalterlichen Dreiseithofes, welcher vermmutlich als Vorwerk diente. Die jetzigen Gebäude wurden um 1720 auf dessen Fundamenten und Kellern errichtet Unter dem Hinterhaus befindet sich ein zweigeschossiger Lagerkeller, zudem gibt es einen ca. 15 Meter tiefen Brunnen. Verwendung vermutlich als Vorwerk. Unter Denkmalschutz stehen auch die Wohnhäuser Am Geberbach Nr. 2 und Nr. 7 _(Foto von 1992 - SLUB/Fotothek)_.
 
-![arno-schellenberg-straße](../../../sudost/nickern/strassen_nickern/a_rectangle_1029.gif)
+## Arno-Schellenberg-Straße
 
 Die Arno-Schellenberg-Straße entstand 1999 im Zusammenhang mit der Erschließung einer Einfamilienhaussiedlung südlich des Nickerner Dorfkerns. Benannt ist die Straße nach dem Opernsänger Arno Schellenberg (1903-1983), welcher zwischen 1933 und 1974 an der Staatsoper engagiert war. Schellenberg wirkte in dieser Zeit an zahlreichen Uraufführungen und Premieren mit und war ab 1956 auch als Professor an der Musikhochschule tätig.
 
-![bernd-aldenhoff-straße](../../../sudost/nickern/strassen_nickern/a_rectangle_1381.gif)
+## Bernd-Aldenhoff-Straße
 
 Die im Zusammenhang mit dem Bau einer neuen Wohnsiedlung am Trützsch angelegte Straße erhielt ihren Namen 2006 in Erinnerung an den Opernsänger Bernd Aldenhoff (1908-1959), der zwischen 1943 und 1951 zum Ensemble der Dresdner Staatsoper gehörte. Bekannt wurde er als langjähriger Wagner-Interpret in Bayreuth.
 
-![büttigstraße](../../../sudost/nickern/strassen_nickern/a_rectangle_845.gif)
+## Büttigstraße
 
 Die Büttigstraße erinnert an den früheren Staatsrat Wilhelm August Büttig (1809-1879) und dessen Neffen Ernst Leberecht Büttig, welche Ende des 19. Jahrhunderts ein Vermächtnis zum Bau einer Schule errichteten. 1884 konnte dieses neue Schulhaus an der Fritz-Meinhardt-Straße eingeweiht werden. Wilhelm August Büttig, geboren in Nickern, studierte in Leipzig Medizin und war später Leibarzt des Großfürsten Konstantin Nikolajewitsch Romanow in St. Petersburg. Bereits vor dem Zweiten Weltkrieg hatte es in Nickern eine Büttigstraße gegeben, die jedoch 1947 in Fritz-Meinhardt-Straße umbenannt wurde. Im Zusammenhang mit dem Bau einer neuen Eigenheimsiedlung entstand Anfang der 1990er Jahre die neue Büttigstraße.
 
-![dora-zschille-straße](a_rectangle_1750.gif)
+## Dora-Zschille-Straße
 
 Die im Zusammenhang mit dem Bau einer Eigenheimsiedlung Ende der 1990er Jahre angelegte Straße verdankt ihren Namen der Opernsängerin Dora Anna Zschille-Weydling (1906-1997), die viele Jahre an der Dresdner Staatsoper wirkte. Zuvor gehörte das Areal zur in den 1930er Jahren errichteten [Alten Kaserne](../../../sudost/nickern/kaserne_nickern/), welche von 1945 bis zum Abzug 1991 von sowjetischen Armeeeinheiten genutzt wurde.
 
-![elfride-trötschel-straße](../../../sudost/nickern/strassen_nickern/a_rectangle_855.gif)
+## Elfride-Trötschel-Straße
 
 Die Elfride-Trötschel-Straße im 1998 angelegten Nickerner Wohnpark wurde nach der Kammersängerin Elfride Trötschel (1913-1958) benannt, die als junge Sopranistin 1934 von Karl Böhm an die Dresdner Oper verpflichtet wurde. Als Mitglied des Ensembles wurde sie später weltberühmt und trat auf Gastspielreisen in aller Welt auf.
 
-![](../../../sudost/nickern/strassen_nickern/elsternstra_e.jpg)
+## Elsternstraße
 
 Die Elsternstraße entstand um 1932 im Zusammenhang mit einem neuen Wohngebiet nordwestlich der Büttigstraße (heute Fritz-Meinhardt-Straße). 1934 ist sie erstmals im Adressbuch verzeichnet. Benannt wurde sie nach der Vogelart Elster.
 
-![erna-sack-straße](../../../sudost/nickern/strassen_nickern/a_rectangle_857.gif)
+## Erna-Sack-Straße
 
 Die Erna-Sack-Straße im Wohnpark Nickern, Mitte der 1990er Jahre westlich des Alten Postweges angelegt, erinnert an die auch als deutsche Nachtigall bekannt gewordene Opernsängerin Erna Dorothea Luise Sack (1898-1972), die ab 1935 zum Ensemble der Dresdner Staatsoper gehörte und eine der gefragtesten Sopranistinnen ihrer Zeit war. U.a. wirkte sie bei der Uraufführung der Oper Die schweigsame Frau von Richard Strauss 1935 mit und trat auf zahlreichen internationalen Bühnen auf. 1972 verstarb Erna Sack in Mainz.
 
 
 
-![fritz-meinhardt-straße](../../../sudost/nickern/strassen_nickern/a_rectangle_844.gif)
+## Fritz-Meinhardt-Straße
 
 ![](../../../sudost/nickern/strassen_nickern/nickernmeinhardstr.jpg)Die Fritz-Meinhardt-Straße führt von der Dohnaer Straße nach Goppeln und durchquert dabei die Dorfkerne von Nickern und Kauscha. Als eines der ersten Gebäude entstand 1884 das Nickerner Schulhaus, welches heute als Kindertagesstätte dient. Nach dem Stifter dieser Schule, dem Staatsrat Wilhelm August Büttig (1809-1879), erhielt die Straße den Namen Büttigstraße. Weitere Häuser wurden in den Jahren nach dem Ersten Weltkrieg errichtet. 1947 wurde die Büttigstraße nach dem jüdischen Antifaschisten Fritz Meinhardt (18991943) benannt, der ab 1927 der KPD angehörte und von den Nazis inhaftiert wurde. Fritz Meinhardt lebte ab 1903 auf der Büttigstraße 22 und kam 1943 in der Haft ums Leben. Mit der Eingemeindung von Kauscha 1999 übertrug man den Namen Fritz-Meinhardt-Straße auch auf die dortige Dresdner Straße.
 
 In den Jahren nach 1990 wurde an der Fritz-Meinhard-Straße ein Gewerbegebiet angelegt und die Straße zum Autobahnzubringer ausgebaut _(Foto)_. In diesem Zusammenhang entstand 2003 ein ca. 500 Meter langer Tunnel, der überwiegend dem Lärmschutz dient. Zuvor mussten für den Bau mehrere Wohnhäuser, darunter auch einige erst nach 1990 errichtete, abgerissen werden. Tunnel und Zubringer wurden am 25. November 2004 freigegeben.
 
-![](../../../sudost/nickern/strassen_nickern/gaustritzer_stra_e.jpg)
+## Gaustritzer Straße
 
 Die Gaustritzer Straße befindet sich im nördlichen Teil von Nickern und wurde erst 1931 benannt. Zuvor waren die hier befindlichen Gebäude dem Nickerner Dorfplatz zugeordnet. Ihren Namen erhielt sie nach der kleinen Ortschaft Gaustritz, einem Ortsteil von Bannewitz.
 
@@ -103,7 +103,7 @@ Die vom Geberbach angetriebene Wassermühle besaß im 18. Jahrhundert nur einen 
 
 Beim Luftangriff auf Dresden, der am 14. Februar 1945 auch den Dorfkern von Nickern traf, wurde die alte Mühle schwer beschädigt. Nach dem teilweisen Wiederaufbau diente das Haus als Restaurant und Cafe "Zur Alten Mühle". Ein Brand besiegelte 1979 das Schicksal der Mühle, deren Gebäude daraufhin vollständig abgetragen wurden. Heute stehen auf dem Areal moderne Wohnhäuser.
 
-![heinz-bongartz-straße](../../../sudost/nickern/strassen_nickern/a_rectangle_851.gif)
+## Heinz-Bongartz-Straße
 
 Die Heinz-Bongartz-Straße entstand Ende der 1990er Jahre im Zusammenhang mit der Erschließung des neuen Nickerner Wohnparks auf ehemaligem Militärgelände. Ihren Namen erhielt sie nach dem Komponisten und früheren Chefdirigenten der Dresdner Philharmonie Heinz Bongartz (1894-1978), der dieses Amt 1947 übernahm und das renommierte Orchester in der Nachkriegszeit wieder zu neuer Qualität führte.
 
@@ -111,11 +111,11 @@ Die Heinz-Bongartz-Straße entstand Ende der 1990er Jahre im Zusammenhang mit de
 
 **_Foto:_** _Neubauten an der Heinz-Bongartz-Straße_
 
-![helena-rott-straße](a_rectangle_1751.gif)
+## Helena-Rott-Straße
 
 Mit der Namensgebung Helena-Rott-Straße wird an die Kammersängerin und Altistin Helena Rott (1908-1991) erinnert, die viele Jahre dem Ensemble der Dresdner Staatsoper angehörte. Auch diese Straße im Musikerviertel entstand 1999 im Zusammenhang mit der Umwandlung des ehemaligen Nickerner Kasernengeländes zum Wohnpark. Eine Bebauung mit Eigenheimen begann jedoch erst 2015.
 
-![herbert-collum-straße](../../../sudost/nickern/strassen_nickern/a_rectangle_852.gif)
+## Herbert-Collum-Straße
 
 Die Herbert-Collum-Straße im Wohnpark zwischen Nickern und Lockwitz entstand Ende der 1990er Jahre und erhielt ihren Namen nach dem bekannten Organisten Herbert Collum (1914-1982), der ab 1935 bis zu seinem Tod an der Kreuzkirche in Dresden tätig war. Collum erwarb sich große Verdienste um die Pflege der Kirchenmusik in der Stadt und war Leiter des von ihm 1946 gegründeten Collum-Chores. 1960 wurde er Professor an der Musikhochschule.
 
@@ -125,7 +125,7 @@ Die Herbert-Collum-Straße im Wohnpark zwischen Nickern und Lockwitz entstand En
 
 _und Neubauten aus den 1990er Jahren_
 
-![inger-karén-straße](../../../sudost/nickern/strassen_nickern/a_rectangle_854.gif)
+## Inger-Karén-Straße
 
 Die kurze Inger-Karén-Straße im Wohnpark Nickern verdankt ihren Namen der Opernsängerin Inger Karén von Zarembskij (1908-1972), die ab 1935 zum Ensemble der Dresdner Staatsoper gehörte. Bis 1963 war sie als eine der wenigen Altistinnen ununterbrochen Mitglied des Ensembles und so am Wiederaufbau des Kulturlebens nach 1945 beteiligt. Ende der 1990er Jahre entstanden hier Reihenhäuser.
 
@@ -133,7 +133,7 @@ Die kurze Inger-Karén-Straße im Wohnpark Nickern verdankt ihren Namen der Oper
 
 **_Foto:_** _Blick in die Inger-Karén-Straße_
 
-![joseph-keilberth-straße](../../../sudost/nickern/strassen_nickern/a_rectangle_850.gif)
+## Joseph-Keilberth-Straße
 
 Die 1998 im nördlichen Teil des Wohnparks Nickern angelegte Joseph-Keilberth-Straße erinnert an den Dirigenten und früheren Generalmusikdirektor der Dresdner Staatskapelle Joseph Keilberth (1908-1968). Keilberth war erster Leiter des Orchesters nach 1945 und maßgeblich am Wiederaufbau des Musiklebens in der Stadt beteiligt.
 
@@ -141,14 +141,14 @@ Die 1998 im nördlichen Teil des Wohnparks Nickern angelegte Joseph-Keilberth-St
 
 Die Kautzscher Straße entstand 1932 beim Bau der Wohnsiedlung nordwestlich der Fritz-Meinhardt-Straße und verbindet die Schönberg- mit der Elsternstraße. Die 1934 erstmals im Adressbuch genante Straße erhielt ihren Namen nach dem nördlich von Kreischa gelegenen Dorf Kautzsch.
 
-![kurt-böhme-straße](../../../sudost/nickern/strassen_nickern/a_rectangle_858.gif)
+## Kurt-Böhme-Straße
 
 Die Kurt-Böhme-Straße an der Ortsgrenze zu Lockwitz wurde Ende der 1990er Jahre im Wohnpark Nickern angelegt und
 nach dem Kammersänger Kurt Gerhard Böhme (1908-1989) benannt. Böhme gehörte ab 1930 dem Ensemble der Dresdner Staatsoper an und trat hier in zahlreichen verschiedenen Rollen auf.
 
 
 
-![langobardenstraße](../../../sudost/nickern/strassen_nickern/a_rectangle_841.gif)
+## Langobardenstraße
 
 Die Langobardenstraße geht auf einen alten, später durch den Ziegeleibetrieb unterbrochenen Verbindungsweg zwischen
 Nickern und Torna zurück. Nachdem hier Ende des 19. Jahrhunderts zwei germanische Gräber aus dem 6. Jahrhundert entdeckt worden waren, erhielt dieser Weg den Namen Langobardenstraße nach dem germanischen Stamm der
@@ -158,12 +158,12 @@ Langobarden, welcher sich um 500 im oberen Elbtal angesiedelt hatte.
 
 Die Liesel-von-Schuch-Straße entstand als eine der letzten neuen Straßen im Wohnviertel auf dem Areal der ehemaligen [Kaserne](../../../sudost/nickern/kaserne_nickern/) und wurde 2016 nach der Opernsängerin Liesel von Schuch benannt. Elisabeth von Schuch-Ganzel (1891-1990) war Tochter des Dirigenten Ernst von Schuch und gab 1913 ihr Debüt auf der Opernbühne. Bis 1935 gehörte sie dem Ensemble der Sächsischen Staatsoper an und arbeitete nach dem Zweiten Weltkrieg als Gesangspädagogin an der Dresdner Musikhochschule in Dresden. 1988 erhielt sie den Titel einer Ehrenbürgerin von Dresden.
 
-![michaelisstraße](../../../sudost/nickern/strassen_nickern/a_rectangle_848.gif)
+## Michaelisstraße
 
 Die nach 1990 im Gewerbegebiet Nickern angelegte Michaelisstraße verdankt ihren Namen dem Naturwissenschaftler
 Johann Gottlieb Michaelis (1704-1740). Michaelis war viele Jahre Inspektor des Dresdner Mineralienkabinetts und gilt als Begründer des Mathematisch-Physikalischen Salons.
 
-![nickerner weg](../../../sudost/nickern/strassen_nickern/a_rectangle_1746.gif)
+## Nickerner Weg
 
 Der Nickerner Weg verbindet die Dohnaer Straße mit dem in den Dreißiger Jahren angelegten und nach 1990 zu einem Wohnviertel umgestalteten [Kasernenkomplex](../../../sudost/nickern/kaserne_nickern/) am Ortsrand. Das Areal des Gewerbegebietes zwischen Nickerner Weg und Gebergrund prägen vor allem die Hallen des ehemaligen VEG Obstproduktion Borthen. Aus dem früherem Betriebslokal ging nach 1990 die Gaststätte Obstgarten hervor. Überregional bekannt wurde diese 2009 durch einen Besuch des Sternekochs Christian Rach für dessen TV-Sendung Rach - der Restauranttester. Nach der Insolvenz zum Jahresende übernahmen neue Betreiber das Lokal, welches neben einem großen Biergarten bis zur Schließung auch zu regelmäßigen Tanzveranstaltungen einlud. Heute wird hier nur noch die "Kantine zum Obstgarten" bewirtschaftet.
 
@@ -171,13 +171,13 @@ Der Nickerner Weg verbindet die Dohnaer Straße mit dem in den Dreißiger Jahren
 
 Die Osterhausenstraße entstand 2016 im Wohnpark an der ehemaligen Kaserne. Im gegensatz zu vielen benachbarten Straßen entschied man sich bei der Namensgebung nicht für einen Dresdner Musiker, sondern eine mit der Ortsgeschichte verbundene Person. Johann Georg von Osterhausen (1578-1627) war Besitzer der Grundherrschaft Lockwitz und Bauherr des [Schlosses Lockwitz](../../../sudost/lockwitz/schloss_lockwitz/). Zudem ließ er das [Schloss Nickern](../../../sudost/nickern/schloss_nickern/) erweitern.
 
-![rudolf-dittrich-straße](../../../sudost/nickern/strassen_nickern/a_rectangle_853.gif)
+## Rudolf-Dittrich-Straße
 
 Die nach 1990 an der Ortsgrenze zu Lockwitz im Wohnpark Nickern angelegte Rudolf-Dittrich-Straße wurde nach dem
 Tenor Rudolf Dittrich (1903-1990) benannt, der 1929 als Opernsänger nach Dresden kam. Als Mitglied des Staatstheaters
 und Gesangslehrer an der Musikhochschule gehörte Dittrich zu den Persönlichkeiten des Dresdner Musiklebens, die aktiv an der Wiederherstellung der Kultur in der zerstörten Stadt beteiligt waren.
 
-![rudolf-kempe-straße](../../../sudost/nickern/strassen_nickern/a_rectangle_856.gif)
+## Rudolf-Kempe-Straße
 
 Die kurze Rudolf-Kempe-Straße entstand Ende der 1990er Jahre im Wohnpark Nickern. Ihren Namen erhielt sie nach dem Dirigenten Rudolf Kempe (1910-1976), der 1950-1953 Generalmusikdirektor der Staatskapelle war. Auch nach seinem Wechsel nach München blieb Kempe bis zu seinem Tod eng mit der Dresdner Staatskapelle verbunden. Auf seine Initiative geht die Tradition des Dresdner Requiems in Erinnerung an den 13. Februar 1945 zurück.
 
@@ -187,13 +187,13 @@ Die kurze Rudolf-Kempe-Straße entstand Ende der 1990er Jahre im Wohnpark Nicker
 
 
 
-![schönbergstraße](../../../sudost/nickern/strassen_nickern/a_rectangle_1138.gif)
+## Schönbergstraße
 
 Die Schönbergstraße wurde 1936 im Zusammenhang mit dem Bau einer neuen Wohnsiedlung nördlich des Nickerner
 Dorfkerns angelegt. Ihren Namen verdankt sie dem Geheimen Rat und Appelationsgerichtspräsidenten Gotthelf Friedrich von Schönberg, der 1692 das Rittergut Oberlockwitz erworben hatte und auch Bauherr der Lockwitzer Schlosskirche war.
 
 
-![tschirnhausstraße](../../../sudost/nickern/strassen_nickern/a_rectangle_849.gif)
+## Tschirnhausstraße
 
 Auch die Tschirnhausstraße am Kaufpark Nickern wurde zur Erschließung des neuen Gewerbegebietes Mitte der 90er
 Jahre angelegt. Sie erinnert an den Naturwissenschaftler Ehrenfried Walther von Tschirnhaus (1651-1708), der zu den

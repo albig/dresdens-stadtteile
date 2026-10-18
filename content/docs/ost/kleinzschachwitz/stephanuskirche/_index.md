@@ -5,9 +5,9 @@ date: 2024-02-17T22:13:37+01:00
 
 * * *
 
-[![ev.-luth. stephanuskirche  meußlitzer str. 113 01259 dresden  tel. 0351/2039234](../../../ost/kleinzschachwitz/stephanuskirche/a_rectangle_1426.gif)](http://www.stephanuskirche-dresden-zschachwitz.de)
+[Ev.-luth. stephanuskirche  meußlitzer str. 113 01259 dresden  tel. 0351/2039234](http://www.stephanuskirche-dresden-zschachwitz.de)
 
-![stephanusfriedhof kleinzschachwitz  neue straße 01259 dresden](../../../ost/kleinzschachwitz/stephanuskirche/a_rectangle_1427.gif)
+Stephanusfriedhof kleinzschachwitz  neue straße 01259 dresden
 
 
 

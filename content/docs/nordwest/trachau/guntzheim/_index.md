@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:36+01:00
 
 * * *
 
-[![städtisches krankenhaus dresden-neustadt industriestraße 40 01129 dresden tel. 0351/8 56 0 fax 0351/8 49 03 22 www.khdn.de](a_rectangle_75.gif)](http://www.khdn.de)
+[Städtisches krankenhaus dresden-neustadt industriestraße 40 01129 dresden tel. 0351/8 56 0 fax 0351/8 49 03 22 www.khdn.de](http://www.khdn.de)
 
 * * *
 

@@ -7,7 +7,7 @@ date: 2024-02-17T22:13:47+01:00
 
 ![](../../../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/matthauskirche/friedrichstmatth_uskirche1.jpg)
 
-![matthäuskirche friedrichstr. 43 01067 dresden tel. 0351/496 19 66](../../../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/matthauskirche/a_rectangle_1083.gif)
+Matthäuskirche friedrichstr. 43 01067 dresden tel. 0351/496 19 66
 
 
 ![](../../../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/matthauskirche/friedrichstmatth_uskirche.jpg)Mit zunehmender Besiedlung der Friedrichstadt wuchs bei der hier ansässigen Bevölkerung der Wunsch nach einem eigenen Gotteshaus. 1722 richtete man deshalb ein Gesuch an den sächsischen Landtag, um eine Kirche mit Pfarrhaus sowie eine eigene Schule errichten zu dürfen. Nach Bewilligung des Antrags und der Durchführung einer Landeskollekte wurden das Kammergut Ostra und die angrenzende Vorstadt Neustadt-Ostra 1725 aus ihren bisherigen Kirchgemeinden (Briesnitz bzw. Annenkirche) herausgelöst. Am 28. Mai 1728 erfolgte schließlich durch den Dresdner Superintendenten Valentin Ernst Löscher die Grundsteinlegung für die Matthäuskirche. Bereits 1725 hatte es an dieser Stelle einen kleinen Friedhof gegeben, der heute als Alter bzw. Innerer [Matthäusfriedhof](../../../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/matthauskirche/matthausfriedhof/) bezeichnet wird. Hier liegen einige bedeutende Persönlichkeiten begraben, darunter der Erbauer der ersten deutschen Dampflokomotive Johann Andreas Schubert.

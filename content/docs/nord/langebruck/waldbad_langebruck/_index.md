@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:32+01:00
 
 * * *
 
-![waldbad langebrück stiehlerstr. 23 01465 langebrück tel. 035201/70953](../../../nord/langebruck/waldbad_langebruck/a_rectangle_1641.gif)
+Waldbad langebrück stiehlerstr. 23 01465 langebrück tel. 035201/70953
 
 * * *
 

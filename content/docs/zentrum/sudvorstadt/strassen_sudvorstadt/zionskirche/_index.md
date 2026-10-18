@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:48+01:00
 
 * * *
 
-![zionskirche bayreuther str. 28 01187 dresden tel. 0351/4010369](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/zionskirche/a_rectangle_1699.gif)
+Zionskirche bayreuther str. 28 01187 dresden tel. 0351/4010369
 
 [![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/zionskirche/zionskirche.jpg)](http://www.dresden-zionskirche.de)
 

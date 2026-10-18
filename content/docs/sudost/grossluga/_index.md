@@ -18,7 +18,7 @@ date: 2024-02-17T22:13:41+01:00
 
 **Schulen in Luga:**
 
-[![homepage der 90. grundschule](../../sudost/grossluga/a_rectangle_971.gif)](http://marvin.sn.schule.de/~gs90dd)
+## [Homepage der 90. Grundschule](http://marvin.sn.schule.de/~gs90dd)
 
 
 ![](../../sudost/grossluga/gro_luga1.jpg)Großluga entstand als slawischer Rundweiler und wurde 1321 erstmals als Luge erwähnt. Zur besseren Unterscheidung zum benachbarten Kleinluga erhielt der Ort schon bald den Namen Groß-Luga, der sich 1378 zum ersten Mal in den Urkunden findet (luck major). Übersetzt bedeutet Luga Ort mit einer feuchten Niederung, was auf die örtlichen Gegebenheiten hindeutet. Einige Überlieferungen gehen davon aus, das die ursprüngliche Siedlung einst etwas nördlich in Richtung Sporbitz lag, später jedoch aus Hochwasserschutzgründen verlegt wurde. Belege für diese These fehlen jedoch.

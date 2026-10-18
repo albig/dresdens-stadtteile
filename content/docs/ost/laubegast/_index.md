@@ -18,7 +18,7 @@ date: 2024-02-17T22:13:37+01:00
 
 [![](../../ost/laubegast/laubegast-online.jpg)](http://www.laubegast-online.de)
 
-[![www.laubegast.net  das laubegaster internet-portal](../../ost/laubegast/a_rectangle_1302.gif)](http://www.laubegast.net)
+[Www.laubegast.net  das laubegaster internet-portal](http://www.laubegast.net)
 
 [![](../../ost/laubegast/inselfest.jpg)](http://www.inselfest-laubegast.de)
 
@@ -32,7 +32,7 @@ date: 2024-02-17T22:13:37+01:00
 
 [![](../../bibodd.jpg)](http://www.bibo-dresden.de)
 
-[![bibliothek laubegast österreicher str. 61 01279 dresden tel. 0351/2522273](../../ost/laubegast/a_rectangle_1178.gif)](http://www.bibo-dresden.de)
+[Bibliothek laubegast österreicher str. 61 01279 dresden tel. 0351/2522273](http://www.bibo-dresden.de)
 
 * * *
 
@@ -99,7 +99,7 @@ Ab 1947 konnten die Laubegaster Fußballer wieder an die Tradition der Vorkriegs
 Wechsel der Trägerschaft in BSG Pentacon. Als sich dieses Unternehmen nach 1990 auflöste, erhielt der Sportverein seinen ursprünglichen Namen FV Dresden 06 Laubegast zurück. Nach Beseitigung der Hochwasserschäden konnte
 2005 ein neues Vereinsheim in Besitz genommen werden.
 
-[![laubegaster straßen](../../ost/laubegast/a_rectangle_1206.gif)](../../ost/laubegast/strassen_laubegast/)
+## [Laubegaster Straßen](../../ost/laubegast/strassen_laubegast/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

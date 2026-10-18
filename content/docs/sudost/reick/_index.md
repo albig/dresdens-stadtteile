@@ -101,7 +101,7 @@ Die Radrennbahn Reick wurde im Jahr 1909 vom Verein für Radwettfahrten nord
 
 Trotz der optimalen Bedingungen geriet der Verein bereits wenige Jahre nach Eröffnung der Radrennbahn in finanzielle Schwierigkeiten. Um diese auszugleichen erfolgte 1913 eine Erweiterung der Nutzung für Fußball, Polo und Leichtathletik. Da jedoch trotz aller Bemühungen auch später nicht an die Erfolge der Anfangsjahre angeknüpft werden konnte, wurde die Radrennbahn Mitte der 1930er Jahre aufgegeben und 1939 offiziell geschlossen.
 
-[![reicker straßen](../../sudost/reick/a_rectangle_781.gif)](../../sudost/reick/strassen_reick/)
+## [Reicker Straßen](../../sudost/reick/strassen_reick/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

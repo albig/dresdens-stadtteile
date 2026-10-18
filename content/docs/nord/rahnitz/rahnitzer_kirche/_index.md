@@ -5,9 +5,9 @@ date: 2024-02-17T22:13:35+01:00
 
 * * *
 
-![friedhof rähnitz-hellerau ludwig-kossuth-str. 20 01109 dresden  ev.-luth. pfarramt wilschdorf/rähnitz reineckeweg 5 01109 dresden tel. 0351/8808404](../../../nord/rahnitz/rahnitzer_kirche/a_rectangle_1006.gif)
+Friedhof rähnitz-hellerau ludwig-kossuth-str. 20 01109 dresden  ev.-luth. pfarramt wilschdorf/rähnitz reineckeweg 5 01109 dresden tel. 0351/8808404
 
-[![ev.-lutherische christophorus- kirchgemeinde dresden- wilschdorf- rähnitz](../../../nord/a_rectangle_919.gif)](http://www.christophorus-dresden.de)
+[Ev.-lutherische christophorus- kirchgemeinde dresden- wilschdorf- rähnitz](http://www.christophorus-dresden.de)
 
 * * *
 

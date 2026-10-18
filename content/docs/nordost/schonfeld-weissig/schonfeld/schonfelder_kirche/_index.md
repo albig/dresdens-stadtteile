@@ -5,11 +5,11 @@ date: 2024-02-17T22:13:35+01:00
 
 * * *
 
-![ev.-luth. kirchgemeinde schönfeld borsbergstraße 6 01328 dresden  tel. 0351/2618572](../../../../nordost/schonfeld-weissig/schonfeld/schonfelder_kirche/a_rectangle_1128.gif)
+Ev.-luth. kirchgemeinde schönfeld borsbergstraße 6 01328 dresden  tel. 0351/2618572
 
 **zur Homepage der Kirchgemeinde:**
 
-[![ev.-luth. kirchgemeinde schönfeld-weißig](../../../../nordost/schonfeld-weissig/a_rectangle_1745.gif)](http://www.kirchgemeinde-schoenfeld-weissig.de)
+## [Ev.-Luth. Kirchgemeinde Schönfeld-Weißig](http://www.kirchgemeinde-schoenfeld-weissig.de)
 
 * * *
 

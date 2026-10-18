@@ -3,7 +3,7 @@ title: "Nordfriedhof"
 date: 2024-02-17T22:13:30+01:00
 ---
 
-![nordfriedhof kannenhenkelweg 1 01099 dresden  tel. 0351/8 04 13 83  verwaltung: löbtauer str. 70 01159 dresden  tel. 0351/4 39 36 00](../../../neustadt/albertstadt/nordfriedhof/a_rectangle_1105.gif)
+Nordfriedhof kannenhenkelweg 1 01099 dresden  tel. 0351/8 04 13 83  verwaltung: löbtauer str. 70 01159 dresden  tel. 0351/4 39 36 00
 
 ![](../../../neustadt/albertstadt/nordfriedhof/albnordfriedh.jpg)Der Nordfriedhof wurde auf Anregung des sächsischen Kriegsministers Paul von
 der Planitz als Garnisonsfriedhof der Albertstadt angelegt und am 1. Oktober 1901 eröffnet. Die erste Beisetzung erfolgte am 12. Dezember des gleichen Jahres. 1902 folgte die Einweihung der nach Plänen des Sächsischen

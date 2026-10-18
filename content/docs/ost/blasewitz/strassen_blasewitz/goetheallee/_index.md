@@ -3,9 +3,9 @@ title: "Goetheallee"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![standesamt dresden -eheschließung-  goetheallee 55 01309 dresden  tel. 0351/4888817](../../../../ost/blasewitz/strassen_blasewitz/goetheallee/a_rectangle_1271.gif)
+Standesamt dresden -eheschließung-  goetheallee 55 01309 dresden  tel. 0351/4888817
 
-[![sonnenstrahl e.v.  förderkreis für krebskranke kinder  goetheallee 13 01309 dresden  www.sonnenstrahl-ev.org](a_rectangle_1582.gif)](http://www.sonnenstrahl-ev.org)
+[Sonnenstrahl e.v.  förderkreis für krebskranke kinder  goetheallee 13 01309 dresden  www.sonnenstrahl-ev.org](http://www.sonnenstrahl-ev.org)
 
 
 ![](../../../../ost/blasewitz/strassen_blasewitz/goetheallee/blasewgoethe49.jpg)Die Goetheallee wurde im letzten Drittel des 19. Jahrhunderts als Wohnstraße angelegt und hieß bis 1949 Emser Allee. Mit diesem am 1. April 1873 amtlich eingeführten Namen sollte an die Ereignisse des Deutsch-Französischen Krieges 1870/71 erinnert werden. Die von Bismarck politisch geschickt ausgenutzte "Emser Depesche" war Auslöser der Kämpfe zwischen beiden Ländern. Nicht zuletzt die hohen Reparationszahlungen Frankreichs nach Kriegsende trugen zum wirtschaftlichen Aufschwung und der Entstehung der Blasewitzer Villenviertel bei.

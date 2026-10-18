@@ -35,7 +35,7 @@ Christliche Schule Dresden: 1980 entstanden im Zusammenhang mit dem Neubaugebiet
 
 1990 wurde die 114. POS in eine weiterführende Schule umgewandelt und diente bis zur Schließung 2007 als Gymnasium Großzschachwitz. Danach übernahm der Christliche Schulverein Zschachwitz das Gebäude. Bereits im Schuljahr 2004/2005 hatte der von den beiden Kleinzschachwitzer Kirchgemeinden getragene Verein in der früheren 65. Grundschule eine konfessionsorientierte Grundschule gegründet. Im Zusammenhang mit der Erweiterung dieser Bildungseinrichtung um Mittelschule und Gymnasium erfolgte der Umzug in das größere Gebäude auf der Rathener Straße 78. Im September 2007 entstand zudem auf der Pirnaer Landstraße 191 Dresdens zweite Montessorischule Kilaloma mit integriertem Ganztagskonzept.
 
-[![großzschachwitzer straßen](../../ost/grosszschachwitz/a_rectangle_1288.gif)](../../ost/grosszschachwitz/strassen_grosszschachwitz/)
+## [Großzschachwitzer Straßen](../../ost/grosszschachwitz/strassen_grosszschachwitz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

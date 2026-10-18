@@ -16,7 +16,7 @@ date: 2024-02-17T22:13:35+01:00
 
 [![](../../../nordost/schonfeld-weissig/schullwitz/schullwitz.jpg)](http://www.schullwitz.de)
 
-![bibliothek schullwitz bühlauer str. 35 01328 dresden](../../../nordost/schonfeld-weissig/schullwitz/a_rectangle_947.gif)
+Bibliothek schullwitz bühlauer str. 35 01328 dresden
 
 
 Schullwitz entstand vermutlich im 12. Jahrhundert im Zusammenhang mit der Besiedlung der Schönfelder Hochlandes als Waldhufendorf. 1378 wurde der Ort in einem Zinsregister erstmals als Schalewicz

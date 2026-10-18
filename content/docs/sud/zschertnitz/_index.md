@@ -63,7 +63,7 @@ Kleingartenanlage Obere Südhöhe:
 
 ![](../../sud/zschertnitz/zschertnkleiga.jpg)Auch diese Kleingartenanlage liegt auf ehemaligem Ziegeleigelände. Nach Schließung der größten Zschertnitzer Ziegelei um 1930 wurde die Lehmgrube zunächst als Müllkippe genutzt. 1944 erhielt sie sogar ein Anschlussgleis der Straßenbahn, welches zum Abfalltransport der Schienenreinigungswagen diente. Nach Zerstörung der Dresdner Innenstadt wurde die frühere Lehmgrube viele Jahre als Abraumhalde für Trümmerschutt genutzt, der per Straßenbahn zur Südhöhe transportiert wurde. Die Ende der 1950er Jahre entstandenen Pläne für einen Schieß- und Sportkomplex der GST kamen nicht zustande. Stattdessen wurde das Gelände Ende der 1980er Jahre für eine neue Kleingartensparte freigegeben, letzte vor der Wiedervereinigung in Dresden entstandene Anlage.
 
-[![zschertnitzer straßen](../../sud/zschertnitz/a_rectangle_699.gif)](../../sud/zschertnitz/strassen_zschertnitz/)
+## [Zschertnitzer Straßen](../../sud/zschertnitz/strassen_zschertnitz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

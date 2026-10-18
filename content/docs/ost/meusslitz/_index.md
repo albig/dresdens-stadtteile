@@ -38,7 +38,7 @@ Volkspark Zschachwitz:
 
 ![](../../ost/meusslitz/meu_litzerpark.jpg)1928 erwarb die Gemeinde das Areal von den Erben Timaeus´ und wandelte es in einen öffentlichen Volkspark um. Dafür wurde der Park 1934 in südwestlicher Richtung erweitert und erhielt einen kleinen Sportplatz, welcher im Winter zum Eislaufen genutzt wurde. Leider ging in der Nachkriegszeit viel vom ursprünglichen Flair des Parks verloren. So verschwanden die meisten der einst vorhandenen Steinvasen und Sitzbänke. Erst nach 1990 begann die schrittweise Wiederherstellung. Bemerkenswert ist ein kleiner Brunnen, der einst eine heute verschollene Plastik Knabe mit Schwan trug. Ein monumentales Kriegerdenkmal erinnert an die Gefallenen des Ersten Weltkrieges _(Foto)_. Dieses entstand Mitte der 1930er Jahre und wurde von Prof. Otto Schubert entworfen.
 
-[![meußlitzer straßen](../../ost/meusslitz/a_rectangle_1544.gif)](../../ost/meusslitz/strassen_meusslitz/)
+## [Meußlitzer Straßen](../../ost/meusslitz/strassen_meusslitz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

@@ -3,7 +3,7 @@ title: "Schwebebahn"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![technische daten:  streckenlänge: 273,8 m anzahl der stützen: 33 länge des seils: 410 m seildurchmesser: 38 mm höhenunterschied: 84,2 m fahrzeit: ca. 2,5 min geschwindigkeit: 1,5 m/s  fahrzeuge: 2 wagen (straßenbahnwerkstatt dresden-trachenberge) platzkapazität: je 40](../../../nordost/loschwitz/schwebebahn/a_rectangle_724.gif)
+Technische daten:  streckenlänge: 273,8 m anzahl der stützen: 33 länge des seils: 410 m seildurchmesser: 38 mm höhenunterschied: 84,2 m fahrzeit: ca. 2,5 min geschwindigkeit: 1,5 m/s  fahrzeuge: 2 wagen (straßenbahnwerkstatt dresden-trachenberge) platzkapazität: je 40
 
 * * *
 

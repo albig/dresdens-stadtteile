@@ -19,7 +19,7 @@ date: 2024-02-17T22:13:42+01:00
 
 **Schulen in Luga:**
 
-[![homepage  der  90. grundschule](../../sudost/page10568/a_rectangle_971.gif)](http://marvin.sn.schule.de/~gs90dd)
+## [Homepage der 90. Grundschule](http://marvin.sn.schule.de/~gs90dd)
 
 
 ![](../../sudost/page10568/gro_luga1.jpg)Großluga entstand als slawischer Rundweiler und wurde 1321 erstmals als Luge erwähnt.

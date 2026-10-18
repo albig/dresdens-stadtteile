@@ -20,7 +20,7 @@ date: 2024-02-17T22:13:43+01:00
 
 [![](../../bibodd.jpg)](http://www.bibo-dresden.de)
 
-[![bibliothek plauen altplauen 1 01189 dresden tel. 0351/4121482](../../sud/plauen/a_rectangle_656.gif)](http://www.bibo-dresden.de)
+[Bibliothek plauen altplauen 1 01189 dresden tel. 0351/4121482](http://www.bibo-dresden.de)
 
 [![](../../sud/plauen/gymplauen.jpg)](http://www.gymnasium-dresden-plauen.de)
 
@@ -28,7 +28,7 @@ date: 2024-02-17T22:13:43+01:00
 
 [![](../../sud/plauen/49gsplauen.jpg)](http://www.49.gs-dresden.de)
 
-[![homepage der 55. oberschule ](../../sud/plauen/a_rectangle_1069.gif)](http://www.55-mittelschule-dresden.de)
+## [Homepage der 55. Oberschule](http://www.55-mittelschule-dresden.de)
 
 * * *
 
@@ -166,7 +166,7 @@ weiteres Gaswerk anlegte. Beide Werke gingen 1903 in den Besitz der Stadt der St
 Plauener Gasanstalt bereits im März 1903 stillgelegt wurde, produzierte das Löbtauer Werk noch bis 1920. Die Gebäude
 und Gasbehälter wurden schließlich 1923/24 beseitigt. Auf dem Areal steht heute die Tankstelle am Eingang zum Plauenschen Grund.
 
-[![plauener straßen](../../sud/plauen/a_rectangle_642.gif)](../../sud/plauen/strassen_plauen/)
+## [Plauener Straßen](../../sud/plauen/strassen_plauen/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

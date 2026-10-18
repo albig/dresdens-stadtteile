@@ -3,7 +3,7 @@ title: "Sowjetischer Garnisonsfriedhof"
 date: 2024-02-17T22:13:30+01:00
 ---
 
-![sowjetischer garnisonsfriedhof kannenhenkelweg 01099 dresden](../../../../neustadt/albertstadt/nordfriedhof/sowjet__garnisonsfriedhof/a_rectangle_1106.gif)
+Sowjetischer garnisonsfriedhof kannenhenkelweg 01099 dresden
 
 
 ![](../../../../neustadt/albertstadt/nordfriedhof/sowjet__garnisonsfriedhof/albsowjetfriedh.jpg)Der Sowjetische Garnisonsfriedhof wurde 1945 am Rand der Dresdner Heide angelegt.

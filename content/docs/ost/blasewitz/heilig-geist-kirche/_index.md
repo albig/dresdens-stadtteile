@@ -5,11 +5,11 @@ date: 2024-02-17T22:13:37+01:00
 
 * * *
 
-![ev.-lutherische heilig-geist-kirche sebastian-bach-str. 13 01309 dresden tel. 0351/3100041](../../../ost/blasewitz/heilig-geist-kirche/a_rectangle_1004.gif)
+Ev.-lutherische heilig-geist-kirche sebastian-bach-str. 13 01309 dresden tel. 0351/3100041
 
 **Zur Homepage der Kirchgemeinde:**
 
-[![zur homepage der kirchgemeinde](../../../ost/a_rectangle_1647.gif)](http://www.kirchgemeinde-dresden-blasewitz.de)
+## [Zur Homepage der Kirchgemeinde](http://www.kirchgemeinde-dresden-blasewitz.de)
 
 * * *
 

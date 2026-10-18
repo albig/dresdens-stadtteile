@@ -49,7 +49,7 @@ Schimmrichs Gastwirtschaft:
 
 Der Gasthof des Ortes ging aus dem früheren Reiheschank hervor und entstand im 19. Jahrhundert. Um 1900 wurde er nach seinem Besitzer Schimmrichs Gastwirtschaft genannt. Gastwirt Schimmrich war zugleich Gemeindevorstand des Ortes und Mitglied des Vereins der Gast- und Schankwirte der Dresdner Westvororte. Hochgeachtet verstarb er 1910 und wurde am 31. Juli 1910 auf dem Briesnitzer Friedhof beigesetzt. In den 1920er Jahren hieß die kleine Dorfschänke Wegners Gasthaus.
 
-[![ockerwitzer straßen](../../../sudwest/gompitz/ockerwitz/a_rectangle_1962.gif)](../../../sudwest/gompitz/pennrich/strassen_gompitz/)
+## [Ockerwitzer Straßen](../../../sudwest/gompitz/pennrich/strassen_gompitz/)
 
 [_Weiterführende Literatur und Quellen_](../../../impressum/quellenverzeichnis/)
 

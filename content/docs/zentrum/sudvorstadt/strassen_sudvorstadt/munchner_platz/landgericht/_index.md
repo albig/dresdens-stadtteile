@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:48+01:00
 
 * * *
 
-![gedenkstätte münchner platz  george-bähr-str. 7 01069 dresden  tel. 0351/46331990](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/munchner_platz/landgericht/a_rectangle_1683.gif)
+Gedenkstätte münchner platz  george-bähr-str. 7 01069 dresden  tel. 0351/46331990
 
 [![](gedenkst_ttem_npl.jpg)](http://www.stsg.de)
 

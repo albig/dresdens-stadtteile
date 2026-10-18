@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:33+01:00
 
 * * *
 
-![ev.-luth. friedhof dresden-loschwitz  pillnitzer landstr. 80 01326 dresden  tel. 0351/2150050](../../../../nordost/loschwitz/loschwitzer_kirche/loschwitzer_friedhof/a_rectangle_1120.gif)
+Ev.-luth. friedhof dresden-loschwitz  pillnitzer landstr. 80 01326 dresden  tel. 0351/2150050
 
 * * *
 

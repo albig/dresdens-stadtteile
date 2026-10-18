@@ -3,18 +3,18 @@ title: "Straßen und Plätze in Pillnitz"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-![am rathaus](../../../nordost/pillnitz/strassen_pillnitz/a_rectangle_1800.gif)
+## Am Rathaus
 
 ![](../../../nordost/pillnitz/strassen_pillnitz/pillnitzrathausplatz.jpg)Der ursprünglich als Dorfplatz, später als Postplatz bezeichnete Platz _(Foto)_ erhielt 1925 seinen heutigen Namen Am Rathaus. In diesem Jahr bezog die Gemeindeverwaltung des damals noch selbständigen Ortes die Räume des ehemaligen Postamtes, welches ab 1911 von der Verbandssparkasse Schönfeld und Umgebung als Nebenstelle genutzt worden war _(im Bild rechts)_. Seit 1950 dient das frühere Pillnitzer [Rathaus](../../../nordost/pillnitz/) als Filiale der Dresdner Stadtsparkasse.
 
 Brunnen: 2007 wurde auf der gegenüberliegenden Seite des Platzes ein Brunnen in Betrieb genommen, welcher symbolisch den Lauf des hier unterirdisch fließenden Meixbaches bzw. Friedrichgrundbaches darstellt. Der Brunnen besteht aus drei Sandsteinbecken und einem vergitterten Schacht, durch den man einen Blick auf das unterirdische Bachbett hat. Die Entwürfe stammen vom Planungsbüro Heidelmann und Klingbiel, die Gestaltung des Umfeldes mit Grünflächen und Ruhebänken übernahmen die Landschaftsarchitekten Lagotzki, Starke und Grütze.
 
-![an der schäferei](../../../nordost/pillnitz/strassen_pillnitz/a_rectangle_1801.gif)
+## An der Schäferei
 
 Die kurze Straße An der Schäferei unmittelbar in der Nähe des Dorfplatzes (Am Rathaus) wurde nach der einst hier befindlichen Schäferei des Kammergutes Pillnitz benannt. Bis zur Eingemeindung des Ortes trug sie den Namen Mühlweg. Die amtliche Umbenennung erfolgte am 8. Februar 1956. Markantestes Gebäude ist das an der Nordseite stehende Wohn- und Geschäftshaus An der Schäferei 1. Ursprünglich befand sich an dieser Stelle die bereits 1435 erstmals erwähnte [Pillnitzer Mühle](../../../nordost/pillnitz/gaststatten_pillnitz/). Die Mühle diente als Säge- und Mahlmühle und erhielt 1718 zugleich die Schankgerechtigkeit. 1900 erfolgte der Abbruch der Mühlengebäude. In Erinnerung an die
 Vergangenheit erhielt eine im Erdgeschoss des Neubaus untergebrachte Gaststätte den Namen Zur Pillnitzer Mühle. Später befand sich hier das Café Pillnitz, bevor nach 1990 das griechische Restaurant Taverne bei Jannis einzog.
 
-![august-böckstiegel-str.](../../../nordost/pillnitz/strassen_pillnitz/a_rectangle_1802.gif)
+## August-Böckstiegel-Str.
 
 ![](../../../nordost/pillnitz/strassen_pillnitz/pillnb_ckstiegelstr.jpg) Die August-Böckstiegel-Straße, nach ihrer Lage in unmittelbarer Nähe des Schlosses Pillnitz bis 1953 Schloßstraße genannt, verdankt ihren Namen dem deutschen Maler Peter August Böckstiegel (1889-1951). Böckstiegel studierte ab 1913 an der Dresdner Kunstakademie und war Schüler von Oskar Zwintscher und Otto Gussmann. 1917 schloss er sich mit den Malern Conrad Felixmüller, Bernhard Kretzschmar und weiteren Expressionisten zur Gruppe 1917 (später Dresdner Sezession) zusammen. Sein Atelier befand sich bis zur Zerstörung 1945 am Antonsplatz in der Innenstadt.
 
@@ -24,17 +24,17 @@ An der August-Böckstiegel-Straße haben sich bis heute zwei Wohnhäuser aus der
 
 
 
-![bergweg](../../../nordost/pillnitz/strassen_pillnitz/a_rectangle_1805.gif)
+## Bergweg
 
 ![](../../../nordost/pillnitz/strassen_pillnitz/pillnpre_haus.jpg)Der am Fuße der Weinberge an der Südseite des Borsbergs entlang führende Weg trug bis zur Eingemeindung von Pillnitz offiziell den Namen Weinbergsweg und wurde 1953 in Bergweg umbenannt. Ursprünglich nutzten diese Verbindung hauptsächlich die Winzer des Ortes als Zugang zu den Weinbergen. Sehenswert sind das von Christian Friedrich Schuricht entworfene alte Presshaus von 1827 (Bergweg 1) und die nach dem Abriss der Schlosskirche 1723/27 entstandene [Weinbergkirche](../../../nordost/pillnitz/weinbergkirche_pillnitz/).
 
 **_Foto:_** _Preßhaus am Bergweg_
 
-![bodemerweg](../../../nordost/pillnitz/strassen_pillnitz/a_rectangle_1806.gif)
+## Bodemerweg
 
 Der zur Erschließung einer kleinen Wohnsiedlung in der Nähe der Ortsgrenze zu Hosterwitz angelegte Bodemerweg verdankt seinen Namen dem Unternehmer und Wohltäter Jacob Georg Bodemer (1807-1888), der seine letzten Lebensjahre in Pillnitz verbrachte. Bodemer war durch den Besitz einer Fabrik im erzgebirgischen Zschopau zu erheblichem Wohlstand gekommen und setzte sich sehr stark für eine Verbesserung der sozialen Lage der Arbeiter ein. Neben verschiedenen Stiftungen in seiner Heimatstadt Zschopau finanzierte er auch die Ausstattung zahlreicher Volks- und Stadtbibliotheken und unterstützte Bildungs- und Wohltätigkeitsvereine. Ab 1872 lebte Bodemer in Dresden und verstarb am 27. November 1888 in Pilnitz.
 
-![copitzer straße](../../../nordost/pillnitz/strassen_pillnitz/a_rectangle_654.gif)
+## Copitzer Straße
 
 Die Copitzer Straße verläuft am Pillnitzer Hausberg und erhielt ihren Namen nach dem nahegelegenen Ort Copitz, heute ein Stadtteil von Pirna. Ursprünglich diente der bis 1924 namenlose Weg der Erschließung des hier befindlichen Weinbergs. Danach wurde er in Stadtplänen und Adressbüchern als Am Hausberg bezeichnet. Zeitgleich entstanden nach Entwürfen des ortsansässigen Architekten Richard Merz einige neue Wohnhäuser. 1930 erfolgte die Umbenennung der Straße in Malschendorfer Straße. Da es in Rochwitz jedoch bereits eine gleichnamige Straße gab, machte sich nach der Eingemeindung von Pillnitz 1953 eine weitere Namensänderung erforderlich. Auf Beschluss des Stadtrates erfolgte diese am 30. September 1953 in Copitzer Straße.
 
@@ -50,13 +50,13 @@ Nr. 3: Das Nachbargrundstück Copitzer Straße 3 gehörte 1843 dem aus Söbrigen
 
 _**Foto:** der ehemalige Gasthof "Goldener Löwe" an der Ecke Lohmener / Dampfschiffstraße_
 
-[![dresdner straße](../../../nordost/pillnitz/strassen_pillnitz/a_rectangle_1804.gif)](../../../nordost/hosterwitz/dresdner_strasse/)
+## [Dresdner Straße](../../../nordost/hosterwitz/dresdner_strasse/)
 
-![hausbergstraße](../../../nordost/pillnitz/strassen_pillnitz/a_rectangle_1807.gif)
+## Hausbergstraße
 
 Die Hausbergstraße wurde 1927 auf ehemaligem Weinbergsgelände angelegt und zehn Jahre später nach diesem Weinberg benannt. In den Folgejahren entstand hier eine kleine Landhaussiedlung. Markantestes Gebäude ist das heute nur noch als Wohnhaus genutzte frühere [Café Hausberg](../../../nordost/pillnitz/gaststatten_pillnitz/) im Bauhausstil. Bis zur Schließung 2004 gehörte das Lokal, von dessen verglaster Veranda sich ein schöner Blick über die Umgebung bot, zu den beliebtesten Gaststätten in Pillnitz.
 
-![leitenweg](../../../nordost/pillnitz/strassen_pillnitz/a_rectangle_1808.gif)
+## Leitenweg
 
 Der Leitenweg entstand Ende des 19. Jahrhunderts zur Erschließung der Pillnitzer Weinberge, vor allem des in kurfürstlichem
 Besitz befindlichen Großen Bergs Pillnitz. Um 1800 hatte man die vorhandenen Weinberge etappenweise terrassiert und mit
@@ -65,7 +65,7 @@ Zugangswegen und Treppenanlagen erschlossen, wobei der Leitenweg die wichtigste 
 Erst der Niedergang des sächsischen Weinbaus nach 1890 und die folgende Rodung der Weinberge um 1905 führten zu einer Veränderung des Landschaftsbildes. Nach jahrzehntelanger Bernachlässigung konnten die alten Weinterrassen ab 1980
 wieder hergestellt werden und dienen seitdem wieder dem Rebenanbau. Vom Leitenweg bietet sich ein schöner Blick über Pillnitz und seine Umgebung.
 
-![lohmener straße](../../../nordost/pillnitz/strassen_pillnitz/a_rectangle_1809.gif)
+## Lohmener Straße
 
 Die Lohmener Straße beginnt im Pillnitzer Ortszentrum und führt von dort in östlicher Richtung nach Oberpoyritz und von dort
 weiter über Graupa nach Pirna. Aus diesem Grund trug sie bis zur Eingemeindung den Namen Pirnaische Straße. Um Verwechslungen mit einer gleichnamigen Straße in der Innenstadt zu vermeiden, wurde sie 1950 nach dem kleinen Ort
@@ -80,16 +80,16 @@ Dieser diente früher bei Hochwassergefahr dem Treiben der Schöpse (= Schafe) v
 1998 als Naturdenkmal eingetragen sind. Unweit der Baumgruppe ermöglicht eine Sandsteinfassung dem Graupaer Bach ein Durchfließen des Damms. Während seines Aufenthalts in Graupa war der Schöpsdamm ein beliebter Spazierweg für den
 Komponisten Richard Wagner, der häufig von hier aus zu Fuß bis in Dresdner Innenstadt lief.
 
-[![maillebahn](../../../nordost/pillnitz/strassen_pillnitz/a_rectangle_1803.gif)](../../../nordost/pillnitz/strassen_pillnitz/maillebahn/)
+## [Maillebahn](../../../nordost/pillnitz/strassen_pillnitz/maillebahn/)
 
-![meixstraße](../../../nordost/pillnitz/strassen_pillnitz/a_rectangle_1811.gif)
+## Meixstraße
 
 ![](../../../nordost/pillnitz/strassen_pillnitz/pillnitz_gastst_tte_friedrichsgrund.jpg)Die Meixstraße verbindet den Pillnitzer Ortskern mit dem [Meixgrund](../../../nordost/pillnitz/meixgrund/) und führt von dort weiter in Richtung Schönfelder Hochland. Der um 1900 zur Fahrstraße
 ausgebaute Weg trug deshalb bis 1950 den Namen Schönfelder Straße. Hier sind noch einige historische Gebäude des früheren Dorfes erhalten geblieben. Im Haus
 Meixstraße 6 hatte bis 1915 das Pillnitzer Gemeindeamt seinen Sitz. Weitere Gebäude dienten als Geschäftsräume des Fotographen  Paul Köhne (Nr. 14) bzw.
 beherbergten Backstube und Verkaufsräume der Konditorei Heinke (Nr. 5). Im heute als Wohnhaus genutzten Gebäude Meixstraße 12 _(Foto)_ befand sich vor dem Zweiten Weltkrieg die Gaststätte Zum Friedrichsgrund.
 
-![orangeriestraße](../../../nordost/pillnitz/strassen_pillnitz/a_rectangle_1812.gif)
+## Orangeriestraße
 
 Ursprünglich trug die heutige Orangeriestraße den Namen Laubegaster Straße, wobei die Namensgebung nach dem am
 gegenüber liegenden Elbufer gelegenen Ort Laubegast erfolgte. Nach der Eingemeindung von Pillnitz machte sich, um Namensdoppelungen im Stadtgebiet zu vermeiden, eine Umbenennung erforderlich. Deshalb entschied sich die Stadt
@@ -97,7 +97,7 @@ Dresden, dieser Straße den Namen John-Schehr-Straße zu geben. John Schehr (189
 Partei. Im November 1933 wurde jedoch auch Schehr verhaftet und am 1. Februar 1934 von der Gestapo unter ungeklärten Umständen auf der Flucht erschossen. Nach 1990 wurde diese Namensgebung wieder aufgehoben und die Straße in
 Orangeriestraße umbenannt.
 
-![pillnitzer platz](../../../nordost/pillnitz/strassen_pillnitz/a_rectangle_1813.gif)
+## Pillnitzer Platz
 
 Der heute Pillnitzer Platz wurde vor dem Zweiten Weltkrieg Langemarckplatz genannt. Mit der Namensgebung sollte an den Mythos von Langemarck erinnert werden. In der Nähe des belgischen Ortes hatte am 10. November 1914 eine Schlacht des Ersten Weltkrieges stattgefunden, während der auf deutscher Seite hauptsächlich unerfahrene und junge Soldaten zum
 Einsatz kamen. Trotz des letztlich kaum erfolgreichen Ausganges der Kämpfe wurden diese später als Heldentat der
@@ -113,15 +113,15 @@ notwendigen Gerätschaften für die Schlosswirtschaft unterzubringen. Nach Ende 
 gegründete Höhere Lehranstalt für Gartenbau auch dieses Gebäude. 2007/08 wurde der Marstall saniert und dient heute unter dem Namen Schindlerbau als Domizil des sächsischen Landesamtes für Umwelt, Landwirtschaft und Geologie. Vor
 dem Bau fanden zwei Brunnen aus dem Dresdner Zwinger Aufstellung.
 
-[![pillnitzer landstraße](../../../a_rectangle_223.gif)](../../../nordost/loschwitz/strassen_loschwitz/pillnitzer_landstrasse/)
+## [Pillnitzer Landstraße](../../../nordost/loschwitz/strassen_loschwitz/pillnitzer_landstrasse/)
 
-![schulweg](../../../nordost/pillnitz/strassen_pillnitz/a_rectangle_1814.gif)
+## Schulweg
 
 Der Schulweg entstand im Zusammenhang mit der 1842 eröffneten Pillnitzer [Schule](../../../nordost/pillnitz/), welche von Kindern aus Pillnitz,
 Borsberg, Oberpoyritz und Söbrigen besucht wurde. Heute dient das Gebäude als Hotel Goldener Apfel. 1851 erwarb der
 Schriftsteller Julius Hammer ein Landhaus am Schulweg und nutzte dieses bis zu seinem Tod 1862 als Sommerhaus. Ein ihm zu Ehren aufgestelltes Denkmal auf dem Schulhof fiel 1954 dem Abbruch zum Opfer.
 
-![söbrigener straße](../../../nordost/pillnitz/strassen_pillnitz/a_rectangle_1815.gif)
+## Söbrigener Straße
 
 Die Söbrigener Straße verbindet Pillnitz mit dem benachbarten Ort Söbrigen und erhielt deshalb ihren Namen. Auf dem
 Grundstück Söbrigener Straße 1, welches früher zum Kammergut Pillnitz gehörte, befindet sich der Stammsitz der Dresdner Traditionsbäckerei Wippler mit Backhaus und Café. In einem Nebengebäude entstand 2010 aus Anlass des 100.
@@ -136,7 +136,7 @@ Landesamtes für Umwelt, Geologie und Landwirtschaft.
 
 **_Foto:_** _Das frühere Pillnitzer Kammergut in den Dreißiger Jahren_
 
-![wilhelm-wolf-straße](../../../nordost/pillnitz/strassen_pillnitz/a_rectangle_1816.gif)
+## Wilhelm-Wolf-Straße
 
 Ursprünglich wurde die heutige Wilhelm-Wolf-Straße Dammweg genannt, da sie direkt zum Hochwasserschutzdamm führte. Dieser diente zugleich dem Treiben der Schafe zu den Elbwiesen und trug deshalb im Volksmund den Namen
 Schöpsdamm. Später erfolgte die Umbenennung nach dem am 15. April 1904 in Pillnitz verstorbenen sächsischen König in König-Georg-Weg. Nach dem Zweiten Weltkrieg betrachtete man diese Namensgebung als nicht mehr zeitgemäß und
@@ -159,7 +159,7 @@ Stelle entstand nach Plänen von Rudolf Kolbe ein Neubau im Jugendstil. Dieser d
 
 
 
-![wünschendorfer straße](../../../nordost/pillnitz/strassen_pillnitz/a_rectangle_1817.gif)
+## Wünschendorfer Straße
 
 Die nach dem kleinen Ort Wünschendorf (Ortsteil von Dürrröhrsdorf-Dittersbach) benannte Wünschendorfer Straße trug bis
 zur Eingemeindung 1950 den Namen Borsbergstraße, da sie Pillnitz mit Borsberg verbindet. 1852 wurde hier das erste Landhaus errichtet.

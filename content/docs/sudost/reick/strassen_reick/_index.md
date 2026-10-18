@@ -3,7 +3,7 @@ title: "Straßen und Plätze in Reick"
 date: 2024-02-17T22:13:42+01:00
 ---
 
-![altreick](../../../sudost/reick/strassen_reick/a_rectangle_782.gif)
+## Altreick
 
 ![](../../../sudost/reick/strassen_reick/reickalt.jpg)In Altreick sind noch Teile des früheren Dorfkerns zu sehen, der bis 1945 zu den am besten erhaltenen in Dresden gehörte. Von 1897 bis 1913 wurde er offiziell Dorfplatz, danach Altreick genannt. Die meisten Gebäude entstanden nach dem letzten großen Dorfbrand 1807 bzw. nach 1813, als zahlreiche Gehöfte durch französische Soldaten zerstört wurden. Einige Häuser des Dorfes, welches sich auch an der Mügelner und der Reicker Straße entlang zog, fielen den Bomben des Zweiten Weltkrieges zum Opfer. Darunter befand sich der frühere Dorfgasthof mit seinem Ballsaal (Nr. 1) sowie das Kino "Reicker Lichtspiele" (Nr. 2). Weitere Gehöfte mussten 1976 dem Bau des nahegelegenen Neubaugebietes Prohlis weichen.
 
@@ -13,7 +13,7 @@ date: 2024-02-17T22:13:42+01:00
 
 Nr. 2: Auch der auf der gegenüberliegenden Straßenseite gelegene große Vierseithof Altreick 2 fiel 1945 den Bomben zum Opfer. Hier befand sich neben verschiedenen Läden das "Reicker Lichtspielhaus", auch "Reicker Lichtspiele" genannt. Inhaberin war Anfang der 1930er Jahre Dora Böse, ab 1936 Kurt Pillack. Als Ersatz für das zerstörte Kino wurde bereits 1946 in der Schulturnhalle der Reicker Volksschule ein neues Kino eingerichtet. Das zugleich als Domizil der privaten Bühne "Kleines Theater Reick" genutzte Gebäude mit ca. 300 Plätzen wurde zuletzt von der Nickelodeon Kino GmbH betrieben
 
-![am lehmhaus](../../../sudost/reick/strassen_reick/a_rectangle_783.gif)
+## Am Lehmhaus
 
 Der Straßenname Am Lehmhaus erinnert an die 1920 erfolgte Grundsteinlegung für die Siedlung der [Heimstätten- Genossenschaft Reick](../../../sudost/reick/). Zu den ersten Häusern gehörte ein aus Lehm und Abbruchmaterial entstandener Versuchsbau, der die
 Erwartungen jedoch nicht erfüllen konnte. Die übrigen Gebäude wurden bis 1932 in klassischer Bauweise errichtet und gehören zu den wichtigen Zeugnissen des sozialen Wohnungsbaus in Dresden.
@@ -22,7 +22,7 @@ Erwartungen jedoch nicht erfüllen konnte. Die übrigen Gebäude wurden bis 1932
 
 **_Foto:_** _Der Bilderfries am Lehmhaus wurde 1969 aus Anlass des 50. Jubiläums der Reicker Heimstättengenossenschaft an der Giebelwand des ersten Gebäudes der Siedlung angebracht._
 
-![besselplatz](../../../sudost/reick/strassen_reick/a_rectangle_784.gif)
+## Besselplatz
 
 Der Besselplatz wurde in den Zwanziger Jahren im Zusammenhang mit dem Bau der Reicker Siedlung angelegt und als großzügige Grünanlage gestaltet. Der Name erinnert an den Mathematiker und Astronom Friedrich Wilhelm Bessel (1784-1846), der u. a. die exakte Figur und Größe der Erde bestimmte und als erster die Existenz von Doppelsternen nachwies. Die Gebäude rund um den Platz wurden von den Architekten Just und Haferkamp 1929 für die Heimstätten-Genossenschaft Reick entworfen. Nach Beseitigung einiger Kriegsschäden erfolgte zwischen 1964 und 1969 der Wiederaufbau. Heute gehören die Bauten zur WG Glückauf Süd e. G. und wurden 1993/94 saniert.
 
@@ -30,21 +30,21 @@ Der Besselplatz wurde in den Zwanziger Jahren im Zusammenhang mit dem Bau der Re
 
 **_Foto:_** _Wohnhaus der Reicker Siedlung am Besselplatz_
 
-[![dohnaer straße](../../../sudost/a_rectangle_705.gif)](../../../sudost/strehlen/strassen_strehlen/dohnaer_strasse/)
+## [Dohnaer Straße](../../../sudost/strehlen/strassen_strehlen/dohnaer_strasse/)
 
-![enno-heidebroek-straße](../../../sudost/reick/strassen_reick/a_rectangle_1844.gif)
+## Enno-Heidebroek-Straße
 
 Die im Gewerbegebiet Reick an der Lohrmannstraße gelegene Enno-Heidebroek-Straße wurde 1997 auf dem Gelände des
 früheren VEB Elektromat angelegt. Ihren Namen verdankt sie dem Maschinenbauingenieur Enno Heidebroek (18761955),
 der viele Jahre als Professor und ab 1945 als erster Rektor der Nachkriegszeit an der Technischen Hochschule tätig war.
 
-![friederike-serre-weg](../../../sudost/reick/strassen_reick/a_rectangle_1786.gif)
+## Friederike-Serre-Weg
 
 Der Friederike-Serre-Weg wurde 2011 im Zusammenhang mit der Erschließung eines neuen Wohngebietes am ehemaligen
 Gaswerk Reick angelegt. Mit der Namensgebung wird an Friederike Amalie Serre (1800-1872) erinnert, welche im 19. Jahrhundert gemeinsam mit ihrem Mann Johann Friedrich Anton Serre einen Künstlerkreis auf dem heimischen Rittergut
 Maxen versammelte. Außerdem engagierte sie sich als Mäzenin und unterstützte Waisenhäuser, den Tierschutzverein und die Schillerstiftung.
 
-![gasanstaltstraße](../../../sudost/reick/strassen_reick/a_rectangle_728.gif)
+## Gasanstaltstraße
 
 ![](../../../sudost/reick/strassen_reick/reickgaswerk.jpg)Die Gasanstaltstraße entstand im Zusammenhang mit dem Bau des am 1. März 1881 eröffneten [Gaswerkes Reick](../../../sudost/reick/gaswerk_reick/). Ursprünglich war sie Teil des alten Gruna  Reicker Kommunikationsweges, der in der Nähe der Brücke am [Landgraben](../../../ost/striesen/landgraben/) in die Bodenbacher Straße mündete. Beim Bau des Reicker Gaswerkes musste dieser Weg teilweise aufgegeben bzw. neu trassiert werden. In Dokumenten aus dieser Zeit wird er als Reicker Weg bzw. Grunaer Weg bezeichnet. Der Name Gasanstaltsstraße ist erstmals im Adressbuch von 1906 nachweisbar.
 
@@ -61,12 +61,12 @@ Da das Areal an der Gasanstaltstraße zwischen Gaswerk und der auf Seidnitzer Fl
 
 ![](../../../sudost/reick/strassen_reick/reicklandwirtschaft.jpg)1925 fand in Reick die Große Landwirtschaftliche Landesausstellung des Landeskulturrates Sachsen statt, der in diesem Zusammenhang zur Landwirtschaftskammer umgewandelt wurde. Die vom 4. bis zum 8. September 1925 durchgeführte Messe war eine Leistungsschau der sächsischen Landwirtschaft und angrenzender Bereiche. Eröffnet wurde sie am 4. September mit einem Festumzug, an dem auch Schüler vieler Dresdner Schulen teilnahmen. Präsentiert wurden in mehreren Themenkomplexen moderne Anbaumethoden sowie Spitzenprodukte der Acker- und Viehwirtschaft, u.a. Saatgut, Mittel zur Unkrautbekämpfung, 120 Pferde der beiden in Sachsen bestehenden Zuchtrichtungen und Rinder. Die Forstwirtschaft war durch eine forstwissenschaftliche Sonderausstellung der Tharandter Forstakademie vertreten. Außerdem gab es eine Schau "Landfrauenarbeit - Berufsarbeit" mit Ausstellung von Bauernmöbeln, Haushaltgeräten und typischen ländlichen Gerätschaften. Besonders gute Erzeugnisse wurden zum Abschluss der Ausstellung mit Ehrenpreisen und Medaillen bedacht.
 
-![georg-mehrtens-straße](a_rectangle_795.gif)
+## Georg-Mehrtens-Straße
 
 Die Georg-Mehrtens-Straße wurde 1997 im Gewerbegebiet Lohrmannstraße angelegt und nach dem Ingenieur Georg Christoph Mehrtens (1843-1917) benannt. Mehrtens war ab 1897 Professor für Eiserne Brücken an der Technischen
 Hochschule und befasste sich mit der Konstruktion moderner Straßen- und Eisenbahnbrücken. 1901 bis 1902 hatte er auch das Amt des Rektors der Hochschule inne.
 
-![gudehusstraße](a_rectangle_785.gif)
+## Gudehusstraße
 
 Die Gudehusstraße erinnert an den Opernsänger Heinrich Wilhelm Gudehus (1842-1909), der ab 1880 an der Semperoper engagiert war und als Heldentenor in Wagner-Stücken bekannt wurde. Gudehus lebte trotz verschiedener Auslandsauftritte bis zu seinem Tod in Johannstadt und liegt auf dem Alten Annenfriedhof begraben. Die Gebäude der Gudehusstraße entstanden Ende der 1920er Jahre. 1930 ist sie erstmals im Dresdner Adressbuch zu finden.
 
@@ -74,13 +74,13 @@ Die Gudehusstraße erinnert an den Opernsänger Heinrich Wilhelm Gudehus (1842-1
 
 **_Foto:_** _Wohnhäuser an der Gudehusstraße_
 
-![herschelstraße](a_rectangle_796.gif)
+## Herschelstraße
 
 Die Herschelstraße entstand 1926 im Zusammenhang mit dem Bau der Siedlung der Heimstätten-Genossenschaft Dresden-Reick und wurde nach dem Astronomen Friedrich Wilhelm Herschel (1738-1822) benannt. Als königlicher Hofastronom in England entdeckte Herschel 1781 den Planeten Uranus. In Briefkontakt stand er u.a. mit dem Prohliser Bauernastronomen Johann Georg Palitzsch. Allerdings blieb sie nur ein kurzer Straßenstumpf und war als Seitenstraße der Prohliser Straße südlich des Ortskerns Altreick nur mit einem Gebäude bebaut (heute Prohliser Straße 1a). Im Zusammenhang mit der Errichtung der Plattenbauten der Lübbenauer Straße wurde sie Mitte der 1970er Jahre eingezogen.
 
 Nach 1990 entstand auf Freiflächen an der Keplerstraße / Dohnaer Straße eine neue Wohnsiedlung. Die dafür angelegte neue Erschließungsstraße erhielt in Anlehnung an die verschwundene Straße wieder den Namen Herschelstraße.
 
-![hülßestraße](a_rectangle_786.gif)
+## Hülßestraße
 
 ![](../../../sudost/reick/strassen_reick/reickhülßestr.jpg)Die ab 1900 benannte frühere Lindenstraße erhielt nach der Eingemeindung von Reick 1914 den Namen Hülßestraße. Julius Ambrosius Hülße (1812-1876) kam 1850 als Professor für mechanische Technologie und Volkswirtschaft an die Polytechnische Schule in Dresden und war viele Jahre deren Leiter. Er befasste sich vor allem mit der Technik der Textilverarbeitung und mit den Grundlagen des Eichwesens. Seinen Namen trägt seit 1990 auch das hier befindliche [Julius-Ambrosius-Hülße-Gymnasium](../../../sudost/reick/). Das Gebäude selbst entstand bereits 1928/29 und gehörte damals zu den modernsten Schulbauten Europas.
 
@@ -90,7 +90,7 @@ Weitere Baudenkmale der Hülßestraße sind die Wohnhäuser Nr. 2 - 12 sowie das
 
 
 
-![keplerstraße](a_rectangle_787.gif)
+## Keplerstraße
 
 Die Gebäude an der Keplerstraße entstanden Anfang der Zwanziger Jahre durch die Heimstätten-Genossenschaft Reick.
 Ihren Namen erhielt die Straße nach dem Astronomen Johannes Kepler (1571-1630), der die Keplerschen Gesetze des Planetenumlaufs um die Sonne entdeckte. Zu den markantesten Bauten gehört das Eckhaus Kepler-/Reicker Straße mit
@@ -100,12 +100,12 @@ seinem runden Ladenvorbau, der viele Jahrzehnte eine Fleischerei beherbergte.199
 
 **_Foto:_** _Kreuzung Keplerstraße/ Reicker Straße mit der runden Ecke_
 
-![kurt-beyer-straße](a_rectangle_788.gif)
+## Kurt-Beyer-Straße
 
 Die Kurt-Beyer-Straße wurde 1997 im neuen Reicker Gewerbepark an der Lohrmannstraße angelegt und erhielt ihren Namen nach dem Bauingenieur Kurt Beyer (1881-1952). Beyer befasste sich mit der Konstruktion moderner
 Stahlbetonbauten und war ab 1919 an der Technischen Hochschule tätig. Maßgeblich beteiligt war er am Bau des [Pumpspeicherwerkes](../../../west/niederwartha/pumpspeicherwerk/) Niederwartha, der [Kaditzer Elbbrücke](../../../nordwest/kaditz/strassen_kaditz/flugelwegbrucke/) sowie am Wiederaufbau Dresdner Brücken nach 1945.
 
-![lohrmannstraße](a_rectangle_789.gif)
+## Lohrmannstraße
 
 ![](../../../sudost/reick/strassen_reick/reicklohrmanns.jpg)Die heutige Lohrmannstraße geht auf einen alten Verbindungsweg zwischen Reick und Gruna
 zurück, der noch um die Jahrhundertwende als Grunaer Weg bezeichnet wurde. Nach 1913 wurde der nördliche Teil Gasanstaltstraße, der südliche Abschnitt Lohrmannstraße genannt.
@@ -115,12 +115,12 @@ leitete Lohrmann ab 1827 den Mathematisch-Physikalischen Salon, ab 1835 die Tech
 Die Lohrmannstraße entwickelte sich nach dem Ersten Weltkrieg zum bevorzugten Gewerbestandort für zahlreiche
 Unternehmen. Zu den ältesten Betrieben gehörte die frühere Reicker Brauerei, die in den Dreißiger Jahren geschlossen wurde. Ab 1964 hat hier auch der zuvor in Laubegast beheimatete Schmierstoffhersteller [Elaskon](../../../sudost/reick/elaskon/) sein Domizil.  Nach 1990 entstand ein Gewerbepark, dessen Straßen nach bedeutenden Technikern und Wissenschaftlern der TH benannt wurden.
 
-![marie-wittich-straße](a_rectangle_797.gif)
+## Marie-Wittich-Straße
 
 Die Marie-Wittich-Straße erinnert an die Opernsängerin Marie Wittich (1862-1931), die ab 1884 zum Ensemble der
 Dresdner Oper gehörte. Berühmt wurde sie in der Rolle der Salomé bei der Uraufführung der gleichnamigen Oper in Dresden 1905.
 
-![mügelner straße](a_rectangle_1732.gif)
+## Mügelner Straße
 
 Die nach dem heutigen Heidenauer Ortsteil Mügeln benannte Mügelner Straße entstand ursprünglich als Straße W und verbindet den alten Dorfkern von Reick mit den Nachbarorten Dobritz und Niedersedlitz. In Altreick haben sich noch einige Gehöfte aus der dörflichen Vergangenheit des Ortes erhalten, welche unter Denkmalschutz stehen (Nr. 3, 5 und 7). Hauptsächlich siedelten sich hier jedoch verschiedene Industriebetriebe an. Bedeutendstes Unternehmen war die Firma Hille (nach 1945 [VEB Mikromat](../../../sudost/reick/mikromat/)). Außerdem befindet sich an der Mügelner Straße der 1913 eröffnete Straßenbahnhof Reick mit der Weichenbauwerkstatt der Dresdner Verkehrsbetriebe.
 
@@ -147,35 +147,35 @@ Konzentration der Fahrzeuge auf wenige große Betriebshöfe führten zur Entsche
 Betriebshof  mit Abstellhalle, Service- und Waschhalle sowie einer Montagehalle für den Gleisbau wieder eröffnet. Dabei wurde auch die Einfahrt von der
 Mügelner zur Niedersedlitzer Straße verlegt. Am ehemaligen Eingang steht ein historischer Straßenbahn-Krantriebwagen von 1925 _(Foto)_.
 
-![otto-mohr-straße](a_rectangle_798.gif)
+## Otto-Mohr-Straße
 
 Die Otto-Mohr-Straße entstand zur Erschließung des Gewerbegebietes zwischen Lohrmannstraße und Seidnitzer Weg. Der
 Name erinnert an den Hochschulprofessor Otto Mohr, der zwischen 1873 und 1900 Professor für Technische Mechanik, Festigkeitslehre und Graphische Statik an der Technischen Hochschule in Dresden war. Mohr befasste sich vor allem mit
 Problemen des Eisenbahn- und Wasserbaus.
 
-![perronstraße](a_rectangle_799.gif)
+## Perronstraße
 
 Die Perronstraße wurde 1930 im Zusammenhang mit der Reicker Siedlung angelegt. Ihren Namen erhielt sie nach dem Opernsänger Carl Perron (1858-1928), der viele Jahre an der Dresdner Staatsoper tätig war. Am 13. Februar 1946 wurde hier der symbolische Grundstein für eine kleine Reihenhaussiedlung mit acht Doppelhäusern gelegt. Die Wohnanlage war erste Neubausiedlung in Dresden nach dem Zweiten Weltkrieg und wurde nach ihrer Fertigstellung 1948 von Familien von Opfern des Faschismus bezogen.
 
-![scheidemantelstraße](a_rectangle_790.gif)
+## Scheidemantelstraße
 
 Die in den Zwanziger Jahren angelegte Scheidemantelstraße erhielt ihren Namen nach dem Opernsänger Karl Scheidemantel
 (1859-1923), der zwischen 1886 und 1911 als Bariton dem Ensemble der Dresdner Oper angehörte. Nach zeitweiser Abwesenheit wurde Scheidemantel 1920 für zwei Jahre zum Operndirektor in Dresden gewählt.
 
-![schroeterstraße](a_rectangle_800.gif)
+## Schroeterstraße
 
 Die im Astronomenviertel um die Keplerstraße gelegene Schroeterstraße verdankt ihren Namen dem Astronomen Johann
 Hieronymus Schroeter (1745-1816) der sich mit dem Bau neuer astronomischer Fernrohre befasste und vor allem durch seine Arbeiten zur Monderkundung bekannt wurde.
 
 
 
-![schuchstraße](a_rectangle_791.gif)
+## Schuchstraße
 
 Die Schuchstraße erinnert an den bedeutenden Dirigenten Ernst Edler von Schuch (1846-1914), der 1872 als Musikdirektor
 an die Dresdner Oper verpflichtet wurde. Über vierzig Jahre prägte Schuch das Dresdner Musikleben und führte die Oper zu
 ihrem internationalen Ruf als wichtige Uraufführungsstätte für Strauss-Werke. Seine Tochter Liesel wurde als Sopranistin bekannt und erhielt kurz vor ihrem Tod 1990 die Ehrenbürgerschaft der Stadt.
 
-![seebachstraße](a_rectangle_792.gif)
+## Seebachstraße
 
 Die Seebachstraße wurde nach dem früheren Hoftheaterintendanten Nikolaus von Seebach (1854-1930) benannt, der 1894 zum Generaldirektor der Hofoper und des Hoftheaters ernannt wurde. Seebach blieb als einziger höfischer Intendant auch nach der Revolution 1918 im Amt und schied erst nach seinem 25-jährigen Dienstjubliäum 1919 auf eigenen Wunsch aus.
 
@@ -191,7 +191,7 @@ Dohnaer Straße eine Ziegelei. 1919 begann die Heimstättengenossenschaft Dresde
 einer Genossenschaftssiedlung. Die Gebäude an der Tornaer Straße wurden dabei von den Architekten Schilling & Gräbner,
 Rudolf Bitzan und Otto Wulle entworfen und bis 1930 fertiggestellt. Weitere Neubauten folgten auf den verbliebenen Flächen nach 1990.
 
-![wieckestraße](a_rectangle_793.gif)
+## Wieckestraße
 
 Die Wieckestraße erhielt ihren Namen nach dem Schauspieler Paul Wiecke (1862-1944), der ab 1895 viele Jahre am
 Dresdner Schauspielhaus engagiert war. Als dessen Direktor zwischen 1920 und 1928 setzte sich Wiecke für die Aufführung

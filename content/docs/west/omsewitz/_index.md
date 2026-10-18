@@ -34,7 +34,7 @@ Zwei- und Dreifamilienhäusern. Die gewachsene Einwohnerzahl führte schließlic
 über eine Eingemeindung in die nahe Großstadt. Seit dem 15. Oktober 1930 gehört der Ort als Stadtteil zu Dresden.
 Auf Omsewitzer Flur befinden sich auch Teile des zwischen 1979 und 1986 entstandenen Neubaugebietes Gorbitz.
 
-[![omsewitzer straßen](a_rectangle_374.gif)](../../west/omsewitz/strassen_omsewitz/)
+## [Omsewitzer Straßen](../../west/omsewitz/strassen_omsewitz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

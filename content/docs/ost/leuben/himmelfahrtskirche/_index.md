@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:38+01:00
 
 * * *
 
-![himmelfahrtskirche altleuben 13 01257 dresden tel. 0351/2031647](../../../ost/leuben/himmelfahrtskirche/a_rectangle_794.gif)
+Himmelfahrtskirche altleuben 13 01257 dresden tel. 0351/2031647
 
 ![](../../../ost/leuben/himmelfahrtskirche/siegelmarke.jpg)
 
@@ -13,7 +13,7 @@ date: 2024-02-17T22:13:38+01:00
 
 * * *
 
-![leubener friedhof  pirnaer landstr. 113 01257 dresden  tel. 0351/2039212](../../../ost/leuben/himmelfahrtskirche/a_rectangle_1246.gif)
+Leubener friedhof  pirnaer landstr. 113 01257 dresden  tel. 0351/2039212
 
 
 Himmelfahrtskirche:

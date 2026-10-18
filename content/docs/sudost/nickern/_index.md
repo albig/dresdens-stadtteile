@@ -39,7 +39,7 @@ Ursprünglich besuchten die Nickerner Kinder die Schule im benachbarten Lockwitz
 
 **_Foto:_** _das alte Nickerner Schulhaus (heute Kita Fritzi)_
 
-[![nickerner straßen](../../sudost/nickern/a_rectangle_846.gif)](../../sudost/nickern/strassen_nickern/)
+## [Nickerner Straßen](../../sudost/nickern/strassen_nickern/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

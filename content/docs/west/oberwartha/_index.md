@@ -58,7 +58,7 @@ Leiter der Schule, dem Oberlehrer Max Schwan, benannten Max-Schwan-Straße Nr. 4
 Kindergarten genutzt und dient heute als Bürger- und Vereinshaus. Hier hat auch die Heimatkundliche Zentralsammlung für Oberwartha ihr Domizil. Seit 1997 erinnert an der
 Fassade eine Gedenktafel an die 25 im Zweiten Weltkrieg gefallenen ehemaligen Schüler Oberwarthas.
 
-[![oberwarthaer straßen](../../west/oberwartha/a_rectangle_1929.gif)](../../west/oberwartha/strassen_oberwartha/)
+## [Oberwarthaer Straßen](../../west/oberwartha/strassen_oberwartha/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

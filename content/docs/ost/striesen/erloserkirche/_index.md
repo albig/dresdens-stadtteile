@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:38+01:00
 
 * * *
 
-![ev.-luth. johanneskirch- gemeinde  haydnstr.  23 01309 dresden  tel. 0351/4593425](../../../ost/striesen/erloserkirche/a_rectangle_446.gif)
+Ev.-luth. johanneskirch- gemeinde  haydnstr.  23 01309 dresden  tel. 0351/4593425
 
 
 ![](../../../ost/striesen/erloserkirche/strieserl_serkir.jpg)Striesen gehörte bis Mitte des 19. Jahrhunderts zunächst zur Frauenkirche, später zur

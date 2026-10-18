@@ -27,6 +27,6 @@ eingemeindet. Gemeinsam mit Gompitz und weiteren Dörfern der Umgebung kam der O
 heute zu den kleinsten Stadtteilen der Landeshauptstadt. Um den Dorfplatz sind noch einige historische Bauerngüter aus
 dem 19. Jahrhundert erhalten geblieben. Interessant ist auch ein in einem Garten aufgestelltes Mühlenmodell, welches von Roitzscher Jugendlichen geschaffen wurde.
 
-[![roitzscher straßen](../../../sudwest/gompitz/roitzsch/a_rectangle_1965.gif)](../../../sudwest/gompitz/pennrich/strassen_gompitz/)
+## [Roitzscher Straßen](../../../sudwest/gompitz/pennrich/strassen_gompitz/)
 
 [_Weiterführende Literatur und Quellen_](../../../impressum/quellenverzeichnis/)

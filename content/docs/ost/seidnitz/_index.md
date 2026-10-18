@@ -41,7 +41,7 @@ Schulen in Seidnitz:
 
 Im August 2003 übernahm der Evangelische Schulverein einige Räume und richtete hier die Freie Evangelische Schule (FES) ein. Der 1991 gegründete Verein hatte zuvor ab 1993 einige Räume der 95. Grundschule an der Donathstraße genutzt, die wegen der wachsenden Schülerzahl jedoch nicht ausreichten. Zunächst gab es nur eine Grundschule, ab 2006 auch eine Mittelschule. Mit Schließung der 57. Grundschule zum Ende des Schuljahres 2007/08 war die FES alleiniger Nutzer des Schulhauses. 2014 wurde es abgerissen und durch einen modernen Neubau nach Plänen des Dresdner Architekturbüros Code Unique ersetzt.
 
-[![seidnitzer straßen](../../ost/seidnitz/a_rectangle_1034.gif)](../../ost/seidnitz/strassen_seidnitz/)
+## [Seidnitzer Straßen](../../ost/seidnitz/strassen_seidnitz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

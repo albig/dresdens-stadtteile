@@ -9,7 +9,7 @@ date: 2024-02-17T22:13:31+01:00
 
 
 
-[![dixiebahnhof dresden e.v. zur homepage](../../../../nord/klotzsche/dresden_-_gorlitz/schmalspurbahn/a_rectangle_1001.gif)](http://www.dixiebahnhof.de)
+## [Dixiebahnhof Dresden E.v. zur Homepage](http://www.dixiebahnhof.de)
 
 
 

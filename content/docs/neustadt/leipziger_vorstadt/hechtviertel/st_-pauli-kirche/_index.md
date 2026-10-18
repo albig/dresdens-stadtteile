@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:31+01:00
 
 * * *
 
-![evang.-lutherische  st. pauli-kirche königsbrücker platz 01097 dresden  tel. 0351/8043838](../../../../neustadt/leipziger_vorstadt/hechtviertel/st_-pauli-kirche/a_rectangle_1239.gif)
+Evang.-lutherische  st. pauli-kirche königsbrücker platz 01097 dresden  tel. 0351/8043838
 
 [![](../../../../neustadt/leipziger_vorstadt/hechtviertel/st_-pauli-kirche/theaterruine.jpg)](http://www.theaterruine.de)
 

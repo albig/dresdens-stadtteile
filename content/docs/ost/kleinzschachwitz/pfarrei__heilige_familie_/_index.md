@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:37+01:00
 
 * * *
 
-![kath. pfarrei ](../../../ost/kleinzschachwitz/pfarrei__heilige_familie_/a_rectangle_1443.gif)
+## Kath. Pfarrei
 
 [![](../../../ost/kleinzschachwitz/pfarrei__heilige_familie_/hlfamilie.jpg)](http://www.heilige-familie-dresden.de/)
 

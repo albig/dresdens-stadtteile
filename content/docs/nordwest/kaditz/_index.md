@@ -22,7 +22,7 @@ date: 2024-02-17T22:13:36+01:00
 
 **Vereine in Kaditz:**
 
-![neue nachbarschaft kaditz e.v.  altkaditz 17 01139 dresden  tel. 0351/8384509](../../nordwest/kaditz/a_rectangle_1648.gif)
+Neue nachbarschaft kaditz e.v.  altkaditz 17 01139 dresden  tel. 0351/8384509
 
 [![](../../nordwest/kaditz/svneustadt.jpg)](http://www.sv-dresden-neustadt.de)
 
@@ -115,7 +115,7 @@ bereits 1869 jedoch wieder eingestellt. Zwischen 1913 und 1922 gab es außerdem 
 dem Kaditzer Flughafen. Wirtschaftliche Gründe führten bereits Mitte der Dreißiger Jahre zur Aufgabe der Kemnitzer
 Fähre, welche wegen des Baus der Flügelwegbrücke überflüssig geworden war. 1959 folgte schließlich auch die letzte Fähre nach Stetzsch.
 
-[![kaditzer straßen](../../nordwest/kaditz/a_rectangle_649.gif)](../../nordwest/kaditz/strassen_kaditz/)
+## [Kaditzer Straßen](../../nordwest/kaditz/strassen_kaditz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

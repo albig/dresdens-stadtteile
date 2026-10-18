@@ -21,7 +21,7 @@ date: 2024-02-17T22:13:35+01:00
 
  **Stadtteilseite Weixdorf:**
 
-[![](../../nord/weixdorf/weixdorf.jpg)](http://www.weixdorf.de)
+## [Weixdorf](http://www.weixdorf.de)
 
 * * *
 
@@ -29,13 +29,13 @@ date: 2024-02-17T22:13:35+01:00
 
 **in Weixdorf:**
 
-[![homepage der grundschule weixdorf](a_rectangle_594.gif)](https://www.grundschule-weixdorf.de/)
+## [Homepage der Grundschule Weixdorf](https://www.grundschule-weixdorf.de/)
 
 [![](../../nord/weixdorf/msweixdorf.jpg)](http://cms.sn.schule.de/msw)
 
 ![](../../bibodd.jpg)
 
-[![bibliothek weixdorf hohenbusch markt 1 01108 dd-weixdorf tel. 0351/8807818](../../nord/weixdorf/a_rectangle_943.gif)](http://www.bibo-dresden.de)
+[Bibliothek weixdorf hohenbusch markt 1 01108 dd-weixdorf tel. 0351/8807818](http://www.bibo-dresden.de)
 
 * * *
 
@@ -46,7 +46,7 @@ date: 2024-02-17T22:13:35+01:00
 
 Die Ortschaft Weixdorf, seit 1. Januar 1999 Stadtteil von Dresden, besteht aus den ehemals selbstständigen Orten Weixdorf, Lausa, Friedersdorf, Gomlitz und Marsdorf. Bereits am 1. Januar 1879 schlossen sich Lausa und Friedersdorf zusammen, am 1. Juli 1914 kamen Weixdorf und Gomlitz hinzu. Noch bis 1938 trug die Gemeinde den Doppelnamen Lausa-Weixdorf, bevor der aus dem slawischen stammende Ortsname Lausa im Sinne der nationalsozialistischen Ideologie offiziell gestrichen wurde. Erst im Zusammenhang mit der jüngsten Gemeindereform in Sachsen kam der Ort, der ehemals zum Landkreis Dresden gehörte, 1999 zur Landeshauptstadt. Weixdorf genießt als Ortschaft, ebenso wie die anderen 1997/99 eingemeindeten Orte um Dresden, einen Sonderstatus mit eigenem Ortschaftsrat, der über ortschaftsinterne Angelegenheiten selbst entscheiden kann. Sitz des Ortschaftsrates ist das Weixdorfer Rathaus.
 
-![ortschaft weixdorf - meldestelle weixdorfer rathausplatz 2, 01108 dresden tel. 0351-4887948 ortschaft-weixdorf@dresden.de](../../nord/weixdorf/a_rectangle_938.gif)
+Ortschaft weixdorf - meldestelle weixdorfer rathausplatz 2, 01108 dresden tel. 0351-4887948 ortschaft-weixdorf@dresden.de
 
 Aus der Geschichte von Weixdorf
 

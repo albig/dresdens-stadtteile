@@ -121,7 +121,7 @@ Elbfähre:
 
 Hauptnutzer der Fähre waren neben Ausflugsgästen vor allem die Angestellten des [Schlachthofs](../../zentrum/friedrichstadt/ostragehege/schlachthof/) im Ostragehege. Nach dessen Schließung 1994 gingen die Fahrgastzahlen jedoch deutlich zurück. Die DVB entschlossen sich daraufhin, den unwirtschaftlichen Betrieb einzustellen. Letztmals querte am 29. März 1996 die Pieschener Fähre die Elbe. Später war hier zeitweise der Bau einer neuen Elbbrücke geplant. Eine kurzzeitige Reaktivierung gab es während des Kirchentags im Jahr 2011, als nochmals für einige Wochen eine Fähre zwischen Pieschen und Ostragehege verkehrte. Alle Forderungen, wieder eine ständige Verbindung einzurichten, scheiterten bislang an den hohen Kosten.
 
-[![pieschener straßen](a_rectangle_112.gif)](../../nordwest/pieschen/strassen_pieschen/)
+## [Pieschener Straßen](../../nordwest/pieschen/strassen_pieschen/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

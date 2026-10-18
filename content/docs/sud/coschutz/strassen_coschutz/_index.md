@@ -3,7 +3,7 @@ title: "Straßen und Plätze in Coschütz"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-![achtbeeteweg](../../../sud/coschutz/strassen_coschutz/a_rectangle_615.gif)
+## Achtbeeteweg
 
 Der Name Achtbeeteweg geht auf eine alte Coschützer Flurbezeichnung zurück. Gleicher Herkunft ist auch der Name des nahegelegenen Vierbeeteweges. Beide Bezeichnungen sind im Coschützer Flurregister von 1794 amtlich genannt. Früher hatte dieser Weg Bedeutung als Ortsverbindung zwischen Coschütz und Kaitz und wurde deshalb nach seinem Ausbau ab 1900 bis zur Eingemeindung Kaitzer Straße genannt. 1926 erhielt er seinen heutigen Namen.
 
@@ -13,41 +13,41 @@ Der Name Achtbeeteweg geht auf eine alte Coschützer Flurbezeichnung zurück. Gl
 
 **_Fotos:_** _Wohnhäuser des Deutschen Siedlerbundes am Achtbeeteweg um 1930 (rechts) und 2014._
 
-[![altcoschütz](../../../sud/coschutz/strassen_coschutz/a_rectangle_823.gif)](../../../sud/coschutz/strassen_coschutz/altcoschutz/)
+## [Altcoschütz](../../../sud/coschutz/strassen_coschutz/altcoschutz/)
 
-![](../../../sud/coschutz/strassen_coschutz/am_eiswurmlager.jpg)
+## Am Eiswurmlager
 
 Die Straße Am Eiswurmlager, gelegen auf dem Gelände der [Felsenkellerbrauerei](../../../sud/plauen/plauenscher_grund/felsenkellerbrauerei/), erhielt ihren Namen 1926. Zuvor wurden die Gebäude als einzelne Grundstücke der Flur Coschütz geführt bzw. Stufenweg genannt. Der kuriose Straßenname erinnert an eine Legende aus dem Jahre 1862. Damals hatten die Teilhaber der Brauerei einige Kleinaktionäre verunsichert, in dem sie die Existenz eines "Eiswurms" in den Lagerkellern behaupteten, der das Kühleis verspeise und so zum Verderben des gelagerten Biers führe. Bis heute ist am nach Coschütz führenden Weg Eiswurms Lager durch eine Inschrift am Felsen zu finden.
 
-![](../../../sud/coschutz/strassen_coschutz/am_hohen_stein.jpg)
+## Am Hohen Stein
 
 ![](../../../sud/coschutz/strassen_coschutz/coschamhohenstein.jpg)Die Straße Am Hohen Stein geht auf einen alten Verbindungsweg zwischen dem Dorfkern von Altcoschütz und dem Nachbarort Plauen zurück. Da hier der Bauer Rietschel seine Scheune hatte, hieß dieser Weg im Volksmund Rietschelschuppenweg. Nach nach dem Ausbau des Weges zur Straße wurde diese ab 1902 bis zur Eingemeindung des Ortes als Plauensche Straße bezeichnet. Seit 1926 trägt sie offiziell ihren jetzigen Namen nach dem nahe gelegenen Aussichtspunkt [Hoher Stein](../../../sud/plauen/hoher_stein/). Die Gebäude, meist dreigeschossige Mietshäuser entstanden ab ca. 1900. In einigen gab es kleine Läden, so in Nr. 31 bis 1999 die Bäckerei Sarodnick. Das Haus im Bild entstand um 1895 und wurde 2003 nach längerem Leerstand wegen seines schlechten Bauzustandes abgerissen. Sechs Jahre später wurde an dieser Stelle ein Neubau errichtet
 
 ![](../../../sud/coschutz/strassen_coschutz/palitzschtafel.jpg)Am Eckhaus Nr. 48 erinnert eine Steintafel an die Coschützer Bauernfamilie Palitzsch, aus der auch der bekannte Bauernastronom stammt ( _Johann Georg Palitzsch 1804_). Diese war ursprünglich Teil eines Grabsteins und wurde beim Bau des Vorgängergebäudes in die Fassade integriert. Das Grab auf dem Leubnitzer Friedhof existiert noch heute, hatte jedoch bereits Ende des 18. Jahrhunderts eine neue Gestaltung erhalten. Vermutlich in diesem Zusammenhang verbrachten Nachkommen von Palitzsch die alte Grabplatte nach Coschütz und ließen diese zunächst in eine Gartenmauer, 1804 in die Hausfassade einfügen. Nach dem Abriss des Gebäudes 1983 zugunsten des jetzigen Einfamilienhauses wurde sie geborgen und wieder angebracht _(Foto 1978)_. Vor dem Zweiten Weltkrieg gab es in diesem Haus eine Lebensmittelhandlung.
 
-![](../../../sud/coschutz/strassen_coschutz/birkigter_stra_e.jpg)
+## Birkigter Straße
 
 Die Birkigter Straße verläuft im Plauenschen Grund unmittelbar neben der Bahntrasse der Eisenbahnstrecke Dresden  Chemnitz in der Nähe der Weißeritz. Sie entstand bereits im 19. Jahrhundert als namenlose Verbindung zum Nachbarort Birkigt und wurde zwischen 1913 und 1920 ausgebaut. 1926 bekam sie ihren Namen nach dem heute zu Freital gehörenden Ort. Unter Denkmalschutz steht das um 1770 als Arbeiterwohnhaus der Pulvermühle errichtete Fachwerkhaus Nr. 2, welches jedoch nach jahrelangem Leerstand mittlerweile eine Ruine ist.
 
-![brendelweg](../../../sud/coschutz/strassen_coschutz/a_rectangle_1833.gif)
+## Brendelweg
 
 ![](../../../sud/coschutz/strassen_coschutz/brendelweg.jpg)Der Brendelweg an der Kohlenstraße wurde Mitte der 1930er Jahre beim Bau einer kleinen Wohnsiedlung angelegt und erhielt 1938 seinen Namen nach dem sächsischen Bergingenieur und Maschinendirektor Christian Friedrich Brendel (17761861). Brendel gilt als einer der bedeutendsten Bergbautechniker des 19. Jahrhunderts und erwarb sich große Verdienste bei der Industrialisierung des Bergbaus.
 
 Nach der Erschließung entstanden hier auf ehemaligem Ziegeleigelände einige Siedlungshäuser. Weitere Einfamilienhäuser folgten nach 1990 _(Foto)_.
 
-![](../../../sud/coschutz/strassen_coschutz/bruchsaler_weg.jpg)
+## Bruchsaler Weg
 
 ![](../../../sud/coschutz/strassen_coschutz/coschsportplatz.jpg)Der heute nicht mehr vorhandene Bruchsaler Weg wurde um 1935 als Erschließungsstraße einer geplanten, aber nicht realisierten Erweiterung des Wohngebietes an der Coschützer Höhe angelegt. Ursprünglich sollte er die Cunnersdorfer Straße mit einer Verlängerung der Rastatter Straße verbinden. Letztlich erfolgte jedoch nur der Ausbau einer kurzen Sackgasse an der Cunnersdorfer Straße. Die Namensgebung erfolgte nach der Stadt Bruchsal im heutigen Bundesland Baden-Württemberg. In den Stadtplänen ist der Bruchsaler Weg noch bis Anfang der 1970er Jahre ausgewiesen. Heute befindet sich auf dem Areal der Sportplatz Stuttgarter Straße. Der 1999 eingeweihte Kunstrasenplatz _(Foto)_ wird vom FV Dresden Süd-West genutzt.
 
-![](../../../sud/coschutz/strassen_coschutz/cosch_tzer_hang.jpg)
+## Coschützer Hang
 
 Die Straße in der Nähe des Coschützer Dorfkerns entstand 1892 als Verbindung zwischen Kleinnaundorfer und Freitaler Straße. Ursprünglich wurde sie wegen ihrer Lage ab 1902 Bergstraße genannt. Um Verwechslungen mit gleichnamigen Straßen zu vermeiden, erfolgte nach der Eingemeindung von Coschütz 1926 die Umbenennung in Coschützer Hang. Die Arbeiterwohnhäuser stammen meist aus der Zeit 1900.
 
-![](../../../sud/coschutz/strassen_coschutz/cosch_tzer_h_he.jpg)
+## Coschützer Höhe
 
 ![](../../../sud/coschutz/strassen_coschutz/coschützer_höhe.jpg)Die Straße Coschützer Höhe wurde Anfang der 1920er Jahre südlich des Achtbeeteweges angelegt. Zu dieser Zeit ließ die "Siedlungsgesellschaft Dresden-Stadt und Land" hier eine neue Wohnsiedlung errichten. Deren Lage war Anlass, die bisherige Planstraße A ab März 1923 als Coschützer Höhe zu bezeichnen. Die Doppelhäuser entstanden zwischen 1924 und 1928 und fallen durch ihre ungewöhnlichen Dachkonstruktionen in Form eines Schiffskiels auf. Lediglich bei den Häusern Nr. 6/8, 10/12 und 14/16 wurden diese nach Bombenschäden in der Nachkriegszeit durch einfache Satteldächer ersetzt. Am 9. Juli 1925 erfolgte für die ersten Bauten der "Hebeschmaus (Richtfest), bezogen wurden sie ab 1926. Ursprünglich waren die Fassaden in verschiedenen Farben gestaltet.
 
-![coselweg](../../../sud/coschutz/strassen_coschutz/a_rectangle_613.gif)
+## Coselweg
 
 Der seit 1926 benannte Coselweg verbindet den Dorfkern von Coschütz mit dem Plauenschen Grund. Von Bedeutung war er einst auch als Fußweg zum alten Plauener Bahnhof, der sich bis 1923 in der Nähe der Felsenkellerbrauerei befand. Bereits 1685 hatte der aus Italien stammender Goldsucher Johann Begge in der engen Schlucht oberhalb des Weißeritztales versucht, Gold und Silber zu schürfen, jedoch ohne Erfolg.
 
@@ -67,7 +67,7 @@ Um den Coselgrund ranken sich mehrere Sagen, welche mit der Gräfin Cosel in Ver
 
 1863 verkauften die Erben Friedrich August von Cosels das Haus an den Dresdner Apotheker Werner, der sie 1868 an einen Fleischermeisters veräußerte. Dieser ließ die Villa 1874 aufstocken und in ein Mietshaus umwandeln _(Foto rechts)_. Durch den Ausbau des Dachgeschosses verlor das Haus dabei sein ursprüngliches barockes Aussehen _(Foto)_. Zuletzt wurde die frühere Villa Cosel von der benachbarten Felsenkellerbrauerei genutzt und 1975 wegen Baufälligkeit abgetragen.
 
-![](../../../sud/coschutz/strassen_coschutz/cunnersdorfer_stra_e.jpg)
+## Cunnersdorfer Straße
 
 ![](../../../sud/coschutz/strassen_coschutz/cunnersdorfer_straße.jpg)Die heutige Cunnersdorfer Straße geht auf einen alten Verbindungsweg zwischen Coschütz und Cunnersdorf, einem Ortsteil der
 Gemeinde Bannewitz zurück. Erstmals ist sie im Adressbuch von 1902 verzeichnet. Zu diesem Zeitpunkt gab es hier nur wenige Gebäude, jedoch zwei Ziegeleien. Außerdem hatte die Gemeinde diese Straße 1874 mit Obstbäumen bepflanzen lassen.
@@ -82,17 +82,17 @@ Die zweite Ziegelei wurde in unmittelbarer Nachbarschaft 1872 an der Ecke Cunner
 
 Firma Paul Mittag:  Das Unternehmen entstand nach dem Ersten Weltkrieg als Baugeschäft auf ehemaligem Ziegeleigelände. Außerdem gab es hier das Cementwaren und Schlackensteinwerk Frieda Mittag. Nach 1945 wurde die Firma als privater Baubetrieb fortgeführt, 1972 jedoch verstaatlicht und zum Betriebsteil des VEB Betonwerk Dresden. Nach 1990 erhielten die Alteigentümer ihre Firma zurück und verkauften das Grundstück wenig später an ein Bauunternehmen. Heute stehen auf dem Areal mehrere Reihenhäuser.
 
-![felsenkellerstraße](../../../sud/coschutz/strassen_coschutz/a_rectangle_1987.gif)
+## Felsenkellerstraße
 
 ![](../../../sud/coschutz/strassen_coschutz/coschfelsenkellerstraße.jpg)Die Felsenkellerstraße wurde Anfang des 20. Jahrhunderts beim Ausbau der neuen Coschützer Wohnviertel westlich des Dorfkerns angelegt und mit mehrgeschossigen Wohnhäusern bebaut. Ihren Namen verdankt sie der im Plauenschen Grund auf Coschützer Flur gelegenen [Felsenkellerbrauerei](../../../sud/plauen/plauenscher_grund/felsenkellerbrauerei/). Benannt wurde die Felsenkellerstraße auf Beschluss des Bauausschusses des Coschützer Gemeinderats vom 3. Juli 1906, die offizielle Verkehrsübergabe erfolgte am 18. September 1908.
 
 Um die Kreuzung Felsenkeller- / Karlsruher / Windbergstraße entwickelte sich um 1900 das neue Ortszentrum mit zahlreichen Geschäften. So gab es im Eckhaus zur Karlsruher Straße viele Jahre eine Drogerie. Im Erdgeschoss des Wohnhauses Nr. 4 befand sich eine Filiale des Konsumvereins Vorwärts _(im Bild ganz links)_.
 
-![freitaler straße](../../../sud/coschutz/strassen_coschutz/a_rectangle_1993.gif)
+## Freitaler Straße
 
 ![](../../../sud/coschutz/strassen_coschutz/freitalerstr.jpg)Die Straße bildet den alten Verbindungsweg zwischen dem Coschützer Dorfkern und den benachbarten Orten Potschappel und Niedergittersee. Bis zur Eingemeindung wurde sie Potschappler Straße, danach ab 1926 Freitaler Straße genannt. Ältestes Gebäude ist das Wohnhaus der früheren Gärtnerei Schöne (Nr. 22) von 1904 _(Foto)_. Bis zur Schließung des Betriebes 1970 nahmen die Felder und Gewächshausanlagen einen großen Teil der Flächen zwischen Freitaler Straße und Collmberg ein. Zwischen 1951 und 1956 musste das Gebäude zeitweise wegen Bergschäden geräumt werden, blieb jedoch nach Reparatur letztlich erhalten und wird heute als Wohnhaus genutzt.
 
-![gebauerstraße](../../../sud/coschutz/strassen_coschutz/a_rectangle_619.gif)
+## Gebauerstraße
 
 ![](../../../sud/coschutz/strassen_coschutz/gebauerstr2.jpg)Die Ende des 19. Jahrhunderts östlich des alten Dorfkerns angelegte Gebauerstraße erhielt ihren Namen nach dem ehemaligen Gemeindevorstand des Ortes Karl Traugott Gebauer (1828-1895). Gebauer übte dieses Amt von 1863 bis zu seinem Tod ehrenamtlich aus und war im Haupterwerb als Schmied und Gastwirt tätig. 1888 richtete die Gemeinde Coschütz zu seinen Ehren die Gebauer-Stiftung ein, die von Gebauer selbst finanziell unterstützt wurde und alljährlich Zuwendungen an arme Ortsbewohner gab. Er selbst lebte bis zu seinem Tod am 31. August 1895 in der 1889/90 errichteten Villa Gebauerstraße 2. Nach 1945 befand sich hier der Schulhort der 72. Polytechnischen Oberschule. 1998/99 wurde das Haus denkmalgerecht saniert _(Foto rechts)_.
 
@@ -124,13 +124,13 @@ Im oberen Teil prägen Kleingärten und einige Einfamilienhäuser das Bild. Am u
 
 Vor 1989 war das Areal Standort der Uran-Aufbereitungsanlage der Wismut, später des Reifenwerkes Pneumant. 2001 errichtete die aus dem ehemaligen Kombinat Robotron hervorgegangene Robotron Datenbank Software GmbH an der Ecke zur Stuttgarter Straße ein neues Bürohaus _(Foto)_.
 
-[![karlsruher straße](../../../sud/a_rectangle_601.gif)](../../../sud/gittersee/strassen_gittersee/karlsruher_strasse/)
+## [Karlsruher Straße](../../../sud/gittersee/strassen_gittersee/karlsruher_strasse/)
 
-![kinderhortstraße](../../../sud/coschutz/strassen_coschutz/a_rectangle_1991.gif)
+## Kinderhortstraße
 
 Die Kinderhortstraße wurde Ende des 19. Jahrhunderts im Zusammenhang mit der Ortserweiterung von Coschütz als Fußweg angelegt, jedoch erst nach dem Ersten Weltkrieg mit Mehrfamilienhäusern bebaut. Von 1916 bis 1926 trug sie nach dem deutschen Generalfeldmarschall und späteren Reichspräsidenten Paul von Hindenburg den Namen Hindenburgstraße. Da sich im villenartigen Gebäude an der Einmündung der Gebauerstraße einst der Schulhort der 1875 eröffneten Volksschule befand, erhielt die Straße nach der Eingemeindung ihren jetzigen Namen. Einige Baulücken wurden 1997/98 mit modernen Wohnhäusern geschlosen.
 
-![kleinnaundorfer straße](../../../sud/coschutz/strassen_coschutz/a_rectangle_1990.gif)
+## Kleinnaundorfer Straße
 
 Die Kleinnaundorfer Straße verbindet den Coschützer Dorfkern mit dem benachbarten Gittersee und führt von dort weiter nach Kleinnaundorf. Da an dieser Straße 1835 das erste [Schulhaus](../../../sud/coschutz/) des Ortes errichtet worden war (Nr. 2), erhielt sie 1902 zunächst den Namen Schulstraße. 1875 entstand hier ebenfalls das zweite, bis 2005 genutzte Schulgebäude. Nach der Eingemeindung nach Dresden wurde die Schulstraße 1926 in Kleinnaundorfer Straße umbenannt.
 
@@ -140,7 +140,7 @@ Die Kleinnaundorfer Straße verbindet den Coschützer Dorfkern mit dem benachbar
 
 **_Fotos:_** _Die Kleinnaundorfer Straße, links das ehem. Schulhaus (Nr. 2), rechts das 2004 abgerissene Wohnhaus Nr. 4_
 
-![kohlenstraße](../../../sud/coschutz/strassen_coschutz/a_rectangle_616.gif)
+## Kohlenstraße
 
 ![](../../../sud/coschutz/strassen_coschutz/coschkohlenstr.jpg)Die Kohlenstraße ist Teil des alten Höhenweges auf den Südhängen des Elbtales und erhielt ihren Namen im Jahr 1877, da über diesen Weg einst die Steinkohle aus dem Gittersee - Burgker Revier transportiert wurde. Auch die heutige Karlsruher Straße wurde zeitweise als Kohlenstraße bezeichnet. Der zwischen dieser und der Bergstraße gelegene Straßenabschnitt wurde von 1899 bis 1926 offiziell Strehlener Straße genannt. 1898 entstanden hier die ersten Wohnhäuser. Weitere Flächen wurden von zwei bis zum Ersten Weltkrieg betriebenen Ziegeleien und von einer 1903 geschaffenen Kies- und Sandgrube eingenommen. Bei den Abbauarbeiten fand sich ein altgermanisches Gräberfeld mit zahlreichen Urnengräbern (600 bis 300 v. Chr.). Südlich der Kohlenstraße lagen bis ca. 1950 einige Salbeifelder der Freitaler Bombastus-Werke. Neben dem Collmberg war das Areal Deutschlands bedeutendstes Anbaugebiet mit bis zu 90% der Jahresproduktion. Erst im Zuge des Uranbergbaus wurden die Felder aufgegeben.
 
@@ -162,15 +162,15 @@ Die Kreuznacher Straße wurde 1927 als Verbindungsstraße zwischen Saarstraße u
 
 Die Landauer Straße wurde Ende der 1920er Jahre in Verbindung mit einer geplanten Wohnsiedlung angelegt und ist 1929 erstmals im Stadtplan verzeichnet. Ihren Namen erhielt sie in Anlehnung an benachbarte Straßen nach der Stadt Landau in der Pfalz. Ursprünglich sollte sie als durchgängige Verbindung vom Saarplatz bis zur Coschützer Straße führen und dort eine Verbindung zur Kaitzer Straße bilden. Allerdings entstanden bis zum Zweiten Weltkrieg lediglich die beiden Wohnhäuser Nr. 11 und 15, so dass die Straße bis heute eine kurze Sackgasse ist.
 
-![mainzer straße](../../../sud/coschutz/strassen_coschutz/a_rectangle_1988.gif)
+## Mainzer Straße
 
 ![](../../../sud/coschutz/strassen_coschutz/coschmainzerstr.jpg)Die Mainzer Straße entstand 1902 im Zusammenhang mit dem Bau des Coschützer Rathauses als Verbindung zwischen Körnerstraße (heute Windbergstraße) und dem Fußweg nach Plauen (Am Hohen Stein). Zunächst wurde sie ab dem 11. September 1903 Rathausstraße, nach der Eingemeindung ab 1926 Mainzer Straße genannt. Die ersten Wohnhäuser an der Mainzer Straße entstanden in den Jahren vor dem Ersten Weltkrieg und weisen stilistische Bezüge zu den Ideen der Gartenstadtbewegung auf. Bauherr war die Baugenossenschaft Groß-Dresden e.G.m.b.H. Weitere Häuser folgten 1928/29 durch den Baumeister und Architekten Max Seiffert, der auf der Windbergstraße 10 wohnte.
 
-![mannheimer straße](../../../sud/coschutz/strassen_coschutz/a_rectangle_1992.gif)
+## Mannheimer Straße
 
 Die Mannheimer Straße wurde 1933 in Ergänzung der bereits zuvor auf dem Gelände einer früheren Ziegelei entstandenen Wohnsiedlung angelegt und erhielt ihren Namen im August 1933 nach der Stadt Mannheim (Baden-Württemberg). Bis zum Beginn des Zweiten Weltkriegs entstanden hier nach einheitlichem Konzept zweigeschossige Wohnhäuser. Ab 1950 bildete die Straße die Zufahrt zur Uranaufbereitungsfabrik der Wismut in Gittersee, später zum VEB Reifenwerk. Em Ende der Straße standen auch die kasernenartigen Wohnbaracken des sowjetischen Wachpersonals. Auf dem Areal befindet sich heute das Gewerbegebiet Coschütz-Gittersee.
 
-![marienschachtweg](../../../sud/coschutz/strassen_coschutz/a_rectangle_612.gif)
+## Marienschachtweg
 
 ![](../../../sud/coschutz/strassen_coschutz/cosch_tzmarienschachtweg.jpg)Der Marienschachtweg wurde im Zusammenhang mit dem Bau einer Wohnsiedlung im Osten von Coschütz angelegt und ist 1925 erstmals im Stadtplan verzeichnet. Bauherr der nach einheitlichem Konzept mit Kielbogendächern gestalteten Häuser _(Foto)_ war die Siedlungsgesellschaft "Dresden-Stadt und Land" G.m.b.H. Die ersten Gebäude entstanden 1923, die letzten 1929. Eine weitere Siedlung, bestehend aus 19 Reihenhäusern, wurde zwischen 1994 und 1999 errichtet.
 
@@ -222,7 +222,7 @@ Der Reutlinger Weg wurde 2000 angelegt und bildet die südöstliche Begrenzung d
 
 Die Saarbrückener Straße entstand Mitte der 1930er Jahre in der Nähe des Saarplatzes und der angrenzenden Saarstraße und wurde im Dezember 1937 nach der Hauptstadt des Saarlandes benannt. Bis zum Beginn des Zweiten Weltkrieges wurden hier einige Doppelhäuser errichtet. Seit 1993 ergänzen drei Einfamilienhäuser die vorhandene Bebauung.
 
-![saarstraße](../../../sud/coschutz/strassen_coschutz/a_rectangle_614.gif)
+## Saarstraße
 
 ![](../../../sud/coschutz/strassen_coschutz/cosch_tzsaarstr1.jpg)Die Saarstraße sowie der angrenzende Saarplatz entstanden Ende des 19. Jahrhunderts im Zusammenhang mit der Erweiterung des Coschützer Ortskerns in Richtung Plauen. Noch heute erinnert die verzweigte Straßenkreuzung von Saar-, Cunnersdorfer und Karlsruher Straße auf Coschützer sowie von Bernhard- und Coschützer Straße auf Plauener Flur an die unterschiedlichen Bebauungspläne der beiden damals noch selbständigen Gemeinden _(Foto rechts)_. Im August 1899 war der Ausbau abgeschlossen, die Gestaltung des Saarplatzes folgte 1902.
 
@@ -246,7 +246,7 @@ Die Flächen zu beiden Seiten der Straße wurden nach 1945 durch die SDAG Wismut
 
 ![](../../../sud/coschutz/strassen_coschutz/coschreifenwerk.jpg)VEB Reifenwerk Dresden: Das Unternehmen entstand 1962 auf dem Areal der früheren Uranaufbereitungsfabrik 95. Nach deren Schließung entschied man sich zur Schaffung von Ersatzarbeitsplätzen und richtete daraufhin in den Gebäuden eine Produktionsstätte für Lkw- und Traktorreifen ein. Der zum VEB Reifenkombinat Fürstenwalde gehörende Betrieb stellte vorrangig Großreifen für Lkw, Traktoren und Ackerschlepper her, die auch ins sozialistische Ausland und den arabischen Raum exportiert wurden. 1970 waren hier über 1000 Arbeitskräfte beschäftigt, darunter auch Gastarbeiter aus Kuba, Mocambique und Polen. Die Produktionsmenge betrug in Spitzenzeiten bis zu 2500 Reifen pro Tag. 1991 wurde der Betrieb geschlossen und nach Abbruch der Gebäude in das Gewerbegebiet Coschütz-Gittersee einbezogen. Das Foto zeigte eine der ehemaligen Fabrikhallen kurz vor dem Abriss 2001.
 
-[![tharandter straße](../../../a_rectangle_541.gif)](../../../sudwest/lobtau/strassen_lobtau/tharandter_strasse/)
+## [Tharandter Straße](../../../sudwest/lobtau/strassen_lobtau/tharandter_strasse/)
 
 ![tübingener straße](../../../sud/coschutz/strassen_coschutz/tübinger_strasse.jpg)
 
@@ -256,7 +256,7 @@ Die Tübinger Straße entstand nach 1990 als Plastraße 3 des Gewerbegebiets Cos
 
 ![](../../../sud/coschutz/strassen_coschutz/coschvierbeeteweg.jpg)Der Vierbeeteweg entstand im Zuge des Ausbaus der neuen Wohnsiedlung südlich des Achtbeeteweges und wurde im Januar 1927 benannt. Der Name nimmt Bezug auf eine bereits im Flurregister von 1794 erwähnte frühere Flurbezeichnung. Bis zum Ersten Weltkrieg befand sich hier die Lehmgruben der Ziegelei Vocke, woran noch die stufenartige Geländeform erinnert. Zwischen Achtbeete- und Poisenweg gab es zudem einen heute verschwundenen Teich. Nach 1990 wurden die verbliebenen Freflächen mit einer kleinen Wohnanlage (Nr. 2-6) bebaut _(Foto)_.
 
-![windbergstraße](../../../sud/coschutz/strassen_coschutz/a_rectangle_1986.gif)
+## Windbergstraße
 
 ![](../../../sud/coschutz/strassen_coschutz/coschwindbergstr.jpg)Die Windbergstraße verbindet den alten Coschützer Dorfkern mit dem um 1900 entstandenen Geschäftszentrum im Bereich Windberg-, Karlsruher und Kohlenstraße und geht auf einen alten Verbindungsweg zwischen Coschütz und Kleinpestitz zurück. Ursprünglich wurde dieser Weg im Volksmund Milchweg, später ab 1899 bis zur Eingemeindung offiziell Körnerstraße genannt. Diese Namensgebung erfolgte in Erinnerung an den langjährigen Coschützer Gemeindeältesten Hermann Körner (+ 1900), der u.a. den Bauplatz für den Bau des Pfarrhauses zur Verfügung gestellt hatte.
 

@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:35+01:00
 
 * * *
 
-[![ev.-luth. freikirche dreieinigkeitsgemeinde dresden-kaditz altkaditz 23 01139 dresden  tel. 0351/8382370 internet: www.elfk.de/dresden](../../../../nordwest/kaditz/emmauskirche/dreieinigkeitsgemeinde/a_rectangle_557.gif)](http://www.elfk.de/dresden)
+[Ev.-luth. freikirche dreieinigkeitsgemeinde dresden-kaditz altkaditz 23 01139 dresden  tel. 0351/8382370 internet: www.elfk.de/dresden](http://www.elfk.de/dresden)
 
 
 ![](../../../../nordwest/kaditz/emmauskirche/dreieinigkeitsgemeinde/kaditzdreieinigk.jpg)Die Geschichte der Dreieinigkeitsgemeinde Dresden-Kaditz der Evangelisch-Lutherischen

@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:36+01:00
 
 * * *
 
-![evang.-lutherische  markuskirche hubertusstraße 1 01129 dresden  tel. 0351 / 848 92 74  markusfriedhof hubertusstr. 1 01129 dresden](../../../nordwest/pieschen/markuskirche/a_rectangle_1078.gif)
+Evang.-lutherische  markuskirche hubertusstraße 1 01129 dresden  tel. 0351 / 848 92 74  markusfriedhof hubertusstr. 1 01129 dresden
 
 
 ![](../../../nordwest/pieschen/markuskirche/pieschmarkusk.jpg)Pieschen bildete gemeinsam mit Trachenberge ab 1884 eine eigene Kirchgemeinde,

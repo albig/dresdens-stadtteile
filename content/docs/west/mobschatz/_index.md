@@ -12,7 +12,7 @@ date: 2024-02-17T22:13:46+01:00
 
 **Gemeindesiegel von Mobschatz**
 
-![ortschaft mobschatz am tummelsgrund 7b 01156 dresden-mobschatz  tel. 0351/4538631  ortschaft-mobschatz @dresden.de](../../west/mobschatz/a_rectangle_304.gif)
+Ortschaft mobschatz am tummelsgrund 7b 01156 dresden-mobschatz  tel. 0351/4538631  ortschaft-mobschatz @dresden.de
 
 ![](../../plz_01156.jpg)
 
@@ -65,7 +65,7 @@ der geringen Kinderzahl nicht lohnte. Daran änderte auch die Einführung der Sc
 sich der Schulgemeindeverband Stetzsch-Mobschatz, der bis 1884 ein eigenes Schulhaus an der Ortsgrenze errichtete.
 Die Schule wurde 1894 und 1899 baulich erweitert. 1902 entstand ein zweiter Schulneubau an gleicher Stelle. Diese Schule besteht bis heute als 77. Grundschule An den Seegärten.
 
-[![mobschatzer straßen](a_rectangle_305.gif)](../../west/mobschatz/leuteritz/strassen_mobschatz/)
+## [Mobschatzer Straßen](../../west/mobschatz/leuteritz/strassen_mobschatz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

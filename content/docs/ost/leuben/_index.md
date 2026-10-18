@@ -63,7 +63,7 @@ Schulen in Leuben:
 
 Weitere Schulneubauten wurden nach 1970 im Zusammenhang mit dem Bau des Neubaugebietes errichtet. Diese dienen heute als 93. Grundschule (Moränenende 3) bzw. als Mittelschule und allgemeinbildendes Gymnasium der privaten Schule für das Hotel- und Gaststättengewerbe HOGA (Zamenhofstraße 61/63). Letztgenannte Schule trug als 73. Polytechnische Oberschule vor 1990 den Namen des Antifaschisten Hanns Rothbarth, an den ein noch erhaltenes Denkmal auf dem Schulgelände erinnert. Außerdem gab es auf dem Gelände die 78. Polytechnische Oberschule.
 
-[![leubener straßen](../../ost/leuben/a_rectangle_1238.gif)](../../ost/leuben/strassen_leuben/)
+## [Leubener Straßen](../../ost/leuben/strassen_leuben/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

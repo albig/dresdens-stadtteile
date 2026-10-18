@@ -150,9 +150,9 @@ seinem Tod 1936. Danach übernahm seine Tochter Frieda Helbig gemeinsam mit ihre
 die Marienbäder aufgeben und überließen diese der Gemeinde Weißig. Mitte der 60er Jahre begannen Sanierungsarbeiten an den zunehmend verfallenden
 Anlagen. Später folgte noch der Bau einer Bungalowsiedlung. Bis heute werden die Teiche als Bade- und Gondelteiche genutzt, seit 1999 unter Regie des Städtischen Bäderbetriebes.
 
-![marienbad dresden-weißig am marienbad 12, 01328 dresden-weißig, tel. 0351/2683366](a_rectangle_289.gif)
+Marienbad dresden-weißig am marienbad 12, 01328 dresden-weißig, tel. 0351/2683366
 
-[![weißiger straßen](a_rectangle_1752.gif)](../../../nordost/schonfeld-weissig/weissig/strassen_weissig/)
+## [Weißiger Straßen](../../../nordost/schonfeld-weissig/weissig/strassen_weissig/)
 
 [_Weiterführende Literatur und Quellen_](../../../impressum/quellenverzeichnis/)
 

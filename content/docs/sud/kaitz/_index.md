@@ -24,7 +24,7 @@ date: 2024-02-17T22:13:41+01:00
 
 [![](../../sud/kaitz/geschichtsverein_kaitz.jpg)](http://www.geschichtsverein-kaitz.de)
 
-[![homepage des sportvereins sachsen kaitz](a_rectangle_1523.gif)](http://www.sachsen-kaitz.de)
+## [Homepage des Sportvereins Sachsen Kaitz](http://www.sachsen-kaitz.de)
 
 
 ![](../../sud/kaitz/kaitz1.jpg)Der Bauernweiler Kaitz wurde am 31. März 1206 gemeinsam mit Dresden und anderen Ortschaften erstmals als Kiz (altsorbisch: Haus, Hütte) genannt und erstreckt sich zu beiden Seiten des [Kaitzbachtales](../../sud/kaitz/kaitzbachtal/). Andere Deutungen leiten den Namen vom slawischen Kyi (= Keule, Knüppel) oder dem Namen des Stammesältesten ab. Gegründet von sorbischen Siedlern gab es hier bereits frühzeitig einen Herrenhof, dessen Besitzer vom Markgrafen zu Meißen belehnt worden war. Außerdem besaßen Dresdner Bürger, 1408 u. a. die bedeutende Ratsherrenfamilie Busmann Anteile am Dorf. 1445 lebten in Kaitz fünf Bauern mit ihren Familien. 1473 ist ein Steinbruch bei Kaitz erwähnt, in dem im 18. Jahrhundert u.a. Baumaterial für den Bau des Altstädter Rathauses gewonnen wurde. Wichtigster Erwerbszweig war jedoch die Landwirtschaft. Außerdem befanden sich an den Hängen des Kaitzbachtales Weinberge, an die noch ein altes [Winzerhaus](../../sud/kaitz/strassen_kaitz/) von 1686 erinnert. Noch bis ins 16. Jahrhundert war der Ort dem Meißner Hochstift abgabenpflichtig. Kirchlich gehörte Kaitz zur Frauenkirche, ab 1674 zur Kirche von Leubnitz.
@@ -59,7 +59,7 @@ Die Geschichte der Kaitzer Feuerwehr begann im Jahr 1894, als die Königliche Am
 
 Nach der Eingemeindung von Kaitz wurde die Feuerwehr aufgelöst und ihre Aufgaben von der Dresdner Berufsfeuerwehr übernommen. Erst 1962 bildetet sich in Kaitz eine Freiwillige Feuerwehr. Diese bezog wenig später das Grundstück einer früheren Dachdeckerwerkstatt und besaß zunächst nur einen Tragspritzenanhänger, bevor 1966 ein Löschfahrzeug erworben werden konnte. 1972 brannte das Feuerwehrgerätehaus ab und musste komplett erneuert werden. Eingesetzt wurden die Kameraden meist bei Bränden in der Umgebung des Ortes, bei Hochwasser und zudem als Sicherheitswache im Operettentheater in Leuben. Heute gehört sie als Stadtteilfeuerwehr Kaitz zum Dresdner Rettungsnetz und erhielt 2006 ein modernes Gerätehaus und neue Technik.
 
-[![kaitzer straßen](../../sud/kaitz/a_rectangle_641.gif)](../../sud/kaitz/strassen_kaitz/)
+## [Kaitzer Straßen](../../sud/kaitz/strassen_kaitz/)
 
 
 

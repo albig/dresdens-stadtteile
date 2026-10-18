@@ -3,7 +3,7 @@ title: "Straßen und Plätze in Niederpoyritz"
 date: 2024-02-17T22:13:33+01:00
 ---
 
-![am friedenshang](../../../nordost/niederpoyritz/strassen_niederpoyritz/a_rectangle_1788.gif)
+## Am Friedenshang
 
 ![](../../../nordost/niederpoyritz/strassen_niederpoyritz/niepam_friedenshang.jpg)Die Straße Am Friedenshang entstand 1934 im Zuge der Erschließung eines geplanten
 neuen Wohngebietes zwischen Niederpoyritz und Wachwitz, welches jedoch kriegsbedingt nur teilweise realisiert wurde. Ursprünglich trug sie den Namen Wohnstraße F. Das hier
@@ -17,7 +17,7 @@ sie als Sommersitz der Gräfin von Stolberg-Wernigerode. Danach wurden die Räum
 während des Zweiten Weltkriegs als Flüchtlingsquartier genutzt. Am 13. Febuar 1945 zerstörte eine Luftmine die Villa, wobei
 sieben Menschen ums Leben kamen. Das großzügige Grundstück fiel 1946 unter die Bestimmungen der Bodenreform, wurde daraufhin parzelliert und an Kleingärtner verteilt.
 
-![eugen-dietrich-straße](../../../nordost/niederpoyritz/strassen_niederpoyritz/a_rectangle_1789.gif)
+## Eugen-Dietrich-Straße
 
 ![](../../../nordost/niederpoyritz/strassen_niederpoyritz/niederpoyredieterichstr.jpg)Die Eugen-Dietrich-Straße hat ihren Ausgangspunkt am Dorfplatz und führt von dort
 zum Helfenberger Grund und weiter nach Helfenberg. Im Zusammenhang mit ihrem Ausbau 1909 erhielt sie ihren Namen nach dem Unternehmer Eugen Dieterich (1840-1904). Dieterich war Gründer der [Chemischen Fabrik Helfenberg](../../../nordost/schonfeld-weissig/helfenberg/helfenberger_grund/), deren bereits auf Helfenberger Flur gelegene Produktionsgebäude noch erhalten sind.
@@ -46,23 +46,23 @@ In einem der dort errichteten Gebäude befand sich einst die Kunstglaserei Schra
 
 
 
-[![helfenberger grund](../../../nordost/niederpoyritz/strassen_niederpoyritz/a_rectangle_1790.gif)](../../../nordost/schonfeld-weissig/helfenberg/helfenberger_grund/)
+## [Helfenberger Grund](../../../nordost/schonfeld-weissig/helfenberg/helfenberger_grund/)
 
-![laubegaster straße](../../../nordost/niederpoyritz/strassen_niederpoyritz/a_rectangle_1791.gif)
+## Laubegaster Straße
 
 ![](../../../nordost/niederpoyritz/strassen_niederpoyritz/nieplaubegasterstr.jpg)Der im Volksmund nach seinem Verlauf zur Gaststätte [Zur Schanze](../../../nordost/hosterwitz/schanzschenke/) zunächst Schanzweg genannte Verbindungsweg erhielt um 1904 offiziell den Namen Laubegaster Straße. Diese
 verläuft sowohl über Niederpoyritzer als auch Hosterwitzer Flur und verbindet beide Orte miteinander. Während die Gebäude mit den Nummern 1 bis 30 zu Hosterwitz gehören,
 besitzen die auf Niederpoyritzer Territorium gelegenen Grundstücke, einer früheren Nummerierung folgend, die Hausnummern 42, 43, 44 und 45. Die meisten Gebäude
 entstanden im 19. Jahrhundert und dienten früher teilweise auch gewerblichen Zwecken. Einige stehen unter Denkmalschutz.
 
-![moosleite](../../../nordost/niederpoyritz/strassen_niederpoyritz/a_rectangle_1792.gif)
+## Moosleite
 
 Die Moosleite, früher auch als Moosleitenweg bzw. Communaler Fußweg nach Pappritz bezeichnet, verbindet die Pillnitzer
 Landstraße mit dem oberhalb des Elbhangs gelegenen Ort Pappritz und ist gleichzeitig wichtiger Verbindungsweg vom
 Hochland zur Elbfähre. Ihren Namen erhielt sie nach einem hier zu Tal fließenden kleinen Bach. Der nur wenige hundert Meter
 lange Bach entspringt am Südrand von Pappritz und mündet unmittelbar unterhalb der Pillnitzer Landstraße in die Elbe.
 
-![pappritzer weg](../../../nordost/niederpoyritz/strassen_niederpoyritz/a_rectangle_1793.gif)
+## Pappritzer Weg
 
 Der im 19. Jahrhundert als Steinweg bzw. Staffelweg bezeichnete Verbindungsweg nach Pappritz erhielt 1902 offiziell seinen
 heutigen Namen Pappritzer Weg. Mit dem Bau der Staffelsteinstraße 1902 wurde er jedoch teilweise überbaut und im oberen
@@ -72,15 +72,15 @@ Abschnitt als Treppe ausgeführt. Im unteren Teil sind noch mehrere historische 
 
 **_Foto:_** _Wohnhäuser am Pappritzer Weg um 1910_
 
-[![pillnitzer landstraße](../../../a_rectangle_223.gif)](../../../nordost/loschwitz/strassen_loschwitz/pillnitzer_landstrasse/)
+## [Pillnitzer Landstraße](../../../nordost/loschwitz/strassen_loschwitz/pillnitzer_landstrasse/)
 
-![plantagenweg](../../../nordost/niederpoyritz/strassen_niederpoyritz/a_rectangle_1794.gif)
+## Plantagenweg
 
 Der gegenüber dem Oberen Gasthof in Richtung Elbe führende Weg trug ursprünglich den Namen Schulstraße, da sich hier
 das 1896 eröffnete Niederpoyritzer Schulhaus befand. Um Verwechslungen mit einer gleichnamigen Straße in Coschütz zu
 vermeiden, erfolgte 1950 die Umbenennung in Plantagenweg. Zu den erhaltenen Wohngebäuden der Straße gehört auch das einstige Gemeindearmenhaus (Nr. 2).
 
-![rockauer straße](../../../nordost/niederpoyritz/strassen_niederpoyritz/a_rectangle_1795.gif)
+## Rockauer Straße
 
 ![](../../../nordost/niederpoyritz/strassen_niederpoyritz/nieprockauerstr.jpg)
 Die heutige Rockauer Straße geht auf einen alten Verbindungsweg zurück, welcher vom Elbtal hinauf zur Rockauer Höhe führte. Der zu Beginn des 20. Jahrhunderts zur Straße
@@ -93,7 +93,7 @@ Eigentümer waren u.a. der Brauereibesitzer Clausnitzer (Schlossbrauerei Niederp
 (1865-1952). Pietzschmann war Professor an der Kunstakademie und gehörte zum Goppelner Kreis, einer Vereinigung
 von Landschaftsmalern. 1929 entstand an der Rockauer Straße ein von der Nieskyer Firma Christoph & Unmack gebautes Holzhaus. Weitere Wohnhäuser folgten in den Dreißiger Jahren.
 
-![siedlungsstraße](../../../nordost/niederpoyritz/strassen_niederpoyritz/a_rectangle_1796.gif)
+## Siedlungsstraße
 
 ![](../../../nordost/niederpoyritz/strassen_niederpoyritz/niepsiedlungsstr.jpg)Die Siedlungsstraße entstand Anfang der Zwanziger Jahre im Zuge der Erschließung des
 Gebietes für die Wohnbebauung. Zuvor gehörte das Areal oberhalb der Pillnitzer Landstraße 221 zur fiskalischen Weinbergsdomäne. Zunächst wurde sie als Wohnstraße
@@ -103,7 +103,7 @@ Die Gebäude der Siedlungsstraße
 wurden ab 1924 für die Siedlergemeinschaft Niederpoyritz errichtet. Die Planungen oblagen dem Architekten Kurt Bärbig, der für das Grundstück mehrere der Hanglage angepasste Doppelhäuser entwarf. Ursprünglich war
 neben den Wohnhäusern auch ein gemeindeeigenes Verwaltungsgebäude vorgesehen. An dessen Stelle entstand wenig später das neue Feuerwehrhaus. Erst 1939 konnte das Bauvorhaben abgeschlossen werden.
 
-![staffelsteinstraße](../../../nordost/niederpoyritz/strassen_niederpoyritz/a_rectangle_1797.gif)
+## Staffelsteinstraße
 
 Noch bis zum Ersten Weltkrieg gab es an Stelle der heutigen Staffelsteinstraße lediglich einen schmalen und schwer
 befahrbaren Weg, welcher vom Elbtal nach Pappritz führte. Wegen seines schlechten Bauzustandes entschied sich die Gemeinde Niederpoyritz nach längerer Diskussion zum Ausbau zur Straße. Nach dem Ankauf der benötigten Grundstücke
@@ -147,7 +147,7 @@ Nr. 10:
 Das Wohnhaus entstand kurz nach der Jahrhundertwende und gehörte dem Senftenberger Braunkohlefabrikanten Lindemann. Ebenso wie einige weitere Gebäude in der Nachbarschaft wurde die Villa beim Luftangriff am 13./14. Februar
 1945 schwer beschädigt und brannte aus. In der Nachkriegszeit erfolgte der Wiederaufbau in vereinfachter Form.
 
-![wohnweg](../../../nordost/niederpoyritz/strassen_niederpoyritz/a_rectangle_1798.gif)
+## Wohnweg
 
 Der Wohnweg wurde 1928 durch die Gemeinde Niederpoyritz als Wohnstraße E projektiert und sollte ab 1937 zur Straße
 ausgebaut werden, was jedoch nie erfolgte. Die offizielle Namensgebung stammt aus der Zeit um 1950. In seinem Verlauf

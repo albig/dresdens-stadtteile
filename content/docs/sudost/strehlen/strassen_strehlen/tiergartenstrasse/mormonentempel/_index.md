@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:42+01:00
 
 * * *
 
-![kirche jesu christi der heiligen der letzten tage tiergartenstraße 42 01219 dresden tel. 0351/4718553](../../../../../sudost/strehlen/strassen_strehlen/tiergartenstrasse/mormonentempel/a_rectangle_778.gif)
+Kirche jesu christi der heiligen der letzten tage tiergartenstraße 42 01219 dresden tel. 0351/4718553
 
 
 Die Dresdner Mormonengemeinde wurde am 21. Oktober 1855 von Franklin Richards gegründet. Kurz zuvor hatte sich der aus Meißen stammende Lehrer Karl Gottfried Mäser gemeinsam mit seiner Familie  in der

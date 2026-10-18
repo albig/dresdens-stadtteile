@@ -273,7 +273,7 @@ Der Lingnerplatz entstand 1927 als Vorplatz des [Deutschen Hygiene-Museums](../.
 
 Ballwerfer: Auf dem Vorplatz des Museums steht seit 1983 die Plastik "Ballwerfer" _(Foto links)_. Die 4,50 Meter hohe Bronzefigur wurde 1907 von Richard Daniel Fabricius, einem Schüler von Robert Diez, geschaffen und befand sich ursprünglich in den Sportanlagen an der Lennéstraße. 1911 wurde sie zur Gestaltung des Freigeländes der I. Internationalen Hygieneausstellung umgesetzt. Als im Jahr 1922 die neue Illgen-Kampfbahn (Dynamo-Stadion) eingeweiht wurde, zog der "Ballwerfer" erneut um und stand nun auf dem Güntzplatz zwischen Stadion und dem Georg-Arnhold-Bad. Das Kunstwerk überstand dort den Zweiten Weltkrieg, wurde jedoch beschädigt und deshalb in der Nachkriegszeit demontiert. Im September 1983 erhielt es nach umfassender Restaurierung seinen heutigen Platz.
 
-![](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/lothringer_stra_e.jpg)
+## Lothringer Straße
 
 Die heute als Lothringer Straße in den Stadtplänen verzeichnete Straße an der Westseite des Sachsenplatzes war ursprünglich ein Fahrweg vom Ziegelschlag nach dem städtischen Steinröhrenbohrwerk. Im Volksmund wurde dieser Weg Steinweg genannt, erhielt jedoch 1862 den Namen Bohrwerkstraße. 1839 war hier ein Bohrwerk zur Herstellung steinerner Wasserröhren gegründet worden, welches 1888 dem Bau des Amtsgerichtes weichen musste. Am nördlichen Ende befand sich bis zur Übergabe der Albertbrücke eine Anlegestelle für eine Elbfähre. In Erinnerung an die im Deutsch-Französischen Krieg 1870/71 eroberten Gebiete wurde die Bohrwerkstraße 1880 in Lothringer Straße umbenannt.
 

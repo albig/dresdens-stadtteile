@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:39+01:00
 
 * * *
 
-![johannisfriedhof tolkewitz  wehlener str. 13/15 01279 dresden  tel. 0351/2 52 52 02](../../../ost/tolkewitz/johannisfriedhof/a_rectangle_961.gif)
+Johannisfriedhof tolkewitz  wehlener str. 13/15 01279 dresden  tel. 0351/2 52 52 02
 
 [![](../../../ost/tolkewitz/johannisfriedhof/johannisfriedhof.jpg)](http://www.johannisfriedhof-dresden.de)
 

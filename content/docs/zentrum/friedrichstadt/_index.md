@@ -167,7 +167,7 @@ Jahr zuvor gegründeten Gemeinnützigen Verein zur Förderung der sittlichen, 
 Bevölkerung Dresdens die erste Dresdner Volksbibliothek eröffnet. Innerhalb weniger Jahre wuchs der Bücherbestand
 durch Schenkungen und Ankauf auf ca. 1800 Bände an. Die Bibliothek wechselte in der Folgezeit mehrmals ihren Standort und befand sich bis zur Auflösung des Vereins 1909 auf der Seminarstraße.
 
-[![straßen in der friedrichstadt](../../zentrum/friedrichstadt/a_rectangle_1170.gif)](../../zentrum/friedrichstadt/strassen_friedrichstadt/)
+## [Straßen in der Friedrichstadt](../../zentrum/friedrichstadt/strassen_friedrichstadt/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

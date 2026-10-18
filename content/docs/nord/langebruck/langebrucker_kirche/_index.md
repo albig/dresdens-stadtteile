@@ -5,9 +5,9 @@ date: 2024-02-17T22:13:32+01:00
 
 * * *
 
-![ev.-luth. kirchgemeinde langebrück kirchstraße 46 01464 langebrück  tel. 035201/70876](../../../nord/langebruck/langebrucker_kirche/a_rectangle_1092.gif)
+Ev.-luth. kirchgemeinde langebrück kirchstraße 46 01464 langebrück  tel. 035201/70876
 
-[![zur homepage der kirchgemeinde](../../../nord/langebruck/langebrucker_kirche/a_rectangle_1652.gif)](http://www.kirchgemeinde-langebrueck.de)
+## [Zur Homepage der Kirchgemeinde](http://www.kirchgemeinde-langebrueck.de)
 
 * * *
 

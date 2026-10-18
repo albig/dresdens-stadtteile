@@ -11,7 +11,7 @@ date: 2024-02-17T22:13:31+01:00
 
 * * *
 
-[![theaterhaus ](../../../../neustadt/leipziger_vorstadt/leipziger_strasse/rudi_arndt/a_rectangle_1304.gif)](http://www.rudi-dresden.de)
+## [Theaterhaus](http://www.rudi-dresden.de)
 
 
 ![](../../../../neustadt/leipziger_vorstadt/leipziger_strasse/rudi_arndt/kaditzrudiarndt2.jpg)Das erste Gebäude an der Einmündung der heutigen Fechnerstraße in die Leipziger

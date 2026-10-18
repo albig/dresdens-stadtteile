@@ -52,7 +52,7 @@ Am 14. Juni 1935 erhielt die bisherige 31. Volksschule den Namen Hans-Schemm-Sch
 
 Ab 1919 nutzte die 32. Volksschule das Schulhaus. Nach 1945 wurde diese in die 32. Grundschule, 1958 in eine Polytechnische Oberschule umgewandelt. Seit dem 22. April 1966 trug sie den Namen 32. POS Paul Gruner, benannt nach einem antifaschistischen Widerstandskämpfer, der viele Jahre bei der Dresdner Straßenbahn tätig war. 2004 wurde sie wegen des an der Fassade befindlichen Märchenmosaiks in Sieben-Schwaben-Schule umbenannt und bis 2016 als Grund- und Oberschule genutzt. Mit Fertigstellung des neuen Tolkewitzer Schulcampus an der Wehlener Straße wird künftig nur noch die 32. Grundschule im Gebäude verbleiben.
 
-[![grunaer straßen](../../ost/gruna/a_rectangle_1008.gif)](../../ost/gruna/strassen_gruna/)
+## [Grunaer Straßen](../../ost/gruna/strassen_gruna/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

@@ -7,9 +7,9 @@ date: 2024-02-17T22:13:34+01:00
 
 ![](../../../nordost/page10246/kirche_weisser_hirsch/siegelkirchewhirsch.jpg)
 
-![ev.-lutherische kirchgemeinde weißer hirsch luboldtstr. 11 01324 dresden tel. 0351/2683173](../../../nordost/page10246/kirche_weisser_hirsch/a_rectangle_1096.gif)
+Ev.-lutherische kirchgemeinde weißer hirsch luboldtstr. 11 01324 dresden tel. 0351/2683173
 
-[![zur homepage der kirchgemeinde](../../../nordost/page10246/kirche_weisser_hirsch/a_rectangle_1242.gif)](http://www.kirche-weisser-hirsch.de/)
+## [Zur Homepage der Kirchgemeinde](http://www.kirche-weisser-hirsch.de/)
 
 * * *
 

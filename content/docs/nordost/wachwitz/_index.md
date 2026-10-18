@@ -111,7 +111,7 @@ Besitzer eine Vereinbarung mit der Laubegaster Schule geschlossen, die gegen ein
 regelmäßigen Schwimmunterricht der Schüler im Elbebad ermöglichte. Standort des Bades war zunächst am Wachwitzer
 Ufer. Später wurde es auf die Tolkewitzer Seite, 200 Meter oberhalb des Landgrabens, verlegt. Betreiber waren die Familien Schäfer und Ludwig. Das Bad wurde noch vor dem Zweiten Weltkrieg geschlossen.
 
-[![wachwitzer straßen](a_rectangle_230.gif)](../../nordost/wachwitz/strassen_wachwitz/)
+## [Wachwitzer Straßen](../../nordost/wachwitz/strassen_wachwitz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

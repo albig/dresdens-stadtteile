@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:31+01:00
 
 * * *
 
-![innerer neustädter friedhof  friedensstr. 2 01097 dresden tel. 0351/8043604](../../../neustadt/leipziger_vorstadt/innerer_neustadter_friedhof/a_rectangle_1522.gif)
+Innerer neustädter friedhof  friedensstr. 2 01097 dresden tel. 0351/8043604
 
 
 ![](../../../neustadt/leipziger_vorstadt/innerer_neustadter_friedhof/lvinnererneust_dter1.jpg)Der Innere Neustädter Friedhof enstand ab 1731 auf einem Areal außerhalb der Stadtbefestigung. Zuvor wurden die verstorbenen Einwohner Altendresdens auf einem unmittelbar an der Dreikönigskirche gelegenen Gottesacker beerdigt. Sowohl aus Platz- als auch aus hygienischen Gründen hatte man bereits 1556 eine Verlegung erwogen. Ausschlaggebend für die Umsetzung des Vorhabens waren aber die Bebauungspläne August des Starken für seine Neue Königstadt. Der neuen Hauptstraße stand dabei die Dreikönigskirche im Wege, die deshalb abgerissen und auf einem neuen Grundstück wieder aufgebaut werden sollte. Als Bauplatz wählte man das bisherige Friedhofsgelände, so dass ein neuer Begräbnisplatz gesucht werden musste.

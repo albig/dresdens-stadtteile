@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:45+01:00
 
 * * *
 
-![freibad cotta hebbelstraße 33 01157 dresden tel. 0351/4213658](../../../../../west/cotta/strassen_cotta/hebbelstrasse/freibad_cotta/a_rectangle_1521.gif)
+Freibad cotta hebbelstraße 33 01157 dresden tel. 0351/4213658
 
 
 ![](../../../../../west/cotta/strassen_cotta/hebbelstrasse/freibad_cotta/cottabad2.jpg)Das Cottaer Luftbad entstand 1913 auf Initiative des Naturheilvereins

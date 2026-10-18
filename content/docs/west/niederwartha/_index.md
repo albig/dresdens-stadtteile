@@ -53,7 +53,7 @@ Damm geschaffen und die vorhandene Liegewiese erweitert. Zum Bad gehören heute 
 mit der Sanierung des Freibades begonnen. Wenig später entstanden beim Elbehochwasser im August 2002 große Schäden, was eine erneute Komplettsanierung erforderlich machte. Diese endete 2004 mit dem Bau eines neuen
 Kassenbereichs und moderner Umkleidekabinen. Seit 2013 gehört das Stauseebad zur Städtischen Bäder GmbH.
 
-![stauseebad cossebaude/niederwartha meißner straße 26 - 01156 dresden tel. 0351/4537555](../../west/niederwartha/a_rectangle_1155.gif)
+Stauseebad cossebaude/niederwartha meißner straße 26 - 01156 dresden tel. 0351/4537555
 
 Kleditschgrundbach:
 
@@ -62,7 +62,7 @@ Der in der Nähe von Weistropp entspringende Kleditschgrundbach ist westlichster
 Landschaftschutzgebiet "Elbtal zwischen Dresden und Meißen und ist noch weitgehend naturbelassen. Unweit des Gewässers befindet sich die Politische Buche, ein unter Naturschutz stehender 25 Meter hoher Baum mit
 Schnitzereien am Stamm, welche an politische Auseinandersetzungen zwischen den Parteien vor 1933 und nach 1945 erinnern.
 
-[![niederwarthaer straßen](../../west/niederwartha/a_rectangle_1865.gif)](../../west/niederwartha/strassen_niederwartha/)
+## [Niederwarthaer Straßen](../../west/niederwartha/strassen_niederwartha/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

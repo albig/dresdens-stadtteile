@@ -37,7 +37,7 @@ Trotzdem konnten die meisten Orte bis heute ihr ländliches Bild bewahren.
 
 
 
-[![das dresdner elbhangfest alljährlich am letzten juniwochenende hier geht´s zur homepage!](../nordost/a_rectangle_258.gif)](http://www.elbhangfest.de)
+[Das dresdner elbhangfest alljährlich am letzten juniwochenende hier geht´s zur homepage!](http://www.elbhangfest.de)
 
 * * *
 

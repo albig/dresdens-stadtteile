@@ -44,4 +44,4 @@ Jahre vorhandene Unterlauf zum sogenannten Pferdeloch, einer heute verlandet
 mehr. Von Bedeutung ist der Bach als Entwässerungsgraben eines alten Elbarms. Außerdem ist er als naturnahes Biotop
 und Teil des Landschaftschutzgebietes Dresdner Elbwiesen und -altarme geschützt. Neben verschiedenen Vogelarten wurden am Brüchigtgraben auch Fischotter beobachtet.
 
-[![sporbitzer straßen](../../ost/sporbitz/a_rectangle_1404.gif)](../../ost/grosszschachwitz/strassen_grosszschachwitz/)
+## [Sporbitzer Straßen](../../ost/grosszschachwitz/strassen_grosszschachwitz/)

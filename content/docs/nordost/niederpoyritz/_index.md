@@ -107,6 +107,6 @@ einzige Überfahrt zwischen Pillnitz und dem Blauen Wunder und wird vor alle
 Einsatz kommt hier das 1927 gebaute und 1962/63 modernisierte Fährschiff Erna, älteste noch in Betrieb befindliche
 Personenfähre der Dresdner Verkehrsbetriebe. In den Zwanziger Jahren war an dieser Stelle der Bau einer neuen Elbbrücke geplant. Nach 1990 wurden diese Pläne noch einmal aufgegriffen, letztlich jedoch nicht realisiert.
 
-[![niederpoyritzer straßen](a_rectangle_1787.gif)](../../nordost/niederpoyritz/strassen_niederpoyritz/)
+## [Niederpoyritzer Straßen](../../nordost/niederpoyritz/strassen_niederpoyritz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)

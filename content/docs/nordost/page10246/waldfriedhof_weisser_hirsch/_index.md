@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:34+01:00
 
 * * *
 
-![waldfriedhof weißer hirsch am heiderand 8 01324 dresden tel. 0351/2684450](a_rectangle_178.gif)
+Waldfriedhof weißer hirsch am heiderand 8 01324 dresden tel. 0351/2684450
 
 * * *
 

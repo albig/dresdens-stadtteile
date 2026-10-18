@@ -15,7 +15,7 @@ date: 2024-02-17T22:13:31+01:00
 
 [![](../../../nord/klotzsche/flughafen/flughafenseelsorge.jpg)](http://www.airportchapel.de/drs/)
 
-![flughafenführungen sonntag 16.30 uhr  erwachsene 8 euro kinder          5 euro  anmeldungen unter tel. 0351/8813300](../../../nord/klotzsche/flughafen/a_rectangle_26.gif)
+Flughafenführungen sonntag 16.30 uhr  erwachsene 8 euro kinder          5 euro  anmeldungen unter tel. 0351/8813300
 
 [![](../../../nord/klotzsche/flughafen/wetter.jpg)](http://www.wetter24.de/vorhersage/deutschland/01109/16168896/)
 

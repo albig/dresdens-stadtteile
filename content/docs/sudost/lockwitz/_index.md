@@ -69,7 +69,7 @@ Diese wollte die verbliebenen Baulichkeiten als Versammlungs- und Unterkunftsrä
 kam es jedoch nicht, so dass der Pachtvertrag 1950 aufgelöst und das Grundstück der Kelterei Lockwitzgrund überlassen wurde. Diese nutzte es für ihre
 Betriebssportgemeinschaft BSG Lockwitzgrund, später als Lagerfläche. Pläne für einen Wiederaufbau des Freibades an anderer Stelle kamen nicht zustande.
 
-[![lockwitzer straßen](../../sudost/lockwitz/a_rectangle_824.gif)](../../sudost/lockwitz/strassen_lockwitz/)
+## [Lockwitzer Straßen](../../sudost/lockwitz/strassen_lockwitz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

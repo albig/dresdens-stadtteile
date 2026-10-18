@@ -65,7 +65,7 @@ Kleingartensparte Elbgrund:
 
 Die Kleingartenanlage Elbgrund wurde 1930 am Rande des Niedersedlitzer Flutgrabens angelegt. Das Gelände war wegen der Überschwemmungsgefahr für eine Bebauung ungeeignet und konnte deshalb nur als Gartenland ausgewiesen werden. Nach 1945 fuhr hier die Dresdner Trümmerbahn zur Kiesgrube nach Dobritz, in der nicht verwendbarer Schutt aus der zerstörten Stadt abgekippt wurde. Auch Teile des Flutgrabens wurden dabei verfüllt,wobei man die dadurch gewonnene Fläche in den 1950er Jahren ebenfalls mit Gärten belegte. 1957 wurden die Bahngleise entfernt. An die Zeit der Enttrümmerung erinnert bis heute der Trümmerbahnweg im Spartengelände sowie der aus Teilen des Abbruchmaterials angelegte Musikpavillon. Steine fanden auch für den Bau von Fundamenten und Begrenzungsmauern Verwendung.
 
-[![tolkewitzer straßen](a_rectangle_1062.gif)](../../ost/tolkewitz/strassen_tolkewitz/)
+## [Tolkewitzer Straßen](../../ost/tolkewitz/strassen_tolkewitz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

@@ -5,11 +5,11 @@ date: 2024-02-17T22:13:44+01:00
 
 * * *
 
-![ev.-luth  kirchgemeinde  unkersdorf  pfarramt  tel. 0351-453 77 47](../../../../sudwest/gompitz/unkersdorf/unkersdorfer_kirche/a_rectangle_441.gif)
+Ev.-luth  kirchgemeinde  unkersdorf  pfarramt  tel. 0351-453 77 47
 
 [**zur Homepage**](http://www.kirche-weistropp.de/index.php?option=com_content&view=article&id=46&Itemid=57)
 
-![friedhof unkersdorf am schreiberbach 01156 dresden](../../../../sudwest/gompitz/unkersdorf/unkersdorfer_kirche/a_rectangle_1088.gif)
+Friedhof unkersdorf am schreiberbach 01156 dresden
 
 
 ![](../../../../sudwest/gompitz/unkersdorf/unkersdorfer_kirche/unkersdkirchealt.jpg)Die Unkersdorfer Kirche entstand bereits im 14. Jahrhundert und war auch

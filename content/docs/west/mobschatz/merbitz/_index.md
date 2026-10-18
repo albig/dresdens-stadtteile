@@ -67,7 +67,7 @@ gegründeten Landwirtschaftlichen Vereines für Merbitz und Umgegend. Nach 1990 
 
 ![](../../../west/mobschatz/merbitz/merbitzgasthof3.jpg)![](../../../west/mobschatz/merbitz/merbitzgasthof2.jpg)![](../../../west/mobschatz/merbitz/merbgasth.jpg)
 
-[![merbitzer straßen](../../../west/mobschatz/merbitz/a_rectangle_1948.gif)](../../../west/mobschatz/leuteritz/strassen_mobschatz/)
+## [Merbitzer Straßen](../../../west/mobschatz/leuteritz/strassen_mobschatz/)
 
 [_Weiterführende Literatur und Quellen_](../../../impressum/quellenverzeichnis/)
 

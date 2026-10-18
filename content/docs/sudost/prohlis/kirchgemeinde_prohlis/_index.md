@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:42+01:00
 
 * * *
 
-[![ev.-luth. kirchgemeinde prohlis georg-palitzsch-str. 2 01239 dresden tel. 0351/2841149  www.kirche-prohlis.de](../../../sudost/prohlis/kirchgemeinde_prohlis/a_rectangle_817.gif)](http://www.kirche-prohlis.de)
+[Ev.-luth. kirchgemeinde prohlis georg-palitzsch-str. 2 01239 dresden tel. 0351/2841149  www.kirche-prohlis.de](http://www.kirche-prohlis.de)
 
 
 ![](../../../sudost/prohlis/kirchgemeinde_prohlis/prohliskirche.jpg)Die erste Prohliser Kirche, von der jedoch keinerlei Belege erhalten blieben, soll

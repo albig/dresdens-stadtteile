@@ -7,7 +7,7 @@ date: 2024-02-17T22:13:38+01:00
 
 Der auf Seidnitzer Flur gelegene Altenberger Platz erhielt seinen Namen am 14. August 1930 nach der Stadt Altenberg im Osterzgebirge. Die Namensgebung erfolgte in Anlehnung an die den Platz überquerende [Altenberger Straße](../../../ost/striesen/strassen_striesen/), die sich hier mit der Enderstraße vereinigt. Die Platzanlage selbst ist jedoch deutlich älter und bereits in einem Bauplan von 1896 verzeichnet. Erst in den 1930er Jahren entstanden jedoch die ersten Gebäude an der Südseite (Nr. 18-22), die heute unter Denkmalschutz stehen. 1994 folgte das Einkaufszentrum Striesen Center mit verschiedenen Läden.
 
-![altseidnitz](a_rectangle_1035.gif)
+## Altseidnitz
 
 ![](../../../ost/seidnitz/strassen_seidnitz/seidnitz2.jpg)Der noch gut erhaltene frühere Anger von Seidnitz wird seit 11. November 1903 offiziell als Altseidnitz bezeichnet. Früher hieß die Anlage Dorfplatz bzw. im östlichen Teil bis 1939 Sorbenstraße. Die Gehöfte entstanden nach dem großen Brand von 1745 und stehen unter Denkmalschutz. Noch bis 1898 befand sich inmitten des Platzes ein kleiner Teich, der nach dem Bau des Tolkewitzer Wasserwerkes jedoch verlandete und schließlich zugeschüttet wurde.
 
@@ -35,17 +35,17 @@ Die kleine Straße Am Winkelsprung entstand im Zusammenhang mit dem Bau der Sied
 
 Die Straße geht auf einen alten Verbindungsweg zwischen Seidnitz und Dobritz zurück und wurde 1891 im Zusammenhang mit dem Bau der Dresdner [Pferderennbahn](../../../ost/seidnitz/pferderennbahn/) ausgebaut. Auf Seidnitzer Flur wurde sie einst Dobritzer Straße, in Dobritz Seidnitzer Straße genannt. Am 1. Juni 1926 erfolgte eine Vereinigung beider Straßenabschnitte und die Umbenennung in An der Rennbahn.
 
-![](../../../ost/seidnitz/strassen_seidnitz/aussiger_stra_e.jpg)
+## Aussiger Straße
 
 Die Aussiger Straße geht auf eine erstmals im Seidnitzer Bebauungsplan von 1896 verzeichnete Planstraße T zurück. Im Juni
 1897 wurde diese fertig gestellt und erhielt 1904 ihren Namen nach der böhmischen Stadt Aussig (Usti nad Ladem).
 
-![](../../../ost/seidnitz/strassen_seidnitz/b_renburger_weg.jpg)
+## Bärenburger Weg
 
 Der Bärenburger Weg wurde beim Bau des Neubaugebietes
 Bodenbacher Straße angelegt und am 24. Juli 1975 nach dem kleinen Ort Bärenburg, einem Ortsteil von Altenberg, benannt.
 
-![basedowstraße](a_rectangle_1217.gif)
+## Basedowstraße
 
 Die Basedowstraße, 1935 unmittelbar auf der einstigen Flurgrenze zwischen Seidnitz und Dobritz als Planstraße F angelegt, erhielt ihren Namen am 27. September 1945 nach dem Pädagogen und Erziehungsreformer Johann Bernhard Basedow (1723-1790). Basedow setzte sich für eine Erneuerung des Erziehungswesens nach philantropischen Grundsätzen ein und gründete 1774 das Philantropikum in Dessau. Während der Nazizeit hieß die Straße Wilhelm-Ehrlich-Straße nach einem am 9. November 1923 an der Feldherrenhalle in München ums Leben gekommenen Nationalsozialisten.
 
@@ -53,7 +53,7 @@ Die Basedowstraße, 1935 unmittelbar auf der einstigen Flurgrenze zwischen Seidn
 
 Der Bergfelderweg entstand um 1920 zur Erschließung der Wohnsiedlung der Heimstättengesellschaft und wurde am 24. Juni 1920 benannt. Zuvor ist er als Planstraße 1 in den Unterlagen verzeichnet.
 
-![](berggie_h_bler_stra_e.jpg)
+## Berggießhübler Straße
 
 Die Berggießhübler Straße wurde 1897 als Planstraße M angelegt und wenig später mit Wohnhäusern bebaut. Nach der Eingemeindung von Seidnitz erfolgte 1904 die Umbenennung nach dem Bergbau- und Kurort Berggießhübel im Osterzgebirge. Im Eckhaus zur Kipsdorfer Straße (Nr. 14) befand sich bis 1945 das Restaurant "Almenrausch". Ein weiteres Lokal gab es vor dem Ersten Weltkrieg mit dem "Heidenauer Hof" im Haus Nr. 2.
 
@@ -61,19 +61,19 @@ Die Berggießhübler Straße wurde 1897 als Planstraße M angelegt und wenig sp�
 
 **_Foto:_** _Das frühere Restaurant "Almenrausch" an der Berggießhübler Straße_
 
-![](berthelsdorfer_weg.jpg)
+## Berthelsdorfer Weg
 
 Der Berthelsdorfer Weg entstand im Zusammenhang mit dem Neubaugebiet Seidnitz. Wie auch einige benachbarte Straßen
 erhielt er auf Beschluss des Stadtrates am 2. August 1979 seinen Namen nach einem Ort im Osterzgebirge. Berthelsdorf liegt in der Nähe von Glashütte und gehört heute als Ortsteil zu Liebstadt.
 
-[![bodenbacher straße](../../../a_rectangle_1012.gif)](../../../ost/gruna/strassen_gruna/bodenbacher_strasse/)
+## [Bodenbacher Straße](../../../ost/gruna/strassen_gruna/bodenbacher_strasse/)
 
-![](../../../ost/seidnitz/strassen_seidnitz/borthener_stra_e.jpg)
+## Borthener Straße
 
 Die von der Winterbergstraße abgehende Borthener Straße entstand in den 1920er Jahren beim Bau neuer Wohnhäuser in
 diesem Gebiet und erhielt am 5. Oktober 1928 ihren Namen nach der kleinen Gemeinde Borthen, welche vor allem durch den Obstanbau bekannt ist. Zuvor wurde die Straße als Planstraße 19 bezeichnet.
 
-![](../../../ost/seidnitz/strassen_seidnitz/breitenauer_stra_e.jpg)
+## Breitenauer Straße
 
 Die Breitenauer Straße entstand in den 1970er Jahren beim Bau des neuen Wohngebietes an der Marienberger Straße. Am 12.
 Januar 1977 wurde sie nach kleinen Ort Breitenau, heute ein Ortsteil von Bad Gottleuba-Berggießhübel, benannt.
@@ -82,12 +82,12 @@ Januar 1977 wurde sie nach kleinen Ort Breitenau, heute ein Ortsteil von Bad Got
 
 Die Dittersdorfer Straße entstand Ende der 1970er Jahre im Zusammenhang mit dem Neubaugebiet an der Löwenhainer Straße. Am 2. August 1979 erhielt sie ihren Namen nach dem Ort Dittersdorf im Osterzgebirge, heute Ortsteil von Glashütte. Ein Teil der hier befindlichen Plattenbauten wurde 2012 abgetragen.
 
-![](../../../ost/seidnitz/strassen_seidnitz/dobritzer_stra_e.jpg)
+## Dobritzer Straße
 
 Die heutige Dobritzer Straße geht auf einen alten Verbindungsweg zwischen Seidnitz und dem nahegelegenen Dorf Großdobritz
 zurück. Um 1885 erhielt er offiziell den Namen Dobritzer Straße.
 
-![enderstraße](a_rectangle_821.gif)
+## Enderstraße
 
 Die Enderstraße verdankt ihren Namen dem Stifter und Mäzen Karl Ender (1840-1914), der Anfang des 20. Jahrhunderts in
 Neukirch/Oberlausitz ein Erholungsheim für bedürftige Dresdner Bürger einrichtete. Die Finanzierung des Hauses erfolgte mit
@@ -95,13 +95,13 @@ Hilfe der von Ender begründeten und nach seiner Frau benannten Elisabethstiftun
 amtlich ihren Namen, der sich zunächst nur auf einen kurzen Abschnitt an der Bodenbacher Straße bezog. Später wurde sie bis
 zum Altenberger Platz verlägert. An der Enderstraße entstand nach der Wende das am 13. September 1994 eröffnete Seidnitz Center, größtes Einkaufszentrum im Osten der Stadt.
 
-![](../../../ost/seidnitz/strassen_seidnitz/gohrischstraße.jpg)
+## Gohrischstraße
 
 Die Gohrischstraße war in ihrem Verlauf bereits im Bebauungsplan von 1894 als Planstraße F verzeichnet, wurde jedoch erst Ende der Zwanziger Jahre ausgebaut und am 5. Oktober 1928 offiziell Bärensteiner Straße benannt. Allerdings war diese Straße nicht durchführend und blieb zwischen Frauensteiner Platz und Winterbergstraße unterbrochen. Hier gab es nur einen schmalen Fußweg, der nach 1945 eingezogen und seitdem namenlos blieb.
 
 Da die zweigeteilte Straßenführung zu Problemen für ortsunkundige Besucher führte, entschloss man sich in den 1970er Jahren, den an der Winterbergstraße gelegenen Abschnitt in Gohrischstraße umzubenennen. Namensgeber war der Fels Gohrisch in der Nähe des gleichnamigen Kurortes bei Königstein in der Sächsischen Schweiz. Zugleich erhielt der kurze Abschnitt der Bärensteiner Straße nördlich der Bodenbacher Straße den Namen Rauensteinstraße.
 
-![hahnemannstraße](a_rectangle_1036.gif)
+## Hahnemannstraße
 
 Die Hahnemannstraße wurde in den 1930er Jahren als Planstraße 18b angelegt und erhielt am 19. Dezember 1934 den Namen Wilhelm-Wolf-Straße. Wilhelm Wolf war beim Putschversuch am 9. November 1923 an der Feldherrenhalle in München gefallen und galt in der Nazizeit als "Vorkämpfer des Nationalsozialismus". Ursprünglich war geplant, diese Straße von der Paracelsusstraße bis zur Suttnerstraße durchzuführen. Letztlich blieb es jedoch bei der bis heute existierenden kurzen Sackgasse, die seit dem 24. Juli 1945 Hahnemannstraße heißt. Samuel Hahnemann (1755-1843) war Arzt und Naturheilkundler und gilt als Vater der Homöopathie.
 
@@ -125,7 +125,7 @@ Die Straße Im Stillen Winkel entstand beim Bau der Wohnsiedlung der Heimstätte
 
 Ende der 1970er Jahre wurde zwischen Marienberger und Altenberger Straße ein weiteres Neubaugebiet abgelegt. In diesem Zusammenhang entstanden mehrere neue Straßen, darunter auch der Johnsbacher Weg. Auf Beschluss des Stadtrates erhielt er am 2. August 1979 seinen Namen nach dem Ort Johnsbach im Osterzgebirge, heute ein Stadtteil von Glashütte. 2012 wurden die Plattenbauten an der Straße (Nr. 1-11, 22-26) abgetragen, so dass der Johnsbacher Weg heute ohne Bebauung ist.
 
-![marienberger straße](a_rectangle_1037.gif)
+## Marienberger Straße
 
 Die Marienberger Straße geht auf einen früheren Verbindungsweg zwischen Seidnitz und Tolkewitz zurück. Ursprünglich wurde
 sie deshalb auf Seidnitzer Flur Tolkewitzer Straße, auf Tolkewitzer Flur Seidnitzer bzw. Hosterwitzer Straße genannt. Der südliche Teil in der Nähe des Dorfplatzes Altseidnitz trug bis zur Eingemeindung
@@ -138,30 +138,30 @@ zwei neue Schulen für dieses Wohngebiet.
 Nr. 86: Das um 1905 erbaute repräsentative Verwaltungsgebäude mit seiner halbrunden Eckfassade zur Toeplerstraße war bis
 zur Eingemeindung Domizil des Tolkewitzer Gemeindeamtes. Danach diente es u.a. als Polizeidienststelle, Sparkassenfiliale und Polizeirevier. An der Fassade ist ein interessanter Relieffries Mädchenreigen zu sehen.
 
-![oskar-röder-straße](a_rectangle_1639.gif)
+## Oskar-Röder-Straße
 
 Die Oskar-Röder-Straße bildet den nördlichen Abschnitt der Rennplatzstraße, welche Seidnitz mit dem Bahnhof Reick
 verbindet. 1956 wurde dieser Teil zwischen Pferderennbahn und Pferdeausstellungsplatz anlässlich der Einweihung einer neuen
 Tierklinik in Oskar-Röder-Straße umbenannt. Professor Dr. med. vet. Dr. sc. nat. Oskar Röder (1862-1954) war viele Jahre Leiter der Klinik für große Haustiere an der Tierärztlichen Hochschule in Dresden.
 
-![paracelsusstraße](a_rectangle_1218.gif)
+## Paracelsusstraße
 
 Die Paracelsusstraße wurde im Zusammenhang mit dem Bau einer kleinen Wohnsiedlung 1935 angelegt. Ihren Namen erhielt
 sie nach dem Arzt und Naturforscher Theophrastus Bombastus von Hohenheim (1493-1541), der sich selbst den Namen Paracelsus gab. Paracelsus gilt als Wegbereiter der modernen Medizin und nutzte erstmals chemische Heilmittel.
 
-![prof.-ricker-straße](a_rectangle_1038.gif)
+## Prof.-Ricker-Straße
 
 Die ringförmig angelegte Prof.-Ricker-Straße in Seidnitz erhielt in den Zwanziger Jahren zunächst den Namen Auerstraße nach
 dem sozialdemokratischen Politiker Ignaz Auer (1846-1907). 1933 wurde sie von den Nazis in Kurt-Neubauer- Straße umbenannt, eine Namensgebung, die man 1945 wieder rückgängig machte . Der heutige Name Prof.-Ricker- Straße erinnert
 an den Magdeburger Arzt und Pathologen Professor Gustav Ricker (1870-1948). 1928 errichtete der Dobritzer Spar- und Bauverein hier nach Plänen von Max Herfurth eine kleine Wohnanlage.
 
-![rennplatzstraße](a_rectangle_1039.gif)
+## Rennplatzstraße
 
 ![](../../../ost/seidnitz/strassen_seidnitz/seidnitzrennplatzstr.jpg)Die Rennplatzstraße wurde im Zusammenhang mit dem Bau der Seidnitzer [Pferderennbahn](../../../ost/seidnitz/pferderennbahn/) als Zufahrt angelegt. Ursprünglich wurde sie nach dem ersten Vorsitzenden des Dresdner
 Rennvereins Treskowstraße genannt, später jedoch umbenannt. Nach dem Ersten Weltkrieg entstand an der Rennplatz- /Winterbergstraße eine große Schleife der
 Straßenbahn, um an den Renntagen die Schaulustigen zur Rennbahn befördern zu können. Am südlichen Ende der Straße befinden sich die 1894/95 errichteten Gebäude für die Dresdner Pferdeausstellungen. Die Wohngebäude an der Straße _(Foto)_ wurden in den 1920er Jahren errichtet.
 
-![winterbergstraße](a_rectangle_1041.gif)
+## Winterbergstraße
 
 ![](../../../ost/seidnitz/strassen_seidnitz/seidnitzwinterbergstr.jpg)Die Winterbergstraße bildet die Verlängerung der Hauptallee des Großen Gartens und durchquert dabei die Fluren von Gruna und Seidnitz. Die alleeartige Straße wurde kurz nach 1900 mit zwei getrennten Fahrbahnen, Fuß- und Reitwegen angelegt und sollte eine bequeme Verbindung zwischen dem Park und der Seidnitzer Rennbahn schaffen. Bis zur Eingemeindung von Seidnitz wurde sie in diesem Abschnitt Große-Garten-Straße genannt. Ihren heutigen Namen erhielt sie nach dem mit 552 m höchsten Berg der Sächsischen Schweiz, dem Großen Winterberg in der Nähe von Bad Schandau. Die ersten Gebäude an der Winterbergstraße entstanden bereits um 1900, weitere Wohnhäuser auf Grunaer und Seidnitzer Flur folgten in den Zwanziger Jahren bzw. nach dem Zweiten Weltkrieg.
 

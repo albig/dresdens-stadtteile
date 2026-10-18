@@ -9,11 +9,11 @@ date: 2024-02-17T22:13:42+01:00
 
 ![](../../../sud/plauen/auferstehungskirche/plauenkirche6.jpg)
 
-![ev.-luth. auferstehungskirche pfarramt reckestraße 6 01187 dresden tel. 0351/4717249](../../../sud/plauen/auferstehungskirche/a_rectangle_645.gif)
+Ev.-luth. auferstehungskirche pfarramt reckestraße 6 01187 dresden tel. 0351/4717249
 
 * * *
 
-![innerer plauenscher friedhof reckestraße 8  äußerer plauenscher friedhof bernhardstr. 141  verwaltung: bernhardstr. 141 01187 dresden tel. 0351/4010683](../../../sud/plauen/auferstehungskirche/a_rectangle_646.gif)
+Innerer plauenscher friedhof reckestraße 8  äußerer plauenscher friedhof bernhardstr. 141  verwaltung: bernhardstr. 141 01187 dresden tel. 0351/4010683
 
 
 ![](../../../sud/plauen/auferstehungskirche/plauenkirchealt.jpg)Die erste Plauener Kirche entstand wahrscheinlich bereits Mitte des 13 Jahrhunderts, da schon 1296 erstmals ein Pfarrer zu Plawen genannt wurde. Sie unterstand ursprünglich dem Kloster Altzella, später dem Nonnenkloster Seußlitz und wurde 1429 während der Hussitenkriege zerstört. 1466 erfolgte ein Neubau mit einem neuen Turm. Am 14. März 1467 wurde dieser Bau durch den Meißner Bischof dem Heiligen Michael geweiht. Erweiterungen des Gotteshauses sind für 1617 und 1700 verbürgt. Die erste Orgel der Kirche wird im Jahr 1491 genannt und soll der Überlieferung nach aus der alten Kreuzkirche gestammt haben.

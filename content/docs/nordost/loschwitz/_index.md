@@ -22,9 +22,9 @@ date: 2024-02-17T22:13:33+01:00
 
 **Schulen in Loschwitz:**
 
-[![62. grundschule ](../../nordost/loschwitz/a_rectangle_1985.gif)](http://www.sn.schule.de/~gs62dd/)
+## [62. Grundschule](http://www.sn.schule.de/~gs62dd/)
 
-[![schillerschule dresden-loschwitz  62. oberschule](../../nordost/loschwitz/a_rectangle_1984.gif)](http://www.schiller-schule-dresden.de)
+[Schillerschule dresden-loschwitz  62. oberschule](http://www.schiller-schule-dresden.de)
 
 
 ![](../../nordost/loschwitz/loschw5.jpg)Die Gemeinde Loschwitz entwickelte sich aus einem Rundweiler unmittelbar am Elbufer und
@@ -216,7 +216,7 @@ Hier fanden die Schiffe, vor allem Raddampfer und Landungsbrücken in den Winter
 einem Ausbau zwischen 1892 und 1893 fanden hier bis zu 20 Dampfschiffe und 50 Brücken untergebracht werden. Der Loschwitzer Hafen unterhalb des Blauen wunders dient bis heute seinem Zweck und wird vor allem von privaten
 Sportbooten und Yachten genutzt.
 
-[![loschwitzer straßen](../../nordost/loschwitz/a_rectangle_1234.gif)](../../nordost/loschwitz/strassen_loschwitz/)
+## [Loschwitzer Straßen](../../nordost/loschwitz/strassen_loschwitz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

@@ -33,7 +33,7 @@ Kulturhaus des VEB Pentacon: Das Gebäude an der Schandauer Straße 64 war vor 1
 
 2008 begann der Umbau des Filmtheaters, wofür das alte Hauptgebäude, zuletzt als "Altenberger Hof" gastronomisch genutzt, zugunsten eines modernen Neubaus abgerissen wurde. Der nach Plänen des Dresdner Architektenbüros Code Unique entworfene Bau beherbergt vier zusätzliche Kinosäle mit insgesamt 324 Plätzen und wurde im April 2009 eröffnet. Die neuen Säle tragen die Namen ehemaliger Dresdner Filmtheater und erinnern somit zugleich an ein Stück Kinogeschichte der Stadt.
 
-[![](../../../../ost/striesen/strassen_striesen/schandauer_strasse/programmkino_ost.jpg)](http://www.programmkino-ost.de)
+## [Programmkino Ost](http://www.programmkino-ost.de)
 
 ![](../../../../ost/striesen/strassen_striesen/schandauer_strasse/hüttigwerbung1.jpg)Firma Hüttig & Sohn Kamerawerk: Das Unternehmen wurde 1862 in Berlin von Franz Richard Hüttig als Werkstatt zum Nachbau von englischen und französischen Kameras gegründet und siedelte 1887 nach Dresden um. Zunächst befanden sich die Produktionsräume auf der Chemnitzer Straße in Plauen. Nach dem Einstieg von Hüttigs Sohn Carl Richard verlegte die Firma ihren Sitz auf die Elisenstraße in die Johannstadt und firmierte nun als Kunsttischlerei photographischer Apparate Richard Hüttig & Sohn.
 

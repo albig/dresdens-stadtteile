@@ -81,7 +81,7 @@ erhaltene Gebäude wird heute als Kindergarten Gompitzer Spatzennest genutzt
 Das Gemeindeamt für Gompitz und seine Ortsteile entstand 1994 an der Altnossener Straße in Pennrich und beherbergte bis zur Eingemeindung die Verwaltung des Ortes. Außerdem entstanden ein Gemeindesaal sowie ein
 Depot der Freiwilligen Feuerwehr. Ursprünglich gehörte das Grundstück zum sogenannten Postgut. Heute hat hier die Ortschaftsverwaltung Gompitz ihren Sitz. Vor dem Haus wurde eine historische Wasserpumpe aufgestellt.
 
-[![pennricher straßen](../../../sudwest/gompitz/pennrich/a_rectangle_1960.gif)](../../../sudwest/gompitz/pennrich/strassen_gompitz/)
+## [Pennricher Straßen](../../../sudwest/gompitz/pennrich/strassen_gompitz/)
 
 [_Weiterführende Literatur und Quellen_](../../../impressum/quellenverzeichnis/)
 

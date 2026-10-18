@@ -92,7 +92,7 @@ wurde 1956 als erster Dresdner Schulneubau der Nachkriegszeit errichtet und am 1
 
 Im Zuge der Umstrukturierung der Dresdner Schullandschaft nach 1990 wandelte man die Schule zum Gymnasium Dresden-Südvorstadt um. 1993 bekam dieses den Namen des verdienstvollen Denkmalpflegers Fritz Löffler, wurde jedoch im Sommer 2007 geschlossen und im Anschluss als Interimsquartier des Vitzthum-Gymnasiums genutzt. Die seit 1999 unter Denkmalschutz stehenden Gebäude sollen ab 2016 saniert und um moderne Erweiterungsbauten ergänzt werden. Außerdem ist der Bau einer neuen Vierfeldsporthalle geplant. Künftiger Nutzer wird das Gymnasium Süd-West. Die Brunnenplastik Junge Naturforscher vor dem Schulgebäude stammt von Walter Reinhold.
 
-[![straßen in der südvorstadt](../../zentrum/sudvorstadt/a_rectangle_1114.gif)](../../zentrum/sudvorstadt/strassen_sudvorstadt/)
+## [Straßen in der Südvorstadt](../../zentrum/sudvorstadt/strassen_sudvorstadt/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

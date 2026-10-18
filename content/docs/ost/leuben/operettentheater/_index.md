@@ -7,7 +7,7 @@ date: 2024-02-17T22:13:38+01:00
 
 **Homepage der Staatsoperette:**
 
-[![](../../../ost/leuben/operettentheater/operette.jpg)](http://www.operettentheater-dresden.de)
+## [Operette](http://www.operettentheater-dresden.de)
 
 ![](../../../ost/leuben/operettentheater/adresse_operette.jpg)
 

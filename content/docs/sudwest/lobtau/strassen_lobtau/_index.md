@@ -151,9 +151,9 @@ Die frühere Nostitzstraße, am 25. Februar 1891 benannt nach dem Politiker und 
 Nostitz-Wallwitz (1826-1906), erhielt 1956 den Namen Clara-Viebig-Straße. Clara Viebig (1860-1952) gehört zu den bedeutendsten
 deutschen Erzählerinnen und schuf mehrere Romane und Novellen, darunter ihr bekanntestes Werk Das Kreuz im Venn. Das Dstraßenbild prägen überwiegend mehrgeschossige Wohnhäuser der Gründerzeit. Im Eckhaus zum Bonhoefferplatz (Nr. 12) befand sich vor dem Ersten Weltkrieg das Restaurant Sachsenhof.
 
-[![](../../../sudwest/lobtau/strassen_lobtau/clara-zetkin-stra_e.jpg)](../../../sudwest/lobtau/strassen_lobtau/clara-zetkin-strasse/)
+## [Clara-Zetkin-Straße](../../../sudwest/lobtau/strassen_lobtau/clara-zetkin-strasse/)
 
-![columbusstraße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_539.gif)
+## Columbusstraße
 
 Die Straße, welche parallel zum Weißeritzufer führt, wurde am 19. November 1892 nach dem Seefahrer und Entdecker
 Amerikas Christoph Kolumbus (1446-1506) benannt. Das Straßenbild prägen vorrangig Mehrfamilienhäuser, von denen jedoch einige den Luftangriffen 1945 zum Opfer fielen. Unter Denkmalschutz stehen die Gebäude Nr. 8, 9 und 11.
@@ -167,7 +167,7 @@ Wohnprojekt Praxis und Neonazis kam. Heute dient das Haus Wohnzwecken.
 
 
 
-![conertplatz](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_538.gif)
+## Conertplatz
 
 Der um 1895 angelegte Platz erhielt zunächst zu Ehren des sächsischen Kronprinzen Friedrich August (1865-1932) den Namen Friedrich-August-Platz. Um Verwechslungen zu vermeiden,
 benannte man ihn 1907 in Kronprinzenplatz um. Die Platzanlage wurde gärtnerisch gestaltet und erhielt eine kleine Brunnenanlage in Form eines stilisierten Blattes. Als
@@ -192,7 +192,7 @@ Wiederherstellung des Bärenbrunnens in Betracht gezogen. 2009/10 entstanden auf
 
 **_Fotos:_** _Der Conertplatz im Jahr 2010_
 
-![delbrückstraße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_537.gif)
+## Delbrückstraße
 
 Die Delbrückstraße entstand um 1890 im Zusammenhang mit der Anlage des Crispiplatzes und wurde am 25. Februar 1891 nach dem deutschen Reichskanzler Otto von Bismarck zunächst Bismarckstraße benannt. 1904
 erfolgte die Umbenennung nach Rudolf von Delbrück (1817-1903), einem Bismarck-Mitarbeiter und Leiter des Reichskanzleramtes. 1962 hieß die
@@ -206,7 +206,7 @@ sich mit dem Restaurant zur alten Pulvermühle im Eckhaus zur Hohenzollernst
 gegenüberliegende Freifläche zwischen Delbrückstraße, Hohenzollernstraße und Crispiplatz (Ebertplatz) mit einer Wohnanlage bebauen. Die Entwürfe stammten vom Architektenbüro
 Schilling & Gräbner. Heute befindet sich hier eine Grünfläche.
 
-![deubener straße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_536.gif)
+## Deubener Straße
 
 ![](../../../sudwest/lobtau/strassen_lobtau/l_btaudeubenerstr.jpg)
 Die Deubener Straße wurde 1892 am Rand des Löbtauer Friedhofs angelegt und am 16. November nach der Gemeinde Deuben, seit 1921 Stadtteil von Freital, benannt. Das Straßenbild prägen vor allem Wohnhäuser der Gründerzeit _(Foto um 1910)_. In einem dieser Gebäude (Nr. 5) befand sich früher die Gaststätte Deubener Hof. Im Haus Nr. 25 gab es einst das Kurbad Löbtau, seit 1958 als Außenstelle der
@@ -221,7 +221,7 @@ Freiberger Straße 6 gegründet, jedoch bereits 1903 zur Deubener Straße 33 (ab
 eigene Kameras. Der Familienbetrieb beschäftigte nur ca. 20 Mitarbeiter und brachte bis zur Einstellung der zivilen Produktion 1940 unter dem Markennamen Zeca mehrere Kameramodelle
 auf den Markt. Während des Zweiten Weltkriegs wurden auch hier Rüstungsgüter produziert. Die Firmengeschichte endete 1948 mit der Schließung des Werkes.
 
-![](../../../sudwest/lobtau/strassen_lobtau/d_hlener_stra_e.jpg)
+## Döhlener Straße
 
 ![](../../../sudwest/lobtau/strassen_lobtau/dorn_seifenfabrik.jpg)
 Die Döhlener Straße wurde Ende des 19. Jahrhunderts bei der Projektierung der neuen Wohnviertel südlich der Kesselsdorfer Straße projektiert und sollte ursprünglich von dieser
@@ -231,7 +231,7 @@ Zu dieser Zeit entstanden hier Wohnhäuser, von denen die Gebäude Nr. 25 und 27
 Seifenfabrik Wilhelm Dorn im Hintergebäude von Nr. 31. Hergestellt wurden hier Seifen und Reinigungsmittel, u.a. Dorns Salmiak-Terpentin-Seifenpulver. Die gewerbliche Nutzung eines
 Grundstücks führte auch dazu, dass eine durchgehende Straßenführung nicht mehr möglich war. Der nördliche Abschnitt wurde deshalb der Gröbelstraße zugeschlagen, das südliche Reststück besteht bis heute als Sackgasse.
 
-![dölzschener straße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_535.gif)
+## Dölzschener Straße
 
 ![](../../../sudwest/lobtau/strassen_lobtau/l_btaud_lzschenerstr.jpg)Die Ende des 19. Jahrhunderts angelegte Dölzschener Straße erhielt ihren Namen am 9.
 Februar 1887 nach dem nahegelegenen Ort Dölzschen, welcher erst seit 1945 zu Dresden gehört. Zuvor war sie Teil eines alten Verbindungsweges zwischen Dölzschen,
@@ -241,15 +241,15 @@ wurde 1912-14 durch die Eisenbahner - Baugenossenschaft errichtet und stellt ein
 Unweit davon befinden sich die Johann-Meyer-Häuser (Nr. 17-23), welche 1911 von Hans Erlwein entworfen wurden und in den Anfangsjahren kinderreichen Familien vorbehalten waren. Beide Wohnkomplexe wurden nach 1990 denkmalgerecht
 saniert. Im Haus Nr. 49 wohnte während seiner Dresdner Zeit der Maler und Zeichner Walter Eberhard Loch (1885-1979), der u.a. im Tanzstudio von Mary Wigman tätig war.
 
-[![ebertplatz](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_534.gif)](../../../sudwest/lobtau/strassen_lobtau/ebertplatz/)
+## [Ebertplatz](../../../sudwest/lobtau/strassen_lobtau/ebertplatz/)
 
-![eichendorffstraße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_533.gif)
+## Eichendorffstraße
 
 Die durch ehemaliges Gärtnereigelände führende Straße trug ab 1876 den Namen Gartenstraße. Später entstanden auch hier
 Wohngebäude und kleine Gewerbebetriebe. 1903 erfolgte die Umbenennung nach dem Dichter Joseph von Eichendorff (1788-1857) in Eichendorffstraße. Im Eckhaus zur Columbusstraße (Nr. 1) befand sich früher das Restaurant 
 Wartburg.
 
-![emil-ueberall-straße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_532.gif)
+## Emil-Ueberall-Straße
 
 ![](../../../sudwest/lobtau/strassen_lobtau/l_btauherbertstr.jpg)
 Der Name Emil-Ueberall-Straße erinnert seit 1993 an den Vermesser Emil Ueberall (1848-1936), der in Dresden als selbstständiger Landmesser tätig war und 1921
@@ -271,11 +271,11 @@ Alexander Leuschner. Leuschner betrieb das private Wannenbad im Erdgeschoss und 
 Hygiene unentbehrlich. Als eine der letzten Einrichtungen dieser Art existierte noch bis 1994 am Badweg das Volksbad
 Löbtau. Das Alexanderbad wurde hingegen vermutlich bereits in den 1920er Jahren geschlossen. Danach nutzte die  Allgemeine Ortskrankenkasse die Räumlichkeiten.
 
-![](../../../sudwest/lobtau/strassen_lobtau/essener_stra_e.jpg)
+## Essener Straße
 
 ![](../../../sudwest/lobtau/strassen_lobtau/l_btauessenerstr.jpg) Die heutige Essener Straße wurde 1901 im Süden von Löbtau angelegt und hieß zunächst Gorbitzer Straße. Da es nach der Eingemeindung Löbtaus jedoch bereits eine Gorbitzer Straße in Dresden gab, erfolgte 1904 die Umbenennung in Essener Straße, benannt nach der Industriestadt Essen im Ruhrgebiet. Das Straßenbild prägen vor allem freistehende Würfelhäuser, welche zum Teil unter Denkmalschutz stehen (Nr. 10 und 12). Nach dem Ersten Weltkrieg entstanden zwischen Malter- und Deubener Straße drei- und viergeschossige Wohnblocks für die Eisenbahner-Baugenossenschaft Dresden e.G.m.b.H. sowie an der Einmündung zur Langen Straße für die Wohnungsbaugenossenschaft des Dresdner Handwerks e.G.m.b.H. Architekt dieser Häuser (Nr. 11-19 und 14-22) war Curt Herfurth.
 
-![frankenbergstraße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_1822.gif)
+## Frankenbergstraße
 
 Die im südlichen Teil von Löbtau gelegene Frankenbergstraße wurde am 28. Dezember 1892 nach einem von ihr durchschnittenen Flurstück bezeichnet. Wenig später entstanden
 im unteren Bereich die ersten Mehrfamilienhäuser. Neben Wohnhäusern und kleinen Gewerbebetrieben gab es im Eckhaus zur Reisewitzer Straße (Nr. 14) bereits vor dem Ersten
@@ -286,7 +286,7 @@ Architekten Curt Herfurth verpflichtete. Herfurth entwarf  1919-1921 zunächst 
 . 1926 folgten die Gebäude Frankenberger Straße 52-58. Im gleichen Jahr entstand als Abschluss des Wohnviertels am Ende der Straße ein Genossenschaftsheim (Nr. 60). Später befand sich hier die Gaststätte Am Frankenberg.
 Heute wird das Gebäude gewerblich genutzt. Das anschließende Gelände gehört zur Kleingartensparte Frankenberg e. V..
 
-![](../../../sudwest/lobtau/strassen_lobtau/frankfurter_stra_e.jpg)
+## Frankfurter Straße
 
 Die heutige Frankfurter Straße wurde im Jahr 1896 angelegt und hieß zunächst Potschappler Straße. Grund für diese
 Namensgebung war ihre Ausrichtung nach dem nahegelegenen Ort Potschappel, der sich 1921 mit weiteren Gemeinden zur Stadt Freital vereinigte. Wenig später entstanden hier Mehrfamilienhäuser in offener Bauweise. 1938 erfolgte die
@@ -295,17 +295,17 @@ dieser Benennung an einen nach dem  Putschversuch in Östereich 1934 hingericht
 Bewegung erinnert werden. Franz Holzweber war SS-Standartenführer und war am Attentat auf Bundeskanzler Engelbert Dollfuß beteiligt. 1945 erhielt die Straße ihren heutigen Namen nach der hessischen Großstadt Frankfurt am Main.
 
 
-[![freiberger straße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_525.gif)](../../../zentrum/wilsdruffer_vorstadt/freiberger_strasse/)
+## [Freiberger Straße](../../../zentrum/wilsdruffer_vorstadt/freiberger_strasse/)
 
-![fritz-schulze-straße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_530.gif)
+## Fritz-Schulze-Straße
 
 ![](../../../sudwest/lobtau/strassen_lobtau/l_btschulzestr.jpg)Die heutige Fritz-Schulze-Straße wurde 1896 angelegt und bis 1938 nach der österreichischen Regentenfamilie Habsburgerstraße genannt. 1878 hatte der Plauener Mühlenbesitzer Bienert hier ein kleines [Gaswerk](../../../sud/plauen/) errichtet, welches bis 1920 produzierte und anschließend abgerissen wurde. 1938 erhielt die Straße nach dem von den Nazis als Märtyrer verehrten Otto Planetta (1899-1934) den Namen Planettastraße. Planetta hatte als Angehöriger der SS bei einem Putschversuch 1934 den österreichischen Bundeskanzer Dollfuß erschossen und wurde wegen seines Attentats hingerichtet.
 
 Bereits 1945 wurde diese Namensgebung aufgehoben und durch den Namen Fritz-Schulze-Straße ersetzt. Fritz Schulze (1903-1942) gehörte zu den Mitbegründern der revolutionären Künstlergruppe ASSO und war ab 1930 Mitglied der KPD. Gemeinsam mit seiner Frau, der Malerin Eva Schulze-Knabe, war er im Widerstandskampf gegen die Nazis tätig. 1941 wurde Fritz Schulze mit einigen Mitstreitern verhaftet und 1942 in Berlin-Plötzensee hingerichtet. Das Straßenbild dominieren mehrstöckige Wohnhäuser, darunter die im Bild zu sehende denkmalgeschützte Wohnanlage Fritz-Schulze-Straße 11-15.
 
-[![](../../../gohliser_stra_e.jpg)](../../../sudwest/lobtau/strassen_lobtau/gohliser_strasse/)
+## [Gohliser Straße](../../../sudwest/lobtau/strassen_lobtau/gohliser_strasse/)
 
-![](../../../sudwest/lobtau/strassen_lobtau/grillenburger_stra_e.jpg)
+## Grillenburger Straße
 
 Die Grillenburger Straße entstand Ende des 19. Jahrhunderts im Zuge der Bebauung der Flächen südlich der Landstraße nach Freiberg. Ursprünglich wurde sie ab 1898 Kesselsdorfer Straße genannt (die heutige Kesselsdorfer Straße hieß damals Wilsdruffer Straße). Der auf Naußlitzer Flur gelegene Abschnitt trug ab 1897 den Namen Schulstraße, da sich hier das alte Naußlitzer Schulhaus befand. Nach der Eingemeindung der Vorstädte wurden 1904 beide Straßenabschnitte vereinigt und in Grillenburger Straße umbenannt. Namensgeber war die kleine Siedlung Grillenburg bei Tharandt.
 
@@ -313,7 +313,7 @@ Um 1900 entstanden an der Grillenburger Straße die ersten Gebäude, zu denen u.
 
 
 
-![gröbelstraße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_529.gif)
+## Gröbelstraße
 
 ![](../../../sudwest/lobtau/strassen_lobtau/l_btaugr_belstr1.jpg)Die Gröbelstraße wurde 1904 nach Christian Ernst August Gröbel (1783-1854) benannt, der 32 Jahre lang das Amt des Rektors der Dresdner Kreuzschule innehatte. Bis zur Zerstörung 1945 stand hier in der Nähe der Friedenskirche das Gebäude der [38\. Volksschule](../../../sudwest/lobtau/). Aus diesem Grund wurde die Gröbelstraße ab 1878 bis zur Eingemeindung Schulstraße genannt. Zuvor gab es in diesem Gebiet einige Tümpel und Teiche, weshalb das Flurstück umgangssprachlich den Namen Am Teiche trug. Im Erdgeschoss des heute nicht mehr vorhandenen Wohnhauses Nr. 9 existierte vor dem Zweiten Weltkrieg die Gaststätte "Reichskeller".
 
@@ -327,25 +327,25 @@ Lampenfabrik Seifert:
 
 ![](../../../sudwest/lobtau/strassen_lobtau/l_btaugr_belstr.jpg)Um 1925 übernahm die Dresdner Präzisionswerkzeugfabrik G.m.b.H das Gelände. Weitere Mieter waren die Werka Werkzeug- und Apparate-Bau A.-G. und eine Spezialfirme für Hochspannungsapparate. Bis zum Kriegsende gab es in den 1940er Jahren eine Kokillengießerei und eine Autolackierei. Zwischen 1954 und 1991 wurde das Gelände von der Kältetechnikfirma ILKA genutzt. 2004/96 erfolgte schließlich der Abbruch der stark verfallenen Fabrikhallen. Lediglich der unter Denkmalschutz stehende Kopfbau mit dem Mustersaal blieb erhalten und wurde 2008 in den Neubau der [Löbtau-Passage](../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/) einbezogen _(Foto)_. Heute befindet sich hier eine Arztpraxis.
 
-![](../../../sudwest/lobtau/strassen_lobtau/grumbacher_stra_e.jpg)
+## Grumbacher Straße
 
 Die nach 1890 in der Nähe des heutigen Conertplatzes angelegte Straße wurde ab 1894 zunächst Parkstraße genannt, womit dem parkartig gestalteten Gelände des damaligen Kronprinzenplatzes Reverenz erwiesen werden sollte. Um Verwechslungen mit der Parkstraße in der Innenstadt zu vermeiden, erfolgte nach der Eingemeindung 1904 die Umbenennung in Grumbacher Straße. Der Ort Grumbach gehört heute als Ortsteil zu Wilsdruff.
 
-![](../../../sudwest/lobtau/strassen_lobtau/hainsberger_straße.jpg)
+## Hainsberger Straße
 
 ![](../../../sudwest/lobtau/strassen_lobtau/löbtauhainsbergerstr.jpg)Die vom Bonhoefferplatz zur Tharandter Straße führende Hainsberger Straße wurde 1897 angelegt und nach dem Dorf Hainsberg, seit 1964 ein Stadtteil von Freital, benannt. Neben Wohnhäusern gab es hier auch einige meist in den Hintergebäuden untergebrachte Kleinunternehmen, wie die Sächsische Konservenfabrik Bernhard Richter (Nr. 3), die Biox AG (Nr. 5) und die erste Produktionsstätte der bekannten Schokoladenfabrik Hartwig & Vogel (Nr. 9, bis 1914). In der Nr. 22 befand sich von 1929 bis 1945 die Adventgemeinde.
 
 Markantestes Gebäude ist das spitzwinklige Eckhaus Nr. 17 an der Einmündung in die Tharandter Straße _(Foto)_. Eigentümer des Wohn- und Geschäftshauses war zunächst die Actienbrauerei zu Reisewitz, die hier ab ca. 1905 die Schankwirtschaft "Zur Hopfenblüte" betrieb. Später wechselte der Name des Lokals in "Zur Hopfenranke". Zu DDR-Zeiten befand sich in den Räumen eine Konsum-Fleischerei, nach 1990 ein Imbiss. Seit 2011 werden die Räume als Matratzengeschäft genutzt.
 
-![hermsdorfer straße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_528.gif)
+## Hermsdorfer Straße
 
 ![](../../../sudwest/lobtau/strassen_lobtau/löbtauvillafriedrichsruh.jpg)![](../../../sudwest/lobtau/strassen_lobtau/l_btauhermsdorfer16.jpg)Die Hermsdorfer Straße geht auf einen alten Fußweg zwischen dem Löbtauer Dorfplatz und dem benachbarten Wölfnitz zurück, welcher 1896 ausgebaut und Dorfstraße genannt wurde. Nach der Eingemeindung erfolgte 1904 die Umbenennung in Hermsdorfer Straße, wobei die Dörfer Nieder- und Oberhermsdorf (bei Kesselsdorf) Pate standen.
 
 Die Hermsdorfer Straße wurde kurz darauf mit Wohnhäusern bebaut, von denen die Häuser Nr. 5, 16 und 18 unter Denkmalschutz stehen. Hinzu kamen einige gewerbliche Unternehmen wie die von Paul Scholz gegründete Walzenmassefabrik und -gussanstalt auf der Hermsdorfer Straße 13. Nach 1945 befand sich hier bis zur Wende ein Zweigbetrieb des VEB Steppdeckenfabrik Waldenburg. Bemerkenswert ist die vom Architektenbüro Schilling & Gräbner entworfene Villa Nr. 16 im Jugendstil _(Foto)_. Das Landhaus gehörte einst dem Löbtauer Gemeindeältesten Gustav Rudolf Friedrich. Später nutzte es die Stadt Dresden als Betreuungsstelle des Vereins für Mütter- und Säuglingsfürsorge und als Stadtwohlfahrtsamt. Nach 1945 befand sich hier bis 1991 ein Kindergarten mit Schulhort.
 
-[![kesselsdorfer straße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_526.gif)](../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/)
+## [Kesselsdorfer Straße](../../../sudwest/lobtau/strassen_lobtau/kesselsdorfer_strasse/)
 
-![klingestraße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_524.gif)
+## Klingestraße
 
 Die Klingestraße erhielt ihren Namen 1899 nach dem Löbtauer Unternehmer Alfred Klinge (1846-1910), der eine
 Ledertreibriemenfabrik besaß und sich durch einige Stiftungen für das Gemeinwohl verdient machte. Hier befand sich bis zum Ersten Weltkrieg die Gemeindegärtnerei Löbtau, welche später der zunehmenden Bebauung weichen musste.
@@ -361,7 +361,7 @@ Kunstausstellung. 1996 wurde die Siedlung unter Beachtung denkmalpflegerischer A
 
 **_Fotos:_** _Erlwein-Häuser an der Klingestraße mit liebevoll gestalteten Details_
 
-![](../../../sudwest/lobtau/strassen_lobtau/lange_stra_e.jpg)
+## Lange Straße
 
 Die Lange Straße entstand Ende des 19. Jahrhunderts zunächst als Verbindung zwischen Stollestraße, Kesselsdorfer und
 Saalhausener Straße und wurde 1898 wegen ihrer Länge so benannt. Im Zuge der Entstehung weiterer Wohnviertel erfolgten
@@ -369,7 +369,7 @@ Saalhausener Straße und wurde 1898 wegen ihrer Länge so benannt. Im Zuge der E
 zu seinem Tod 1977 der Maler und Zeichner Richard Bernhardt (1900-1977) auf der Langen Straße 29. Bernhardt, der
 beruflich bei der Stadtverwaltung tätig war, schuf in seiner Freizeit zahlreiche Aquarelle, Feder und Bleistiftzeichnungen von Dresden und seiner Umgebung.
 
-![leumerstraße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_523.gif)
+## Leumerstraße
 
 Die Leumerstraße wurde am 20. Februar 1894 nach dem Gärtnereibesitzer Karl Gottlieb Leumer (1813-1877) benannt, welcher so für seine Zuwendungen an die örtliche Schule und Kirchgemeinde geehrt werden sollte. Gemeinsam mit seiner Frau begründete er die Leumer-Stiftung, die alljährlich Weihnachtsgeschenke für bedürftige Kinder des Ortes finanzierte. Die meisten Wohnhäuser entstanden um 1900, einige Baulücken wurden nach 1990 geschlossen.
 
@@ -377,9 +377,9 @@ Die Leumerstraße wurde am 20. Februar 1894 nach dem Gärtnereibesitzer Karl Got
 
 **_Fotos:_** _Blick in die Leumerstraße / Ecke Bünaustraße um 1900 und 2015_
 
-[![löbtauer straße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_522.gif)](../../../sudwest/lobtau/strassen_lobtau/lobtauer_strasse/)
+## [Löbtauer Straße](../../../sudwest/lobtau/strassen_lobtau/lobtauer_strasse/)
 
-![löbtauer weg](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_521.gif)
+## Löbtauer Weg
 
 Der heute nicht mehr vorhandene Löbtauer Weg gehörte einst zu den wichtigsten örtlichen Verkehrsverbindungen und führte
 von der Freiberger Straße zur Weißeritz, die auf einem schmalen Holzsteg, dem sogenannten Schindersteg  überquert
@@ -388,7 +388,7 @@ erstmals als Lobetawer Weg erwähnt. 1549 ist er als Lobder Weg, später auch al
 Im Zuge der weitgehenden Bebauung der Löbtauer Fluren verschwand dieser alte Weg, dessen Verlauf heute kaum noch
 erkennbar ist. Bis 1879 befand sich an der Freiberger Straße die kurfürstliche, später königliche Ziegelei, weshalb dieser Wegabschnitt um 1845 auch als Ziegelsteig bezeichnet wurde.
 
-![lübecker straße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_520.gif)
+## Lübecker Straße
 
 Die heutige Lübecker Straße bestand bereits im 16. Jahrhundert als Verbindungsweg von Löbtau über Cotta nach Briesnitz.
 Die von den Bewohnern als Weg zur Kirche genutzte Straße trug deshalb auch den Namen Löbtauer Kirchweg. Später wurde
@@ -411,7 +411,7 @@ Auf diesem Grundstück befand sich einst die Städtische Abdeckerei, deren Wohn-
 
 
 
-![malterstraße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_519.gif)
+## Malterstraße
 
 ![](../../../sudwest/lobtau/strassen_lobtau/l_btaumalterstra_e.jpg)
 Die bis 1926 Südstraße genannte heutige Malterstraße erhielt ihren Namen nach dem kleinen Ort Malter bei Dippoldiswalde, welcher wegen seiner Talsperre bis heute ein
@@ -419,7 +419,7 @@ beliebtes Ausflugsziel ist. Bereits 1923 hatte der Löbtauer Sportverein Spiel
 Löbtauer Victoria nutzte zeitweise das Gelände. Die Anlage war bereits kurz nach Kriegsende 1945 Schauplatz einiger sportlicher Großveranstaltungen, darunter des ersten
 Nachkriegs-Fußballspiels in Dresden zwischen einer Auswahl von Dresden-Altstadt und Neustadt am 17. Juni 1945. 2005 wurde der Platz umfassend saniert.
 
-![mohorner straße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_518.gif)
+## Mohorner Straße
 
 ![](../../../sudwest/lobtau/strassen_lobtau/l_btaumohornerstr12.jpg)
 Die Ende des 19. Jahrhunderts im Süden von Löbtau angelegte Straße erhielt am 27. Juni 1893 nach dem preußischen Generalfeldmarschall Helmuth Graf von Moltke (1800-1891)
@@ -430,19 +430,19 @@ Joachim von Zieten (1699-1786) diente als Reitergeneral in der Armee Friedrich I
 Umbenennung in Mohorner Straße. Die Gemeinde Mohorn befindet sich in der Nähe von Wilsdruff im heutigen Landkreis Sächsische Schweiz - Osterzgebirge. Neben Wohnhäusern aus der Zeit vor dem Ersten Weltkrieg blieb an der Mohorner
 Straße 12 auch das Gebäude einer ehemaligen Glockengießerei erhalten. Hier ist seit 2009 ein Pflegeheim für Demenzkranke untergebracht _(Foto)_.
 
-![oederaner straße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_517.gif)
+## Oederaner Straße
 
 ![](../../../sudwest/lobtau/strassen_lobtau/löbtoederanerstr.jpg)Die parallel zur Bahnstrecke Dresden - Chemnitz verlaufende Straße wurde um 1884 nach dem Kauf einiger Grundstücke durch die Gemeinde Löbtau angelegt und trug ab 1889 den Namen Hohenzollernstraße. Mit der Namensgebung sollte das Fürstengeschlecht der Hohenzollern geehrt werden, aus welchem auch der regierende Kaiser Wilhelm II. entstammte. Ursprünglich gehörte dieses Areal zum kurfürstlichen Holzhof bzw. zum Grundstück der 1875 stillgelegten und 1945 zerstörten [Pulvermühle](../../../sudwest/lobtau/weisseritzmuhlgraben/). Ab 1890 wurde die Straße mit Mietshäusern bebaut. Hier befand sich in den Zwanziger Jahren auch die
 Städtische Desinfektionsanstalt. Die bereits 1945 nach der Kleinstadt Oederan bei Chemnitz in Oederaner Straße umbenannte Straße wurde 1960 durch die Anlage der Brücke der Jugend geteilt. Neben Wohnhäusern der Gründerzeit prägen heute auch die Bauten des [Kraftwerks Nossener Brücke](../../../sudwest/lobtau/kraftwerk_nossener_brücke/kraftwerk/) und dessen markanter Kühlturm das Straßenbild.
 
-![paschkystraße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_516.gif)
+## Paschkystraße
 
 ![](../../../sudwest/lobtau/strassen_lobtau/l_btpaschkystr.jpg)
 Die Paschkystraße an der Ortsgrenze zwischen Löbtau und Plauen erhielt ihren Namen 1926 nach dem Dresdner Fischhändler August Paschky (1850-1891). Der auch politisch engagierte Paschky genoss bei der Dresdner Bevölkerung durch seine preiswerten Angebote, die er in 15 Filialen in der ganzen Stadt an die Kundschaft brachte, hohes Ansehen. August Paschky war Mitglied im Arbeiterbildungsverein und im Sozialdemokratischen Arbeiterverein und wurde während der Zeit des Sozialistengesetzes zu einem Jahr Haft verurteilt. 1891 verstarb er mit nur 41 Jahren an den Folgen seiner Inhaftierung. Das Unternehmen wurde daraufhin von seiner Frau mit einigen Geschäftspartnern fortgesetzt und bestand noch bis 1945.
 
 1933 wurde die Paschkystraße in Pfordtenstraße umbenannt. Mit dieser Namensgebung sollte an den 1923 vor der Feldherrnhalle in München bei einem Putschversuch gefallenen Theodor von der Pfordten erinnert werden. Die Benennung wurde nach Ende der nationalsozialistischen Herrschaft wieder rückgängig gemacht. Bereits vor 1945 führte die Straße halbkreisförmig von der Tharandter bis zur Habsburgerstraße (heute Fritz-Schulze-Straße), wurde später jedoch unterbrochen. Im Zuge einer Bebauung der noch vorhandenen Freiflächen 2015 stellte man den ursprünglichen Verlauf wieder her.
 
-![poststraße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_515.gif)
+## Poststraße
 
 ![](../../../sudwest/lobtau/strassen_lobtau/l_btaupoststr.jpg)
 Die Poststraße wurde am 1. Dezember 1880 nach dem deutschen Dichter Heinrich Heine (1799-1856) benannt und erhielt ihren heutigen Namen erst 1893 nach dem hier an der Ecke zum Schillingplatz gelegenen
@@ -454,7 +454,7 @@ eingeschossiges Gebäude mit der beliebten Wohngebietsgaststätte Berolina. 
 
 
 
-![reisewitzer straße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_514.gif)
+## Reisewitzer Straße
 
 ![](../../../sudwest/lobtau/strassen_lobtau/l_btaureisewitzerstr.jpg)
 Die Reisewitzer Straße, die von Plauen bis zum Löbtauer Dorfkern führt, erhielt 1874 ihren Namen nach dem hier gelegenen Vorwerk Reisewitz, welches sich im 18. Jahrhundert im
@@ -464,12 +464,12 @@ Ab 1869 existierte hier bis 1931 die Aktienbrauerei Reisewitz, deren Gebäude no
 Im Gegensatz zu anderen Löbtauer Straßen war die Reisewitzer Straße ursprünglich als direkte Verbindung zwischen Plauenschem Grund und Elbe konzipiert und wurde deshalb auf 17 Meter Breite ausgebaut.
 Später verhinderte der Bau der Friedenskirche die vollständige Umsetzung des von Emil Ueberall entworfenen Konzepts, so dass die Straße heute vor der Kirche endet _(Foto um 1910)_.
 
-![saxoniastraße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_513.gif)
+## Saxoniastraße
 
 Die Saxoniastraße wurde nach 1890 angelegt und zunächst nach dem früher hier befindlichen [Kanonenbohrwerk](../../../sudwest/lobtau/weisseritzmuhlgraben/)
 benannt. 1897 erhielt sie den Namen Saxoniastraße, der auf die weibliche Allegoriegestalt Saxonia zurückgeht, die als Personifizierung und Schutzpatronin des Landes Sachsen gilt.
 
-![schillingplatz](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_512.gif)
+## Schillingplatz
 
 Der Schillingplatz und die anschließende Schillingstraße erhielten ihren Namen 1893 nach dem bedeutenden Bildhauer
 Johannes Schilling (1828-1910). Schilling wurde u. a. als Schöpfer der Figurengruppe an der Freitreppe zur Brühlschen Terrasse, des Semper- und Rietscheldenkmals in Dresden und des Goethe-Schiller-Denkmals in Weimar bekannt. 1883
@@ -477,7 +477,7 @@ erhielt er die Ehrenbürgerwürde von Dresden. Eine Plastik des Bildhauers wurde
 
 
 
-![stollestraße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_511.gif)
+## Stollestraße
 
 Die frühere Kirchstraße erhielt 1904 den Namen Stollestraße nach dem Schriftsteller und Verleger Ludwig Ferdinand Stolle
 (1806-1872). Stolle gab in Dresden das humoristisch-politische Blatt Der Dorfbarbier heraus und verfasste zahlreiche Romane mit meist historischem Inhalt.
@@ -486,16 +486,16 @@ Die frühere Kirchstraße erhielt 1904 den Namen Stollestraße nach dem Schrifts
 
 **_Fotos:_** _Blick in die Stollestraße um 1910 und die Ecke Stollestraße / Langestraße) im Winter 2006_
 
-[![tharandter straße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_510.gif)](../../../sudwest/lobtau/strassen_lobtau/tharandter_strasse/)
+## [Tharandter Straße](../../../sudwest/lobtau/strassen_lobtau/tharandter_strasse/)
 
-![waldheimer straße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_1818.gif)
+## Waldheimer Straße
 
 Die 1893 angelegte Straße erhielt nach ihrer Fertigstellung zunächst nach dem preußischen Generalfeldmarschall Albrecht Emil
 Theodor Graf von Roon (1803-1879) den Namen Roonstraße. Als Kriegsminister und enger Vertrauter Bismarcks leitete er
 den Umbau der preußischen Armee und verfasste zahlreiche militärgeografische Werke. Hier befand sich ab 1890 auch das gemeindeeigene [Löbtauer Gaswerk](../../../sudwest/lobtau/). 1946 wurde die Roonstraße nach der sächsischen Kleinstadt Waldheim in Waldheimer
 Straße umbenannt.
 
-![wernerstraße](../../../sudwest/lobtau/strassen_lobtau/a_rectangle_509.gif)
+## Wernerstraße
 
 ![](../../../sudwest/lobtau/strassen_lobtau/l_btauwernerstr_alt.jpg)
 Die Wernerstraße und der angrenzende Wernerplatz verdanken ihren Namen dem Mineralogen und Geologen Abraham Gottlob Werner (1749-1817). Werner gilt als
@@ -518,14 +518,14 @@ Ersten Weltkrieg für den Gemeinnützigen Bauverein Dresden. Auf einer Freifläc
 **_Fotos:_** _Häuser an der Einmündung Kesselsdorfer/Wernerstraße um 1900 (links) und kurz vor dem Abriss im_
 _September 2006. In dem Flachbau ganz links befand sich einst das beliebte Löbtauer Café Zum Frieden_.
 
-![](../../../sudwest/lobtau/strassen_lobtau/zauckeroder_stra_e.jpg)
+## Zauckeroder Straße
 
 Die Ende des 19. Jahrhunderts im Süden der Löbtauer Flur angelegte Straße wurde ab 1898 zunächst Coschützer Straße
 genannt. 1904 erfolgte die Umbenennung in Zauckeroder Straße. Zauckerode ist heute ein Ortsteil von Freital. Als erste
 Wohnhäuser entstanden um 1900 die Gebäude Zauckeroder Straße 1 bis 7. Bauherr war der Löbtauer Unternehmer Richard
 Riedrich, der seinen Firmen- und Wohnsitz auf der Zauckeroder Straße 1 hatte. 1926 folgte nach Entwürfen des Architekten Curt Herfurth die Wohnsiedlung Nr. 4-10.
 
-![](../../../sudwest/lobtau/strassen_lobtau/ziegelweg.jpg)
+## Ziegelweg
 
 Der heute nicht mehr vorhandene Ziegelweg führte einst von der Tharandter Straße zur Ziegelei Reisewitz. Im Zuge des
 Ausbaus des Stadtviertels und der Anlage der Reisewitzer Straße und der Frankenbergstraße wurde die Bezeichnung 1898 aufgehoben und der Feldweg wenig später überbaut.

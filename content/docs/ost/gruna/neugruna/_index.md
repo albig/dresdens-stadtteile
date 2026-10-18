@@ -9,6 +9,6 @@ An Stelle des heutigen Stadtteils Neugruna lag im Mittelalter das Dorf Praschüt
 
 ![](../../../ost/gruna/neugruna/neugruna.jpg)In offener Bauweise entstanden bis zur Jahrhundertwende mehrgeschossige Wohnhäuser, Villen und Landhäuser die im Anschluss an Arbeiterfamilien vermietet wurden _( **Foto rechts**: Ludwig-Hartmann-Straße)_. Bevorzugt waren diese in der Striesener Foto- und Zigarettenindustrie tätig. Die Verwaltung des neuen Stadtviertels übernahm der Altgrunaer Gemeinderat. Die Kinder besuchten zunächst die Blasewitzer Schule bzw. eine Schulstube im Haus Tauscherstraße 21 (heute Nr. 5), bevor 1876 ein eigenes [Schulhaus](../../../ost/gruna/) auf der Hofmannstraße eingeweiht werden konnte. Heute befindet sich auf diesem Grundstück der 1907/09 errichtete Neubau von Hans Erlwein (32. Grundschule).
 
-[![neugrunaer straßen](../../../ost/gruna/neugruna/a_rectangle_1009.gif)](../../../ost/gruna/strassen_gruna/)
+## [Neugrunaer Straßen](../../../ost/gruna/strassen_gruna/)
 
  \[ [Home](../../../index.html)\] \[ [Nord](../../../nord/)\] \[ [Nordwest](../../../nordwest/)\] \[ [Neustadt](../../../neustadt/)\] \[ [Nordost](../../../nordost/)\] \[ [West](../../../west/)\] \[ [Zentrum](../../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../../sud/)\] \[ [Südost](../../../sudost/)\] \[ [Ost](../../../ost/)\] \[ [Register](../../../Register/register.html)\] \[ [Kontakt](../../../Kontakt/kontakt.html)\] \[ [Impressum](../../../impressum/)\]

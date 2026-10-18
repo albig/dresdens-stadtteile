@@ -33,7 +33,7 @@ Nahrungsgüterwirtschaft beim Rat des Bezirkes Dresden seinen Sitz in Roßthal. 
 Heute dienen die Gebäude als agrarwissenschaftlich orientiertes Gymnasium und Berufsschulzentrum für Agrarwirtschaft Justus von Liebig. Roßthal und Neunimptsch
 konnten somit ihren dörflichen Charakter bis zur Gegenwart bewahren.
 
-[![roßthaler straßen](../../sudwest/rossthal/a_rectangle_558.gif)](../../sudwest/rossthal/strassen_rossthal/)
+## [Roßthaler Straßen](../../sudwest/rossthal/strassen_rossthal/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

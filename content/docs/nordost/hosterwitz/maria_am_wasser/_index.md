@@ -5,9 +5,9 @@ date: 2024-02-17T22:13:33+01:00
 
 * * *
 
-![kirchgemeinde ](../../../nordost/hosterwitz/maria_am_wasser/a_rectangle_1086.gif)
+## Kirchgemeinde
 
-![kirchhof  ](../../../nordost/hosterwitz/maria_am_wasser/a_rectangle_1087.gif)
+## Kirchhof
 
 
 ![](../../../nordost/hosterwitz/maria_am_wasser/hosterwmariawasser.jpg)Die Kirche in Hosterwitz wurde1406 erstmals erwähnt, entstand aber als hölzerne Kapelle

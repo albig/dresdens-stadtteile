@@ -45,6 +45,6 @@ geschaffen. Eine dieser Säulen befand sich auf dem Steinhübel südlich von Unk
 und 1882 leitete. 1980 wurde sie von ihrem ursprünglichen Platz entfernt und erst 1994 von den Mitgliedern des Heimatvereins wieder aufgespürt. Seit 2000 steht sie nach Restaurierung als Denkmal des Vermessungswesens
 gegenüber der Gaststätte Unkersdorfer Hof. Am Steinhübel selbst erinnert eine Informationstafel an das Projekt.
 
-[![unkersdorfer straßen](../../../sudwest/gompitz/unkersdorf/a_rectangle_1963.gif)](../../../sudwest/gompitz/pennrich/strassen_gompitz/)
+## [Unkersdorfer Straßen](../../../sudwest/gompitz/pennrich/strassen_gompitz/)
 
 [_Weiterführende Literatur und Quellen_](../../../impressum/quellenverzeichnis/)

@@ -12,15 +12,15 @@ date: 2024-02-17T22:13:42+01:00
 
 **Gemeindesiegel von Prohlis**
 
-![bürgerbüro prohlis prohliser allee 10 01239 dresden  tel. 0351/4888444](../../sudost/prohlis/a_rectangle_731.gif)
+Bürgerbüro prohlis prohliser allee 10 01239 dresden  tel. 0351/4888444
 
-![stadtteilbüro prohlis prohliser allee 33  öffnungszeiten: mo. 10-13 uhr di. 13-17 uhr do. 10-16 uhr](../../sudost/prohlis/a_rectangle_1396.gif)
+Stadtteilbüro prohlis prohliser allee 33  öffnungszeiten: mo. 10-13 uhr di. 13-17 uhr do. 10-16 uhr
 
 * * *
 
 **Prohliser Stadtteilseiten:**
 
-[![prohlis-online  die prohliser stadtteilseite](../../sudost/prohlis/a_rectangle_804.gif)](http://www.prohlis-online.de)
+[Prohlis-online  die prohliser stadtteilseite](http://www.prohlis-online.de)
 
 [![](../../plattenblatt.jpg)](http://www.plattenblatt.wg.am)
 
@@ -32,13 +32,13 @@ date: 2024-02-17T22:13:42+01:00
 
 ![](../../bibodd.jpg)
 
-[![bibliothek prohlis prohliser allee 10 01239 dresden tel. 0351/2841256](../../sudost/prohlis/a_rectangle_819.gif)](http://www.bibo-dresden.de)
+[Bibliothek prohlis prohliser allee 10 01239 dresden tel. 0351/2841256](http://www.bibo-dresden.de)
 
 [![](../../sudost/prohlis/120gsprohlis.jpg)](http://www.gs120.de)
 
 [![](../../sudost/prohlis/121msddprohlis.jpg)](http://marvin.sn.schule.de/~ms121dd)
 
-[![homepage der 122. grundschule ](../../sudost/prohlis/a_rectangle_861.gif)](http://www.122grundschule.de)
+## [Homepage der 122. Grundschule](http://www.122grundschule.de)
 
 [![](../../sudost/prohlis/albschweitzerschule.jpg)](http://www.sn.schule.de/~fzas)
 
@@ -92,7 +92,7 @@ Das Prohliser Heimat- und Palitzschmuseum befindet sich im letzten erhaltenen Ge
 
 Unweit des Gehöftes steht seit 2006 eine originelle Sonnenuhr in Form einer Kartoffel. Johann Georg Palitzsch hatte im 18. Jahrhundert den Kartoffelanbau im Dresdner Raum eingeführt. Initiatoren waren die Prohliser Petra Schulze und Andreas Damme, die ihr Vorhaben gemeinsam mit dem Künstler Manfred Eisen-Graf und der Palitzsch-Gesellschaft umsetzten.
 
-[![heimat- und palitzschmuseum dresden-prohlis gamigstraße 24, 01239 dresden tel. 0351-7967249](../../sudost/prohlis/a_rectangle_801.gif)](http://museen-dresden.de/index.php?lang=de&node=palitzschmuseum)
+[Heimat- und palitzschmuseum dresden-prohlis gamigstraße 24, 01239 dresden tel. 0351-7967249](http://museen-dresden.de/index.php?lang=de&node=palitzschmuseum)
 
 Freibad Prohlis:
 
@@ -109,9 +109,9 @@ Nichtschwimmer, welche zum Saisonbeginn 1970 am 1. Juni übergeben wurden. Die W
 zwei neue Brunnen, als Abfluss dient der Geberbach. Durch den Bau des benachbarten Neubaugebietes Prohlis stiegen
 die Besucherzahlen des Freibades deutlich an. 1988 wurde in unmittelbarer Nachbarschaft eine Schwimmhalle errichtet. Seit 1994 betreibt der Städtische Bäderbetrieb beide Einrichtungen gemeinsam als Kombibad.
 
-![freibad prohlis schwimmhalle prohlis senftenberger str. 58 tel. 0351/2843161](../../sudost/prohlis/a_rectangle_808.gif)
+Freibad prohlis schwimmhalle prohlis senftenberger str. 58 tel. 0351/2843161
 
-[![prohliser straßen](a_rectangle_1119.gif)](../../sudost/prohlis/strassen_prohlis/)
+## [Prohliser Straßen](../../sudost/prohlis/strassen_prohlis/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

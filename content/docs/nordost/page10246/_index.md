@@ -103,7 +103,7 @@ Luftbad Weißer Hirsch:
 
 ![](../../nordost/page10246/weihiluftbad.jpg) Das Luftbad entstand 1904 auf einem Grundstück am Eichigtweg und sollte die Attraktivität des Kurortes weiter erhöhen. Nach dem Zahlen des Eintritts am Kassenhäuschen im Waldpark standen den Besuchern - getrennt nach Männern und Frauen - mehrere Liegehallen, Freiplätze und Duschen zur Verfügung. 1921 übernahm die Stadt Dresden die Einrichtung als Städtisches Öffentliches Luftbad in eigene Regie. 1925 wurde das Bad verpachtet und blieb bis zur kriegsbedingten Schließung 1940 in den Sommermonaten in Betrieb. Sämtliche hölzerne Bauten wurden 1946/47 abgebrochen und als Brennholz verkauft, so dass heute kaum noch Spuren auffindbar sind.
 
-[![straßen am weißen hirsch](a_rectangle_146.gif)](../../nordost/page10246/strassen_weisser_hirsch/)
+## [Straßen am Weißen Hirsch](../../nordost/page10246/strassen_weisser_hirsch/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

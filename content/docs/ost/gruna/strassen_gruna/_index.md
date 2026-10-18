@@ -3,7 +3,7 @@ title: "Straßen und Plätze in Gruna"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![altgruna](../../../ost/gruna/strassen_gruna/a_rectangle_1010.gif)
+## Altgruna
 
 ![](../../../ost/gruna/strassen_gruna/altgruna.jpg)Der bis 1974 von der Rosenbergstraße durchschnittene Platz trug vor der Eingemeindung Grunas den Namen Hauptplatz und war Zentrum des kleinen Dorfkerns. Bis 1945 befanden sich hier die Gehöfte des Ortes, von denen bis zur Zerstörung noch drei landwirtschaftlich wurden. Die Gebäude befanden sich ursprünglich im Besitz verschiedener Bauernfamilien und Gärtner, bevor nach 1900 auch kleinere Läden und Handwerksbetriebe einzogen. Läden gab es um 1910 u.a. im Haus Altgruna 4 (Viktualienhandlung) und in Nr. 5 (Bäckerei Zehl). Nr. 7 war bis 1903 Sitz der Gemeindeverwaltung und diente danach als Wohnhaus. Unmittelbar daneben stand das Spritzenhaus des Dorfes. Bereits 1875 hatte man den ursprünglich in der Mitte gelegenen Dorfteich zugeschüttet.
 
@@ -28,11 +28,11 @@ Die Straße Am Anfang entstand 1920 im Zusammenhang mit dem Bau der Grunaer Gart
 
 Als südlicher Abschluss der Gartenheimsiedlung wurde 1922 unmittelbar am Landgraben die Straße Am Ende angelegt. Wie bei allen Häusern der Siedlung zeichneten auch hier Paul Beck und Max Oertel für die architektonische Gestaltung verantwortlich. In dieser Straße befanden sich früher mit einer Filiale des genossenschaftlichen "Waaren-Einkaufs-Vereins zu Görlitz", einer Bäckereifiliale, der Fleischerei Wiedenmann und einer Kolonialwarenhandlung die wenigen Einkaufsmöglichkeiten des Viertels. Im Haus Nr. 14 hatte der Bauverein Gartenheim seine Geschäftsstelle.
 
-![](../../../ost/gruna/strassen_gruna/an_der_mimosa.jpg)
+## An der Mimosa
 
 Die heute nicht mehr in den Stadtplänen verzeichnete Straße An der Mimosa entstand 1933 auf dem Areal der zwischen Hepke-, Bärensteiner und Eibenstocker Straße gelegenen Firma Mimosa AG. Das Unternehmen war 1904 gegründet worden und gehörte zu den bekanntesten deutschen Herstellern von Fotopapier. Nach 1945 produzierte der verstaatlichte Betrieb auch Kleinbildkameras, seit 1957 unter dem Namen VEB Fotopapierwerk Dresden wieder ausschließlich Fotopapier. In den 1960er Jahren erfolgte die Aufhebung der Straßenbenennung und die Einbeziehung in die verlängerte Eibenstocker Straße. 2012 begann hier der Bau einer Wohnanlage sowie die Sanierung des denkmalgeschützten früheren Verwaltungsgebäude des Unternehmens an der Hepkestraße.
 
-![](../../../ost/gruna/strassen_gruna/augustusbergstra_e.jpg)
+## Augustusbergstraße
 
 Die Augustusbergstraße wurde beim Bau der Wohnanlage Rosenhof angelegt. Ihren Namen erhielt sie 1997, in Anlehnung an die Straßennamen der näheren Umgebung, nach dem Augustusberg im Osterzgebirge. Der Berg liegt nahe von Bad Gottleuba und ist ein beliebtes Wander- und Ausflugsziel.
 
@@ -42,7 +42,7 @@ Die Augustusbergstraße wurde beim Bau der Wohnanlage Rosenhof angelegt. Ihren N
 
 Die Mitte der 1920er Jahre angelegte Straße Baumzeile entstand im Zusammenhang mit dem Bau der Grunaer Siedlung. Wie alle Wohnhäuser der Anlage wurde auch die Häuserzeile Nr 1-19, bestehend aus drei Gebäuden mit zwei eingeschossigen Zwischenbauten, nach Plänen von Paul Beck und Max Oertel erbaut.
 
-![beilstraße](../../../ost/gruna/strassen_gruna/a_rectangle_1011.gif)
+## Beilstraße
 
 ![](../../../ost/gruna/strassen_gruna/grunabeilstra_e.jpg) Die Ende des 19. Jahrhunderts angelegte Beilstraße erhielt ihren Namen 1893 nach der Grunaer Gutsbesitzerin Eva Rosine Beil (1822-1897). Gemeinsam mit Julius Rothermundt stiftete sie den Bau der [Thomaskirche](../../../ost/gruna/thomaskirche/) an der Bodenbacher Straße. 1898 wurde dieser Name auf den anschließenden Abschnitt bis zur Herkulesstraße, 1913 auch auf den Strehlener Teil bis zur [Stübelallee](../../../zentrum/johannstadt/strassen_johannstadt/stubelallee/) übertragen.
 
@@ -52,23 +52,23 @@ Hier befinden sich einige interessante Jugendstilvillen, u.a. die 1906 errichtet
 
 Der heutige Bertolt-Brecht-Platz entstand Anfang des 20. Jahrhunderts unmittelbar an der Flurgrenze zwischen Striesen und Gruna. Ursprünglich gab es hier eine von zwei Grunaer Ziegeleien, die jedoch 1885 stillgelegt wurde. Die Lehmgrube verfüllte man daraufhin mit dem Abbruchmaterial der Häuser der Badergasse, die dem Durchbruch der König-Johann-Straße (heute Wilsdruffer Straße) im Stadtzentrum weichen mussten. Danach diente sie als Müllkippe, bevor nach dem Ersten Weltkrieg einige Wohnhäuser gebaut wurden. Am 29. Mai 1907 erhielt der neu angelegte Platz den Namen Carlowitzplatz. Christoph von Carlowitz (1507-1578) war kurfürstlicher Rat und Oberhauptmann der Bergstadt Joachimsthal in Böhmen. Am 1. Juni 1963 wurde der Carlowitzplatz nach dem deutschen Dichter Bertolt Brecht in Bertolt-Brecht-Platz umbenannt.
 
-[![bodenbacher straße](../../../a_rectangle_1012.gif)](../../../ost/gruna/strassen_gruna/bodenbacher_strasse/)
+## [Bodenbacher Straße](../../../ost/gruna/strassen_gruna/bodenbacher_strasse/)
 
-![](../../../ost/gruna/strassen_gruna/brandstra_e.jpg)
+## Brandstraße
 
 Die Brandstraße wurde Mitte der 1930er Jahre im Zusammenhang mit der Bebauung an der östlichen Comeniusstraße angelegt und am 14. August 1937 benannt. Ihren Namen erhielt sie nach dem Felsmassiv Brand am Rande des Polenztales in der Sächsischen Schweiz. Die Brandbaude ist seit 1830 als Station des sogenannten Malerwegs eine beliebte Einkehrstätte für Wanderer.
 
-![calvinstraße](../../../ost/gruna/strassen_gruna/a_rectangle_1013.gif)
+## Calvinstraße
 
 Die Calvinstraße ist Teil eines alten Verbindungsweges zwischen dem Grunaer und Striesener Dorfkern. Bis zur Verlegung um 1860 verlief entlang dieses Weges der [Landgraben](../../../ost/striesen/landgraben/). Ihren Namen erhielt die Straße 1929 nach dem Schweizer Reformator Johann Calvin (1509-1564), der Begründer der theologischen Lehre des Kalvinismus ist. Bekanntester sächsischer Vertreter dieser Glaubensrichtung ist der ehemalige kurfürstliche Kanzler Nikolaus Krell, der 1592 auf dem Neumarkt hingerichtet wurde. Zwischen 1954 und 1957 führte eine Trasse der Dresdner Trümmerbahn über die Calvinstraße zur Trümmerkippe in Dobritz.
 
-[![](../../../zentrum/johannstadt/strassen_johannstadt/comeniusstra_e.jpg)](../../../zentrum/johannstadt/strassen_johannstadt/comeniusstrasse/)
+## [Comeniusstraße](../../../zentrum/johannstadt/strassen_johannstadt/comeniusstrasse/)
 
-![](../../../ost/gruna/strassen_gruna/eibenstocker_stra_e.jpg)
+## Eibenstocker Straße
 
 ![](../../../ost/gruna/strassen_gruna/grunagymnasium.jpg)Die kurz vor dem Ersten Weltkrieg angelegte Planstraße XIII erhielt mit Beschluss vom 28. Juni 1913 Namen Eibenstocker Straße. Namensgeber war die sächsische Kleinstadt Eibenstock im Westerzgebirge. Ursprünglich begann sie am Hepkeplatz und führte von dort in östlicher Richtung bis zum [Landgraben](../../../ost/striesen/landgraben/). Eine geplante Weiterführung über Seidnitzer Flur bis zur Enderstraße kam nicht zustande. Zudem ist sie bis heute durch die Kleingartenanlage Laubenheim e.V. in der Nähe des Striesener Friedhofs unterbrochen. Der östlichste Teilabschnitt an der Bärensteiner Straße wurde vor 1945 nach dem hier befindlichen Fotopapierwerk An der Mimosa genannt. Auf dem ehemaligen Betriebsgelände entstand 2012 eine kleine Wohnanlage. Markantestes Gebäude im westlichen Teil ist das [Hans-Erlwein-Gymnasium](../../../ost/gruna/) an der Ecke Junghansstraße _(Foto)_. Die Wohnhäuser Eibenstocker Straße Nr. 2-14 wurden zwischen 1925 und 1928 von Erich Hempel für die Gemeinnützige Wohnungsbau-AG Gruna errichtet.
 
-![falkensteinplatz](../../../ost/gruna/strassen_gruna/a_rectangle_1014.gif)
+## Falkensteinplatz
 
 ![](../../../ost/gruna/strassen_gruna/grunafalkensteinpl.jpg)Der Falkensteinplatz erhielt seinen Namen 1927 nach dem am 6. März 1864 erstmals bestiegenen Klettergipfel in der Sächsischen Schweiz und knüpft damit an eine Grunaer Tradition an, Straßen nach geografischen Plätzen im Elbsandsteingebirge zu benennen. Die Wohnhäuser rund um den Falkensteinplatz entstanden zwischen 1928 und 1932 nach einem einheitlichen Konzept, wobei in der architektonischen Gestaltung auf Ideen der Bauhausbewegung zurückgegriffen wurde. Bis zum Zweiten Weltkrieg wurden zwischen Gruna und Striesen einige hundert Wohnungen errichtet. Die Entwürfe stammen von Erich Hempel bzw. den Architekten Max Taut und Franz Hoffmann in Zusammenarbeit mit Palm und Schmersahl und sahen vorrangig kleine preiswerte Wohnungen für ärmere Familien vor. Bauherr der L-förmigen Häuserzeile an der Nord- und Westseite (Nr. 5-9) war die gemeinnützige Wohnungsbau AG Gewobag, während sich die Bauten der Südseite (Nr. 1-4) im Besitz des Baumeisters Bruno Max Riedrich befanden.
 
@@ -78,11 +78,11 @@ _Diese Häuser sind durch anglo-amerikanischen Bombenterror am 13./14. Februar
 
 
 
-![frauensteiner platz](../../../ost/gruna/strassen_gruna/a_rectangle_1015.gif)
+## Frauensteiner Platz
 
 Die Wohnsiedlung östlich des Landgrabens entstand 1924 bis 1928 als geschlossene Anlage für den Spar- und Bauverein Dresden-Gruna. Die Straßen wurden meist nach bekannten Gipfeln der Sächsischen Schweiz benannt, eine Tradition, die später auch beim Bau des Grunaer Neubaugebietes fortgesetzt wurde. Ihren Abschluss bildet der am 19. Mai 1927 nach der Silbermannstadt Frauenstein im Erzgebirge benannte Frauensteiner Platz. Jenseits dieses Platzes entstand 1928 die bis zur Enderstraße in Striesen reichende Kleingartenanlage Alte Elbe in einem früheren Elbarm. Alte Grunaer Flurbezeichnungen wie Planschfeld und Blanschgraben weisen auf die häufige Hochwassergefahr dieses tief gelegenen Geländes am Landgraben hin. Die zwischen 1924 und 1928 erbauten Häuser entstanden nach Plänen von Paul Beck und Max Oertel und stehen seit 1969 unter Denkmalschutz.
 
-![gartenheimallee](../../../ost/gruna/strassen_gruna/a_rectangle_1016.gif)
+## Gartenheimallee
 
 Die Gartenheimallee bildet die Mittelachse der ab 1925 entstandenen Gartenstadt Gruna, einer vom Bauverein Gartenheim initiierten Siedlung mit Mehrfamilien- und Reihenhäusern mit über 800 Wohnungen. Nach Plänen des Architekten Paul Beck entstanden die Gebäude unter Leitung von Max Oertel auf dem Areal zwischen Junghansstraße und Landgraben. Zu jeder Wohnung gehörte zugleich ein kleines Stück Gartenland, was dem Viertel den spöttischen Beinamen Kohlrabisiedlung einbrachte. Die Siedlung gilt als ein Musterbeispiel des sozialen Wohnungsbaus in den Jahren nach dem Ersten Weltkrieg und steht seit 1969 unter Denkmalschutz. Straßennamen wie Am Anfang, Baumzeile, Kurzer Schritt, Lange Zeile, Am Grüngürtel und Am Ende verdeutlichen das Konzept einer durchgrünten, abgeschlossenen Wohnanlage. 1945 fielen fast 80% der Häuser dem Luftangriff zum Opfer, konnten jedoch zwischen 1955 und 1960 durch Angehörige des VEB Kraftwerks- und Industriebau Dresden wieder aufgebaut werden. 1996 wurden die Häuser saniert und teilweise an die Mieter verkauft.
 
@@ -114,7 +114,7 @@ Das Straßenbild prägen bis zur Gegenwart vor allem Villen und Landhäuser _( *
 
 Die als Sackgasse zum Elbufer führende Helfenberger Straße in Neugruna erhielt ihren Namen am 19. September 1900 nach der rechtselbisch gelegenen Gemeinde Helfenberg, die seit 1999 zu Dresden gehört.
 
-![hepkestraße](../../../ost/gruna/strassen_gruna/a_rectangle_902.gif)
+## Hepkestraße
 
 ![](../../../ost/gruna/strassen_gruna/strieshepke.jpg)![](../../../ost/gruna/strassen_gruna/grunahepkestr.jpg) Die Hepkestraße, benannt nach dem Dresdner Kaufmann und Stifter Bernhard Hepke (1837-1916), beginnt im Süden von Striesen, verläuft über Grunaer Flur in west-östlicher Richtung und bildet die Verbindung zum benachbarten Seidnitz. Ihren Namen erhielt die vorherige Planstraße XII auf Beschluss des Dresdner Stadtrates vom 8. September 1919. 1928 wurde sie bis zur Enderstraße in Seidnitz, 1931 bis zur Altenberger Straße verlängert. Zwischen 1924 und 1928 wurden auf Grunaer Flur einige Doppel- und Reihenhäuser der Gartenheimsiedlung des Spar- und Bauvereins Dresden-Gruna errichtet. Wie die gesamte Siedlung sind auch diese Gebäude (Hepkestraße 60-62 und 64-78 sowie 112-134) seit 1969 als Baudenkmale eingetragen.
 
@@ -134,7 +134,7 @@ Mimosa AG: Das Unternehmen entstand Ende des 19. Jahrhunderts in Köln-Ehrenfeld
 
 ![](../../../ost/gruna/strassen_gruna/striesenmimosa.jpg)1948 wurde der unzerstört gebliebene Betrieb als VEB Mimosa verstaatlicht und begann nun auch mit der Herstellung von Kleinbildkameras und Fotozubehör. Dieser Produktionszweig blieb jedoch ein kurzes Intermezzo, so dass man sich ab 1951 wieder ausschließlich der Fotopapierherstellung widmete, was 1957 zur Umbenennung in VEB Fotopapierwerk Dresden führte. Unter diesem Namen blieb die Firma bis zur Wende bestehen, wurde dann privatisiert und 1991 geschlossen. Nach erfolgter Sanierung beherbergte der markante Gebäudekomplex _(Foto)_ zwischen 1994 bis 2007 die Verwaltung der AOK Sachsen. 2012 begann der Umbau des denkmalgeschützten Gebäudes für Wohnzwecke.
 
-![herkulesstraße](../../../ost/gruna/strassen_gruna/a_rectangle_1017.gif)
+## Herkulesstraße
 
 Die Herkulesstraße entstand Ende des 19. Jahrhunderts im Zusammenhang mit einer Ortserweiterung in südwestlicher Richtung. Da die Straße die Verlängerung der Herkulesallee des Großen Gartens bildet, erhielt sie 1897 den Namen Herkulesstraße. Bevorzugt entstanden hier Mietshäuser und Villen in offener Bauweise.
 
@@ -142,7 +142,7 @@ Die Herkulesstraße entstand Ende des 19. Jahrhunderts im Zusammenhang mit einer
 
 **_Foto:_** _Wohnhäuser an der Herkulesstraße vor 1945_
 
-![heynahtsstraße](../../../ost/gruna/strassen_gruna/a_rectangle_1829.gif)
+## Heynahtsstraße
 
 ![](../../../ost/gruna/strassen_gruna/grunaheynathsstr.jpg)Die Heynahtsstraße im Wohngebiet am Falkensteinplatz erhielt ihren Namen 1912 nach dem Wohntäter und Stifter Peter Eduard Heynahts (1818-1892), der der Stadt größere Summen für gemeinnützige Zwecke zur Verfügung gestellt hatte. Die heute unter Denkmalschutz stehenden Wohnhäuser Nr. 9-17 entstanden Ende der Zwanziger Jahre im Auftrag der gemeinnützigen Wohnungsbaugesellschaft Gewobag nach einem einheitlichen Konzept und orientieren sich an der Bauhausbewegung. Im Haus Nr. 9 wohnte nach Zerstörung seiner Wohnung in der Innenstadt der bekannte Architekt Hans Richter, Schöpfer der Trachauer Siedlung und weiterer Bauten der "Neuen Sachlichkeit".
 
@@ -150,7 +150,7 @@ Die Herkulesstraße entstand Ende des 19. Jahrhunderts im Zusammenhang mit einer
 
 Die Hocksteinstraße wurde Ende der 1920er Jahre im Zusammenhang mit dem Neubaugebiet des Dresdner Spar- und Bauvereins als Planstraße 76 angelegt. Auf Beschluss des Stadtrates vom 19. Mai 1927 erhielt sie nach einem Felsen im Polenztal (Sächsische Schweiz) den Namen Hocksteinstraße. Die zur Grunaer Gartenheimsiedlung gehörenden Häuserzeilen Nr. 1-9 und 2-10 stehen seit 1969 unter Denkmalschutz.
 
-![hofmannstraße](../../../ost/gruna/strassen_gruna/a_rectangle_1018.gif)
+## Hofmannstraße
 
 ![](../../../ost/gruna/strassen_gruna/grunahofmannstr4.jpg)Die 1879 erstmals erwähnte Hofmannstraße entstand im Zusamenhang mit der Bebauung des ehemaligen Grunaer Tännichts durch den Bauverein Daheim. Ihren Namen erhielt sie nach dessen Geschäftsführer August Hofmann. Zunächst verband sie nur Traube- und Maystraße, wurde jedoch später bis zur Tolkewitzer Straße ausgebaut. In der als Vorstadt Neugruna bezeichneten Siedlung wurden ab 1876 mehrgeschossige Mietshäuser errichtet. Im Haus Hofmannstraße 4 gab es einst "Heyne's Restaurant". In einigen Räumen im Hinterhaus Hofmannstraße 18 befanden sich zeitweise die Klassenräume der ersten Neugrunaer Schule. 1909 wurde diese in den von Hans Erlwein errichteten [Neubau](../../../ost/gruna/) Hofmannstraße 34 verlegt. 1927 entstand an der Ecke zur Traubestraße das Postamt 21.
 
@@ -158,7 +158,7 @@ Die Hocksteinstraße wurde Ende der 1920er Jahre im Zusammenhang mit dem Neubaug
 
 Nach dem Zweiten Weltkrieg beteiligte sich Alexander Frantz an der Einrichtung weiterer Sternwarten, u.a. in Rodewisch, Bautzen, Döbeln und Dresden-Plauen. Nach seinem Tod 1962 übernahm dessen Tochter Charlotte Schimmel-Frantz die Leitung der Sternwarte und führte bis zu ihrem Tod regelmäßig Besucher durch die Einrichtung, die sich hier im Rahmen von Vorträgen über astronomische Gesetzmäßigkeiten informieren konnten. Zur Sternwarte gehören auch eine kleine Bibliothek und eine Sammlung historischer astronomischer Karten und Instrumente. Das Gebäude und die aus der Entstehungszeit stammenden Beobachtungsgeräte stehen als technisches Denkmal unter Schutz.
 
-![junghansstraße](../../../ost/gruna/strassen_gruna/a_rectangle_1881.gif)
+## Junghansstraße
 
 ![](../../../ost/gruna/strassen_gruna/grunajunghansstr13.jpg)Die Junghansstraße verbindet die Stadtteile Striesen und Gruna und wurde Anfang des 20. Jahrhunderts als Planstraße 12 angelegt. Ihren Namen erhielt sie auf Beschluss des Dresdner Stadtrates vom 28. Juni 1913 nach dem 1900 verstorbenen Apotheker und Stifter Eugen Ferdinand Junghans. Ursprünglich führte sie nur bis zur Kipsdorfer Straße, wurde jedoch 1925 durch Einbeziehung eines Teils der Dornblüthstraße bis zur Schandauer Straße verlängert.
 
@@ -198,11 +198,11 @@ Uhrenfabrik Költzsch (Nr. 20): Das Unternehmen wurde 1878 von Albrecht Költzsc
 
 Kinder- und Jugendhaus Schieferburg (Nr. 29): Das Kinder- und Jugendhaus Schieferburg entstand zwischen 1994/96 als Kultur- und Stadtteilzentrum und wurde am 6. Dezember 1996 eröffnet. Die vom Stadtjugendring Dresden betriebene Einrichtung bietet Räume für kulturelle und kreative Betätigung und ist nicht zuletzt wegen ihrer ungewöhnlichen architektonischen Gestaltung sehenswert. Das Haus wurde vom Architektenbüro Weise & Treuner entworfen und zitiert Elemente von Künstlern wie Friedensreich Hundertwasser, Antoni Gaudí und Bruno Taut. In der zentralen Kuppelhalle befindet sich ein Lichtkunstkörper von Arend Zwicker. Hinzu kommen verschiedene aus Keramikscherben zusammengesetzte Mosaike und Verkleidungen aus Naturmaterialien wie Lehm und Holz.
 
-![ludwig-hartmann-straße](../../../ost/gruna/strassen_gruna/a_rectangle_1019.gif)
+## Ludwig-Hartmann-Straße
 
 ![](../../../ost/gruna/strassen_gruna/grunalhartmann26.jpg)Die Ludwig-Hartmann-Straße im Ortsteil [Neugruna](../../../ost/gruna/neugruna/) wurde 1876 im Zusammenhang mit dem Ausbau dieser Vorstadt durch die Baugesellschaft Daheim angelegt. Ihren Namen erhielt sie nach dem Musikkritiker Ludwig Hartmann (1836-1910), der maßgeblich an der Erschließung Neugrunas für den Wohnungsbau beteiligt war. Hartmann war ein Schüler von Franz Liszt und wirkte zunächst als Komponist und Pianist, widmete sich später jedoch dem Verfassen von Musikkritiken und Aufsätzen zur Musikgeschichte. Sein früheres Wohnhaus befindet sich auf der Tolkewitzer Straße 59, sein Grab auf dem Tolkewitzer Johannisfriedhof. Das Straßenbild prägen bis heute Villen und Landhäuser aus der Entstehungszeit, im Bild das Haus Ludwig-Hartmann-Straße 26.
 
-![](../../../ost/gruna/strassen_gruna/maystra_e.jpg)
+## Maystraße
 
 Die Maystraße in Neugruna wurde 1876 vom Rechtsanwalt Christian Julius May angelegt und noch zu dessen Lebzeiten nach ihm benannt. May, der dem Vorstand der mit der Erschließung Neugrunas befassten Baugesellschaft "Daheim" angehörte, verstarb am 26. April 1893 in Dresden.
 
@@ -214,15 +214,15 @@ Die kleine Verbindungsstraße (Planstraße XI) führt aus der Grunaer Siedlung z
 
 [![rosenbergstraße](../../../ost/gruna/strassen_gruna/rosenbergstraße.jpg)](../../../ost/gruna/strassen_gruna/rosenbergstrasse/)
 
-![rothermundtstraße](../../../ost/gruna/strassen_gruna/a_rectangle_1020.gif)
+## Rothermundtstraße
 
 ![](../../../ost/gruna/strassen_gruna/grunarothermundstr.jpg)Die Rothermundtstraße im alten Grunaer Dorfkern verdankt ihren Namen dem russischen Kaufmann Julius Ludwig Rothermundt (1827-1890). Dieser erwarb 1875 das Grundstück der ehemaligen Schmiede und errichtete hier ein Landhaus inmitten eines reizvollen Parks. Während die Villa 1945 zerstört wurde, blieb der [Rothermundtpark](../../../ost/gruna/rothermundpark/) bis heute erhalten. Rothermundt war auch an der Finanzierung des Kirchenbaus der Thomaskirche beteiligt. An der Straße selbst befinden sich Wohnhäuser aus der Gründerzeit _(Foto)_.
 
-![scariastraße](../../../ost/gruna/strassen_gruna/a_rectangle_1021.gif)
+## Scariastraße
 
 Die als Seitenstraße der Altenberger Straße im Stadtteil Neugruna angelegte Scariastraße erhielt 1892 ihren Namen nach dem Opernsänger Emil Scaria (1840-1886), der ab 1864 an der Königlichen Oper in Dresden engagiert war und in einem Haus (Nr. 11) auf dieser Straße wohnte. Ebenso wie an den übrigen Straßen Neugrunas entstanden auch hier bis zur Jahrhundertwende repräsentative Mietshäuser in offener Bauweise.
 
-![schlüterstraße](../../../ost/gruna/strassen_gruna/a_rectangle_957.gif)
+## Schlüterstraße
 
 Die Schlüterstraße geht auf einen alten Verbindungsweg zwischen dem Grunaer Dorfkern und dem benachbarten Striesen zurück und wurde um 1900 zur Straße ausgebaut. Ihren Namen erhielt sie nach Dr. Franz Schlüter (1833-1901). Schlüter
 war Mitglied der Dresdner Sektion des Deutsch-Österreichischen Alpenvereins und ließ 1897 die noch heute bestehende Franz-Schlüter-Hütte in den Dolomiten erbauen. Die einst landwirtschaftlich und von einer Ziegelei genutzten Flächen zu beiden Seiten der Straße wurden nach dem Ersten Weltkrieg mit Wohnhäusern und gewerblichen Einrichtungen bebaut.
@@ -235,7 +235,7 @@ Die Schneebergstraße wurde 1904 angelegt und erhielt ihren Namen nach dem Hohen
 
 _**Foto:** Blick in die Schneebergstraße_
 
-[![](../../../zentrum/johannstadt/strassen_johannstadt/st_belallee.jpg)](../../../zentrum/johannstadt/strassen_johannstadt/stubelallee/)
+## [Stübelallee](../../../zentrum/johannstadt/strassen_johannstadt/stubelallee/)
 
 ![tauscherstraße](../../../ost/gruna/strassen_gruna/tauscherstraße.jpg)
 
@@ -245,11 +245,11 @@ Die Tauscherstraße im Ortsteil Neugruna wurde 1876 angelegt und nach dem frühe
 
 **_Fotos:_** _Wohnhäuser an der Tauscherstraße aus den Zwanziger Jahren_
 
-![traubestraße](../../../ost/gruna/strassen_gruna/a_rectangle_1022.gif)
+## Traubestraße
 
 Die Traubestraße erhielt ihren Namen nach dem Dresdner Unternehmer Joseph Traube, der als Eiergroßhändler tätig war und 1876 auf seinem Grundstück die Eröffnung des ersten Neugrunaer [Schulhauses](../../../ost/gruna/) ermöglichte. Zunächst befanden sich die Klassenräume auf der Traubestraße, bevor später weitere Räumlichkeiten an der Hofmann- und Tauscherstraße hinzukamen. 1909 wurde diese provisorische Schule durch den Neubau von Erlwein ersetzt.
 
-![zwinglistraße](a_rectangle_1023.gif)
+## Zwinglistraße
 
 ![](grunazwinglistr.jpg)Die Zwinglistraße, bis 1901 als Lindenstraße bezeichnet, erhielt ihren Namen nach dem Schweizer Reformator Huldrych Zwingli (1484-1531). Zwingli wirkte seit 1521 in Zürich und ist gemeinsam mit Kalvin Begründer der Reformierten Kirche. Die Zwinglistraße wurde um 1900 mit gutbürgerlichen Wohn- und Geschäftshäusern bebaut, die jedoch 1945 zum Großteil den Bomben zum Opfer fielen. Erhalten blieb hingegen die kleine Wohnanlage Nr. 41-45 auf der gegenüberliegenden Straßenseite aus den Jahren 1934/35. Ursprünglich sollten die Häuser Teil des Neubauviertels der GEWOBAG werden, mussten jedoch auf Weisung der Nazis wieder in traditionellen Bauformen mit Steildächern gestaltet werden. Im heute nicht mehr vorhandenen Eckhaus zur Stübelallee befand sich bis 1945 das Grunaer Postamt.
 

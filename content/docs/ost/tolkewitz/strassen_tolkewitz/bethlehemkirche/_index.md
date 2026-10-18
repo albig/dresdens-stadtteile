@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:39+01:00
 
 * * *
 
-[![bethlehemkirche  dresden-tolkewitz  pfarramt: marienberger str. 65 01279 dresden  tel. 0351/2516539](../../../../a_rectangle_1653.gif)](http://www.bethlehemkirche-dresden.de)
+[Bethlehemkirche  dresden-tolkewitz  pfarramt: marienberger str. 65 01279 dresden  tel. 0351/2516539](http://www.bethlehemkirche-dresden.de)
 
 
 ![](tolkewkirche.jpg)Nachdem Tolkewitz jahrhundertelang zur Parochie der Leubener Himmelfahrtskirche

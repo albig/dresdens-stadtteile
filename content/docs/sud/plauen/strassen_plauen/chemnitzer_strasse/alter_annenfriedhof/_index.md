@@ -11,7 +11,7 @@ date: 2024-02-17T22:13:43+01:00
 
 * * *
 
-![alter annenfriedhof chemnitzer str. 32 01187 dresden  tel. 0351/4 71 83 82](../../../../../sud/plauen/strassen_plauen/chemnitzer_strasse/alter_annenfriedhof/a_rectangle_1099.gif)
+Alter annenfriedhof chemnitzer str. 32 01187 dresden  tel. 0351/4 71 83 82
 
 [![](annenfriedhof.jpg)](http://www.annenfriedhof-dresden.de)
 

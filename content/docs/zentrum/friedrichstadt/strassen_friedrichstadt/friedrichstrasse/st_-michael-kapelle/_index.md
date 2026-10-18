@@ -5,9 +5,9 @@ date: 2024-02-17T22:13:47+01:00
 
 * * *
 
-![caritasverband für das bistum dresden-meißen e.v. magdeburger str. 33 01067 dresden  tel.: 03 51/ 49 83 60](../../../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/st_-michael-kapelle/a_rectangle_1629.gif)
+Caritasverband für das bistum dresden-meißen e.v. magdeburger str. 33 01067 dresden  tel.: 03 51/ 49 83 60
 
-[![pflegeheim st. michael  friedrichstr. 48 01067 dresden  tel.: 03 51/ 43 91 50](a_rectangle_1632.gif)](http://www.stmichael-dresden.de)
+[Pflegeheim st. michael  friedrichstr. 48 01067 dresden  tel.: 03 51/ 43 91 50](http://www.stmichael-dresden.de)
 
 
 ![](../../../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/st_-michael-kapelle/friedrichststmichael2.jpg)Die kleine Kapelle St. Michael geht auf ein 1747 von Kurfürstin Maria Josepha gestiftetes katholisches Krankenstift in der Friedrichstadt zurück. Nach einer kurfürstlichen Resolution vom 8. Juli 1726 war katholischen Patienten sowie Priestern der Besuch protestantischer Krankenhäuser nicht mehr erlaubt, was die Schaffung einer solchen konfessionsgebundenen Einrichtung erforderlich machte. Vermutlich wurden bereits kurz darauf die ersten Patienten in einem vom königlichen Heiducken Christian Braune errichteten Gebäude versorgt. Letztlich strebte man jedoch eine offizielle katholisch geführte Krankeneinrichtung an. Zu diesem Zweck erwarb 1747 der sächsische Kurfürst das frühere [Esseniussche Haus](../../../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/) aus dem Besitz des Grafen Brühl und ließ es an seinen Beichtvater, den Jesuitenpater Ludwig Liegeritz übergeben.

@@ -3,7 +3,7 @@ title: "Straßen und Plätze in Trachenberge"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-![albert-hensel-straße](../../../nordwest/trachenberge/strassen_trachenberge/a_rectangle_1417.gif)
+## Albert-Hensel-Straße
 
 ![](../../../nordwest/trachenberge/strassen_trachenberge/trabgmariaannnastr.jpg)Die Albert-Hensel-Straße entstand Ende des 19. Jahrhundert im Zusammenhang mit dem Bau neuer Wohnhäuser. Ihren ursprünglichen Namen Maria-Anna-Straße erhielt sie nach dem 1896 gegründeten [Maria-Anna-Kinderhospital](../../../nordwest/trachenberge/trachenberge_-_sozialeinrichtu/), welches heute zum Komplex des Rehabilitationszentrums des Berufsförderungswerkes gehört. Namenspatronin dieser Einrichtung war die Prinzessin Maria Anna (1843-1884), die die Schirmherrschaft über den Verein Kinderheilstätte für Neu- und Antonstadt Dresden übernommen hatte. Markantestes Gebäude ist die 1958 errichtete [Weinbergskirche](../../../nordwest/trachenberge/weinbergskirche/).
 
@@ -11,9 +11,9 @@ Am 8. Februar 1956 wurde die Maria-Anna-Straße nach dem kommunistischen Widerst
 
 [![döbelner straße](../../../nordwest/trachenberge/strassen_trachenberge/döbelner_straße.jpg)](../../../nordwest/trachenberge/strassen_trachenberge/döbelner_strasse/)
 
-[![großenhainer straße](../../../a_rectangle_110.gif)](../../../neustadt/leipziger_vorstadt/grossenhainer_strasse/)
+## [Großenhainer Straße](../../../neustadt/leipziger_vorstadt/grossenhainer_strasse/)
 
-![hellerhofstraße](a_rectangle_107.gif)
+## Hellerhofstraße
 
 ![](../../../nordwest/trachenberge/strassen_trachenberge/trab_kaserne.jpg)Die Hellerhofstraße erhielt ihren Namen in den 1920er Jahren nach dem 1894 gegründeten und auch als Eselhof bezeichneten [Hellerhof](../../../nordwest/trachenberge/trachenberge_-_sozialeinrichtu/). Ab 1933 wurde das Gelände als Kaserne und Übungslager von der Waffen-SS genutzt und in diesem Zusammenhang erweitert. So entstand 1933 die Pionierkaserne Wilder Mann (Nr. 35) mit Unterkunfts- und Wirtschaftsgebäuden _(Foto)_. Ab 1937 hatte hier ein SS-Pioniersturmbann sein Domizil, nach Kriegsbeginn weitere Ausbildungs- und Ersatzeinheiten der Waffen-SS und die SRD-Führerschule. In unmittelbarer Nähe entstand 1941 ein Gefangenenlager für sowjetische Zwangsarbeiter, die in den kriegswichtigen Göhle-Werken an der Großenhainer Straße arbeiten mussten. Heute befinden sich auf dem Grundstück verschiedene Gewerbebetriebe. Außerdem haben auf der Hellerhofstraße das Berufsbildungswerk Sachsen (Nr. 21) und das Berufsförderungswerk Dresden (Nr. 35) ihren Sitz.
 
@@ -21,7 +21,7 @@ Am 8. Februar 1956 wurde die Maria-Anna-Straße nach dem kommunistischen Widerst
 
 Die Kalkreuther Straße entstand Anfang der 1970er Jahre im Zusammenhang mit einem Neubaugebiet an der Autobahn-Anschlussstelle Wilder Mann. Teilweise entspricht sie in ihrem Verlauf dem früheren Diebsteig bzw. Diebweg. Ihren Namen bekam sie im Oktober 1972 nach dem kleinen Ort Kalkreuth, heute ein Ortsteil von Ebersbach bei Großenhain. Bereits vor Anlage der Straße gab es in diesem Gebiet seit 1947 den Kleingartenverein "Frischer Wind e.V.".
 
-![kändlerstraße](../../../nordwest/trachenberge/strassen_trachenberge/a_rectangle_1418.gif)
+## Kändlerstraße
 
 Die Kändlerstraße geht auf einen ehemaligen Weinbergsweg in den Taubischen Bergen zurück. Ursprünglich war dieser Zugang zu einem an der "Trachenschlucht" gelegenen Weinberg. Zwischen 1756 und 1777 wurde das Gelände aufgeteilt und an Kleinbauern und Häusler aus Pieschen verkauft. Mit zunehmender Bebauung erfolgte um 1897 der Ausbau zur Straße und die Benennung in Kändlerstraße. Mit der Namensgebung wird an den Trachenberger Rittergutsbesitzer Bernhard Adolf Kändler erinnert, der 1871 das Gut Wilder Mann erwarb und 1880 verstarb. Kändler ließ auch den ersten Bebauungsplan für die Gemeinde erstellen und setzte durch, dass hier ausschließlich Villen und Wohnhäuser entstehen durften.
 
@@ -33,7 +33,7 @@ Die Kändlerstraße geht auf einen ehemaligen Weinbergsweg in den Taubischen Ber
 
 Die Lauterbacher Straße entstand Anfang der 1930er Jahre als Verlängerung der Hellerhofstraße bis zur Radeburger Straße. Im September 1934 wurde sie nach dem Ort Lauterbach, heute ein Ortsteil von Ebersbach bei Großenhain gehört.
 
-![maxim-gorki-straße](a_rectangle_108.gif)
+## Maxim-Gorki-Straße
 
 ![](../../../nordwest/trachenberge/strassen_trachenberge/trabgmarienhof.jpg)Die frühere Marienhofstraße verdankte ihren Namen dem 1873 hier gegründeten [Marienhof](../../../nordwest/trachenberge/trachenberge_-_sozialeinrichtu/), einer Besserungsanstalt für Jugendliche, die später als städtisches Kinderheim diente _(Foto)_. 1886 wurde sie offiziell so benannt. Nachdem das Heim 1949 den Namen des russischen Schriftstellers Maxim Gorki erhalten hatte, wurde auch die Straße in Maxim-Gorki-Straße umbenannt.
 
@@ -49,11 +49,11 @@ Zu den Bewohnern der Marienhofstraße gehörte ab 1915 die Familie des bekannten
 
 ![](../../../nordwest/trachenberge/strassen_trachenberge/trabgmarienhofstr.jpg)Nr. 58/60: Die kleine Wohnanlage, zu der auch die Gebäude Rückertstraße 22-30, Waldstraße 1-7b und Hans-Sachs- Straße 33/35 gehören, entstand zwischen 1913 und 1920 für den Dresdner Spar- und Bauverein. Architekt der für ihre Zeit modernen Siedlung war Heinrich Koch. Alle Wohnungen erhielten moderne sanitäre Anlagen und Balkone, womit an sozial- und lebensreformerische Grundsätze angeknüpft wurde. Hinzu kamen Gemeinschaftsräume, ein Waschhaustrakt und Grün- und Spielflächen in den Innenhöfen. Nach einem der Förderer des Spar- und Bauvereins, dem Kommerzienrat Palmié, werden die Wohnhäuser auch als Palmié-Häuser bezeichnet.
 
-![meinholdstraße](../../../nordwest/trachenberge/strassen_trachenberge/a_rectangle_1420.gif)
+## Meinholdstraße
 
 Die erst nach 1990 angelegte Meinholdstraße auf dem Heller erhielt ihren Namen am 20. April 1995 nach dem Dresdner Druckereibesitzer Carl Christian Meinhold (1740-1827). Meinhold erwarb 1783 die Dresdner Hofdruckerei und baute sie zu einem der bedeutendsten Dresdner Verlage aus. Noch bis 1945 führte die Familie das Unternehmen unter dem Namen [C. C. Meinhold & Söhne](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Zinzendorfstrasse/Meinhold_Sohne/meinhold_sohne.html) fort. Heute hat auf der Meinholdstraße die Druckerei des Dresdner Druck- und Verlagshauses ihren Sitz, in der u.a. die Sächsische Zeitung und die Dresdner Morgenpost gedruckt werden. Der moderne Komplex entstand 1996/97 und war zum Zeitpunkt seiner Fertigstellung eine der modernsten Druckereien Europas. Außerdem befinden sich hier Verwaltung und Briefverteilzentrum des privaten Postdienstleisters PostModern.
 
-![weinbergstraße](a_rectangle_109.gif)
+## Weinbergstraße
 
 ![](../../../nordwest/trachenberge/strassen_trachenberge/trabgweinbergstr.jpg)Die seit 1896 amtlich benannte Weinbergstraße erinnert an den bis Ende des 19. Jahrhunderts bedeutenden Weinbau in Trachenberge. Ursprünglich lagen hier die Friesenberge, die dem Freiherrn Carol von Friesen gehörten, der 1686 in Dresden verstarb. 1853 errichtete der Dresdner Kaufmann Emil Weithaas hier sein Landhaus "Marienhof", aus dem 1873 die gleichnamige Einrichtung der Kinder- und Jugendfürsorge hervorging. 1896 entstanden mit dem Maria-Anna-Kinderhospital und dem Sächsischen Krüppelheim wichtige Sozialeinrichtungen für Behinderte, die heute zu einem [Rehabilitationszentrum](../../../nordwest/trachenberge/trachenberge_-_sozialeinrichtu/) zusammengefasst sind (Weinbergstraße 52-54). Hinzu kamen eine Reihe von Villen und Landhäusern. 1974 wurde zwischen Weinbergstraße und Großenhainer Straße ein Neubaugebiet errichtet. Am westlichen Ende der Straße befindet sich die Kleingartenanlage "Wilder Mann" mit dem Restaurant "Weinbergbaude" (Nr. 83).
 

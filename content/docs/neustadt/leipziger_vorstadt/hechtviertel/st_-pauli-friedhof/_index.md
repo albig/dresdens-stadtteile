@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:31+01:00
 
 * * *
 
-![st.-pauli-friedhof  hechtstr. 78 01127 dresden tel. 0351/8045804](../../../../neustadt/leipziger_vorstadt/hechtviertel/st_-pauli-friedhof/a_rectangle_1491.gif)
+St.-pauli-friedhof  hechtstr. 78 01127 dresden tel. 0351/8045804
 
 
 ![](../../../../neustadt/leipziger_vorstadt/hechtviertel/st_-pauli-friedhof/lv_st_pauli-friedhof.jpg)Nachdem der [Innere Neustädter Friedhof](../../../../neustadt/leipziger_vorstadt/innerer_neustadter_friedhof/) für die stark angewachsene Bevölkerung der Dresdner Neustadt zu klein geworden war, entschloss man sich um 1860 zur Anlage eines neuen Begräbnisplatzes am Fuße der Hellerberge. 1862 wurde das zunächst als Neuer bzw. Äußerer Neustädter Friedhof bezeichnete Areal übergeben. Die terrassenförmige Anlage zwischen Hechtstraße und der heutigen Stauffenbergallee bietet auf zwölf Hektar Platz für ca. 30.000 Gräber und gehört damit zu den größten Dresdner Friedhöfen. Die erste Beisetzung fand am 21. Mai 1862 statt. Das Grab des mit nur 29 Jahren verstorbenen Maurers Preller ist noch erhalten. Zeitgleich entstand eine kleine Kapelle mit Totenhalle nach einem Entwurf des Architekten Carl Adolph Canzler.

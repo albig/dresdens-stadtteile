@@ -63,7 +63,7 @@ Nr. 96: Die Villa entstand um 1900 und wurde vom Architekten Erich Kleinhempel e
 
 Hochschule für Kirchenmusik (Nr. 97): Die Einrichtung wurde 1949 vom damaligen Kantor der Striesener Versöhnungskirche Martin Flämig gegründet. Ziel ist die Ausbildung junger Musiker, die hier Unterricht im Orgelspiel, Kirchenmusik und Chorleitung erhalten. Zunächst Landeskirchenmusikschule genannt hat sie heute den Status einer Hochschule und ist eine der kleinsten in Sachsen. Neben der Villa Käthe-Kollwitz-Ufer gehören auch ein Verwaltungsgebäude und ein 1999 errichteter Neubau mit Chorprobenraum zum Campus. Das zugehörige Internat ist am Käthe-Kollwitz-Ufer 81 untergebracht.
 
-[![](../../../../zentrum/johannstadt/strassen_johannstadt/kathe-kollwitz-ufer/hochschule_f_r_kirchenmusik.jpg)](http://www.kirchenmusik-dresden.de)
+## [Hochschule für Kirchenmusik](http://www.kirchenmusik-dresden.de)
 
 
 

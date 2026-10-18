@@ -14,7 +14,7 @@ Ratskeller Kaitz: Das Eckhaus an der Kreuzung zur Boderitzer Straße (Nr. 12- _F
 
 In den 1950er Jahren wandelte sich der "Ratskeller" wieder zu einer typischen Vorstadtkneipe mit Billiardtischen und Treffpunkt für Skat- und Doppelkopfspieler. Auch der 1949 gegründete Volkschor Kaitz nutzte das Lokal als Probenraum. Hinzu kamen Familienfeste, Schulungen und Versammlungen. 1982 übernahm die Familie Mittag das Traditionslokal und führte es bis zur Schließung 1995. Heute werden die ehemaligen Gasträume als Büro genutzt.
 
-![boderitzer straße](../../../sud/mockritz/strassen_mockritz/a_rectangle_675.gif)
+## Boderitzer Straße
 
 Die heutige Boderitzer Straße trug früher in Kaitz den Namen Leichenweg, da sie die Verbindung des Dorfes zur Leubnitzer Kirche und dem dortigen Friedhof war. Im Zusammenhang mit dem Bau einiger Mietshäuser wurde sie 1899 zur Fahrstraße ausgebaut und ab 1904 Leubnitzer Straße genannt. Erstmals in Kaitz wurden für diese Straße fortlaufende Hausnummern vergeben. 1926 erfolgte die Vereinigung mit der Mockritzer Friedrich-August-Straße zur [Boderitzer Straße](../../../sud/mockritz/strassen_mockritz/). Die Flurgrenze verläuft zwischen den Häusern 69 und 71.
 
@@ -24,7 +24,7 @@ Auffällig sind die Eckhäuser zur Bannewitzer Straße, in dem sich früher die 
 
 Autohaus Friedewald (Nr. 75): Auf diesem Grundstück eröffnete 1924 der Stellmacher Martin Friedewald seine Firma zur Herstellung von Leitern, Schubkarren, Handwagen und ähnlichen Fahrzeugen. Außerdem fertigte der Betrieb Zubehörteile und Karosserien für Kraftfahrzeuge, die zu dieser Zeit noch einen hohen Anteil an Holzteilen besaßen. Mit der Weiterentwicklung der Kfz-Technik kamen ab 1930 zunehmend auch Reparaturen an Blechkarossen hinzu. Da das Kaitzer Grundstück nun nicht mehr den Anforderungen genügte, verlegte Friedewald seine Werkstatt 1938 nach Räcknitz, wo sie als "Autohaus Friedewald" bis heute existiert.
 
-![franzweg](../../../sud/kaitz/strassen_kaitz/a_rectangle_660.gif)
+## Franzweg
 
 Der parallel zum Kaitzbach verlaufende Franzweg erhielt seinen Namen 1926 nach dem früheren Gemeindevorstand von Kaitz Adolf Max Franz (1860-1916). Zuvor wurde er Schmiedegäßchen genannt. Einer seiner Vorfahren verkaufte hier 1839 ein Grundstück, auf dem 1844 das neue Kaitzer [Schulhaus](../../../sud/kaitz/) errichtet wurde. Die mehrfach erweiterte Schule wird heute von der 71. Grundschule "Am Kaitzbach" genutzt.
 
@@ -32,7 +32,7 @@ Das 1849 umgebaute Wohngebäude Franzweg Nr. 12 _(Foto)_ gehört zu den älteste
 
 
 
-![innsbrucker straße](../../../sud/kaitz/strassen_kaitz/a_rectangle_661.gif)
+## Innsbrucker Straße
 
 Die große Straßenschleife Innsbrucker Straße wurde 1925 angelegt, um den Durchgangsverkehr aus dem Kaitzer Dorfkern herauszunehmen. Für den Ausbau der "Neuen Landstraße" musste ein Damm mit zwei Durchlässen für Kaitz- und Zschaukebach aufgeschüttet werden. Zudem wurde der Straßenrand alleeartig mit Pappeln bepflanzt. 1926 erhielt sie ihren Namen nach der Landeshauptstadt Innsbruck in Tirol (Österreich). Heute ist sie Teil der dichtbefahrenen Bundesstraße B 170 und dient seit ihrem vierspurigen Ausbau bis 2004 als Autobahnzubringer zur Anschlussstelle Dresden-Südvorstadt der Bundesautobahn A 17 (Dresden-Prag). In diesem Zusammenhang wurden mehrere Straßenanschlüsse verändert und eine neue Brücke über das Kaitzbachtal gebaut.
 
@@ -40,7 +40,7 @@ Die große Straßenschleife Innsbrucker Straße wurde 1925 angelegt, um den Durc
 
 **_Foto:_** _Blick von Altkaitz über die Innsbrucker Straße zur Südhöhe_
 
-![kaitzer weinberg](../../../sud/kaitz/strassen_kaitz/a_rectangle_662.gif)
+## Kaitzer Weinberg
 
 Die Straße Kaitzer Weinberg wurde als Fuß- und Wirtschaftsweg nach Kleinpestitz am Nordrand des Kaitzbachtales angelegt. Von 1908 bis 1926 trug sie den Namen Weinbergstraße. 1918 wurde der Weg im Rahmen von Notstandsarbeiten ausgebaut. Nachdem bereits um 1912 das heutige "Pfarrer-Richter-Haus" (Nr. 16) und das Café Weinberg (Nr. 12) enstanden waren, folgten ab ca. 1930 bis zum Zweiten Weltkrieg zahlreiche individuell gestaltete Ein- und Zweifamilienhäuser.
 
@@ -60,7 +60,7 @@ Die Straße Kaitzgrund geht auf einen alten Verbindungsweg zurück, der den Kait
 
 Nach dem Zweiten Weltkrieg wurden Teile des einst romatischen Tales durch Uranschlamm der Wismut verfüllt, wodurch auch der Kaitzbach verlegt werden musste. In diesem Zusammenhang verfielen die beiden Mühlen dem Abbruch. Im Zuge des Autobahnbaus wurde die Straße unterbrochen und führt heute nur noch, von Cunnersdorf kommend, als Wirtschaftsweg bis zur Autobahn und danach parallel bis zur Autobahnbrücke über den Zschaukegraben.
 
-![meraner straße](../../../sud/kaitz/strassen_kaitz/a_rectangle_1738.gif)
+## Meraner Straße
 
 Die Meraner Straße wurde nach dem Ersten Weltkrieg oberhalb der früheren Kaitzer Weinberge angelegt und nach der Stadt Meran in Südtirol benannt. Noch bis nach 1990 prägten neben Einfamilienhäusern Felder und eine Schweinemastanlage das Straßenbild, bevor auch hier neue Wohnhäuser errichtet wurden. An der Ecke Meraner / Possendorfer Straße befindet sich eine um 1830 aufgestellte historische Wegsäule. Die ca. 1,60 Meter hohe Säule weist auf frühere Verbindungswege nach Plauen, Kleinpestitz, Kaitz und Coschütz hin und wurde 2009 saniert.
 

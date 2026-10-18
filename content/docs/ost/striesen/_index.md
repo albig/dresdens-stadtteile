@@ -78,13 +78,13 @@ erweitert wurde.
 
 ![](../../ost/striesen/striesfreimaur.jpg)Heute werden die Gebäude als Evangelisches Kreuzgymnasium genutzt und befinden sich seit 1997 in Trägerschaft des Evangelisch-Lutherischen Kirchenkreises Dresden. Außerdem hat hier auch der berühmte Kreuzchor sein Domizil. Zwischen 2006 und 2009 erfolgte eine umfassende Sanierung der Kreuzschule. Dabei entstanden auch ein moderner Verbindungsbau und eine neue Sporthalle auf dem Gelände.
 
-[![](../../ost/striesen/kreuzschule.jpg)](http://www.kreuzschule.de)
+## [Kreuzschule](http://www.kreuzschule.de)
 
 Montessorischule: Das Schulhaus des in der DDR weitverbreiteten Typs Dresden entstand 1971 an der Glashütter Straße 10 und war bis 1990 Domizil der 58. POS. Nach deren Schließung wurde das Gebäude komplett saniert und 2005 von der Freien Montessorischule Huckepack übernommen. Die Schule wird von einem Trägerverein betrieben und unterrichtet Schüler der Grund- und Mittelstufe nach den Grundsätzen der Montessori-Pädagogik. Vor dem Haupteingang befindet sich eine Plastik des kleinen Trompeters, die noch aus DDR-Zeiten stammt. Seit 2006 gehört auch ein berufliches Gymnasium zu dieser Schule.
 
 Private Ganztagsschule IBB: Die private Grundschule wurde 2007 vom Institut für Bildung und Beratung gegründet und hatte ihren Sitz zunächst auf der [Loschwitzer Straße](../../ost/blasewitz/strassen_blasewitz/loschwitzer_strasse/). 2013 bezog sie einen Neubau auf der Paul-Gerhardt-Straße 17. Das moderne Gebäude besitzt acht Klassenzimmer, mehrere  Fachkabinette sowie eine Sporthalle im Obergeschoss. Ein weiterer Neubau entstand 2013/14 an der Augsburger Straße für die Gymnasialstufen .
 
-[![striesener straßen](../../ost/striesen/a_rectangle_610.gif)](../../ost/striesen/strassen_striesen/)
+## [Striesener Straßen](../../ost/striesen/strassen_striesen/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

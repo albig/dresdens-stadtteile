@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:45+01:00
 
 * * *
 
-![ev.-methodistische immanuelkirche  hühndorfer str. 22 01157 dresden tel. 0351/4207325](../../../west/cotta/immanuelkirche/a_rectangle_25.gif)
+Ev.-methodistische immanuelkirche  hühndorfer str. 22 01157 dresden tel. 0351/4207325
 
 
 

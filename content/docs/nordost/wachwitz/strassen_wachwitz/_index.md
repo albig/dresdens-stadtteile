@@ -3,29 +3,29 @@ title: "Straßen und Plätze in Wachwitz"
 date: 2024-02-17T22:13:35+01:00
 ---
 
-![agneshöhe](../../../nordost/wachwitz/strassen_wachwitz/a_rectangle_231.gif)
+## Agneshöhe
 
 Die Agneshöhe in der Siedlung am Wachberg erhielt als jüngste Straße dieses Wohnviertels ihren Namen am 20. März 1936
 nach der Ehefrau des Malers Woldemar Hottenroth, der viele Jahre in Wachwitz lebte. Am Ende der Straße liegt ein gleichnamiger Aussichtspunkt, von dem sich ein schöner Rundblick über das Elbtal bietet.
 
-[![altwachwitz](../../../nordost/wachwitz/strassen_wachwitz/a_rectangle_1324.gif)](../../../nordost/wachwitz/strassen_wachwitz/altwachwitz/)
+## [Altwachwitz](../../../nordost/wachwitz/strassen_wachwitz/altwachwitz/)
 
 
 
-[![am steinberg](../../../nordost/wachwitz/strassen_wachwitz/a_rectangle_1325.gif)](../../../nordost/wachwitz/strassen_wachwitz/am_steinberg/)
+## [Am Steinberg](../../../nordost/wachwitz/strassen_wachwitz/am_steinberg/)
 
-![barfußweg](a_rectangle_234.gif)
+## Barfußweg
 
 Der Barfußweg wurde 1934 so benannt, da er von den Kurgästen der früheren [Kuranstalt Hermann Klenckes](../../../nordost/wachwitz/strassen_wachwitz/klenckescher_kurberg/) zum
 Barfußlaufen genutzt worden war. Zuvor wurde er als Wohnweg 11 und Fußweg B (Stufenweg) bezeichnet. Bis 1923 gehörte er als Privatweg dem Besitzer des Grundstücks Ulrich. Ältestes Gebäude ist das Haus Nr. 4; die anderen
 Wohnhäuser entstanden erst in den 1930er Jahren.
 
-![eichendorffsteig](a_rectangle_235.gif)
+## Eichendorffsteig
 
 Der Eichendorffsteig verbindet den Wachwitzgrund mit dem auf der Höhe gelegenen Stadtteil Rochwitz. Seinen Namen erhielt
 er 1907 auf Beschluss des Wachwitzer Gemeinderats nach dem romantischen Dichter Joseph Freiherr von Eichendorff (1788-1857). An dessen nicht verbürgten Aufenthalt in Wachwitz erinnert eine Gedenktafel an einem Felsen.
 
-![hottenrothstraße](a_rectangle_236.gif)
+## Hottenrothstraße
 
 ![](../../../nordost/wachwitz/strassen_wachwitz/wachwhottenrothstr.jpg)
 Die Siedlung an der Hottenrothstraße entstand ab 1928 durch die Siedlervereinigung Wachwitz und Umgebung. Initiatoren waren der Grafiker und Oberlehrer Albert Herold
@@ -33,7 +33,7 @@ und der Lehrer und Gemeindevertreter Georg Müller. Nach einem Bebauungsplan von
 errichtet. 1931 erhielt die Straße den Namen des Wachwitzer Malers Woldemar Hottenroth (1802-1894). Auch die benachbarte Waldmüllerstraße erinnert an einen
 zeitweise in Wachwitz lebenden Künstler - den Dichter Robert Waldmüller. Weitere Straßen in diesem Gebiet wurden nach dem Schriftsteller Otto Ludwig und der Ehefrau Hottenroths benannt (Agneshöhe).
 
-![josef-herrmann-straße](a_rectangle_237.gif)
+## Josef-Herrmann-Straße
 
 Der Name Josef-Herrmann-Straße erinnert an den bekannten Opernsänger Josef Herrmann (1903-1955), der ab 1939 an
 der Dresdner Staatsoper engagiert war. Herrmann gehörte nach 1945 zu den Aktivisten des wiederentstehenden Kulturlebens
@@ -47,7 +47,7 @@ ließ er sich nach eigenem Entwurf 1912 erbauen. Das Nachbarhaus Nr. 9 bewohnte 
 
 
 
-![oberwachwitzer weg](a_rectangle_238.gif)
+## Oberwachwitzer Weg
 
 ![](../../../nordost/wachwitz/strassen_wachwitz/wachwoberwachweg2.jpg)Der Oberwachwitzer Weg wurde vor der Eingemeindung als Pappritzer Weg bzw.
 Pappritzer Fußsteig bezeichnet, da er den Ort mit dem benachbarten Pappritz verband. Im unteren Teil hieß der steil ansteigende Weg Schlosserberg bzw. Schulberg. Die Gebäude
@@ -69,12 +69,12 @@ Eine weitere größere Villa wurde 1889 am Oberwachwitzer Weg 16 erbaut. Erste B
 Rhoeden, die ihr Haus Villa Louisenheim nannte. Hier zweigt der Königsweg ab, Rest eines früher von Pillnitz bis zum
 Wachwitzer Weinberg durchgehenden Höhenweges. Zum Grundstück gehörte einst auch der kleine Aussichtspunkt Louisens Lust, der noch an einem Podest oberhalb Villa erkennbar ist.
 
-![ohlsche](a_rectangle_239.gif)
+## Ohlsche
 
 Der Straßenname Ohlsche geht auf eine alte Flurbezeichnung zurück, deren Bedeutung unklar ist. Früher wurde diese
 Verbindung auch als Rochwitzer Weg bezeichnet. Noch bis 1885 dominierten hier Weinberge, von denen einer zeitweise im Besitz von Ferdinand Avenarius war.
 
-![otto-ludwig-straße](a_rectangle_240.gif)
+## Otto-Ludwig-Straße
 
 Die Otto-Ludwig-Straße in Oberwachwitz entstand 1935 nach Erweiterung einer Kleinhaussiedlung Am Wachberg.
 Ursprünglich sollten die Gebäude bereits 1932 für die Interessen- und Baugemeinschaft Wachwitz errichtet werden.
@@ -84,27 +84,27 @@ Otto Ludwig (1813-1865) lebte ab 1849 ständig in Dresden und gehörte hier der 
 Dichtern, Komponisten und Malern, an. Seine Wohnungen in der Innenstadt fielen 1945 den Bomben zum Opfer, sein Grab befindet sich auf dem [Trinitatisfriedhof](../../../zentrum/johannstadt/trinitatisfriedhof/).
 
 
-[![pillnitzer landstraße](../../../a_rectangle_223.gif)](../../../nordost/loschwitz/strassen_loschwitz/pillnitzer_landstrasse/)
+## [Pillnitzer Landstraße](../../../nordost/loschwitz/strassen_loschwitz/pillnitzer_landstrasse/)
 
 
 
-![pressgasse](a_rectangle_241.gif)
+## Pressgasse
 
 Die Pressgasse gehört zu den ältesten Wegen in Wachwitz und führte aus den Weinbergen des Rittergutes zur Presse an der
 Pillnitzer Landstraße. Das frühere Winzerhaus wurde um 1940 abgerissen. Im oberen Teil der Straße ließ Konteradmiral
 Wilhelm Korreng um 1930 eine Villa errichten (heute Josef-Herrmann-Straße). Architektonisch interessant ist das 1826 für Johann Gottlob Rosenkranz entstandene Wohnhaus Pressgasse 4, welches unter Denkmalschutz steht.
 
-![schwenkstraße](a_rectangle_242.gif)
+## Schwenkstraße
 
 Die Schwenkstraße erhielt ihren Namen 1937 nach dem Maler Georg Schwenk und dessen Vater, dem Bildhauer Friedrich Wilhelm Schwenk. Das Wohnhaus Schwenkstraße 5 wurde vom Architekten Edmund Schuchardt erbaut.
 
-![victor-böhmert-weg](a_rectangle_243.gif)
+## Victor-Böhmert-Weg
 
 Der Name Victor-Böhmert-Weg erinnert an den früheren Besitzer des Grundstücks Ohlsche 12, den Geheimen Regierungsrat Prof. Carl Victor Böhmert (1829-1918). Böhmert studierte in Leipzig Rechts- und Staatswissenschaften und
 leitete zwischen 1856 und 1860 das Bremer Handelsblatt. Nach Lehrtätigkeit an der Universität Zürich ließ er sich 1875 in
 Dresden nieder und war Direktor des Statistischen Büros und bis 1903 Professor an der Technischen Hochschule.  Die nach ihm benannte kurze Verbindungsstraße wurde 1925 angelegt.
 
-![wachwitzer bergstraße](a_rectangle_244.gif)
+## Wachwitzer Bergstraße
 
 ![](../../../nordost/wachwitz/strassen_wachwitz/wachwbergstr24.jpg)Als erstes Gebäude in diesem Teil des Wachwitzer Elbhangs existierte seit 1896 der [Klenckesche Kurberg](../../../nordost/wachwitz/strassen_wachwitz/klenckescher_kurberg/), der später auch als Ziegenalm bekannt wurde. Erst nach der
 Jahrhundertwende begann der Ausbau eines alten Wirtschaftsweges zur Fahrstraße. Da dieser Straßenbau zunächst privat finanziert worden war, hieß der untere Teil nach dem
@@ -145,16 +145,16 @@ Nr. 16: Zeitgleich mit dem Nachbarhaus entstand kurz vor dem Ersten Weltkrieg di
 
 
 
-[![wachwitzgrund](a_rectangle_247.gif)](../../../nordost/wachwitz/wachwitzgrund/)
+## [Wachwitzgrund](../../../nordost/wachwitz/wachwitzgrund/)
 
-![waldmüllerstraße](a_rectangle_245.gif)
+## Waldmüllerstraße
 
 ![](../../../nordost/wachwitz/strassen_wachwitz/wachwaldm_llerstr.jpg)Die Waldmüllerstraße wurde 1931 im Zusammenhang mit dem Bau der Siedlung am
 Wachberg in Oberwachwitz angelegt und nach dem Dichter und Schriftsteller Charles Edouard Duboc (Pseudonym Robert Waldmüller) (1822-1910) benannt. Waldmüller wohnte ab 1857 im Bergnest in Wachwitz und war Mitglied der Dresdner
 Montagsgesellschaft sowie Präsident der Deutschen Schiller-Stiftung. Zur Versorgung der Bevölkerung des neuen Wohngebietes entstand Mitte der 1930er Jahre im Haus
 Waldmüllerstraße 20 die Getränke- und Lebensmittelhandlung Sieber. 1947 übernahm der Konsum das Geschäft und führte es bis 1992.
 
-![wollnerstraße](a_rectangle_246.gif)
+## Wollnerstraße
 
 Die Wollnerstraße entstand 1927 durch Ausbau eines schmalen Privatweges und wurde nach dem Besitzer des angrenzenden
 Grundstücks, dem Fabrikbesitzer Robert Wollner, benannt. Wollner gehörte auch dem Wachwitzer Gemeinderat an und hatte

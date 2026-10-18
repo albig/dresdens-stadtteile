@@ -95,7 +95,7 @@ Das mehrfach modernisierte Mockritzer Bad wird heute von den Quellen des Tiefen 
 Modernisierungsarbeiten erfolgten Mitte der 1990er Jahre. Im Zuge der Maßnahmen verkleinerte sich die Wasserfläche auf ca. 10.000 m², die einst inmitten des Teichs liegende Insel wurde zur Liegewiese. Als Abschluss der
 Arbeiten kam 2011 noch eine Kaltwasser-Kneipp-Anlage hinzu.
 
-![freibad mockritz mit internationalem campingplatz münzteichweg 31, 01217 dresden, tel. 0351-4718201](../../sud/mockritz/a_rectangle_671.gif)
+Freibad mockritz mit internationalem campingplatz münzteichweg 31, 01217 dresden, tel. 0351-4718201
 
 Kleingartenverein Mockritz:
 
@@ -103,7 +103,7 @@ Die Kleingartenanlage am Nöthnitzbach wurde 1920 durch die Carl-Ernst-von-Eulit
 wurden bevorzugt an ärmere Bevölkerungsschichten verpachtet, um ihnen so eine bessere Versorgung mit Lebensmitteln
 zu ermöglichen. 1927 entstand ein Vereinshaus, welches 1953 erweitert wurde. Nach Enteignung der Stiftung 1952 übernahm der Kleingärtnerverband die Gartenanlage, die heute 114 Gärten umfasst.
 
-[![mockritzer straßen](../../sud/mockritz/a_rectangle_672.gif)](../../sud/mockritz/strassen_mockritz/)
+## [Mockritzer Straßen](../../sud/mockritz/strassen_mockritz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

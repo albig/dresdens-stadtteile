@@ -48,7 +48,7 @@ date: 2024-02-17T22:13:44+01:00
 
 [![](../../sudwest/gorbitz/omse-laborschule.jpg)](http://www.laborschule-dresden.de)
 
-[![astrid-lindgren- fachschule für geistig behinderte  lise-meitner-str. 22 01169 dresden](../../sudwest/gorbitz/a_rectangle_1775.gif)](http://cms.sn.schule.de/fsal)
+[Astrid-lindgren- fachschule für geistig behinderte  lise-meitner-str. 22 01169 dresden](http://cms.sn.schule.de/fsal)
 
 
 Gorbitz wurde 1206 erstmals als Gurbewicz urkundlich erwähnt und entstand als slawische Siedlung am Westhang des Elbtals. Der Ortsname ist vom altsorbischen Wort Gora = Hügel abgeleitet und weist auf die
@@ -134,7 +134,7 @@ Whirlpool, Solarium und Saunalandschaft sowie einen Restaurantbereich und Geträ
 
 [![](../../sudwest/gorbitz/elbamare.jpg)](http://www.elbamare.de)
 
-[![gorbitzer straßen](../../sudwest/gorbitz/a_rectangle_454.gif)](../../sudwest/gorbitz/strassen_gorbitz/)
+## [Gorbitzer Straßen](../../sudwest/gorbitz/strassen_gorbitz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

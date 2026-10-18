@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:32+01:00
 
 * * *
 
-![carl-maria-von-weber- gedenkstätte  dresdner straße 44 01326 dresden  tel. 0351/2618234](../../../../nordost/hosterwitz/dresdner_strasse/webergedenkstatte/a_rectangle_1081.gif)
+Carl-maria-von-weber- gedenkstätte  dresdner straße 44 01326 dresden  tel. 0351/2618234
 
 
 

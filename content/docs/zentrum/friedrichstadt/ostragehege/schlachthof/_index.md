@@ -3,7 +3,7 @@ title: "Schlachthof"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-[![homepage der  messe dresden    www.messe-dresden.de](a_rectangle_1630.gif)](http://www.messe-dresden.de)
+[Homepage der  messe dresden    www.messe-dresden.de](http://www.messe-dresden.de)
 
 
 * * *

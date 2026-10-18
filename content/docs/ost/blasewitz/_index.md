@@ -18,7 +18,7 @@ date: 2024-02-17T22:13:37+01:00
 
 [![](../../ost/blasewitz/blasewitzonline.jpg)](http://www.blasewitz1.de)
 
-[![blasewitz begreifen  homepage der ag ](../../ost/blasewitz/a_rectangle_822.gif)](http://www.dresden-blasewitz.de)
+## [Blasewitz Begreifen Homepage der Ag](http://www.dresden-blasewitz.de)
 
 * * *
 
@@ -28,7 +28,7 @@ date: 2024-02-17T22:13:37+01:00
 
 ![](../../bibodd.jpg)
 
-[![bibliothek blasewitz tolkewitzer str. 8 01309 dresden tel. 0351/3400854](../../ost/blasewitz/a_rectangle_1002.gif)](http://www.bibo-dresden.de)
+[Bibliothek blasewitz tolkewitzer str. 8 01309 dresden tel. 0351/3400854](http://www.bibo-dresden.de)
 
 [![](../../ost/blasewitz/63gsblasewitz.jpg)](http://www.63-grundschule-dresden.de)
 
@@ -175,7 +175,7 @@ Eine weiteres Elbebad wurde 1876 erstmals erwähnt und anfangs als  Kießling
 befand es sich in städtischem Besitz. Dieses Bad erfreute sich als Kinderbad (Schnippelbad) großer Beliebtheit und
 wurde auch für den Schwimmunterricht genutzt. Das Stadtbad Blasewitz schloß in den Jahren nach dem Ersten Weltkrieg aus wirtschaftlichen Gründen.
 
-[![blasewitzer straßen](../../ost/blasewitz/a_rectangle_970.gif)](../../ost/blasewitz/strassen_blasewitz/)
+## [Blasewitzer Straßen](../../ost/blasewitz/strassen_blasewitz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

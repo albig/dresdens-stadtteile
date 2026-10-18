@@ -33,7 +33,7 @@ geschaffen. 1925/26 entstanden Einfamilienhaussiedlungen Am Stieglitzgrund und d
 
 **_Foto:_** _Straßenbahn-Endstelle Wölfnitz um 1935, im Hintergrund (rechts) der Gasthof Wölfnitz_
 
-[![wölfnitzer straßen](../../sudwest/wolfnitz/a_rectangle_489.gif)](../../sudwest/nausslitz/strassen_nausslitz/)
+## [Wölfnitzer Straßen](../../sudwest/nausslitz/strassen_nausslitz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

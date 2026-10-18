@@ -7,7 +7,7 @@ date: 2024-02-17T22:13:35+01:00
 
 ![](../../../../nordost/schonfeld-weissig/eschdorf/eschdorfer_kirche/eschdkirche.jpg)
 
-![ev.-lutherische  st.-barbara-kirche eschdorf am kirchberg 3 01328 dresden  tel. 035036-91425](../../../../nordost/schonfeld-weissig/eschdorf/eschdorfer_kirche/a_rectangle_291.gif)
+Ev.-lutherische  st.-barbara-kirche eschdorf am kirchberg 3 01328 dresden  tel. 035036-91425
 
 ![](../../../../nordost/schonfeld-weissig/eschdorf/eschdorfer_kirche/museumdachboden.jpg)
 

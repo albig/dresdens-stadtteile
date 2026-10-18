@@ -5,7 +5,7 @@ date: 2024-02-17T22:13:47+01:00
 
 * * *
 
-![innerer katholischer friedhof  friedrichstr. 54 01067 dresden  tel. 0351/4 96 30 82](../../../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/innerer_katholischer_friedhof/a_rectangle_1651.gif)
+Innerer katholischer friedhof  friedrichstr. 54 01067 dresden  tel. 0351/4 96 30 82
 
 **Übersichtsplan:**
 

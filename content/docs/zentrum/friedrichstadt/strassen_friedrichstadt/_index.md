@@ -3,15 +3,15 @@ title: "Straßen und Plätze in der Friedrichstadt"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-![adlergasse](a_rectangle_1584.gif)
+## Adlergasse
 
 ![](../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedradlergasse.jpg)![](../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstadtriesaev.jpg)Die Adlergasse wurde 1725 angelegt und zunächst Neue Gasse genannt. Nach dem benachbarten Gasthaus Zum Schwarzen Adler erhielt sie 1840 den Namen Adlergasse. Die meist nur ein- und zweigeschossigen Gebäude entstanden zwischen 1790 und 1900. In einem dieser Häuser wurde 1850 der sozialdemokratische Verleger Max Kegel geboren, der 1879 Herausgeber der Dresdner Abendzeitung und des Satireblattes Hiddigeigei war.Im Haus Adlergasse 9 gab es vor 1945 das kleine Hotel König Anton. Hinzu kamen einige kleinere Handwerks- und Gewerbebetriebe. Einige Häuser der Adlergasse fielen 1945 den Bomben zum Opfer. Weitere Gebäude wurden nach 1960 wegen ihres schlechten Bauzustandes abgetragen, so dass heute nur noch ein geringer Teil der ursprünglichen Bebauung vorhanden ist.
 
 Im Eckhaus Adlergasse 14 _(Foto)_ befindet sich die frühere Gaststätte Stadt Riesa, die seit 1990 als Kulturzentrum riesa efau genutzt wird. Regelmäßig finden in hier öffentliche Veranstaltungen, Ausstellungen und Seminare statt. Außerdem dient das Haus als soziokulturelles Stadtteilzentrum und Domizil verschiedener Vereine und Initiativen. Ein moderner Ergänzungsbau entstand 2012-15 an der Wachsbleichstraße 4a.#
 
-[![kulturverein riesa efau - adlergasse 14 01067 dresden tel.: 0351 / 866 02-11 - fax.: 0351 / 866 02-12 - verein@riesa-efau.de](../../../zentrum/friedrichstadt/strassen_friedrichstadt/a_rectangle_1799.gif)](http://www.riesa-efau.de)
+[Kulturverein riesa efau - adlergasse 14 01067 dresden tel.: 0351 / 866 02-11 - fax.: 0351 / 866 02-12 - verein@riesa-efau.de](http://www.riesa-efau.de)
 
-![altonaer straße](a_rectangle_1585.gif)
+## Altonaer Straße
 
 ![](friedrichstaltonaerstr.jpg)Die Altonaer Straße geht auf einen früheren Weg an der alten kurfürstlichen Ziegelei zurück und wurde deshalb früher An der Ziegelscheune genannt. In unmittelbarer Nähe befand sich der zur Erhebung der städtischen Akzise dienende Löbtauer Schlag. Im Umfeld der Ziegeleigebäude entstand Anfang des 19. Jahrhunderts eine kleine Siedlung, die nach einer hier gelegenen Gastwirtschaft Altona genannt wurde. Unweit davon lag das aus wenigen Häusern bestehende Klein Hamburg. Außerdem gab es in diesem Teil der Friedrichstadt das als Quarantänestation und Hilfskrankenhaus genutzte Probierhaus, welches in Seuchenzeiten krankheitsverdächtigen Reisenden als Unterkunft diente.
 
@@ -25,27 +25,27 @@ ursprünglich als Privatbrauerei gegründete Unternehmen gehörte um 1900 zur 
 Bereits 1911 hatte man den eigentlichen Braubetrieb aus wirtschaftlichen Gründen eingestellt. In den hier befindlichen Ställen wurden zeitweise auch die für die
 Impfstoff-Herstellung des Sächsischen Serumwerkes erforderlichen Pferde gehalten. Aus Platzgründen zog das Unternehmen jedoch später zur Zirkusstraße um. Das Gelände der früheren Brauerei dient heute gewerblichen Zwecken.
 
-![am bramschkontor](a_rectangle_1591.gif)
+## Am Bramschkontor
 
 Die Straße wurde 2011 auf dem Areal der früheren [Spirituosenfabrik Bramsch](../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/bramsch-spirituosenfabrik/) angelegt und erschließt hier ein neues Wohngebiet. Nach dem Abriss der ehemaligen Produktionsgebäude blieb lediglich das inzwischen zu Wohnzwecken
 umgebaute Kontorhaus erhalten. Dieses gab den Anlass zur am 18. Januar 2012 offiziell beschlossenen Namensgebung Am Bramschkontor.
 
-![bauhofstraße](a_rectangle_1586.gif)
+## Bauhofstraße
 
 ![](../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstbauhofstr.jpg)1864 entstand in verkehrsgünstiger Lage unmittelbar am Gleisdreieck der Eisenbahn der städtische Straßenbauhof. Hier wurden die per Bahn angelieferten Rohbaumaterialien für den Straßenbau gelagert und für ihre künftige Verwendung vorbereitet. Im gleichen Jahr erhielt die an diesem Betrieb entlangführende Straße die Bezeichnung Bauhofstraße.
 
 Gegenüber des Straßenbauhofes wurden 1864/65 einfache Arbeiterwohnhäuser errichtet _(Foto)_. In den Erdgeschosszonen gab es auch einige kleinere Läden sowie in der Nr. 11 und 27 zwei Schankwirtschaften. Trotz Kriegszerstörungen blieben Teile der Bebauung bis heute erhalten und wurden nach 1990 größtenteils saniert.
 
-![behringstraße](a_rectangle_1587.gif)
+## Behringstraße
 
 Die Behringstraße wurde um 1840 angelegt und nach dem sächsisch-österreichischen Kammerherrn Peter Paul Graf von Marcolini (1788-1863) zunächst Petergasse genannt. Marcolini hatte 1814 von seinem Vater das Palais an der Friedrichstraße geerbt und bewohnte es bis 1835. Da der seit 1893 verwendete Straßenname Peterstraße in der Nachkriegszeit als nicht mehr zeitgemäß angesehen wurde, beschloss man 1946 die Umbenennung in Behringstraße. Emil Adolf von Behring (18541917) gilt als Begründer der Serumheilkunde und Immunitätslehre und entwickelte einen Impfstoff gegen Diphterie und Wundstarrkrampf. 1901 erhielt er für seine Verdienste den Medizin-Nobelpreis.
 
 Die Wohngebäude der Behringstraße entstanden im letzten Drittel des 19. Jahrhunderts und weisen zum Teil repräsentative Klinkerfassaden auf. Auch im Inneren finden sich interessante Architekturdetails, so eine neobarocke Deckenbemalung im Treppenhaus von Nr. 48. Bemerkenswert ist auch das 1895 als Verwaltungsgebäude der sächsischen Staatseisenbahn errichtete Haus Behringstraße 22. In der heute nicht mehr vorhandenen Nr. 7 befand sich um 1900 die Polizeiwache des 4. Bezirks. Das ebenfalls zerstörte Gebäude Behringstraße 45 an der Ecke zur Cottaer Straße war bis 1945 Sitz der
 Dresdner Papier- Zigarrenspitzen- Fabrik Fleischer & Co., einem der zahlreichen Zulieferer der Dresdner Tabakwarenindustrie.
 
-[![berliner straße](a_rectangle_1588.gif)](../../../zentrum/friedrichstadt/strassen_friedrichstadt/berliner_strasse/)
+## [Berliner Straße](../../../zentrum/friedrichstadt/strassen_friedrichstadt/berliner_strasse/)
 
-![bodelschwinghstraße](a_rectangle_1589.gif)
+## Bodelschwinghstraße
 
 ![](../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstbodelschwinghstr2.jpg)Die Bodelschwinghstraße entstand nach dem Ersten Weltkrieg und wurde am 14. Oktober 1926 nach dem evangelischen Theologen Friedrich von Bodelschwingh (1831-1910) benannt. Bodelschwingh widmete sich der Pflege und Betreuung geistig behinderter Menschen und gründete in Bethel bei Bielefeld die Bodelschwinghschen Anstalten, eine der größten kirchlichen Hilfseinrichtungen der Inneren Mission.
 
@@ -53,7 +53,7 @@ Dresdner Papier- Zigarrenspitzen- Fabrik Fleischer & Co., einem der zahlreichen 
 
 
 
-![bräuergasse](a_rectangle_1590.gif)
+## Bräuergasse
 
 ![](friedrichstbr_uergasse.jpg)Die Bräuergasse erhielt 1848 ihren Namen nach dem 1720 gegründeten Brauhaus der Gräfin von Manteuffel. Dieses gehörte zu den ersten gewerblichen Betrieben in der Friedrichstadt und entwickelte sich später zu einer Gastwirtschaft. 1880 wurde das Grundstück in das Krankenhausgelände einbezogen und die Gebäude wenig später abgerissen. Bis heute nimmt das Krankenhausareal die gesamte Westseite der Bräuergasse ein, während an der Ostseite Mietshäuser vom Ende des 19. Jahrhunderts dominieren _(Foto)_. Im Eckhaus zur Friedrichstraße 37 befand sich viele Jahrzehnte die kleine Gaststätte Weißes Rössl, deren Räume heute vom Verein Rösslstube des Friedrich Rössl für verschiedene Veranstaltungen genutzt werden. Am 3. September 1875 öffnete in einem Mietshaus auf der Bräuergasse Dresdens erste Volksbibliothek. Betreiber war der ein Jahr zuvor gegründete Gemeinnützige Verein zur Förderung der sittlichen, geistigen und ökonomischen Interessen der Bevölkerung Dresdens
 
@@ -61,7 +61,7 @@ Manteuffelsches Brauhaus: Nachdem 1718-21 Reichsgraf Ernst Christoph von Manteuf
 
 Das an der Ecke Bräuergasse/Friedrichstraße gelegene Brauhaus besaß um 1725 neben den Produktionsräumen vier Gaststuben sowie einen großen Gästegarten. Außerdem gehörten Meierei, Scheune, Wagenschuppen, Gärtnerhaus und ein Eiskeller zum Areal. Hinzu kamen großzügige Gartenanlagen mit Gewächshäusern, Wasserspielen und verschiedenen Statuen. Am 11. Januar 1726 erwarb August der Starke das Grundstück. Da der Kurfürst plante, die Brauerei künftig als Hofbrauhaus zu nutzen, wurde die Fläche wenig später aufgeteilt. Die dabei entstandene sogenannte Lustgartenparzelle schenkte August 1727 seinem Vertrauten Friedrich Ludwig Herzog zu Württemberg. Aus dieser ging später der [Brühlsche Garten](../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/marcolinipalais/) hervor. Brühl hatte bereits 1735 das Manteuffelsche Brauhaus aus besonderen Gnaden und für geleistete Dienste von Friedrich August II. erhalten, verkaufte es jedoch schon 1740 für 70.000 Taler an den Staat. Bis zu seiner Schließung 1880 gehörte das Lokal zu den beliebtesten Einkehrstätten der Stadt. An seiner Stelle entstand nach dem Abbruch ein Ärzte- und Beamtenhaus für das [Städtische Krankenhaus](../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/marcolinipalais/krankenhaus_friedrichstadt/)
 
-![bremer straße](a_rectangle_1625.gif)
+## Bremer Straße
 
 Die seit November 1900 nach der norddeutschen Hansestadt Bremen benannte Verbindungsstraße zwischen Friedrichstraße und Hamburger Straße trug ursprünglich den Namen Friedrichstädter Friedhofsweg. Bereits 1851 war hier der Äußere bzw. [Neue Matthäusfriedhof](../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/matthauskirche/matthausfriedhof/) angelegt worden. 1875 folgte auf dem benachbarten Grundstück der [Äußere Katholische Friedhof](../../../zentrum/friedrichstadt/ausserer_katholischer_friedhof/). Beide Friedhöfe besitzen eine Reihe historisch bemerkenswerter Grabanlagen.
 
@@ -82,15 +82,15 @@ Auch in diesem Teil der Friedrichstadt rissen die Bomben des Luftangriffs 1945 g
 
 Zu den ältesten Häusern der Straße gehört das villenartige Wohngebäude Nr. 25 (um 1860). Im Eckhaus zur Peterstraße (heute Behringstraße) befand sich von 1911 bis zur Zerstörung 1945 das Restaurant "Peterhof" (Nr. 5). Ein weiteres Lokal gab es im gegenüberliegenden Eckhaus (Nr. 3). Um 1930 wurden diese Räume vom Konsumverein Vorwärts als Lebensmittelhandlung genutzt. Einkehrmöglichkeiten bestanden zudem in der bereits um 1890 eröffneten Schankwirtschaft "Cottaer Hof" (Nr. 19) und im "Cottaer Eck" an der Einmündung der Semmelweisstraße. Gegründet wurde letzteres bereits 1829 als Kaffeegarten von Johann Georg Wustmann. Ab 1891 war der Name "Altona", wohl nach der nahegelegenen Altonaer Straße gebräuchlich. 1943 wechselte der Name in "Cottaer Eck", bevor das Haus 1945 den Bomben zum Opfer fiel.
 
-![dinterstraße](a_rectangle_1593.gif)
+## Dinterstraße
 
 ![](../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstdinterstra_e.jpg)Die zu den älteren Straßen der Friedrichstadt gehörende Dinterstraße trug ab 1840 wegen ihres gekrümmten Verlaufs den Namen Krumme Gasse. Nachdem dieser Weg begradigt und ausgebaut worden war, erhielt er 1873 den Namen Dinterstraße. Mit der Namensgebung sollte an den Theologen und Schuldirektor Christian Friedrich Dinter (1760-1831) erinnert werden. Dinter leitete zwischen 1797 und 1807 das Friedrichstädter [Lehrerseminar](../../../zentrum/friedrichstadt/lehrerbildungsseminar/) und war später bis zu seinem Tod in Königsberg tätig.
 
 1867 wurde an der Dinterstraße die Königliche Frauenklinik eröffnet. Nach Verlegung dieser Einrichtung nach Johannstadt übernahm das [Friedrichstädter Krankenhaus](../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/marcolinipalais/krankenhaus_friedrichstadt/) die Gebäude. 1988 wurde die Dinterstraße in das Klinikgelände _(Foto)_ einbezogen.
 
-[![drescherhäuser](a_rectangle_1594.gif)](../../../zentrum/friedrichstadt/strassen_friedrichstadt/drescherhauser/)
+## [Drescherhäuser](../../../zentrum/friedrichstadt/strassen_friedrichstadt/drescherhauser/)
 
-![emerich-ambros-ufer](a_rectangle_1595.gif)
+## Emerich-Ambros-Ufer
 
 ![](friedrichstambrosufer.jpg)Nachdem zwischen 1891 und 1893 die Weißeritz in westlicher Richtung verlegt worden war, entstand auf beiden Seiten des neuen Flussbettes eine Uferstraße, die 1894 den Namen Weißeritzufer erhielt. Vier Jahre später wurde dieser Name auch auf die gegenüberliegende Straßenseite übertragen. Die Grundstücke zwischen Bahngleisen und Uferstraße wurden 1893/94 mit Wohnhäusern für die auf dem [Rangierbahnhof](../../../zentrum/friedrichstadt/dresden_-_berlin/rangierbahnhof/) und in den Eisenbahnwerkstätten beschäftigten Eisenbahner bebaut _(Foto)_. Hinzu kamen mehrere Dienstgebäude des Reichsbahnausbesserungswerkes sowie 1906 die Kleingartensparte Erholung. Auch am gegenüberliegenden Weißeritzufer entstanden später Kleingärten.
 
@@ -104,11 +104,11 @@ Sportplatz: Die Anlage wurde 1934 vom Eisenbahner-Sportverein VfL Reichsbahn Dre
 
 [![](../../../zentrum/friedrichstadt/strassen_friedrichstadt/w_chterh_user.jpg)](http://www.haushalten-dresden.de)
 
-![floßhofstraße](a_rectangle_1596.gif)
+## Floßhofstraße
 
 Die 1864 benannte Floßhofstraße erinnert an den einstigen Löbtauer Floßhof, in dem das auf der Weißeritz nach Dresden geflößte Holz sortiert und gelagert wurde. Später entstanden auf diesem Gelände Wohn- und Gewerbebauten. 1945 wurden große Teile der Bebauung der Floßhofstraße zerstört. Die verbliebenen Häuser stehen heute meist leer.
 
-![](../../../zentrum/friedrichstadt/strassen_friedrichstadt/fl_gelweg.jpg)
+## Flügelweg
 
 ![](../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrflügelweg.jpg)Der Flügelweg entstand 1875 als Verbindung zwischen Cotta und der heutigen Hamburger Straße. Um 1903 wurde er bis zur Einfahrt des [König Albert-Hafens](../../../zentrum/friedrichstadt/alberthafen/) verlängert. Die ab 1880 nachweisbare Namensgebung stammt von einem Flurnamen ab. Ältestes Gebäude ist das 1894 als Beamtenwohnhaus des Rangier- und Werkstättenbahnhofes errichtete Wohngebäude Nr. 1.
 
@@ -116,9 +116,9 @@ Die 1864 benannte Floßhofstraße erinnert an den einstigen Löbtauer Floßhof, 
 
 Zur Verbesserung der Verkehrssituation am Knotenpunkt Flügelweg / Hamburger Straße wurde zwischen 2004 und 2006 ein umfassender Umbau der Kreuzung vorgenommen. Der Flügelweg wurde in diesem Zusammenhang abgesenkt und durch einen Tunnel geführt, um eine kreuzungsfreie Zufahrt zur Flügelwegbrücke zu ermöglichen. Die offizielle Einweihung des Baus erfolgte am 19. Juni 2006.
 
-[![friedrichstraße](a_rectangle_1624.gif)](../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/)
+## [Friedrichstraße](../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/)
 
-![fröbelstraße](a_rectangle_1631.gif)
+## Fröbelstraße
 
 Die Fröbelstraße entstand 1887 zwischen Löbtauer Straße und Kohlenbahnhof und erhielt ihren Namen nach dem Pädagogen Friedrich Fröbel (1782-1852). Fröbel befasste sich als einer der ersten mit Aspekten der Vorschulerziehung von Kindern und gründete 1837 in Blankenburg/Thür. den ersten deutschen Kindergarten. 1838/39 weilte er in Dresden und initiierte die Einrichtung einer Spielanstalt in der Nähe des Postplatzes (Am See 22). Zehn Jahre später übernahm er hier die Leitung von Kursen für angehende Kindergärtnerinnen.
 
@@ -130,7 +130,7 @@ Seit Ende des 19. Jahrhunderts hatten sich an der Fröbelstraße auf Friedrichst
 
 ![](../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrfröbelstr101.jpg)Firma Ernst Noack: Zu den bedeutendsten Dresdner Bauunternehmungen der Zeit vor dem Zweiten Weltkrieg gehörte die Firma des Baumeisters Ernst Noack (1861-1924). Noack war ab 1905 Hofzimmermeister und ab 1912 Obermeister der Dresdner Baumeisterinnung. Sein Büro befand sich auf der Fröbelstraße 101, wo er an der Ecke zur Straße Drescherhäuser einen Werkplatz unterhielt _(Foto)_. Noack selbst wohnte bis 1903 auf der Meußlitzer Straße 67, danach in einer von ihm selbst entworfenen Villa auf der Holsteiner Straße 8 in Stetzsch. Zu seinen Schöpfungen gehörte u.a. die Interimsbrücke während des Neubaus der Augustusbrücke 1907, mehrere Villen und Wohnhäuser sowie temporäre Bauten für die Ausstellung "Die alte Stadt" (1896), die 3. Deutsche Kunstgewerbeausstellung (1906), die "Jahresschau Deutscher Arbeit 1925" sowie die Festhalle zum Deutschen Sängerbundfest 1925.
 
-![gambrinusstraße](a_rectangle_1619.gif)
+## Gambrinusstraße
 
 ![](../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstgambrinusstr.jpg)Der Name Gambrinusstraße erinnert an die ehemalige Gambrinusbrauerei an der Einmündung Löbtauer / Altonaer Straße. Diese seit 1872 als Aktiengesellschaft fungierende Brauerei existierte noch bis nach dem Ersten Weltkrieg, musste jedoch 1923 aus wirtschaftlichen Gründen ihren Betrieb einstellen. Heute werden die noch vorhandenen Gebäude von verschiedenen Firmen genutzt.
 
@@ -144,17 +144,17 @@ Auch nach dem Zweiten Weltkrieg blieb die Firma in Familienbesitz und wurde ab 1
 
 Der nördlich des Alberthafen verlaufende Hafenweg ist bereits kurz nach 1900 in alten Stadtplänen verzeichnet, trug damals jedoch noch keinen Namen. Seit ca. 1910 wird er als Hafenweg bezeichnet.
 
-[![hamburger straße](../../../a_rectangle_399.gif)](../../../west/cotta/strassen_cotta/hamburger_strasse/)
+## [Hamburger Straße](../../../west/cotta/strassen_cotta/hamburger_strasse/)
 
 
 
-[![hohenthalplatz](a_rectangle_1592.gif)](../../../zentrum/friedrichstadt/strassen_friedrichstadt/hohenthalplatz/)
+## [Hohenthalplatz](../../../zentrum/friedrichstadt/strassen_friedrichstadt/hohenthalplatz/)
 
-![institutsgasse](a_rectangle_1620.gif)
+## Institutsgasse
 
 Die am 1772 gegründeten [Freimaurerinstitut](../../../zentrum/friedrichstadt/) entlangführende Straße erhielt 1840 den Namen Institutsgasse. Ursprünglich als Armenschule gedacht, wandelte sich das Freimaurerinstitut im 19. Jahrhundert zu einer Internatsschule für höhere Kreise und wurde 1899 nach Striesen verlegt. Die früheren Schulgebäude wurden wenig später abgetragen. An ihrer Stelle entstanden viergeschossige Mietshäuser. Teile der Bebauung fielen den Bomben des Zweiten Weltkriegs zum Opfer.
 
-![](../../../zentrum/friedrichstadt/strassen_friedrichstadt/koreanischer_platz.jpg)
+## Koreanischer Platz
 
 ![](../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrkoreaplatz.jpg)Als Koreanischer Platz wird seit 2015 die Freifläche zwischen Adlergasse, Schäferstraße
 und Weißeritzstraße bezeichnet. Ursprünglich standen hier einfache Arbeiterwohnhäuser, die jedoch bis 1989 abgerissen wurden. Danach diente die Fläche viele Jahre als Parkplatz. Erst
@@ -163,9 +163,9 @@ und Weißeritzstraße bezeichnet. Ursprünglich standen hier einfache Arbeiterwo
 2014 besuchte die Präsidentin Südkoreas, Park Geun-hye, Dresden. In diesem Zusammenhang kam die Idee auf, eine öffentliche Straßenfläche in der Stadt nach Korea zu
 benennen und so an die vielfältigen Beziehungen zwischen dem Land und Dresden zu erinnern. Am 24. März 2015 erhielt der Platz deshalb den offiziellen Namen Koreanischer Platz.
 
-[![löbtauer straße](a_rectangle_531.gif)](../../../sudwest/lobtau/strassen_lobtau/lobtauer_strasse/)
+## [Löbtauer Straße](../../../sudwest/lobtau/strassen_lobtau/lobtauer_strasse/)
 
-![manitiusstraße](a_rectangle_1621.gif)
+## Manitiusstraße
 
 ![](friedrichstmanitiusstr.jpg)Die Manitiusstraße wurde 1903 auf dem Gelände des zuvor abgerissenen ehemaligen [Freimaurerinstitutes](../../../zentrum/friedrichstadt/) angelegt und nach dessen ehemaligem Direktor August Sigismund
 Manitius (1792-1861) benannt. Manitius übernahm das Amt des Schulleiters 1824 und übte es bis 1856 aus. Später arbeitete er noch einige Jahre als Religions- und
@@ -175,7 +175,7 @@ Trotz einiger Kriegsverluste blieb die ursprüngliche Bebauung bis heute im wese
 erhalten. 1905-08 entstanden die Wohnhäuser Manitiusstraße Nr. 7, 10 und 12, die Anklänge an den Jugendstil aufweisen. Die nach einheitlichen Gestaltungsprinzipien entworfene Wohnhausgruppe Nr 1-5 _(Foto)_
 folgte um 1925 und weist Elemente des Expressionismus auf.
 
-![menageriestraße](a_rectangle_1622.gif)
+## Menageriestraße
 
 Die Menageriestraße erhielt ihren Namen um 1840 und erinnert an den ehemaligen Küchengarten des Ostravorwerks. Als
 Menagerie wurde früher ein speziell zur Haltung von Kleintieren gedachtes Gehege bezeichnet. Hier züchtete man neben
@@ -191,13 +191,13 @@ Krankenhauses. 1994 errichteten private Investoren auf einem Grundstück am Hohe
 1848/49 fand der revolutionäre russische Demokrat Bakunin unter dem falschen Namen Dr. Schwarz vorübergehend im Menageriegarten Unterschlupf . Bakunin gehörte zum Kreis um Richard Wagner und war aktiv am Dresdner Maiaufstand
 beteiligt. Wagner nannte ihn in Anerkennung seiner Rolle den Oberfeuerwerker der Aufständischen.
 
-![messering](a_rectangle_1623.gif)
+## Messering
 
 Der Messering entstand 1909 im Zusammenhang mit dem Bau des neuen [Schlachthofes](../../../zentrum/friedrichstadt/ostragehege/schlachthof/) im Ostragehege und erhielt zunächst
 den Namen Schlachthofring. Als Zufahrt diente die von der Friedrichstraße abgehende Schlachthofstraße mit Brücke über die
 Flutrinne. Nach Umbau des Schlachthofes zum Messegelände wurde der Schlachthofring 2000 in Messering umbenannt. Zuvor waren auch die Namen Zur Messe bzw. Ostraring im Gespräch.
 
-![pieschener allee](a_rectangle_1615.gif)
+## Pieschener Allee
 
 ![](../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstadtpieschenerallee.jpg)
 Die 1,8 km lange Pieschener Allee wurde im 18. Jahrhundert als Verbindungsweg zwischen Residenz und Ostragehege angelegt. Die mit einer Doppelreihe von Lindenbäumen flankierte Straße
@@ -213,7 +213,7 @@ Gebäude aus DDR-Zeiten ersetzen wird. Zum Auftakt konnte am 31. August 2007 ber
 
 **_Foto:_** _Gartenwirtschaft Onkel Toms Hütte_
 
-![preßlerstraße](../../../zentrum/friedrichstadt/strassen_friedrichstadt/a_rectangle_1649.gif)
+## Preßlerstraße
 
 Die Preßlerstraße wurde 1903 als Verbindung zwischen Gambrinus- und Peterstraße (heute Behringstraße) angelegt, ist heute jedoch in den aktuellen Stadtplänen nicht mehr verzeichnet. Ihren Namen verdankte sie dem
 Vermessungsingenieur Friedrich Karl Preßler (1809-1857), der Mitte des 19. Jahrhunderts ein Projekt zur Verlegung der Weißeritz und zum Bau eines
@@ -221,7 +221,7 @@ Elbhafens sowie eines Dresdner Zentralbahnhofes ausarbeitete. Preßler Vorstellu
 
 
 
-![roßthaler straße](a_rectangle_1626.gif)
+## Roßthaler Straße
 
 Die Roßthaler Straße entstand Ende des 19. Jahrhunderts am Weißeritzufer und wurde daraufhin mit Wohnhäusern bebaut.
 Außerdem existierte hier zeitweise das Hotel Roßthaler Hof (Nr. 1). Im gleichen Haus hatte zeitweise die Fluss- und
@@ -235,16 +235,16 @@ _Fotos:_ _Blick in die Roßthaler Straße mit dem ehemaligen Hotel Roßthaler 
 
 _rechtes Bild: Sanierung der Wohnhäuser Roßthaler Straße 2013_
 
-![rudolf-harbig-weg](a_rectangle_1979.gif)
+## Rudolf-Harbig-Weg
 
 Der zuvor namenlose ca. 350 Meter lange Verbindungsweg zwischen Pieschener Allee und Eishalle erhielt auf Beschluss des
 Stadtrates im September 2013 offiziell den Namen Rudolf-Harbig-Weg. Rudolf Harbig (1912-1944) gehörte in den 1930er
 Jahren zu den bekanntesten deutschen Leichtathleten. Der in Dresden aufgewachsene Sportler war zweifacher Europameister
 (800-Meter-Lauf, 4x 400-Meter-Staffel) und siebenfacher deutscher Meister. 1944 fiel er an der Ostfront in der Ukraine.
 
-[![schäferstraße](a_rectangle_1627.gif)](../../../zentrum/friedrichstadt/strassen_friedrichstadt/schaferstrasse/)
+## [Schäferstraße](../../../zentrum/friedrichstadt/strassen_friedrichstadt/schaferstrasse/)
 
-![seminarstraße](a_rectangle_1650.gif)
+## Seminarstraße
 
 ![](friedrichstseminarstr.jpg)Die Seminarstraße gehört zu den ältesten Straßen der Friedrichstadt und entstand 1678 als Badergasse, da sich hier eine vom kurfürstlichen Trabantenfeldscher Johann Meyer betriebene Baderei befand. Zu den Aufgaben des Baders gehörte neben der Körperreinigung auch der Haar- und Nagelschnitt, das Zähneziehen und kleinere chirurgische Eingriffe. Nach dem Tod Meyers wurde die Baderei ab 1726 von Maria Dorothea Frickin weitergeführt, die ihr Privileg zum Führen der Badestube 1739 an den Fußtrabantenfeldscher Haushalter verkaufte. Auch später wechselten mehrfach die Betreiber der Baderei. Erst Anfang des 20. Jahrhunderts musste das Gebäude einem 1945 zerstörten Wohnhaus (Nr. 18) weichen
 
@@ -276,7 +276,7 @@ Produktion eingestellt und der Betrieb aufgelöst. Ds Grab der Familie Kaps befi
 
 
 
-![semmelweisstraße](a_rectangle_1605.gif)
+## Semmelweisstraße
 
 Die Semmelweisstraße entstand 1908 und trug bis 1946 den Namen Marcolinistraße. Mit dieser Namensgebung sollte an den
 sächsischen Kammerherrn Graf Camillo von Marcolini (1739-1814) erinnert werden, der vor allem als Besitzer des [Marcolinipalais](../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstrasse/marcolinipalais/)
@@ -292,14 +292,14 @@ Eckhaus befindet sich die Gaststätte Fröbeleck. Weitere Wohnhäuser wurden
 1912 gründete der aus Holland stammende Unternehmer Johann Steenbergen auf der Marcolinistraße 8 seine Industrie- und Handelsgesellschaft mbH, die später unter dem Namen [Ihagee](../../../ost/striesen/strassen_striesen/schandauer_strasse/ihagee/) zu den bekanntesten Dresdner Kameraherstellern gehörte und ihr
 Stammwerk bis 1945 auf der Schandauer Straße besaß. Bekannt wurde die Firma durch die 1936 vorgestellte Kine Exakta, erste Kleinbild-Spiegelreflexkamera der Welt.
 
-![vorwerkstraße](a_rectangle_1606.gif)
+## Vorwerkstraße
 
 Der Name Vorwerkstraße erinnert an das frühere [Ostravorwerk](../../../zentrum/friedrichstadt/ostragehege/)
 , welches 1568 von Kurfürst August gegründet wurde und bis 1917 bestand. Zwischen 1855 und 1895 unterschied man zwischen einer oberen und einer unteren Vorwerkstraße, bevor sich
 der jetzige einheitliche Name durchsetzte. Die Wohnhäuser, meist viergeschossige Gebäude in geschlossener Bauweise, entstanden zwischen 1880 und 1910 für die Eisenbahner-Baugenossenschaft. Außerdem entstand 1935 ein Sauerstoffwerk,
 welches zu DDR-Zeiten Betriebsteil des VEB Technische Gase Leipzig war und nach 1990 geschlossen wurde. Die ruinösen Fabrikgebäude wurden 2011 beseitigt.
 
-![wachsbleichstraße](a_rectangle_1607.gif)
+## Wachsbleichstraße
 
 ![](friedrichstwachsbleichstra_e.jpg)Die Wachsbleichstraße wurde Mitte des 18. Jahrhunderts angelegt und nach dem Bauherren des ersten Wohngebäudes an dieser Straße, dem sächsischen Appellationsrat Dr. Heigius, zunächst Heigiusgasse genannt. 1718 entstand in der Nähe als eines der ersten gewerblichen Unternehmen der Friedrichstadt die Wachsbleiche des Kammerherrn Baron von Blumenthal. Dieser Betrieb zur Verarbeitung von Bienenwachs war 1840 Anlass für die Umbenennung der Gasse in Wachsbleichgasse. Zuvor waren auch die Namen Feldgasse bzw. Briesnitzer Straße gebräuchlich. 1894 erhielt sie ihren heutigen Namen.
 
@@ -314,13 +314,13 @@ Zugleich existierten auf dem Areal die Geldschrankfabrik Arnhold und Petzoldt, d
 
 **_Fotos:_** _Kulturzentrum riesa efau an der Wachsbleichstraße 4a_
 
-[![waltherstraße](../../../zentrum/friedrichstadt/strassen_friedrichstadt/a_rectangle_1608.gif)](../../../zentrum/friedrichstadt/strassen_friedrichstadt/waltherstrasse/)
+## [Waltherstraße](../../../zentrum/friedrichstadt/strassen_friedrichstadt/waltherstrasse/)
 
 
 
-[![weißeritzstraße](a_rectangle_1628.gif)](../../../zentrum/friedrichstadt/strassen_friedrichstadt/weisseritzstrasse/)
+## [Weißeritzstraße](../../../zentrum/friedrichstadt/strassen_friedrichstadt/weisseritzstrasse/)
 
-![wölfnitzstraße](a_rectangle_1609.gif)
+## Wölfnitzstraße
 
 ![](../../../zentrum/friedrichstadt/strassen_friedrichstadt/friedrichstadt_w_lfnitzstra_e_11.jpg)Die Wölfnitzstraße entstand Mitte des 19. Jahrhunderts und wurde 1865 nach dem Dorf Wölfnitz
 (heute Stadtteil von Dresden) benannt und mit Mietshäusern bebaut. Nach Kriegszerstörungen sind heute nur noch wenige, meist verfallene, Gebäude erhalten geblieben. Einige von Ihnen, darunter die
