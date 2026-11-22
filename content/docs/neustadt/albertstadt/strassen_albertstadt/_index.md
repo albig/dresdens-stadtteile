@@ -9,19 +9,19 @@ date: 2024-02-17T22:13:30+01:00
 
 Der Albert-Fromme-Weg wurde nach 1990 auf ehemaligem Militärgelände zwischen Stauffenbergallee und Fabricestraße angelegt. Der Name erinnert an den früheren Chefarzt der Chirurgischen Klinik Albert Fromme (1881-1966), der 1921 nach Dresden kam. Nach 1945 war er Direktor des Krankenhauses Friedrichstadt und später an der Gründung der Medizinischen Akademie beteiligt. Die hier befindlichen Wohnhäuser gehören zum sogenannten Carolapark, benannt nach der Gemahlin König Alberts.
 
-![am kohlenplatz](../../../neustadt/albertstadt/strassen_albertstadt/am_kohlenplatz.jpg)
+## Am Kohlenplatz
 
 Die Straße Am Kohlenplatz befindet sich im nördlichen Teil des Industriegeländes. Sie ihre Bezeichnung am 17. Juli 1961 mit örtlichem Bezug.
 
-![am lagerplatz](../../../neustadt/albertstadt/strassen_albertstadt/am_lagerplatz.jpg)
+## Am Lagerplatz
 
 Die Straße Am Lagerplatz im südlichen Bereich des Industriegelände wurde am 17. Juli 1961 benannt. Damals erhielten die zuvor unbenannten Straßen des Gewerbegebietes eigene Namen zur besseren Orientierung. Hier befindet sich seit 2019 in der Nr. 8 das Bildungszentrum der Handwerkskammer Dresden mit Unterrichtsräumen und Werkstätten für die Lehrbereiche Gebäudetechnik, Metallbau und Schweißtechnik. Die Grundsteinlegung erfolgte am 12. Juni 2017.
 
-![an der eisenbahn](../../../neustadt/albertstadt/strassen_albertstadt/an_der_eisenbahn.jpg)
+## An der Eisenbahn
 
 Die parallel zur Bahnstrecke [Dresden - Görlitz](../../../nord/klotzsche/dresden_-_gorlitz/) verlaufende Straße An der Eisenbahn wurde am 17. Juli 1961 benannt und gehört zu den damals erstmals benannten Erschließungsstraßen des Industriegeländes. In der Nähe zweigte einst die nach 1990 stillgelegte [Industriebahn Albertstadt](../../../neustadt/albertstadt/industriegelande/industriebahn_albertstadt/) ab, die an dieser Straße ein Anschlussgleis bediente. An der Eisenbahn Nr. 7 hatte zu DDR-Zeiten die Kreiserfassungsstelle für Eier, Geflügel und Honig des VEB Getreidewirtschaft Dresden ihren Sitz.
 
-![an der schleife](../../../neustadt/albertstadt/strassen_albertstadt/an_der_schleife.jpg)
+## An der Schleife
 
 Die Straße An der Schleife im nördlichen Teil des Industriegelände wurde gemeinsam mit ihren benachbarten Straßen am 17. Juli 1961 benannt. Die Namensgebung erfolgte wegen ihres bogenförmigen Verlaufs. Der südliche Teil war bis 1998 die Sandgrubenstraße, wurde dann jedoch in die Straße An der Schleife einbezogen.
 
@@ -87,7 +87,7 @@ Fachgerichtszentrum dresden: sozialgericht - arbeitsgericht - verwaltungsgericht
 
 Die Hartmut-Dost-Straße befindet sich auf dem Areal der früheren [Gardereiterkaserne](../../../neustadt/albertstadt/strassen_albertstadt/stauffenbergallee/) und wurde erst im Zuge der Neubebauung des Areals nach 1990 benannt. Da in den errichteten Neubauten u.a. die Sächsische Landesärztekammer ihren Sitz hat, erhielt sie den Namen des Kinderarztes Friedrich Hartmut Dost (19101985). Er gilt als Begründer der Pharmakokinetik, die sich mit der Erforschung der Wirkung von Arzneimitteln im Körper befasst.
 
-![hellerschanze](../../../neustadt/albertstadt/strassen_albertstadt/hellerschanze.jpg)
+## Hellerschanze
 
 Die Straße entstand Mitte der 1990er Jahre zur Erschließung des sogenannten "Carolaparks", einem kleinen Wohngebiet zwischen Stauffenbergallee und Fabricestraße. Die Namensgebung Hellerschanze erfolgte am 2. November 1995 zur Erinnerung an militärische Schanzanlagen aus dem preußisch-österreichischen Krieg 1866. Nachdem die preußische Elbarmee am 18. Juni 1866 in Dresden eingerückt war, ließ sie rund um die Stadt einen Ring aus Schanzen anlegen, darunter die speziell dem Schutz der Eisenbahnstrecke nach Schlesien dienende "Hellerschanze". Reste der offiziell als "Schanze VIII" bezeichneten Befestigung sind noch erhalten.
 
@@ -95,7 +95,7 @@ Die Straße entstand Mitte der 1990er Jahre zur Erschließung des sogenannten "C
 
 Die ehemalige Straße G im Industriegelände wurde im März 1997 nach einem Unternehmer Hermann-Mende-Straße benannt. Otto Hermann Mende (1885-1940) gründete 1923 die Mende & Co OHG, die unter dem Namen Radio-Mende bis 1945 bedeutendster Betrieb des Industriegeländes war. In den 1920er und 30er Jahren wurden hier vor allem Rundfunk- und Funkgeräte gebaut. Heute werden die Gebäude von einigen kleineren Unternehmen sowie als Musikclub 01099 genutzt. Ab 1901 befand sich die "elektrische Zentrale" der Albertstadt, ein [Kraftwerk](../../../neustadt/albertstadt/) an dieser Straße.
 
-![holunderweg](../../../neustadt/albertstadt/strassen_albertstadt/holunderweg.jpg)
+## Holunderweg
 
 Der Holunderweg, eine kleine von der Arno-Holz-Allee abgehende Sackgasse, wurde am 8. Februar 1956 benannt. Grund für die Namensgebung waren örtliche Gegebenheiten. An der kurzen Straße stehen meherere Gebäude, so die Häuser Nr. 2 bis 8 und die Doppelhäuser Nr. 10, 14 und 16 unter Denkmalschutz.
 
@@ -136,13 +136,13 @@ von den Sportfreunden 01 Dresden Nord e. V. genutzt.
 
 Am Olbrichtplatz fand 1994 das [Sowjetische Ehrenmal](../../../neustadt/albertstadt/strassen_albertstadt/sowjetisches_ehrenmal/) seinen neuen Standort _(Foto)_, welches zuvor ab 1945 am heutigen Albertplatz stand. Schöpfer des Monuments war der Bildhauer Otto Rost. In einem bis 1990 militärisch genutzten Nebengebäude des Arsenals (Olbrichtplatz 1) hat seit 2002 das Dresdner Amtsgericht sein Domizil. Hier sind die Bereiche Zwangsvollstreckung / Insolvenz, das Registergericht und das Grundbuchamt untergebracht. Weitere Räume des 1999 sanierten Gebäudes beherbergen das Sächsische Landesamt zur Regelung offener Vermögensfragen.
 
-![provianthofstraße](../../../neustadt/albertstadt/strassen_albertstadt/provianthofstraße.jpg)
+## Provianthofstraße
 
 Die Provianthofstraße entstand 1879 als Zufahrt zum Provianthof, des zentralen Wirtschafts- und Versorgungszentrums der sächsischen Armee. Zum Provianthof gehörten u.a. die noch heute weitgehend erhaltenen Gebäude der [Garnisonsversorgungsanstalt](../../../neustadt/aussere_neustadt/antonstadt/konigsbrucker_strasse/) und die jetzt als Stadtarchiv genutzte Heeresbäckerei.
 
 Am 1. Juli 1946 wurde die Straße in Paul-Schrader-Straße umbenannt. Paul Schrader (1895-1946) war Mitglied des Roten Frontkämpferbundes und nach 1945 am Wiederaufbau der Gewerkschaften beteiligt. Da das Areal jedoch später von der Sowjetarmee genutzt und deshalb nicht öffentlich zugänglich war, hob man den Straßenamen in den 1960er Jahren auf. Im Zuge der Umgestaltung des früheren Provianthofes nach 1990 wurde die Straße wieder öffentlich gewidnet und erhielt 1999 ihren ursprünglichen Namen Provianthofstraße zurück.
 
-![sandgrubenstraße](../../../neustadt/albertstadt/strassen_albertstadt/sandgrubenstraße.jpg)
+## Sandgrubenstraße
 
 Die Sandgrubenstraße im nördlichen Teil des Industriegeländes erhielt zusammen mit weiteren zuvor unbenannten Erschließungsstraßen des Areals am 17. Juli 1961 ihren Namen nach örtlichen Gegebenheiten. Durch spätere bauliche Veränderungen wurde der südliche Teil dieser Straße in ein Betriebsgelände einbezogen und der Straßenname am 30. November 1998 wieder aufgehoben. Der verbliebene nördliche Restabschnitt ist seitdem der Straße An der Schleife zugeordnet.
 
@@ -174,7 +174,7 @@ Die an der Straße befindlichen Werkshallen wurden nach 1990 teilweise zum Konze
 
 Reithalle (Bunker): Das Gebäude entstand Ende des 19. Jahrhunderts als Reithalle der Königlich-Sächsischen Kavallerie. Später wurde es ein eine Rüstungsfabrik umgewandelt, in dem u.a. Munitionsteile gefertigt wurden. Während des Zweiten Weltkrieges legte man unter einem Anbau einen Luftschutzbunker für die hier beschäftigten Arbeiter an. Diese Räumlichkeiten sind heute unter dem Namen Bunker Veranstaltungsort für Dark-Wave-Konzerte. Auch die frühere Reithalle dient seit einigen Jahren als Konzertsaal.
 
-![zum reiterberg](../../../neustadt/albertstadt/strassen_albertstadt/zum_reiterberg.jpg)
+## Zum Reiterberg
 
 Die Straße Zum Reiterberg entstand Mitte der 1990er Jahre im sogenannten "Carolapark", einem Wohngebiet zwischen Stauffenbergallee und Fabricestraße. Die Namensgebung erfolgte nach der früheren militärischen Nutzung des Gebietes und wurde am 2. November 1995 offiziell eingeführt.
 

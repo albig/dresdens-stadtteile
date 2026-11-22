@@ -105,7 +105,7 @@ Rathaus:
 
 ![](../../nord/hellerau/helleraurathaus.jpg)Das Hellerauer Rathaus wurde 1923/24 nach Plänen des Architekten Gustav Lüdecke am Pillnitz-Moritzburger Weg (heute Ludwig-Kossuth-Straße 61) erbaut. Lüdecke war auch Schöpfer des D-Zuges, einer originellen Reihenhaussiedlung am Urnenfeldweg. Für den Bau des Verwaltungsgebäudes fanden Ziegel eines abgerissenen Schornsteins Verwendung. Bis 1950 befand sich hier die Gemeindeverwaltung des 1919 vereinigten Doppelortes Rähnitz-Hellerau. Außerdem gab es Räume für die Gemeinde- und Steuerkasse, die Giro- und die Gemeindeverbandssparkasse des Ortes, eine Polizeidienststelle und weitere Büros. Da ein größerer Versammlungssaal fehlte, diente es vorrangig als Gemeindeamt. Im Obergeschoss gab es einige Wohnungen. Nach der Eingemeindung diente das Haus nur noch Wohnzwecken und wurde Mitte der 1990er Jahre zugunsten eines Sparkassen-Neubaus abgerissen.
 
-[![](../../nord/hellerau/hellerauer_stra_en.jpg)](../../nord/hellerau/strassen_und_plaetze/page11228/)
+## [Hellerauer Straßen](../../nord/hellerau/strassen_und_plaetze/page11228/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

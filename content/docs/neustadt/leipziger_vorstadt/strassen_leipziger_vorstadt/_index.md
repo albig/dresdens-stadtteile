@@ -169,7 +169,7 @@ Die Ende des 19. Jahrhunderts parallel zum Bahnbogen angelegte Gutschmidstraße 
 
 
 
-![hafenstraße](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/hafenstraße.jpg)
+## Hafenstraße
 
 Die Hafenstraße unterhalb der Marienbrücke wurde 1878 benannt und erhielt ihren Namen nach dem nahegelegenen 1850 eröffneten [Verkehrs- und Winterhafen Dresden-Neustadt](../../../neustadt/leipziger_vorstadt/). Sie verbindet die Ufer- mit der Ludwigstraße und bildet ein kleines Wohnkarree mit Häusern überwiegend aus der Gründerzeit. In einer durch Kriegsschäden entstandenen Baulücke wurden 2016/18 drei Mehrfamilienhäuser mit Miet- und Eigentumswohnungen errichtet, wobei für die Gebäude individuelle architektonische Gestaltungen, u.a. mit japanischen Katagamis und Deckenmalereien nach dem Vorbild des Einsteinhauses in Caputh gewählt wurden.
 
@@ -205,7 +205,7 @@ Der Hedwig-Langner-Weg entstand 2015 im Zusammenhang mit einem kleinen Wohngebie
 
 Das Straßenbild prägen auf der linken Seite heute mehrgeschossige Mietshäuser _(Foto)_. Weitere Flächen gehören zum Areal des angrenzenden Arzneimittelwerks.
 
-![helgolandstraße](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/helgolandstraße.jpg)
+## Helgolandstraße
 
 ![](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/lvhelgolandstr.jpg)Die Helgolandstraße entstand 1890 als Seitenstraße der Conradstraße und wurde im gleichen Jahr nach der Nordseeinsel Helgoland benannt. Helgoland war 1890 per Vertrag zwischen dem Deutschen Reich und Großbritannien zu Deutschland gekommen. Die Bebauung erfolgte mit mehrgeschossigen Wohn- und Geschäftshäusern.
 

@@ -8,7 +8,7 @@ date: 2024-02-17T22:13:32+01:00
 Die Ahlbecker Straße wurde in den 1970er Jahren im Zusammenhang mit dem Neubaugebiet an der Karl-Marx-Straße angelegt.
 Einer Klotzscher Tradition folgend, neue Straßen nach Orten im Ostseeraum zu benennen, erhielt sie 1974 den Namen Ahlbecker Straße.
 
-![alexander-herzen-straße](../../../nord/klotzsche/strassen_klotzsche/alexander-herzen-stra_e.jpg)
+## Alexander-Herzen-Straße
 
 ![](../../../nord/klotzsche/strassen_klotzsche/klotzschillerstraße.jpg)Die Alexander-Herzen-Straße wurde Ende des 19. Jahrhunderts im Villenviertel Königswald angelegt und erhielt zunächst den Namen Schillerstraße. Um Verwechslungen mit einer gleichnamigen Straße in Loschwitz zu vermeiden, wurde sie nach der Eingemeindung Klotzsches in Alexander-Herzen-Straße umbenannt. Namensgeber war der russische Philosoph und Schriftsteller Alexander Herzen (1812-1870), der sich aktiv gegen die zaristische Alleinherrschaft stellte und mit der Zeitung Kolokol (Glocke) die freie russische Auslandspresse begründete.
 
@@ -111,7 +111,7 @@ Adressbuch verzeichnet. Diese Namensgebung erfolgte nach dem Begründer der Sten
 
 Der Binzer Weg entstand nach 1980 beim Bau des Neubaugebietes am der Grenzstraße. 1985 erhielt er seinen Namen nach dem Ostseebad Binz.
 
-![boltenhagener platz](../../../nord/klotzsche/strassen_klotzsche/boltenhagener_platz.jpg)
+## Boltenhagener Platz
 
 Der Boltenhagener Platz wurde als Vorplatz der [Christuskirche](../../../nord/klotzsche/klotzscher_kirchen/) und im Jahr der Weihe 1907 zu Ehren des deutschen Kaisers Kaiser-Wilhelm-Platz benannt. Im Mai 1945 erfolgte nach dem sowjetischen Staatschef Josef Stalin die Umbenennung in Marschall-Stalin-Platz. Da dieser Name jedoch seit den 1950er Jahren nicht mehr als geeignet betrachtet wurde, erhielt der Platz im Dezember 1961 seinen heutigen Namen nach dem Ostseebad Boltenhagen.
 
@@ -204,7 +204,7 @@ Die Gertrud-Caspari-Straße wurde 1859 im Zusammenhang mit dem Ausbau des Villen
 
 Ursprünglich trug die Geschwister-Scholl-Straße ab 1929 den Namen Eigenwerkstraße. Während der Nazizeit zwischen 1933 und 1945 nach dem sächsischen Gauleiter Mutschmannstraße genannt, erhielt sie im Juni 1945 den Namen Ernst-Thälmann-Straße. Um Verwechslungen mit der gleichnamigen Straße im Stadtzentrum zu vermeiden, wurde sie nach der Eingemeindung Klotzsches im September 1953 in Geschwister-Scholl-Straße umbenannt. Das Geschwisterpaar Hans und Sophie Scholl war im Kampf gegen das Naziregime aktiv und wurde wegen der Verteilung illegaler Flugblätter 1943 hingerichtet. Auf dem Grundstück Geschwister-Scholl-Straße 52 an der Ecke zur Travemünder Straße erinnert ein am 3. Oktober 1990 gepflanzter Einheitsbaum an die deutsche Wiedervereinigung.
 
-![](../../../nord/klotzsche/strassen_klotzsche/a_goethestra_e.jpg)
+## Goethestraße
 
 Die Goethestraße gehört zu den Straßen Klotzsches, die Ende des 19. Jahrhunderts im Villenviertel Königswald angelegt wurden. 1899 erhielt sie ihren Namen nach dem Dichter Johann Wolfgang von Goethe (17491832). Während die benachbarte Schillerstraße nach der Eingemeindung Klotzsches in Alexander-Herzen-Straße umbenannt wurde, behielt die Goethestraße bis heute ihren Namen.
 
@@ -298,11 +298,11 @@ Die Hermann-Reichelt-Straße auf dem Gelände des Flughafens erinnert an den deu
 
 Der Hugo-Junkers-Ring befindet sich auf dem Gelände der früheren Flugzeugwerft und erhielt seinen Namen nach dem deutschen Techniker und Unternehmer Hugo Junkers (18591935). Junkers war Gründer und Eigentümer der Junkers Flugzeugwerke AG und gilt als einer der bedeutendsten Flugzeugkonstrukteure überhaupt.
 
-![ikarusweg](../../../nord/klotzsche/strassen_klotzsche/ikarusweg.jpg)
+## Ikarusweg
 
 Der Ikarusweg befindet sich auf dem Gelände der ehemaligen [Flugzeugwerft](../../../nord/klotzsche/flughafen/flugzeugwerft/) und wurde innerbetrieblich Werkstraße 67 genannt. Nach 1990 erfolgte die öffentliche Widmung und in diesem Zusammenhang im November 1995 die Benennung mit Ikarusweg. Mit der Namensgebung nach der griechischen Sagengestalt Ikarus soll der historische Bezug zum Flugwesen hergestellt werden.
 
-![immelmannplatz](../../../nord/klotzsche/strassen_klotzsche/immelmannplatz.jpg)
+## Immelmannplatz
 
 Der Immelmannplatz entstand als Vorplatz des Flughafens mit dem "Hansa-Haus" und wurde 1935 nach dem deutschen Jagdpiloten des Ersten Weltkriegs Max Immelmann (1890-1916) Immelmannplatz benannt. Da diese Bezeichnung als militaristisch galt, erfolgte 1945 die Umbenennung in Roter Platz. Wenig später wurde diese Benennung aufgehoben, so dass der Platz heute namenlos ist. Seit einige Jahren gibt es jedoch Bestrebungen, dem Vorplatz wieder einen Namen zu geben.
 
@@ -316,7 +316,7 @@ Die Karl-Marx-Straße verbindet die Königsbrücker Landstraße mit dem Flughafe
 
 In den 1960er Jahren wurden an der Karl-Marx-Straße Wohnblöcke für die Angestellten von Klotzscher Betrieben errichtet, denen später eine Plattenbausiedlung folgte. Bemerkenswert ist der 1952/55 als Konstruktionsbüro der [DDR-Luftfahrtindustrie](../../../nord/klotzsche/flughafen/flugzeugwerft/) errichtete Stahlbetonbau am Flughafen, welcher unter Denkmalschutz steht. 1997 wurde das Haus zum Airport Bürocenter umgebaut. 2009/10 entstand an der Ecke zur Boltenhagener Straße ein modernes Einkaufszentrum nach einem Entwurf des Dresdner Architekten Dieter Gechter.
 
-![karlshagener weg](../../../nord/klotzsche/strassen_klotzsche/karlshagener_weg.jpg)
+## Karlshagener Weg
 
 Der Karlshagener Weg wurde in den 1970er Jahren als Zugang zu zwei damals neu errichteten Kindereinrichtungen angelegt. Ähnlich wie bei einigen Nachbarstraßen erfolgte die Namensgebung nach einem Ort an der Ostseeküste, dem Ostseebad Karlshagen
 
@@ -334,11 +334,11 @@ eingeführt wurde. Auch hier war die Namensgleichheit mit einer Dresdner Straße
 Bis zur Gegenwart sind an der Kieler Straße zahlreiche Gebäude aus der Zeit des Kurortes erhalten geblieben. Im Haus Nr. 7 gab es einst ein Lehrerinnen-Heim,
 1910 unter dem Namen Carolastift in den Adressbüchern verzeichnet. Im Eckhaus Nr. 18 _(im Bild ganz links)_ gab es bereits vor dem Ersten Weltkrieg das Restaurant zur Wartburg. In der Bismarckstraße 58 hatte bis 1945 eine Dienststelle der Kriminalpolizei ihren Sitz.
 
-![klotzscher berglehne](../../../nord/klotzsche/strassen_klotzsche/klotzscher_berglehne.jpg)
+## Klotzscher Berglehne
 
 Die Straße Klotzscher Berglehne liegt in einem Neubaugebiet zwischen Oderstraße und Dörnichtweg und geht in östliche Richtung über in die Traute-Richter-Straße. Sie entstand nach 2000 und erhielt ihren Namen nach örtlichen Gegebenheiten.
 
-![klotzscher hauptstraße](../../../nord/klotzsche/strassen_klotzsche/klotzscher_hauptstra_e.jpg)
+## Klotzscher Hauptstraße
 
 ![](../../../nord/klotzsche/strassen_klotzsche/klotzhauptstr1.jpg)Die frühere Hauptstraße, wichtigste Verbindung zwischen Schänkhübel und Dorfkern erhielt erst nach 1990 ihren heutigen Namen. Ursprünglich führte sie durch den gesamten Ortskern bis zur Flurgrenze nach Hellerau und wurde seit den 1890er Jahren als Hauptstraße bezeichnet. Im November 1991 erhielt jedoch die Straße der Befreiung in der Inneren Neustadt ihren alten Namen zurück, so dass es nun zu einer Namensdoppelung kam. Der Stadtrat beschloss deshalb, die in Klotzsche gelegene Hauptstraße zu teilen und in ihrem nördlichen Abschnitt Altklotzsche, im südlichen Teil ab Am Hellerrand Klotzscher Hauptstraße zu nennen.
 
@@ -348,45 +348,45 @@ Die Gebäude an der Klotzscher Hauptstraße entstanden ab Ende des 19. Jahrhunde
 
 
 
-![königswaldplatz](../../../nord/klotzsche/strassen_klotzsche/königswaldplatz.jpg)
+## Königswaldplatz
 
 Als Königswaldplatz wird die platzartige Anlage am Zusammentreffen von Rostocker Straße, Alexander-Herzen-Straße, Prof.-von-Finck-Straße und Boltenhagener Straße bezeichnet. In älteren Stadtplänen ist die Anlage als Schillerplatz eingetragen, besaß jedoch keine Adressen, weshalb man die Bezeichnung später aufhob. Erst im Februar 1993 erhielt der Platz wieder einen Namen nach dem Klotzscher Ortsteil Königswald.
 
-![konrad-zuse-straße](../../../nord/klotzsche/strassen_klotzsche/konrad-zuse-stra_e.jpg)
+## Konrad-Zuse-Straße
 
 Die Konrad-Zuse-Straße wurde 2004 zur Erschließung des neuen Gewerbeparks data.base angelegt und nach dem Computerpionier Konrad Zuse (1910-1995) benannt. Zuse entwickelte 1941 den ersten programmgesteuerten Rechenautomaten und gilt als Vater des Computers. 1981 erhielt er die Ehrendoktorwürde der TU Dresden. In den letzten Jahren entstanden an der Konrad-Zuse-Straße verschiedene Labor- und Produktionshallen, u.a. für das Fraunhofer-Institut für Photonische Mikrosysteme.
 
-![koronenkostraße](../../../nord/klotzsche/strassen_klotzsche/korolenkostra_e.jpg)
+## Korolenkostraße
 
 Die Korolenkostraße wurde ium 1890 m Zusammenhang mit dem Bau des Villenviertels Königswald angelegt und zunächst Florastraße genannt. Zwischen 1933 und 1945 trug sie nach einem nationalsozialistischen Vorkämpfer den Namen Leo-Schlageter-Straße. Bereits im Sommer 1945 wurde die Straße in Rosa-Luxemburg-Straße umbenannt. Da es in Dresden bereits eine gleichnamige Straße in der Inneren Neustadt gab, erhielt sie nach der Eingemeindung Klotzsches ihre heutige Bezeichnung nach dem russischen Schriftsteller und Erzähler Wladimir Korolenko (1853-1921). Auf der Korolenkostraße befindet sich seit 1914 die Neue Schule Klotzsche, heute [82\. Oberschule](../../../nord/klotzsche/) "Am Flughafen" (Nr. 6).
 
-![kunitzteichweg](../../../nord/klotzsche/strassen_klotzsche/kunitzteichweg.jpg)
+## Kunitzteichweg
 
 Der Kunitzteichweg entstand Mitte der 1990er Jahre zur Erschließung eines kleinen Wohnparks an der Königsbrücker Straße und verbindet diese mit der Traubelstraße. Im März 1996 erhielt die neue Straße ihren Namen nach einem früher dort vorhandenen Teich, der auf einer Karte von 1850 als "Paul Kunitz Teich" bezeichnet wurde.
 
-![langebrücker straße](../../../nord/klotzsche/strassen_klotzsche/langebr_cker_str.jpg)
+## Langebrücker Straße
 
 Die Langebrücker Straße verbindet den Klotzscher Ortsteil Königswald mit dem benachbarten Langebrück und durchquert dabei den nördlichen Teil der Dresdner Heide. Amtlich eingeführt wurde die Straßenbenennung um 1900. An der Flurgrenze zu Langebrück wechelt der Straßenname in Dresdner Straße.
 
 Am Abzweig Königsbrücker Landstraße befindet sich seit 1897 die Gaststätte [Deutsche Eiche](../../../nord/klotzsche/strassen_klotzsche/konigsbrucker_landstrasse/) (Nr. 2). Unweit davon gab es ab 1889 einen der ersten Dresdner Kindergärten (Nr. 3a). Die Einrichtung wurde 1866 vom Dresdner Stadtverein für Innere Mission in der Oppellvorstadt gegründet und 1888/89 in einen Neubau im Vorort Königswald verlegt. Bereits vor dem Ersten Weltkrieg bot dieser Kindergarten Platz für über 200 Kinder. Zu den Bauvorhaben der jüngsten Vergangenheit gehört ein nach 1990 entstandener Wohnpark.
 
-![lauschigwiesenweg](../../../nord/klotzsche/strassen_klotzsche/lauschigwiesenweg.jpg)
+## Lauschigwiesenweg
 
 Der Lauschigwiesenweg entstand bereits 2000 zur Erschließung eines geplanten neuen Wohngebiet an der Travemünder Straße. Benannt wurde sie nach einem alten Flurnamen. Im Herbst 2015 begannen die Bauarbeiten für die neue Siedlung.
 
-![lindenstraße](../../../nord/klotzsche/strassen_klotzsche/lindenstraße.jpg)
+## Lindenstraße
 
 Die Lindenstraße entstand in der 2. Hälfte des 19. Jahrhunderts im Ortsteil Alberthöhe. Ihren Namen erhielt sie nach den hier gepflanzten Lindenbäumen.
 
-![lubminer straße](../../../nord/klotzsche/strassen_klotzsche/lubminer_straße.jpg)
+## Lubminer Straße
 
 Die Lubminer Straße wurde Anfang der 1970er Jahre im Zuge des Neubaugebietes Klotzsche angelegt. 1974 erhielt sie, so wie andere Straßen in diesem Viertel, ihren Namen nach einem Ort an der Ostsee, dem Seebad Lubmin.
 
-![ludwig-jahn-straße](../../../nord/klotzsche/strassen_klotzsche/ludwig-jahn-straße.jpg)
+## Ludwig-Jahn-Straße
 
 Die Ludwig-Jahn-Straße verbindet die Kieler Straße mit der Straße An den Ruschewiesen. Sie wurde 1937 Begründer der deutschen Turnbewegung Friedrich Ludwig Jahn (1778-1852) benannt.
 
-![maria-reiche-straße](../../../nord/klotzsche/strassen_klotzsche/maria-reiche-stra_e.jpg)
+## Maria-Reiche-Straße
 
 Die Maria-Reiche-Straße entstand 2004 im Zusammenhang mit dem Ausbau des Klotzscher Gewerbeparks data.base. Ihren Namen erhielt sie nach der in Dresden geborenen Geographin und Archäologin Maria Reiche (1903-1998). Maria Reiche verbrachte einen Großteil ihres Lebens mit völkerkundlichen Studien in Peru und befasste sich mit der Erforschung der weltbekannten Scharrbilder von Nazca, die sie als frühgeschichtlichen Kalender deutete.
 
@@ -397,7 +397,7 @@ Zentrum Mikroelektronik Dresden (ZMD): Das Institut in Klotzsche geht auf die am
 Mit der Herauslösung der Forschungseinrichtung aus dem Kombinat Carl Zeiss Jena begann 1990 ein neuer Abschnitt der Firmengeschichte. Fortan firmierte diese als Zentrum Mikroelektronik Dresden GmbH. 1992 entstand schließlich das heutige
 Fraunhofer-Institut für Mikroelektronische Schaltungen und Systeme, welches sich sowohl mit Forschungsaufgaben als auch industrienahmen Dienstleistungen für Unternehmen der Branche befasst. Seit 2003 wird dieses als Fraunhofer-Institut für Photonische Mikrosysteme (IPMS) bezeichnet. Heute arbeiten hier ca. 210 Mitarbeiter an elektronischen, mechanischen und optischen Komponenten und ihrer Integration in intelligente Bauelemente und Systeme.
 
-![marsdorfer straße](../../../nord/klotzsche/strassen_klotzsche/marsdorfer_straße.jpg)
+## Marsdorfer Straße
 
 Die Marsdorfer Straße entstand ursprünglich als Marsdorfer Weg und ist seit 1897 im Adressbuch verzeichnet. Wenig später wechselte die Bezeichnung Weg in Straße. Benannt ist sie nach dem kleinen Ort Marsdorf, der seit 1999 als Stadtteil zu Dresden gehört. Reste des alten Marsdorfer Weges sind noch nördlich des Flugplatzes erhalten. An der Einmündung der Marsdorfer in die Rähnitzer Straße steht eine Stieleiche, die als Naturdenkmal ausgewiesen ist.
 
@@ -438,7 +438,7 @@ Familie Hempelt gehörte. Bemerkenswert ist auch das Wohnhaus der ehemaligen Mol
 ließ 1936 in Klotzsche einen Neubau errichten. Später dienten die Kühlräume als Lager für Wild und Geflügel und wurden ab 1962 durch den VEB Mantissa genutzt. An der Oderstraße hatte einst
 auch die Grützmühle zum Mahlen des Heidekorns ihren Standort. 1925 entstand an deren Stelle der Sportplatz des Klotzscher Turnvereins  Gut Heil.
 
-![](../../../nord/klotzsche/strassen_klotzsche/prof-v-finck-str.jpg)
+## Prof.-von-Finck-Straße
 
 Die ehemalige Jägerstraße im Ortsteil Königswald erhielt 1954 den Namen Prof.-von-Finck-Straße. Mit der Namensgebung wird an
 den 1918 aus Rußland emigrierten Arzt Prof. Dr. Julius von Finck (1864-1951) erinnert, der 1926 die Leitung des Institutes für
@@ -453,7 +453,7 @@ Die Quosdorfstraße wurde im Zusammenbau mit der Anlage weiterer Siedlungen zwis
 angelegt und nach dem früheren Bezirksfeldwebel (Landrat) Friedrich August Quosdorf (1840-1889) benannt. Quosdorf gilt als eigentlicher Gründer des Ortsteils Königswald und ließ hier 1884 das [Bahnhofshotel](../../../nord/klotzsche/strassen_klotzsche/bahnhofshotel/) als Sommerfrische Quosdorf erbauen. An ihn erinnert seit 1896
 ein Gedenkstein gegenüber vom Bahnhof.
 
-![richard-riemerschmid-straße](../../../nord/klotzsche/strassen_klotzsche/richard-riemerschmid-straße.jpg)
+## Richard-Riemerschmid-Straße
 
 Die Richard-Riemerschmid-Straße wurde 2017 als Erschließungsstraße für das Gewerbegebiet Rähnitzsteig angelegt. Ihren Namen erhielt sie nach dem Architekten Richard Riemerschmid (1868-1957), Mitbegründer des Deutschen Werkbunds und maßgeblich am Bau der Gartenstadt Hellerau beteiligt.
 
@@ -478,7 +478,7 @@ Die Selliner Straße ist Standort eines der letzten Plattenbaukomplexe Dresdens.
 
 Außerdem existieren an der Selliner Straße noch einige Villen aus der ersten Hälfte des 20. Jahrhunderts. Bemerkenswert sind u.a. die Häuser Nr. 1 und Nr. 12, welche nach 1990 denkmalgerecht saniert wurden.
 
-![stendaler straße](../../../nord/klotzsche/strassen_klotzsche/stendaler_stra_e.jpg)
+## Stendaler Straße
 
 ![](../../../nord/klotzsche/strassen_klotzsche/klotzstendalerstr.jpg)An der Stendaler Straße 24, die bis zur Eingemeindung den Namen Martin-Luther-Straße trug, richteten 1945 die Franziskaner das St.-Marien-Krankenhaus ein. Zuvor hatte der Besitzer des Gebäudes, der Dresdner Zigarettenfabrikant Galm, die Villa für soziale Zwecke zur Verfügung gestellt und hier Flüchtlinge versorgen lassen. Wenig später kam auch das Nachbarhaus (Nr. 26) hinzu. Die Betreuung der Patienten oblag zunächst den Grauen Schwestern, einem katholischen Laienorden.
 Die seit 1944 in Klotzsche wohnenden Ordensschwestern waren gegen Kriegsende aus Mönchengladbach gekommen, um hier ein Altersheim einzurichten. Am 18. April 1945 wurden die ersten beiden Frauen aufgenommen. Zunächst diente die Einrichtung unter dem Namen St.-Marien-Hospital vorrangig der Altenpflege, bevor man sich auf die medizinische Behandlung konzentrierte. Seit Dezember 1946 wird sie offiziell St.-Marien-Krankenhaus genannt. Schwerpunkt waren in den 1950er und 1960er Jahren die Bereiche Chirurgie und Gynäkologie.
@@ -509,7 +509,7 @@ Die aus einem früheren Feldweg hervorgegangene Travemünder Straße erhielt  ih
 welches heute als Stadtteil zu Lübeck gehört. Ursprünglich befand sich auf diesem Gelände eine Kiesgrube, welche später als
 Hausmülldeponie genutzt wurde. Nach deren Rekultivierung begann hier 2009 der Bau einer Wohnsiedlung mit ca. 120 Eigenheimen.
 
-![vogelstellerweg](../../../nord/klotzsche/strassen_klotzsche/vogelstellerweg.jpg)
+## Vogelstellerweg
 
 Der Vogelstellerweg wurde 2016 zur Erschließung eines neuen Wohnviertels an der Travemünder Straße angelegt. Benannt ist er nach der einst in Klotzsche verbreiteten Vogelstellerei zum Fang von Goldammern, Finken und Lerchen für den kurfürstlichen Hof. Das Ende des Weges war einst Standort einer Fanganlage, an der die Vogelsteller mit Lockpfeifen die Tiere anlockten und dann in Netzen einfingen. 1613 ist diese als "Jansen Strygers Vogelherd" erwähnt. Letzte Reste davon verschwanden 1931. Das frühere Wohnhaus des Vogelstellers ist jedoch noch erhalten (Altklotzsche 44).
 
@@ -544,7 +544,7 @@ Nach Einstellung des Kurbetriebes und dem damit verbundenem Rückgang der Gäste
 wandelten die Besitzer ihr Hotel in ein Mietshaus um. In den früheren Weinkeller zog nun die Gaststätte Bürgerschänke ein, die im Volksmund auch U-Boot genannt wurde und bis 2004
 existierte. Seinen Namen verdankte das Lokal einem früheren Besitzer mit Namen Hans Bürger. Heute dient das vor einigen Jahren komplett sanierte Gebäude _(Foto)_ ausschließlich Wohnzwecken.
 
-![](../../../nord/klotzsche/strassen_klotzsche/zur_neuen_br_cke.jpg)
+## Zur neuen Brücke
 
 Die Straße entstand 1875 als Zufahrt zum neu eingerichteten Klotzscher Eisenbahnhaltepunkt und erhielt zunächst den Namen
 Königstraße. Ihre heutige Bezeichnung verdankt sie dem nahegelegenen Nesselgrundviadukt der Bahnstrecke Dresden - Görlitz. Markanteste Gebäude sind neben dem 1907 entstandenen Empfangsgebäude das ehemalige [Bahnhofshotel](../../../nord/klotzsche/strassen_klotzsche/bahnhofshotel/) und einige Villen aus der

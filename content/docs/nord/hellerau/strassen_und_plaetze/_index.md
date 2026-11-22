@@ -81,7 +81,7 @@ Im Wohnhaus Am Talkenberg 20, 1920 von Rudolf Stegemann entworfen, lebte in den 
 
 _Fotos: Siedlungshäuser Am Talkenberg_
 
-_![](../../../nord/hellerau/strassen_und_plaetze/am_wasserturm.jpg)_
+## Am Wasserturm
 
 ![](../../../nord/hellerau/strassen_und_plaetze/hellerauwasserturm.jpg)Die Straße Am Wasserturm wurde 1928 benannt. Kurz zuvor war nördlich davon ein Wasserturm gebaut worden, der Hellerau bis in die 1950er Jahre mit Wasser versorgte. Das von Hans Richter entworfene Bauwerk steht heute unter Denkmalschutz. Seit einigen Jahren wird es als Netzstation eines Mobilfunkanbieters genutzt. Bis 1933 war der Turm auch Namensgeber der von der KPD-Ortsgruppe herausgegebenen Ortszeitung Rund um den Wasserturm".
 
@@ -192,7 +192,7 @@ Das Unternehmen stellte in den 1920er Jahren Feuerspritzen und ähnlichen Feuerw
 
 ![](../../../nord/hellerau/strassen_und_plaetze/hellerauhirtenweg.jpg)Der Hirtenweg war ursprünglich ein Teil des Ruscheweges. Ab 1940 wurde der Abschnitt zwischen Hellerauer Markt und Klotzscher Weg Marktweg genannt. Da es jedoch in Briesnitz bereits eine gleichnamige Straße gab, erfolgte nach der Eingemeindung im September 1953 die Umbenennung in Hirtenweg. Die meisten Gebäude entstanden bereits in der ersten Bauphase der Gartenstadt ab 1910 und wurden von Richard Riemerschmid entworfen.
 
-![](../../../nord/hellerau/strassen_und_plaetze/hoher_weg.jpg)
+## Hoher Weg
 
 Der Hohe Weg verbindet den Moritzburger mit dem Friedersdorfer Weg und wurde im November 1927 benannt. Die Namensgebung erfolgte wegen seiner Lage. Zu den Bewohnern gehörte der Lehrer und Ortschronist Kurt Gerlach, Vater der Schriftstellerin Tine Schulze-Gerlach und Großvater des unter dem Namen "Muck" bekannten Schlagersängers Hartmut Schulze-Gerlach (Nr. 10).
 
@@ -216,7 +216,7 @@ Der Kirchsteig ist Teil einer alten Wegeverbindung, die einst von Klotzsche übe
 
 Der Klotzscher Weg bildet die östliche Flurgrenze von Hellerau zum Nachbarort Klotzsche und wurde früher als Dresden-Klotzscher Weg bezeichnet. Seinen heutigen Namen erhielt er erst um 1950.
 
-![](../../../nord/hellerau/strassen_und_plaetze/kurzer_weg.jpg)
+## Kurzer Weg
 
 Der Kurze Weg ist eine kleine Verbindungsstraße, die vom Hellerauer Markt zur Straße Am Hellerrand fahrt. Seinen Namen erhielt er 1910 beim Bau der Gartenstadt. Die meisten Wohnhäuser an der Straße entstanden nach Entwürfen von Richard Riemerschmid. 1931 folgte im Zusammenhang mit der Komplettierung des Marktes Haus Nr. 2 durch den Architekten Rudolf Kolbe.
 
@@ -230,7 +230,7 @@ _und ein Blick zum Hellerauer Markt um 1915 (SLUB / Fotothek)_
 
 Der Lausaer Weg bekam seinen Namen erst im Februar 1993, wobei der seit 1999 ebenfalls zu Dresden gehörende Weixdorfer Ortsteil Lausa Namenspate war. Mit dem Ausbau der Autobahn wurden einige alte Verbindungen, so auch die Mühlenstraße (Lausaer Straße) in Rähnitz unterbrochen, und die Straßen deshalb neu geordnet. Ein Abschnitt des Brunnenweges wurde dabei der Boltenhagener Straße zugeordnet, seine Verlängerung sowie der abgetrennte Abschnitt der früheren Mühlenstraße erhielten den Namen Lausaer Weg.
 
-![](../../../nord/hellerau/strassen_und_plaetze/markt_hellerau.jpg)
+## Markt Hellerau
 
 Der Markt wurde als künftiges Zentrum der Gartenstadt Hellerau bereits von Richard Riemerschmid geplant. 1910/11
 entstanden an der Südwestseite des Platzes  nach seinem Entwurf die ersten Gebäude mit Läden und Postamt. Infolge des Ersten Weltkrieges konnte das Ensemble jedoch nicht vollendet werden. Erst 1929/30 wurde der Markt durch den
