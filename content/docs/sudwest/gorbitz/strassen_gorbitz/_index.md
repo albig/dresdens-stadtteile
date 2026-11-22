@@ -115,7 +115,7 @@ Der Georginenweg entstand Anfang der 1930er Jahre bei der Anlage eines kleinen W
 
 Die frühere Straße Am Graben wurde ab 1921 Geyersgraben genannt. Die hier befindlichen Wohnhäuser gehören zum ehemaligen Niedergorbitzer Grabenviertel, welches seit dem 18. Jahrhundert nach seiner Lage diesen Namen trug. Das Wohnhaus Geyersgraben Nr. 15 steht als Baudenkmal unter Schutz.
 
-![hainbuchenstraße](../../../sudwest/gorbitz/strassen_gorbitz/hainbuchenstraße.jpg)
+## Hainbuchenstraße
 
 Die Hainbuchenstraße entstand beim Bau des zweiten Bauabschnitts im Neubaugebiet Gorbitz und wurde am 18. Mai 1983 benannt. Mehrere Straßen dieses Viertels erhielten ihre Namen nach Baumarten, hier nach der Hainbuche.
 
@@ -125,19 +125,19 @@ Die Straße wurde am 29. August 1986 nach einem Physiker und Hochschullehrer Har
 
 Zur Verbesserung der Einkaufsbedingungen besonders im vierten Gorbitzer Wohnkomplex entstand 1992/93 an der Harry-Dember-Straße das Gorbitz-Center als erstes großes Einkaufszentrum des Stadtteils. Neben zahlreichen Geschäften und Praxen entwickelte sich das Gorbitz-Center in den Folgejahren auch zu einem beliebten Veranstaltungsort für verschiedene Stadtteilfeste.
 
-![heimkehr](../../../sudwest/gorbitz/strassen_gorbitz/heimkehr.jpg)
+## Heimkehr
 
 Die Straße Heimkehr befindet sich am Rande des alten Niedergorbitzer Dorfkerns und führt von der Neunimptscher Straße rechtwinklig zum Fliederberg. Erstmals ist sie im Adressbuch von 1920 erwähnt, als hier die ersten Wohnhäuser entstanden.
 
-![helbigsdorfer weg](../../../sudwest/gorbitz/strassen_gorbitz/helbigsdorfer_weg.jpg)
+## Helbigsdorfer Weg
 
 Im Zusammenhang mit dem zweiten Bauabschnitt des Neubaugebietes entstand 1979 der Helbigsdorfer Weg, gelegen in einem vom Leutewitzer Ring umschlossenen Plattenbauviertel. Die amtliche Benennung erfolgte am 15. März 1979 nach dem kleinen Ort Helbigsdorf in der Nähe von Wilsdruff.
 
-![herzogswalder straße](../../../sudwest/gorbitz/strassen_gorbitz/herzogswalder_straße.jpg)
+## Herzogswalder Straße
 
 Zeitgleich mit weiteren Straßen erhielt auch die Herzogswalder Straße am 15. März 1979 ihren Namen nach einem Ort der Wilsdruffer Gegend. Herzogswalde liegt am Fuße des Landberges und gehört heute als Ortsteil zu Wilsdruff.
 
-![hetzdorfer straße](../../../sudwest/gorbitz/strassen_gorbitz/hetzdorfer_straße.jpg)
+## Hetzdorfer Straße
 
 Auch die Hetzdorfer Straße verdankt ihren Namen einem Dorf in der Nähe von Dresden. Hetzdorf liegt am Rande des Tharandter Waldes und ist heute vor allem durch seine Kurklinik von Bedeutung. Die Straße wurde am 15. März 1979 benannt und befindet sich im zweiten Bauabschnitt innerhalb des Leutewitzer Rings. Am 7. November 1983 eröffnete hier eine von mehreren Gorbitzer Kindertagesstätten als Kombination von Kindergarten und -krippe (Nr. 2/4).
 

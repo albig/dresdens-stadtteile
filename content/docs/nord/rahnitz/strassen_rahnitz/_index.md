@@ -79,7 +79,7 @@ Wohnsiedlung. Ihren Namen erhielt sie 1975 nach dem kleinen Ort Blankenstein bei
 Der Erlenweg entstand Mitte der 1930er Jahre als Querverbindung zwischen Becker- und Radeburger Straße. Erstmals ist
 der 1938 Name im Adressbuch zu finden. Die Namensgebung erfolgte nach einer Baumart.
 
-![](../../../nord/rahnitz/strassen_rahnitz/feldstra_e-.jpg)
+## Feldstraße
 
 Die Feldstraße beginnt im alten Ortskern von Rähnitz und zweigt dort vom Bauernweg ab. Ursprünglich wurde sie nach einem Grundstücksbesitzer Menzels Gasse genannt, bevor der Name um 1930 in Feldstraße wechselte. Grund dieser Benennung war, dass sie in die nördlich gelegenen Felder des Dorfes bis zum Volkersdorfer Weg führte. Durch den Bau der Autobahn wurde die Feldstraße 1937 unterbrochen und unterquerte die Autobahntrasse nun in einer Unterführung. Beim
 Bau der neuen Anschlussstelle Dresden-Flughafen verschwand diese, so dass die Feldstraße heute aus zwei Teilabschnitten besteht: vom Bauernweg bis zur Rähnitzer Allee und von der Wilschdorfer Landstraße bis zum Volkersdorfer Weg.
@@ -106,11 +106,11 @@ Die Hohle Gasse, ein vom Bauernweg abzweigender Feldweg, erhielt ihren heutigen 
 
 Die Knappsdorfer Straße wurde erst Ende der 1990er Jahre im Zusammenhang mit der Erschließung eines neuen Gewerbegebietes nördlich des historischen Dorfkerns angelegt. Der Name erinnert an das frühere Vorwerk Knappsdorf, welches 1547 aufgelöst und an Rähnitzer Bauern aufgeteilt wurde. Die umliegenden Erschließungsstraßen erhielten ihre Bezeichnungen nach alten Flurnamen wie Kammerholz, Ellerwiesen und Ilschengraben.
 
-![kurze reihe](../../../nord/rahnitz/strassen_rahnitz/kurze_reihe.jpg)
+## Kurze Reihe
 
 Die Straße Kurze Reihe wurde um 1910 parallel zur Hellerstraße angelegt und bekam zunächst den Namen Tannenstraße. Nach der Eingemeindung 1950 erfolgte wegen der bereits vorhandenen Tannenstraße in der Leipziger Vorstadt die Umbenennung in Kurze Reihe.
 
-![lausaer straße](../../../nord/rahnitz/strassen_rahnitz/lausaer_straße.jpg)
+## Lausaer Straße
 
 Die Lausaer Straße ist Teil des alten Mühlenweges, der von Boxdorf über Wilschdorf und Rähnitz bis zur Hermsdorfer Mühle führte. Ab März 1900 trug der Rähnitzer Abschnitt offiziell den Namen Mühlenstraße, da hier auch die [Rähnitzer Windmühle](../../../nord/rahnitz/) stand. 1910 erfolgte eine Umbenennung in Weixdorfer Straße. Da es nach der Eingemeindung von Rähnitz-Hellerau diesen Straßennamen in Dresden bereits gab, wurde die Straße im September 1953 in Lausaer Straße umbenannt. Lausa ist ein Ortsteil der 1999 ebenfalls zu Dresden eingemeindeten Ortschaft Weixdorf. Der durch die Autobahn A4 abgetrennte östliche Abschnitt erhielt im Februar 1993 den Namen Lausaer Weg.
 

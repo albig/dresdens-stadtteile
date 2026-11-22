@@ -3,27 +3,27 @@ title: "Straßen und Plätze in Langebrück"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-![albert-richter-straße](../../../nord/langebruck/strassen_langebruck/albert-richter-stra_e.jpg)
+## Albert-Richter-Straße
 
 ![](../../../nord/langebruck/strassen_langebruck/lan_arichterstr.jpg)Die Albert-Richter-Straße bildet die Verlängerung des sogenannten Kannenhenkels, eines nach einem alten Wegzeichen benannten Heideweges zwischen Langebrück und Dresden-Neustadt. 1908 ist sie als Kaiser-Wilhelm-Straße erstmals im Adressbuch verzeichnet. 1945 erfolgte die Umbenennung nach dem sozialdemokratischen Politiker Rudolf Breitscheid (1874-1944), der während der NS-Zeit im Konzentrationslager Buchenwald inhaftiert wurde, wo er bei einem Luftangriff ums Leben kam. Ihren heutige Namen erhielt sie nach dem Kunstmaler Albert Richter (1845-1898), der ab 1893 in Langebrück wohnte und zahlreiche Bilder mit Jagdszenen und Motiven aus der Dresdner Heide schuf. An Albert Richter erinnert auch ein Gedenkstein am Kannenhenkelweg.
 
-![am braugraben](../../../nord/langebruck/strassen_langebruck/am_braugraben.jpg)
+## Am Braugraben
 
 Die Straße Am Braugraben wurde 2012 zur Erschließung des Wohngebietes "An der Heide" angelegt. Ihren Namen erhielt sie im Januar 2013 nach einem kleinen Bach, der seine Quelle nördlich der Dresdner Straße hat und den Brauteich speist. An der Hauptstraße mündet er in den Roten Graben.
 
-![am heidehof](../../../nord/langebruck/strassen_langebruck/am_heidehof.jpg)
+## Am Heidehof
 
 Die kleine Straße Am Heidehof wurde in den 1930er Jahren im westlichen Teil von Langebrück angelegt, als hier eine kleine Siedlung entstand. Ihren Namen erhielt sie nach einem hier befindlichen, 1933 bei einem Brand zerstörten Bauerngut mit diesem Namen. Zunächst hieß die gesamte Siedlung ab 1933 postalisch "Heidehof-Siedlungsgelände", bevor 1936 der heutige Name eingeführt wurde.
 
-![august-bebel-straße](../../../nord/langebruck/strassen_langebruck/august-bebel-straße.jpg)
+## August-Bebel-Straße
 
 Auch die jetzige August-Bebel-Straße entstand in den 1930er Jahren im Wohngebiet Heidehof. Zunächst wurden die Gebäude ab 1933 unter dem Namen Heidehof-Siedlungsgelände geführt, bevor man der Straße zwei Jahre später den Namen Konstant-May-Straße gab. Konstant May war der Inhaber des Hotels "Heidehof" an dieser Straße. Nach 1945 erfolgte nach dem sozialdemokratischen Politiker August Bebel (1840-1913) die Umbenennung in August-Bebel-Straße.
 
-![badstraße](../../../nord/langebruck/strassen_langebruck/badstra_e.jpg)
+## Badstraße
 
 Die Badstraße entstand kurz nach der Jahrhundertwende und ist unter dem Namen Radeberger Straße 1902 erstmals im Adressbuch verzeichnet. Nach Machtübernahme der Nationalsozialisten wurde sie 1933 in Adolf-Hitler-Straße umbenannt. Da sie ursprünglich als Zufahrt zum Waldbad Langebrück diente, erhielt sie 1945 ihren jetzigen Namen.
 
-![bahnhäuser](../../../nord/langebruck/strassen_langebruck/bahnh_user.jpg)
+## Bahnhäuser
 
 Als Bahnhäuser wird ein Weg nördlich der [Eisenbahnstrecke Dresden-Görlitz](../../../nord/klotzsche/dresden_-_gorlitz/) bezeichnet. Bereits beim Bau der Strecke entstand hier ein Bahnwärterhaus, dem später weitere Wohnhäuser für Bahnbeamte folgten. Nach 1945 wurde für diese Grundstücke die postalische Bezeichnung Bahnweg eingeführt, welche nach der Eingemeindung Langebrücks in Bahnhäuser wechselte.
 
@@ -32,7 +32,7 @@ Als Bahnhäuser wird ein Weg nördlich der [Eisenbahnstrecke Dresden-Görlitz](.
 Die heutige Beethovenstraße wurde als Albertstraße Ende des 19. Jahrhunderts angelegt und mit villenartigen Landhäusern bebaut. Markantestes Gebäude ist die Villa Edelweiß (Nr. 14), die sich einst im Besitz des Gutsbesitzer Moritz Claus
 befand. Der nach 1945 eingeführte Straßenname erinnert an den bekannten deutschen Komponisten Ludwig van Beethoven (1770-1827).
 
-![bergweg](../../../nord/langebruck/strassen_langebruck/bergweg.jpg)
+## Bergweg
 
 Der nach örtlichen Gegebenheiten benannte Bergweg führt im Unterdorf von Langebrück vom Grundweg zur Hauptstraße und überquert dabei den Roten Graben. Erstmals ist er im Adressbuch von 1930 zu finden.
 
@@ -48,11 +48,11 @@ Die 1885 angelegte Bergerstraße verdankt ihren Namen dem früheren Langebrücke
 
 Die im Zuge der Erschließung des Wohngebietes An der Heide 2012 angelegte Bertha-Dißmann-Straße erinnert an die Kochbuchautorin Agnes Clara Bertha Dißmann (1874-1954), die viele Jahre in Langebrück auf der Höntzschstraße 6 wohnte. Ihr bekanntestes Werk ist der bereits vor dem Ersten Weltkrieg erstmals erschienene und in zahlreichen Auflagen gedruckte Ratgeber für Herd und Haus. Außerdem war sie zwischen 1903 und 1912 Vorsteherin der Haushaltungsschule der Inneren Mission in Dresden.
 
-![blumenstraße](../../../nord/langebruck/strassen_langebruck/blumenstraße.jpg)
+## Blumenstraße
 
 Die Blumenstraße im Langebrücker Oberdorf verbindet seit 1897 die Bergerstraße mit der Moritzstraße. Die Villen und Landhäuser an dieser Straße stammen aus der Zeit um 1900.
 
-![borngässchen](../../../nord/langebruck/strassen_langebruck/borng_sschen.jpg)
+## Borngässchen
 
 Das Borngässchen wurde Ende der 1920er Jahre im Unterdorf von Langebrück angelegt. Es verbindet die Langebrücker Hauptstraße mit der Kirchstraße und führt am Roten Graben entlang. Der kleine Wasserlauf war auch Anlass für die 1929 erstmals nachweisbare Namensgebung.
 
@@ -81,7 +81,7 @@ Die 1936 erstmals erwähnte Brunnenstraße befindet sich im Langebrücker Ortste
 Forstamt. Dieses entstand im 17. Jahrhundert. als Forst- und Jagdhaus und wurde 1635 erstmals erwähnt. 1780/81 wurde das heutige Gebäude errichtet, welches neben den Dienst- und Wohnräumen des Revierförsters zugleich
 Unterkunftsräume für kurfürstliche Jagdgesellschaften besaß. Später als Königliches Forstamt genutzt, ist es heute Sitz der Revierförsterei Langebrück _(Foto)_. Künftig ist in diesem Haus die Einrichtung eines kleinen Museums zur Dresdner Heide geplant.
 
-![friedrich-ebert-straße](../../../nord/langebruck/strassen_langebruck/friedrich-ebert-straße.jpg)
+## Friedrich-Ebert-Straße
 
 Die kurze Friedrich-Ebert-Straße zweigt von der Liegauer Straße ab und erhielt deshalb nach ihrer Anlegung 1929 zunächst den Namen Liegauer Querstraße. 1931 erfolgte die Umbenennung nach dem SPD-Politiker und früheren Reichspräsidenten Friedrich Ebert in Ebertstraße. Da dieser Name während der NS-Zeit als unpassend betrachtet wurde, veränderte man die Bezeichnung 1935 in Horst-Wessel-Straße. Der bei Straßenkämpfen in Berlin 1930 ums Leben gekommene Wessel galt nach 1933 als "Märtyrer" und wurde vielfach geehrt. Unmittelbar nach Kriegsende erhielt die Ebertstraße, nun unter Ergänzung des Vornamens, wieder ihren früheren Namen.
 
@@ -103,7 +103,7 @@ Die Georg-Kühne-Straße wurde 1993 im Wohngebiet Heidehof angelegt und erhielt 
 trug ab 1924 bis zu seiner Entlassung 1945 den Titel Bürgermeister. In seiner Amtszeit entstand u.a. das Wohngebiet Heidehof, der Bau einer Kläranlage und die Erweiterung des Waldbades. Maßgeblich setzte er sich für den Erhalt des
 Charakters Langebrücks als Urlaubs- und Erholungsort ein.
 
-![](../../../nord/langebruck/strassen_langebruck/gerhart-hauptmann-stra_e.jpg)
+## Gerhart-Hauptmann-Straße
 
 Die Gerhard-Hauptmann-Straße im Langebrücker Oberdorf erhielt 1897 nach dem im Jahr zuvor verstorbenen ehemaligen
 deutschen Reichskanzler Otto von Bismarck den Namen Bismarckstraße. Nach dem Zweiten Weltkrieg erfolgte die  Umbenennung nach dem Schriftsteller Gerhart Hauptmann (18621946). Hauptmann wurde durch seine Erzählungen und
@@ -131,7 +131,7 @@ Die Güterbahnhofstraße wurde im Jahr 1913 als Zufahrt zum Langebrücker Bahnho
 
 Der Heideweg befindet sich im Langebrücker Ortsteil Heidehof und dient als Zufahrt in ein Anfang der 1990er Jahre entstandenes Wohngebiet. Seinen Namen verdankt er der Nähe zur Dresdner Heide.
 
-![heinrich-heine-straße](../../../nord/langebruck/strassen_langebruck/heinrich-heine-straße.jpg)
+## Heinrich-Heine-Straße
 
 Die Heinrich-Heine-Straße entstand Mitte der 1930er Jahre als Zufahrt in das neue Wohngebiet Heidehof und ist 1934 erstmals als Straße A im Adressbuch verzeichnet. Im Folgejahr wurde sie nach dem Nationalsozialisten Eugen Eichhorn (1906-1927) benannt. Eichhorn gehörte in den Zwanziger Jahren der SA-Ortsgruppe in Plauen/Vogtland an und wurde 1924 bei einer Auseinandersetzung zwischen Nazis und Kommunisten schwer verletzt. 1927 verstarb er an den Spätfolgen seiner Verletzung und wurde in der NS-Zeit als "Blutzeuge der Bewegung" verehrt.
 
@@ -159,7 +159,7 @@ Nr. 12: In diesem Haus lebte ab 1904 bis zu seinem Tod der Landschaftsmaler Rudo
 
 Nr. 21: Am früheren Wohnhaus von Friedrich Wolf erinnert eine Gedenktafel an den Aufenthalt des Schriftstellers 1918-19 in Langebrück. Bereits 1916 war seine Frau mit der gemeinsamen Tochter Johanna in das Haus gezogen. Wolf übernahm 1918 die Leitung des im Kurhaus untergebrachten Hilfslazaretts und gehörte als Vertreter der USPD zeitweise dem Langebrücker Gemeinderat an. 1919 wurde sein Sohn Lucas Friedemann geboren. Nach Auflösung des Lazaretts verzog die Familie 1920 nach Remscheid.
 
-![kiefernweg](../../../nord/langebruck/strassen_langebruck/kiefernweg.jpg)
+## Kiefernweg
 
 Der Kiefernweg entstand Mitte der 1970er Jahre zur Erschließung eines kleinen Wohngebietes zwischen Albert-Richter-Straße und Am Gänsefuß. Die Namensgebung erfolgte in Bezug auf die nahe Dresdner Heide.
 
@@ -185,7 +185,7 @@ Die Klotzscher Straße ist Teil eines alten Verbindungsweges zwischen Dresden un
 
 Später siedelten sich an der als Zufahrt zum Werk geplanten Straße mehrere Gewerbebetriebe an. 1931 erfolgte die Umbenennung in Hindenburgstraße, bevor man nach 1945 den heutigen Namen vergab. Seit 1994 hat an der Lessingstraße die Freiwillige Feuerwehr Langebrück ihr Domizil.
 
-![liegauer straße](../../../nord/langebruck/strassen_langebruck/liegauer_straße.jpg)
+## Liegauer Straße
 
 Die Liegauer Straße verbindet Langebrück mit dem Nachbarort Liegau-Augustusbad und erhielt danach ihren Namen. Erstmals ist sie im Adressbuch von 1897 aufgeführt.
 
@@ -278,7 +278,7 @@ Lehnrichtergutes, dem die niedere Gerichtsbarkeit über Langebrück oblag und bl
 Nach 1990 wurde im Ortsteil Heidehof ein neues Wohngebiet angelegt. In diesem Zusammenhang entstand auch die Taegerstraße. Karl Hanns Taeger (1856-1937) war Lehrer für Landschaftsmalerei an der Dresdner Kunstakademie und
 wohnte ab 1894 in Langebrück auf der Bergerstraße. Hier schuf er verschiedene Gemälde, meist Motive aus der Dresdner Heide und dem Seifersdorfer Tal. Ein Teil davon war bis vor einigen Jahren in den Gasträumen der [Hofewiese](../../../nordost/dresdner_heide/hofewiese/) zu sehen.
 
-![weißiger straße](../../../nord/langebruck/strassen_langebruck/weißiger_straße.jpg)
+## Weißiger Straße
 
 Die Weißiger Straße ist erstmals im Adressbuch von 1897 erwähnt. Ursprünglich führte sie nur vom Schillerplatz bis zur Forststraße, wurde später jedoch mit zunehmender Bebauung in Richtung Süden verlängert. Ihren Namen erhielt sie nach dem Ort Weißig im Schönfelder Hochland, seit 1999 Stadtteil von Dresden.
 

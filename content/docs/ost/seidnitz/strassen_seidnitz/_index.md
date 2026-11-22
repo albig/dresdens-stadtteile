@@ -3,7 +3,7 @@ title: "Straßen und Plätze in Seidnitz"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-![altenberger platz](../../../ost/seidnitz/strassen_seidnitz/altenberger_platz.jpg)
+## Altenberger Platz
 
 Der auf Seidnitzer Flur gelegene Altenberger Platz erhielt seinen Namen am 14. August 1930 nach der Stadt Altenberg im Osterzgebirge. Die Namensgebung erfolgte in Anlehnung an die den Platz überquerende [Altenberger Straße](../../../ost/striesen/strassen_striesen/), die sich hier mit der Enderstraße vereinigt. Die Platzanlage selbst ist jedoch deutlich älter und bereits in einem Bauplan von 1896 verzeichnet. Erst in den 1930er Jahren entstanden jedoch die ersten Gebäude an der Südseite (Nr. 18-22), die heute unter Denkmalschutz stehen. 1994 folgte das Einkaufszentrum Striesen Center mit verschiedenen Läden.
 
@@ -23,15 +23,15 @@ Neben diesen Bauten und der früheren Dorfschule ist das Gemeindespritzenhaus vo
 
 _Tafel und_ _Inschrift am Gemeindespritzenhaus von 1765_
 
-_![am torbogen](../../../ost/seidnitz/strassen_seidnitz/am_torbogen.jpg)_
+## Am Torbogen
 
 Die Straße Am Torbogen erhielt am 24. Juni 1920 offiziell ihren Namen. Zuvor war hier eine neue Wohnsiedlung der Heimstättengesellschaft errichtet worden. Da die Straße durch einen Torbogen in die Siedlung führt, entschied man sich für diese Namensgebung. Ursprünglich endete sie am Steinigtwiesenweg, wurde jedoch später durch Überbauung auf das noch heute vorhandene Teilstück verkürzt.
 
-![am winkelsprung](../../../ost/seidnitz/strassen_seidnitz/am_winkelsprung.jpg)
+## Am Winkelsprung
 
 Die kleine Straße Am Winkelsprung entstand im Zusammenhang mit dem Bau der Siedlung der Heimstättengesellschaft und erhielt am 24. Juni 1920 ihren Namen. Ursprünglich war sie als Straße 4 im Bebauungsplan verzeichnet und führte von der Winterbergstraße zum Steinigtwiesenweg, wurde um 1930 jedoch auf das noch heute vorhandene Reststück zwischen Bergfelderweg und dem Steinigtwiesenweg verkürzt.
 
-![an der rennbahn](../../../ost/seidnitz/strassen_seidnitz/an_der_rennbahn.jpg)
+## An der Rennbahn
 
 Die Straße geht auf einen alten Verbindungsweg zwischen Seidnitz und Dobritz zurück und wurde 1891 im Zusammenhang mit dem Bau der Dresdner [Pferderennbahn](../../../ost/seidnitz/pferderennbahn/) ausgebaut. Auf Seidnitzer Flur wurde sie einst Dobritzer Straße, in Dobritz Seidnitzer Straße genannt. Am 1. Juni 1926 erfolgte eine Vereinigung beider Straßenabschnitte und die Umbenennung in An der Rennbahn.
 
@@ -49,7 +49,7 @@ Bodenbacher Straße angelegt und am 24. Juli 1975 nach dem kleinen Ort Bärenbur
 
 Die Basedowstraße, 1935 unmittelbar auf der einstigen Flurgrenze zwischen Seidnitz und Dobritz als Planstraße F angelegt, erhielt ihren Namen am 27. September 1945 nach dem Pädagogen und Erziehungsreformer Johann Bernhard Basedow (1723-1790). Basedow setzte sich für eine Erneuerung des Erziehungswesens nach philantropischen Grundsätzen ein und gründete 1774 das Philantropikum in Dessau. Während der Nazizeit hieß die Straße Wilhelm-Ehrlich-Straße nach einem am 9. November 1923 an der Feldherrenhalle in München ums Leben gekommenen Nationalsozialisten.
 
-![bergfelder weg](../../../ost/seidnitz/strassen_seidnitz/bergfelderweg.jpg)
+## Bergfelderweg
 
 Der Bergfelderweg entstand um 1920 zur Erschließung der Wohnsiedlung der Heimstättengesellschaft und wurde am 24. Juni 1920 benannt. Zuvor ist er als Planstraße 1 in den Unterlagen verzeichnet.
 
@@ -78,7 +78,7 @@ diesem Gebiet und erhielt am 5. Oktober 1928 ihren Namen nach der kleinen Gemein
 Die Breitenauer Straße entstand in den 1970er Jahren beim Bau des neuen Wohngebietes an der Marienberger Straße. Am 12.
 Januar 1977 wurde sie nach kleinen Ort Breitenau, heute ein Ortsteil von Bad Gottleuba-Berggießhübel, benannt.
 
-![dittersdorfer straße](../../../ost/seidnitz/strassen_seidnitz/dittersdorfer_stra_e.jpg)
+## Dittersdorfer Straße
 
 Die Dittersdorfer Straße entstand Ende der 1970er Jahre im Zusammenhang mit dem Neubaugebiet an der Löwenhainer Straße. Am 2. August 1979 erhielt sie ihren Namen nach dem Ort Dittersdorf im Osterzgebirge, heute Ortsteil von Glashütte. Ein Teil der hier befindlichen Plattenbauten wurde 2012 abgetragen.
 
@@ -105,23 +105,23 @@ Da die zweigeteilte Straßenführung zu Problemen für ortsunkundige Besucher f�
 
 Die Hahnemannstraße wurde in den 1930er Jahren als Planstraße 18b angelegt und erhielt am 19. Dezember 1934 den Namen Wilhelm-Wolf-Straße. Wilhelm Wolf war beim Putschversuch am 9. November 1923 an der Feldherrenhalle in München gefallen und galt in der Nazizeit als "Vorkämpfer des Nationalsozialismus". Ursprünglich war geplant, diese Straße von der Paracelsusstraße bis zur Suttnerstraße durchzuführen. Letztlich blieb es jedoch bei der bis heute existierenden kurzen Sackgasse, die seit dem 24. Juli 1945 Hahnemannstraße heißt. Samuel Hahnemann (1755-1843) war Arzt und Naturheilkundler und gilt als Vater der Homöopathie.
 
-![hausdorfer straße](../../../ost/seidnitz/strassen_seidnitz/hausdorfer_straße.jpg)
+## Hausdorfer Straße
 
 Die Hausdorfer Straße in Neuseidnitz ist bereits in Bebauungsplänen von 1896 verzeichnet (Planstraße X),wurde jedoch erst nach dem Ersten Weltkrieg ausgebaut und am 5. Juli 1928 nach dem Ort Hausdorf in der Nähe von Reinhardtsgrimma benannt. 1974 entstand hier die [57\. POS "Olga Körner"](../../../ost/seidnitz/). An ihrer Stelle befindet sich seit 2013 der Neubau der Freien Evangelischen Schule.
 
-![hellendorfer straße](../../../ost/seidnitz/strassen_seidnitz/hellendorfer_straße.jpg)
+## Hellendorfer Straße
 
 Die Hellendorfer Straße entstand in den 1970er Jahren zur Erschließung des Neubaugebietes an der Marienberger Straße. Auf Beschluss des Stadtrates erhielt sie am 12. Januar 1977 nach dem Ort Hellendorf im Osterzgebirge ihren Namen. Das Dorf in der Nähe der tschechischen Grenze gehört heute zu Bad Gottleuba-Berggießhübel.
 
-![hirschbacher weg](../../../ost/seidnitz/strassen_seidnitz/hirschbacher_weg.jpg)
+## Hirschbacher Weg
 
 Der Hirschbacher Weg entstand in den 1970er Jahren mit der Bebauung des Neubaugebietes zwischen Bodenbacher Straße und Liebstädter Straße. Am 24. Juli 1975 wurde er nach dem Ort Hirschbach bei Dippoldiswalde im Osterzgebirge benannt.
 
-![im stillen winkel](../../../ost/seidnitz/strassen_seidnitz/im_stillen_winkel.jpg)
+## Im Stillen Winkel
 
 Die Straße Im Stillen Winkel entstand beim Bau der Wohnsiedlung der Heimstättengesellschaft Sachsen zwischen Winterberg- und Bodenbacher Straße und wurde 24. Juni 1920 benannt.
 
-![johnsbacher weg](../../../ost/seidnitz/strassen_seidnitz/johnsbacher_weg.jpg)
+## Johnsbacher Weg
 
 Ende der 1970er Jahre wurde zwischen Marienberger und Altenberger Straße ein weiteres Neubaugebiet abgelegt. In diesem Zusammenhang entstanden mehrere neue Straßen, darunter auch der Johnsbacher Weg. Auf Beschluss des Stadtrates erhielt er am 2. August 1979 seinen Namen nach dem Ort Johnsbach im Osterzgebirge, heute ein Stadtteil von Glashütte. 2012 wurden die Plattenbauten an der Straße (Nr. 1-11, 22-26) abgetragen, so dass der Johnsbacher Weg heute ohne Bebauung ist.
 

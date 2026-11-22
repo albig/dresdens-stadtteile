@@ -3,7 +3,7 @@ title: "Straßen Pirnaische Vorstadt"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-![amalienstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/amalienstraße.jpg)
+## Amalienstraße
 
 Die Amalienstraße wurde im 18. Jahrhundert angelegt und führte vom Pirnaischen Platz in Richtung Elbufer bis zum Amalienplatz (heute Rathenauplatz). Zunächst wurde sie Am Festungsgraben vor dem Pirnaischen Thore genannt und galt seit 1815 als Teil der inzwischen ausgebauten Johannisstraße. Zu Ehren von Königin Amalie (1801-1877, der Gemahlin von König Johann, erhielt sie 1840 den Namen Amalienstraße.Im Zuge des Wiederaufbaus nach 1945 und der Neugestaltung der Verkehrsachse vom Hauptbahnhof zur Carolabrücke wurde die Amalienstraße Teil der Leningrader Straße. Seit 1991 trägt dieser Straßenzug den Namen [St. Petersburger Straße](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/St_Petersburger_Strasse/st_petersburger_strasse.html).
 
@@ -36,7 +36,7 @@ Außerdem gab es an der Ostseite der Amalienstraße mehrere Lokale und Konditore
 
 **_Fotos:_** _Werbekarte des Hotels Amalienhof und ein Blick in die Amalienschänke um 1910_
 
-![blochmannstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/blochmannstraße.jpg)
+## Blochmannstraße
 
 Die Blochmannstraße erhielt ihren Namen 1874 nach dem Ingenieur und Unternehmer Rudolf Sigismund Blochmann (1784-1871). Blochmann war ab 1818 Inspektor des Mathematisch-Physikalischen Salons und ließ 1828 die erste Gasbeleuchtungsanlage in Dresden installieren. 1851 vollendete er die erste städtische Röhrleitung mit steinernen Röhren, die er mit Hilfe einer von ihm entwickelten Röhrenbohrmaschine herstellen ließ. Außerdem gehörte er zu den Mitbegründern der Technischen Bildungsanstalt.
 
@@ -46,7 +46,7 @@ Zu den ersten Gebäuden der neu angelegten Straße im Osten der Vorstadt gehört
 
 Neben neuen Wohnhäusern wurden auf der gegenüberliegenden Straßenseite auch verschiedene öffentliche Gebäude errichtet. 1950/51 entstand nach Plänen von Emil Leibold der Neubau der [Hochschule für Musik "Carl Maria von Weber"](../../../Zentrum/Pirnaische_Vorstadt/Musikhochschule/musikhochschule.html) (Blochmannstraße 2-4). Teile der früheren Stiftsgebäude bezog man dabei ein. Unter Denkmalschutz steht auch das benachbarte [Berufliche Schulzentrum Bau und Technik](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/strassburger_platz/), 1953 von Gottfried Kintze in traditioneller Bauweise mit Sandsteinputzfassaden gestaltet (Güntzstraße 3). Vor dem Haus steht eine von Wilhelm Landgraf geschaffene Bronzegruppe "Meister und Lehrling". Den Abschluss des Straßenzuges bildet das achtstöckige Wohn- und Atelierhaus Pillnitzer Straße 32.
 
-![blüherstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/blüherstraße.jpg)
+## Blüherstraße
 
 Die heutige Blüherstraße war ursprünglich Teil des sogenannten Environweges, der als äußerer Umgehungsweg um die Festungsanlagen führte und dabei zugleich die Altstadt von den Vororten abgrenzte. Nach dem in der Nähe gelegenen Pirnaischen Schlag, einer Erhebungsstelle für städtische Abgaben, wurde die Straße zunächst "Vor dem Pirnaischen Schlage" genannt. 1840 erfolgte nach dem Stammvater der albertinischen Wettiner, Albrecht dem Beherzten (1443-1500), die Umbenennung in Albrechtgasse. Im Zuge des Ausbaus wurde diese ab 1874 Albrechtstraße genannt _( **Foto:** Walter Möbius - SLUB/Fotothek)_.
 
@@ -74,7 +74,7 @@ Nr. 24: In diesem Haus lebte bis zu seinem Tod 1906 der Kunstmaler Karl Gottlob 
 
 Nach 1945 und der Zerstörung sämtlicher Gebäude wurde die in Blüherstraße umbenannte Albrechtstraße mit der Hans-Schemm-Allee vereinigt und neu nummeriert. Heute führt sie nur noch von der Bürgerwiese bis zur Grunaer Straße. Zu den wenigen bebauten Grundstücken der überwiegend von Park- und Sportanlagen geprägten Straße gehört der ursprünglich als Gärtnerei genutzte Wirtschaftshof des städtischen Grünflächenamtes (Nr. 14). 2013 entstand an dessen Stelle ein moderner Neubau mit Sozial-, Werkstatt- und Lagergebäuden für die Zentralen Technischen Dienste der Landeshauptstadt. Die die Straße säumende Rosskastanienallee steht seit 1999 als Naturdenkmal unter Schutz.
 
-![borngasse](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/borngasse.jpg)
+## Borngasse
 
 Die heute nicht mehr vorhandene Borngasse führte vor 1945 von der Johannesstraße (Teil der St. Petersburger Straße) zur ebenfalls überbauten Carusstraße. Ihren Namen erhielt sie Mitte des 16. Jahrhunderts nach einer vorbeiführenden Röhrfahrt, die das Wasser des [Heiligen Borns](../../../sudost/leubnitz-neuostra/heiliger_born/) bei Leubnitz in die Innenstadt führte. Bis 1848 wurde sie Kleine Borngasse, die Carusstraße hingegen Große Borngasse genannt. Zeitweise war auch der Name Rohrgasse üblich. Zu den Bewohnern der Borngasse gehörte der Architekt Gottlob Friedrich Thormeyer (alte Hausnummer 308). Im Haus Borngasse 1 befand sich bis 1945 die Gaststätte "Lachsschenke".
 
@@ -84,9 +84,9 @@ Schlosserei Hartrampf (Nr. 3): Die Firma Hermann Hartrampf wurde im April 1836 g
 
 Glaser & Sohn (Nr. 5): Das Unternehmen wurde 1868 durch Moritz Glaser und seinen Sohn Richard gegründet. Die Firma warb als "Dresdner Medaillenmünze" mit der Herstellung von künstlerischen Medaillen, Orden und Plaketten und belieferte vorrangig Vereine und Studentenverbindungen. 1920 übernahm Richard Römer den Betrieb und führte ihn bis zur Zerstörung des Gebäudes 1945. Im Jahr 1949 konnte die Produktion auf der Österreicher Strasse 61 wieder aufgenommen werden. 1972 wurde das Unternehmen als "VEB Dresdner Medaillenmünze" verstaatlicht und 1990, nun unter dem Namen "I. Dresdner Medaillenmünze Glaser & Sohn GmbH" reprivatisiert. Der Unternehmenssitz befindet sich seit 1996 auf der Eibauer Straße 18.
 
-[![bürgerwiese](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/bürgerwiese.jpg)](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/BurgerwieseS/Burgerwieses.html)
+## [Bürgerwiese](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/BurgerwieseS/Burgerwieses.html)
 
-![carusstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/carusstraße.jpg)
+## Carusstraße
 
 Die Carusstraße befand sich bis 1945 in der Nähe des Georgplatzes und verband die Bürgerwiese mit der Johann-Georgen-Allee. Ursprünglich war sie ein Teil der 1450 erstmals erwähnten Borngasse. Namensgeber war vermutlich der [Heilige Born](../../../sudost/leubnitz-neuostra/heiliger_born/) bei Leubnitz, dessen Wasser über eine hölzerne Röhrleitung in die Innenstadt geführt wurde. Mitte des 16. Jahrhunderts unterschied man zwischen Kleiner und Großer Borngasse. Dabei begann die Große Borngasse am Jüdenteich und führte von dort zunächst in nördliche Richtung, bevor sie in einem Winkel in Richtung Johannesstraße abknickte. Letzterer Teil wurde Kleine Borngasse genannt _( **Foto:** Albert Wiese SLUB / Fotothek)_. Zusammen bildeten beide Straßen die sogenannte "Borngassengemeinde".
 
@@ -102,21 +102,21 @@ Nr. 18/20 (Villa Cara): Das schlossartige Gebäude entstand 1736 als Wohnhaus f�
 
 Nach Knöffels Tod wechselten mehrfach die Besitzer, zu denen Ende des 18. Jahrhunderts die Gräfin Sophie Auguste Henriette von Schönberg, später der Oberkonsistorialpräsident Hans August Fürchtegott von Globig gehörten. 1833 erwarb der königliche Leibarzt Carl Gustav Carus (1789-1869) das Haus und lebte hier bis zu seinem Tod am 28. Juli 1869. Carus widmete sich neben seinem Beruf der Malerei und gehört zum Kreis der Dresdner Frühromantiker. In seiner Zeit wurde das von ihm "Villa Cara" getaufte Landhaus zu einem gesellschaftlich-kulturellen Mittelpunkt Dresdens, in dem u.a. Caspar David Friedrich, Clara Wieck und Wilhelmine Schröder-Devrient gehörten. Bis 1910 trug die Villa die Hausnummer Carusstraße 6/7, danach die Hausnummer 18/20 und diente bis zur Zerstörung 1945 als Wohnhaus. Ab 1936 erinnerte eine von Johannes Ernst Born entworfene Gedenktafel an Carl Gustav Carus _( **Foto rechts:** Straßenseite um 1936 SLUB / Fotothek)_.
 
-[![comeniussstraße](../../../zentrum/johannstadt/strassen_johannstadt/comeniusstra_e.jpg)](../../../zentrum/johannstadt/strassen_johannstadt/comeniusstrasse/)
+## [Comeniusstraße](../../../zentrum/johannstadt/strassen_johannstadt/comeniusstrasse/)
 
-![cranachstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/cranachstraße.jpg)
+## Cranachstraße
 
 Die heute nicht mehr vorhandene Cranachstraße befand sich im nördlichen Teil der Pirnaischen Vorstadt und wurde 1873 nach dem Maler Lukas Cranach d. Ä. (1472-1553) benannt, der Hofmaler Kurst Friedrich des Waisen war. Sie verband Pillnitzer und Holbeinstraße und wurde nach völliger Zerstörung ihrer Bebauung 1945 in der Nachkriegszeit überbaut. Seit 1971 trägt eine neu angelegte Straße in der [Johannstadt](../../../zentrum/johannstadt/strassen_johannstadt/) Cranachs Namen.
 
 Ab 1924/25 gab es in der Cranachstraße ein Bethaus mit Religionsschule des jüdischen Vereins "Machsike Thora" (Nr. 6). Die 172 Schüler erhielten hier Unterricht in Hebräisch und jüdischer Religion. Von den Nationalsozialisten geschlossen wurde das Gebäude 1940 zum "Judenhaus", in dem jüdische Familien zwangsweise leben mussten. Auch das Wohnhaus Nr. 12 war ab 1940 ein sogenanntes "Judenhaus". Gaststätten existierten in der Nr. 4 (Holländischer Hof) und der Nr. 6 (Zur Cranachschänke). Im Eckhaus zum Holbeinplatz (Nr. 21) befand sich Postamt 10. Das Wohnhaus Cranachstraße 16 war ab 1917 kurzzeitig Wohnung des expressionistischen Dichters Rudolf Adrian Dietrich (1894-1969). Dietrich verfasste verschiedene Gedichte und Schriften und war Herausgeber einer Zeitschrift. Zu seinem Freundeskreis gehörten u.a. die Maler Otto Griebel und Conrad Felixmüller, bei dem er nach seinem Auszug Unterkunft in Loschwitz fand.
 
-![drehgasse](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/drehgasse.jpg)
+## Drehgasse
 
 Die kleine, heute nicht mehr vorhandene Drehgasse lag vor 1945 zwischen Grunaer und Pillnitzer Straße und verband die Amalienstraße mit der Neuen Gasse. Sie entstand vermutlich im 17. Jahrhundert und ist 1622 erstmals als Drehegaßlein, 1635 als Drehgäßlein erwähnt. Der Name geht auf die ursprünglich an beiden Enden befindlichen "Drehen" für Fußgänger zurück, um das unerlaubte Passieren der schmalen Gasse mit Fuhrwerken zu verhindern. In der Nr. 2 lebte bis zu ihrem Tod die Senatorin Justine Renner (1763-1856), bekannt als "Gustel von Blasewitz". Neben Wohnhäusern gab es hier auch zwei kleine Schankwirtschaften in den Häusern Nr. 2 und Nr. 5.
 
-[![dürerstraße](../../../zentrum/johannstadt/strassen_johannstadt/d_rerstra_e.jpg)](../../../zentrum/johannstadt/strassen_johannstadt/durerstrasse/)
+## [Dürerstraße](../../../zentrum/johannstadt/strassen_johannstadt/durerstrasse/)
 
-![elbberg](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/elbberg.jpg)
+## Elbberg
 
 Elbberg war der Name einer kleinen Gasse, die vor 1945 vom Amalienplatz (Rathenauplatz) zum Terrassenufer führte. Sie entstand Mitte des 18. Jahrhunderts und war ursprünglich Wohnsitz von Elbfischern. Erstmals ist sie in einem Stadtplan von 1755 als "Am Elb-Berge" verzeichnet. 1804 wird sie nur noch Elbberg genannt. Ab 1890 fuhr auch die Straßenbahn durch diese schmale Gasse und stellte so die Verbindung zur bereits 1922 wieder aufgegebenen Streckenführung am Terrassenufer her.
 
@@ -126,7 +126,7 @@ Zu den prominenten Bewohnern des Elbbergs gehörten die Maler Ludwig Richter, de
 
 Böhmischer Holzhof: Das zwischen Ziegelwiese und Elbufer gelegene Areal wurde einst zur Zwischenlagerung des Floßholzes genutzt, welches über die Elbe nach Dresden gebracht worden war. Vorgeschrieben war, dass dieses Holz drei Tage lang zum Verkauf angeboten werden musste, bevor ein Weitertransport erlaubt war. Noch bis 1850 wurde der Holzhof betrieben. Ein zweiter existierte sogar noch bis 1870 zwischen Ziegel- und Pillnitzer Straße.
 
-![elbgäßchen](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/elbgässchen.jpg)
+## Elbgäßchen
 
 Unmittelbar neben dem Elbberg lag das heute ebenfalls nicht mehr vorhandene Elbgäßchen, eine im 18. Jahrhundert als Elbgasse angelegte kleine Seitenstraße, die den Elbberg mit der Steinstraße verband. Zu den zahlreichen kleinen Gebäuden gehörte an der Ecke zum Elbberg das Gasthaus "Stadt Schandau" (Nr. 2). Im Nachbarhaus Nr. 4 befand sich die bereits um 1860 genannte Gastwirtschaft "Churfürstens Hof", seit Ende des 19. Jahrhunderts "Stadt Meerane" bzw. "Zur Stadt Meerane" genannt, in der es auch einige Fremdenzimmer gab _(Bild)_.
 
@@ -134,9 +134,9 @@ In den 1960er Jahren errichtete man auf dem Areal des früheren Elbgässchens zw
 
 Nr. 8: Dieses Gebäude befand sich im Besitz des 1880 gegründeten "Vereins gegen Armennot und Bettelei". Vereinsziel war die Unterstützung bedürftiger Personen bei der Arbeitssuche, die finanzielle Unterstützung junger Männer und Mädchen bei der Berufsausbildung und die Armenspeisung. Außerdem unterhielt der Verein eine Mietzinssparkasse und Beratungsräume für Arbeitslose. Die Geschäftsstelle mit Warteräumen für Männer und Frauen befand sich im Erdgeschoss des Vorderhauses, im Seitengebäude gab es einen Sitzungssaal. Im Hinterhaus betrieb der Verein eine Holzspalterei, in der einkommenslose Fremde sich bei einfachen Holzarbeiten einige Groschen für den Lebensunterhalt erwirtschaften konnten. Die oberen Etagen waren um 1900 mit 24 Arbeiterwohnungen belegt. Später nutzte man die Räume auch als Altenheim. Mitte der 1930er Jahre wurde der Verein der NS-Wohlfahrtsorganisation "Volkswohl" angegliedert.
 
-[![georgplatz](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/georgplatz.jpg)](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Georgplatz/georgplatz.html)
+## [Georgplatz](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Georgplatz/georgplatz.html)
 
-![gerichtsstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/gerichtsstraße.jpg)
+## Gerichtsstraße
 
 Die Gerichtsstraße erhielt ihren Namen 1879 nach dem drei Jahre zuvor fertig gestellten [Landgerichtsgebäude](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Pillnitzer_Strasse/Landgericht/landgericht.html) an der Pillnitzer Straße. 1945 fiel dieses, ebenso wie alle Wohnhäuser der Gerichtsstraße, dem Luftangriff zum Opfer. Ursprünglich führte sie von der Pillnitzer Straße bis zum Terrassenufer. Der nördliche Abschnitt bildete einst die Zufahrt zur Ratsziegelei und wurde deshalb ab 1831 als Kleine Ziegelgasse bezeichnet. Zuvor war ab 1797 der Name Quergässchen üblich. 1884 wurde auch dieser Teil auf Ersuchen der Anwohner der Gerichtsstraße zugeordnet.
 Heute ist nur noch der Straßenteil zwischen Pillnitzer und Ziegelstraße vorhanden.
@@ -149,17 +149,17 @@ Nr. 21 (Zu den drei Brücken): Zu den zahlreichen kleinen Lokalen des Stadtviert
 
 Nr. 27 (ZETGE Zimmer & Gehlich): Im Hintergebäude dieses Grundstücks befand sich zeitweise die Dresdner Zweigniederlassung der Firma Zimmer & Gehlich aus Görlitz, die unter dem Namen Zetge Fahrzeugwerke zwischen 1922 und 1926 auch Motorräder herstellte. Eine Filiale gab es auf der Moczynskystraße 7, eine Ausbesserungswerkstatt auf der Werderstraße 39 in der Südvorstadt. Zetge war ein sogenannter Motorradkonfektionär, der auf selbst gebauten Fahrgestellen zugekaufte Motoren der Marke DKW einbaute. Unter Leitung des Inhabers Knipp entstanden zuletzt unter dem Namen "Zegemo" einfache Motorräder, bevor die Produktion wegen der wachsenden Konkurrenz 1926 eingestellt werden musste.
 
-[![grunaer straße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/grunaer_straße.jpg)](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Grunaer_Straße/grunaer_strasse.html)
+## [Grunaer Straße](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Grunaer_Straße/grunaer_strasse.html)
 
 
 
-[![güntzstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/güntzstraße.jpg)](../../../zentrum/johannstadt/strassen_johannstadt/)
+## [Güntzstraße](../../../zentrum/johannstadt/strassen_johannstadt/)
 
-![helmut-schön-allee](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/helmut-schön-allee.jpg)
+## Helmut-Schön-Allee
 
 Die Helmut-Schön-Allee bildet die Verlängerung der Hauptallee des Großen Gartens und verbindet die Lennéstraße mit dem Lingnerplatz, Vorplatz des Deutschen Hygienemuseums. Erst 1971 erhielt die zuvor unbenannte Straße ofiziell den Namen Hauptallee. Am 17. November 2010 wurde dieser Straßenabschnitt zu Ehren des früheren Fußballspielers des Dresdner SC und späteren Bundestrainers Helmut Schön in Helmut-Schön-Allee umbenannt.
 
-![holbeinplatz](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/holbeinplatz.jpg)
+## Holbeinplatz
 
 Der heute nicht mehr vorhandene Holbeinplatz lag unmittelbar hinter dem zum Landgericht Pillnitzer Straße gehörenden Polizeigefängnis Mathildenstraße. An der als Grünanlage gestalteten Platzfläche begannen die Dürer- und die Holbeinstraße. Seinen Namen erhielt er 1880 nach dem Maler und Zeichner Hans Holbein d. J. (1497-1543). Bis zum Ersten Weltkrieg war der Holbeinplatz neben dem Altmarkt und dem Neustädter Markt wichtigster Marktplatz der Stadt und wurde auch später noch für den Obst- und Gemüseverkauf genutzt. Im Haus Holbeinplatz 4 gab es das schon um 1900 erwähnte Restaurant "Zum Reichskanzler". Weitere Lokale waren in den Zwanziger Jahren die Gaststätte "Zur Fichte" und das im Volksmund "Floh" genannte Café und Restaurant Teichgräber, in dem nach Otto Griebels Erinnerungen neben Anwohnern auch frühere Häftlinge und Obdachlose verkehrten.
 
@@ -167,9 +167,9 @@ Gerechtigkeitsbrunnen: Der Brunnen wurde Ende des 19. Jahrhunderts aus Mitteln d
 
 Nachdem das Komitee der Tiedge-Stiftung die Zusage zur Finanzierung gegeben hatte, lobte man 1889 einen künstlerischen Wettbewerb aus, den der Bildhauer Bruno Fischer gewann. Fischer übernahm 1890/91 auch die Realisierung der Justitiafigur, welche als Bronzeguss in der Dresdner Kunstgießerei Bierling hergestellt wurde. Zwei weitere Bronzefiguren stellten Allegorien von "Schuld" und "Unschuld" dar. Ergänzt wurde die Brunnengestaltung durch verschiedene Ornamente, Masken und eine Schale mit Konsole und Ausfluss. 1895 waren alle Teile vollendet. Die architektonische Planung des Brunnens oblag dem Baurat Weidner, der sich in Abstimmung mit Bruno Fischer für einen Sockel aus sächsischem Granit und Postamenten aus schwedischem Labradorstein entschied. Am 30. Juli 1896 wurde der Gerechtigkeitsbrunnen erstmals in Betrieb gesetzt und drei Tage später offiziell in Betrieb genommen. 1945 fiel er dem Luftangriff zum Opfer.
 
-[![holbeinstraße](../../../zentrum/johannstadt/strassen_johannstadt/holbeinstra_e.jpg)](../../../zentrum/johannstadt/strassen_johannstadt/holbeinstraße/)
+## [Holbeinstraße](../../../zentrum/johannstadt/strassen_johannstadt/holbeinstraße/)
 
-![johannesstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/johannesstraße.jpg)
+## Johannesstraße
 
 Die Johannesstraße war einst Teil eines außerhalb des Stadtgrabens entlang führenden Weges und wurde deshalb Ende des 18. Jahrhunderts An der Contrescarpe genannt. Der aus dem Französischen stammende Begriff "contre escarpe" bezeichnet den äußeren Grabenrand einer Festungsanlage. Der Weg verband die Äußere Rampische Gasse mit dem 1903 abgerissenen Waisenhaus. Da hier auch die 1861 abgetragene alte [Johanniskirche](../../../Zentrum/Pirnaische_Vorstadt/Johanneskirche/johanneskirche.html) stand, erhielt er 1815 die Benennung Johannisgasse. Ab 1840 galt dieser Name nur für den Abschnitt zwischen Stadtwaisenhaus und Pirnaischen Platz. 1862 wechselte der Straßenname in Johannisstraße, 1872 dann in neuer Schreibweise Johannesstraße. Nach Zerstörung der gesamten Bebauung und dem Ausbau der Nord-Süd-Verbindung wurde die Johannesstraße in den 1960er Jahren Teil der neuen Leningrader Straße (seit 1991 [St. Petersburger Straße](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/St_Petersburger_Strasse/st_petersburger_strasse.html)).
 
@@ -189,13 +189,13 @@ Sporthaus Karnagel (Nr. 21): Das Sporthaus Karnagel wurde 1912 von Ernst Karnage
 
 Mohren-Apotheke (Nr. 23): Den Abschluss der Bebauung zwischen Johannes- und Ringstraße bildete am Pirnaischen Platz das Haus der Mohrenapotheke. Errichtet wurde es um 1830 von Gottlob Friedrich Thormeyer und erlebte seitdem eine vielfältige Nutzung. Hauptmieter war die Mohren-Apotheke, die mit farbig glasierten Keramikreliefs an der Fassade für ihre Dienste warb. Zudem hatten im Haus mehrere Geschäfte ihre Räumlichkeiten. In den 1930er Jahren befand sich hier mit dem kurz "Mo-Ca" genannten Mohren-Café eines der zahlreichen Dresdner Automatenrestaurants, in dem die Gäste durch Einwurf von Münzen die gewünschten Speisen aus einem Automaten entnehmen konnten.
 
-![katechetenstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/katechetenstraße.jpg)
+## Katechetenstraße
 
 Die Katechetenstraße lag in der Nähe des Pirnaischen Platzes und wurde einst umgangssprachlich "Im Loche" genannt, da sie als Sackgasse nicht durchführend war. Die wenigen hier stehenden Gebäude wurden dem Johannisplatz zugerechnet. 1890 erhielt diese Straße offiziell den Namen Katechetenstraße, da sich an ihrem Ende das Haus des Diakonus der Frauenkirche befand. Zu seinen Aufgaben gehörte auch das "katechitisieren" genannte Nachbereiten der Mittagspredigt mit den Gläubigen. Noch bis 1883 diente das Gebäude als Wohnsitz des Katecheten und wurde 1898 abgetragen.
 
 Mit Abriss des Katechetenhauses konnte die Straße durchgängig ausgebaut werden und verband nun die Pirnaische Straße mit der Johann-Georgen-Allee. Bis 1945 prägten auch hier Wohn- und Geschäftshäuser das Straßenbild. In der Nr. 7 gab es ab 1899 das Weinrestaurant "Zum deutschen Sekthaus". Nach Zerstörung aller Gebäude blieb sie zunächst unbebaut. Als um 1970 die neuen Bürogebäudes des Kombinates Robotron entstanden, wurde die Straßenbezeichnung aufgehoben und die Katechetenstraße überbaut.
 
-![kaulbachstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/kaulbachstraße.jpg)
+## Kaulbachstraße
 
 Die Kaulbachstraße verlief vor 1945 parallel zur Mathilden- und Blochmannstraße und verband die Grunaer Straße mit der Pillnitzer Straße. In diesem Bereich berührte sie auch den heute ebenfalls nicht mehr vorhandenen Seidnitzer Platz. Benannt wurde sie 1874 nach dem bayrischen Maler Wilhelm von Kaulbach (1805-1874). Der vor allem als Historienmaler bekannte Künstler schuf u.a. die Wandgemälde im Treppenhaus des Neuen Museums in Berlin. Im Zuge der Neubebauung des völlig zerstörten Stadtviertels wurde die Kaulbachstraße in der Nachkriegszeit überbaut _( **Foto:** Kaulbachstraße 27)_.
 
@@ -219,11 +219,11 @@ _Gefangene französische Soldaten ziehen an König Albert vorbei (Deutsches Hist
 
 Nr. 28: Hier wohnte und arbeitete 1905 der königliche Hofbildhauer und Stukkateur Bernhard Kurt Roch (1847-1922). Roch, ein Schüler von Robert Diez war nach seinem Studium an der Kunstakademie als freischaffender Bildhauer tätig und hatte sich im Hintergebäude des Hauses sein Atelier eingerichtet. Ab 1890 gehörte der Bildhauer Peter Pöppelmann zu seinen Mitarbeitern. Rochs Hauptwerk waren das Deckenrelief und die vier Kandelabergruppen an der Englischen Treppe im Dresdner Schloss. Die 1945 schwer beschädigte Treppe wurde 2008 bis 2011 rekonstruiert.
 
-![kohlgäßchen](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/kohlgässchen.jpg)
+## Kohlgäßchen
 
 Das Kohlgäßchen entstand vermutlich bereits im 18. Jahrhundert und lag in der Nähe der Einmündung der Gerichtsstraße in die Ziegelstraße. Hier befand sich bis zur Bebauung des Areals der Königliche Rampische Holzhof. Seinen Namen erhielt es nach einer vorhandenen Kohlenhandlung. 1880 wurden die beiden Gebäude des Kohlgäßchens in die Gerichtsstraße einbezogen.
 
-![lenneplatz](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/lenneplatz.jpg)
+## Lenneplatz
 
 Erst seit 1989 trägt die platzartige Anlage zwischen der Kreuzung Parkstraße / Lennéstraße und dem Abzweig der Gerhart-Hauptmann-Straße / Tiergartenstraße den Namen Lennéplatz. Zuvor waren die an der Südseite befindlichen, 1945 zerstörten Villen, der Parkstraße zugeordnet. Aus Anlass des 200. Geburtstages des Gartenarchitekten Peter Joseph Lenné erfolgte am 29. September 1989 die amtliche Benennung. Zeitgleich wurde hier das Lenné-Denkmal aufgestellt. Schöpfer war der Bildhauer Egmar Ponndorf (1929-2015), der das in eine Klinkermauer eingelassene Bronzerelief Lennés gestaltete. Eine weitere Bronzeplatte zeigt den Grundriss der Parkanlage nach dessen Entwurf. Ursprünglich Teil einer Straßenbahnwartehalle steht das Denkmal seit dem Umbau der Gleisanlagen als Mauerstück mit Gedenktafel frei am Rande des Großen Gartens.
 
@@ -231,7 +231,7 @@ Erst seit 1989 trägt die platzartige Anlage zwischen der Kreuzung Parkstraße /
 
 _**Foto:** Das Lennédenkmal am Lennéplatz_
 
-![lennestraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/lennestraße.jpg)
+## Lennestraße
 
 Die Lennéstraße ist Teil des äußeren Stadtrings ("26er Ring") und wurde 1874 angelegt. Namensgeber war der Landschafts- und Parkgestalter Peter Joseph Lenné (1789-1866). Als Generaldirektor der Königlich-Preußischen Gärten hatte er 1859 den Entwurf für die Umgestaltung der [Bürgerwiese](../../../Zentrum/Pirnaische_Vorstadt/Burgerwiese/burgerwiese.html) zur öffentlichen Parkanlage geliefert. Während die östliche Seite bis heute vom Großen Garten eingenommen wird, entstanden an der westlichen Seite [Sportanlagen](../../../Zentrum/Pirnaische_Vorstadt/Rudolf-Harbig-Stadion/Rudolf-Harbig-Stadion.html) mit der Illgen-Kampfbahn, aus der später das Rudolf-Harbig-Stadion hervorging. In der Nähe des Stübelplatzes gab es zudem einige Villenbauten.
 
@@ -243,7 +243,7 @@ Dr.-Richard-Sorge-Denkmal: An Richard Sorge erinnerte bis 1991 ein Denkmal in de
 
 Im Oktober 1991 erhielt die Lennéstraße ihren ursprünglichen Namen zurück. 2018 entstand in der Nähe des Straßburger Platzes die aus drei miteinander verbundenen Gebäuden bestehende Wohnanlage "Lenné-Terrassen" mit ca. 40 Eigentumswohnungen.
 
-![lingnerallee](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/lingnerallee.jpg)
+## Lingnerallee
 
 Die Lingnerallee entstand Ende des 19. Jahrhunderts und war bis 1947 nach dem sächsischen Kurfürsten Johann Georg II. (1613-1680) benannt. Ältester Abschnitt ist der Bereich zwischen Johannes- und Zinzendorfstraße, wo sich ursprünglich der alte [Johanniskirchhof](../../../Zentrum/Pirnaische_Vorstadt/Johanneskirche/johanneskirche.html) befand. Nach dessen Auflösung erhielt die Fläche 1862 den Namen Johannisplatz. Nachdem man 1886 die König-Johann-Straße als neue Verbindung zwischen Altmarkt und Pirnaischem Platz und zeitgleich auch die Moritzstraße bis zum Ring durchgebrochen hatte, entschloss man sich zum Ausbau einer großzügigen Straße bis zum Großen Garten, die 1889 den Namen Johann-Georgen-Allee bekam. Der Kurfürst hatte im 17. Jahrhundert den Park anlegen lassen.
 
@@ -267,7 +267,7 @@ Marktfrauenbrunnen: Der kleine Brunnen an der Lingnerallee _(Foto rechts)_ entst
 
 Cockerwiese: An der Lingnerallee / Ecke Blüherstraße wurde nach dem Abschluss der Enttrümmerung in den 1950er Jahren eine Grünfläche angelegt, die den Namen Blüherwiese erhielt und gelegentlich für Veranstaltungen genutzt wurde. Am 2. Juni 1988 fand hier vor 85.000 Zuschauern ein Open-Air-Konzert des US-amerikanischen Sängers Joe Cocker statt. Im Volksmund ist das Areal seitdem als "Cockerwiese" bekannt. Auf Initiative des bis 1945 in Dresden wohnenden Amerikaners Ulrich Lange wurde im Mai 2015 eine Gedenktafel an das legendäre Konzert aufgestellt. Neben einer kurzen Erläuterung trägt diese Tafel die Inschrift "Danke, Joe! - "Unchain My Heart" nach einem seiner bekanntesten Titel.
 
-![lingnerplatz](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/lingnerplatz.jpg)
+## Lingnerplatz
 
 Der Lingnerplatz entstand 1927 als Vorplatz des [Deutschen Hygiene-Museums](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Hygienemuseum/hygienemuseum.html) und wurde nach dessen Initiator Karl August Lingner (1861-1916) benannt. Lingner hatte sich aus einfachen Verhältnissen zu einem der erfolgreichsten Industriellen hochgearbeitet und war Besitzer der ["Lingner-Werke"](../../../zentrum/sudvorstadt/strassen_sudvorstadt/zwickauer_strasse/lingner-werke/), in denen er das von ihm entwickelte Mundwasser "Odol" herstellte. Als Sozialreformer und Mäzen finanzierte er 1911 die I. Internationale Hygieneausstellung und gründete nach deren Abschluss das [Hygienemuseum](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Hygienemuseum/hygienemuseum.html). Der markante Museumsbau wurde 1927-1930 nach Entwürfen von Wilhelm Kreis errichtet und dient seitdem als Ausstellungsgebäude mit Veranstaltungssaal.
 
@@ -289,9 +289,9 @@ Als einer der wenigen Bauten in diesem Bereich überstand das Amtsgericht mit Au
 
 ![landgericht dresden - lothringer str. 1 - 01069 dresden tel. 0351-44 60 -  fax 0351-4 46 48 40](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/a_round_rectangle_77.gif)
 
-[![marschallstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/marschallstraße.jpg)](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/marschallstrasse/)
+## [Marschallstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/marschallstrasse/)
 
-![mathildenstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/mathildenstraße.jpg)
+## Mathildenstraße
 
 Die Mathildenstraße erhielt ihren Namen 1863 nach der gerade geborenen Prinzessin Mathilde (1863-1933), Tochter des späteren Königs Georg. Obwohl sie hoch gebildet und künstlerisch begabt war, blieb Mathilde Zeit ihres Lebens beim Volk unbeliebt und galt als tyrannisch und launisch. Ihr Grab befindet sich in der Hofkirche. Im Februar 1956 wurde die Mathildenstraße nach dem deutschen Schriftsteller Erich Weinert (1890-1953) in Erich-Weinert-Straße umbenannt. Weinert gehörte seit 1929 der KPD an und war Mitbegründer des Bundes proletarisch-revolutionärer Schriftsteller und zeitweise Präsident des Nationalkomitees "Freies Deutschland". Im Oktober 1991 erfolgte die Rückbenennung in Mathildenstraße.
 
@@ -307,7 +307,7 @@ Untersuchungshaftanstalt: Zwischen 1875 und 1879 entstand auf dem Areal zwischen
 
 Nach dem Ersten Weltkrieg aus hygienischen Gründen geschlossen, ließen die Nazis hier im April 1933 die Untersuchungshaftanstalt Dresden II einrichten und das Gebäude bis 1945 als "Schutzhaftlager" vor allem für politische Gefangene nutzen. 1933/34 war es Zwischenstation für Gefangene, die von hier aus ins Konzentrationslager Hohnstein deportiert wurden. Danach diente es vorwiegend als Untersuchungsgefängnis. Viele der zuletzt ca. 800 Häftlinge kamen beim Luftangriff im Februar 1945 uns Leben. An sie erinnert seit 1975 ein Denkmal an der Ecke Pillnitzer/Gerichtsstraße. Es besteht aus einer dreikantigen Sandsteinstele mit dem Symbol der FIR (Internationale Förderation der Widerstandskämpfer) sowie Schrifttafeln aus Beton und wurde von Johannes Peschel geschaffen _(Foto links)_. 2009 wurde die Stele zur Rietschelstraße versetzt.
 
-![neue gasse](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/neue gasse.jpg)
+## Neue Gasse
 
 Die Neue Gasse verband vor dem Zweiten Weltkrieg die Pirnaische mit der Pillnitzer Straße und bildete zugleich die Verlängerung der Zinzendorfstraße in Richtung Elbe. Sie gehörte zu den ältesten Straßen der Pirnaischen Vorstadt und wurde bereits 1530 als "Newgasse" erwähnt. Später war auch der Name Lange Gasse üblich. Weitere schon im 16. Jahrhundert nachweisbare Bezeichnungen waren "lange Newgasse" (1574) und "newe Langegasse" (1577). Auch die Namen "Naw Sorge" und "Naue Ziegelgasse" finden sich in städtischen Unterlagen dieser Zeit. Seit dem 17. Jahrhundert war nur noch der Name Neue Gasse für den Abschnitt zwischen Pirnaischer und Pillnitzer Straße üblich. Mit Zerstörung sämtlicher Gebäude und der Überbauung durch die Robotron-Gebäude verschwand die Neue Gasse aus dem Stadtbild.
 
@@ -327,21 +327,21 @@ Nr. 32: In diesem Grundstück hatte Ende des 19. Jahrhunderts die Kunstdruck- un
 
 Ebenfalls unter dieser Adresse befand sich in einem Seitengebäude bis 1945 eine Zweigiederlassung der Bunt- und Luxuspapierfabrik Goldbach. Das Unternehmen war 1872 von dem in Dresden wohnhaften Kaufmann Hermann Otto Richard Gmeiner (1841-1911) in Goldbach bei Bischofswerda gegründet worden und gehörte später zu den größten Luxuspapierfabriken Europas. Verkaufsniederlassungen gab es u.a. am Neumarkt 7 und ab 1888 auf der König-Johann-Straße 21. Gmeiner, der sich später Gmeiner-Benndorf nannte, besaß mehrere Patente für Spezialpapiere und wurde 1909 zum königlich-sächsischen Kommerzienrat ernannt.
 
-![parkstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/parkstraße.jpg)
+## Parkstraße
 
 Die Parkstraße erhielt ihren Namen 1866, da sie an den Grünanlagen der 1863 angelegten Bürgerwiese und am Großen Garten vorbeiführte. Auf der gegenüberliegenden Straßenseite, die bereits zur Seevorstadt gehört, prägten bis 1945 repräsentative Villen das Straßenbild. Der östliche Abschnitt jenseits der Lennéstraße erhielt 1989 aus Anlass des 200. Geburtstages von Peter Joseph Lenné (1789-1866) den Namen Lennéplatz.
 
-![pestalozzistraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/pestalozzistraße.jpg)
+## Pestalozzistraße
 
 Die Pestalozzistraße erhielt ihren Namen 1872 nach dem Pädagogen Johann Heinrich Pestalozzi (1746-1827), da sie an der 1. und 18. Volksschule sowie der Mädchen-Gewerbeschule vorbeiführte _(im Bild ganz links)_. Zuvor befand sich hier der Ehrlichsche Gestiftsgarten. Ab 1907 gab es am Ende der Straße einen Eingang zum [Eliasfriedhof](../../../Zentrum/Pirnaische_Vorstadt/Eliasfriedhof/Eliasfriedhof.html), für den sogar eine Erbbegräbnisstätte aufgelöst werden musste. Die Särge kamen daraufhin zum Inneren Neustädter Friedhof. Aus Sicherheitsgründen wurde das Tor 1924 wieder geschlossen und der Fußweg gesperrt. Obwohl die Gebäude der Pestalozzistraße 1945 komplett den Bomben zum Opfer fielen, blieb sie im Gegensatz zu vielen Nachbarstraßen in ihrem Verlauf bis heute erhalten.
 
 Wie auf den benachbarten Straßen gab es auch auf der Pestalozzistraße einst verschiedene Geschäfte, u.a. für fotografische Artikel und Papierwaren. Zu den Bewohnern der Häuser gehörten der Kunstmaler und Otto-Dix-Schüler Lothar Adler (1898-1996) (Nr. 19) und der Bildhauer Johannes Gerold (Nr. 27). Die gegenüberliegende Straßenseite wurde von der [Johanniskirche](../../../Zentrum/Pirnaische_Vorstadt/Johanneskirche/johanneskirche.html) an der Ecke zur Pillnitzer Straße und dem [Schulkomplex](../../../zentrum/pirnaische_vorstadt/) der beiden Volksschulen eingenommen. Heute steht auf diesem Grundstück das St.-Benno-Gymnasium. Auf der anderen Straßenseite wurden an Stelle der zerstörten Vorkriegsbebauung Anfang der 1960er Jahre Wohnblocks errichtet _(Foto rechts)_.
 
-[![pillnitzer straße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/pillnitzer strasse.jpg)](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Pillnitzer_Strasse/pillnitzer_strasse.html)
+## [Pillnitzer Straße](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Pillnitzer_Strasse/pillnitzer_strasse.html)
 
-[![pirnaische straße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/pirnaische straße.jpg)](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Pirnaische_Strasse/pirnaische_strasse.html)
+## [Pirnaische Straße](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Pirnaische_Strasse/pirnaische_strasse.html)
 
-![rathenauplatz](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/rathenauplatz.jpg)
+## Rathenauplatz
 
 Der Rathenauplatz entstand im Zusammenhang mit dem Bau der Carolabrücke um 1895 an Stelle der einstigen Bastion Mars der Stadtbefestigung. Nach deren Niederlegung gab es an dieser Stelle den Militärbauhof sowie ein Gartengrundstück, nach seinem Besitzer Jädickes Garten genannt. Während die Nordseite als Brückenauffahrt diente und von den zum Elbufer hinabführenden Gassen Hasenberg und Elbberg flankiert wurde, zweigten im Osten Marschall-, Ziegel-, und Pillnitzer Straße ab. Im Süden stellten die Amalienstraße und der Moritzring die Verbindung zum Pirnaischen Platz her _(Foto links)_.
 
@@ -349,7 +349,7 @@ Ab 1898 wurde der neu entstandene Platz nach Amalia Auguste von Bayern (1801-187
 
 Eine planmäßige Bebauung gab es um den Rathenauplatz nicht. Lediglich das Eckhaus Marschall- / Pillnitzer Straße stand mit dieser Anschrift (Nr. 1) im Adressbuch. Die übrigen Häuser waren den angrenzenden Straßen zugeordnet. Markant war das sogenannte "Redlichhaus" an der Südseite, welches zugleich den Abschluss der Blockbebauung zwischen Moritzring und Amalienstraße bildete und als Wohn- und Geschäftshaus mit gleichnamiger Gaststätte genutzt wurde.
 
-![rietschelstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/rietschelstraße.jpg)
+## Rietschelstraße
 
 Die Rietschelstraße war ursprünglich ein Teil der Mathildenstraße und wurde deshalb zunächst Untere Mathildenstraße genannt. 1874 erhielt sie nach dem Bildhauer Ernst Rietschel (1804-1861) ihren Namen, der sich jedoch bis 1945 nur auf den Abschnitt vom Terrassenufer bis zur Dürerstraße bezog. Nach den Zerstörungen 1945 wurde sie im Zuge der Umgestaltung der Pirnaischen Vorstadt bis zur Pillnitzer Straße verlängert.
 
@@ -359,15 +359,15 @@ Nr. 13: In diesem Haus an der Kreuzung mit der Marschallstraße befand sich ab 1
 
 Nr. 17: In diesem Haus wohnte Ende des 19. Jahrhunderts die Ärztin, Naturheilkundlerin und Lebensreformerin Anna Clara Fischer-Dückelmann (1856-1917) zusammen mit ihrem Mann, dem Philosophen Arnold Fischer. Nach ihrem Medizinstudium von 1890 bis 1896 in Zürich verzog sie nach Dresden und war zunächst im Bilz-Sanatorium in Radebeul-Oberlößnitz tätig. 1906 eröffnete sie in der [Villa Artushof](../../../nordost/loschwitz/strassen_loschwitz/malerstrasse/) in Loschwitz als erste Frau in Dresden eine Naturheilkundepraxis. Neben ihrer medizinischen Tätigkeit verfasste Anna Fischer-Dückelmann auch mehrere in hohen Auflagen gedruckte Bücher, u.a. "Das Geschlechtsleben des Weibes" und "Die Frau als Hausärztin".
 
-![röhrweg](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/röhrweg.jpg)
+## Röhrweg
 
 Der Röhrweg war ein kleiner Verbindungsweg zwischen Georgplatz und Maximiliansallee, der noch 1849 im Stadtplan von O. Hessler verzeichnet war. Der Name erinnerte an den hier unterirdisch verlaufenden Kaitzbach. Um 1860 wurde die kleine Gasse durch die Wohnhäuser [Georgplatz 1-3](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Georgplatz/georgplatz.html) überbaut.
 
-![roßbachstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/roßbachstraße.jpg)
+## Roßbachstraße
 
 Als Roßbachstraße wird seit 2012 das verbliebene Reststück der [Marschallstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/marschallstrasse/) zwischen Sachsenplatz und Rietschelstraße bezeichnet. Zuvor war diese ab 1. Juli 1946 zunächst Rathenaustraße benannt und 1971 in die Florian-Geyer-Straße einbezogen worden. Der auf Beschluss des Stadtrats vom 19. Januar 2012 vergebene Name erinnert an den Leipziger Architekten Arwed Roßbach (1844-1902), nach dessen Entwürfen das angrenzende Gebäude des Amtsgerichts errichtet wurde.
 
-![schulgutstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/schulgutstraße.jpg)
+## Schulgutstraße
 
 Die Schulgutstraße erinnert an das früher hier gelegene Schulgut, ein Vorwerk im Nordosten der Pirnaischen Vorstadt. Das Gut gehörte dem Ratsherren Johann George Ehrlich (1676-1743), der es nach seinem Tod seiner drei Jahre zuvor errichteten [Schul- und Armenstiftung](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Ehrlichsches_Gestift/ehrlichsches_gestift.html) übertrug. Das Hauptgebäude des Gutes diente noch bis 1872 als Gastwirtschaft "Zum Stadt-Schulgut" und wurde dann zugunsten der Neubebauung mit Mietshäusern abgerissen. Sein Standort befand sich ungefähr in der Nähe der heutigen Ziegelstraße 16. Bereits 1864 hatte die Schulgutstraße ihren Namen erhalten und führte ursprünglich vom Terrassenufer bis zum Holbeinplatz.
 
@@ -375,11 +375,11 @@ _**Bild:** Das alte Schulgut auf einer Lithografie von 18620 (Sammlung Theodor B
 
 Im letzten Drittel des 19. Jahrhunderts entstanden an der Schulgutstraße mehrgeschossige Wohnhäuser im Stil der Gründerzeit. Im Eckhaus zum Holbeinplatz (Nr. 1) befand sich die Gaststätte "Zur Holbeinschänke". Weitere Gaststätten existierten in der Nr. 7 (Schankwirtschaft "Zur Kameradschaft"), Nr. 12 ("Zur Tulpe") und Nr. 19 (Restaurant San Remo). Außerdem gab es einige kleinere Gewerbebetriebe und in der Nr. 16 die Geschäftsstelle des Augenkranken-Heilvereins, der mittellosen Augenkranken ärztliche Behandlung und Brillen sicherte. Im Eckhaus zur Marschallstraße (Nr. 18) war um 1900 das Kurbad Taupitz zu finden _(Foto rechts)_. Das Wohnhaus Schulgutstraße 15 diente ab 1940 als eines von mehreren "Judenhäusern" der Pirnaischen Vorstadt, in denen jüdische Dresdner zwangsweise wohnen mussten. Beim Luftangriff sank es mit der kompletten Bebauung in Trümmer. Im Nachbarhaus Nr. 17 hatte der Bildhauer Oskar Aurich (1877-1968) seine Wohnung. Von Aurich stammte u.a. die Plastik "Wehmut" im [Fichtepark](../../../sud/plauen/fichtepark/) in Plauen.
 
-![seidnitzer platz](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/seidnitzer platz.jpg)
+## Seidnitzer Platz
 
 Der heute nicht mehr vorhandene Seidnitzer Platz erhielt 1877 seinen Namen nach seiner Lage am östlichen Ausgang der Seidnitzer Straße. Begrenzt wurde er von der Kaulbach- und der Blochmannstraße. Von den zahlreichen Gebäuden rund um den Platz, u.a. die 11. Volksschule an der Blochmannstraße und das Dresdner [Konservatorium](../../../Zentrum/Pirnaische_Vorstadt/Musikhochschule/musikhochschule.html) (Nr. 6), überstand keines den Zweiten Weltkrieg. Beim Wiederaufbau in den 1950er Jahren wurde das Areal überbaut.
 
-![seidnitzer straße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/seidnitzer straße.jpg)
+## Seidnitzer Straße
 
 Wie auch der Seidnitzer Platz erhielt die Seidnitzer Straße ihren Namen nach dem Ort Seidnitz, seit 1903 Stadtteil von Dresden. Offiziell benannt wurde sie 1866. Bis 1945 führte sie von der Zirkusstraße bis zur Blochmannstraße. Der anschließende Abschnitt zur Güntzstraße gehörte ursprünglich zur Comeniusstraße, wurde jedoch am 20. April 1995 der Seidnitzer Straße zugeordnet.
 
@@ -395,7 +395,7 @@ Im Hintergebäude des Grundstücks hatte 1905 die Dresdner Kunstanstalt AG ihren
 
 _an den Bildhauer Johannes Schilling und seine Dresdner Werke._
 
-![serrestraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/serrestraße.jpg)
+## Serrestraße
 
 Die Serrestraße erhielt ihren Namen im Jahr 1874, da sie durch das ehemals im Besitz der Majors Friedrich Anton Serre (1789-1863) befindliche Grundstück führte. Serre hatte 1859 die Schillerlotterie gegründet, deren Erlös zu zwei Dritteln an die Deutsche Schillerstiftung und im übrigen an die Tiedgestiftung ging. Bis 1945 führte die Straße von der Amalienstraße zur Neuen Gasse. Mit Zerstörung der Gebäude 1945 und dem später hier errichteten Hochhaus am Pirnaischen Platz wurde sie überbaut. Seit 2010 folgt eine neu geschaffene Zufahrt zu einem Supermarkt ihrem früheren Verlauf.
 
@@ -403,9 +403,9 @@ Auch in dieser Straße gab es bis 1945 verschiedene kleinere Lokale, Läden und 
 
 Zum Krokodil (Nr. 11): Am Ende der Serrestraße, Ecke Neue Gasse (Nr. 11) gab es das urige Lokal "Zum Krokodil". Mit der Übernahme durch Liesbeth Hempel 1938 entwickelte sich das "Krokodil" zu einem beliebten Künstlertreff und wurde von einigen Stammgästen mit Wandbildern und Karikaturen ausgestaltet. Im Vereinszimmer traf sich regelmäßig eine Gruppe junger, dem NS-Regime gegenüber kritisch eingestellter Künstler, zu denen u.a. Otto Griebel gehörte. Er erlebte hier am Abend des 13. Februar 1945 den ersten Luftangriff und schildert seine Erinnerungen daran in seiner Autobiographie "Ich war ein Sohn der Straße".
 
-[![st. petersburger straße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/st petersburger straße.jpg)](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/St_Petersburger_Strasse/st_petersburger_strasse.html)
+## [St. Petersburger Straße](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/St_Petersburger_Strasse/st_petersburger_strasse.html)
 
-![steinstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/steinstraße.jpg)
+## Steinstraße
 
 Die Steinstraße erhielt ihren Namen 1871, da sich an ihrem Ausgang zur Elbe früher der Ausladeplatz für gebrochenen Sandstein befand. Neben Wohnungen und kleineren Geschäften gab es hier auch mehrere Gastwirtschaften, u.a. das bereits 1890 erwähnte Lokal "Zum Jägerhof" (Nr. 2) und ab ca. 1900 das Restaurant "Rudelsburg" an der Ecke zur [Marschallstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/marschallstrasse/) (Marschallstraße 15). Die Gebäude der Straße wurden 1945 sämtlich zerstört. An ihrer Stelle entstanden in der Nachkriegszeit Wohnblocks sowie eine 1969 eingeweihte Schwimmhalle.
 
@@ -415,11 +415,11 @@ Schwimmhalle Steinstraße: Die Volksschwimmhalle an der Steinstraße entstand 19
 
 Wegen Baufälligkeit musste die Halle 2001 geschlossen werden und diente danach als Lager des Serumwerkes. Derzeit steht sie leer, ein Abriss des Gebäudes ist geplant.
 
-[![straßburger platz](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/straßburger platz.jpg)](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/strassburger_platz/)
+## [Straßburger Platz](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/strassburger_platz/)
 
-[![terrassenufer](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/terrassenufer.jpg)](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Terrassenufer/terrassenufer.html)
+## [Terrassenufer](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Terrassenufer/terrassenufer.html)
 
-![ziegelstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/ziegelstraße.jpg)
+## Ziegelstraße
 
 ![](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/pv_ziegelstraße.jpg)Die Ziegelstraße wurde um 1370 erstmals als "platea laterum", dann um 1400 als Czigelgasse urkundlich erwähnt. Diese Namensgebung wurde gewählt, da sie zur Ziegelwiese mit der [Ratsziegelscheune](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Ratsziegelei/ratsziegelei.html) führte. Seit dem Mittelalter wurden dort im Auftrag des städtischen Rates Ziegelsteine hergestellt. Ab 1831 unterschied man zwischen der Kleinen Ziegelgasse (später Gerichtsstraße) und der Großen Ziegelgasse. 1868 wechselte der Name in Große Ziegelstraße, 1884 in Ziegelstraße.
 
@@ -441,9 +441,9 @@ Der engagierte und kreative Unternehmer baute sein Geschäft nun weiter aus. Neb
 
 Nr. 30 (bis 1864 Große Ziegelgasse 41): Das Gebäude befand sich ab 1861 im Besitz von Johann Traugott Zille, dem Vater des Zeichners Heinrich Zille. Zille hatte es erworben, um in Dresden das Bürgerrecht zu erhalten und verdiente seinen Lebensunterhalt als Uhrmacher und Pfandleiher. Wenig später verzog die Familie zur Großen Ziegelgasse 1 und wechselte danach mehrfach die Wohnungen (1866: Wilsdruffer Str. 12), bevor sie um 1866/67 die Stadt verließen. In unmittelbarer Nachbarschaft befand sich das noch aus der Frühzeit der Vorstadt stammende Gehöft Ziegelstraße 32 _(Foto)_, welches auf zahlreichen historischen Ansichtskarten dokumentiert wurde.
 
-[![zinzendorfstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/zinzendorfstraße.jpg)](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Zinzendorfstrasse/zinzendorfstrasse.html)
+## [Zinzendorfstraße](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Zinzendorfstrasse/zinzendorfstrasse.html)
 
-[![zirkusstraße](../../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/zirkusstrasse.jpg)](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Zirkusstraße/zirkusstrasse.html)
+## [Zirkusstraße](../../../Zentrum/Pirnaische_Vorstadt/Strassen_Pirnaische_Vorstadt/Zirkusstraße/zirkusstrasse.html)
 
 
 

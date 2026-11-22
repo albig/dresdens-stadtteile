@@ -106,7 +106,7 @@ Kernstück des Hoftheaters ist die frühere Scheune, welche im Oktober 2002 als 
 
 [![](../../../../nordost/schonfeld-weissig/weissig/strassen_weissig/hoftheater-wei_ig.jpg)](http://www.hoftheater-dresden.de)
 
-![heidestraße](../../../../nordost/schonfeld-weissig/weissig/strassen_weissig/heidestraße.jpg)
+## Heidestraße
 
 Die Heidestraße beginnt in der Nähe des alten Dorfkern und führt in Richtung Dresdner Heide. Ursprünglich war nur der südliche Teil benannt. Erst nach 1990 erfolgte im Zusammenhang mit einem Neubaugebiet eine Verlängerung der Straße.
 

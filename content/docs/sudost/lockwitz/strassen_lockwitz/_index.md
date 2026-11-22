@@ -150,7 +150,7 @@ Die Hermann-Conradi-Straße wurde nach dem Schriftsteller und Redakteur Hermann 
 
 **_Fotos:_** _Wohnhäuser an der Hermann-Conradi-Straße_
 
-![hohles tor](../../../sudost/lockwitz/strassen_lockwitz/hohles_tor.jpg)
+## Hohles Tor
 
 Die Straße Hohles Tor wurde im Zuge der Bebauung am Galgenberg Anfang des 20. Jahrhunderts angelegt und verläuft unterhalb des Trutzsch. Der Hohlweg war einst Zugang zu einer frühgeschichtlichen Slawenburg oberhalb des Lockwitztales. Später wurde dieser Burgberg auch Sorbenwarte oder Donath's Berg (nach den Besitzern der Kelterei Donath) genannt. Von der ehemaligen Burg sind heute keine Überreste mehr zu finden.
 
@@ -207,7 +207,7 @@ Die Tögelstraße im Lockwitzer Dorfkern erinnert an den früheren Lehrer und Ka
 
 _in der Mitte Haus Nr. 2, rechts die ehemalige Post (Neuapostolische Kirche - Nr. 6)_
 
-![urnenstraße](../../../sudost/lockwitz/strassen_lockwitz/urnenstraße.jpg)
+## Urnenstraße
 
 Die Urnenstraße entstand mit der Erschließung des neuen Wohngebietes Am Galgenberg und erhielt ihren Namen 1906. Vermutlich wurde die Bezeichnung nach hier gemachten archäologischen Funden aus der slawischen Zeit gewählt. 1906 entstand an der Urnenstraße das heute von der 79. Grundschule genutzte [Lockwitzer Schulhaus](../../../sudost/lockwitz/).
 

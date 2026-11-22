@@ -39,7 +39,7 @@ den Lindenplatz gehört zu den nach der Jahrhundertwende in Kemnitz entstandenen
 
 ## Lößnitzblick
 
-![lößnitzblick](../../../west/kemnitz/strassen_kemnitz/lössnitzblick.jpg)
+## Lößnitzblick
 
 Im Zusammenhang mit der Bebauung der heutigen Holsteiner Straße entstand an deren westlichen Ende eine kleine Sackgasse, die am 27. August 1923 den Namen Lößnitzblick erhielt. Im Zuge der Eingemeindung des Ortes Mobschatz 1999 gab es diesen Straßennamen jedoch doppelt, so dass man beschloss, die Namensgebung in Kemnitz aufzuheben und die wenigen Häuser der Holsteiner Straße zuzuordnen.
 

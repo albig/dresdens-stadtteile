@@ -153,11 +153,11 @@ Der Hans-Otto-Weg wurde Mitte der 1980er Jahre im Neubaugebiet südlich der Dohn
 
 Von 1911 bis zu seinem Tod am 5. März 1945 bewohnte der Kunstmaler und Graphiker Felix Elßner das Gebäude Nr. 11. Elßner schuf neben zahlreichen Postkartenmotiven verschiedene Illustrationen für den Dresdner Verlag Meinhold & Söhne. Außerdem stammen von ihm einige Bilder in der Leubnitzer Kirche. Zum Freundeskreis der Familie gehörte der Maler Otto Griebel, der 1918 als Kriegsheimkehrer für einige Wochen im Hause Elßners wohnte.
 
-![heiligenbornweg](../../../sudost/leubnitz-neuostra/page14822/heiligenbornweg.jpg)
+## Heiligenbornweg
 
 Ebenso wie die Heiligenbornstraße erhielt auch der Heiligenbornweg seinen Namen nach der nahegelegenen Quelle. Früher waren auch die Bezeichnungen Heiliger Brunnenweg bzw. Heiliger-Born-Weg gebräuchlich. Der Weg führt von Leubnitz aus durch das Tal des Leubnitzbaches und von dort steil ansteigendend bis hinauf zur Koloniestraße. Von Bedeutung ist er zudem als Zugang zu einer hier gelegenen Kleingartensparte.
 
-![heimstattweg](../../../sudost/leubnitz-neuostra/page14822/heimstattweg.jpg)
+## Heimstattweg
 
 Der Heimstattweg wurde Mitte der 1930er Jahre im Zusammenhang mit dem Bau eines kleinen Wohngebiet im Südosten von Leubnitz-Neuostra an der Flurgrenze zu Torna angelegt. Er erschließt das Viertel innerhalb des Tornaer Rings und ist 1937 erstmals im Adressbuch aufgeführt.
 

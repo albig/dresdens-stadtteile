@@ -11,7 +11,7 @@ Die um 1900 angelegte Adolfstraße im Ortsteil Neukaditz erhielt ihren Namen nac
 
 **_Foto:_** _Blick in die Adolfstraße um 1900_
 
-[![altkaditz](../../../nordwest/kaditz/strassen_kaditz/altkaditz.jpg)](../../../Nordwest/Kaditz/Strassen_Kaditz/Altkaditz/Altkaditz.html)
+## [Altkaditz](../../../Nordwest/Kaditz/Strassen_Kaditz/Altkaditz/Altkaditz.html)
 
 ## Am Kaditzer Tännicht
 

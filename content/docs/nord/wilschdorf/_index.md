@@ -31,7 +31,7 @@ Schulen in Wilschdorf:
 
 ![](../../nord/wilschdorf/wilschdschule.jpg)Die erste Wilschdorfer Schule entstand um 1809 an der heutigen Kirchstraße 8. Zuvor fand der Unterricht in dem 1612 erbauten Wohnhaus des Küsters statt. 1899 wurde am Reineckeweg 6 ein Neubau errichtet, welcher 1929 erweitert und später als 86. Oberschule genutzt wurde. Jetzt befindet sich hier die Kindertagesstätte Fuchsbau, die zeitweise nach dem Begründer der Kindererholungsstätte am Oberen Waldteich, Max Hünig, benannt war _(Foto)._ Heute besuchen die Kinder des Ortes die 85. Grundschule an der Radeburger Straße 168, die 1983 als gemeinsames Schulhaus für Wilschdorf und Rähnitz eingeweiht wurde.
 
-[![straßen und plätze in wilschdorf](../../nord/wilschdorf/wilschdorfer_straßen.jpg)](../../Nord/Wilschdorf/Strassen_Wilschdorf/Strassen_Wilschdorf.html)
+## [Wilschdorfer Straßen](../../Nord/Wilschdorf/Strassen_Wilschdorf/Strassen_Wilschdorf.html)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

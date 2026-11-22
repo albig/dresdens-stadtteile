@@ -79,7 +79,7 @@ Video: Tatra-Straßenbahn in der Gleisschleife Mickten beim Kirchentag 2013
 Auf dem Areal des heutigen Elbvillenweg befand sich ursprünglich die frühere [Waffelfabrik Gebr. Hörmann](../../../nordwest/mickten/strassen_mickten/waffelfabrik_hormann/), welche zuletzt zum VEB Dauerbackwaren Dresden gehörte. Nach Schließung der Firma 1992 wurden die Produktionshallen zum Großteil
 abgerissen und stattdessen ein kleines Wohnviertel errichtet. Da dieses vom Investor als Elbvillenpark vermarktet wurde, erhielt die Erschließungsstraße im November 1995 amtlich den Namen Elbvillenweg.
 
-![flößerstraße](../../../nordwest/mickten/strassen_mickten/fl__erstra_e.jpg)
+## Flößerstraße
 
 Die Flößerstraße entstand erst nach 1990 bei der Erschließung eines hier geplanten Wohn- und Gewerbegebietes auf Kaditz- Micktener Flur. Allerdings kam dieses nur in Ansätzen zustande, so dass die Flächen an der Flößerstraße bis heute weitgehend unbebaut blieben. Mit der im November 1995 erfolgten Benennung soll, wie auch bei der benachbarten Treidlerstraße, an einen einst eng mit der Elbe verbundenen Beruf erinnert werden.
 
@@ -123,11 +123,11 @@ Ursprünglich befand sich in diesem Bereich der Micktener Flur die Siedlung Klei
 
 
 
-![marie-curie-straße](../../../nordwest/mickten/strassen_mickten/marie-curie-straße.jpg)
+## Marie-Curie-Straße
 
 Die Marie-Curie-Straße entstand Anfang der 1990er Jahre im Gewerbegebiet zwischen der Autobahn und der Washingtonstraße. Im November 1995 erhielt sie ihren Namen nach der französischen Physikerin Marie Sklodowska-Curie (1867-1934). 1903 erhielt sie für ihre Untersuchungen zur Radioaktivität den Nobelpreis für Physik, 1911 für die Isolierung des Radiums den Nobelpreis für Chemie.
 
-![naundorfer straße](../../../nordwest/mickten/strassen_mickten/naundorfer_straße.jpg)
+## Naundorfer Straße
 
 ![](../../../nordwest/mickten/strassen_mickten/mickt_naundorferstr.jpg)Die Naundorfer Straße erhielt ihren ursprünglichen Namen Kaditzer Straße im Jahr 1901, da sie in Richtung Kaditz führte. Um Verwechslungen mit einer gleichnamigen Straße im Nachbarort Übigau zu vermeiden, erfolgte 1904 die Umbenennung nach dem Ort Naundorf, heute ein Ortsteil von Radebeul. Im Eckhaus zur Hauptmannstraße (Nr. 20) befand sich früher das schon vor dem Ersten Weltkrieg genannte Lokal "Zur Sängerburg".
 
@@ -152,7 +152,7 @@ Dampfsägewerk Lelansky: Das Dampfsägewerk Lelansky wurde 1938 auf dem Grundst�
 
 Hauptsächlich wurde das hier verarbeitete Holz in der Bauwirtschaft verwendet, teilweise aber auch an die Papierindustrie geliefert. Im Zuge der Reparationsforderungen der Sowjetunion fiel das Sägewerk 1945 unter die Demontagebestimmungen und konnte erst in mehrjähriger Arbeit mühsam wieder aufgebaut werden. Trotzdem gelang es nicht, an die Leistungsfähigkeit der Anfangsjahre anzuknüpfen. Der in die Rechtsform einer Kommanditgesellschaft überführte Betrieb wurde 1957 in den Besitz der DDR-Staatsbank überführt und kurz darauf geschlossen. Mit der formellen Liquidation endete am 31. Mai 1988 endgültig die Firmengeschichte.
 
-![winterstraße](../../../nordwest/mickten/strassen_mickten/winterstraße.jpg)
+## Winterstraße
 
 Die Winterstraße entstand als eine der ursprünglich vier Micktener "Jahrszeitenstraßen", von denen heute nur noch Winter- und Herbststraße ihren Namen erhalten haben. 1897 erhielt sie offiziell diesen Namen. Im Eckhaus zur Herbststraße (Nr. 12) befand sich früher die Gastwirtschaft "Zur Eintracht".
 

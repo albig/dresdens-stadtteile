@@ -3,7 +3,7 @@ title: "Straßen Kaitz"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-[![altkaitz](../../../sud/kaitz/strassen_kaitz/altkaitz.jpg)](../../../Sud/Kaitz/Strassen_Kaitz/Altkaitz/altkaitz.html)
+## [Altkaitz](../../../Sud/Kaitz/Strassen_Kaitz/Altkaitz/altkaitz.html)
 
 
 
@@ -54,7 +54,7 @@ Paul-Richter-Haus (Nr. 16): Da Kaitz nie eine eigene Kirche besaß und kirchlich
 
 Ursprünglich war das Gebäude 1915 als eines der ersten Häuser an der Weinbergstraße als "Arzthaus" errichtet worden. Hier betrieb der Bezirks-Impfarzt und Bezirks-Fürsorgearzt Dr. med Karl Siegler seine Praxis. Nach seinem Tod übernahmen mehrere Nachfolger die Praxis, die ab 1955 Außenstelle der Poliklinik Strehlen war. 1983 endete die medizinische Nutzung der Räume.
 
-![kaitzgrund](../../../sud/kaitz/strassen_kaitz/kaitzgrund.jpg)
+## Kaitzgrund
 
 Die Straße Kaitzgrund geht auf einen alten Verbindungsweg zurück, der den Kaitzer Ortskern mit den außerhalb im [Kaitzbachtal](../../../sud/kaitz/kaitzbachtal/) gelegenen Mühlen und den heute zu Bannewitz gehörenden Orten Boderitz und Cunnersdorf verband. 1879 wurde er Kaitzer Weg genannt, um 1900 Cunnersdorf-Kaitzer Straße bzw. Cunnersdorfer Weg. 1926 erhielt er den offiziellen Namen Kaitzgrund. Neben den Mühlen wurde hier bis Ende des 19. Jahrhunderts auch Weinbau betrieben.
 
@@ -64,7 +64,7 @@ Nach dem Zweiten Weltkrieg wurden Teile des einst romatischen Tales durch Uransc
 
 Die Meraner Straße wurde nach dem Ersten Weltkrieg oberhalb der früheren Kaitzer Weinberge angelegt und nach der Stadt Meran in Südtirol benannt. Noch bis nach 1990 prägten neben Einfamilienhäusern Felder und eine Schweinemastanlage das Straßenbild, bevor auch hier neue Wohnhäuser errichtet wurden. An der Ecke Meraner / Possendorfer Straße befindet sich eine um 1830 aufgestellte historische Wegsäule. Die ca. 1,60 Meter hohe Säule weist auf frühere Verbindungswege nach Plauen, Kleinpestitz, Kaitz und Coschütz hin und wurde 2009 saniert.
 
-![mittelsteg](../../../sud/kaitz/strassen_kaitz/mittelsteg.jpg)
+## Mittelsteg
 
 Als Mittelsteg wird seit 1904 der Fußweg durch das [Kaitzbachtal](../../../sud/kaitz/kaitzbachtal/) bezeichnet, der den Ort mit dem benachbarten Mockritz verbindet. Seinen Beginn nimmt er an der Possendorfer Straße, führt dann an einem 2005 angelegten Rückhaltebecken und Kleingärten vorbei nach Altmockritz. Von dort setzt er sich bis zum [Mockritzer Bad](../../../sud/mockritz/) fort und endet an der ehemaligen Ausflugsgeststätte "Grundschlösschen".
 
@@ -72,9 +72,9 @@ Kleingartenverein "Frühauf Kaitz 1905 e.V.": Die Kleingartensparte wurde 1905 a
 
 In der Nachkriegszeit wurde Mitte der 1950er Jahre das Vereinsheim mit einer 1958 eröffneten Gaststätte (Mittelsteg 15) errichtet. Das Material stammte aus Dresdner Ruinen und der aufgelassenen Gärtnerei Lubensky in der ehemaligen Mittelmühle im Kaitzgrund. Zunächst Gartenheim genannt, wechselte der Name des Lokals später in "Kaitzer Stübel" bzw. "Kaitzer Glucke", danach in "Zum Fasan". Seit Ostern 2005 und nach gründlicher Renovierung wird die kleine Gaststätte unter dem Namen "KaitzGarten" betrieben. In den Räumen gründete sich am 23. Juli 1973 der Fußballverein "WSG Kaitz".
 
-[![possendorfer straße](../../../sud/kaitz/strassen_kaitz/possendorfer straße.jpg)](../../../Sud/Kaitz/Strassen_Kaitz/Possendorfer Straße/possendorfer_strasse.html)
+## [Possendorfer Straße](<../../../Sud/Kaitz/Strassen_Kaitz/Possendorfer Straße/possendorfer_strasse.html>)
 
-![zschaukegraben](../../../sud/kaitz/strassen_kaitz/zschaukegraben.jpg)
+## Zschaukegraben
 
 Die 1954 eingeführte Straßenbezeichnung Zschaukegraben bezieht sich auf den neben dem Weg entlangführenden Bach Zschauke, auch Boderitzer Wasser genannt. Die Straße ist Teil eines alten Kommunikationsweges, der von Boderitz über Kaitz nach Mockritz führte. Der oberhalb der Autobahn gelegene Abschnitt wird bis heute Rosenweg genannt. Die Zschauke selbst entspringt in der Nähe von Boderitz, unterquert die Autobahn und mündet an der Boderitzer Straße in ein Rohrsystem, welches sie zum Kaitzbach führt. Vor dem Zweiten Weltkrieg lag hier der Schießstand des 1903 gegründeten Königlich-Sächsischen Militärvereins Kaitz.
 

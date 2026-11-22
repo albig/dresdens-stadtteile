@@ -51,7 +51,7 @@ Die Eschebachstraße, 1911 im Nordteil der Pieschener Flur angelegt, verdankt ih
 
 Die Friedewalder Straße entstand erst in den 1990er Jahren und führt von der Hubertusstraße in ein Wohngebiet. Zur Erschließung der kleinen Siedlung wurde außerdem der Friedewalder Weg angelegt. Beide Straßen erhielten ihre Namen im Juni 1994 nach dem Luftkurort Friedewald, heute ein Ortsteil von Moritzburg.
 
-![](../../../nordwest/pieschen/strassen_pieschen/grimmaische_strasse.jpg)
+## Grimmaische Straße
 
 ![](../../../nordwest/pieschen/strassen_pieschen/piesch_grimmaische.jpg)![](../../../nordwest/pieschen/strassen_pieschen/piesch_grimmaische2.jpg)Die Ende des 19. Jahrhunderts angelegte Grimmaische Straße erhielt 1880 nach ihrer Lage den Namen Thalstraße. Da es nach der Eingemeindung Pieschens nach Dresden eine weitere Talstraße in der Äußeren Neustadt gab, machte sich 1897 eine Namensänderung erforderlich. Der Name Grimmaische Straße erinnert an die Stadt Grimma an der Mulde in der Nähe von Leipzig. Die ursprünglich bis zur Hubertusstraße durchgehende Straße wurde nach dem Zweiten Weltkrieg durch den Bau einer Kleingartenanlage unterbrochen.
 
@@ -59,7 +59,7 @@ Restaurant Trachenberge (Nr. 2): Das Eckhaus zur Döbelner Straße _(Fotos)_ ent
 
 ## [Großenhainer Straße](../../../neustadt/leipziger_vorstadt/grossenhainer_strasse/)
 
-![hans-fromm-straße](../../../nordwest/pieschen/strassen_pieschen/hans-fromm-straße.jpg)
+## Hans-Fromm-Straße
 
 Die Hans-Fromm-Straße wurde 2016 im Zusammenhang mit dem Neubauviertel "Markuspassage" (später "Markusprojekt") angelegt und verbindet in der Nähe des Pieschener Rathauses Bürger- und Leipziger Straße. Benannt wurde sie nach dem ehemaligen Kantor der Markuskirche Hans Fromm (1937-1982), der auch als Dozent an der Kirchenmusikschule tätig war.
 
@@ -93,7 +93,7 @@ Purotex (Nr. 36): Ursprünglich wurden die heute nicht mehr vorhandenen Gebäude
 
 Kleingartenverein Heidegruß: Die Gartensparte wurde 1915 auf private Initiative angelegt, um die Versorgung der Bevölkerung mit Lebensmitteln während des Ersten Weltkriegs zu verbessern. 1917 erhielten die Gärten Wasseranschluss. Nach Kriegsende schlossen sich die Pächter 1919 zu einem gemeinnützigen Verein zusammen, der den Namen Heidegruß erhielt. Das Spartenheim der Anlage entstand 1956.
 
-![hellerauer straße](../../../nordwest/pieschen/strassen_pieschen/hellerauer_straße.jpg)
+## Hellerauer Straße
 
 Die Hellerauer Straße entstand Mitte der 1920er Jahre zur Erschließung eines Wohngebietes zwischen Boxdorfer und Hubertusstraße. Am 22. August 1929 erhielt sie nach dem im Norden der Stadt gelegenenen Ort Hellerau, seit 1950 Stadtteil von Dresden, ihren Namen. Die Wohnhäuser der Hellerauer Straße entstanden zwischen 1935 und 1936 nach Plänen von Paul Beck für den Dresdner Spar- und Bauverein.
 
@@ -101,7 +101,7 @@ Die Hellerauer Straße entstand Mitte der 1920er Jahre zur Erschließung eines W
 
 **_Foto:_** _Blick in die Hellerauer Straße_
 
-![hubertusplatz](../../../nordwest/pieschen/strassen_pieschen/hubertusplatz.jpg)
+## Hubertusplatz
 
 Der Hubertusplatz befindet sich an der als Verkehrsknotenpunkt wichtigen Kreuzung Großenhainer Straße / Hubertusstraße / Maxim-Gorki-Straße. Seinen Namen erhielt er im April 1930 nach der kreuzenden Hubertusstraße. Hier steht seit 1997 die Seniorenresidenz Alexa mit fünf modernen Gebäuden. Zuvor wurde das Gelände von einer Tankstelle und dem Spielwarenhersteller Prefo genutzt.
 
@@ -125,7 +125,7 @@ Die Kleiststraße entstand Ende des 19. Jahrhunderts beim Bau einer Arbeiterwohn
 
 **_Fotos:_** _Eingang zum Firmengelände G. Heyde (links) und Kleiststraße 15 (rechts)_
 
-![konkordienplatz](../../../nordwest/pieschen/strassen_pieschen/konkordienplatz.jpg)
+## Konkordienplatz
 
 ![](../../../nordwest/pieschen/strassen_pieschen/piesch_konkordienplatz.jpg)Der Konkordienplatz an der Kreuzung der Oschatzer Straße mit der Konkordienstraße entstand um 1890 und erhielt im Jahr 1893 in Bezug auf diese Straße seinen Namen. Bis 1906 war die Schreibweise Concordienplatz gebräuchlich. Um den Platz stehen Wohn- und Geschäftshäuser, deren Anlage noch die bereits damals geplante Straßenführung erkennen lassen. Komplettiert wurde diese erst 2015 mit dem Ausbau der heutigen Rosa-Steinhart-Straße. Hier befindet sich auch die 1900 gegründete Kleingartensparte "Concordia".
 
@@ -145,7 +145,7 @@ Kleingartenverein Concordia: Die Gartensparte wurde als eine der ersten in D
 
 ## [Leipziger Straße](../../../neustadt/leipziger_vorstadt/leipziger_strasse/)
 
-![leisniger platz](../../../nordwest/pieschen/strassen_pieschen/leisniger_platz.jpg)
+## Leisniger Platz
 
 ![](../../../nordwest/pieschen/strassen_pieschen/piesch_moltkeeiche.jpg)Der Leisniger Platz entstand im Zuge des Ausbaus der Vorstadt Striesen und erhielt aus Anlass des 80. Geburtstag Helmuth Graf von Moltkes am 26. Oktober 1880 zunächst den Namen Moltkeplatz. Verbunden war die Namensweihe mit der Pflanzung einer "Moltke-Eiche" im Zentrum der dreieckigen Grünanlage _(Foto rechts)_. Helmuth Karl Bernhard Graf von Moltke (1800-1891) nahm als preußischer Generalfeldmarschall am Deutsch-Französischen Krieg teil und erwarb sich als strategischer Leiter militärische Verdienste. Bereits im Juli 1871 hatte er die Dresdner Ehrenbürgerwürde erhalten. Da es in Dresden jedoch bereits einen Moltkeplatz in der Südvorstadt gab, erfolgte nach der Eingemeindung Pieschens am 1. Juli 1897 die Umbennung in Leisniger Platz. Die benachbarte Ringstraße erhielt den Namen Leisniger Straße. Namensgeber ist die mittelsächsische Kleinstadt Leisnig an der Mulde.
 
@@ -179,11 +179,11 @@ Nr. 80 (Aprikosengarten): Das Projekt "Aprikosengarten" entstand 2011 nach einer
 
 
 
-![markusplatz](../../../nordwest/pieschen/strassen_pieschen/markusplatz.jpg)
+## Markusplatz
 
 Der Markusplatz wurde 1886 angelegt und zunächst nach der hier 1879 eröffneten Schule (heute 26. Grundschule) Schulplatz genannt. Zeitgleich begann der Bau der [Markuskirche](../../../nordwest/pieschen/markuskirche/), nach deren Fertigstellung er 1889 gemeinsam mit der angrenzenden Straße den Namen Markusplatz bekam.
 
-![markusstraße](../../../nordwest/pieschen/strassen_pieschen/markusstraße.jpg)
+## Markusstraße
 
 Die Markusstraße verdankt ihren Namen, ebenso wie der angrenzende Markusplatz der 1889 eingeweihten Markuskirche. Erstmals benannt wurde sie im Jahr 1889. Hier befindet sich auch das Pfarrhaus der Kirche (Nr. 2). Im 1945 zerstörten Eckhaus zur Robert-Matzke-Straße (Nr. 15) befand sich einst die Gaststätte "Stettiner Hof", nach einem früheren Besitzer auch "Bernhardts Restaurant" genannt.
 
@@ -218,7 +218,7 @@ _\- links ein Blick in die Schalterhalle der Sparkasse um 1938 (SLUB / Fotothek)
 
 
 
-![promnitztalstraße](../../../nordwest/pieschen/strassen_pieschen/promnitztalstraße.jpg)
+## Promnitztalstraße
 
 Die Promnitztalstraße wurde Ende der 1990er Jahre in der Nähe des Hubertusplatzes angelegt und entstand zur Erschließung eines kleinen Wohngebietes. Benannt ist sie nach der Gemeinde Promnitztal, die heute zur Stadt Radeburg gehört.
 
@@ -288,7 +288,7 @@ Hier befand sich einst auch der alte Pieschener Dorfgasthof (Nr. 38), der Ende d
 
 1925 übernahm die 1894 gegründete Maschinenfabrik Richard Krautwald die Räume und nutzte diese für ihre Produktion. Das traditionsreiche Unternehmen stellte im früheren Ballsaal u. a. Verpackungsmaschinen für Papier und Kartonagen sowie für die Herstellung von Papptellern für den Imbißverkauf her. 1972 wurde der Betrieb verstaatlicht und als VEB Sondermaschinenbau KARTOPLAST weitergeführt. Erst 1990 erhielten die Alteigentümer ihre Firma zurück und übergaben diese 2004 an eine neue Geschäftsführung. Zwei Jahre später musste der Betrieb jedoch Insolvenz anmelden. Danach stand das Gebäude leer. 2011/12 nutzte es eine Pieschener Kulturinitiative als Ausstellungs- und Veranstaltungsort. Wenig später erfolgte gemeinsam mit dem benachbarten Haus Torgauer Straße 40 der Umbau des Hauptgebäudes zu Wohnungen. Der frühere Ballsaal wurde 2012 zugunsten einer kleinen Reihenhausanlage abgerissen.
 
-![trachauer heideweg](../../../nordwest/pieschen/strassen_pieschen/trachauer_heideweg.jpg)
+## Trachauer Heideweg
 
 Der Trachauer Heideweg ist bereits um 1900 als namenloser Weg in den Stadtplänen verzeichnet und verband den Trachauer Dorfkern mit der Dresdner Heide. Inoffiziell wurde er von den Anwohnern Haideweg genannt. 1904 erhielt der auf Trachauer und Pieschener Flur gelegene westliche Abschnitt bis zur Großenhainer Straße den Namen Boxdorfer Straße. Für den unbebauten Teil, der größtenteils durch eine Kleingartenanlage führt, entstand nach dem Ersten Weltkrieg die Bezeichnung Trachauer Heideweg.
 
@@ -318,13 +318,13 @@ Nach dem Ersten Weltkrieg wurde eine weitere Halle (Halle D) durch das Elbtal-Ei
 
 Trachenberger Hof (Nr. 51): Auch im nördlichen Abschnitt der Trachenberger Straße gab es früher verschiedene Geschäfte und kleine Lokale. So befand sich im Eckhaus zur Kleiststraße (Nr. 33) früher die Schankwirtschaft "Zum Straßenbahnhof". Das unter Denkmalschutz stehende Eckhaus zur Seumestraße (Nr. 51) beherbergte seit 1900 bis nach 1990 die Gaststätte "Trachenberger Hof". Später zog hier ein griechisches Restaurant ein.
 
-![volkersdorfer straße](../../../nordwest/pieschen/strassen_pieschen/volkersdorfer_straße.jpg)
+## Volkersdorfer Straße
 
 ![](../../../nordwest/pieschen/strassen_pieschen/piesch_volkersdorferstr.jpg)Die Volkersdorfer Straße entstand Anfang des 20. Jahrhunderts am Nordrand des St.-Markus-Friedhofs und wurde am 19. Dezember 1907 nach dem heutigen Radeburger Ortsteil Volkersdorf benannt. Anfangs blieb sie jedoch unbebaut. Erst zwischen 1929 u 1931 ließ hier der Dresdner Spar- und Bauverein eine größere Wohnanlage errichten _(Foto)_. Ein Großteil dieser Gebäude (Nr. 12-27) wurde von Paul Beck entworfen. Die etwas später vollendeten Häuser an der östlichen Seite der Hellerauer Straße stammen von Willimartin Romberger.
 
 Ab 1930 wohnte der aus Trachau stammende Arbeiter Albert Hensel mit seiner Ehefrau auf der Volkersdorfer Straße 3. Hensel schloss sich 1934 der antifaschistischen Widerstandsgruppe um Karl Stein, Fritz und Eva Schulze und Herbert Bochow an. Am 6. Februar 1941 wurde er verhaftet und gemeinsam mit seinen Mitstreitern am 5. Juni 1942 in Berlin-Plötzensee hingerichtet. Seit 2015 erinnert ein Stolperstein vor dem Haus an ihn.
 
-![waldstraße](../../../nordwest/pieschen/strassen_pieschen/waldstraße.jpg)
+## Waldstraße
 
 Die Waldstraße wurde 1899 angelegt und erhielt 1902 ihren Namen, da sie damals noch entlang des Heidewalds führte. Ursprünglich war eine durchgehende Straßenführung von der Hans-Sachs- bis zur Hubertusstraße geplant, die jedoch nicht zustande kam. Zwischen 1912 und 1914 wurde hier nach Plänen von Heinrich Koch eine kleine Wohnanlage des Dresdner Spar- und Bauvereins gebaut (Nr. 1-7).
 
@@ -342,7 +342,7 @@ _Ärztehaus genutzte ehemalige Bürgerschule (rechts)_
 
 ![](../../../nordwest/pieschen/strassen_pieschen/piesch_sportplatz.jpg)Sportplatz: Nach dem Ersten Weltkrieg legten Pieschener Arbeitersportler an der Wurzener Straße einen Turn- und Spielplatz an, auf dem bis 1933 Fußballspiele, Leichtathletik-Wettkämpfe sowie Massenturnübungen stattfanden. Hauptnutzer des Sportplatzes mit ca. 2000 Zuschauerplätzen war der Pieschener Arbeitersportverein 01. Nach 1945 hieß die Sportstätte nach einem kommunistischen Arbeiterfunktionär "Rudi-Pinkert-Stadion" und war Betriebssportplatz des Transformatoren- und Röntgenwerkes. Nach 1990 erfolgten einige Modernisierungen. Heute finden hier die Heimspiele der Frauen-Fußballmannschaft des FFC Fortuna Dresden-Rähnitz statt.
 
-![zeithainer straße](../../../nordwest/pieschen/strassen_pieschen/zeithainer_straße.jpg)
+## Zeithainer Straße
 
 Die Zeithainer Straße wurde 1910 zur Erschließung des Gebietes zwischen Riesaer, Heide- und Großenhainer Straße als Planstraße J angelegt. Am 8. April 1913 erhielt sie ihren Namen nach dem Ort Zeithain bei Riesa. In den 1960er Jahren wurde sie bis zur Eschebachstraße verlängert. Die ersten Häuser an der Zeithainer Straße entstanden um 1913 für den Kleinwohnungs-Bauverein Dresden (Nr. 11).
 

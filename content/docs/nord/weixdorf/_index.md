@@ -78,7 +78,7 @@ Um 1900 errichteten die Gemeinden Weixdorf, Lausa, Gomlitz und Friedersdorf ein 
 
 1965 wurde aus Platzgründen neben dem Rathaus ein weiterer provisorischer Schulbau errichtet. Dieser diente bis zur Schulreform 1991 den Kindern der Klassen 1-3 als Unterrichtsgebäude und gehört seit 1992 zur Grundschule des Ortes. Das den Anforderungen nicht mehr genügende Gebäude wurde 2004 durch einen modernen Neubau ersetzt, der im Februar 2005 als Grundschule Am Zollhaus eingeweiht werden konnte.
 
-[![weixdorfer straßen](../../nord/weixdorf/weixdorfer_straßen.jpg)](../../Nord/Weixdorf/Strassen_Weixdorf/strassen_weixdorf.html)
+## [Weixdorfer Straßen](../../Nord/Weixdorf/Strassen_Weixdorf/strassen_weixdorf.html)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

@@ -14,7 +14,7 @@ Im Dezember 2002 wurde an der Einmündung Paradiesstraße/Räcknitzhöhe aus Anl
 
 **_Fotos:_** _Einweihung des neuen Gedenksteins am 14. Dezember 2002_
 
-_![](../../../sud/zschertnitz/strassen_zschertnitz/auguste-lazar-stra_e.jpg)_
+## Auguste-Lazar-Straße
 
 Die Auguste-Lazar-Straße wurde in den 1970er Jahren beim Bau des Neubauviertels an der Räcknitzhöhe angelegt. Die Straßen des Plattenbaugebietes erhielten dabei ihre Namen nach Schriftstellern. Auguste Friederike Wieghardt-Lazar
 (1887-1970) lebte in den Zwanziger Jahren Dresden, emigrierte 1939 nach England und kehrte nach dem Zweiten Weltkrieg wieder nach Dresden zurück. Ab 1959 wohnte sie in Dölzschen, [Am Tälchen 10](../../../sudwest/dolzschen/strassen_dolzschen/)

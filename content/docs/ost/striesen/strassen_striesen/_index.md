@@ -53,7 +53,7 @@ _Kontoristin, Funktionär der kommunistischen Kinder-, Jugend- und Frauenorganis
 
 ![](../../../ost/striesen/strassen_striesen/striesensachsenhof.jpg)Hotel Sachsenhof: Um 1900 gab es in einem der Gebäude das Hotel Sachsenhof(Barbarossaplatz 1). Das 1899 erbaute Haus befand sich im Eigentum der DREWAG, die nach dem Ersten Weltkrieg in den früheren Gasträumen im Erdgeschoss eine Gaswache einrichtete. Zwischen 1933 und 1945 hatte hier außerdem die Ortsgruppe Barbarossa der NSDAP ihren Sitz. Nach 1990 wurden diese Räumlichkeiten zeitweise vom Verein Lebenshilfe e.V. genutzt. Die oberen Etagen dienen seit Einstellung des Hotelbetriebes Wohnzwecken.
 
-[![bärensteiner straße](../../../ost/striesen/strassen_striesen/bärensteiner_strasse.jpg)](../../../ost/striesen/strassen_striesen/bärensteiner_strasse/)
+## [Bärensteiner Straße](../../../ost/striesen/strassen_striesen/bärensteiner_strasse/)
 
 ## Behrischstraße
 
@@ -80,7 +80,7 @@ _**Fotos:**_ _Blick in die Bergmannstraße - rechts das Gemeindezentrum der Ev.-
 
 Ihren heutigen Namen erhielt die Straße 1963 nach dem deutschen Dichter und Theaterregisseur Bertolt Brecht (1898-1956), der durch seine gesellschaftskritischen Werke zu den bedeutendsten Dramatikern des 20. Jahrhunderts gehört. Gleichzeitig wurde auch der Carlowitzplatz in Bertolt-Brecht-Platz umbenannt. Nach 1990 siedelten sich an der Bertolt-Brecht-Allee einige Gewerbetriebe an, wobei u.a. 1995/96 der moderne Business-Park mit dem Haus der Wirtschaft entstand _(Foto)_. Hinzu kamen weitere Büro- und Geschäftshäuser sowie einige Wohngebäude. Auf dem Areal der ehemaligen Zigarettenfabrik Zepter (Nr. 25), nach 1945 vom VEB Wohnraummöbel genutzt, entstanden ab 2015 ebenfalls Wohnungen.
 
-[![borsbergstraße](../../../ost/striesen/strassen_striesen/borsbergstraße.jpg)](../../../ost/striesen/strassen_striesen/borsbergstrasse/)
+## [Borsbergstraße](../../../ost/striesen/strassen_striesen/borsbergstrasse/)
 
 ## Bräterstraße
 
@@ -89,7 +89,7 @@ Namensgebung erfolgte am 12. Mai 1937. Ihren Namen verdankt sie dem Dresdner Sta
 
 Bedingt durch den Ausbruch des Zweiten Weltkrieges konnte das geplante Wohnviertel zwischen Striesen und Gruna nur in Ansätzen realisiert werden. 1945 wurde an der Bräterstraße eine Kleingartenanlage angelegt. Das heutige Vereinsheim dieser Sparte diente in den Nachkriegsjahren als Notunterkunft für ausgebombte Striesener Familien.
 
-[![comeniusstraße](../../../zentrum/johannstadt/strassen_johannstadt/comeniusstra_e.jpg)](../../../zentrum/johannstadt/strassen_johannstadt/comeniusstrasse/)
+## [Comeniusstraße](../../../zentrum/johannstadt/strassen_johannstadt/comeniusstrasse/)
 
 ## Dornblüthstraße
 
@@ -158,11 +158,11 @@ ICA-Werk: Der Gebäudekomplex an der Glashütter Straße 101/101a entstand 1936/
 
 Kleingartenverein Blumenau: Die Gartensparte wurde 1923 auf dem Gelände einer ehemaligen Kiesgrube an der Glashütter Straße angelegt. 1945 fielen fast alle Lauben dem Luftangriff zum Opfer. Das Gelände wurde in der Folgezeit als Trümmerkippe genutzt und war durch eine Feldbahn mit der Innenstadt verbunden. Erst Anfang der 1950er Jahre konnten die ersten Gärten wieder genutzt werden.
 
-![gottleubaer straße](../../../ost/striesen/strassen_striesen/gottleubaer_straße.jpg)
+## Gottleubaer Straße
 
 Die Gottleubaer Straße wurde 1903 nach der Stadt Bad Gottleuba benannt. Der Kurort im Osterzgebirge ist heute ein Ortsteil von Bad Gottleuba-Berggießhübel. An der Gottleubaer Straße liegt der [Striesener Friedhof](../../../ost/striesen/striesener_friedhof/).
 
-![haenel-clauß-platz](../../../ost/striesen/strassen_striesen/haenel-clauß-platz.jpg)
+## Haenel-Clauß-Platz
 
 Der Haenel-Clauß-Platz an der Einmündung der Prossener Straße in die Haenel-Clauß-Straße entstand Mitte der 1930er Jahre im Zuge der Bebauung des Areals. Am 12. Mai 1937 wurde die im Bebauungsplan als "Platz 4" verzeichnete Anlage in Anlehnung an die benachbarte Straße nach Sara Emilie Haenel-Clauß benannt.
 
@@ -212,7 +212,7 @@ Plastik Mutter mit Kind: Die vom Bildhauer Ernst Hermann Grämer in den 1930
 
 Die Heubnerstraße entstand in den Jahren vor dem Ersten Weltkrieg im neu errichteten Wohnviertel rund um den heutigen Stresemannplatz. Otto Leonhard Heubner (1812-1893) gehörte 1849 der provisorischen Regierung an und wurde wegen seiner Teilnahme am Dresdner Maiaufstand zum Tode verurteilt, später jedoch begnadigt. Als Landtagsabgeordneter und Stadtrat setzte er sich für Reformen im Schulwesen ein und war einer der Mitbegründer der deutschen Turnbewegung. Seit 1906 steht die Straße im Adressbuch.
 
-![hüblerplatz](../../../ost/striesen/strassen_striesen/hüblerplatz.jpg)
+## Hüblerplatz
 
 Der Hüblerplatz verdankt seinen Namen ebenso wie die benachbarte [Hüblerstraße](../../../ost/blasewitz/strassen_blasewitz/) dem früheren Dresdner Bürgermeister Balthasar Hübler (1788-1866), der von 1832 bis 1848 im Amt war. 1892 wurde er zunächst Ahornplatz benannt, erhielt jedoch bereits ein Jahr später seinen heutigen Namen. Im Haus Hüblerplatz 2 hatte um 1903 die Kunstanstalt "Merkur" - Officine für feinsten Chromodruck ihren Sitz. Nach dem Ersten Weltkrieg betrieb hier der Unternehmer Feiertag bis 1932 eine Fabrik zur Herstellung photographischer Apparate. Zudem gab es auf dem Grundstück mit der Firma "Evaminondas" eine der zahlreichen kleinen Striesener Zigarettenfabriken.
 
@@ -250,7 +250,7 @@ Die in den Dreißiger Jahren als Planstraße N angelegte und am 25. Oktober 1935
 
 Die Keglerstraße im Striesener Wohngebiet nördlich des Hepkeplatzes erhielt ihren Namen am 12. Mai 1937 nach dem Kaufmann und Stifter Hermann Ferdinand Kegler (1838-1870), der der Stadt 132.000 Mark für verschiedene Verschönerungsarbeiten gestiftet hatte. Angelegt wurde sie im Zusammenhang mit der Bebauung zwischen Haenel-Clauß- und Bergmannstraße als Planstraße 7c.
 
-![köchlystraße](../../../ost/striesen/strassen_striesen/köchlystraße.jpg)
+## Köchlystraße
 
 Die heute nicht mehr vorhandene Köchlystraße erhielt ihren Namen am 25. Juli 1929 nach dem Altphilologen Hermann Köchly (1815-1876), der ab 1840 Lehrer an der Kreuzschule war. 1849 gehörte er der Zweiten Kammer des Sächsischen Landtags an, musste jedoch wegen seiner Beteiligung am Dresdner Maiaufstand wenig später fliehen. Ab 1851 wirkte er als Professor an den Universitäten Zürich und Heidelberg. Die kleine Straße verband einst in Höhe der Geisingstraße die Schandauer mit der Glashütter Straße. Nach vollständiger Zerstörung der Bebauung wurde sie im Zusammenhang mit der Errichtung des Neubaukomplexes südlich der Schandauer Straße um 1970 eingezogen und überbaut.
 

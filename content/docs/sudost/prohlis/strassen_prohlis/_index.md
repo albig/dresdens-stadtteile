@@ -20,7 +20,7 @@ Dresdner Kunstschmied Alexander Bergmann, dessen Großvater in den 1960er Jahren
 
 [![](../../../plattenblatt_lang.jpg)](http://www.plattenblatt.wg.am)
 
-![altprohlis](../../../sudost/prohlis/strassen_prohlis/altprohlis.jpg)
+## Altprohlis
 
 Als Altprohlis wurde früher der historische Dorfplatz von Prohlis bezeichnet, um den sich die Gehöfte des Ortes gruppierten. Nach der Eingemeindung erfolgte die offizielle Umbenennung in Altprohlis, die 1924 erstmals nachweisbar ist. Im Zuge der Errichtung des Neubaugebietes Prohlis fielen mit Ausnahme eines Dreiseithofes sämtliche Gebäude dem Abriss zum Opfer. In diesem Zusammenhang wurde auch der Platz Altprohlis überbaut. Seine Lage war ungefähr an der Kreuzung Gamigstraße / Georg-Palitzsch-Straße. Im letzten erhaltenen Gutshof befindet sich heute das [Heimat- und Palitzschmuseum](../../../sudost/prohlis/).
 
@@ -78,7 +78,7 @@ Der nach einer Vogelart benannte Finkenweg befindet sich in einem Wohngebiet, we
 Siedlung, zu der auch einige benachbarte Straßen gehören, war ursprünglich mit Holzhäusern der Firma [Höntzsch & Co.](../../../ost/niedersedlitz/strassen_niedersedlitz/) und der [Deutschen Werkstätten](../../../nord/hellerau/deutsche_werkstatten/) Hellerau bebaut. Sämtliche Gebäude fielen, mit Ausnahme eines Doppelhauses am Zeisigweg, 1945 dem
 Luftangriff zum Opfer. Nach 1950 entstanden auf den Grundmauern neue Einfamilienhäuser in massiver Bauweise.
 
-![](../../../sudost/prohlis/strassen_prohlis/finsterwalder_stra_e.jpg)
+## Finsterwalder Straße
 
 Die Finsterwalder  Straße entstand um 1980 im östlichen Teil des Neubaugebietes Prohlis und wurde, ebenso wie die meisten
 Nachbarstraße nach einer Stadt in Brandenburg benannt. Finsterwalde liegt im Süden des Bundeslandes und ist auch als Sängerstadt bekannt.
@@ -118,11 +118,11 @@ In ihren Grundzügen geht die Georg-Palitzsch-Straße auf einen alten Verbindung
 mit angeschlossener Fleischerei, Gästegarten und Tanzsaal beliebte Einkehrstätte der Einwohner und Gäste des Ortes. Ein weiterer Gasthof befand sich an der [Dohnaer Straße](../../../sudost/strehlen/strassen_strehlen/dohnaer_strasse/) gegenüber der Gamigstraße. Während diese, nach ihren Besitzern auch Wolfscher Gasthof
 genannte Einkehrstätte 1945 den Bomben zum Opfer fiel, blieb die Schloßschänke noch bis in die 1960er Jahre geöffnet. Zuletzt befand sich hier eine Polsterwerkstatt, bevor das Gebäude mit dem Dorfkern 1979 abgerissen wurde.
 
-![goldammerweg](../../../sudost/prohlis/strassen_prohlis/goldammerweg.jpg)
+## Goldammerweg
 
 Der Goldammerweg verbindet den Prohliser Meisenweg mit der bereits auf Reicker Flur gelegenen Hülßestraße. Ursprünglich war der 1937 erstmals im Adressbuch genannte Weg eine kurze Sackgasse, wurde später jedoch verlängert. Wie auch bei anderen Straßennamen in diesem Wohngebiet erfolgte die Namensgebung nach einer Vogelart.
 
-![gubener straße](../../../sudost/prohlis/strassen_prohlis/gubener_straße.jpg)
+## Gubener Straße
 
 Die Gubener Straße befindet sich im nordwestlichen Teil des Neubaugebietes Prohlis, das um 1980 entstand. Guben liegt in der Niederlausitz im Osten von Brandenburg an der Grenze zu Polen.
 
@@ -130,7 +130,7 @@ Die Gubener Straße befindet sich im nordwestlichen Teil des Neubaugebietes Proh
 
 Die Hauboldstraße bildet die südliche Verlängerung der Gamigstraße und entstand erst nach 1990 im Zuge der Bebauung dieses Gewerbegebietes. Mit der Namensgebung wird an den Mathematiker und Geographen Georg Gottlieb Haubold (1714-1772) erinnert. Zwischen 1751 und 1772 war er Oberinspektor des Mathematisch-Physikalischen Salons.
 
-![herzberger straße](../../../sudost/prohlis/strassen_prohlis/herzberger_straße.jpg)
+## Herzberger Straße
 
 Die Herzberger Straße wurde im Zuge des Neubauviertels um 1980 in der Nähe des Jacob-Winter-Platzes angelegt. Wie auch viele benachbarte Straßen erhielt sie ihren Namen nach einem Ort in der Lausitz, der Stadt Herzberg in Südbrandenburg.
 
@@ -157,7 +157,7 @@ Die Prohliser Allee entstand im Zusammenhang mit dem Bau des Neubaugebietes und 
 
 ![](../../../sudost/prohlis/strassen_prohlis/prohlisstern.jpg)Wohngebietsgaststätte Stern: Das Lokal entstand 1977 im Zusammenhang mit dem Bau des Neubaugebietes und diente neben der gastronomischen Versorgung des Stadtteils zugleich auch als Wohngebietstreff. Regelmäßig fanden hier Vorträge, Tanz- und andere Veranstaltungen sowie Familienfeiern statt. Nach 1990 wurde die Gaststätte geschlossen und das Haus umgebaut. Heute befinden sich hier u.a. eine Spielothek und eine Bankfiliale. Teile des Gebäudes werden auch wieder gastronomisch genutzt. Im April 2007 erhielt die Gaststätte ihren ursprünglichen Namen Stern, mit dem an den Prohliser Bauernastronomen Johann Georg Palitzsch erinnert werden soll, zurück. Vor dem Haus steht die 1973 von Walter Howard geschaffene Bronzeplastik Sternengucker, welche Palitzsch und ein Kind beim Betrachten des Sternenhimmels zeigt.
 
-![trattendorfer straße](../../../sudost/prohlis/strassen_prohlis/trattendorfer_straße.jpg)
+## Trattendorfer Straße
 
 Die Trattendorfer Straße wurde als eine der ersten neuen Straßen des Neubaugebietes Prohlis angelegt. Am 26. Februar 1976 erfolgte hier die Grundsteinlegung für den neuen Stadtteil. In der Folge entstanden an der Straße sechsgeschossige Plattenbauten sowie ein Schulhaus vom Typ "Dresden Atium", welches bis 1991 von der 120. POS "Wilhelm Koenen", heute von der 120. Grundschule "Am Geberbach" genutzt wird. Der Straßenname erinnert an den kleinen Ort Trattendorf im südlichen Brandenburg, heute ein Stadtteil von Spremberg.
 
