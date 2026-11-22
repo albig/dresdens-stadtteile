@@ -26,7 +26,7 @@ Gostritz unterstand seit 1445 der Leubnitzer Kirche, weshalb die Kinder des Orte
 
 **_Foto:_** _Das alte Gostritzer Schulhaus_
 
-[![gostritzer straßen](../../sudost/gostritz/strassen.jpg)](../../sudost/gostritz/strassen_gostritz/)
+## [Gostritzer Straßen](../../sudost/gostritz/strassen_gostritz/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

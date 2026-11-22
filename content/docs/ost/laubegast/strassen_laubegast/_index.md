@@ -43,7 +43,7 @@ Die Burgenlandstraße wurde 1899 angelegt und auf Beschluss des Gemeinderats zun
 
 Als Coselgasse wird seit 2009 der Abschnitt des Elberadwegs zwischen Laubegaster Ufer und Österreicher Straße bezeichnet. Mit der Namensgebung soll an die Mätresse August des Starken, Anna Constantia Gräfin von Cosel (1680-1765) erinnert werden, welche einst ein Grundstück in Laubegast besaß.
 
-![dachsteinweg](../../../ost/laubegast/strassen_laubegast/dachsteinweg.jpg)
+## Dachsteinweg
 
 Der Dachsteinweg wurde 1929 im Zusammenhang mit einer neuen Wohnsiedlung angelegt. Seinen Namen erhielt er nach dem Hochgebirgsstock Dachstein in den nördlichen Kalkalpen im Salzkammergut. Die Wohnhäuser entstanden ab 1930 für den Spar- und Bauverein Laubegast und Umgebung.
 
@@ -62,7 +62,7 @@ vielen benachbarten Straßen wählte man die Bezeichnung nach einem Ort in Öste
 
 Bedeutendstes Haus ist das 1733 in heutiger Form erbaute Fährgut (Nr. 30), einst Wohnsitz der Fährmannsfamilie Hesse _(Foto rechts)_. Später befand sich hier ab 1910 u.a. eine Schnapsbrennerei, deren Brennhaus im Hof noch erhalten ist. Heute gibt es im Haus eine kleine Gaststätte mit Biergarten. Das historische Nebengebäude fiel 2002 dem Elbehochwasser zum Opfer und wurde durch ein baulich angeglichenes Gästehaus ersetzt. Gegenüber des Fährhauses steht seit 1776 ein [Denkmal](../../../ost/laubegast/strassen_laubegast/neuberindenkmal/) für die Mutter der deutschen Schauspielkunst Caroline Neuber, die ihre letzten Lebensjahre in Laubegast verbrachte und hier 1760 verstarb.
 
-![feldkirchner weg](../../../ost/laubegast/strassen_laubegast/feldkirchner_weg.jpg)
+## Feldkirchner Weg
 
 Der Feldkirchner Weg wurde nach 1990 zur Erschließung einer kleinen Eigenheimsiedlung südlich der Klagenfurter Straße angelegt. Seinen Namen erhielt er nach der Stadt Feldkirch in Vorarlberg/Österreich.
 
@@ -70,7 +70,7 @@ Der Feldkirchner Weg wurde nach 1990 zur Erschließung einer kleinen Eigenheimsi
 
 Die Gasteiner Straße entstand Ende der 1920er Jahre und wurde 1929 nach dem Gasteinertal in den Hohen Tauern in Österreich benannt. 1932 wurde sie bis zur Marburger Straße verlängert.
 
-![](../../../ost/laubegast/strassen_laubegast/gmunder_straße.jpg)
+## Gmünder Straße
 
 ![](../../../ost/laubegast/strassen_laubegast/laubeggmunderstr.jpg)Die Gmünder Straße entstand gemäß des Laubegaster Bebauungsplanes 1897 als Planstraße X und sollte ursprünglich von der Tauernstraße bis zur Leubener Straße durchführen. Allerdings blieb der letzte Abschnitt unvollendet. Am 6. Oktober 1927 erhielt sie ihren heutigen Namen nach dem in Kärnten (Österreich) gelegenen Ort Gmünd am Rand der Niederen Tauern. Zu dieser Zeit wurde hier auf dem Gelände der früheren Gärtnerei Weißbach eine Wohnsiedlung für die "Siedelungsgesellschaft Dresden Stadt und Land GmbH" angelegt. Die Planungen für die heute unter Denkmalschutz stehende "Villacher Siedlung" stammten von den Architekten Umlauf und Wolf. Neben den Wohngebäuden Gmünder Straße 1-7 und 2-8 _(Foto)_ gehören weitere Häuser an der Villacher, Großglockner- und Tauernstraße dazu.
 
@@ -94,7 +94,7 @@ Die Großglocknerstraße entstand Mitte der 1920er Jahre als südlicher Abschlus
 
 
 
-![hallstätter straße](../../../ost/laubegast/strassen_laubegast/hallstätter_straße.jpg)
+## Hallstätter Straße
 
 Die Hallstätter Straße entstand Anfang der 1930er Jahre als Planstraße VII und wurde am 10. August 1932 amtlich Hallstätter Straße benannt. Namensgeber ist der Markt Hallstatt in Oberösterreich am gleichnamigen See. Die Wohnhäuser wurden zwischen 1935 und 1938 gebaut.
 
@@ -138,15 +138,15 @@ Zu den markantesten Gebäuden gehört das Eckhaus zur Österreicher Straße _(He
 
 Zu den bemerkenswertesten Villenbauten in Laubegast gehört der 1894 für den Kunst- und Handelsgärtner Ernst Heinrich Lehmann errichtete Marienhof (Iglauer Str. 17). Das mit einer Klinkerfassade verkleidete Haus weist auch im Inneren noch verschiedene Details der Entstehungszeit auf. Nach 1945 kam die Villa in Besitz der Kommunalen Wohnungsverwaltung und wurde als Mietshaus genutzt. In einem Nebengebäude hatte bis Ende 2008 der Dresdner Kanu-Club Elbe 46 e.V. sein Domizil. 2009 begann die Sanierung und der Umbau zu Eigentumswohnungen. Auf dem Nachbargrundstück entstand 2004/05 eine Kindertagesstätte der Johanniter.
 
-![ischler straße](../../../ost/laubegast/strassen_laubegast/ischler_straße.jpg)
+## Ischler Straße
 
 Die Ischler Straße wurde Ende der 1920er Jahre im Zusammenhang mit einem neuen Wohngebiet als Planstraße R angelegt. Ihren Namen erhielt sie am 12. September 1929 nach dem Ort Bad Ischl im Salzkammergut in Österreich.
 
-![kamelienweg](../../../ost/laubegast/strassen_laubegast/kamelienweg.jpg)
+## Kamelienweg
 
 Der Kamelienweg wurde im Zusammenhang mit dem Bau des Laubegaster Wohnparks Solitude auf früherem Gärtnereigelände angelegt und erhielt am 10. Dezember 1992 seinen Namen. Wie auch beim benachbarten Azaleenweg soll an die frühere [Gärtnerei Hermann Seidels](../../../ost/striesen/strassen_striesen/seidelsche_gartnerei/) erinnert werden, die durch ihre Azaleen- und Kamelienzucht bekannt wurde.
 
-![kärntner weg](../../../ost/laubegast/strassen_laubegast/kärntner_weg.jpg)
+## Kärntner Weg
 
 Ebenso wie viele andere Straßen in Laubegast verdankt auch der Kärntner Weg seinen Namen einem geografischen Bezug zu Österreich. Am 24. Juni 1925 erhielt er seinen Namen nach dem Bundesland Kärnten.
 
@@ -160,7 +160,7 @@ Die Gebäude um den Kirchplatz wurden 1927/28 für die Heimstätten A.G. Groß
 
 **_Fotos:_** _Der Laubegaster Kirchplatz mit dem Kriegerdenkmal (rechts)_
 
-![klagenfurter straße](../../../ost/laubegast/strassen_laubegast/klagenfurter_straße.jpg)
+## Klagenfurter Straße
 
 Die Klagenfurter Straße entstand 1895 auf Initiative des Handelsgärtners Robert Weißbach, der sie als Zufahrt zu seiner Gärtnerei benötigte. Am 7. Oktober 1895 beschloss der Laubegaster Gemeinderat, die Straße in öffentlichen Besitz zu übernehmen und künftig als Moltkestraße zu bezeichnen. Helmuth Graf von Moltke (1800-1891) war Generalfeldmarschall der preußischen Armee und ab 1871 Ehrenbürger der Stadt Dresden. Nach der Eingemeindung gab es in Pieschen bereits eine weitere Moltkestraße (heute Robert-Matzke-Straße). Aus diesem Grund erfolgte 1926 die Umbenennung in Klagenfurter Straße nach der Landeshauptstadt von Kärnten in Österreich.
 
@@ -172,7 +172,7 @@ An der Straße hatten früher einige gewerbliche Unternehmen ihren Sitz. Bekannt
 
 Im Haus Nr. 1 befand sich die erste Laubegaster Poststelle _(Foto)_. Das heute als Wohnhaus genutzte Gebäude steht unter Denkmalschutz. Ehemalige Besitzerin war die Zigarrenhändlerin Ernestine Busse, die ihr Ladenlokal in der Weißen Gasse 1 in der Innenstadt hatte.
 
-![krainer straße](../../../ost/laubegast/strassen_laubegast/krainer_straße.jpg)
+## Krainer Straße
 
 Die Krainer Straße entstand Ende des 19. Jahrhunderts als Planstraße P und war als Verbindung zwischen Moltkestraße (Klagenfurter Straße) und dem Nachbarort Leuben vorgesehen. Das Gelände gehörte zur Handelsgärtnerei von Robert Weißbach und sollte der Erschließung für die hier geplanter Bebauung dienen. Der Ausbau erfolgte später jedoch nur auf dem heutigen Abschnitt zwischen Villacher und Großglocknerstraße. Auf Beschluss des Stadtrates erhielt dieser am 6. Oktober 1927 den Namen Krainer Straße. Namensgeber war die Region in Slowenien, ein Gebiet, welches bis 1919 zu Österreich-Ungarn gehörte.
 
@@ -268,7 +268,7 @@ genutzt wird, entstanden auf Laubegaster Flur seit dem Ersten Weltkrieg zu beide
 
 Die Schoberstraße wurde Ende des 19. Jahrhunderts angelegt und nach Friedrich Emanuel Schober (1760-1849) benannt. Schober, Gutsbesitzer in Laubegast stiftete 1835 die erste [Schule](../../../ost/laubegast/) des Ortes und beteiligte sich bis zu seinem Tod an deren Finanzierung. Sein Grab befindet sich auf dem Leubener Friedhof.
 
-![semmeringweg](../../../ost/laubegast/strassen_laubegast/semmeringweg.jpg)
+## Semmeringweg
 
 Der heute nicht mehr benannte Semmeringweg in Laubegast entstand Ende der 1920er Jahre parallel zur Ischler und zur Gasteiner Straße. Seinen Namen erhielt er am 12. September 1929 nach der Ortschaft Semmering in Niederösterreich. Eine Bebauung erfolgte jedoch nicht. Das war vermutlich der Grund, weshalb der noch 1953 im Stadtplan eingezeichnete Weg eingezogen wurde.
 

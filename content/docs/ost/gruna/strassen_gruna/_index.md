@@ -16,7 +16,7 @@ In Erinnerung an den früheren Dorfkern übernahm der dabei entstandene zentrale
 
 Nach 1945 wurde der Betrieb enteignet und bis 1990 als VEB Madix weitergeführt. Zu DDR-Zeiten spezialisierte man sich auf die Produktion von hydraulischen Hebegeräten. Nach der Wende wurde der Betrieb zunächst in die Madix-Hydraulik GmbH überführt, wenig später jedoch stillgelegt. Bis zur Insolvenz 2007 führte die Pirnaer Hydraulikfirma WEBER KG Name und Produktion noch weiter. Das Grunaer Betriebsgelände (heute Rosenbergstraße 13) wird jetzt von der Vonovia genutzt.
 
-![am anfang](../../../ost/gruna/strassen_gruna/am_anfang.jpg)
+## Am Anfang
 
 Die Straße Am Anfang entstand 1920 im Zusammenhang mit dem Bau der Grunaer Gartenheimsiedlung. Die kleine Straße bildet den Auftakt der Wohnanlage und findet ihr Gegenstück mit der zwei Jahre später benannten Straße Am Ende. Die Gebäude entstanden zwischen 1924 und 1928 nach Plänen des Architekten Paul Beck und des Stadtbaudirektors Max Oertel. Zwischen den Doppel- und Reihenhäusern geben Gärten und öffentliche Grünflächen der Siedlung ihr Bild. Als künstlerischer Schmuck wurde 1922 Am Anfang ein Steinblumenbrunnen aufgestellt. Seit 1969 steht die gesamte Siedlungsanlage unter Denkmalschutz und wurde 1996 saniert.
 
@@ -24,7 +24,7 @@ Die Straße Am Anfang entstand 1920 im Zusammenhang mit dem Bau der Grunaer Gart
 
 **_Fotos:_** _Die Grunaer Gartenheimsiedlung - in der Mitte ein Blick in die Straße An den Gärten_
 
-![am ende](../../../ost/gruna/strassen_gruna/am_ende.jpg)
+## Am Ende
 
 Als südlicher Abschluss der Gartenheimsiedlung wurde 1922 unmittelbar am Landgraben die Straße Am Ende angelegt. Wie bei allen Häusern der Siedlung zeichneten auch hier Paul Beck und Max Oertel für die architektonische Gestaltung verantwortlich. In dieser Straße befanden sich früher mit einer Filiale des genossenschaftlichen "Waaren-Einkaufs-Vereins zu Görlitz", einer Bäckereifiliale, der Fleischerei Wiedenmann und einer Kolonialwarenhandlung die wenigen Einkaufsmöglichkeiten des Viertels. Im Haus Nr. 14 hatte der Bauverein Gartenheim seine Geschäftsstelle.
 
@@ -36,9 +36,9 @@ Die heute nicht mehr in den Stadtplänen verzeichnete Straße An der Mimosa ents
 
 Die Augustusbergstraße wurde beim Bau der Wohnanlage Rosenhof angelegt. Ihren Namen erhielt sie 1997, in Anlehnung an die Straßennamen der näheren Umgebung, nach dem Augustusberg im Osterzgebirge. Der Berg liegt nahe von Bad Gottleuba und ist ein beliebtes Wander- und Ausflugsziel.
 
-[![bärensteiner straße](../../../ost/striesen/strassen_striesen/bärensteiner_strasse.jpg)](../../../ost/striesen/strassen_striesen/bärensteiner_strasse/)
+## [Bärensteiner Straße](../../../ost/striesen/strassen_striesen/bärensteiner_strasse/)
 
-![baumzeile](../../../ost/gruna/strassen_gruna/baumzeile.jpg)
+## Baumzeile
 
 Die Mitte der 1920er Jahre angelegte Straße Baumzeile entstand im Zusammenhang mit dem Bau der Grunaer Siedlung. Wie alle Wohnhäuser der Anlage wurde auch die Häuserzeile Nr 1-19, bestehend aus drei Gebäuden mit zwei eingeschossigen Zwischenbauten, nach Plänen von Paul Beck und Max Oertel erbaut.
 
@@ -48,7 +48,7 @@ Die Mitte der 1920er Jahre angelegte Straße Baumzeile entstand im Zusammenhang 
 
 Hier befinden sich einige interessante Jugendstilvillen, u.a. die 1906 errichtete Villa Beilstraße 21, die sich einst im Besitz des Zimmermeisters Daniel Hermann Garten befand. Im Haus Beilstraße 24 lebte Anfang des 20. Jahrhunderts der dänische Schriftsteller Karl Gjellerup und verfasste sein Buch Der Pilger Kamanita. 1917 erhielt er für diesen Roman den Literaturnobelpreis. Nr. 4 war Wohnsitz des Bildhauers Rudolf Wittig, der in der Nachkriegszeit Teile des baukünstlerischen Schmucks für die Neubauten am Altmarkt und der Wilsdruffer Straße schuf.
 
-![bertolt-brecht-platz](../../../ost/gruna/strassen_gruna/bertolt-brecht-platz.jpg)
+## Bertolt-Brecht-Platz
 
 Der heutige Bertolt-Brecht-Platz entstand Anfang des 20. Jahrhunderts unmittelbar an der Flurgrenze zwischen Striesen und Gruna. Ursprünglich gab es hier eine von zwei Grunaer Ziegeleien, die jedoch 1885 stillgelegt wurde. Die Lehmgrube verfüllte man daraufhin mit dem Abbruchmaterial der Häuser der Badergasse, die dem Durchbruch der König-Johann-Straße (heute Wilsdruffer Straße) im Stadtzentrum weichen mussten. Danach diente sie als Müllkippe, bevor nach dem Ersten Weltkrieg einige Wohnhäuser gebaut wurden. Am 29. Mai 1907 erhielt der neu angelegte Platz den Namen Carlowitzplatz. Christoph von Carlowitz (1507-1578) war kurfürstlicher Rat und Oberhauptmann der Bergstadt Joachimsthal in Böhmen. Am 1. Juni 1963 wurde der Carlowitzplatz nach dem deutschen Dichter Bertolt Brecht in Bertolt-Brecht-Platz umbenannt.
 
@@ -90,19 +90,19 @@ Die Gartenheimallee bildet die Mittelachse der ab 1925 entstandenen Gartenstadt 
 
 **_Fotos:_** _Die Grunaer Gartenheimsiedlung - Blick in die Gartenheimallee um 1925 und 2010_
 
-![gartenheimsteg](../../../ost/gruna/strassen_gruna/gartenheimsteg.jpg)
+## Gartenheimsteg
 
 Der Gartenheimsteg wurde kurz nach dem Ersten Weltkrieg als Planstraße X in der Grunaer Gartenheimsiedlung angelegt und erhielt am 17. Juni 1920 seinen Namen.Wenig später entstanden hier die ersten Reihenhäuser. Zur künstlerischen Gestaltung wurde 1939 ein Brunnen "Die fleißigen Hausfrauen" aufgestellt. Um die Brunnensäule oberhalb des Beckens standen vier von Rudolf Born gestaltete Bronzefiguren, die Hausfrauen bei der Arbeit darstellten. Bereits 1940 baute man diese jedoch wieder ab und ließ sie zu Rüstungszwecken einschmelzen. Die Wohnhäuser am Gartenheimsteg brannten 1945 aus und wurden in den 1950er Jahren wieder hergestellt.
 
-![gerader steg](../../../ost/gruna/strassen_gruna/gerader_steg.jpg)
+## Gerader Steg
 
 Die Straße entstand im Zusammenhang mit Erschließung der Wohnanlage des Dresdner Spar- und Bauvereins. Am 15. April erhielt die bisherige Planstraße VIII den Namen Gerader Steg. Neben Wohngebäuden befand sich hier in der Nr. 12 das Gemeinschaftshaus des Bauvereins, in dem verschiedene Veranstaltungen, Versammlungen und Ausstellungen stattfanden.
 
-![grabenwinkel](../../../ost/gruna/strassen_gruna/grabenwinkel.jpg)
+## Grabenwinkel
 
 Auch die Straße Grabenwinkel entstand 1921 im Zusammenhang mit dem Bau der Grunaer Gartenheimsiedlung und erhielt am 14. April 1921 ihren Namen. Dieser wurde nach dem angrenzenden [Landgraben](../../../ost/striesen/landgraben/) gewählt, der hier einen Knick macht. Die seit 1969 unter Denkmalschutz stehenden Doppelhäuser wurden, wie die gesamte Siedlung, nach Plänen von Paul Beck und Max Oertel erbaut.
 
-![gustav-freytag-straße](../../../ost/gruna/strassen_gruna/gustav-freytag-straße.jpg)
+## Gustav-Freytag-Straße
 
 ![](../../../ost/gruna/strassen_gruna/grunagfreytag6.jpg)Die Gustav-Freytag-Straße entstand im letzten Drittel des 19. Jahrhunderts im östlichen Teil von Blasewitz und führt über [Neugrunaer](../../../ost/gruna/neugruna/) und [Neuseidnitzer](../../../ost/seidnitz/) Flur bis zum Tolkewitzer Friedhof. 1871 erhielt sie nach dem Vorstand der hier tätigen Baugesellschaft den Namen Schubertstraße. 1890 wurde auch der auf Neugrunaer Flur gelegene Straßenabschnitt östlich der Tauscherstraße so benannt. 1897 wechselte die Namensgebung in Blasewitz in Dohnaer Straße, wobei diese Umbenennung jedoch nur den Straßenteil zwischen Altenberger und Tauscherstraße betraf.
 
@@ -110,7 +110,7 @@ Am 1. Januar 1902 wurde der gesamte Straßenzug erneut umbenannt und heißt seit
 
 Das Straßenbild prägen bis zur Gegenwart vor allem Villen und Landhäuser _( **Foto:** Gustav-Freytag-Straße 6)_. Markantestes Gebäude ist die von Hans Erlwein errichtete [Neugrunaer Schule](../../../ost/gruna/) an der Ecke zur Hofmannstraße, die heute von der 32. Grund- und der 32. Oberschule "Sieben Schwaben" genutzt wird.
 
-![helfenberger straße](../../../ost/gruna/strassen_gruna/helfenberger_straße.jpg)
+## Helfenberger Straße
 
 Die als Sackgasse zum Elbufer führende Helfenberger Straße in Neugruna erhielt ihren Namen am 19. September 1900 nach der rechtselbisch gelegenen Gemeinde Helfenberg, die seit 1999 zu Dresden gehört.
 
@@ -146,7 +146,7 @@ Die Herkulesstraße entstand Ende des 19. Jahrhunderts im Zusammenhang mit einer
 
 ![](../../../ost/gruna/strassen_gruna/grunaheynathsstr.jpg)Die Heynahtsstraße im Wohngebiet am Falkensteinplatz erhielt ihren Namen 1912 nach dem Wohntäter und Stifter Peter Eduard Heynahts (1818-1892), der der Stadt größere Summen für gemeinnützige Zwecke zur Verfügung gestellt hatte. Die heute unter Denkmalschutz stehenden Wohnhäuser Nr. 9-17 entstanden Ende der Zwanziger Jahre im Auftrag der gemeinnützigen Wohnungsbaugesellschaft Gewobag nach einem einheitlichen Konzept und orientieren sich an der Bauhausbewegung. Im Haus Nr. 9 wohnte nach Zerstörung seiner Wohnung in der Innenstadt der bekannte Architekt Hans Richter, Schöpfer der Trachauer Siedlung und weiterer Bauten der "Neuen Sachlichkeit".
 
-![hocksteinstraße](../../../ost/gruna/strassen_gruna/hocksteinstraße.jpg)
+## Hocksteinstraße
 
 Die Hocksteinstraße wurde Ende der 1920er Jahre im Zusammenhang mit dem Neubaugebiet des Dresdner Spar- und Bauvereins als Planstraße 76 angelegt. Auf Beschluss des Stadtrates vom 19. Mai 1927 erhielt sie nach einem Felsen im Polenztal (Sächsische Schweiz) den Namen Hocksteinstraße. Die zur Grunaer Gartenheimsiedlung gehörenden Häuserzeilen Nr. 1-9 und 2-10 stehen seit 1969 unter Denkmalschutz.
 
@@ -174,17 +174,17 @@ Zu den unter Denkmalschutz stehenden Gebäuden auf Striesener Flur gehören nebe
 
 Die bisherigen Betriebsgebäude an der Junghansstraße wurden 1932 an die [Cigaretten- und Tabakfabrik Lande](../../../ost/striesen/striesener_zigarettenfabriken/) und die Macedonia Cigaretten Compagnie G.m.b.H. vermietet. Mit Machtantritt der Nazis geriet der jüdische Inhaber Wilhelm Lande unter Druck und wurde boykottiert. Um weiteren Repressionen zu entgehen, verkaufte er seine Firma und emigrierte in die USA. Ab 1942 oblag die Betriebsführung dem NSSK-Führer Karl Geißinger. Nach Ende des Zweiten Weltkrieg wurde der Betrieb von der Sowjetischen Militäradministration zu Reparationsleistungen herangezogen und 1946 enteignet. Ab 1959 gehörte er als Werk II zum VEB Vereinigte Zigarettenfabriken Dresden.
 
-[![karcherallee](../../../sudost/strehlen/strassen_strehlen/karcherallee.jpg)](../../../ost/gruna/strassen_gruna/karcherallee/)
+## [Karcherallee](../../../ost/gruna/strassen_gruna/karcherallee/)
 
-![kleinhausweg](../../../ost/gruna/strassen_gruna/kleinhausweg.jpg)
+## Kleinhausweg
 
 Der Kleinhausweg wurde im Zusammenhang mit der Grunaer Gartenheimsiedlung angelegt und am 14. April 1921 benannt. Die von der Hepkestraße bis zur Uttewalder Straße führende Straße ist nur im westlichen Teil mit Reihenhäusern bebaut und endet an einer Fußgängerbrücke über den Landgraben, wo sie sich als Fußweg fortsetzt.
 
-![leitmeritzer straße](../../../ost/gruna/strassen_gruna/leitmeritzer_straße.jpg)
+## Leitmeritzer Straße
 
 ![](../../../ost/gruna/strassen_gruna/grunaleitmeritzerstr.jpg)Die Leitmeritzer Straße entstand um 1900 als Verlängerung der Stübelallee in Richtung Grunaer Dorfkern und erhielt ihren Namen nach der nordböhmischen Stadt Leitmeritz (Litomerice). Wenig später wurden hier die ersten repräsentativen Mietshäuser gebaut. Ursprünglich sollte sie an einem neu anzulegenden Platz an Stelle des alten Dorfkerns enden. Kriegsbedingt wurden diese Planungen jedoch nicht realisiert. Sämtliche Gebäude wurden 1945 zerstört, die Straße um 1970 im Zusammenhang mit dem Neubaugebiet Altgruna überbaut. Nach 1990 entstand an ihrer Stelle das Wohn- und Geschäftshaus mit der Zwingli-Apotheke. Das Foto zeigt die Einmündung der Leitmeritzer in die Zwinglistraße vor dem Zweiten Weltkrieg.
 
-![liebstädter straße](../../../ost/gruna/strassen_gruna/liebstädter_straße.jpg)
+## Liebstädter Straße
 
 Die Liebstädter Straße geht in Teilen auf einen alten Verbindungsweg zwischen Gruna und Reick zurück, der in alten Plänen als "Reick-Grunaer Verbindungsweg" verzeichnet ist. Ab 1893 wurde dieser Weg amtlich als Reicker Straße bezeichnet. Der Abschnitt südlich der Winterbergstraße wurde 1897 vom Grundstücks- und Steinbruchbesitzer Bruno Hietzig 1897 ausgebaut und ein Jahr später dem öffentlichen Verkehr übergeben. Im Zusammenhang mit der Eingemeindung Grunas erhielten beide Abschnitte am 11. November 1903 nach der Kleinstadt Liebstadt im Osterzgebirge den Namen Liebstädter Straße. Im Zuge des Baus eines neuen Wohngebietes nördlich der Bodenbacher Straße erfolgte 1974 eine bogenförmige Verlängerung.
 
@@ -208,11 +208,11 @@ Die Maystraße in Neugruna wurde 1876 vom Rechtsanwalt Christian Julius May ange
 
 Restaurant "Daheim": Das Wohnhaus Maystraße 12 (heute Nr. 34) an der Ecke May-/Tauscherstraße war erstes Gebäude Neugrunas und beherbergte bis 1945 die Gast- und Gartenwirtschaft "Daheim". Diese war von der gleichnamigen Baugesellschaft ins Leben gerufen worden, um so Ausflügler und potentielle Interessenten für die neu erschlossenen Grundstücke in Neugruna anzulocken. Um 1880 warb das Lokal mit seinem schönen schattigen Garten in ruhiger Waldlage, einem Billardzimmer und einer Asphaltkegelbahn.
 
-![postgang](../../../ost/gruna/strassen_gruna/postgang.jpg)
+## Postgang
 
 Die kleine Verbindungsstraße (Planstraße XI) führt aus der Grunaer Siedlung zur Junghansstraße. Da sie von den Bewohnern früher als Weg zum Briefkasten an der Junghansstraße 31 genutzt wurde, erhielt sie am 17. Juni 1920 den Namen Postgang. Einst gab es hier auch eine Wäschemangel.
 
-[![rosenbergstraße](../../../ost/gruna/strassen_gruna/rosenbergstraße.jpg)](../../../ost/gruna/strassen_gruna/rosenbergstrasse/)
+## [Rosenbergstraße](../../../ost/gruna/strassen_gruna/rosenbergstrasse/)
 
 ## Rothermundtstraße
 
@@ -227,7 +227,7 @@ Die als Seitenstraße der Altenberger Straße im Stadtteil Neugruna angelegte Sc
 Die Schlüterstraße geht auf einen alten Verbindungsweg zwischen dem Grunaer Dorfkern und dem benachbarten Striesen zurück und wurde um 1900 zur Straße ausgebaut. Ihren Namen erhielt sie nach Dr. Franz Schlüter (1833-1901). Schlüter
 war Mitglied der Dresdner Sektion des Deutsch-Österreichischen Alpenvereins und ließ 1897 die noch heute bestehende Franz-Schlüter-Hütte in den Dolomiten erbauen. Die einst landwirtschaftlich und von einer Ziegelei genutzten Flächen zu beiden Seiten der Straße wurden nach dem Ersten Weltkrieg mit Wohnhäusern und gewerblichen Einrichtungen bebaut.
 
-![schneebergstraße](../../../ost/gruna/strassen_gruna/schneebergstraße.jpg)
+## Schneebergstraße
 
 Die Schneebergstraße wurde 1904 angelegt und erhielt ihren Namen nach dem Hohen Schneeberg in der Böhmischen Schweiz, dem mit 723 m höchsten Berg im Elbsandsteingebirge. 1905/06 entstanden an der Nordseite einige Mietshäuser in aufwendiger architektonischer Gestaltung, die bis heute erhalten sind.
 
@@ -237,7 +237,7 @@ _**Foto:** Blick in die Schneebergstraße_
 
 ## [Stübelallee](../../../zentrum/johannstadt/strassen_johannstadt/stubelallee/)
 
-![tauscherstraße](../../../ost/gruna/strassen_gruna/tauscherstraße.jpg)
+## Tauscherstraße
 
 Die Tauscherstraße im Ortsteil Neugruna wurde 1876 angelegt und nach dem früheren Blasewitzer Gemeindevorstadt Karl Tauscher (1819-1890) benannt. Tauscher, gelernter Uhrmacher, hatte das Amt 1859 übernommen und war Besitzer des Grundstücks, über das die Tauscherstraße verläuft. Zugleich gehörte er der mit der Erschließung des Areals befassten Baugesellschaft "Daheim" an. In diesem Bereich lag auch die Flurgrenze zwischen Blasewitz und Neugruna. Im Haus Tauscherstraße 24 befand sich früher die Gaststätte "Schweizerhaus".
 

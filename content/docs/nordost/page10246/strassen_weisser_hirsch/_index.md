@@ -67,11 +67,11 @@ Nr. 8: Das Gebäude wurde 1955/56 vom Architekten Helmut Köckeritz als eigenes 
 
 Ab 1972 war das Klinikum Außenstelle des [Krankenhauses Dresden-Neustadt](../../../nordwest/trachau/guntzheim/). In Zusammenarbeit mit dem Ardenne-Institut wurden hier auch neue Behandlungsmethoden angewandt, die international für Aufsehen sorgten. Nach Modernisierung wird das Krankenhaus heute als Klinikum Bad Weißer Hirsch bezeichnet. Neben der in einem modernen Ergänzungshaus untergebrachten Inneren Station befindet sich im ehemaligen Nachtsanatorium die Klinik für Psychiatrie und Psychotherapie des Neustädter Krankenhauses.
 
-![hermann-hesse-straße](../../../nordost/page10246/strassen_weisser_hirsch/hermann-hesse-straße.jpg)
+## Hermann-Hesse-Straße
 
 Die Hermann-Hesse-Straße erschließt das Gelände des früheren [Lahmann-Sanatoriums](../../../nordost/page10246/strassen_weisser_hirsch/lahmann-sanatorium/) und die dort entstandenen Wohngebäude. Die ringförmige Straße, die ursprünglich Hermann-Hesse-Ring genannt werden sollte, erhielt ihren Namen 2014 auf Beschluss des Stadtrates. Benannt wurde sie nach dem Dichter Hermann Hesse (1877-1962), der selbst als Kurgast auf dem Weißen Hirsch weilte.
 
-[![hermann-prell-straße](../../../nordost/page10246/strassen_weisser_hirsch/hermann-prell-straße.jpg)](../../../Nordost/Page10246/Strassen_Weisser_Hirsch/Hermann-Prell-Strasse/hermann_prell_strasse.html)
+## [Hermann-Prell-Straße](../../../Nordost/Page10246/Strassen_Weisser_Hirsch/Hermann-Prell-Strasse/hermann_prell_strasse.html)
 
 
 
@@ -95,7 +95,7 @@ Ende des 19. Jahrhunderts entstanden auch hier zahlreiche Villen und Landhäuser
 
 Typisch für die Frühzeit des Kurortes Weißer Hirsch ist das 1885/86 vom Architekten Ferdinand Schaeffer errichtete Landhaus "Waldesruhe" (Nr. 4) im Schweizerstil. Derartige Gebäude wurden einst als Sommeraufenthalt an wohlhabende Bürger vermietet. Schaeffer entwarf auch zahlreiche weitere Häuser am Weißen Hirsch und war einige Jahre als Gemeindevorstand tätig. Im Haus Kurparkstraße 8 _(Foto links)_ verbrachte der Vater des berühmten Tenors Richard Tauber seine letzten Lebensjahre.
 
-[![lahmannring](../../../nordost/page10246/strassen_weisser_hirsch/lahmannring1.jpg)](../../../Nordost/Page10246/Strassen_Weisser_Hirsch/Lahmannring/lahmannring.html)
+## [Lahmannring](../../../Nordost/Page10246/Strassen_Weisser_Hirsch/Lahmannring/lahmannring.html)
 
 ## Lehnertstraße
 
@@ -113,7 +113,7 @@ In einer weiteren Villa (Lehnertstraße 4) befand sich seit 1953 eine Wochenkrip
 
 Nr. 18 (Kindergarten): Die bis heute als Kita genutzte Einrichtung entstand 1887 auf Initiative eines eigens gegründeten Vereins zur Betreuung nicht schulpflichtiger Kinder. Hauptsächlich sollte so die Berufstätigkeit der zahlreichen weiblichen Arbeitskräfte für den Kurbetrieb gesichert werden. Der Besitzer des Gutes Ludwig Küntzelmann stellte dafür dem Verein ein Grundstück für den Bau einer Kinderbewahranstalt zur Verfügung. Ein Jahr später konnte der Kindergarten eröffnet werden. Als Schirmherrin fungierte die Frau des letzten sächsischen Königs Luise von Toscana. Betreiber blieb viele Jahre der Verein, dessen Vorsitz von 1909 bis 1916 der Obstbauexperte Arthur Pekrun hatte. Leiterin der auch Knippenbergheim genannten Kinderbewahranstalt war bis zu ihrem Tod 1929 Camilla Strick. Das Gebäude dient bis beute seinem Zweck und wird jetzt als Kita "Kinderspiel" genutzt.
 
-![ludwig-küntzelmann-platz](../../../nordost/page10246/strassen_weisser_hirsch/ludwig-küntzelmann-platz.jpg)
+## Ludwig-Küntzelmann-Platz
 
 Der Ludwig-Küntzelmann-Platz wurde im Zusammenhang mit dem Straßenausbau um 1880 an der Kreuzung Küntzelmannstraße / Lehnertstraße angelegt und zunächst nach dem deutschen Reichskanzler Bismarckplatz genannt. Bei der Umbenennung zahlreicher doppelter Straßennamen am 1. Juni 1926 erhielt er den Namen Küntzelmannplatz. 1932 änderte man diese Namensgebung mit Hinzufügung des Namens in Ludwig-Küntzelmann-Platz. Küntzelmann, früherer Besitzer des Gutes Weißer Hirsch, gilt als Gründer des Kur- und Villenvorortes.
 
@@ -145,9 +145,9 @@ _Foto: Das Wohnhaus Oskar-Zwintscher-Straße 3_
 
 ## [Plattleite](../../../nordost/page10246/strassen_weisser_hirsch/plattleite/)
 
-[![rißweg](../../../nordost/page10246/strassen_weisser_hirsch/rißweg.jpg)](../../../nordost/page10246/strassen_weisser_hirsch/rissweg/)
+## [Rißweg](../../../nordost/page10246/strassen_weisser_hirsch/rissweg/)
 
-![röhrweg](../../../nordost/page10246/strassen_weisser_hirsch/röhrweg.jpg)
+## Röhrweg
 
 Der kurze Röhrweg zweigt gegenüber der Luboldtstraße von der Bautzner Landstraße in Richtung Dresdner Heide ab und bildet den Zugang zum früheren Kurpark. 1880 wird er in den Gemeindeakten als Röhrweg erwähnt. Der Name erinnert an eine 1773 vom damaligen Besitzer des Gutes Weißer Hirsch Heinrich Roos angelegte Wasserleitung, die über eine hölzerne Röhrfahrt Wasser aus der Dresdner Heide in einen Rohrwassertrog leitete. Der Röhrweg ist in zahlreichen Stadtplänen verzeichnet, findet sich jedoch nicht im offiziellen Straßenverzeichnis.
 
@@ -173,7 +173,7 @@ Ursprünglich wurde die kurze Straße um 1901 Karlstraße genannt, wobei der Nam
 
 Nach dem Zweiten Weltkrieg wurde sie vorübergehend von der Roten Armee beschlagnahmt und erst 1951 wieder zurückgegeben. Später diente sie als Fremdenheim, nach 1990 dann als Gästehaus des Goethe- und des Max-Planck-Institutes. Zu den Gästen des Hauses gehörten u.a. die Stargeigerin Vanessa Mae, der Sänger Bob Dylan und der frühere Außenminister Joschka Fischer. 1993 wurde das historische Gebäude saniert und als Hotel wiedereröffnet. Im Erdgeschoss entstand das italienische "Ristorante Delizia". An der Fassade erinnert ein Fries mit Weinstock an den früher auch am Weißen Hirsch betriebenen Weinbau. Seit 2014 trägt das Hotel den Namen "Sax-Imperial".
 
-[![wolfshügelstraße](../../../nordost/page10246/strassen_weisser_hirsch/wolfshügelstraße.jpg)](../../../Nordost/Page10246/Strassen_Weisser_Hirsch/Wolfshuegelstrasse/wolfshuegelstrasse.html)
+## [Wolfshügelstraße](../../../Nordost/Page10246/Strassen_Weisser_Hirsch/Wolfshuegelstrasse/wolfshuegelstrasse.html)
 
 ## Zeppelinstraße
 

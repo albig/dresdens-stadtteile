@@ -65,13 +65,13 @@ Omsewitzer Flur. Am 29. August 1986 erhielt sie, ebenso wie zahlreiche weitere S
 
 Die Gompitzer Straße führt durch Omsewitz und Leutewitz und erhielt ihren Namen westlich des Abzweigs nach Burgstädtel bereits 1905. 1926 wurde dieser auch auf die frühere Dresdner Straße im östlichen Teil des Ortskerns übertragen. Im Zuge der Eingemeindung von Omsewitz 1930 erhielt wenig später auch die dortige Dresdner Straße den Namen Gompitzer Straße. Nach dem Ersten Weltkrieg entstanden hier einige Mehrfamilienhäuser, denen in den 1930er Jahren Siedlungshäuser folgten.
 
-![hagebuttenweg](../../../west/omsewitz/strassen_omsewitz/hagebuttenweg.jpg)
+## Hagebuttenweg
 
 Der Hagebuttenweg entstand Anfang der 1980er Jahre im Zusammenhang mit dem Bau des zweiten Bauabschnittes des Neubaugebietes Gorbitz nördlich der Coventrystraße. Ebenso wie auch benachbarte Straßen erhielt er seinen Namen nach einer Strauchart, der zur Familie der Wildrosen gehörenden Hagebutte.
 
 
 
-![harthaer straße](../../../west/omsewitz/strassen_omsewitz/harthaer_straße.jpg)
+## Harthaer Straße
 
 Die Harthaer Straße wurde als ringförmige Erschließungsstraße angelegt und am 29. August 1986 nach dem Kurort Hartha, heute ein Ortsteil von Tharandt, benannt. Hier befindet sich das "Gorbitz-Center", eines von mehreren großen Einkaufscentern im Neubaugebiet Gorbitz. Das von Supermärkten und kleineren Läden sowie Arztpraxen genutzte Gebäude wurde 2015 an einen Investor verkauft und umgebaut.
 

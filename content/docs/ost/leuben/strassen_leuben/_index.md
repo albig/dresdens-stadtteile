@@ -37,7 +37,7 @@ Erste Planungen für diese Straße reichen bis 1898 zurück. Allerdings blieb es
 Abschnitt westlich der Lilienthalstraße, welcher der Klettestraße zugeordnet war. Durch die Errichtung einiger Neubauten der
 AWG des Sachsenwerkes Mitte der 1950er Jahre, wurde die Klettestraße jedoch unterbrochen, was eine Neubenennung des abgetrennten Straßenteils erforderlich machte. Diese erfolgte mit Ratsbeschluss vom 15. August 1962.
 
-[![berthold-haupt-straße](../../../ost/leuben/strassen_leuben/berthold-haupt-straße.jpg)](../../../ost/leuben/strassen_leuben/berthold-haupt-strasse/)
+## [Berthold-Haupt-Straße](../../../ost/leuben/strassen_leuben/berthold-haupt-strasse/)
 
 ## Dieselstraße
 
@@ -53,11 +53,11 @@ Die heutige Franz-Latzel-Straße im östlichen Teil Leubens wurde 1897 angelegt 
 
 Da man Dürrs Arbeit als Luftschiffkonstrukteur mit dem Rüstungsprogramm des Deutschen Reiches in Verbindung brachte, erfolgte bereits am 24. Juli 1945 eine erneute Namensänderung in Latzelstraße. Seit 1962 ist der Name Franz-Latzel-Straße amtlich. Franz Latzel (18801941) war ein Dresdner Antifaschist und wurde am 29. August 1941 in Dresden ermordet.
 
-![großsedlitzer weg](../../../ost/leuben/strassen_leuben/großsedlitzer_weg.jpg)
+## Großsedlitzer Weg
 
 Der Großsedlitzer Weg, eine Seitenstraße der Zamenhofstraße, entstand beim Bau des Leubener Neubaugebietes Anfang der 1970er Jahre. Benannt ist er nach dem kleinen Ort Großsedlitz, einem Ortsteil von Heidenau. Wegen seines Barockgartens ist Großsedlitz ein beliebtes Ausflugsziel.
 
-![großzschachwitzer straße](../../../ost/leuben/strassen_leuben/großzschachwitzer_straße.jpg)
+## Großzschachwitzer Straße
 
 ![](../../../ost/leuben/strassen_leuben/gzschulstr.jpg)Die Großzschachwitzer Straße entstand 1899 als Planstraße M und verbindet seitdem Leuben mit seinem Nachbarort Großzschachwitz. Auf Leubener Flur wurde sie am 1. November 1899 offiziell benannt, während der Großzschachwitzer Abschnitt zunächst den Namen Schulstraße erhielt. Wenig später begann die Bebauung mit Wohnhäusern. 1933 erfolgte im damals noch selbständigen Großzschachwitz die Umbenennung der Schulstraße in Mutschmannstraße. Namensgeber war der NSDAP-Gauleiter von Sachsen, Martin Mutschmann. Bereits kurz nach Kriegsende machte man am 16. Mai 1945 diese Benennung rückgängig. Nachdem Großzschachwitz nach Dresden eingemeindet worden war, beschloss der Stadtrat zum 30. September 1953 die durchgängige Namensgebung Großzschachwitzer Straße. Markantestes Gebäude ist das unter Denkmalschutz stehende Großzschachwitzer [Schulhaus](../../../ost/grosszschachwitz/), das heute Sitz der 92. Grundschule "An der Aue" ist _(Foto)_.
 
@@ -67,7 +67,7 @@ Die Guerickestraße wurde im Zusammenhang mit dem Bau neuer Mietshäuser um die 
 
 Da es in Dresden bereits weitere Moltkestraßen gab, machte sich nach der Eingemeindung von Leuben eine Namensänderung erforderlich. Diese erfolgte am 1. Juni 1926, wie auch bei einigen Nebenstraßen, nach einem bedeutenden Physiker. Otto von Guericke (1602-1686), der zugleich Bürgermeister Magdeburgs war, führte in seiner Heimatstadt erste Vakuumversuche mit den legendären Magdeburger Halbkugeln aus und gilt als Erfinder der Kolbenluftpumpe.
 
-![heckenweg](../../../ost/leuben/strassen_leuben/heckenweg.jpg)
+## Heckenweg
 
 Der Heckenweg entstand 1929 im Zusammenhang mit der Bebauung im östlichen Teil Leubens und erhielt auf Beschluss des Stadtrats am 28. März 1929 seinen Namen. Zunächst verlief er nur zwischen der Königs-Allee (heute Berthold-Haupt-Straße) und der Kleinzschachwitzer Straße, wurde jedoch bereits 1930 bis zur Weißdornstraße verlängert. Im Haus Nr. 15 hatte bis in die 1940er Jahre der Verlag von Edwin Schreyer für Foto-, Kunst- und Lichtdruck seinen Sitz, der u.a. zahlreiche Ansichtskarten herausgab.
 
@@ -79,7 +79,7 @@ Nach der Eingemeindung des Ortes erfolgte am 1. Juni 1926 zur Vermeidung von Ver
 
 Zwischen 1939 und 1945 trug die Hertzstraße den Namen Knirschstraße. Hans Knirsch (1877-1933) gehörte zu den Gründern der deutschvölkischen Arbeiterbewegung in Österreich und war ab 1912 Vorsitzender der Deutschen Arbeiterpartei. 1919 erhielt er im Parlament der Tschechoslowakei ein Mandat der Deutschen Nationalsozialistischen Arbeiterpartei und galt in der Nazizeit als einer wichtigsten Vorkämpfer für den Anschluss des Sudetenlandes an das Deutsche Reich. Am 30. Juli 1945 erfolgte die Rückbenennung in Hertzstraße.
 
-![jessener straße](../../../ost/leuben/strassen_leuben/jessener_straße.jpg)
+## Jessener Straße
 
 Die eigentlich noch auf Dobritzer Flur gelegene Jessener Straße entstand in den 1970er Jahren im Zuge des Neubaugebietes Leuben und bildet zugleich dessen westlichen Abschluss. Ihren Namen erhielt sie nach dem kleinen Ort Jessen, einem Stadtteil von Pirna.
 
@@ -87,7 +87,7 @@ Die eigentlich noch auf Dobritzer Flur gelegene Jessener Straße entstand in den
 
 Die kurze Kastanienstraße verbindet die Pirnaer Landstraße mit der Berthold-Haupt-Straße und wurde 1899 angelegt. Am 1. November 1899 erhielt sie ihren Namen und wurde entsprechend mit Kastanienbäumen bepflanzt. Allerdings blieb sie lange Zeit unbebaut. 1934 entstanden auf einer zuvor landwirtschaftlich genutzten Fläche erste Kleingärten. Nach 1945 nutzten vor allem Kleintierzüchter die Parzellen, die sich 1990 zum Kleingartenverein Sonnenblume zusammenschlossen. Mit 21 Gärten gehört dieser zu den kleinsten in Dresden.
 
-![kleinzschachwitzer straße](../../../ost/leuben/strassen_leuben/kleinzschachwitzer_straße.jpg)
+## Kleinzschachwitzer Straße
 
 Die Kleinzschachwitzer Straße entstand 1899 als Planstraße L und erhielt auf Beschluss des Gemeinderates am 1. November 1899 nach dem Leubener Nachbarort ihren Namen. Lange Zeit blieb sie jedoch unbebaut. Erst kurz nach dem Ersten Weltkrieg entstanden hier ab 1920 einige Wohnhäuser für die Baugenossenschaft zu Leuben e.G.m.b.H., die heute unter Denkmalschutz stehen. Im Haus Nr. 2 gab es damals eine kleine Verkaufsstelle. 1974 folgte an der Ecke zur Ulmenstraße eine 2009 abgerissene Konsum-Kaufhalle (Nr. 28).
 
@@ -99,7 +99,7 @@ Da es mit der Eingemeindung Leubens und weiterer Gemeinden 1921 mehrere Bismarck
 
 Zu den Bewohnern der Klettestraße (Nr. 51) gehörte in den 1930er Jahren der Monteur Franz Latzel (18801941), der wegen seines Eintretens gegen den Nationalsozialismus verhaftet und am 29. August 1941 in Dresden ermordet wurde. An ihn erinnert die nahegelegene Franz-Latzel-Straße
 
-![köttewitzer weg](../../../ost/leuben/strassen_leuben/köttewitzer_weg.jpg)
+## Köttewitzer Weg
 
 Der Köttewitzer Weg entstand Anfang der 1970er Jahre mit der Bebauung südlich der Zamenhofstraße. Zwischen 1970 und 1974 entstanden hier auf ehemaligem Gärtnereigelände fünfgeschossige Plattenbauten. Seinen Namen erhielt der Weg nach der kleinen Ortschaft Köttewitz, die heute zu Dohna gehört.
 

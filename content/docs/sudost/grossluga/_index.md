@@ -43,7 +43,7 @@ Schulen in Großluga:
 Im Oktober 1949 konnte die Großlugaer Schule, die zu diesem Zeitpunkt ungefähr 330 Schüler in acht Klassenstufen unterrichtete, ihr 50-jähriges Jubiläum begehen.
 Mit der Eingemeindung von Niedersedlitz und seinen Ortsteilem am 1. Juli 1950 wurde die bisherige Comeniusschule als 90. Grundschule in das Dresdner Schulnetz eingegliedert. Mehrfach erfolgten Modernisierungen und Renovierungsarbeiten, u.a. durch Ausbau der Lehrerwohnungen zu Klassenräumen 1950, den Einbau moderner Heizungen 1964 und 1984 mit der Komplettrenovierung des gesamten Schulgebäudes. Ab 1986 wurden nur noch Kinder im Grundschulalter unterrichtet, dafür bezog ein Kindergarten einige Räume der 1. Etage. Bis 1991 war die Schule nun Zweigschule der 79. Polytechnischen Oberschule Lockwitz. Im Zuge der Neugestaltung des Schulsystems wurde das Gebäude 1992 zur 90. Grundschule. 2012-14 entstand eine neue Schulturnhalle.
 
-[![großlugaer straßen](../../sudost/grossluga/großlugaer_straßen.jpg)](../../Sudost/Grossluga/Strassen_Luga/strassen_luga.html)
+## [Großlugaer Straßen](../../Sudost/Grossluga/Strassen_Luga/strassen_luga.html)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

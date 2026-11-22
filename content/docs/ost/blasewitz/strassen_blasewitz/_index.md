@@ -3,7 +3,7 @@ title: "Straßen und Plätze in Blasewitz"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-![angelsteg](../../../ost/blasewitz/strassen_blasewitz/angelsteg.jpg)
+## Angelsteg
 
 Der kleine Weg führt von der Naumannstraße in der Nähe des Schillerplatzes hinunter zur Elbe. Da er früher von zahlreichen Anglern genutzt wurde, erhielt er 1870 offiziell den Namen Angelsteg. Im Eckhaus zum Schillerplatz (Nr. 5) befindet sich seit 1936 das traditionsreiche Geschäft "Schirm-Dunger". Zuvor wurden die Räume von einer Buchhandlung genutzt. Der Laden wurde 1924 von Kurt Dunger gegründet und befindet sich bis heute im Familienbesitz.
 
@@ -23,7 +23,7 @@ Die Berggartenstraße entstand 1870 beim Ausbau der Blasewitzer Villenviertel. I
 
 Im Eckhaus zur Oehmestraße gab es früher eine Bäckerei und ein Schuhmachergeschäft. 1997 wurde das Mietshaus abgetragen und durch einen modernen Neubau ersetzt. Architektonisch interessant ist die 1892 vom Blasewitzer Baumeister Karl Emil Scherz errichtete Villa Berggartenstraße 18.
 
-![bogenweg](../../../ost/blasewitz/strassen_blasewitz/bogenweg.jpg)
+## Bogenweg
 
 Der heute nicht mehr vorhandene Bogenweg wurde als bogenförmige Sackgasse angelegt und zweigte von der damaligen Striesener Straße (heute Hüblerstraße) ab. Er diente zur Erschließung einiger Grundstücke im Bereich Hübler-, Bruckner- und Berggartenstraße und erhielt 1870 offiziell seinen Namen. Zwanzig Jahre später wurden die Häuser der Striesener Straße zugeordnet und der Name 1890 eingezogen, der Weg wenig später überbaut.
 

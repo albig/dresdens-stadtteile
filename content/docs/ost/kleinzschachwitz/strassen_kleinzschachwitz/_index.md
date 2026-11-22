@@ -141,7 +141,7 @@ Die Hartungstraße im Kleinzschachwitzer Ortszentrum erhielt ihren heutigen Name
 
 Architektonisch interessant ist das 1935 vom Architekten Oswin Hempel für den Arzt Dr. Gerhard Barthel errichtete Landhaus Hosterwitzer Straße 8, welches unter Denkmalschutz steht. Zum Eckgrundstück Nr. 42 (Kleinzschachwitzer Ufer 78) gehört ein als "Denksteinhalle" errichteter turmartiger Pavillon im neogotischen Stil.
 
-![inselstraße](../../../ost/kleinzschachwitz/strassen_kleinzschachwitz/inselstraße.jpg)
+## Inselstraße
 
 Die Inselstraße wurde um 1900 angelegt und ist ab 1902 als Planstraße mit dem Namen Sachsenallee in den Unterlagen verzeichnet. 1908 wird sie dann erstmals im Adressbuch genannt. Mit der Eingemeindung von Kleinzschachwitz wurde diese Namensgebung zur Vermeidung von Dopplungen ab 1. Juni 1926 in Inselstraße geändert. Der neue Name nimmt Bezug auf die Pillnitzer Elbinsel.
 

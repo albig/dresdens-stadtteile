@@ -149,11 +149,11 @@ Der Geranienweg entstand beim Bau des Wohnpark am Niedersedlitzer Platz und wurd
 
 Sowohl der Gersdorfer Weg als auch der benachbarte Göppersdorfer Weg wurden Mitte der 1970er Jahre beim Bau einer kleinen Eigenheimsiedlung nördlich der Windmühlenstraße angelegt. Die Namensgebung erfolgte am 12. Juli 1973 nach dem Ort Gersdorf, einem Ortsteil von Bahretal im Kreis Pirna (heute Landkreis Sächsische-Schweiz-Osterzgebirge.
 
-![göppersdorfer_weg.jpg](../../../ost/niedersedlitz/strassen_niedersedlitz/göppersdorfer_weg.jpg)
+## Göppersdorfer Weg
 
 Der Göppersdorfer Weg entstand gemeinsam mit dem Gersdorfer Weg beim Bau einer Eigenheimsiedlung an der Windmühlenstraße. Am 12. Juli 1973 entschied der Rat der Stadt Dresden, diesen Weg nach der Ortschaft Göppersdorf, heute ein Ortsteil von Bahretal im Landkreis Sächsische Schweiz-Osterzgebirge, zu benennen.
 
-![heidenauer_straße.jpg](../../../ost/niedersedlitz/strassen_niedersedlitz/heidenauer_straße.jpg)
+## Heidenauer Straße
 
 ![](../../../ost/niedersedlitz/strassen_niedersedlitz/niedersedlheidenauerstr.jpg)Die heute über Niedersedlitzer und Großlugaer Flur führende Heidenauer Straße entstand Ende des 19. Jahrhunderts und ist am 16. Juli 1897 erstmals als Poststraße erwähnt. Am 4. April 1905 beschloss der Niedersedlitzer Gemeinderat die Umbenennung in Schillerstraße. Bereits 1917 kam es jedoch zu einer erneuten Namensänderung, da man sich entschieden hatte, die bestehende Goethestraße zu teilen und einem Abschnitt den Namen Schillerstraße zu geben. Beide Abschnitte tragen heute den Namen Bedrich-Smetana-Straße. Die bestehende Schillerstraße wurde nach General Paul von Hindenburg in Hindenburgstraße umbenannt. Der Beschluss des Gemeinderates dazu wurde am 13. Februar 1917 getroffen.
 
@@ -161,7 +161,7 @@ Der Göppersdorfer Weg entstand gemeinsam mit dem Gersdorfer Weg beim Bau einer 
 
 Das Straßenbild prägen bis heute vorrangig Villen und Wohnhäuser. Im Haus Nr. 4 _(Foto rechts)_ ist die Kindertagesstätte "Sonnenschein" untergebracht. Ursprünglich entstand diese Villa 1910 für den Unternehmer Heinrich Weeren, Inhaber der Firma Staeding & Meysel Nachf. Das 1945 verstaatlichte und demontierte Unternehmen produzierte vorrangig Armaturen, Ventile und ähnliches Zubehör für Dampfheizungsanlagen. 1921 wurde auf dem Grundstück Heidenauer Straße 45 das Hauptumspannwerk des Ortes errichtet. 2016 erfolgte die Grundsteinlegung für einen kleinen Wohnpark der Wohnungsgenossenschaft "Flüwo" aus Baden-Württemberg (Nr. 11-19).
 
-![heimgarten.jpg](../../../ost/niedersedlitz/strassen_niedersedlitz/heimgarten.jpg)
+## Heimgarten
 
 Die Straße Heimgarten entstand 1912 als Erschließungsstraße einer geplanten genossenschaftlichen Wohnanlage westlich der Lugaer Straße. Als eines der ersten ihrer Bauprojekte errichtete die Baugenossenschaft Dresden-Land eGmbH mit Sitz in (Freital)-Döhlen hier die "Kolonie Niedersedlitz" mit Einzel- und Doppelhäusern. Die Straßennamen wurden dabei in Erinnerung an die Gartenbautradition der Region gewählt. Nach einem Vorschlag der Genossenschaft erhielt eine dieser Straßen am 4. Oktober 1913 den Namen Heimgarten.
 
@@ -187,7 +187,7 @@ Der Hermann-Schmitt-Platz wurde kurz vor dem Ersten Weltkrieg angelegt und ab 6.
 
 Die Kleinborthener Straße, seit dem 30. September 1953 benannt nach dem Dohnaer Ortsteil Kleinborthen, wurde in den 1920er Jahren angelegt und mit Wohnhäusern bebaut. Da sie in Richtung des benachbarten Stadtteils Prohlis führt, erhielt sie 1926 zunächst den Namen Prohliser Straße. Da es jedoch in Reick bereits eine gleichnamige Straße gab, erfolgte im Zuge der Eingemeindung von Niedersedlitz 1953 die Umbenennung. Auf den verbliebenen Freiflächen in leichter Hanglage entstand ab 2008 eine kleine Eigenheimsiedlung.
 
-![kleine straße](../../../ost/niedersedlitz/strassen_niedersedlitz/kleine_straße.jpg)
+## Kleine Straße
 
 Die Kleine Straße verbindet die Bismarck- mit der Sosaer Straße und erhielt am 4. April 1905 nach dem Erfinder des Buchdrucks Johannes Gutenberg zunächst den Namen Gutenbergstraße. Da es nach der Eingemeindung des Ortes jedoch bereits eine gleichnamige Straße in der Johannstadt gab, erfolgte am 30. September 1953 die Umbenennung in Kurze Straße.
 
@@ -195,7 +195,7 @@ Die Kleine Straße verbindet die Bismarck- mit der Sosaer Straße und erhielt am
 
 Im Zusammenhang mit der Erweiterung des Neubaugebietes Prohlis entstanden um 1980 auch auf Niedersedlitzer Flur einige neue Straßen, darunter die Kurt-Tucholsky-Straße. Ihren Namen erhielt diese Straße am 13. April 1978 nach dem deutschen Schriftsteller und Publizisten Kurt Tucholsky (1890-1935), der vor allem durch seine politisch-satirischen Schriften bekannt wurde. Die nach Ihrem Grundriss als Sternhäuser bekannten Zehngeschosser an der Kurt-Tucholsky-Straße wurden 2009/11 abgerissen.
 
-![lockwitztalstraße](../../../ost/niedersedlitz/strassen_niedersedlitz/lockwitztalstraße.jpg)
+## Lockwitztalstraße
 
 ![](../../../ost/niedersedlitz/strassen_niedersedlitz/niedersedllockwitztalstr.jpg)Die Lockwitztalstraße verbindet Niedersedlitz mit dem benachbarten Stadtteil Lockwitz und wurde um 1890 deshalb bis zur Flurgrenze zwischen beiden Orten Lockwitzer Straße bzw. Niedersedlitzer Straße genannt. Um Straßendoppelungen zu vermeiden, erhielt sie am 30. September 1953 den Namen Lockwitztalstraße. Von 1906 bis 1977 verkehrte hier die [Lockwitztalbahn](../../../sudost/lockwitz/lockwitztalbahn/). Einige Gleisreste sind stellenweise noch vorhanden.
 
@@ -211,7 +211,7 @@ Bereits in den 1920er Jahren entstand an der Flurgrenze zwischen beiden Ortsteil
 
 ![](../../../ost/niedersedlitz/strassen_niedersedlitz/niedersschwimmhalle.jpg)Lehrschwimmbecken Niedersedlitz: Das Gebäude an der Lugaer Straße 12 entstand in den 1930er Jahren und beherbergte ab 1938 zunächst die Filmschau Niedersedlitz mit ca. 400 Plätzen. Zeitweise ist dieses Kino auch als "Capitol-Lichtspiele" im Adressbuch verzeichnet. Betreiber war der auf der Gartenstraße (heute Lungkwitzer Straße) 16 wohnende Unternehmer Albert Heinze. 1967 endete der Spielbetrieb. Kurz danach erfolgte der Umbau des früheren Kinos zu einer Lehrschwimmhalle. Diese Schwimmhalle blieb bis zum Jahr 2000 erhalten. Nach mehrjährigem Leerstand erfolgte ein Verkauf des Gebäudes und der Umbau zum Wohnhaus mit mehreren Loftwohnungen.
 
-![lungkwitzer straße](../../../ost/niedersedlitz/strassen_niedersedlitz/lungkwitzer_straße.jpg)
+## Lungkwitzer Straße
 
 ![](../../../ost/niedersedlitz/strassen_niedersedlitz/niederslungkwitzer4.jpg)Die heutige Lungkwitzer Straße verband schon vor ihrem Ausbau als sogenannter "Communicationsweg" Niedersedlitz mit dem benachbarten Sporbitz. 1888 begann der Bau des Abschnitts zwischen Lugaer Straße und Bismarckstraße, der im Anschluss Gartenstraße genannt wurde. Noch bis 1929 war diese Straße eine Privatstraße, bevor sie von der Gemeinde übernommen wurde. Nachdem Niedersedlitz 1950 zu Dresden gekommen war, machte sich eine Umbenennung erforderlich. Ursprünglich war dafür der Name Am Bach (nach dem hier fließenden Lockwitzbach) vorgesehen. Letztlich entschied man sich jedoch für die Namensgebung nach dem Ort Lungkwitz, einem Ortsteil von Kreischa. Das Foto zeigt die Villa Lungkwitzer Straße 4. Im Haus Nr. 20 gab es bis ca. 1990 die Gastwirtschaft "Zur Börse". Heute werden die Räume von einer Praxis genutzt.
 
@@ -263,7 +263,7 @@ Die Grundsteinlegung für den Neubau erfolgte am 13. März 1982, die Weihe am 18
 
 [![](../../../ost/niedersedlitz/strassen_niedersedlitz/gemeindezentrumniedersedlitz.jpg)](http://www.himmelfahrtskirche-dresden.de)
 
-![poetenweg](../../../ost/niedersedlitz/strassen_niedersedlitz/poetenweg.jpg)
+## Poetenweg
 
 Der Poetenweg wurde kurz vor dem Ersten Weltkrieg als Planstraße U angelegt und am 6. Oktober 1913 auf Beschluss des Gemeinderates Theodor-Körner-Straße genannt. Namensgeber war der Dichter und Freiheitskämpfer Theodor Körner. Da es jedoch zum Zeitpunkt der Eingemeindung bereits in der Inneren Neustadt eine Körnerstraße gab, erfolgte am 30. September 1953 die Umbenennung in Poetenweg. Vermutlich sollte mit dieser Namensgebung der Bezug zum Dichter aufrecht erhalten werden.
 

@@ -75,7 +75,7 @@ Im Freigelände vor der Schule fanden mehrere Kunstwerke Aufstellung. Markantest
 
 ![](../../zentrum/pirnaische_vorstadt/pv_bennogym2.jpg)Erst nach der Wiedervereinigung war eine Neugründung der Schule möglich. Zunächst befand sie sich ab 1991 bis 1996 im Hinterhaus der Dreikönigsschule auf der Louisenstraße in der Äußeren Neustadt. Einige Klassen waren in einer Zweigstelle auf der Andreas-Schubert-Straße untergebracht. 1996 entstand auf dem Grundstück der 1945 zerstörten und später gesprengten [Johanneskirche](../../Zentrum/Pirnaische_Vorstadt/Johanneskirche/johanneskirche.html) an der Pillnitzer Straße 39 ein moderner Neubau. Das architektonisch ungewöhnliche Schulgebäude wurde nach Plänen des Architektenbüros Günter Behnisch & Partner gestaltet _(Fotos)_. Es besitzt eine farbige Putzfassade mit verglasten Vorbauten und begrünten Dachterrassen. Im Inneren sind neben den Klassenräumen und Fachkabinetten auch ein Video- und Tonstudio, ein Übungsraum für die Katholischen Kapellknaben und eine Sporthalle untergebracht. Heute gilt das St.-Benno-Gymnasium als einer der architektonisch interessantesten Neubauten der Nachwendezeit. Auf dem Vorplatz erinnern einige Trümmerfragmente an die zerstörte Johanneskirche.
 
-[![straßen der pirnaischen vorstadt](../../zentrum/pirnaische_vorstadt/pv_straßen.jpg)](../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/)
+## [Straßen in der Pirnaischen Vorstadt](../../zentrum/pirnaische_vorstadt/strassen_pirnaische_vorstadt/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

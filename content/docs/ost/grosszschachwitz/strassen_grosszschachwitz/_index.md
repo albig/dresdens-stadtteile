@@ -122,13 +122,13 @@ dem Kurznamen MIAG (Mühlenbau- und Industrie AG). Stammsitz war zunächst Frank
 hunderte jüdische Zwangsarbeiter in der Rüstungsproduktion beschäftigt, an die ein Gedenkstein am Werkseingang erinnert. Der 1946 demontierte und drei Jahre verstaatlichte VEB Mühlenbau
 Dresden-Zschachwitz setzte auch zu DDR-Zeiten die Tradition des Betriebes als Hersteller moderner technischer Anlagen für Großmühlen fort. Nach 1990 wurde das Unternehmen als Wirth Mühlenbau GmbH bzw. Dr. Scholz GmbH privatisiert.
 
-![grasweg](../../../ost/grosszschachwitz/strassen_grosszschachwitz/grasweg.jpg)
+## Grasweg
 
 Der heute Grasweg genannte Weg bildet die Verlängerung der Großzschachwitzer Straße und verbindet diese mit der Pirnaer Landstraße. 1935 wurde er erstmals benannt. Der gewählte Name Hans-Schemm-Weg erinnerte an den nationalsozialistischen Politiker Hans Schemm, Gauleiter der bayrischen Ostmark. Bereits am 16. Mai 1945 wurde er nach der hier befindlichen alten Großzschachwitzer Mühle in Mühlweg umbenannt. Da es in Dresden bereits einen gleichnamigen Weg gab, erfolgte am 30. September 1953 die Umbenennung in Grasweg.
 
 ![](../../../ost/grosszschachwitz/strassen_grosszschachwitz/gro_zschachwmühle.jpg)Großzschachwitzer Mühle: Die frühere Wassermühle wurde 1547 erstmals als "Mühle am Lockwitzbach" erwähnt und später als "Alte Mühle" bezeichnet. Um 1600 besaß sie ein oberschlächtiges Mühlrad und verfügte über zwei Mahlgänge und einen Schneidegang. Bis 1905 wurde sie noch als Getreidemühle genutzt. Drei Jahre später erfolgte im Zusammenhang mit dem Ausbau der Bahnhofstraße der Abbruch der meisten Nebengebäude und die Verfüllung des Mühlgrabens. Das erhaltene Hauptgebäude Bahnhofstraße 70 wird heute von der nach eigenen Angaben ältesten Dresdner Bäckerei, der "Dresdner Mühlenbäckerei" genutzt.
 
-![jonsdorfer straße](../../../ost/grosszschachwitz/strassen_grosszschachwitz/jonsdorfer_straße.jpg)
+## Jonsdorfer Straße
 
 ![](../../../ost/grosszschachwitz/strassen_grosszschachwitz/gzjonsdorferstr.jpg)Die 1907 erstmals erwähnte heutige Jonsdorfer Straße erhielt zuerst nach der sächsischen Königin Carola den Namen Carolastraße _(Foto)_. 1922 erfolgte die Umbenennung in Reichsstraße. Da dieser Name nach dem Zweiten Weltkrieg als unzeitgemäß galt, beschloss man am 30. September 1953 die Umbenennung in Jonsdorfer Straße. Der Kurort Jonsdorf befindet sich in der Nähe von Zittau im Zittauer Gebirge.
 
@@ -147,7 +147,7 @@ Die Straße befindet sich am alten Dorfkern von Großzschachwitz und wurde ab 18
 
 **_Foto:_** _Blick in die Ludwig-Kugelmann-Straße_
 
-_![](../../../ost/grosszschachwitz/strassen_grosszschachwitz/niedersedlitzer_stra_e.jpg)_
+## Niedersedlitzer Straße
 
 Die frühere Niedersedlitzer Straße geht auf einen alten, erstmals 1887 benannten Verbindungsweg nach Niedersedlitz zurück.
 Zugleich war dieser die Verbindung zum dort gelegenen Bahnhof an der Bahnstrecke Dresden - Pirna. Der nördlich der

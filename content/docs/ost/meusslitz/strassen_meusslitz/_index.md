@@ -67,15 +67,15 @@ Am 25. Februar 1993 erfolgte eine erneute Umbennung zu Ehren der deutschen Schri
 
 Die Ganghoferstraße, eine Seitenstraße der Meußlitzer Straße, erhielt ihren Namen am 15. Dezember 1933 nach dem deutschen Schriftsteller Ludwig Ganghofer (1855-1920), der vor allem im Gebirgsmilieu angesiedelte Unterhaltungsromane verfasste. In unmittelbarer Nachbarschaft befinden sich der Friedhof und die Kirche des Ortes. 1897 hatten sich Meußlitz, Sporbitz und Kleinzschachwitz zu einer gemeinsamen Kirchgemeinde zusammengeschlossen, die eine frühere Schulturnhalle zum Gemeindesaal umbauten. Seit 1947 trägt dieser den Namen [Stephanuskirche](../../../ost/kleinzschachwitz/stephanuskirche/).
 
-![grüner steig](../../../ost/meusslitz/strassen_meusslitz/grüner_steig.jpg)
+## Grüner Steig
 
 Die kleine Straße im Dorfkern von Meußlitz erhielt zunächst auf Beschluss des Gemeinderates am 7. Februar 1901 den Namen Wiesenstraße. Bereits zuvor war ein hier gelegenes Flurstück Wiesenfeld genannt worden. Da es in Gruna bereits eine Wiesenstraße gab, machte sich nach der Eingemeindung von Zschachwitz, zu dem Meußlitz ab 1922 gehörte, eine Umbenennung erforderlich. Am 30. September 1953 wurde die Meußlitzer Wiesenstraße in Grüner Steig umbenannt.
 
-![grünwinkel](../../../ost/meusslitz/strassen_meusslitz/grünwinkel.jpg)
+## Grünwinkel
 
 Die kleine Straße Grünwinkel geht als Sackgasse von der Neuen Straße ab und entstand in den 1930er Jahren als Planstraße 13a. Am 17. Februar 1937 erhielt sie den Namen Grünwinkel.
 
-![heimstraße](../../../ost/meusslitz/strassen_meusslitz/heimstraße.jpg)
+## Heimstraße
 
 Die heutige Heimstraße wurde 1932 angelegt und zunächst nach dem früheren sozialdemokratischen Reichspräsidenten Ebertstraße genannt. Da dieser Name von den Nationalsozialisten als unangemessen betrachtet wurde, wechselte bereits ein Jahr später die Straßenbezeichnung in Schlageterstraße. Leo Schlageter (1894-1923)war ein nationalsozialistischer Freicorps-Kämpfer und wurde wegen Spionage und mehrerer Sprengstoffanschläge im französisch besetzten Ruhrgebiet hingerichtet. Unmittelbar nach Ende des Zweiten Weltkriegs erhielt die Straße am 16. Mai 1945 ihren jetzigen Namen Heimstraße.
 
@@ -85,7 +85,7 @@ Die Heinrich-Bauer-Straße wurde Mitte der 1930er Jahre zur Erschließung eines 
 
 Da der Bezug zur deutschen Kolonialgeschichte nach 1945 als unzeitgemäß galt, wurde die Tangastraße 1946 in Feuerbachstraße umbenannt. Anselm Feuerbach (1829-1880) gehört zu den bedeutendsten deutschen Malern des 19. Jahrhunderts. Mit der Eingemeindung von Zschachwitz nach Dresden machte sich 1953 eine erneute Umbenennung erforderlich. Der Name Heinrich-Bauer-Straße erinnert an den Schuhmacher Heinrich Bauer (geb. 1814), der zu den Führern des Bundes der Gerechten gehörte. Aus dieser Organisation ging 1847 der Bund der Kommunisten hervor, dessen Zentralvorstand Bauer zeitweise angehörte. 1851 verließ er Deutschland und wanderte nach Australien aus.
 
-![hüfnerweg](../../../ost/meusslitz/strassen_meusslitz/hüfnerweg.jpg)
+## Hüfnerweg
 
 Der Hüfnerweg entstand beim Bau einer kleinen Wohnsiedlung an der Struppener Straße. 1932 wurde er zunächst Straße der Siedler genannt und war das Gegenstück zur Siedlerstraße auf der anderen Seite des Wohngebietes. Bereits am 23. August 1933 beschloss der Gemeinderat die Umbenennung in Hüfnerweg. Als Hüfner wurden früher die Besitzer einer Hufe (Landstück) bezeichnet, die zu den Großbauern gehörten. Halbhüfner waren Kleinbauern mit einem Besitz einer halben Hufe. Die Namensgebung sollte somit einen heimatgeschichtlichen Bezug herstellen.
 

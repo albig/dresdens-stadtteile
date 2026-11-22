@@ -75,7 +75,7 @@ Königliche Lymphanstalt (Nr. 16): Die Einrichtung ging auf ein 1838 von Dr. C. 
 
 ![](../../../zentrum/friedrichstadt/strassen_friedrichstadt/lymphanstalt.jpg)Um die Bedingungen für die Impfstofferzeugung zu verbessern, entschloss sich die Stadt, einen Neubau an der Leipziger Straße 23 in der Nähe des [Alten Schlachthofes](../../../Neustadt/Leipziger_Vorstadt/Leipziger_Strasse/Alter_Schlachthof/alter_schalchthof.html) zu errichten. 1898 übernahm man zudem die Lymphanstalten Bautzen und Zwickau, womit die ganze Kreishauptmannschaft Dresden zum Zuständigkeitsbereich gehörte. Da man wegen der benötigten Kälber und Rinder auf die Nähe des Schlachthofes angewiesen war, plante man im Zusammenhang mit dessen Verlegung ins Ostragehege ursprünglich, die Lymphanstalt ebenfalls dorthin zu verlegen. Letztlich scheiterten diese Pläne an zu hohen Grundstückskosten, so dass man sich für das Grundstück Bremer Straße 16 entschied. Baubeginn war 1908, die Einweihung erfolgte zwei Jahre später. Neben dem villenartigen Verwaltungsgebäude gehörten im Hintergelände Ställe und medizinisch-pharmazeutische Labors zur Lymphanstalt. Heute wird das Grundstück von verschiedenen Unternehmen genutzt.
 
-![cottaer straße](../../../zentrum/friedrichstadt/strassen_friedrichstadt/cottaer_straße.jpg)
+## Cottaer Straße
 
 Die Cottaer Straße entstand 1861 und erhielt im gleichen Jahr ihren Namen, da sie in Richtung des damals noch selbständigen Dorfes Cotta führte. Bis zur Jahrhundertwende wurden hier überwiegend mehrgeschossige Mietshäuser in geschlossener Bauweise errichtet. Hinzu kamen einige Einzelgebäude sowie verschiedene Gewerbetriebe.
 Auch in diesem Teil der Friedrichstadt rissen die Bomben des Luftangriffs 1945 größere Lücken in den Baubestand. Diese wurden meist erst nach 1990 geschlossen. 2015 entstand auf dem Grundstück Cottaer Straße 17-21 die Wohnanlage "Weißeritz-Gärten".
@@ -140,7 +140,7 @@ Max Wießner oHG: Das erste Bauunternehmen wurde 1881 von Ernst Wießner auf der
 
 Auch nach dem Zweiten Weltkrieg blieb die Firma in Familienbesitz und wurde ab 1952 vom Baumeister Willy Wießner (1897-1967) geleitet. 1958 musste der Betrieb eine staatliche Beteiligung aufnehmen und wurde in eine Kommanditgesellschaft umgewandelt. 1965 erfolgte der Zusammenschluss mit dem Baugeschäft Baumann, 1972 die zwangsweise Verstaatlichung der Baumann & Wießner KG. Nach 1989 erhielten die Alteigentümer ihren Betrieb zurück und sind bis heute in der Baubranche tätig. Zu den bedeutendsten Arbeiten des Betriebes nach 1945 gehörte 1970 der Bau der Volksschwimmhalle Steinstraße.
 
-![hafenweg](../../../zentrum/friedrichstadt/strassen_friedrichstadt/hafenweg.jpg)
+## Hafenweg
 
 Der nördlich des Alberthafen verlaufende Hafenweg ist bereits kurz nach 1900 in alten Stadtplänen verzeichnet, trug damals jedoch noch keinen Namen. Seit ca. 1910 wird er als Hafenweg bezeichnet.
 

@@ -44,7 +44,7 @@ Nr. 2: Das 1927 errichtete villenartige Wohnhaus bildete den Auftakt zur Bebauun
 
 Nr. 3: Das Nachbargrundstück Copitzer Straße 3 gehörte 1843 dem aus Söbrigen stammenden Gärtner Gottfried Häschel, der es an Moritz Brandt verpachtete. Die Familie nutzte das Gebäude im Schweizerstil als Sommerhaus und erwarb es 1863. Karl Christian Brandt ließ das Areal nach 1863 umgestalten und um einen Gartenpavillon mit Veranda und eine Balustrade unterhalb des Hanges erweitern. Die heutige Villa wurde zwischen 1903 und 1906 errichtet. Bauherr und Eigentümer war Bernhard Friedrich, der durch seine Hochzeit auch das Grundstück Dresdner Straße 155 erworben hatte.
 
-![dampfschiffstraße](../../../nordost/pillnitz/strassen_pillnitz/dampfschiffstraße.jpg)
+## Dampfschiffstraße
 
 ![](../../../nordost/pillnitz/strassen_pillnitz/pillngoldenerlöwe.jpg)Die Dampfschiffstraße verbindet die Lohmener Straße mit der Söbrigener Straße und erhielt ihren Namen nach der an ihrem südlichen Ende gelegenen Dampfschiffsanlegestelle. Markantestes Gebäude ist das früher als Gasthof "Goldener Löwe" genutzte Eckhaus am Abzweig Lohmener Straße. Weitere Gebäude dienten früher der Hofhaltung der Wettiner und beherbergten das Brauhaus (Nr. 2) und das Leibschützenhaus (Nr. 4) des Königlichen Kammergutes Pillnitz.
 

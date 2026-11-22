@@ -145,7 +145,7 @@ Die Gotthardt-Kuehl-Straße wurde im Zusammenhang mit dem Bau von Siedlungshäus
 
 Zu den früheren Bewohnern der Straße gehörte der Maler und Grafiker Hans Peter Möller-Uetersen (1892-1977) (Nr. 8). Möller-Uetersen schuf vor allem Entwürfe für Wandbilder und übernahm die Neugestaltung der Wandflächen im ehemaligen Verwaltungsgebäude der Landesbauernschaft Sachsen an der Ammonstraße. Nach 1945 bezog die Reichsbahndirektion Dresden den Bau und ließ die als unpassend erachteten Wandbilder der NS-Zeit durch Wandfresken mit Motiven zum Verkehr ersetzen. Auch die heute nicht mehr vorhandenen Darstellungen sächsischer Städte in der Mittelhalle des Hauptbahnhofs stammten von Möller-Uetersen.
 
-![grunaer weg](../../../sudost/strehlen/strassen_strehlen/grunaerweg.jpg)
+## Grunaer Weg
 
 ![](../../../sudost/strehlen/strassen_strehlen/strehlenbusdepot.jpg)Der Grunaer Weg führt als Verlängerung der Zwinglistraße bis zur Bahnlinie und von dort parallel zum Bahndamm bis zur Tiergartenstraße. In seinem Verlauf geht er auf einen alten Verbindungsweg zwischen Strehlen und Gruna zurück. Dieser hatte seinen Beginn ursprünglich in der Nähe der Christuskirche, folgte der heutigen Reicker Straße und zweigte dann in Richtung Gruna ab. 1892 erhielt er offiziell seinen heutigen Namen. Neben Kleingärten und einigen Wohnhäusern liegt am Grunaer Weg auch das zentrale Depot der Busse der Dresdner Verkehrsbetriebe mit Wartungs- und Abstellhallen.
 
@@ -163,7 +163,7 @@ An ihrem Ende trifft die [Gustav-Adolf-Straße](../../../sudost/strehlen/strasse
 
 **_Foto:_** _Doppelvilla am Gustav-Adolf-Platz / Julius-Otto-Straße 10_
 
-[![gustav-adolf-straße](../../../sudost/strehlen/strassen_strehlen/gustav-adolf-straße.jpg)](../../../sudost/strehlen/strassen_strehlen/gustav-adolf-strasse/)
+## [Gustav-Adolf-Straße](../../../sudost/strehlen/strassen_strehlen/gustav-adolf-strasse/)
 
 ## Hagedornplatz
 
@@ -217,7 +217,7 @@ Ihren 1888 vergebenen Namen verdankt die Julius-Otto-Straße dem langjährigten 
 
 **_Fotos:_** _Villen in der Julius-Otto-Straße, in der Mitte Nr. 11, rechts Nr. 15_
 
-[![karcherallee](../../../sudost/strehlen/strassen_strehlen/karcherallee.jpg)](../../../ost/gruna/strassen_gruna/karcherallee/)
+## [Karcherallee](../../../ost/gruna/strassen_gruna/karcherallee/)
 
 ## Kerstingstraße
 
@@ -293,7 +293,7 @@ Die Mozartstraße entstand Mitte des 19. Jahrhunderts im Villenviertel an der Ti
 dem Komponisten Wolfgang Amadeus Mozart (1756-1791). Mozart weilte 1785 und 1789 auch für einige Tage in Dresden und gab hier Konzerte. Die Gebäude der Mozartstraße wurden 1945 zum Großteil zerstört, die Straße selbst durch den Bau
 des Zooparkplatzes unterbrochen.
 
-![oskarstraße](../../../sudost/strehlen/strassen_strehlen/oskarstrasse.jpg)
+## Oskarstraße
 
 Die Oskarstraße entstand Ende des 19. Jahrhunderts und wurde 1888 nach dem Strehlener Gutsbesitzer und Gemeindevorstand Oskar Jähnichen (1833-1893) benannt. Jähnichen hatte dieses Amt von 1863 bis zur Eingemeindung des Ortes nach Dresden inne. Unklar ist, warum und ab wann diese Namensgebung auf den schwedischen König Oskar II. (1829-1907) zurückgeführt wird. Der Grund lag vermutlich in den ebenfalls nach schwedischen Persönlichkeiten benannten benachbarten Straßen (Gustav-Adolf-Straße, Wasaplatz).
 
@@ -303,7 +303,7 @@ Das Straßenbild prägen vor allem Villen und Landhäuser, die überwiegend unte
 
 Die als Seitenstraße der Rayskistraße erst nach 1990 angelegte Oskar-Kokoschka-Straße erinnert an den österreichischen Maler und Dramatiker Oskar Kokoschka (1886-1980), der 1916 als Patient des Lahmann-Sanatoriums nach Dresden kam und hier bis 1923 lebte. Kokoschka bemühte sich als jüngster Professor an der Kunstakademie um eine Erneuerung des Kunstbetriebes in Dresden und schuf auch einige Darstellungen der Stadt.
 
-![otto-dix-ring](../../../sudost/strehlen/strassen_strehlen/otto-dix-ring.jpg)
+## Otto-Dix-Ring
 
 Der Otto-Dix-Ring wurde 1980 als ringförmige Erschließungsstraße für das Neubauviertel südlich der Reicker Straße angelegt. Zuvor wurden die Flächen als Feld bzw. von Strehlener Gärtnereibetrieben genutzt. Ihren Namen erhielt die Straße nach dem Maler, Grafiker und Professor an der Dresdner Kunstakademie Otto Dix (1891-1969).
 

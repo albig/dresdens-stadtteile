@@ -191,7 +191,7 @@ Der zweite Straßenabschnitt zwischen Steglichstraße und Hirschleite wurde 1892
 
 Nach der Eingemeindung von Loschwitz wurden beide Straßenabschnitte vereinigt und am 1. Juni 1926 zusammen zur Hietzigstraße. Grund war die Verwechslungsgefahr der Augustusstraße mit einer gleichnamigen Straße im Stadtzentrum
 
-![hirschleite](../../../nordost/loschwitz/strassen_loschwitz/hirschleite.jpg)
+## Hirschleite
 
 Die Straße Hirschleite, eine bereits auf Loschwitzer Flur gelegene Verlängerung des [Lahmannrings](../../../Nordost/Page10246/Strassen_Weisser_Hirsch/Lahmannring/Lahmannring.html), ist erstmals 1897 erwähnt und trug zunächst den Namen Buttergasse. Grund war, dass hier einst die Loschwitzer Butterhändler wohnten, die ihre Waren auf den Dresdner Märkten verkauften. Zuvor hatte sich die Familie Hietzig für den Ausbau der Straße ausgesprochen. Kommerzienrat Bruno Hietzig setzte sich 1915 auch für eine Umbenennung in Hirschleite ein, die zwei Jahre später am 19. Dezember 1917 vollzogen wurde. Der Name ist von einem alten Flurnamen abgeleitet, der auf die Lage am Hang (= Leite) des Weißen Hirschs Bezug nimmt.
 

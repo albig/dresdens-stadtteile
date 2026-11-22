@@ -15,7 +15,7 @@ Talsperre Kauscha:
 
 ![](../../sudost/kauscha/kauschatalsperre.jpg)Die Talsperre Kauscha wurde zwischen 1977 und 1979 angelegt und 1983-1985 nochmals erweitert. Die offizielle Übergabe erfolgte 1985. Hauptsächlich dient die Anlage dem Hochwasserschutz und der Brauchwasserversorgung der Landwirtschaft. Für den Stausee wurde ein Lößlehmdamm errichtet, der den Geberbach anstaut und ca. 0,245 Mio. m³ Stauraum sichert. Außerdem gehören zwei beim Autobahnbau 2005 geschaffene Regenrückhaltebecken zum Stausystem. Über den See verläuft die 228 Meter lange Gebergrundbrücke der Bundesautobahn A 17 Dresden-Prag.
 
-[![kauschaer straßen](../../sudost/kauscha/kauschaer_strassen.jpg)](../../sudost/kauscha/strassen_kauscha/)
+## [Kauschaer Straßen](../../sudost/kauscha/strassen_kauscha/)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

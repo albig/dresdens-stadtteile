@@ -17,7 +17,7 @@ Nr. 1: Am Wohnhaus Nr. 1 errinnerte noch bis 1998 eine Gedenktafel an den viele 
 
 ## [Alttrachau](../../../nordwest/trachau/strassen_trachau/alttrachau/)
 
-![am trachauer bahnhof](../../../nordwest/trachau/strassen_trachau/am_trachauer_bahnhof.jpg)
+## Am Trachauer Bahnhof
 
 ![](../../../trachaubhf.jpg)Die Straße Am Trachauer Bahnhof entstand 1902 als Zufahrt zum neu eingerichteten Haltepunkt Trachau _(Foto um 1903)_ und erhielt deshalb den Namen Bahnhofstraße. Erst im September 1953 wurde sie in Am Trachauer Bahnhof umbenannt.
 
@@ -209,7 +209,7 @@ Die Hildesheimer Straße wurde kurz nach 1900 als Straße XI angelegt und 1904 n
 
 ![](../../../nordwest/trachau/strassen_trachau/karthaus-werbung.jpg)Firma Julius Karthaus & Co: Das Unternehmen wurde 1898 von Julius Karthaus in Pieschen als Fabrikation hölzerner Riemenscheiben gegründet und hatte seinen Sitz zunächst auf der Großenhainer Straße 1a. Bereits ein Jahr später erwarb der Firmengründer ein Grundstück am Bahndamm der Leipzig - Dresdner Eisenbahn und ließ hier auf der Industriestraße 17 neue Fabrikations- und Verwaltungsgebäude errichten und die für die Produktion notwendigen Holzverarbeitungsmaschinen aufstellen. Die Firma Karthaus existierte bis Ende der 1930er Jahre. Danach übernahm der Antriebsketten-Hersteller Ketten-Kittner, offiziell "Carl Kittner - Fabrik für Antriebsketten und Kettenräder" das Areal. Seit 1990 nutzt das Sächsische Umschulungs- und Fortbildungswerk Dresden (SUFW) die Gebäude.
 
-![jubiläumsstraße](../../../nordwest/trachau/strassen_trachau/jubiläumsstraße.jpg)
+## Jubiläumsstraße
 
 Die Jubiläumstraße wurde 1896 in Erinnerung an das in diesem Jahr gefeierte 25-jährige Jubiläum der Gründung des Deutschen Reichs benannt und führt von der Leipziger Straße zu den sogenannten Hufewiesen. 1943 wechselte die Schreibweise in die heute übliche "Jubiläumsstraße". Das Grundstück Jubiläumsstraße 5 wurde vor dem Zweiten Weltkrieg von der 1910 gegründeten Accumulatoren-Fabrik Oscar Müller (AFOM) genutzt.
 
@@ -235,7 +235,7 @@ Nr. 74: Zu den markanten Gebäuden der Trachauer Siedlung gehört das Eckhaus zu
 
 Die Krantzstraße wurde 1935 angelegt und erhielt im Juni dieses Jahres den Namen des Musikwissenschaftlers und Professors für Musik Georg Eugen Krantz (1844-1898). Krantz war ab 1890 Direktor des Dresdner Konservatoriums und schrieb selbst verschiedene Streichquartette, Klavierstücke und Lieder. Die Wohnhäuser an der Krantzstraße 36/38 wurden Ende der 1930 Jahre durch den Gemeinnützigen Bauverein Dresden errichtet. Weitere Häuser folgten 1956/57.
 
-![kronenstraße](../../../nordwest/trachau/strassen_trachau/kronenstraße.jpg)
+## Kronenstraße
 
 Die Kronenstraße verbindet Aachener und Wahnsdorfer Straße und entstand 1899. Ihren Namen erhielt sie nach einer gleichnamigen Straße in Berlin, die Gründe dafür sind unklar. Die Wohnhäuser zwischen Aachener und Böttgerstraße entstanden ab 1927 nach Plänen von Paul Beck für den Gemeinnützigen Bauverein Gartenheim.
 
@@ -251,11 +251,11 @@ Der Lichtenbergweg wurde im März 1935 nach dem deutschen Physiker Georg Christo
 
 
 
-![maria-kirch-straße](../../../nordwest/trachau/strassen_trachau/maria-kirch-straße.jpg)
+## Maria-Kirch-Straße
 
 Die Maria-Kirch-Straße entstand 2017 auf dem Gelände einer ehemaligen Gärtnerei an der Neuländer Straße im Zuge des Baus einer Einfamilienhaussiedlung. Benannt wurde sie nach der Astronomin Maria Margaretha Kirch (1670-1720), die 1702 als erste Frau einen Kometen entdeckte. Trotz dieser Leistung wurde ihr auf Grund ihres Geschlechts eine Stelle an der Akademie der Wissenschaften Berlin verwehrt.
 
-![micktner straße](../../../nordwest/trachau/strassen_trachau/micktner_straße.jpg)
+## Micktner Straße
 
 Die Micktner Straße geht auf einen alten Kommunikationsweg zwischen den Dörfern Trachau und Mickten zurück. In den 1880er Jahren wurde dieser Weg zur Straße ausgebaut und im Anschluss Micktner Straße benannt. Markantestes Gebäude ist der 2014 eingeweihte Neubau der [144\. Grundschule](../../../nordwest/trachau/).
 
@@ -292,7 +292,7 @@ Tabakfabrik Jedicke & Sohn (Nr. 10): Das Unternehmen entstand Ende des 19. Jahrh
 
 Nach 1945 wurden die Gebäude von einem Verpackungsmittelhersteller genutzt und 1953 bzw. 1957 erweitert. Später befand sich hier das Rechenzentrum der Staatlichen Versicherung der DDR. Nach Rückübertragung des Areals 1998 und Verkauf an einen Investor erfolgte ab 2010 der Umbau zu einer Wohnanlage. Das Konzept beinhaltete mehrere Wohnungen für Personen aller Altersgruppen und den Einsatz ökologischer Bauverfahren vor. 2013 erfolgte der Bezug des Mehrgenerationenhauses.
 
-![platanenstraße](../../../nordwest/trachau/strassen_trachau/platanenstraße.jpg)
+## Platanenstraße
 
 ![](../../../nordwest/trachau/strassen_trachau/trachau_platanenstr.jpg)Die Platanenstraße entstand 1895 und erhielt ihren Namen, da sie beim Bau mit Platanen bepflanzt wurde. Zeitgleich begann hier der Bau von Villen und Landhäusern. Im Eckhaus zur Großenhainer Straße (Nr. 1) befand sich einst eine Bäckerei und das Café Engelstädter. Bis heute werden die Räume gastronomisch genutzt. Im gleichen Gebäude betrieb Karl Engelstädter eine Bau- und Möbeltischlerei. Zu den jüngeren Gebäude gehört das Wohnhaus Nr. 20, welches 1941 für den Bauverein Kriegerfamilien-Heim mbH errichtet wurde. Das Bild (rechts) zeigt einen Blick in die Platanenstraße um 1900, links der "Kaffee- und Kuchengarten Engelstädter".
 
@@ -302,7 +302,7 @@ Nach 1945 wurden die Gebäude von einem Verpackungsmittelhersteller genutzt und 
 
 Zu den bemerkenswerten Gebäuden der Rahnstraße gehört das 1892/93 errichtete Wohnhaus Nr. 26 im englischen Landhausstil. Für den Bau verwendete man u. a. Steine, die beim Umbau der Wartburg in Eisenach übrig geblieben waren. Architekten des Gebäudes waren Julius Gäbler und sein Sohn Richard. Weitere Reihenhäuser entstanden in den Jahren nach dem Ersten Weltkrieg.
 
-![reichenberger straße](../../../nordwest/trachau/strassen_trachau/reichenberger_straße.jpg)
+## Reichenberger Straße
 
 Die heutige Reichenberger Straße ist Teilabschnitt eines bereits im Mittelalter bestehenden Weges von Altendresden nach Reichenberg, jetzt ein Ortsteil von Moritzburg. Sie ist somit eine der ältesten Straßen der Gegend und wurde bereits 1495 als "Reicheberger steig" genannt. 1526 findet sich der Name "Reichenberger strasse" in alten Karten. 1898 erfolgte die amtliche Namensgebung.
 
@@ -346,7 +346,7 @@ Der Name der Schedlichstraße, einer 1927 benannten kurzen Seitenstraße der Neu
 
 Die Steinheilstraße in der Trachauer Siedlung erhielt ihren Namen 1935 nach dem Physiker und Mathematiker Carl August von Steinheil (1801-1870). Steinheil besaß in München eine Professur und gründete 1855 die optische Fabrik C. A. Steinheil & Söhne. Hier entwickelte er verschiedene Objektive und gehörte zu den Wegbereitern der modernen Fotografie. Die Wohnhäuser entstanden in den Jahren 1937-38.
 
-![stephanstraße](../../../nordwest/trachau/strassen_trachau/stephanstraße.jpg)
+## Stephanstraße
 
 ![](../../../nordwest/trachau/strassen_trachau/trachau_stephanstr62.jpg)![](../../../nordwest/trachau/strassen_trachau/trachau_stephanstr.jpg)Die Stephanstraße wurde 1896 zur Erschließung des Wohnviertels zwischen Böttgerstraße und Wilder-Mann-Straße (damals noch Moritzburger Straße genannt) angelegt und nach dem Generalpostmeister Heinrich von Stephan (1831-1897) benannt. Stephan gilt als Schöpfer des modernen einheitlichen Postwesens in Deutschland. Das Foto rechts zeigt das Wohnhaus Stephanstraße 62, links die Wohnzeile Nr. 54-58.
 
@@ -376,7 +376,7 @@ Die Trobischstraße in der Trachauer Siedlung erinnert an den Gutsbesitzer Johan
 
 **_Fotos:_** _Reliefs mit Märchenmotiven Rotkäppchen und Die Bremer Stadtmusikanten an der Trobischstraße_
 
-![veteranenstraße](../../../nordwest/trachau/strassen_trachau/veteranenstraße.jpg)
+## Veteranenstraße
 
 Die Veteranenstraße, eine kurze Sackgasse östlich von der Leipziger Straße abgehend, erhielt 1896 ihren Namen in Erinnerung an die Veteranen des Deutsch-Französischen Kriegs 1870/71. Dabei sollte wohl wie auch bei der benachbarten Jubiläumsstraße Bezug auf die Gründung des Deutschen Reichs genommen werden.
 
@@ -389,7 +389,7 @@ Die Wohnhäuser Nr. 27 und 28 gehören zur zwischen 1926 und 1928 entstandenen S
 
 Die Wahnsdorfer Straße im Norden der Trachauer Flur wurde ab 1897 bis zur Eingemeindung des Ortes Kyffhäuserstraße genannt. Ihren jetzigen Namen erhielt sie 1904 nach dem Radebeuler Ortsteil Wahnsdorf.
 
-![weixdorfer straße](../../../nordwest/trachau/strassen_trachau/weixdorfer_straße.jpg)
+## Weixdorfer Straße
 
 Die Weixdorfer Straße entstand kurz vor dem Ersten Weltkrieg und wurde im August 1914 nach dem Ort Weixdorf benannt, der seit 19999 als Ortschaft zu Dresden gehört. Ursprünglich war ein durchgehender Straßenverlauf von der Boxdorfer Straße bis zur Großenhainer Straße vorgesehen, letztlich blieb jedoch ein Stück nur Fußweg, der durch die Kleingartenanlage Erdenglück e.V. führt. Ältestes Gebäude ist das bereits 1896/97 entstandene Mietshaus Nr. 17, welches dem Kaufmann Albert Rollhäuser gehörte und Auftakt zur Bebauung des Viertels um die Burgsdorffstraße war.
 

@@ -478,7 +478,7 @@ und Gerokstraße den Namen Permoserstraße. Eine gleichnamige Straße hatte es v
 (heute Areal Haus der Presse) gegeben. Ihren Namen verdankt sie dem Barockbildhauer Balthasar Permoser (1651-1732),
 welcher ab 1689 als Hofbildhauer in Sachsen tätig war. Permoser schuf u.a. zahlreiche Figuren für den Dresdner Zwinger, die Kanzel der Hofkirche und die Herkulesfiguren im Großen Garten.
 
-![](../../../zentrum/johannstadt/strassen_johannstadt/pfeifferhansstra_e.jpg)
+## Pfeifferhannsstraße
 
 Die Pfeifferhannsstraße im nördlichen Teil der Johannstadt erhielt ihren jetzigen Namen erst 1946\. Zuvor gehörte diese Straße zur
 später durch Überbauung unterbrochenen Stephanienstraße. Der Name knüpft an die volkstümliche Bezeichnung für den Vater

@@ -195,7 +195,7 @@ In dieser Zeit begann auch die Bebauung dieser Straße mit Mietshäusern. Außer
 
 ## [Hechtstraße](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/hechtstrasse/)
 
-![hedwig-langner-weg](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/hedwig-langner-weg.jpg)
+## Hedwig-Langner-Weg
 
 Der Hedwig-Langner-Weg entstand 2015 im Zusammenhang mit einem kleinen Wohngebiet an der Flurgrenze zu Pieschen. Das als "Pieschener Melodien" bezeichnete Viertel liegt zwischen Moritzburger Straße und Konkordienplatz. Benannt wurde der Weg nach der Puppenhändlerin Hedwig Langner (1870-1945), die an der [Bürgerstraße](../../../Nordwest/Pieschen/Strassen_Pieschen/Burgerstrasse/Burgerstrasse.html ) 40 ein Ladengeschäft besaß.
 
@@ -213,7 +213,7 @@ Vor dem Ersten Weltkrieg gab es hier zwei Gaststätten: Das Restaurant "Zum Kuck
 
 Kunstverlag Döge & Adam (Nr. 19): Der Verlag wurde 1910 von Carl August Döge und Ernst Arno Adam gegründet und am 1. Mai ins Handelsregister eingetragen. Adam war zugleich Inhaber einer Ansichtskarten- und Papierwaren-Großhandlung in der Johannstadt (Stephanienstraße 13). Bereits zwei Jahre später trennte er sich jedoch von seinem Geschäftspartner und gründete gemeinsam mit seinem Bruder Rudolf Adam eine eigene Firma, aus der der bis heute bestehende [Ansichtskartenverlag A. & R. Adam](../../../ost/tolkewitz/strassen_tolkewitz/alttolkewitz/adam-ansichtskartenverlag/) hervorging. Carl Döge führte sein Unternehmen fortan allein weiter. Nach seinem Tod 1932 übernahm Sohn Kurt Döge den Verlag, gab diesen jedoch 1939 wegen seiner Einberufung zum Militärdienst auf, womit die Geschichte der Firma endete.
 
-![ilmenauer straße](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/ilmenauer straße.jpg)
+## Ilmenauer Straße
 
 Die Ilmenauer Straße gehört zu den jüngsten Straßen der Leipziger Vorstadt und wurde erst Ende der 1990er Jahre angelegt. Sie zweigt östlich von der Moritzburger Straße ab und erschließt ein kleines Wohngebiet. Ihren Namen erhielt sie in Anlehnung an benachbarte Straßen nach der Stadt Ilmenau in Thüringen.
 
@@ -221,7 +221,7 @@ Die Ilmenauer Straße gehört zu den jüngsten Straßen der Leipziger Vorstadt u
 
 **_Fotos:_** _Neubauten an der Ilmenauer Straße_
 
-![im kleingartenpark](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/im kleingartenpark.jpg)
+## Im Kleingartenpark
 
 Die erst im September 2018 amtlich benannte Straße geht auf einen alten Fußweg zurück, der von der heutigen Johann-Meyer-Straße bis zur Großenhainer Straße führte. Nach 1900 entstanden in diesem Gebiet zahlreiche [Kleingartensparten](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/hansastrasse/), die heute oft als "Hansapark" bezeichnet werden. Mit Errichtung des Pestalozzi-Gymnasiums musste der Weg teilweise verlegt werden und zweigt heute nach einem Knick zum Pestalozziplatz ab. Um den Kleingartenanlagen eine eigene Postanschrift geben zu können erhielt dieser zuvor als "Weg 59" bezeichneten Fuß- und Radweg auf Beschluss des Stadtrates 2018 den Namen Im Kleingartenpark.
 
@@ -239,7 +239,7 @@ Jüngeren Datums sind die Kindertagesstätten in diesem Gebiet. Seit 2010 gibt e
 
 Die Kiefernstraße im nördlichen Teil des Hechtviertels erhielt ihren Namen 1859 nach dem nahegelegenen Waldgebiet und den hier vorkommenden Kiefernbäumen. Auch benachbarte Straßen tragen bis heute Baumnamen. Zahlreiche der Ende des 19. Jahrhunderts entstandenen Gründerzeitwohnhäuser wurden 1945 zerstört, so dass die Kiefernstraße noch bis 2008 weitgehend brach lag. Im Zuge eines in diesem Jahr verabschiedeten Bebauungsplan wurden hier in der Folge mehrere individuell gestaltete moderne Wohnhäuser errichtet. 2009 entstand zunächst die Wohnanlage Kiefernstraße 3-15a, ein Jahr später an Stelle eines früheren Garagenkomplexes die Wohnhäuser Nr. 20 und 22. 2012/13 folgten die Baulücken Nr. 8, 12 und 14 und als jüngstes Bauvorhaben 2018/19 der Neubau Kiefernstraße 17/19.
 
-![königsbrücker platz](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/königsbrücker platz.jpg)
+## Königsbrücker Platz
 
 Der Königsbrücker Platz entstand Mitte des 19. Jahrhunderts als zentraler Platz des Hechtviertels und wurde 1859 nach der Stadt Königsbrück benannt. 1889/91 entstand an der Westseite die 1945 teilweise zerstörte [St.-Pauli-Kirche](../../../neustadt/leipziger_vorstadt/hechtviertel/st_-pauli-kirche/), die seit 1999 als "TheaterRuine St. Pauli" für verschiedene Veranstaltungen genutzt wird.
 
@@ -267,30 +267,30 @@ Nach dem Ersten Weltkrieg übernahm das Gaswerk Reick die Versorgung der gesamte
 
 ![](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/lvgaswerk3.jpg)![](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/lvgaswerk.jpg)![](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/lvgaswerk2.jpg)
 
-![ludwigstraße](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/ludwigstraße.jpg)
+## Ludwigstraße
 
 Die Ludwigstraße entstand 1878 in einem kleinen Wohnviertel nordwestlich der Marienbrücke. Über die Namensgebung ist nichts bekannt, möglicherweise erfolgte diese nach einer Privatperson oder dem thüringischen Landgrafen. Um 1880 entstanden hier mehrstöckige Arbeiterwohnhäuser, die bis heute erhalten sind. Im Eckhaus Nr. 1 gab es um 1890 die Gastwirtschaft "Schiffers Ruhe", gegenüber in der Nr. 2 das Lokal "Zum Hafen".
 
-![marta-fraenkel-straße](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/marta-fraenkel-straße.jpg)
+## Marta-Fraenkel-Straße
 
 Die Marta-Fraenkel-Straße entstand 2019 auf dem Grundstück des ehemaligen Gaswerks Dresden-Neustadt parallel zur Friedensstraße und dient der Erschließung des umgestalteten Areals. U.a. befindet sich hier die Ende August 2020 eröffnete [148\. Grundschule](../../../neustadt/leipziger_vorstadt/). Benannt ist die Straße nach der jüdischen Ärztin Marta Fraenkel )(1896-1976), die u.a. am Aufbau der II. Internationale Hygiene-Ausstellung 1930/31
 beteiligt war und zudem zahlreiche Fachpublikationen verfasste. 1935 flüchtete sie nach Brüssel und emigrierte 1938, wo sie später am Department of Health and Hospitals in New York tätig war.
 
-![medinger weg](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/medinger weg.jpg)
+## Medinger Weg
 
 Der Medinger Weg entstand im Zusammenhang mit der Wohnsiedlung an der Berbisdorfer Straße und wurde gemeinsam mit den benachbarten Straßen am 12. Mai 1927 benannt. Medingen ist ein Ort nördlich von Dresden, der heute als Ortsteil zu Ottendorf-Okrilla gehört.
 
-![moritzburger platz](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/moritzburger platz.jpg)
+## Moritzburger Platz
 
 Der Moritzburger Platz entstand um 1890 am Ende der Moritzburger Straße beim Ausbau der Bahnanlagen und der Unterführung der Bürgerstraße. Die dreieckige Platzanlage wird von mehrgeschossigen Wohnhäusern und dem Damm der Eisenbahn geprägt und erhielt 1898 ihren Namen nach dem Jagdschloss Moritzburg. Im Eckhaus Nr. 5 gab es um 1910 die Gaststätte "Moritzburger Hof". Im etwas abseits des Platzes stehenden Gebäude Nr. 13 befand sich vor dem Zweiten Weltkrieg ein Zweigbetrieb der Berliner Weinessig-, Senf- und Konserven-Fabrik Carl Kühne. 2014 erfolgte im Zusammenhang mit dem Neubau einiger Wohnhäuser eine sackgassenartige Erweiterung der Platzanlage.
 
 ## [Moritzburger Straße](../../../neustadt/leipziger_vorstadt/neudorf/moritzburger_strasse/)
 
-![naunhofer weg](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/naunhofer weg.jpg)
+## Naunhofer Weg
 
 Der Naunhofer Weg im Wohnviertel an der Bärwalder Straße erhielt seine Benennung gemeinsam mit den benachbarten Straßen am 12. Mai 1927. Benannt wurde er nach dem Ort Naunhof, einem Ortsteil von Ebersbach in der Nähe von Großenhain.
 
-![neudorfer weg](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/neudorfer weg.jpg)
+## Neudorfer Weg
 
 Der Neudorfer Weg gehört zu den jüngsten Straßen der Leipziger Vorstadt und liegt in einem 2017 erschlossenen neuen Wohnviertel zwischen Moritzburger Straße und Konkordienplatz. Er erhielt seinen Namen nach dem früheren Ort [Neudorf](../../../neustadt/leipziger_vorstadt/neudorf/), dem eigentlichen Kern der Leipziger Vorstadt. Das hier befindliche Wohngebiet wird als "Pieschener Melodien" bezeichnet
 
@@ -304,16 +304,16 @@ Der Niederauer Platz wurde Ende der 1920er Jahre im Zusammenhang mit dem Bau der
 
 
 
-![niederauer straße](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/niederauer straße.jpg)
+## Niederauer Straße
 
 Die Niederauer Straße im nördlichen Teil der Wohnsiedlung Bärwalder Straße entstand im Zusammenhang mit deren Erschließung Mitte der 1920er Jahre. Sie wurde ab Oktober 1927 zunächst Oberauer Straße genannt. Die an ihrem nördlichen Ende liegende Querstraße erhielt zugleich den Namen Niederauer Straße. Beide Straßennamen nehmen Bezug auf zwei benachbarte Ortschaften in der Nähe von Meißen.
 Bereits wenige Monate später entschied man sich jedoch, die Straßennamen zu tauschen. Grund war der an die heutige Niederauer Straße angrenzende Niederauer Platz.
 
-![oberauer straße](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/oberauer straße.jpg)
+## Oberauer Straße
 
 Die Oberauer Straße wurde gemeinsam wie die von ihr abgehende Niederauer Straße nach einem Ort in der Nähe von Meißen benannt. Nachdem sie im Oktober 1927 zunächst den Namen Niederauer Straße erhalten hatte, entschloss man sich im April 1928 zum Austausch der beiden Straßennamen.
 
-![ottendorfer straße](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/ottendorfer straße.jpg)
+## Ottendorfer Straße
 
 Die Ottendorfer Straße entstand Mitte der 1920er Jahre beim Bau des Wohngebietes an der Bärwalder Straße und wurde am 12. Mai 1927 benannt. Der Name nimmt Bezug auf den Ort Ottendorf, einem der beiden Gemeindeteile von Ottendorf-Okrilla.
 
@@ -321,7 +321,7 @@ Die Ottendorfer Straße entstand Mitte der 1920er Jahre beim Bau des Wohngebiete
 
 Die Ende des 19. Jahrhunderts in der Nähe des Inneren Neustädter Friedhofes angelegte Ottostraße verdankt ihren 1874 vergebenen Namen dem Wettiner Otto dem Reichen (1125-1190), welcher 1156 die Herrschaft von seinem Vater Konrad übernahm. Otto begründete den Weinbau im oberen Elbtal, verlieh Leipzig 1165 das Stadt- und Messerecht und gilt als Wegbereiter des Silberbergbaus im Erzgebirge. Unter seiner Herrschaft entwickelte sich Sachsen zu einem der wirtschaftlich führenden Staaten Deutschlands. Im heutigen Kreuzungsbereich zur Rudolfstraße befanden sich einst die Scheunenhöfe, eine wegen Brandgefahr aus der Inneren Neustadt ausgelagerte landwirtschaftliche Gutsanlage. Noch bis Anfang der 1920er Jahre erinnerte die Gastwirtschaft "Zum Milchviehhof" (Ottostraße 1) an dieses Gut.
 
-![pestalozziplatz](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/pestalozziplatz.jpg)
+## Pestalozziplatz
 
 Der 1910 an Stelle einer früheren Kiesgrube angelegte Platz an der Großenhainer Straße trug ursprünglich den Namen Riesaer Platz, wurde jedoch am 18. Dezember 1945 in Pestalozziplatz umbenannt. Der Name erinnert an den bedeutenden Reformpädagogen Johann Heinrich Pestalozzi (1746-1827), der in seiner 1775 in Birr (Schweiz) gegründeten Erziehungsanstalt neue humanistische Bildungsideale realisierte. Er gilt als Wegbereiter des Volksschulwesens und der modernen Pädagogik.
 
@@ -331,21 +331,21 @@ Der 1910 an Stelle einer früheren Kiesgrube angelegte Platz an der Großenhaine
 
 Um den parkartig gestalteten Pestalozziplatz stehen mehrgeschossige Mietshäuser aus der Zeit um 1900. An der Nordwestseite befand sich früher die beliebte volkstümliche Kneipe "Kanonenschänke", die jedoch schon viele Jahre geschlossen ist. Markantestes Gebäude ist der von Hans Erlwein 1910 entworfene Schulbau der XI. Bürgerschule, der seit 1992 vom [Pestalozzi-Gymnasium](../../../neustadt/leipziger_vorstadt/) genutzt wird. Nach 1945 hatte hier zeitweise die sowjetische Stadtkommandantur ihren Sitz.
 
-![petrikirchstraße](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/petrikirchstraße.jpg)
+## Petrikirchstraße
 
 Die Petrikirchstraße verbindet den Großenhainer Platz mit der Fritz-Reuter- und der Hansatraße und wurde im August 1905 nach der an ihrem Westende befindlichen [St.-Petri-Kirche](../../../neustadt/leipziger_vorstadt/st__petri-kirche/) benannt
 
-![röderauer straße](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/röderauer straße.jpg)
+## Röderauer Straße
 
 Die Röderauer Straße verbindet den Pestalozziplatz mit der Hansastraße und führt unmittelbar am Bahndamm entlang. Am 14. September 1933 wurde die nach dem Ort Röderau bei Riesa, heute ein Ortsteil von Zeithain benannt. Bereits nach der Jahrhundertwende waren hier zwei Kleingartensparten entstanden, 1905 der kleine Verein "Erdkugel e.V. mit 47 Gärten, vier Jahre später der "Kleeblatt e.V." mit ca. 100 Gärten und einem Vereinsheim.
 
-![rosa-steinhart-straße](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/rosa-steinhart-straße.jpg)
+## Rosa-Steinhart-Straße
 
 Die Rosa-Steinhart-Straße wurde im Zusammenhang mit dem Wohnviertel "Pieschener Melodien" zwischen Moritzburger Straße und Konkordienplatz angelegt und am 3. Februar 2015 nach der jüdischen Kauffrau Rosa Steinhart (1885-1943) benannt. Gemeinsam mit ihrem Mann Walter betrieb sie ein Spezialgeschäft für Haus- und Küchengeräte auf der Trachenberger Straße 23. 1942 wurde das Paar von den Nazis in das [Judenlager Hellerberge](../../../nord/) deportiert und am 3. März 1943 im KZ Auschwitz ermordet. Seit 2012 erinnern zwei Stolpersteine vor ihrem ehemaligen Geschäft an das Schicksal der Familie.
 
-[![rudolf-leonhard-strasse](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/rudolf-leonhard-straße.jpg)](../../../Neustadt/Leipziger_Vorstadt/Strassen_Leipziger_Vorstadt/Rudolf-Leonhard-Strasse/rleonhard_strasse.html)
+## [Rudolf-Leonhard-Straße](../../../Neustadt/Leipziger_Vorstadt/Strassen_Leipziger_Vorstadt/Rudolf-Leonhard-Strasse/rleonhard_strasse.html)
 
-![rudolfstraße](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/rudolfstraße.jpg)
+## Rudolfstraße
 
 Die auf dem Gelände der früheren Scheunenhöfe _(Foto)_ gelegene Rudolfstraße wurde ursprünglich ab 1874 Hermannstraße genannt. Vermutlich entstand diese Namensgebung in Bezug auf das im Folgejahr fertiggestellte Hermann-Denkmal in Westfalen. 1893 erhielt sie ihren heutigen Namen, wobei der Namensgeber unbekannt ist. Das Straßenbild prägen mehrstöckige Mietshäuser aus der Zeit um 1905, die im Erdgeschoss meist kleine Läden beherbergen. Im Eckhaus zur Lößnitzstraße (Nr. 2) befand sich viele Jahre die Gaststätte "Goldener Pfeil", deren Räume bis heute von einer Bar gastronomisch genutzt werden. Auch das heute nicht mehr vorhandene Eckhaus Nr. 38 zur Conradstraße war einst Domizil eines Lokals, welches um 1910 als Schankwirtschaft "Zum Mönchshof" firmierte.
 
@@ -355,7 +355,7 @@ Die auf dem Gelände der früheren Scheunenhöfe _(Foto)_ gelegene Rudolfstraße
 
 Die im zweiten Drittel des 19. Jahrhunderts angelegte Schanzenstraße im Hechtviertel erinnert an eine 1813 von napoleonischen Soldaten angelegte Schanze in der Dresdner Heide. Die Befestigungsanlage sollte der Verteidigung der von den Franzosen besetzten Stadt dienen, ist heute jedoch nicht mehr vorhanden. 1859 erhielt die Straße offiziell ihren Namen. Das Straßenbild prägen bis heute Wohnhäuser der Gründerzeit. Im Haus Nr. 3 existierte bereits vor dem Ersten Weltkrieg die Gaststätte "Fridericus-Bräu". Ein weiteres Lokal gab es im Eckhaus zur Buchenstraße (Nr. 27) mit dem Namen "Zur Schanzenburg".
 
-![seifersdorfer straße](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/seifersdorfer straße.jpg)
+## Seifersdorfer Straße
 
 Die Seifersdorfer Straße entstand Mitte der 1920er beim Ausbau des Wohngebietes Bärwalder Straße und bildet den südlichen Abschluss der Siedlung. Ihren Namen erhielt sie am 12. Mai 1927 nach dem Ort Seifersdorf, heute ein Ortsteil von Wachau.
 
@@ -375,7 +375,7 @@ Volkstheater (Nr. 5): Neben Wohn- und Geschäftshäusern gab es an der Windmühl
 
 Die Stöckelstraße entstand in den 1920er Jahren und wurde im März 1927 nach dem Juristen und Vorsteher der Dresdner Stadtverordnetenversammlung Johann Georg Stöckel (1855-1923) benannt. Stöckel war zwischen 1899 und 1919 im Amt und erhielt für seine Verdienste 1915 die Ehrenbürgerwürde der Stadt. Neben seiner kommunalpolitischen Tätigkeit engagierte er sich auch als Aufsichtsrats- und Vorstandsmitglied verschiedener Organisationen, u.a. der Siedlungsgesellschaft Dresden Stadt und Land und der Lingner-Stiftung. Heute befinden sich an der Stöckelstraße Kleingärten.
 
-![uferstraße](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/uferstraße.jpg)
+## Uferstraße
 
 Die Uferstraße, die seit ca. 1840 den früheren Leipziger Bahnhof mit dem Elbufer verband, wurde zunächst An der Elbe genannt. Da es eine gleichnamige Straße jedoch mit dem heutigen Terrassenufer auch in der Altstadt gab, erfolgte 1862 die Umbenennung in Uferstraße. Neben Wohngebäuden siedelten sich auch einige Unternehmen an, u.a. eine Bootsbaufirma, eine Spedition und ein Brennholzgroßhandel. Im Eckhaus zur Hedwigstraße (Nr. 9) gab es vor dem Zweiten Weltkrieg das Hotel "Zu den Bahnhöfen".
 
@@ -401,11 +401,11 @@ Die heutige Weinböhlaer Straße entstand als Verlängerung der Neudorfer Haupts
 
 Rotax-Werk (Nr. 57): Das Unternehmen wurde 1906 von Friedrich Gottschalk als Fahrradteile-Fabrik gegründet. Hergestellt wurden verschiedene Zubehörteile wie Bremsen, Luftreifen und Sättel sowie Spezialkleidung. Im gleichen Jahr meldete er die "Rotax-Freilaufnabe" zum Patent an, eine Weiterentwicklung nach amerikanischem Vorbild. Zugleich wirkte Gottschalk als Förderer des Radsports und war an der Organisation von Radrennen beteiligt. Die wirtschaftlichen Schwierigkeiten des Ersten Weltkriegs führten 1920 zur Umwandlung in eine Aktiengesellschaft, die 1930 an die bekannte Firma Fichtel & Sachs verkauft wurde, was mit einer Verlegung nach Schweinfurt verbunden war. Heute hat die unter dem Traditionsnamen Rotax weitergeführte Motorenproduktion ihren Sitz in Gunskirchen.
 
-![wilschdorfer straße](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/wilschdorfer straße.jpg)
+## Wilschdorfer Straße
 
 Die Wilschdorfer Straße entstand im Rahmen der Erschließung des Wohngebietes Bärwalder Straße und erhielt ihren Namen gemeinsam mit weiteren Straßen des Viertels am 12. Mai 1927. Benannt ist sie nach dem heute zu Dresden gehörenden Ort Wilschdorf.
 
-![würschnitzer weg](../../../neustadt/leipziger_vorstadt/strassen_leipziger_vorstadt/würschnitzer weg.jpg)
+## Würschnitzer Weg
 
 Auch der benachbarte Würschnitzer Weg gehört zu den neu entstandenen Straßen des Wohngebietes Bärwalder Straße. Zeitgleich mit den Nachbarstraßen erhielt er am 12. Mai 1927 seinen Namen nach dem Ort Würschnitz, heute ein Ortsteil von Tauscha.
 

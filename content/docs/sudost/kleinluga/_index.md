@@ -47,7 +47,7 @@ Die Lugschänke, ebenfalls unweit des Lugturms an der Straßenecke Lockwitze
 
 **_Foto:_** _Blick vom Lugberg nach Großluga um 1930 und 2003_
 
-[![kleinlugaer straßen](../../sudost/kleinluga/kleinlugaer_straßen.jpg)](../../Sudost/Grossluga/Strassen_Luga/strassen_luga.html)
+## [Kleinlugaer Straßen](../../Sudost/Grossluga/Strassen_Luga/strassen_luga.html)
 
 [_Weiterführende Literatur und Quellen_](../../impressum/quellenverzeichnis/)
 

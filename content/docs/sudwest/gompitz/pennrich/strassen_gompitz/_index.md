@@ -109,15 +109,15 @@ Briesnitz zu vermeiden, erfolgte 1999 die Umbenennung in Gompitzer Wirtschaftswe
 
 Der Hartwigweg wurde im Zusammenhang mit dem Bau des Wohngebietes An der alten Gärtnerei in Gompitz angelegt. Seinen Namen erhielt er nach dem Baumeister und Politiker Gustav Emil Leberecht Hartwig (1839-1908). Hartwig gehörte viele Jahre dem Dresdner Stadtrat, dem sächsischen Landtag bzw. dem Reichstag als Abgeordneter an und war außerdem bis 1907 Vorsitzender des Dresdner Allgemeinen Hausbesitzervereins. Zudem setzte er sich als Wohltäter für seinen Heimatort Gompitz ein.
 
-![hohlweg](../../../../sudwest/gompitz/pennrich/strassen_gompitz/hohlweg.jpg)
+## Hohlweg
 
 Der bereits vor 1945 existierende Weg hieß früher Emil-Poldrack-Straße und wurde nach dem Zweiten Weltkrieg in Hohlweg umbenannt. Er verbindet die Altnossener Straße und die Ockerwitzer Allee und führt dabei um den alten Dorfkern von Gompitz herum.
 
-![holzmichelweg](../../../../sudwest/gompitz/pennrich/strassen_gompitz/holzmichelweg.jpg)
+## Holzmichelweg
 
 Die als Holzmichelweg bezeichnete kurze Sackgasse führt vom Pennricher Feldrain als Zufahrtsstraße in ein kleines Wohngebiet, das nach 2000 südlich der Altnossener Straße entstand. Obwohl die Straße seit ca. 2013 in verschiedenen Stadtplänen verzeichnet ist und auch ein Straßenschild besitzt, ist sie im amtlichen Dresdner Straßenverzeichnis nicht enthalten.
 
-![hühndorfer weg](../../../../sudwest/gompitz/pennrich/strassen_gompitz/hühndorfer_weg.jpg)
+## Hühndorfer Weg
 
 Der Hühndorfer Weg im Norden des Ortsteils Unkersdorf verbindet diesen mit dem benachbarten Hühndorf, einem Ortsteil von Klipphausen. Die ursprünglich durchführende Verbindungsstraße wurde Mitte der 1990er Jahre durch den Bau der Autobahn A4 unterbrochen.
 

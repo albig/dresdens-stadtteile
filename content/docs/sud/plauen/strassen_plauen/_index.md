@@ -188,7 +188,7 @@ Die Hegerstraße wurde 1888 nach der Plauener Gutsbesitzerwitwe Amalie Wilhelmin
 
 ## [Hofmühlenstraße](../../../sud/plauen/strassen_plauen/hofmuhlenstrasse/)
 
-![hohenplauen](../../../sud/plauen/strassen_plauen/hohenplauen.jpg)
+## Hohenplauen
 
 Die Straße Hohenplauen wurde Anfang der 1930er Jahre parallel zum Westendring im Zusammenhang mit einem kleinen Wohngebiet angelegt. Erstmals wird der Name 1936 im Adressbuch genannt. Die Benennung erfolgte nach einer Flurbezeichnung für den gesamten südlichen Teil Plauens, bedingt durch dessen geografische Lage am Rand des Elbtalkessels.
 
@@ -227,7 +227,7 @@ Gebäude besitzt zwei Wohnungen. Auf dem Nachbargrundstück wurde 1997 ein kirch
 
 
 
-![landsberger straße](../../../sud/plauen/strassen_plauen/landsberger_straße.jpg)
+## Landsberger Straße
 
 ![](../../../sud/plauen/strassen_plauen/plauenlandsbergerstr.jpg)Die Landsberger Straße, eine kleine Verbindungsstraße zwischen Münchner und Nöthnitzer Straße entstand Ende der 1930er Jahre und ist 1940 erstmals im Adressbuch verzeichnet. In Anlehnung an die benachbarten Straßen im "bayrischen Viertel" erhielt sie ihren Namen nach der Stadt Landsberg am Lech.
 
@@ -291,7 +291,7 @@ Im Wohnhaus Reckestraße 5 entstand 1998 die Restauration Kielmannsegge, deren N
 
 
 
-![röhrweg](../../../sud/plauen/strassen_plauen/röhrweg.jpg)
+## Röhrweg
 
 Der heute nicht mehr im Stadtplan verzeichnete Röhrweg verband einst die Wasserstraße (Hofmühlenstraße) mit der heutigen Zwickauer Straße. Der Name erinnerte an die 1542 abgelegte [Hochplauensche Röhrfahrt](../../../sud/plauen/), die noch bis zum Ersten Weltkrieg in Betrieb war und der Wasserversorgung Dresdens diente. Im Zuge der Industrialisierung in dieser Gegend lag der Weg inmitten des Industriegebietes im Norden des Ortes und wurde zudem von der Bahnverbindung nach Chemnitz überquert. Noch 1964 war der Röhrweg, der mitterweile zum Teil auf dem Gelände des [Bahnbetriebswerkes](../../../zentrum/sudvorstadt/strassen_sudvorstadt/zwickauer_strasse/) lag, in den Stadtplänen verzeichnet. Heute wird der verbliebene Teil zur Biedermannstraße gezählt.
 

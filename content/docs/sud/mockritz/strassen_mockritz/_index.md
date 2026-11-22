@@ -80,7 +80,7 @@ Die Busmannstraße wurde 1904 als Albertstraße angelegt und 1990 im Zusammenhan
 Die nach 1990 neu angelegte Caroline-Bardua-Straße wurde nach der Malerin Caroline Bardua (1781-1864) benannt. Sie war
 Schülerin Gerhard von Kügelgens und lebte ab 1808 zeitweise in Dresden. Gemeinsam mit ihrer Schwester Mine schuf sie bei ihren häufigen Reisen vor allem Porträtdarstellungen und Kopien berühmter Gemälde.
 
-[![](../../../sud/caspar-david-friedrich-stra_e.jpg)](../../../sud/zschertnitz/strassen_zschertnitz/caspar-david-friedrich-strasse/)
+## [Caspar-David-Friedrich-Straße](../../../sud/zschertnitz/strassen_zschertnitz/caspar-david-friedrich-strasse/)
 
 
 

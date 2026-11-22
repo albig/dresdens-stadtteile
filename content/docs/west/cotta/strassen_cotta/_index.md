@@ -59,7 +59,7 @@ Die Straße erhielt 1891 zunächst den Namen Florastraße, wurde 1904 jedoch in 
 
 ## [Hamburger Straße](../../../west/cotta/strassen_cotta/hamburger_strasse/)
 
-![hebbelplatz](../../../west/cotta/strassen_cotta/hebbelplatz.jpg)
+## Hebbelplatz
 
 In Anlehnung an die angrenzende Hebbelstraße wurde zwei Jahre später auch der Hebbelplatz am 9. Februar 1906 nach dem Dramatiker und Lyriker Friedrich Hebbel (1813-1863) benannt.
 

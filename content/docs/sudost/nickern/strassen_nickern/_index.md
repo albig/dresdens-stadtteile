@@ -137,7 +137,7 @@ Die kurze Inger-Karén-Straße im Wohnpark Nickern verdankt ihren Namen der Oper
 
 Die 1998 im nördlichen Teil des Wohnparks Nickern angelegte Joseph-Keilberth-Straße erinnert an den Dirigenten und früheren Generalmusikdirektor der Dresdner Staatskapelle Joseph Keilberth (1908-1968). Keilberth war erster Leiter des Orchesters nach 1945 und maßgeblich am Wiederaufbau des Musiklebens in der Stadt beteiligt.
 
-![kautzscher straße](../../../sudost/nickern/strassen_nickern/kautzscher_straße.jpg)
+## Kautzscher Straße
 
 Die Kautzscher Straße entstand 1932 beim Bau der Wohnsiedlung nordwestlich der Fritz-Meinhardt-Straße und verbindet die Schönberg- mit der Elsternstraße. Die 1934 erstmals im Adressbuch genante Straße erhielt ihren Namen nach dem nördlich von Kreischa gelegenen Dorf Kautzsch.
 
@@ -154,7 +154,7 @@ Die Langobardenstraße geht auf einen alten, später durch den Ziegeleibetrieb u
 Nickern und Torna zurück. Nachdem hier Ende des 19. Jahrhunderts zwei germanische Gräber aus dem 6. Jahrhundert entdeckt worden waren, erhielt dieser Weg den Namen Langobardenstraße nach dem germanischen Stamm der
 Langobarden, welcher sich um 500 im oberen Elbtal angesiedelt hatte.
 
-![liesel-von-schuch-straße](../../../sudost/nickern/strassen_nickern/liesel-von-schuch-straße.jpg)
+## Liesel-von-Schuch-Straße
 
 Die Liesel-von-Schuch-Straße entstand als eine der letzten neuen Straßen im Wohnviertel auf dem Areal der ehemaligen [Kaserne](../../../sudost/nickern/kaserne_nickern/) und wurde 2016 nach der Opernsängerin Liesel von Schuch benannt. Elisabeth von Schuch-Ganzel (1891-1990) war Tochter des Dirigenten Ernst von Schuch und gab 1913 ihr Debüt auf der Opernbühne. Bis 1935 gehörte sie dem Ensemble der Sächsischen Staatsoper an und arbeitete nach dem Zweiten Weltkrieg als Gesangspädagogin an der Dresdner Musikhochschule in Dresden. 1988 erhielt sie den Titel einer Ehrenbürgerin von Dresden.
 
@@ -167,7 +167,7 @@ Johann Gottlieb Michaelis (1704-1740). Michaelis war viele Jahre Inspektor des D
 
 Der Nickerner Weg verbindet die Dohnaer Straße mit dem in den Dreißiger Jahren angelegten und nach 1990 zu einem Wohnviertel umgestalteten [Kasernenkomplex](../../../sudost/nickern/kaserne_nickern/) am Ortsrand. Das Areal des Gewerbegebietes zwischen Nickerner Weg und Gebergrund prägen vor allem die Hallen des ehemaligen VEG Obstproduktion Borthen. Aus dem früherem Betriebslokal ging nach 1990 die Gaststätte Obstgarten hervor. Überregional bekannt wurde diese 2009 durch einen Besuch des Sternekochs Christian Rach für dessen TV-Sendung Rach - der Restauranttester. Nach der Insolvenz zum Jahresende übernahmen neue Betreiber das Lokal, welches neben einem großen Biergarten bis zur Schließung auch zu regelmäßigen Tanzveranstaltungen einlud. Heute wird hier nur noch die "Kantine zum Obstgarten" bewirtschaftet.
 
-![osterhausenstraße](../../../sudost/nickern/strassen_nickern/osterhausenstraße.jpg)
+## Osterhausenstraße
 
 Die Osterhausenstraße entstand 2016 im Wohnpark an der ehemaligen Kaserne. Im gegensatz zu vielen benachbarten Straßen entschied man sich bei der Namensgebung nicht für einen Dresdner Musiker, sondern eine mit der Ortsgeschichte verbundene Person. Johann Georg von Osterhausen (1578-1627) war Besitzer der Grundherrschaft Lockwitz und Bauherr des [Schlosses Lockwitz](../../../sudost/lockwitz/schloss_lockwitz/). Zudem ließ er das [Schloss Nickern](../../../sudost/nickern/schloss_nickern/) erweitern.
 

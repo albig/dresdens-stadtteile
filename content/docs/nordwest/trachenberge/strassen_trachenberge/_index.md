@@ -9,7 +9,7 @@ date: 2024-02-17T22:13:36+01:00
 
 Am 8. Februar 1956 wurde die Maria-Anna-Straße nach dem kommunistischen Widerstandskämpfer Albert Hensel (1895-1942) umbenannt. Hensel, geboren in Alttrachau, schloss sich in den 1920er Jahren der kommunistischen Partei an und gehörte seit 1934 zum Führungskreis der Widerstandsgruppe um Fritz Schulze, Karl Stein und Herbert Bochow. 1941 wurde Albert Hensel verhaftet, wenig später zum Tode verurteilt und am 5. Juni 1942 in Berlin-Plötzensee hingerichtet.
 
-[![döbelner straße](../../../nordwest/trachenberge/strassen_trachenberge/döbelner_straße.jpg)](../../../nordwest/trachenberge/strassen_trachenberge/döbelner_strasse/)
+## [Döbelner Straße](../../../nordwest/trachenberge/strassen_trachenberge/döbelner_strasse/)
 
 ## [Großenhainer Straße](../../../neustadt/leipziger_vorstadt/grossenhainer_strasse/)
 
@@ -17,7 +17,7 @@ Am 8. Februar 1956 wurde die Maria-Anna-Straße nach dem kommunistischen Widerst
 
 ![](../../../nordwest/trachenberge/strassen_trachenberge/trab_kaserne.jpg)Die Hellerhofstraße erhielt ihren Namen in den 1920er Jahren nach dem 1894 gegründeten und auch als Eselhof bezeichneten [Hellerhof](../../../nordwest/trachenberge/trachenberge_-_sozialeinrichtu/). Ab 1933 wurde das Gelände als Kaserne und Übungslager von der Waffen-SS genutzt und in diesem Zusammenhang erweitert. So entstand 1933 die Pionierkaserne Wilder Mann (Nr. 35) mit Unterkunfts- und Wirtschaftsgebäuden _(Foto)_. Ab 1937 hatte hier ein SS-Pioniersturmbann sein Domizil, nach Kriegsbeginn weitere Ausbildungs- und Ersatzeinheiten der Waffen-SS und die SRD-Führerschule. In unmittelbarer Nähe entstand 1941 ein Gefangenenlager für sowjetische Zwangsarbeiter, die in den kriegswichtigen Göhle-Werken an der Großenhainer Straße arbeiten mussten. Heute befinden sich auf dem Grundstück verschiedene Gewerbebetriebe. Außerdem haben auf der Hellerhofstraße das Berufsbildungswerk Sachsen (Nr. 21) und das Berufsförderungswerk Dresden (Nr. 35) ihren Sitz.
 
-![kalkreuther straße](../../../nordwest/trachenberge/strassen_trachenberge/kalkreuther_straße.jpg)
+## Kalkreuther Straße
 
 Die Kalkreuther Straße entstand Anfang der 1970er Jahre im Zusammenhang mit einem Neubaugebiet an der Autobahn-Anschlussstelle Wilder Mann. Teilweise entspricht sie in ihrem Verlauf dem früheren Diebsteig bzw. Diebweg. Ihren Namen bekam sie im Oktober 1972 nach dem kleinen Ort Kalkreuth, heute ein Ortsteil von Ebersbach bei Großenhain. Bereits vor Anlage der Straße gab es in diesem Gebiet seit 1947 den Kleingartenverein "Frischer Wind e.V.".
 
@@ -29,7 +29,7 @@ Die Kändlerstraße geht auf einen ehemaligen Weinbergsweg in den Taubischen Ber
 
 **_Foto:_** _Blick in die Kändlerstraße in den 1930er Jahren_
 
-![lauterbacher straße](../../../nordwest/trachenberge/strassen_trachenberge/lauterbacher_straße.jpg)
+## Lauterbacher Straße
 
 Die Lauterbacher Straße entstand Anfang der 1930er Jahre als Verlängerung der Hellerhofstraße bis zur Radeburger Straße. Im September 1934 wurde sie nach dem Ort Lauterbach, heute ein Ortsteil von Ebersbach bei Großenhain gehört.
 
