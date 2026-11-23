@@ -12,10 +12,8 @@ date: 2024-02-17T22:13:41+01:00
 
 **Gemeindesiegel von Gittersee**
 
-[![airline-direct](http://ad.zanox.com/ppv/?10219639C1407666660)](http://ad.zanox.com/ppc/?10219639C1407666660T)
 
 
-![](http://ad.zanox.com/ppv/?19003280C34986470)
 
 * * *
 

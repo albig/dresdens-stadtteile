@@ -5,9 +5,6 @@ date: 2024-02-17T22:13:48+01:00
 
 * * *
 
-[![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/liebigstrasse/evstudentengem.jpg)](http://www.esg-dresden.de)
-
-
 Die Liebigstraße wurde Mitte des 19. Jahrhunderts beim Bau des Schweizer Viertels hinter dem Hauptbahnhof angelegt und nach 1900 im Zusammenhang mit dem weiteren Ausbau der Südvorstadt bis zur Münchner
 Straße verlängert. Ihren Namen erhielt sie nach dem deutschen Chemiker Justus von Liebig (1803-1873). Liebig befasste sich u.a. mit den Prozessen beim Stoffwechsel von Tieren und Pflanzen und begründete die künstliche
 Düngung in der Landwirtschaft. Auch diese Straße war 1945 von Zerstörungen betroffen, so dass heute nur noch teilweise historische Bebauung erhalten geblieben ist. Die meisten Baulücken konnten jedoch bereits in den

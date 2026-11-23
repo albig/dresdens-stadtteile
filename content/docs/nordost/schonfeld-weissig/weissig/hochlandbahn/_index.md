@@ -46,7 +46,6 @@ Domizil der Fußballer der SG Weißig. An Stelle des 1992 abgerissenen Gebäudes
 
 
 
-[![airline-direct 728x90 e](http://ad.zanox.com/ppv/?10219618C220738136)](http://ad.zanox.com/ppc/?10219618C220738136T)
 
 * * *
 

@@ -3,7 +3,6 @@ title: "Krugerstraße"
 date: 2024-02-17T22:13:34+01:00
 ---
 
-[![](../../../../nordost/hauptseiteloschwitz.jpg)](../../../../nordost/loschwitz/)
 
 * * *
 

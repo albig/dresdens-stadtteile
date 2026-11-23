@@ -43,7 +43,6 @@ Zwecken und sind Sitz einer Firma für den Bau von Biertheken.
 
 
 
-[![Générique 468/60](http://ad.zanox.com/ppv/?20271603C850032990)](http://ad.zanox.com/ppc/?20271603C850032990T)
 
 
 

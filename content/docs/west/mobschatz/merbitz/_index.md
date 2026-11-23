@@ -12,9 +12,7 @@ date: 2024-02-17T22:13:46+01:00
 
 **Gemeindesiegel von Merbitz**
 
-![](../../../plz_01156.jpg)
 
-![](http://ad.zanox.com/ppv/?19003280C34986470)
 
 
 

@@ -26,7 +26,6 @@ date: 2024-02-17T22:13:37+01:00
 
 **in Blasewitz**
 
-![](../../bibodd.jpg)
 
 [Bibliothek blasewitz tolkewitzer str. 8 01309 dresden tel. 0351/3400854](http://www.bibo-dresden.de)
 

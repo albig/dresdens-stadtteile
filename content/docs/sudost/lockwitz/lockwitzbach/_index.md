@@ -7,7 +7,6 @@ date: 2024-02-17T22:13:42+01:00
 
 * * *
 
-[![](../../../hauptseiteniedersedlitz.jpg)](../../../ost/niedersedlitz/)
 
 
 Der Lockwitzbach gehört neben der Weißeritz zu den wichtigsten linkselbischen Zuflüssen im Dresdner Stadtgebiet. Seine Quelle befindet sich in ca. 560 Metern Höhe am Kohlberg in der Nähe von Oberfrauendorf im Osterzgebirge. Von dort fließt er über Reinhardtsgrimma und Kreischa in Richtung Elbtal und erreicht in Lockwitz die Dresdner Stadtgrenze. Hier durchquert der Bach die Ortskerne von Lockwitz _(Foto)_ und Niedersedlitz und mündet in Kleinzschachwitz bei Stromkilometer 44,8 in die Elbe. Seine Gesamtlänge beträgt ca. 23,8 Kilometer.

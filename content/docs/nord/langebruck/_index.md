@@ -22,7 +22,6 @@ Ortschaft langebrück (mit schönborn) weißiger str. 5 01465 langebrück  tel. 
 
 **Bildungseinrichtungen in Langebrück:**
 
-[![](../../bibodd.jpg)](http://www.bibo-dresden.de)
 
 [Bibliothek  langebrück weißiger str. 5 01465 langebrück tel. 035201/70263](http://www.bibo-dresden.de)
 

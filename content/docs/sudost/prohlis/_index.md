@@ -30,7 +30,6 @@ Stadtteilbüro prohlis prohliser allee 33  öffnungszeiten: mo. 10-13 uhr di. 13
 
 **in Prohlis:**
 
-![](../../bibodd.jpg)
 
 [Bibliothek prohlis prohliser allee 10 01239 dresden tel. 0351/2841256](http://www.bibo-dresden.de)
 

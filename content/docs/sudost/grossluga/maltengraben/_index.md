@@ -9,9 +9,7 @@ date: 2024-02-17T22:13:41+01:00
 
 
 
-[![](../../../hauptseitelockwitz.jpg)](../../../sudost/lockwitz/)
 
-[![](../../../sudost/grossluga/maltengraben/hauptseitekleinluga.jpg)](../../../sudost/kleinluga/)
 
 
 Der Maltengraben, auch Lugaer Graben genannt, ist ein nur bei Starkregen bzw. Tauwetter wasserführender Graben im Südosten Dresdens. Er beginnt in der Nähe der Orte Röhrsdorf und Wölkau

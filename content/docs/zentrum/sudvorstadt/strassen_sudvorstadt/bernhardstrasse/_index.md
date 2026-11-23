@@ -3,12 +3,8 @@ title: "Bernhardstraße"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-[![](../../../../hauptseiteplauen.jpg)](../../../../sud/plauen/)
 
 * * *
-
-
-
 
 ![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/bernhardstrasse/s_dvbernhardstr29.jpg)Die Bernhardstraße wurde im Zusammenhang mit dem Bau des Schweizer Viertels planmäßig
 angelegt und im nördlichen Teil zunächst mit Villen bebaut _(Foto: Bernhardstraße 29)_. Ihren Namen erhielt sie, ebenso wie die benachbarte [Lindenaustraße](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/), nach dem sächsischen Reformpolitiker Bernhard von Lindenau (1779-1854). Lindenau hatte maßgeblichen Anteil an

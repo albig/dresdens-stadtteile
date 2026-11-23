@@ -14,7 +14,6 @@ date: 2024-02-17T22:13:46+01:00
 
 **Schulen in Stetzsch:**
 
-[![](../../77grundschule.jpg)](http://www.77grundschule.de)
 
 
 ![](stetzsch1.jpg)Das Gebiet um den heutigen Stadtteil Stetzsch war bereits in der Ur- und Frühgeschichte

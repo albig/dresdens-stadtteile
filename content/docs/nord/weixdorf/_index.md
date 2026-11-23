@@ -33,7 +33,6 @@ date: 2024-02-17T22:13:35+01:00
 
 [![](../../nord/weixdorf/msweixdorf.jpg)](http://cms.sn.schule.de/msw)
 
-![](../../bibodd.jpg)
 
 [Bibliothek weixdorf hohenbusch markt 1 01108 dd-weixdorf tel. 0351/8807818](http://www.bibo-dresden.de)
 

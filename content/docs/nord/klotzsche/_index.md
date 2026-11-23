@@ -12,7 +12,6 @@ date: 2024-02-17T22:13:31+01:00
 
 **Gemeindesiegel von Klotzsche**
 
-![](../../nord/plz_01109.jpg)
 
 * * *
 
@@ -24,7 +23,7 @@ date: 2024-02-17T22:13:31+01:00
 
 **Kultureinrichtungen in Klotzsche:**
 
-[![](../../bibodd.jpg)](http://www.bibo-dresden.de)[![bibliothek klotzsche boltenhagener straße 66/68 01109 dresden tel. 0351/8804124](../../nord/klotzsche/a_rectangle_809.gif)](http://www.bibo-dresden.de)
+[![bibliothek klotzsche boltenhagener straße 66/68 01109 dresden tel. 0351/8804124](../../nord/klotzsche/a_rectangle_809.gif)](http://www.bibo-dresden.de)
 
 [![](../../nord/klotzsche/parkhausklotzsche.gif)](http://www.parkhaus-klotzsche.de)
 

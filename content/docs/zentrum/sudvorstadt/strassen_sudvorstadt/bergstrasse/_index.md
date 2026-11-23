@@ -3,7 +3,6 @@ title: "Bergstraße"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-[![](../../../../hauptseiter_cknitz.jpg)](../../../../sud/racknitz/)
 
 * * *
 
@@ -156,7 +155,7 @@ Gasthof Elysium: Das Ausflugs- und Tanzlokal Elysium entwickelte sich au
 
 ![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/bergstrasse/r_cknitzkurmilch2.jpg)Nr. 86: Der historische Dreiseithof entstand vermutlich an Stelle eines älteren Anwesens Anfang des 19. Jahrhunderts. Um 1900 erwarb der Plauener Mühlenbesitzer und Großindustrielle Theodor Bienert den Hof und ließ hier ab 1908 als erster in Dresden keimfreie Milch produzieren und verkaufen. Die sogenannte "Kurmilchanstalt" erhielt dafür in den Gutsgebäuden eine moderne Dampfsterilisieranlage für Milchflaschen sowie eine Tiefkühlanlage. Hinzu kamen Stallungen und Freilaufstände für die Kühe. Nach dem Tod Bienerts wurden die Räume seit Mitte der 1930er Jahre als Wohnungen bzw. an verschiedene Gewerbetreibende vermietet. Der aus zwei Wohnhäusern, den beiden ehemaligen Stallgebäuden, Scheune und Toranlage bestehende Gebäudekomplex steht unter Denkmalschutz und wird heute als Autohaus genutzt.
 
-Chausseehaus Räcknitz:Zur Erhebung der bis 1886 an den großen Ausfallstraßen üblichen Wegegelder entstand 1847 an
+Chausseehaus Räcknitz: Zur Erhebung der bis 1886 an den großen Ausfallstraßen üblichen Wegegelder entstand 1847 an
 der Kreuzung Bergstraße / Kohlenstraße ein Chausseehaus. Nach Abschaffung dieser Gebühren wurde das Gebäude in ein
 Gasthaus umgewandelt. Nach 1945 diente es als Wohnhaus und Schulungsstätte der Gewerkschaft. Zuletzt befand es sich
 in Verwaltung der Fakultät Landtechnik der Technischen Universität. Da das historische Gebäude jedoch zunehmend den Verkehr behinderte, wurde es 1981 abgerissen.

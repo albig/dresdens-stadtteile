@@ -169,7 +169,6 @@ Maunes auch in Pennrich an und waren zeitweise Besitzer des früheren Luckner-Gu
 Die Paul-Breyer-Straße wurde nach einem Gompitzer SED-Funktionär benannt. Paul Breyer (1883-1965) war in der
 Nachkriegszeit Bürgermeister des Ortes. Das Straßenbild dominieren bis heute Einfamilienhäuser, die meist nach 1960 errichtet wurden.
 
-[![airline-direct 468x60 b](http://ad.zanox.com/ppv/?10219614C662543114)](http://ad.zanox.com/ppc/?10219614C662543114T)
 
 ## Schwarmweg
 

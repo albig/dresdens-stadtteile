@@ -3,7 +3,6 @@ title: "Friedenskirche"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-[![](friedenskirche.jpg#floatright)](httsp://www.frieden-hoffnung.de)
 
 ![](l_btfriedenskir.jpg)Da Löbtau bis 1839 zwei verschiedenen Ämtern unterstand, gehörte der Ort kirchlich mit
 seinem nördlichen Teil zur Briesnitzer Kirche und mit dem südlichen Teil zur Dresdner Kreuzkirche. Erst mit dem Zuzug zahlreicher Arbeiterfamilien und dem starken Anstieg der

@@ -3,13 +3,6 @@ title: "Kaitzer Straße"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-[![](../../../../hauptseiteplauen.jpg)](../../../../sud/plauen/)
-
-* * *
-
-
-
-
 ![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/kaitzer_strasse/s_dvkaitzerstr13.jpg)Die nach dem nahegelegenen Dorf Kaitz benannte Kaitzer Straße geht auf die Zeit der Entstehung der Südvorstadt Mitte des 19. Jahrhunderts zurück. 1851 begann die Erschließung des Areals südlich der Bahnlinie durch rechtwinklig verlaufende Straßen, die später bis auf die Höhen von Plauen und Coschütz geführt wurden. Schon bald entstanden hier die ersten Villen. In einem dieser Häuser (Nr. 4) wohnte von 1866 bis 1869 der Schriftsteller Friedrich Gerstäcker (1816-1872), Verfasser zahlreicher Abenteuerromane. Gerstäckers Wohnung war mit exotischen Gegenständen ausgestattet, die er von seinen zahlreichen Reisen mitgebracht hatte. Nach 1945 fiel stand auf dem Grundstück viele Jahre eine vom Deutschen Roten Kreuz genutzte Baracke. Künftig ist hier ein Neubau für das Leibniz-Institut für Polymerforschung mit Arbeitsstätten für Forscher, Bibliothek und Kantine geplant.
 
 Bis zum Ersten Weltkrieg wurde die Kaitzer Straße mit Villen und Mietshäusern bebaut, wobei unterschiedliche Stilformen zur Anwendung kamen _( **Foto:** Kaitzer Str. 13)_. Leider fielen einige dieser Bauten, vor allem im unteren Teil der Straße, der Zerstörung 1945 zum Opfer. Die entstandenen Baulücken wurden Mitte der 1950er und 60er Jahre durch die Wohnungsbaugenossenschaften Glückauf und Süd mit neuen Wohnblocks geschlossen.

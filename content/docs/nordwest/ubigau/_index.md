@@ -12,7 +12,6 @@ date: 2024-02-17T22:13:37+01:00
 
 **Gemeindesiegel von Übigau**
 
-![](../../nordwest/plz_01139.jpg)
 
 **Sonntagsspaziergang zwischen**
 

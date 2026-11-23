@@ -3,16 +3,6 @@ title: "Lukaskirche"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-* * *
-
-Lukaskirche  lukasplatz 01069 dresden tel. 0351/47698-0
-
-[![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/lukaskirche/lukaskirche.jpg)](http://www.lukaskirche.elydia.de)
-
-* * *
-
-
-
 ![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/lukaskirche/s_dvlukaskirche1.jpg)Nachdem die Einwohnerzahl der zuvor zur Kreuzkirche gehörenden Südvorstadt auf über 20.000
 Menschen angestiegen war, entschloss man sich Ende des 19. Jahrhunderts zur Bildung einer eigenen Kirchgemeinde. Bereits ab Oktober 1885 fanden in der Turnhalle der 8. Bürger- und 19.
 Bezirksschule an der Sedanstraße regelmäßige Gottesdienste statt. Am 13. Juli 1888 beschloss der Kirchenvorstand der Kreuzkirche die Bildung einer neuen Gemeinde, zu der neben der

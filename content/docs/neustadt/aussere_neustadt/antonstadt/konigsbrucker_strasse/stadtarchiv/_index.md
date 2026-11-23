@@ -7,7 +7,6 @@ date: 2024-02-17T22:13:31+01:00
 
 
 
-[![](../../../../../neustadt/hauptseitealbertstadt.jpg)](../../../../../neustadt/albertstadt/)
 
 Stadtarchiv dresden  elisabeth-boer-straße 1 01099 dresden tel. 0351/488-1515  stadtarchiv@dresden.de
 

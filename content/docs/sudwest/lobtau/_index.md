@@ -7,7 +7,7 @@ date: 2024-02-17T22:13:44+01:00
 
 {{< figure src="../../sudwest/lobtau/wappl_btau.jpg" class="floatleft" caption="Gemeindesiegel von Löbtau" >}}
 
-![](../../sudwest/lobtau/l_btau5.jpg#floatright "Löbtau") Die Geschichte Löbtaus beginnt mit der Entstehung einer slawischen Siedlung, die
+Die Geschichte Löbtaus beginnt mit der Entstehung einer slawischen Siedlung, die
 bereits 1068 als Liubituwa erstmals erwähnt wurde und zu den ältesten dokumentierten Orten im Elbtal gehört. Archäologische Funde aus der jüngeren
 Steinzeit belegen jedoch eine deutlich frühere Besiedlung des Gebietes. Der Ortsname ist wahrscheinlich von einem slawischen Personennamen abgeleitet
 (Leute des Lubeta) und wechselte im Laufe der Zeit über Luptow (1350), Lobethaw (1589) und Loebta (1759) zum heute üblichen Löbtau. Am 28. Oktober 1068 vergab der deutsche König Heinrich IV. zwei Hufen aus seinem
@@ -108,7 +108,7 @@ Löbtau besaß spätestens ab 1786 einen eigenen Schullehrer, der seinen Unterri
 ![](../../sudwest/lobtau/l_btaudorfschule.jpg)Die dritte Löbtauer Dorfschule _(Foto)_ hatte ihren Standort an der Einmündung Wernerstraße / Lübecker Straße. Im Sommer 1866 wurde mit ihrem Bau begonnen und schon am 8. November 1866 erfolgte die Einweihung. Allerdings konnte auch dieses Schulgebäude nur für wenige Jahre seinen Zweck erfüllen und erwies sich bald als zu klein. Deshalb beschloss der Löbtauer Gemeinderat 1873, einen weiteren Schulneubau zu errichten. Nach dessen Fertigstellung wurde die alte Schule ab 1875 bis 1897 als Gemeindeamt genutzt. Das 1945 beschädigte Gebäude fiel 1990 dem Abriss zum Opfer. Letztes Zeugnis der Löbtauer Dorfschule ist der frühere Schlusstein, der sich heute im Dresdner [Schulmuseum](../../zentrum/friedrichstadt/) befindet.
 
 ### 36\. Volksschule
-![](../../sudwest/lobtau/l_btau_2-b_rgerschule.jpg#floatright)1874 wurde an der Schulstraße (Gröbelstraße 1/3) die neue
+1874 wurde an der Schulstraße (Gröbelstraße 1/3) die neue
 Löbtauer Schule errichtet. Die feierliche Grundsteinlegung erfolgte am 2. Februar 1874. Die Bauausführung übernahm der Plauener Baumeister Fichtner. Das
 Gebäude bestand aus einem Mittel- und zwei Flügelbauten und bot Platz für 22 Klassenräume, ein Lehrerzimmer, Archiv- und Lehrmittelräume sowie Wohnungen für Lehrer und Hausmeister. Zeitweise befand sich hier auch eine
 Gendarmeriestation. Die vier Jahre später entstandene zweistöckige Turnhalle diente von 1879 bis 1891 zugleich als Betsaal der evangelischen Kirchgemeinde,
@@ -121,7 +121,7 @@ _Erinnerung an den 10. Nov. 1883_. Aus diesem Anlass war in unmittelbarer Näh
 ### Bürgerschule Löbtau
 ![](../../sudwest/lobtau/l_btaub_rgerschule.jpg)Ende des 19. Jahrhunderts wurde als weiteres Löbtauer Schulhaus die bis heute erhaltene Wallwitzschule auf der damaligen Wallwitzstraße (heute Clara-Zetkin-Straße 20) eingerichtet. 1899/1900 entstand hier das heute noch vorhandene Schulgebäude _(Foto)_. Das Grundstück, welches ursprünglich zur Errichtung eines Schlachthofes vorgesehen war, wurde von der Gemeinde Löbtau zur Verfügung gestellt. Der am 2. April 1900 eingeweihte imposante Jugendstilbau erhielt neben den Klassenzimmern auch einige Lehrerwohnungen, eine Turnhalle und ein Uhrtürmchen mit Glockenspiel. In einem Nebengebäude befand sich ab 1901 das Löbtauer Volksbad.
 
-![](../../sudwest/lobtau/l_btschule.jpg#floatright)Nach der Eingemeindung des Ortes wurde die Schule als 14. Bürgerschule, ab 1919 als 54.
+Nach der Eingemeindung des Ortes wurde die Schule als 14. Bürgerschule, ab 1919 als 54.
 Volksschule in das Dresdner Schulnetz eingegliedert. Während des Zweiten Weltkrieges diente das Gebäude zeitweise als Flüchtlingsquartier für Wolhyniendeutsche
 und Lazarett. Nach 1945 nutzten die zerstörte 35. und die 54. Volksschule das Gebäude gemeinsam. 1972 erhielt diese Schule den Namen 35. POS Clara Zetkin. Wenig später wurde die 54.
 POS zur Canalettostraße verlegt, während der Löbtauer Bau bis 1990 weiterhin von der 35. POS genutzt wurde. Im Zuge der Neugliederung des sächsischen Schulsystems entstanden 1992 die 35.Grundschule und die 35. Mittelschule, die das Gebäude bis 2011 gemeinsam nutzten. Heute dient es als 35. Oberschule.
@@ -132,7 +132,7 @@ aus Mangel an häuslicher Aufsicht in Gefahr sind, zu verwahrlosen betreut, ei
 In dem nach 1990 renovierten Haus hat heute das Horthaus Lö.We. sein Domizil _(Foto rechts)_.
 
 ### 35\. Volksschule
-![](../../sudwest/lobtau/l_btschule4.jpg#floatright)Diese Schule (Fröbelschule) bestand ab 1888 als dritte Löbtauer Volksschule auf der Lindenstraße (Bünaustraße) 30, wurde jedoch
+Diese Schule (Fröbelschule) bestand ab 1888 als dritte Löbtauer Volksschule auf der Lindenstraße (Bünaustraße) 30, wurde jedoch
 1945 zerstört. Die Grundsteinlegung für den Neubau, entworfen von Baumeister Pohle, fand am 13. März 1888 statt. 1894 folgte noch ein Ergänzungsflügel an der Nordseite des Gebäudes. Neben einer Aula und der
 Wohnung des Schuldirektors gab es im Schulhaus 52 Klassenzimmer sowie Räume für Lehrmittel, Bibliothek und ein Konferenzzimmer. Nach der Eingemeindung Löbtaus wurde die Schule als 1. Bezirksschule, ab 1919 als
 35\. Volksschule bezeichnet. Nach 1945 besuchten die Schüler die benachbarte 54. Volksschule Wallwitzstraße (Clara-Zetkin-Straße). Auf dem Gelände des früheren Schulhauses befindet sich seit 2007 eine Kindertagesstätte.
@@ -189,7 +189,6 @@ Anschluss des Ortes an das Dresdner Gasnetz wurde die Produktion des Gaswerks no
 
 **Stadtteilseiten Löbtau**
 
-[![Logo der Löbtauer Runde](../../sudwest/lobtau/l_btau.jpg "Löbtauer Runde")](https://www.loebtau.org)
 
  \[ [Home](../../index.html)\] \[ [Nord](../../nord/)\] \[ [Nordwest](../../nordwest/)\] \[ [Neustadt](../../neustadt/)\] \[ [Nordost](../../nordost/)\] \[ [West](../../west/)\] \[ [Zentrum](../../zentrum/)\] \[ [Südwest](../../../sudwest/)\] \[ [Süd](../../sud/)\]
  \[ [Südost](../../sudost/)\] \[ [Ost](../../ost/)\] \[ [Register](../../register/)\] \[ [Kontakt](../../kontakt/)\] \[ [Impressum](../../impressum/)\]

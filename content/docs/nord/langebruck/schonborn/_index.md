@@ -12,9 +12,8 @@ date: 2024-02-17T22:13:32+01:00
 
 **Gemeindesiegel von Schönborn**
 
-![](../../../nord/langebruck/schonborn/plz_01465.jpg)
 
-[![](../../../bibodd.jpg)](http://www.bibo-dresden.de)[![bibliothek schönborn seifersdorfer str. 1 01465 dresden](../../../nord/langebruck/schonborn/a_rectangle_1455.gif)](http://www.bibo-dresden.de)
+[![bibliothek schönborn seifersdorfer str. 1 01465 dresden](../../../nord/langebruck/schonborn/a_rectangle_1455.gif)](http://www.bibo-dresden.de)
 
 
 Schönborn wurde 1297 erstmals urkundlich erwähnt und verdankt seinen Namen der Lage an einer Quelle. Der Ort wurde durch fränkische Siedler als Waldhufendorf gegründet und war ursprünglich frei von einer

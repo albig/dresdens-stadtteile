@@ -49,7 +49,6 @@ Neben dem Terminalneubau war bereits zuvor eine 1935 errichtete Flugzeughalle zu
 
 **in Dresden am 4. Juli 2009**
 
-[![airline-direct 728x90 e](http://ad.zanox.com/ppv/?10219618C220738136)](http://ad.zanox.com/ppc/?10219618C220738136T)
 
 * * *
 

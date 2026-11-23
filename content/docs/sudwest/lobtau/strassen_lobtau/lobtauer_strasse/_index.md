@@ -7,7 +7,6 @@ date: 2024-02-17T22:13:44+01:00
 
 
 
-[![](../../../../hauptseitefriedrichstadt.jpg)](../../../../zentrum/friedrichstadt/)
 
 [![](../../../../sudwest/lobtau/strassen_lobtau/lobtauer_strasse/fanprojektdd.jpg)](http://www.fanprojekt-dresden.de)
 

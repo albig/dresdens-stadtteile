@@ -47,7 +47,6 @@ wurde das zuvor gärtnerisch genutzte Gelände an der Clausen-Dahl-Straße mit N
 Die in den Zwanziger Jahren angelegte und heute zweigeteilte Straße erhielt ihren Namen nach dem impressionistischen
 deutschen Maler und Graphiker Lovis Corinth (1858-1925). Die ersten Wohnhäuser entstanden 1928/29 im Bereich Tepltzer Straße. 1976-1980 wurden die verbliebenen Freiflächen mit Neubaublocks bebaut.
 
-[![Die schönsten Reiseziele der Welt - nur einen Klick entfernt!](http://ad.zanox.com/ppv/?9803299C1568906865)](http://ad.zanox.com/ppc/?9803299C1568906865T)
 
 ## [Dohnaer Straße](../../../sudost/strehlen/strassen_strehlen/dohnaer_strasse/)
 

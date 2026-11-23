@@ -7,7 +7,6 @@ date: 2024-02-17T22:13:38+01:00
 
 **Schulen in Meußlitz:**
 
-[![](../../91gsmeu_litz.jpg)](http://www.amsand91.de)
 
 * * *
 

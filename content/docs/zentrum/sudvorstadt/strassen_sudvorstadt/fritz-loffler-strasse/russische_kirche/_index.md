@@ -45,9 +45,6 @@ Geläut durch vier provisorische Neugüsse ersetzt. Nicht zuletzt durch den Zuzu
 Bronzeglocken erworben, welche seitdem wieder im Glockenturm läuten.
 
 
-
-[![](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/fritz-loffler-strasse/russische_kirche/russischekirche.jpg)](http://www.orthodox-dresden.de)
-
 * * *
 
  \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]

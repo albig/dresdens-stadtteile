@@ -3,7 +3,6 @@ title: "Konigsbrucker Landstraße"
 date: 2024-02-17T22:13:32+01:00
 ---
 
-[![](../../../../nord/weixdorf/lausa/hauptseiteweixdorf.jpg)](../../../../nord/weixdorf/)
 
 * * *
 

@@ -3,7 +3,6 @@ title: "Straßen und Plätze in Naußlitz und Wölfnitz"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-[![](../../../sudwest/nausslitz/strassen_nausslitz/hauptseitew_lfnitz2.jpg)](../../../sudwest/wolfnitz/)
 
 ## Alfred-Thiele-Straße
 
@@ -179,7 +178,6 @@ Bauernkrieges Wendel Hipler erinnert. Hipler versuchte, Ritterschaft und Städte
 
 **_Foto:_** _Torhaus zur Siedlung an der Wendel-Hipler-Straße_
 
-[![airline-direct 728x90 e](http://ad.zanox.com/ppv/?10219618C220738136)](http://ad.zanox.com/ppc/?10219618C220738136T)
 
 ## Wiesbadener Straße
 

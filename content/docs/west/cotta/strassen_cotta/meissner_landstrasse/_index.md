@@ -3,16 +3,12 @@ title: "Meissner Landstraße"
 date: 2024-02-17T22:13:45+01:00
 ---
 
-[![](../../../../west/hauptseitebriesnitz.jpg)](../../../../west/briesnitz/)
 
-[![](../../../../west/hauptseitekemnitz.jpg)](../../../../west/kemnitz/)
 
-[![](../../../../west/cotta/strassen_cotta/meissner_landstrasse/hauptseitestetzsch.jpg)](../../../../west/stetzsch/)
 
 * * *
 
 
-[![airline-direct 120x160 c](http://ad.zanox.com/ppv/?10219650C533760410)](http://ad.zanox.com/ppc/?10219650C533760410T)
 
 
 Die Meißner Landstraße verbindet die Dresdner Ortsteile Cotta, Briesnitz, Kemnitz und Stetzsch und gehört zu den wichtigsten Verkehrsverbindungen  im Westen der Stadt. Bereits im Mittelalter war diese

@@ -7,11 +7,8 @@ date: 2024-02-17T22:13:38+01:00
 
 
 
-[![](../../../hauptseiteleubnitz.jpg)](../../../sudost/leubnitz-neuostra/)
 
-[![](../../../hauptseitereick.jpg)](../../../sudost/reick/)
 
-[![](../../../ost/hauptseitegruna.jpg)](../../../ost/gruna/)
 
 ![](../../../ost/striesen/landgraben/strieslandgra.jpg)Der teils natürlich verlaufende, teils künstlich angelegte Landgraben wurde vermutlich um 1300 an
 Stelle eines alten Elbarmes angelegt und diente der Entwässerung der Felder zwischen Leubnitz, Strehlen, Gruna und Striesen. Zugleich wurde er in früheren Zeiten auch als natürlicher

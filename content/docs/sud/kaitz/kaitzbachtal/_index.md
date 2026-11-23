@@ -5,9 +5,7 @@ date: 2024-02-17T22:13:41+01:00
 
 * * *
 
-[![](../../../sud/kaitz/kaitzbachtal/hauptseitemockritz.jpg)](../../../sud/mockritz/)
 
-[![](../../../sud/hauptseitestrehlen.jpg)](../../../sudost/strehlen/)
 
 
 ![](../../../sud/kaitz/kaitzbachtal/kaitztalschänke.jpg)Der Kaitzbach hat eine Gesamtlänge von ca. 12 km und durchquert in seinem Verlauf die südlichen Dresdner Stadtteile Gittersee, Kaitz, Mockritz und Strehlen. Seine Quelle befindet sich in der Nähe des Sportplatzes von Kleinnaundorf, wo er zunächst Grundbach genannt wird. Bis 1995 versorgte er hier das örtliche Freibad mit Wasser, welches jedoch mittlerweile geschlossen und renaturiert wurde. Erst bei Eintritt ins Dresdner Stadtgebiet wird er offiziell als Kaitzbach bezeichnet. In diesem Bereich gab es vor dem Zweiten Weltkrieg die Gaststätte "Talschänke" mit Veranda und einem kleinen Teich _(Foto)_. Das noch erhaltene Gebäude dient heute als Wohnhaus. Unweit davon stehen mehrere Brunnenhäuschen, die früher Grundwasser für die [Felsenkellerbrauerei](../../../sud/plauen/plauenscher_grund/felsenkellerbrauerei/) und die [Bienertmühle](../../../sud/plauen/bienertmuhle/) förderten. Heute sind diese Brunnen nur noch selten in Betrieb.

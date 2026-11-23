@@ -12,7 +12,6 @@ date: 2024-02-17T22:13:36+01:00
 
 **Gemeindesiegel von Mickten**
 
-![](../../nordwest/plz_01139.jpg)
 
 **Sonntagsspaziergang zwischen**
 
@@ -44,7 +43,6 @@ date: 2024-02-17T22:13:36+01:00
 
 ## [9. Oberschule](http://9-oberschule-dresden.de/)
 
-[![144. grundschule am elbepark](../../nordwest/mickten/144_gs.jpg)](https://cms.sachsen.schule/144gsdd/start/)
 
 
 ![](../../nordwest/mickten/mickten3.jpg)![](../../nordwest/mickten/mickten1.jpg)Mickten entstand als slawischer Rundling und wurde 1378 erstmals urkundlich als Migtin (slawisch: Leute des Mikota) erwähnt. Ebenso wie der nur reichlich 100 m entfernte Nachbarort Übigau entstand Mickten auf einer hochwassergeschützten Erhebung am Elbufer. 1421 existierte in der Nähe der heutigen Sternstraße ein Vorwerk, welches sich im Besitz der Dresdner Bürgerfamilie Ziegler befand. Diese verkaufte Mickten 1468 an den Bischof von Meißen. Nach Auflösung des Vorwerks teilte man dessen Fluren unter die Micktener Bauern auf. Noch bis ins 16. Jahrhundert unterschied man zwischen den Dörfern Großmickten und Kleinmickten. Klein-Mickten wurde nach 1529 ebenso wie die Siedlung [Bortzschen](../../nordwest/ubigau/bortzschen/) von seinen Bewohnern verlassen und kam dadurch zu Mickten.

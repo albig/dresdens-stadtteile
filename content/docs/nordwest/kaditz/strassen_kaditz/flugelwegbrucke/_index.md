@@ -3,7 +3,6 @@ title: "Flügelwegbrücke"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-[![](../../../../br_ckenbaulinks.jpg)](http://www.brueckenbau-links.de)
 
 
 

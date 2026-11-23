@@ -12,7 +12,6 @@ date: 2024-02-17T22:13:42+01:00
 
 **Gemeindesiegel von Strehlen**
 
-![](../../sudost/plz_01219.jpg)
 
 * * *
 
@@ -20,7 +19,7 @@ date: 2024-02-17T22:13:42+01:00
 
 **in Strehlen**
 
-![](../../bibodd.jpg)[![bibliothek strehlen im otto-dix-center 01219 dresden tel. 0351/2753665](../../sudost/strehlen/a_rectangle_803.gif)](http://www.bibo-dresden.de)
+[![bibliothek strehlen im otto-dix-center 01219 dresden tel. 0351/2753665](../../sudost/strehlen/a_rectangle_803.gif)](http://www.bibo-dresden.de)
 
 [Homepage der 128. oberschule dresden-strehlen](http://www.dd.shuttle.de/128ms)
 

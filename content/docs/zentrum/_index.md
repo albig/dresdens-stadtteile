@@ -4,10 +4,6 @@ date: 2024-02-17T22:13:36+01:00
 weight: 10
 ---
 
-
-
-
-
 Das Stadtzentrum umfasst im engeren Sinn den historischen Stadtkern, der in seinen Grundzügen bis ins Mittelalter zurückgeht und bis Anfang des 19. Jahrhunderts von einer Wall- und Grabenanlage umgeben war.
 Erst nach deren Niederlegung ab 1820 konnte Dresden über diese Grenze hinauswachsen. Allerdings gab es bereits zuvor vorstädtische Siedlungen außerhalb der Mauern. Deren Einwohner besaßen nur eingeschränkte Rechte und
 gehörten in der Regel den ärmeren Bevölkerungsschichten an. Außerdem durften dort aus strategischen Gründen keine größeren Steingebäude errichtet werden, da diese im Kriegsfall vom Feind als Unterschlupf bei einer

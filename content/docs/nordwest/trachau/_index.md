@@ -12,9 +12,7 @@ date: 2024-02-17T22:13:36+01:00
 
 **Gemeindesiegel von Trachau**
 
-![](../../nordwest/trachau/plz_01129.jpg)
 
-![](../../nordwest/plz_01139.jpg)
 
 * * *
 
@@ -28,9 +26,7 @@ _Siegelmarke der Gemeinde_
 
 [![](../../nordwest/trachau/56gstrachau.jpg)](http://56gs-dresden.de)
 
-[![](../../nordwest/trachau/56_am_trachenberg.jpg)](http://56os-dresden.de)
 
-[![](../../nordwest/trachau/144gstrachau.jpg)](https://cms.sachsen.schule/index.php?id=21949)
 
 
 ![](../../nordwest/trachau/trachau5.jpg)Das von slawischen Siedlern gegründete Trachau wurde 1242 erstmals als Trachennowe erwähnt. Der aus dem mittelhochdeutschen abgeleitete Name bedeutet Ort bei den Drachenbergen und weist auf die Lage im hügligen Gelände hin. Zwischen altem Dorfkern und den Hängen im Norden der Flur bestand einst ein Höhenunterschied von 12 Metern, der infolge der starken Bebauung heute jedoch kaum noch wahrnehmbar ist. Der Ort bestand ursprünglich aus dem Bauerndorf und einem Vorwerk, welches dem Meißner Hochstift gehörte und ab 1541 dem Dresdner Religionsamt unterstellt war.

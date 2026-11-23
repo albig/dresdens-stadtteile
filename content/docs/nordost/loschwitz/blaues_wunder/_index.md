@@ -9,7 +9,6 @@ date: 2024-02-17T22:13:33+01:00
 
 
 
-[![](../../../br_ckenbaulinks.jpg)](http://www.brueckenbau-links.de)
 
 
 ![](../../../nordost/loschwitz/blaues_wunder/blwunder.jpg)Bereits im Jahr 1430 wurde in Loschwitz der erste Elbübergang erwähnt, der in

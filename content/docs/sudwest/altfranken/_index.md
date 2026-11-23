@@ -9,7 +9,7 @@ Altfranken wurde als Aldin Vrankin erstmals in einer Urkunde vom 26. Mai 131
 besaß Anteile an den Dörfern Kaditz, Dölzschen, Naußlitz und Pesterwitz. Der Name wird von eingewanderten fränkischen Bauern abgeleitet, die als Aldionen (= Dienstleute, Fröner) zu bestimmten Dienstpflichten gegenüber
 ihrem Herren verpflichtet waren und im Gegenzug ihre persönliche Freiheit erhielten. Möglicherweise wurde in die Bildung des Straßenangerdorfes ein bereits vorhandener slawischer Rundling einbezogen.
 
-![](../../sudwest/altfranken/altfranken1.jpg#floatright) Altfranken gehörte als Domherrengut bis zur Reformation dem Hochstift
+Altfranken gehörte als Domherrengut bis zur Reformation dem Hochstift
 Meißen, musste jedoch auch an das Amt Dresden Zinsen entrichten. In den Hussitenkriegen wurde das Dorf wahrscheinlich zerstört, schnell jedoch wieder
 aufgebaut. 1517 übertrug Bischof Johann IV. den Ort der Vikarie St. Annen in Meißen. Erst mit der Reformation und der Bildung des Prokuraturamtes Meißen 1581 endete
 die kirchliche Herrschaft in Altfranken. 1616 wurde Michael Gerlach, Prokuraturverwalter des Amtes, als Lehnsherr von Pesterwitz und Altfranken genannt. Einige Jahre später kam das Rittergut in

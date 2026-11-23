@@ -3,13 +3,6 @@ title: "Hohe Straße"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-[![](../../../../hauptseiteplauen.jpg)](../../../../sud/plauen/)
-
-* * *
-
-
-
-
 ![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/hohe_strasse/s_dvhohestr27.jpg)Die Hohe Straße wurde 1852 auf dem Kamm des heute kaum noch wahrnehmbaren Hahneberges angelegt und verläuft von der Bayrischen Straße hinter dem Hauptbahnhof durch die Südvorstadt bis nach Plauen. 1855 erhielt sie offiziell ihren Namen. Der südlich der Bamberger Straße auf Plauener Flur gelegene Abschnitt wurde 1873 ebenfalls Hohe Straße benannt. 1904 folgte die Einbeziehung der früheren Südstraße zwischen Nöthnitzer und Coschützer Straße. Kurz nach der Anlage der Straße entstanden im unteren Abschnitt im sogenannten "Schweizer Viertel" die ersten Villen, denen später großbürgerliche Mietshäuser folgten. Im Zusammenhang mit dem Bau des Hauptbahnhofes wurde 1898 die heute nicht mehr vorhandene Hohe Brücke über die Bahngleise gebaut, welche die Verbindung zur Innenstadt herstellte.
 
 Von der ursprünglichen Bebauung der Hohen Straße hinter dem Bahnhof sind durch die Zerstörungen 1945 und Abrisse in der Nachkriegszeit nur noch wenige Gebäude erhalten geblieben _( **Foto:** Hohe Str. 27)_. Stattdessen entstanden ab 1955 mehrgeschossige Wohnblocks der Wohnungsgenossenschaften Glückauf und Süd. Im oberen Teil auf  Plauener Flur prägen hingegen bis heute Wohnhäuser aus der Zeit um 1900 das Bild.

@@ -5,9 +5,6 @@ date: 2024-02-17T22:13:48+01:00
 
 * * *
 
-Christengemeinschaft - johanneskirche -  reichenbachstr. 30 01069 dresden  tel. 0351/4702621
-
-
 Die Christengemeinschaft wurde 1922 von Friedrich Rittelmeyer in Stuttgart gegründet und ist heute in zahlreichen Ländern Europas, Nord- und Südamerikas sowie in Australien und Neuseeland verbreitet. Die
 Glaubensgemeinschaft gründet ihre Religion auf die Bibel und bezieht sich zugleich auf die Lehren des Anthroposophen Rudolf Steiner, insbesondere auf dessen Glauben an die Wiedergeburt. Im Gegensatz zur katholischen
 Kirche können auch Frauen Priester werden, ein Zölibat gibt es nicht.
@@ -17,10 +14,6 @@ Reichenbachstraße 30, musste dieses jedoch 1941 nach dem Verbot durch die Nazis
 Michaelskapelle in einem Anbau des zur Christengemeinschaft gehörenden Rochwitzer Altersheims geweiht werden konnte. Am 1. Juni 1998 erfolgte schließlich die Grundsteinlegung für ein neues Gemeindezentrum am alten
 Standort auf der Reichenbachstraße. Die Entwürfe für den ein Jahr später vollendeten modernen Neubau stammen von den Architekten Buck und Rex aus Dresden. Das Zentrum besteht aus einer Kirche mit 200 Plätzen sowie einem
 baulich mit dieser verbundenen Gemeindehaus, welches auch für öffentliche Veranstaltungen und Konzerte genutzt wird. Gegenwärtig gehören der Dresdner Christengemeinschaft ca. 1000 Mitglieder an.
-
-
-
-[![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/christengemeinschaft/christengemeinschaft.jpg)](http://www.christengemeinschaft.org/dresden)
 
 * * *
 

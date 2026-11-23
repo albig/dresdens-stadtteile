@@ -14,7 +14,6 @@ date: 2024-02-17T22:13:46+01:00
 
 Ortschaft mobschatz am tummelsgrund 7b 01156 dresden-mobschatz  tel. 0351/4538631  ortschaft-mobschatz @dresden.de
 
-![](../../plz_01156.jpg)
 
 **Mobschatzer Ortsteile**
 

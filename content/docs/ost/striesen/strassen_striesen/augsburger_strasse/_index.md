@@ -7,7 +7,6 @@ date: 2024-02-17T22:13:38+01:00
 
 
 
-[![](../../../../hauptseitejohannstadt.jpg)](../../../../zentrum/johannstadt/)
 
 ![](../../../../ost/striesen/strassen_striesen/augsburger_strasse/striesaugsburgerstr.jpg)Die Augsburger Straße wurde gemäß dem Striesener Bebauungsplan 1860 als Straße C angelegt und erhielt 1893 den Namen der Stadt Augsburg in Bayern. 1905 kam noch der kurzer Abschnitt bis zur Fiedlerstraße auf Johannstädter Flur hinzu. Neben Wohnhäusern und Villen befanden sich hier zahlreiche kleine Geschäfte und Restaurants. Bekannt waren auch die Regina-Lichtspiele auf der Augsburger Straße 12, die 1945 durch Bomben zerstört wurden. Zu den beliebtesten Lokalen gehört das 1903 eröffnete Rübezahl im Haus Nr. 49 _(Foto)_. Aus ideologischen Gründen musste die im altdeutschen Stil ausgestattete Gastwirtschaft in der Nachkriegszeit den Namen Augsburger Hof annehmen. Zu den Stammgästen gehörte später u. a. Manfred Krug. Seit Anfang 2010 wird das Restaurant als Feinschmeckerlokal Spizz weitergeführt.
 
