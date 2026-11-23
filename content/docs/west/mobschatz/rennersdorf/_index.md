@@ -8,7 +8,6 @@ date: 2024-02-17T22:13:46+01:00
 
 
 
-![](../../../plz_01156.jpg)
 
 ![](rennersdorf.jpg)Rennersdorf wurde 1378 erstmals im Verzeichnis der Orte des Amtes Dresden
 als Reymarstorf erwähnt. Der Ortsname geht auf einen Lokator Reinhard oder Reinmar zurück, der den Ort vermutlich im Zusammenhang mit der fränkischen

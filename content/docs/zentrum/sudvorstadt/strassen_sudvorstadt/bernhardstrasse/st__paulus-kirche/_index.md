@@ -23,12 +23,6 @@ Am 6. Dezember 1925 konnte die neue Kirche eingeweiht werden. Wenige Tage späte
 
 Die drei Bronzeglocken im Turm stammen aus den 1950er Jahren und wurden in Apolda gegossen. Ende der 1990er Jahre wurde die St.-Paulus-Kirche saniert. Im Garten des Grundstücks mahnt ein Denkmal an fünf während der NS-Zeit am Münchner Platz hingerichtete polnische katholische Jugendliche und einen Ordensbruder der Steyler Mission, welche 1999 als Märtyrer durch Papst Johannes Paul II. selig gesprochen wurden. Außerdem erinnert eine Gedenkstätte an die Opfer des Bombenangriffs auf Dresden.
 
-
-
-[![](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/bernhardstrasse/st__paulus-kirche/stpauluskirche.jpg)](http://www.st-paulus-dresden.de)
-
-
-
 * * *
 
  \[ [Home](../../../../../index.html)\] \[ [Nord](../../../../../nord/)\] \[ [Nordwest](../../../../../nordwest/)\] \[ [Neustadt](../../../../../neustadt/)\]

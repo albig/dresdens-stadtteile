@@ -3,9 +3,7 @@ title: "Tharandter Straße"
 date: 2024-02-17T22:13:44+01:00
 ---
 
-[![](../../../../hauptseiteplauen.jpg)](../../../../sud/plauen/)
 
-[![](../../../../sud/hauptseitecosch_tz.jpg)](../../../../sud/coschutz/)
 
 * * *
 

@@ -3,7 +3,6 @@ title: "Wasserflugplatz"
 date: 2024-02-17T22:13:47+01:00
 ---
 
-[![airline-direct](http://ad.zanox.com/ppv/?10219639C1407666660)](http://ad.zanox.com/ppc/?10219639C1407666660T)
 
 
 Der Wasserflugplatz Johannstadt wurde 1925 am Elbufer oberhalb der [Albertbrücke](../../../zentrum/johannstadt/albertbrucke/) angelegt. Zuvor hatte es bereits in Österreich-Ungarn regelmäßige

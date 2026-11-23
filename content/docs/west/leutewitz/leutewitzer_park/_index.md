@@ -44,7 +44,6 @@ rekonstruiert werden. 2013 konnte bereits die einst vorhandene Rodelbahn wieder 
 
 
 
-[![airline-direct 728x90 e](http://ad.zanox.com/ppv/?10219618C220738136)](http://ad.zanox.com/ppc/?10219618C220738136T)
 
 
 

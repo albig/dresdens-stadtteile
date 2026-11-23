@@ -65,7 +65,6 @@ Nach Lingners Umzug ins [Lingnerschloss](../../../../nordost/loschwitz/albre
 
 
 
-[![airline-direct 728x90 e](http://ad.zanox.com/ppv/?10219618C220738136)](http://ad.zanox.com/ppc/?10219618C220738136T)
 
 
 

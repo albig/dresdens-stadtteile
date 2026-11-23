@@ -30,7 +30,6 @@ date: 2024-02-17T22:13:37+01:00
 
 [![](../../ost/laubegast/64mittelschule.jpg)](http://www.64ms.de)
 
-[![](../../bibodd.jpg)](http://www.bibo-dresden.de)
 
 [Bibliothek laubegast österreicher str. 61 01279 dresden tel. 0351/2522273](http://www.bibo-dresden.de)
 

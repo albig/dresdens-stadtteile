@@ -14,7 +14,7 @@ date: 2024-02-17T22:13:35+01:00
 
 * * *
 
-![](../../../bibodd.jpg)**Bibliothek Rockau**
+**Bibliothek Rockau**
 
 **Rockauer Ring 15**
 

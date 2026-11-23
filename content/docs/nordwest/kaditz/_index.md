@@ -12,7 +12,6 @@ date: 2024-02-17T22:13:36+01:00
 
 **Gemeindesiegel von Kaditz**
 
-![](../../nordwest/plz_01139.jpg)
 
 **Schulen in Kaditz:**
 

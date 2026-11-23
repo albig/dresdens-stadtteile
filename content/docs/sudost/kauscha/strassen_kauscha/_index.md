@@ -25,7 +25,6 @@ Im Laufe der Zeit wurde das Anwesen zu einem großen Vierseithof ausgebaut. Herz
 
 Der fortschreitende Verfall und ein Brand Anfang der 1990er Jahre führten zum Leerstand. 1994 übernahm der zwei Jahre zuvor gegründete Verein Kinder- und Jugendbauernhof Nickern e. V. die Ruinen und baute den Hof schrittweise wieder auf. Heute bietet der Verein verschiedene Angebote für die Jugendarbeit, für Kindergeburtstage, Familienfeiern und die Möglichkeit, ländliches Leben kennenzulernen. Dazu werden neben Kleintieren auch Schafe und Pferde gehalten.
 
-[![](../../../sudost/kauscha/strassen_kauscha/jugendbauernhof.jpg)](http://www.kinderundjugendbauernhof.de)
 
 ## Fritz-Meinhardt-Straße
 

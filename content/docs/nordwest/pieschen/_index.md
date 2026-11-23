@@ -26,11 +26,10 @@ date: 2024-02-17T22:13:36+01:00
 
 **Bildungseinrichtungen in Pieschen:**
 
-[![](../../bibodd.jpg)](http://www.bibo-dresden.de)[![bibliothek pieschen bürgerstr. 63 01127 dresden tel. 0351/4798538](../../nordwest/pieschen/a_rectangle_113.gif)](http://www.bibo-dresden.de)
+[![bibliothek pieschen bürgerstr. 63 01127 dresden tel. 0351/4798538](../../nordwest/pieschen/a_rectangle_113.gif)](http://www.bibo-dresden.de)
 
 [![homepage der 26. grundschule ](../../nordwest/pieschen/26_grundschule.jpg)](https://cms.sachsen.schule/26gsdd/home/)
 
-[![homepage der mittelschule pieschen - gemeinschaftsschule](../../nordwest/pieschen/oberschule_pieschen.jpg)](https://www.gemeinschaftsschule-pieschen.de/index.php)
 
 [![](../../nordwest/pieschen/pestalozzigym.jpg)](http://www.sn.schule.de/~pesta-dd)
 

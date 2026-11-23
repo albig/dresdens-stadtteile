@@ -16,7 +16,6 @@ date: 2024-02-17T22:13:41+01:00
 
 **Gemeindesiegel von Neuostra**
 
-![](../../sudost/plz_01219.jpg)
 
 * * *
 
@@ -28,7 +27,7 @@ date: 2024-02-17T22:13:41+01:00
 
 [![](../../sudost/leubnitz-neuostra/116mittelschule.jpg)](http://www.116os.de/)
 
-![](../../bibodd.jpg)[![bibliothek leubnitz corinthstraße 8 01219 dresden tel. 0351/4707711](../../sudost/leubnitz-neuostra/a_rectangle_455.gif)](http://www.bibo-dresden.de)
+[![bibliothek leubnitz corinthstraße 8 01219 dresden tel. 0351/4707711](../../sudost/leubnitz-neuostra/a_rectangle_455.gif)](http://www.bibo-dresden.de)
 
 
 ![](../../sudost/leubnitz-neuostra/leubnitz4.jpg)Die Fluren von Leubnitz waren spätestens seit dem 11. Jahrhundert dauerhaft

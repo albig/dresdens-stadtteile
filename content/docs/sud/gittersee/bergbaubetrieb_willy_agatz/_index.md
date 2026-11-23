@@ -3,7 +3,6 @@ title: "Bergbaubetrieb Willy Agatz"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-[![](../../../sud/hauptseitecosch_tz.jpg)](../../../sud/coschutz/)
 
 
 ![](../../../sud/gittersee/bergbaubetrieb_willy_agatz/gitterseeagatz1.jpg)Nachdem die letzten Steinkohleschächte in und um Gittersee bereits in den

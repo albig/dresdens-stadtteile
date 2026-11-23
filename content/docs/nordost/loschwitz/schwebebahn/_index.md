@@ -8,7 +8,6 @@ Technische daten:  streckenlänge: 273,8 m anzahl der stützen: 33 länge des se
 * * *
 
 
-[![airline-direct](http://ad.zanox.com/ppv/?10219639C1407666660)](http://ad.zanox.com/ppc/?10219639C1407666660T)
 
 
 * * *

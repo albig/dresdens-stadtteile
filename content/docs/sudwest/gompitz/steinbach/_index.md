@@ -12,7 +12,6 @@ date: 2024-02-17T22:13:44+01:00
 
 **Gemeindesiegel von Steinbach**
 
-![](../../../plz_01156.jpg)
 
 ![](../../../sudwest/gompitz/steinbach/steinbach1.jpg)Steinbach entstand als Waldhufendorf deutscher Siedler im Quellgebiet des
 Zschonerbaches und wurde 1361 erstmals als Steynbach urkundlich erwähnt. 1378 ist das Dorf im Verzeichnis der Orte des Amtes Dresden aufgeführt. Neben diesem Amt, welches die obere Gerichtsbarkeit besaß,

@@ -28,7 +28,6 @@ Nach Verlegung der Weißeritz und der Verfüllung des ehemaligen Flußbettes lie
 
 
 
-[![airline-direct 468x60 b](http://ad.zanox.com/ppv/?10219614C662543114)](http://ad.zanox.com/ppc/?10219614C662543114T)
 
 
 

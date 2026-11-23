@@ -5,9 +5,6 @@ date: 2024-02-17T22:13:48+01:00
 
 * * *
 
-[![](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/friedrich-list-platz/hochschule_fur_verkehrswesen/htw.jpg)](http://www.htw-dresden.de)
-
-
 Die Hochschule für Verkehrswesen wurde 1950 als verkehrswissenschaftliche Fakultät der Technischen Hochschule gegründet und zwei Jahre später am 8. September 1952 in eine selbständige Hochschule umgewandelt. Als Standort wählte man die Ostseite des Bayrischen Platzes (heute [Friedrich-List-Platz](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/friedrich-list-platz/)). Ein weiterer Teil befand sich am [Fritz-Foerster-Platz](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/) und der Hettnerstraße.
 
 ![](../../../../../zentrum/sudvorstadt/strassen_sudvorstadt/friedrich-list-platz/hochschule_fur_verkehrswesen/htw-hettnerstr.jpg)Die ersten Gebäude der zunächst als Fakultät für Verkehrswissenschaften der Technischen Hochschule geplanten Einrichtung entstanden ab 1951 an Stelle der kriegszerstörten Wohnbebauung zwischen Fritz-Foerster-Platz, Nürnberger Straße und Hettnerstraße. Der Grundstein für diesen Gebäudeteil wurde am 20. April 1951 gelegt. Ein Jahr später konnte der erste Bauabschnitt übergeben werden. Neben Seminarräumen befand sich hier auch die hochschuleigene Bibliothek. Später folgten weitere Lehrgebäude sowie das 1956 eingeweihte Audimax mit 500 Hörsaalplätzen _(Foto)_. Im Treppenhaus befindet sich ein von Alfred Hesse und Erich Gerlach geschaffenes Wandbild, das den Besuch des DDR-Präsidenten Wilhelm Pieck in Dresden zeigt. Die Gesamtleitung für den Bau des Hochschulkomplexes Hettnerstraße oblag den Architekten Walter Henn, Horst Grabner und Hellmuth Francke.

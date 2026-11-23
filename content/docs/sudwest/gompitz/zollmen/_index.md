@@ -12,7 +12,6 @@ date: 2024-02-17T22:13:44+01:00
 
 **Gemeindesiegel von Zöllmen**
 
-![](../../../plz_01156.jpg)
 
 ![](../../../sudwest/gompitz/zollmen/z_llmenerlengrund6.jpg)Das Gebiet um Zöllmen war bereits in der Bronzezeit besiedelt, wie archäologische
 Funde beweisen. Ein 1912 am Wüsteberg gefundenes Beil befindet sich heute in der Sammlung des Heimatmuseums Wilsdruff. 1186 wurde erstmals ein Arnold von

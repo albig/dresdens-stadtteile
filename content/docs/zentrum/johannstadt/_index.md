@@ -5,7 +5,6 @@ date: 2024-02-17T22:13:47+01:00
 
 **Kulturstätten in der Johannstadt**
 
-[![](../../bibodd.jpg)](http://www.bibo-dresden.de)
 
 [Bibliothek  johannstadt fetscherstr. 23 01307 dresden](http://www.bibo-dresden.de)
 

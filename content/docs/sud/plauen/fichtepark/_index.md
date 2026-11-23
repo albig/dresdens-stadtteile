@@ -15,9 +15,7 @@ date: 2024-02-17T22:13:43+01:00
 
 **Do. - So. 10-18 Uhr**
 
-[![](../../../bismarckt_rme.jpg)](http://www.bismarcktuerme.de/ebene4/sachs/ddplau.html)
 
-**Fichteturm** [**www.bismarcktuerme.de**](http://www.bismarcktuerme.de)
 
 
 ![](../../../sud/plauen/fichtepark/plauenparksch_nke.jpg)Der heutige Fichtepark wurde 1890/91 als Westendpark angelegt und am 26.

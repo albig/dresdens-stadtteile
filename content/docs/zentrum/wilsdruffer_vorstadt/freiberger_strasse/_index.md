@@ -3,17 +3,6 @@ title: "Freiberger Straße"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-* * *
-
-
-
-[![](../../../hauptseitel_btau.jpg)](../../../sudwest/lobtau/)
-
-* * *
-
-
-
-
 ![](../../../zentrum/wilsdruffer_vorstadt/freiberger_strasse/wv_freibergerstr.jpg)Die Freiberger Straße verbindet die Wilsdruffer Vorstadt mit dem Stadtteil
 Löbtau und gehörte bereits im Mittelalter zu den wichtigsten Fernverbindungen der Stadt. Ihren Anfang nahm sie am früheren Wilsdruffer Tor (Postplatz) und führte von dort als Freybergische Straße
 ins Erzgebirge. 1564 wurde sie erstmals in den Urkunden erwähnt, ist jedoch bedeutend älter. In der Nähe des Freiberger Platzes befand sich bis ins 19. Jahrhundert der Freibergische Schlag zur Erhebung der Akzise für

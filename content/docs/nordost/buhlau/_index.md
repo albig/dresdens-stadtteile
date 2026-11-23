@@ -22,7 +22,7 @@ _Bühlauer Siegelmarke_
 
 **Bildungseinrichtungen in Bühlau:**
 
-[![](../../bibodd.jpg)](http://www.bibo-dresden.de)[![bibliothek bühlau bautzner landstr. 130 01324 dresden tel. 0351/2687671](../../nordost/buhlau/a_rectangle_1245.gif)](http://www.bibo-dresden.de)
+[![bibliothek bühlau bautzner landstr. 130 01324 dresden tel. 0351/2687671](../../nordost/buhlau/a_rectangle_1245.gif)](http://www.bibo-dresden.de)
 
 [![](../../nordost/buhlau/gymb_hlau.jpg)](http://www.gymnasium-buehlau.de)
 

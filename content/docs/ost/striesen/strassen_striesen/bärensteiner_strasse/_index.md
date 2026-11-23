@@ -3,7 +3,6 @@ title: "Bärensteiner Straße"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-[![](../../../../ost/hauptseitegruna.jpg)](../../../../ost/gruna/)
 
 * * *
 

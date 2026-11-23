@@ -3,13 +3,6 @@ title: "Zwickauer Straße"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-[![](../../../../hauptseiteplauen.jpg)](../../../../sud/plauen/)
-
-* * *
-
-[![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/zwickauer_strasse/ig_bw_altstadt.jpg)](http://www.igbwdresdenaltstadt.de)
-
-
 ![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/zwickauer_strasse/plauenzwickauerstr.jpg)Die Zwickauer Straße wurde auf Plauener Flur bereits Mitte des 19. Jahrhunderts angelegt und ab 1856 Falkenstraße genannt, da sich hier einst eine Falknerei des sächsischen Hofes befand. Um die parallel verlaufende stark frequentierte Chemnitzer Straße zu entlasten, entschloss man sich 1873 zum Ausbau dieser Straße in Richtung Stadtzentrum. Gleichzeitig nahm sie die teilweise vom Mühlenbesitzer Bienert finanzierte Hauptschleuse für die in Plauen anfallenden Abwässer auf. Nach Abtragung des ehemaligen Pfarrgutes in Altplauen begann 1881 die Bebauung der Straße mit Wohnhäusern.
 
 Da das Areal zwischen Chemnitzer Straße und Bahnlinie 1878 als Gewerbegebiet ausgewiesen worden war, siedelten sich an der Falkenstraße zahlreiche Industriebetriebe an. Bekannte Unternehmen waren u.a. die Firmen Kynast (Süßwaren), Riedel & Engelmann

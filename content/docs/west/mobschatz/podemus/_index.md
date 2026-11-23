@@ -12,7 +12,6 @@ date: 2024-02-17T22:13:46+01:00
 
 **Gemeindesiegel von Podemus**
 
-![](../../../plz_01156.jpg)
 
 [![](../../../west/mobschatz/podemus/podemus.gif)](http://www.podemus.de)
 

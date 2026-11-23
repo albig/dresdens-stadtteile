@@ -7,7 +7,6 @@ date: 2024-02-17T22:13:32+01:00
 
 
 
-[![](../../../nord/hauptseitewilschdorf.jpg)](../../../nord/wilschdorf/)
 
 [![](../../../waldmax.jpg)](http://www.fleischereischulze.de)
 

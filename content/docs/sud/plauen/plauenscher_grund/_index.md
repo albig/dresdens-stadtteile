@@ -5,11 +5,8 @@ date: 2024-02-17T22:13:43+01:00
 
 * * *
 
-[![](../../../hauptseited_lzschen.jpg)](../../../sudwest/dolzschen/)
 
-[![](../../../sud/hauptseitecosch_tz.jpg)](../../../sud/coschutz/)
 
-[![](../../../sud/hauptseitegittersee.jpg)](../../../sud/gittersee/)
 
 * * *
 

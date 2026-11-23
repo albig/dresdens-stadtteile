@@ -3,16 +3,6 @@ title: "Zionskirche"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-* * *
-
-Zionskirche bayreuther str. 28 01187 dresden tel. 0351/4010369
-
-[![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/zionskirche/zionskirche.jpg)](http://www.dresden-zionskirche.de)
-
-* * *
-
-
-
 ![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/zionskirche/s_dvzionskirche1.jpg)Im Zuge des weiteren Ausbaus der Südvorstadt nach 1900 plante man hier auch die Errichtung einer neuen Kirche, nachdem sich bereits 1888 die [Lukaskirchgemeinde](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/lukaskirche/) aus der Parochie der Kreuzkirche herausgelöst hatte. Als Standorte waren zunächst der Münchner Platz bzw. das Nürnberger Ei vorgesehen. Ein kurioses Testament des Maschinenbaufabrikanten Johannes Hampel sorgte letztlich für die Entscheidung. Der streng gläubige Katholik hinterließ 1896 ein großes Vermögen, welches jedoch an die Bedingung des Baus einer evangelischen (!) Kirche in der Südvorstadt gebunden war. Außerdem legte Hampel fest, dass sowohl er als auch seine wenige Jahre zuvor verstorbene Ehefrau unter dem Dach dieses Gotteshauses beigesetzt werden sollten.
 
 ![](../../../../zentrum/sudvorstadt/strassen_sudvorstadt/zionskirche/s_dvzionskirche4.jpg)Um die gesetzte Fünf-Jahres-Frist zur Realisierung nicht ungenutzt verstreichen zu lassen, erfolgte bereits am 5. November 1901 die Grundsteinlegung an der Nürnberger Straße / Hohe Straße. Mit den eigentlichen Arbeiten wurde jedoch erst am 27. Juli 1908 begonnen. Für Probleme sorgte Hampels Bestimmung der Grablegung unter dem Kirchendach, da diese zu diesem Zeitpunkt ausschließlich für Mitglieder des Königshauses zulässig war. Die juristischen Untersuchungen und die noch nicht vorhandenen Planungen sorgten zunächst für eine mehrjährige Unterbrechung, bevor das Dresdner Architektenbüro Schilling & Gräbner im Ergebnis eines Wettbewerbes ein tragfähiges Konzept vorlegte. Dieses sah einen Zentralbau mit 1.050 Sitzplätzen vor, welche sich in Form eines Amphitheaters um die in der Mitte befindliche Kanzel gruppierten _(Foto)_. Der Pfarrer predigte somit inmitten seiner Gemeinde. Wegen dieser für den Kirchenbau revolutionären Lösung und der ungewöhnlichen künstlerischen Gestaltung des Innenraumes erregte der Bau großes Aufsehen, aber auch heftige Kritik der Traditionalisten. Für das Ehepaar Hampel fand sich ein Platz unter den Arkaden an der Außenseite, jedoch nicht im Inneren der Kirche. An beide erinnert eine Gedenktafel an der Grundstücksmauer.

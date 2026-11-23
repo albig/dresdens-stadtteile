@@ -5,7 +5,6 @@ date: 2024-02-17T22:13:34+01:00
 
 * * *
 
-[![airline-direct](http://ad.zanox.com/ppv/?10219639C1407666660)](http://ad.zanox.com/ppc/?10219639C1407666660T)
 
 
 ![](../../../../../nordost/page10246/strassen_weisser_hirsch/bautzner_landstrasse/weisser_adler/weiadler.jpg)Ausgangspunkt der Entstehung des Weißen Adlers war ein um 1680 vom

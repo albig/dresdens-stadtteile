@@ -32,7 +32,7 @@ date: 2024-02-17T22:13:44+01:00
 
 **in Gorbitz:**
 
-[![](../../bibodd.jpg)](http://www.bibo-dresden.de)[![bibliothekgorbitz merianplatz 4 01169 dresden tel. 0351/4163416](../../sudwest/gorbitz/a_rectangle_1551.gif)](http://www.bibo-dresden.de)
+[![bibliothekgorbitz merianplatz 4 01169 dresden tel. 0351/4163416](../../sudwest/gorbitz/a_rectangle_1551.gif)](http://www.bibo-dresden.de)
 
 [![](../../sudwest/gorbitz/kinderhausgorbitz.jpg)](http://www.kjh-gorbitz.de)
 

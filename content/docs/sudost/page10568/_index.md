@@ -12,7 +12,6 @@ date: 2024-02-17T22:13:42+01:00
 
 **Gemeindesiegel von Großluga**
 
-![](http://ad.zanox.com/ppv/?19003280C34986470)
 
 
 * * *

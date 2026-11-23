@@ -5,11 +5,9 @@ date: 2024-02-17T22:13:48+01:00
 
 * * *
 
-_in Anbetracht der treuen und nützlichen Dienste, die er dem durchlauchtigsten Kur- haus zu gnädigstem Ge- fallen und seinem guten Ruhme geraume Zeit und_
-_sogar mit Zuset- zung seiner Leibes- gesundheit geleistet_
-
-_hat, wird ihm und allen künftigen Besitzern zu ewigen Zeiten die Befugnis erteilt, eine Schenke außerhalb des Hofes auf dem dazu-_
-_gehörigen und an der Straße gelegenen Feld zu bauen._
+_in Anbetracht der treuen und nützlichen Dienste, die er dem durchlauchtigsten Kurhaus zu gnädigstem Gefallen und seinem guten Ruhme geraume Zeit und_
+_sogar mit Zusetzung seiner Leibesgesundheit geleistet_
+_hat, wird ihm und allen künftigen Besitzern zu ewigen Zeiten die Befugnis erteilt, eine Schenke außerhalb des Hofes auf dem dazu-gehörigen und an der Straße gelegenen Feld zu bauen._
 
 **Aus der Verleihungs- urkunde Johann Georg III. an Dietrich von Bose vom**
 

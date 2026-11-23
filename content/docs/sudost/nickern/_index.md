@@ -18,7 +18,6 @@ date: 2024-02-17T22:13:42+01:00
 
 [![](../../sudost/nickern/kinderhauskreaktiv.jpg)](http://www.kindervereinigung-dresden.de/kinderhaus-kreaktiv/)
 
-[![](../../sudost/nickern/bauernhofnickern.jpg)](http://www.kinderundjugendbauernhof.de)
 
 
 ![](../../sudost/nickern/nickernkreisgrabenanlage.jpg)Bereits im 5. Jahrtausend vor Christi war das Gebiet um Nickern von stein- und bronzezeitlichen Stämmen besiedelt. Bemerkenswerte archäologische Funde brachten Grabungen an der Fritz-Meinhardt-Straße und der Langobardenstraße zu Tage, wo Ende des 19. Jahrhunderts Germanengräber mit wertvollen Grabbeigaben entdeckt wurden. An der heutigen Fritz-Meinhardt-Straße lag einst eine Dorfanlage der bandkeramischen Kultur, wobei die Forschungen hierzu noch nicht abgeschlossen sind. Bereits 1976 waren auf Nickerner Flur jungsteinzeitliche Siedlungsfunde gemacht worden. Gezielte Grabungen erfolgten im Zusammenhang mit dem Bau des Gewerbegebietes an der Dohnaer Straße 1993/94 und im Zuge des Autobahnbaus. Dabei entdeckten die Archäologen Überreste einer aus vier kreisförmigen Gräben mit einem Gesamtdurchmesser von 125 Metern bestehenden Anlage, deren einstige Bedeutung unklar ist. Das Foto (links) zeigt ein Modell diese Anlage.

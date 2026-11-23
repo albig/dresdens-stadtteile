@@ -7,7 +7,6 @@ date: 2024-02-17T22:13:47+01:00
 
 * * *
 
-[![](../../../../zentrum/friedrichstadt/ostragehege/dsc/dsc.jpg)](http://www.dsc-fussball98.de)
 
 
 Der Dresdner Sportclub (DSC) wurde am 30. April 1898 von 20 Fußballspielern gegründet. Als Trainingsgelände dienten in den ersten Jahren die Wiesen des früheren Ostravorwerks, später ein Platz an der

@@ -3,7 +3,6 @@ title: "Oschatzer Straße"
 date: 2024-02-17T22:13:36+01:00
 ---
 
-[![](../../../../br_dergemeinde.jpg)](http://www.dresden.ebu.de)
 
 
 * * *

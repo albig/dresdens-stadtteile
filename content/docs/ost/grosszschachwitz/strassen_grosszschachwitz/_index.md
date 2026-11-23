@@ -3,7 +3,6 @@ title: "Straßen und Plätze in Großzschachwitz und Sporbitz"
 date: 2024-02-17T22:13:37+01:00
 ---
 
-[![](../../../ost/grosszschachwitz/strassen_grosszschachwitz/hauptseitesporbitz2.jpg)](../../../ost/sporbitz/)
 
 ## Alte Straße
 

@@ -3,7 +3,6 @@ title: "Straßburger Platz"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-[![](../../../../hauptseitejohannstadt.jpg)](../../../../zentrum/johannstadt/)
 
 * * *
 

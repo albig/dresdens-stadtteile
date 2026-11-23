@@ -3,7 +3,6 @@ title: "Karlsruher Straße"
 date: 2024-02-17T22:13:41+01:00
 ---
 
-[![](../../../../sud/hauptseitecosch_tz.jpg)](../../../../sud/coschutz/)
 
 * * *
 

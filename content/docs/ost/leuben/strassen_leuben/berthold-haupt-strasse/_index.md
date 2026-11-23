@@ -3,7 +3,6 @@ title: "Berthold-Haupt-Straße"
 date: 2024-02-17T22:13:38+01:00
 ---
 
-[![](../../../../ost/hauptseitekleinzschachwitz.jpg)](../../../../ost/kleinzschachwitz/)
 
 
 Die heutige Berthold-Haupt-Straße geht auf einen ehemaligen Feldweg nach Kleinzschachwitz zurück, der 1897 unter Regie des Leubener Gemeindevorstands Dittrich zur Straße ausgebaut und zunächst Königs-Allee genannt wurde. Bereits 1840 hatte man diesen Weg als Dresden - Pillnitzer Chaussee verbreitert und als Zufahrt zur Elbfähre genutzt. 1925 errichtete die Baugenossenschaft zu Leuben zwischen Königsallee und Pirnaer Landstraße mehrere Wohnhäuser mit über 1500 Wohnungen, welche heute zur Gemeinnützigen Wohnungsbaugenossenschaft Dresden-Ost gehören. Die Straßenbahnstrecke nach Kleinzschachwitz ging 1936 in Betrieb.

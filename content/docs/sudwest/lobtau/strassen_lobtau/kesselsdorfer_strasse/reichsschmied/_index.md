@@ -7,7 +7,6 @@ date: 2024-02-17T22:13:44+01:00
 
 
 
-[![](../../../../../sudwest/hauptseitegorbitz.jpg)](../../../../../sudwest/gorbitz/)
 
 * * *
 

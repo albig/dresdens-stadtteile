@@ -12,7 +12,6 @@ date: 2024-02-17T22:13:35+01:00
 
 **Gemeindesiegel von Weißig**
 
-[![airline-direct](http://ad.zanox.com/ppv/?10219639C1407666660)](http://ad.zanox.com/ppc/?10219639C1407666660T)
 
 
 
@@ -22,7 +21,7 @@ date: 2024-02-17T22:13:35+01:00
 
 **in Weißig:**
 
-[![](../../../bibodd.jpg)](http://www.bibo-dresden.de)[![bibliothek weißig bautzner str. 3 01328 dresden tel. 0351/44487352](../../../nordost/schonfeld-weissig/weissig/a_rectangle_651.gif)](http://www.bibo-dresden.de)
+[![bibliothek weißig bautzner str. 3 01328 dresden tel. 0351/44487352](../../../nordost/schonfeld-weissig/weissig/a_rectangle_651.gif)](http://www.bibo-dresden.de)
 
 [![](../../../nordost/schonfeld-weissig/weissig/gswei_ig.jpg)](http://www.sn.schule.de/~hutbergschule)
 

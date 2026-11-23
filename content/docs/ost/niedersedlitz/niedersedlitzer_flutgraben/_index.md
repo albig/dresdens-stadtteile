@@ -5,9 +5,7 @@ date: 2024-02-17T22:13:38+01:00
 
 * * *
 
-[![](../../../ost/hauptseitedobritz.jpg)](../../../ost/dobritz/)
 
-[![](../../../ost/hauptseitetolkewitz.jpg)](../../../ost/tolkewitz/)
 
 
 * * *

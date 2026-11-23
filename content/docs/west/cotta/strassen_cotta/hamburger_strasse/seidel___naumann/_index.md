@@ -9,7 +9,6 @@ date: 2024-02-17T22:13:45+01:00
 
 
 
-[![](../../../../../hauptseitefriedrichstadt.jpg)](../../../../../zentrum/friedrichstadt/)
 
 * * *
 

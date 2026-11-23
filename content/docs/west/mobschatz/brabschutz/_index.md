@@ -12,7 +12,6 @@ date: 2024-02-17T22:13:46+01:00
 
 **Gemeindesiegel von Brabschütz**
 
-![](../../../plz_01156.jpg)
 
 ![](../../../west/mobschatz/brabschutz/brabsch1.jpg)Brabschütz entstand im 11./12. Jahrhundert als slawischer Rundling und wurde
 1349 erstmals im Lehnsbuch Friedrich des Strengen erwähnt. Der Ortsname, der vermutlich vom Namen des Dorfgründers abgeleitet ist, wechselte mehrfach von

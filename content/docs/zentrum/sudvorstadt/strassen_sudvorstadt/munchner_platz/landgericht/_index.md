@@ -3,17 +3,6 @@ title: "Landgericht Münchner Platz"
 date: 2024-02-17T22:13:48+01:00
 ---
 
-* * *
-
-Gedenkstätte münchner platz  george-bähr-str. 7 01069 dresden  tel. 0351/46331990
-
-[![](gedenkst_ttem_npl.jpg)](http://www.stsg.de)
-
-* * *
-
-
-
-
 ![](s_dvlandgericht1.jpg)Das burgartige Gebäude wurde zwischen 1902 und 1907 als Sitz des Königlichen Landgerichts
 erbaut. Die Entwürfe für den aus mehreren Einzelbauten bestehenden Komplex stammen von Oskar Kramer. Architektonisch orientierte sich der Neubau am bislang dominierenden Historismus
 der Neorenaissance in Verbindung mit der aufkommenden Reformarchitektur. Der plastische Schmuck an der Fassade wurde von Ernst Hottenroth geschaffen und zeigt verschiedene Motive

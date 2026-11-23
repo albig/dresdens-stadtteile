@@ -13,17 +13,8 @@ date: 2024-02-17T22:13:43+01:00
 
 **Do. - So. 10-18 Uhr**
 
-[![](../../../sud/racknitz/bismarcksaule/bismarckturm.jpg)](http://www.bismarckturm-dresden.de)
 
-**Homepage des Fördervereins Bismarckturm Dresden e.V.**
 
-[**www.bismarckturm-dresden.de**](http://www.bismarckturm-dresden.de)
-
-[![](../../../bismarckt_rme.jpg)](http://www.bismarcktuerme.de)
-
-**Private Homepage über die Bismarcktürme in Deutschland und im Ausland**
-
-[**www.bismarcktuerme.de**](http://www.bismarcktuerme.de)
 
 
 Die Idee zur Schaffung einer Bismarcksäule geht auf den 1890 gegründeten Dresdner Bismarck-

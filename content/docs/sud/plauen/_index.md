@@ -18,7 +18,6 @@ date: 2024-02-17T22:13:43+01:00
 
 **in Plauen:**
 
-[![](../../bibodd.jpg)](http://www.bibo-dresden.de)
 
 [Bibliothek plauen altplauen 1 01189 dresden tel. 0351/4121482](http://www.bibo-dresden.de)
 
